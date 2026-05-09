@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 486 |
+| 🍴 **Forks** | 487 |
 | 💻 **Language** | C |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`convolutional-neural-network` `convolutional-neural-networks` `cpu` `inference` `inference-optimization` `matrix-multiplication` `mobile-inference` `multithreading` `neural-network` `neural-networks` `simd`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-XNNPACK is an open-source project developed by Google that provides high-efficiency floating-point neural network inference operators for various platforms, including mobile, server, and web applications. This library offers optimized implementations of neural network operators, enabling faster and more power-efficient execution of machine learning models. By leveraging XNNPACK, developers can improve the performance and energy efficiency of their AI-powered applications.
+Google’s XNNPACK is an open‑source library that provides highly optimized, low‑latency floating‑point neural‑network inference operators for a wide range of platforms—including mobile devices, servers, and WebAssembly runtimes. By leveraging platform‑specific SIMD instructions and cache‑aware algorithms, XNNPACK delivers efficient execution of common deep‑learning layers (convolutions, fully‑connected, pooling, activation functions, etc.) while maintaining a small binary footprint. It serves as a backend component for many machine‑learning frameworks, enabling fast inference without relying on heavyweight GPU or accelerator stacks.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/google/XNNPACK) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/google/XNNPACK) · [← Back to Backend](./README.md)</sub>

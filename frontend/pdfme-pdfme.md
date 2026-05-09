@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 458 |
+| 🍴 **Forks** | 462 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`pdf` `pdf-designer` `pdf-generation` `pdf-generator` `pdf-lib` `pdf-library` `pdf-viewer` `react` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Pdfme is an open-source PDF generation library that utilizes TypeScript and React to provide a powerful and flexible solution for creating custom PDFs. With its user-friendly WYSIWYG template designer and interactive PDF viewer, developers can design and generate PDFs effortlessly in both browser and Node.js environments. This versatile library empowers users to create professional-looking PDFs with ease.
+pdfme is an open‑source TypeScript library that lets developers generate PDFs programmatically in both browser and Node.js environments. It ships with a React‑based WYSIWYG template designer and an integrated PDF viewer, enabling users to craft custom layouts visually and then render them on the fly. The package focuses on ease of use and flexibility, making PDF creation a straightforward part of any frontend or full‑stack project.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/pdfme/pdfme) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pdfme/pdfme) · [← Back to Frontend](./README.md)</sub>

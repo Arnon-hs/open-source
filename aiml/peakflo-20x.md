@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55 |
+| ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `ai-agents` `claude-code` `coding` `electron` `opencode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-peakflo/20x is an open-source project that develops a Self-improving Agent orchestrator designed to enhance knowledge work processes. This AI/ML-based tool automates and optimizes tasks, fostering continuous improvement and efficiency in various knowledge-intensive workflows. Its primary goal is to streamline and augment work processes through intelligent automation and adaptive learning.
+**Peakflo/20x** is an open‑source, self‑improving agent orchestrator designed to automate and coordinate all forms of knowledge work. By leveraging AI/ML techniques, it dynamically manages, optimizes, and scales a network of specialized agents, continuously learning from their interactions to enhance productivity and decision‑making across diverse tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/peakflo/20x) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/peakflo/20x) · [← Back to AI/ML](./README.md)</sub>

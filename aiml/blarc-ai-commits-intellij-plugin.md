@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 802 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 808 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `chatgpt` `claude` `commit` `commit-message` `gemini` `generation` `huggingface` `intellij` `intellij-plugin` `jetbrains`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-The AI Commits IntelliJ plugin is an open-source project that utilizes AI to assist developers with commit suggestions in IntelliJ-based IDEs and Android Studio. This plugin leverages machine learning algorithms to analyze code changes, offer relevant commit messages, and streamline the development process. By automating commit message generation, developers can save time and focus on more complex tasks.
+Blarc/ai-commits-intellij-plugin is an open‑source extension for IntelliJ‑based IDEs, including Android Studio, that leverages artificial intelligence to generate descriptive Git commit messages automatically. By analyzing code changes in real time, the plugin suggests concise, context‑aware commit texts, helping developers maintain a clean and consistent project history with minimal manual effort. It targets both AI/ML enthusiasts and mobile developers looking to streamline their version‑control workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Blarc/ai-commits-intellij-plugin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Blarc/ai-commits-intellij-plugin) · [← Back to AI/ML](./README.md)</sub>

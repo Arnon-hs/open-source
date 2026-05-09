@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 471 |
-| 🍴 **Forks** | 124 |
+| ⭐ **Stars** | 474 |
+| 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-infrastructure` `ai` `ai-agents` `buck2` `decentralised` `git` `google` `hacktoberfest` `monorepo` `p2p` `p2p-git`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-Mega is an open-source implementation of Google Piper, a monorepo engine designed to support the demands of the AI Agent era. This Git-compatible platform aims to provide a scalable and efficient solution for managing large-scale codebases and complex software projects. By leveraging the Mega engine, developers can streamline their workflows and optimize their development processes.
+Mega is an open‑source, Git‑compatible monorepo engine that re‑creates Google’s Piper system, tailored for the emerging AI‑agent workflow. It lets developers manage massive codebases—especially those combining crypto, AI/ML, and frontend components—with fast, scalable version control and tooling. By providing a fully transparent, community‑driven implementation, Mega enables teams to build, test, and deploy AI‑driven applications at scale.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/web3infra-foundation/mega) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/web3infra-foundation/mega) · [← Back to Crypto](./README.md)</sub>

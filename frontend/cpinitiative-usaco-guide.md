@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 631 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithm` `codeforces` `competitive-programming` `cpp` `data-structure` `education` `java` `programming-contests` `python` `usaco`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Data
 
 ## 📝 Summary
 
-The cpinitiative/usaco-guide is an open-source project that offers a comprehensive collection of high-quality resources designed to help individuals improve their competitive programming skills. It provides a structured path from Bronze to Platinum levels and beyond, equipping users with the knowledge and tools necessary to excel in coding challenges. This free resource is ideal for aspiring programmers, seasoned developers, and anyone looking to enhance their coding skills and competitive programming abilities.
+The **cpinitiative/usaco‑guide** repository is an open‑source, community‑maintained collection of high‑quality learning materials for the USACO (USA Computing Olympiad) platform. It curates tutorials, problem sets, editorial videos and tooling resources that help programmers progress from the Bronze division all the way to Platinum and beyond, covering algorithmic concepts, competitive‑programming techniques, and best‑practice development workflows. The guide is organized for easy navigation and is freely available to anyone preparing for competitive programming contests.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/cpinitiative/usaco-guide) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cpinitiative/usaco-guide) · [← Back to Frontend](./README.md)</sub>

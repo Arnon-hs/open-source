@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 378 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 393 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`headless` `idalib` `idapro` `mcp` `mcp-server` `rust` `rust-lang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The blacktop/ida-mcp-rs project is an open-source, headless IDA Pro MCP Server, providing a backend solution for interacting with the IDA Pro disassembler. This server allows for remote control and automation of IDA Pro functionality, making it a valuable tool for reverse engineering and malware analysis workflows. It enables developers to integrate IDA Pro into their existing systems and scripts.
+blacktop/ida-mcp-rs is an open‑source, headless implementation of the IDA Pro Multi‑Client Protocol (MCP) server, enabling remote automation and scripting of IDA without a GUI. Built in Rust, it provides a lightweight, cross‑platform backend that mimics IDA’s MCP interface, allowing developers to integrate IDA’s analysis capabilities into custom tools and CI pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/blacktop/ida-mcp-rs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/blacktop/ida-mcp-rs) · [← Back to Backend](./README.md)</sub>

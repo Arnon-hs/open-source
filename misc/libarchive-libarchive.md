@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 920 |
+| 🍴 **Forks** | 926 |
 | 💻 **Language** | C |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`7zip` `archiving` `backup` `bz2` `cab` `cpio` `gz` `iso9660` `libarchive` `lzma` `posix` `rar`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The libarchive project is an open-source library that provides a comprehensive and flexible solution for working with various archive and compression formats. It supports a wide range of formats, including tar, zip, rar, and more, allowing developers to easily create, extract, and manipulate archives in their applications. With libarchive, developers can write cross-platform code that can handle multiple archive formats with ease.
+Libarchive is a robust, open‑source library that provides a unified API for reading and writing a wide variety of archive formats (such as tar, cpio, zip, ISO, and more) and compression algorithms (including gzip, bzip2, lzma, xz, etc.). It abstracts the complexities of handling different file formats, enabling developers to seamlessly create, extract, and manipulate archives across platforms. The project is actively maintained and widely used in many UNIX‑like systems and software utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/libarchive/libarchive) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/libarchive/libarchive) · [← Back to Misc](./README.md)</sub>

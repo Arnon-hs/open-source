@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 360 |
-| 🍴 **Forks** | 99 |
+| ⭐ **Stars** | 361 |
+| 🍴 **Forks** | 100 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`quantum-computing` `quantum-error-correction` `surface-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the tqec/tqec project:
-
-tqec/tqec is an open-source project that develops software tools for design automation in Topological Quantum Error Correction (TQEC). This project aims to provide a platform for researchers and developers to design, simulate, and optimize TQEC architectures, paving the way for the development of robust and scalable quantum computing systems. By making these tools freely available, the project promotes collaboration and innovation in the field of quantum computing.
+tqec (tqec/tqec) is an open‑source suite of design‑automation tools that streamline the creation, simulation, and optimization of topological quantum error‑correction codes. By providing a high‑level language for specifying lattice geometries and fault‑tolerant logical operations, it enables researchers and engineers to automatically generate the corresponding quantum circuits and resource estimates, accelerating the development of robust quantum hardware.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tqec/tqec) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tqec/tqec) · [← Back to Trading](./README.md)</sub>

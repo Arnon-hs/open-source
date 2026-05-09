@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 124 |
+| ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`action-recognition` `anomaly-detection` `audio-processing` `classification` `depth-estimation` `graph-neural-networks` `image-generation` `llm` `multimodal` `object-detection` `object-tracking` `optical-flow`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The open-source project "isLinXu/paper-list" is an AI/ML tool designed to automatically update a list of papers. It enables researchers and students to stay up-to-date with the latest developments in their field by periodically syncing their paper list with a dynamic database of academic publications. This feature can be particularly useful for those who struggle to manage and maintain a comprehensive list of relevant papers manually.
+isLinXu’s **paper‑list** is a lightweight, open‑source tool that automatically updates and curates collections of research papers. By fetching the latest publications from specified sources and organizing them into a searchable list, it helps AI/ML practitioners stay current with minimal manual effort. The project is designed for easy integration into personal workflows or larger knowledge‑management systems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/isLinXu/paper-list) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/isLinXu/paper-list) · [← Back to AI/ML](./README.md)</sub>

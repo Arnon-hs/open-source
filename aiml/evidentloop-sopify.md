@@ -1,23 +1,23 @@
-# evidentloop/Sopify
+# evidentloop/sopify
 
-[![Stars](https://img.shields.io/github/stars/evidentloop/Sopify?style=flat-square&color=yellow)](https://github.com/evidentloop/Sopify/stargazers) [![Forks](https://img.shields.io/github/forks/evidentloop/Sopify?style=flat-square&color=blue)](https://github.com/evidentloop/Sopify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evidentloop/sopify?style=flat-square&color=yellow)](https://github.com/evidentloop/sopify/stargazers) [![Forks](https://img.shields.io/github/forks/evidentloop/sopify?style=flat-square&color=blue)](https://github.com/evidentloop/sopify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> 按任务复杂度推进 AI 编程流程，让关键决策可追踪、产出质量可验证，并把计划、审查和历史沉淀为项目资产
+> 可恢复、可重确认、可交叉审查，并能沉淀项目记忆的 AI 编程
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 87 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 98 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adaptive-workflow` `ai-agent` `ai-coding` `claude` `codex` `config-driven` `skills`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary of the Sopify project:
-
-Sopify is an open-source project that streamlines the AI programming workflow by prioritizing tasks based on complexity. It enables transparent decision-making, verifiable output quality, and integrates planning, review, and history into project assets, promoting efficiency and accountability. By doing so, Sopify provides a structured approach to AI development.
+evidentloop/sopify is an open‑source AI‑powered programming framework designed for resilient development workflows. It enables code to be automatically restored, re‑validated, and cross‑reviewed, while continuously capturing project knowledge and decisions as reusable memory. By integrating these capabilities, sopify helps teams maintain high‑quality, auditable codebases with minimal manual overhead.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/evidentloop/Sopify) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/evidentloop/sopify) · [← Back to AI/ML](./README.md)</sub>

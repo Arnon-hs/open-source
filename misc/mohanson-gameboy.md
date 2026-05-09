@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emulator` `gameboy` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The mohanson/gameboy project is an open-source, cross-platform GameBoy emulator developed using Rust. This project aims to provide a comprehensive GameBoy emulation experience, allowing users to play classic GameBoy games on various platforms. With its Rust-based implementation, the emulator is designed to be efficient and versatile, making it accessible to a wide range of users.
+mohanson/gameboy is a fully featured, cross‑platform Game Boy emulator written in Rust, aiming for high compatibility and performance while staying true to the original hardware. It supports a wide range of games, offers a clean command‑line interface, and can be compiled for Windows, macOS, and Linux. The project is open‑source and welcomes contributions from the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/mohanson/gameboy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mohanson/gameboy) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 555 |
-| 🍴 **Forks** | 219 |
+| ⭐ **Stars** | 561 |
+| 🍴 **Forks** | 220 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `consensus` `p2p` `runtime` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The commonwarexyz/monorepo project is an open-source repository that hosts a collection of library primitives and examples for building cutting-edge applications in the fields of cryptography and artificial intelligence/machine learning. This monorepo aims to provide a unified platform for developers to access and leverage a wide range of foundational tools and techniques. By contributing to this project, developers can help advance the state of the art in AI/ML and cryptography.
+commonwarexyz/monorepo is a collection of foundational libraries and example implementations that support building crypto‑focused and AI/ML applications. It provides reusable primitives—such as cryptographic utilities, data structures, and model‑training helpers—along with sample projects that demonstrate best practices for integrating these components into larger systems. The repository serves as a shared toolkit for developers looking to accelerate development in the intersecting domains of blockchain technology and machine learning.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/commonwarexyz/monorepo) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/commonwarexyz/monorepo) · [← Back to Crypto](./README.md)</sub>

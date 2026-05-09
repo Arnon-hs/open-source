@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 418 |
+| ⭐ **Stars** | 419 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agi` `autonomous` `decentralize`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "anda":
-
-Anda is an open-source AI agent framework built with Rust, providing a comprehensive toolset for developers to create and orchestrate intelligent agents. This framework enables seamless integration with various front-end applications, making it an ideal choice for AI/ML projects. With Anda, developers can focus on building sophisticated AI solutions without worrying about underlying complexities.
+Ananda is an open‑source AI agent framework written in Rust that lets developers compose, orchestrate, and run intelligent agents with minimal overhead. It provides a modular architecture for building, managing, and scaling AI/ML workflows, and includes frontend integrations for easy interaction and monitoring.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ldclabs/anda) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ldclabs/anda) · [← Back to Orchestration](./README.md)</sub>

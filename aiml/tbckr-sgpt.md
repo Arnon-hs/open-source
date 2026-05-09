@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `anthropic-claude` `bash` `cli` `gemini` `gemini-api` `gemini-pro` `go` `gpt-3` `gpt-4` `gpt-4-vision` `gpt-4-vision-preview`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the tbckr/sgpt project:
-
-SGPT is an open-source, command-line tool that streamlines interaction with OpenAI models, empowering users to execute queries, generate shell commands, and produce code directly from the terminal. With SGPT, developers can leverage the capabilities of OpenAI models to automate tasks and improve productivity. This user-friendly tool is ideal for backend development and AI/ML applications.
+SGPT is a lightweight command‑line utility that lets developers interact with OpenAI’s language models straight from the terminal. It supports natural‑language queries, on‑the‑fly generation of shell commands, and code snippets, making AI‑assisted scripting and development faster and more convenient. Ideal for backend engineers and DevOps users, SGPT streamlines AI‑driven workflows without leaving the command line.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tbckr/sgpt) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tbckr/sgpt) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.1k |
+| ⭐ **Stars** | 25.2k |
 | 🍴 **Forks** | 9.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache` `chat` `collaboration` `electron` `foss` `free` `javascript` `python` `python3` `react-native` `slack` `zulip`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Mobile
 
 ## 📝 Summary
 
-Zulip is an open-source team chat platform designed to help teams stay productive and focused. This collaborative project provides a robust server and web application, facilitating seamless communication and collaboration among team members. With its open-source nature, Zulip enables customization and adaptation to meet the unique needs of various teams and organizations.
+Zulip is an open‑source team chat platform that combines a powerful server backend with a modern web and mobile client, enabling real‑time threaded conversations and organized discussions. Its scalable architecture supports both frontend (React) and backend (Python/Django) components, making it suitable for self‑hosted deployments and integration into existing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zulip/zulip) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/zulip/zulip) · [← Back to Frontend](./README.md)</sub>

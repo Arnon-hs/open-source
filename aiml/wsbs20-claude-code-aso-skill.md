@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aeo` `agentic-framework` `android` `app-store-optimization` `appstore` `claude-ai` `claude-code` `claude-skill` `ios` `playstore`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile · Marketing
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the project:
-
-This project, Claude Code ASO Skill, utilizes AI agents to optimize App Store visibility within the Claude Code framework. By leveraging AI-driven insights, developers can enhance app performance, drive growth, and improve overall visibility on the App Store. This open-source project combines AI and marketing expertise to streamline app optimization.
+The **wsbs20/claude-code-aso-skill** project provides a set of Claude Code AI agents designed to boost App Store Optimization (ASO) by automating keyword research, metadata generation, and performance analysis. Integrated into the Claude Code framework, the skill helps mobile developers and marketers improve app visibility, increase downloads, and drive growth through data‑driven, AI‑powered recommendations.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/wsbs20/claude-code-aso-skill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/wsbs20/claude-code-aso-skill) · [← Back to AI/ML](./README.md)</sub>

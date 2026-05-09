@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 148 |
+| ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-chat` `ai-companion` `ai-social` `capacitor` `character-ai` `chatbot` `deepseek` `llm` `nestjs` `open-source`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Enclave project:
-
-Enclave is an open-source project that allows users to create their own AI-powered virtual world. This immersive environment enables users to experience AI companionship, socializing, and interactive experiences. By leveraging AI and machine learning, Enclave enables users to build and customize their own virtual world tailored to their individual needs.
+Enclave is an open‑source platform that lets users create and explore a personalized AI‑driven virtual world, blending immersive front‑end experiences with intelligent companions and social interactions. By leveraging AI/ML models, the project provides dynamic, conversational agents for both solitary activities and community‑based socializing, all within a customizable, browser‑based environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/yuanzui0728/Enclave) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yuanzui0728/Enclave) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 163 |
+| 🍴 **Forks** | 164 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ci` `hacktoberfest` `release` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Release-plz is an open-source project that automates the process of publishing Rust crates from continuous integration pipelines by creating a release-related pull request. This simplifies the release process, reducing manual effort and making it more efficient. With release-plz, developers can seamlessly integrate crate publishing into their CI workflows.
+Release Plz is an open‑source GitHub Action that automates the publishing of Rust crates directly from continuous‑integration pipelines. It detects version changes, creates a “Release PR” with updated `Cargo.toml` files, runs tests, and, once approved, publishes the crate to crates.io—all without manual intervention.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/release-plz/release-plz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/release-plz/release-plz) · [← Back to Misc](./README.md)</sub>

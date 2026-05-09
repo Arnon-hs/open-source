@@ -1,6 +1,6 @@
 # webadderallorg/Recordly
 
-[![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webadderallorg/Recordly?style=flat-square&color=yellow)](https://github.com/webadderallorg/Recordly/stargazers) [![Forks](https://img.shields.io/github/forks/webadderallorg/Recordly?style=flat-square&color=blue)](https://github.com/webadderallorg/Recordly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-99%2F100-brightgreen?style=flat-square)](#)
 
 > Create polished screen recordings without editing. Mac/Windows/Linux
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.8k |
-| 🍴 **Forks** | 898 |
+| ⭐ **Stars** | 13.8k |
+| 🍴 **Forks** | 963 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 99/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `free` `linux` `macos` `open-source` `screen-recorder` `screen-studio` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Recordly is an open-source project that allows users to create polished screen recordings for free. It aims to provide a cost-effective alternative to other screen recording tools like Screen Studio, offering a convenient solution for users who need high-quality screen captures. This project is perfect for individuals and professionals looking to create professional-grade screen recordings without incurring additional expenses.
+Recordly is an open‑source, cross‑platform tool that lets you capture high‑quality screen recordings in a single step—no post‑production editing required. It runs on macOS, Windows, and Linux, providing a simple, polished workflow for creating ready‑to‑share video demos, tutorials, or presentations. The project is categorized as Miscellaneous and is maintained under the `webadderallorg/Recordly` repository.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/webadderallorg/Recordly) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/webadderallorg/Recordly) · [← Back to Misc](./README.md)</sub>

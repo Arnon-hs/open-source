@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`extension` `llm` `markdown` `productivity` `react` `subtitle` `wxt` `youtube`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The cpdown project is an open-source tool that enables users to easily copy webpage content or YouTube subtitles as clean Markdown with just one click or a shortcut. This feature is particularly useful for developers and writers who need to quickly capture and format text from the web. By simplifying the process of copying and pasting text, cpdown streamlines content creation and saves time.
+ys​m‑dev/cpdown is a lightweight browser extension that lets users copy any webpage content—or YouTube subtitles—directly to the clipboard as clean, markdown‑formatted text with a single click or keyboard shortcut. It combines simple front‑end UI with AI‑assisted parsing to strip away extraneous HTML and preserve formatting, making it a handy dev‑tool for writers, researchers, and developers who need quick, reusable markdown snippets.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/ysm-dev/cpdown) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ysm-dev/cpdown) · [← Back to AI/ML](./README.md)</sub>

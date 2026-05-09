@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.9k |
-| 🍴 **Forks** | 927 |
+| ⭐ **Stars** | 8k |
+| 🍴 **Forks** | 930 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dashboard` `datalogger` `docker` `elixir-lang` `grafana` `hacktoberfest` `home-automation` `mqtt` `nix` `nix-flake` `openstreetmap` `phoenix-liveview`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the teslamate project:
-
-Teslamate is an open-source, self-hosted data logger that allows you to collect and store your Tesla vehicle's data on your own server. This project enables users to maintain control over their data and provides a flexible solution for tracking and analyzing their driving habits. With Teslamate, you can access detailed insights into your Tesla's performance and energy usage.
+Teslamate is a self‑hosted application that logs and visualizes real‑time and historical data from Tesla vehicles, providing owners with detailed insights into driving habits, charging sessions, battery health, and trip statistics. It runs on a lightweight backend stack (PostgreSQL + Elixir/Phoenix) and offers an intuitive web dashboard, API, and optional integrations for home‑automation or data‑science workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/teslamate-org/teslamate) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/teslamate-org/teslamate) · [← Back to AI/ML](./README.md)</sub>

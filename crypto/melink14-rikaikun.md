@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 475 |
-| 🍴 **Forks** | 87 |
+| 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chrome` `chrome-extension` `japanese-dictionary` `japanese-language` `japanese-study`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-Rikaikun is a free and open-source Chrome extension that enables users to effortlessly read Japanese web pages by providing real-time kanji readings and English translations upon hover. This tool simplifies the process of navigating Japanese content, making it more accessible to a broader audience. The extension relies on AI/ML technology, offering an innovative solution for language learners and enthusiasts alike.
+Rikaikun is an open‑source Chrome extension that instantly provides the reading (furigana) and English definition of Japanese words when you hover over them on any web page, making Japanese text far easier to understand. It works by parsing the page’s content and looking up terms in a built‑in dictionary, delivering real‑time translations without leaving the browser. The project is maintained on GitHub under the melink14/rikaikun repository.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/melink14/rikaikun) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/melink14/rikaikun) · [← Back to Crypto](./README.md)</sub>

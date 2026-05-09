@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 710 |
+| 🍴 **Forks** | 721 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `fastapi` `harness` `kbqa` `kgqa` `llms` `neo4j` `rag` `vue`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the xerrors/Yuxi project:
-
-Yuxi is an open-source, multi-tenant Agent Harness platform that integrates knowledge base management with LightRAG knowledge graphs. Built on top of LangChain, Vue, and FastAPI, Yuxi supports various AI/ML components such as DeepAgents and MinerU PDF, as well as graph databases like Neo4j and MCP. This comprehensive platform enables seamless orchestration and development of AI/ML applications.
+xerrors/Yuxi is an open‑source, multi‑tenant agent harness that combines a LightRAG knowledge base with graph‑based knowledge (Neo4j) to power advanced AI agents. Built on LangChain, Vue, and FastAPI, it supports DeepAgents, MinerU PDF processing, and MCP integration, providing a unified orchestration layer for AI/ML workflows and frontend interaction.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/xerrors/Yuxi) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xerrors/Yuxi) · [← Back to Orchestration](./README.md)</sub>
