@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
+| ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `linux` `macos` `rust` `terminal` `tui` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The pvolok/mprocs project is an open-source tool designed to streamline workflows by enabling the concurrent execution of multiple commands in parallel. This allows developers to significantly reduce processing time and increase productivity when managing multiple tasks simultaneously. With mprocs, users can efficiently run commands and scripts in parallel, improving overall efficiency and speed.
+pvolok/mprocs is a lightweight command‑line utility that lets you run and manage multiple shell commands concurrently, displaying each process’s output in a clear, color‑coded interface. It’s especially handy for developers who need to start, monitor, and control several services or scripts (e.g., front‑end builds, dev servers, test runners) from a single terminal window. The tool is open‑source, easy to integrate into any workflow, and fits well within frontend and general dev‑tool toolchains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/pvolok/mprocs) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/pvolok/mprocs) · [← Back to Frontend](./README.md)</sub>

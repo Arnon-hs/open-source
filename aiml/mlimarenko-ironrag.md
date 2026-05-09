@@ -8,25 +8,25 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-memory` `arangodb` `deepseek` `docker` `graph` `graph-rag` `hermes` `hermes-agent` `llm` `mcp` `open-source`
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-IronRAG is an open-source project that enables the creation of a one-click knowledge system for documents, internal bots, and AI agents. This system facilitates seamless integration and automation, streamlining workflows and improving collaboration between teams and AI systems. By leveraging IronRAG, developers can build and deploy scalable, efficient knowledge management systems.
+IronRAG (mlimarenko/IronRAG) is an open‑source, one‑click knowledge platform that lets you ingest, index, and query any set of documents through chat‑style interfaces, internal bots, or autonomous AI agents. Built with a modern frontend and a flexible backend powered by Retrieval‑Augmented Generation, it streamlines the creation of domain‑specific knowledge bases and developer tools without extensive configuration. Ideal for teams looking to add searchable AI assistance to their internal data quickly and securely.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/mlimarenko/IronRAG) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mlimarenko/IronRAG) · [← Back to AI/ML](./README.md)</sub>

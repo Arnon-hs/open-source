@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cataclysm: The Last Generation is an open-source project that offers a post-apocalyptic survival game. In the game, players must navigate a world devastated by a cataclysmic event, managing resources, crafting items, and forming alliances to survive. With a focus on realism and depth, Cataclysm provides a rich and immersive gaming experience.
+Cataclysm‑TLG is an open‑source, turn‑based strategy game set in a post‑apocalyptic world where humanity’s final generation fights for survival against mutated threats and dwindling resources. Developed by the Cataclysm‑TLG community, the project provides a modular engine, extensive modding tools, and cross‑platform support, allowing players and contributors to expand the storyline, units, and gameplay mechanics.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Cataclysm-TLG/Cataclysm-TLG) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Cataclysm-TLG/Cataclysm-TLG) · [← Back to Misc](./README.md)</sub>

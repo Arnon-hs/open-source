@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 894 |
+| 🍴 **Forks** | 895 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `card` `ccg` `client-server` `computer-opponents` `deck` `game` `game-engine` `java` `linux` `macos` `magic`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-XMage (Magic Another Game Engine) is an open-source game engine that utilizes AI and ML technologies to provide a unique gaming experience. Developed by magefree, this project offers a powerful backend and a range of development tools, making it an attractive option for game developers looking to create complex and engaging games. With XMage, developers can leverage AI-driven gameplay mechanics to create immersive and dynamic gaming environments.
+Magefree/mage is an open‑source implementation of the XMage engine, a digital platform for playing Magic: The Gathering online. It provides a backend framework and development tools that automate game rules, support AI opponents, and enable custom extensions for researchers and hobbyists. The project serves both as a robust testbed for AI/ML experiments in card‑game strategy and as a backend service for hosting multiplayer Magic matches.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/magefree/mage) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/magefree/mage) · [← Back to AI/ML](./README.md)</sub>

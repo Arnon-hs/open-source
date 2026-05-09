@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 142 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `core` `crypto` `cryptocurrency` `rust` `wallet`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The gemwalletcom/core project is an open-source Rust library providing the core functionality for the Gem Wallet ecosystem, focusing on cryptographic security and robustness. This library is designed to facilitate secure and reliable interactions within the Gem Wallet network, ensuring the integrity and confidentiality of user data. By leveraging Rust's memory safety features, it offers a high level of assurance for cryptographic operations.
+Gem Wallet Core is a Rust‑based library that provides the foundational components for building secure, high‑performance cryptocurrency wallets. It offers robust cryptographic primitives, transaction handling, and key management utilities, while also exposing extensible APIs that enable integration with AI/ML services for advanced analytics and automated decision‑making. The project aims to simplify wallet development and promote open‑source collaboration in the crypto ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/gemwalletcom/core) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gemwalletcom/core) · [← Back to Crypto](./README.md)</sub>

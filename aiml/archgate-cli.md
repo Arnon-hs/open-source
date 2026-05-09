@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 35 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adr` `architecture` `bun` `claude-code` `cli` `cursor` `npm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the archgate/cli project:
-
-Archgate/cli is an open-source project that enables Architecture Decision Records to be enforced as executable rules, bridging the gap between human-readable documentation and machine-executable code. This innovative tool allows for the creation of rules that both humans and AI agents can understand, facilitating more efficient and collaborative development processes. By leveraging this technology, developers can enforce consistent architectural decisions across their projects.
+archgate/cli is an open‑source command‑line tool that transforms Architecture Decision Records (ADRs) into executable validation rules, enabling automated checks of software designs by both developers and AI agents. By parsing ADRs and enforcing the encoded constraints during builds or CI pipelines, it helps teams maintain architectural consistency and catch violations early. The project bridges documentation and enforcement, making architectural governance both human‑readable and machine‑actionable.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/archgate/cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/archgate/cli) · [← Back to AI/ML](./README.md)</sub>

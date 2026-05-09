@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 480 |
+| ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dash` `downloader` `drm` `hls` `m3u8` `m3u8-downloader` `mpd` `playready` `video` `widevine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The clitic/vsd project is an open-source tool that enables users to download video streams from websites, DASH (.mpd) playlists, and HLS (.m3u8) playlists served over HTTP. This utility provides a simple solution for users to extract and save video content from various online sources. With clitic/vsd, users can easily download and manage video streams for offline viewing or other purposes.
+clitic/vsd is an open‑source utility that lets you download video streams delivered via HTTP, including adaptive streaming formats such as DASH (.mpd) and HLS (.m3u8). It parses playlist files, resolves media segment URLs, and saves the content as a single video file for offline viewing. Ideal for developers and power users needing a lightweight, command‑line tool for extracting streaming media.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/clitic/vsd) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/clitic/vsd) · [← Back to DevTools](./README.md)</sub>

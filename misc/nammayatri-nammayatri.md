@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The nammayatri project is an open-source, Direct-to-Driver mobility platform designed to empower the next generation of mobility applications in India. This platform aims to provide a seamless and efficient transportation experience by connecting users directly with drivers, fostering a more sustainable and accessible transportation ecosystem. By leveraging open-source technology, nammayatri promotes innovation and collaboration in the Indian mobility sector.
+Nammayatri is an open‑source, Direct‑to‑Driver mobility platform designed to enable next‑generation transportation applications across India. It provides a flexible, scalable stack for building ride‑hailing, logistics, and other on‑demand services, allowing developers to customize and deploy their own driver‑focused solutions quickly. The project is community‑maintained and aims to accelerate innovation in the Indian mobility ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/nammayatri/nammayatri) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nammayatri/nammayatri) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-skill` `claude-skills`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Claude-skills is an open-source collection of custom skills developed for Claude, a cutting-edge AI model. This repository offers users a wide range of pre-built skills that can be used to enhance the capabilities of Claude, allowing users to tap into its full potential. By leveraging these skills, users can unlock new possibilities for interaction and task completion with Claude.
+A curated set of custom Claude “skills” that extend the capabilities of Anthropic’s Claude models with reusable prompts, tool integrations, and workflow snippets. Designed for easy reuse across projects, the repository provides ready‑to‑run examples and documentation for a variety of miscellaneous tasks. It serves as a modular toolbox for developers looking to enhance Claude’s functionality without writing prompts from scratch.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/oaustegard/claude-skills) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oaustegard/claude-skills) · [← Back to Misc](./README.md)</sub>

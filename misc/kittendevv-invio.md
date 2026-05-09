@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 831 |
-| 🍴 **Forks** | 65 |
+| ⭐ **Stars** | 844 |
+| 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`invoicing` `invoicing-application` `invoicing-software` `minimalist` `self-hosted` `selfhosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Invio is a self-hosted invoicing solution designed to provide a lightweight and efficient experience for managing financial transactions. Its open-source nature allows for customization and community-driven development, eliminating the need for bloated commercial software. By hosting Invio locally, users can maintain control over their financial data and streamline their invoicing processes.
+kittendevv/Invio is a lightweight, self‑hosted invoicing platform that focuses on core billing functionality while stripping away unnecessary features and dependencies. It provides a simple web interface for creating, managing, and sending invoices, making it ideal for freelancers, small businesses, or anyone who wants a minimal‑overhead solution they can run on their own server. The project is open source and aims to be easy to install, customize, and extend without the bloat typical of larger invoicing suites.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kittendevv/Invio) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kittendevv/Invio) · [← Back to Misc](./README.md)</sub>

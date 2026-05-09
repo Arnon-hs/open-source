@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 265 |
+| ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the "coolercontrol" project:
-
-The coolercontrol project is an open-source repository for controlling computer cooling systems. This project allows users to monitor and manage their computer's temperature, ensuring optimal performance and prolonging the lifespan of their hardware. By providing a user-friendly interface and customizable settings, coolercontrol empowers users to take control of their computer's cooling system.
+CoolerControl is an open‑source utility for managing and customizing the cooling hardware (fans, pumps, LEDs, etc.) on desktop PCs, providing a unified GUI and scripting interface across various motherboard and GPU vendors. This GitHub mirror of the official GitLab repository allows users to view the source code, but all issue tracking, feature requests, and contributions should be directed to the original project site.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/codifryed/coolercontrol) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/codifryed/coolercontrol) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-team` `agent-teams` `ai` `harness-engineering` `llm` `multiagent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Mexus is an open-source project that provides a local web console for managing and orchestrating multiple CLI AI Agent instances in parallel. This tool enables users to streamline the management of multiple AI agents, improving efficiency and productivity. By offering a centralized interface, Mexus simplifies the process of monitoring, configuring, and controlling AI agents.
+Mexus is an open‑source, browser‑based console that lets you run, monitor, and control multiple CLI‑based AI agents side‑by‑side on a single machine. It provides orchestration features such as parallel instance management, real‑time logging, and simple UI controls, making it easier for developers and researchers to experiment with and coordinate AI workloads locally.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/yofine/Mexus) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yofine/Mexus) · [← Back to Orchestration](./README.md)</sub>

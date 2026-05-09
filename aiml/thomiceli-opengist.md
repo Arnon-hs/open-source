@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `gist` `git` `go` `golang` `pastebin` `pastebin-service` `self-hosted` `tailwindcss` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-"OpenGist is a self-hosted pastebin service powered by Git, providing a decentralized alternative to Github Gist. This open-source project allows users to create, share, and manage snippets of code and text, while maintaining control over their data and infrastructure. With OpenGist, developers can host their own pastebin instance and enjoy seamless collaboration and version control."
+OpenGist is a self‑hosted paste‑bin service that stores snippets and files in a Git repository, offering a privacy‑focused, open‑source alternative to GitHub Gist. It provides a sleek web frontend for creating, editing, and sharing code or text, while leveraging Git for version control, easy backups, and integration with existing DevOps workflows. The project is suitable for developers who want a lightweight, customizable gist‑like platform that can be deployed on their own infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/thomiceli/opengist) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/thomiceli/opengist) · [← Back to AI/ML](./README.md)</sub>

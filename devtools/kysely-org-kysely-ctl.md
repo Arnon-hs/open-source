@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 300 |
+| ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `cli` `ctl` `knex` `kysely` `migrations` `mssql` `mysql` `postgres` `seeds` `sql` `sqlite`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the kysely-ctl project:
-
-Kysely-ctl is a command-line tool designed to manage and interact with Kysely, a Knex-compatible SQL query builder. This open-source project is compatible with various JavaScript runtimes, including Node.js, Deno, and Bun, making it a versatile development tool for database management. With kysely-ctl, developers can streamline database operations and optimize their workflow.
+kysely-ctl is a lightweight command‑line interface for the Kysely SQL query builder, offering Knex‑compatible functionality across multiple JavaScript runtimes—including Node.js, Deno, and Bun. It streamlines tasks such as migrations, seeding, and query execution directly from the terminal, making database workflow automation simple and portable for developers.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/kysely-org/kysely-ctl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kysely-org/kysely-ctl) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 127 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 130 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`graph-database` `rdf-store` `sparql`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-Oxigraph is an open-source, SPARQL graph database designed to store and query complex data relationships. It offers a powerful and efficient way to manage large datasets by utilizing SPARQL, a standard query language for graph databases. With Oxigraph, users can easily store, query, and analyze data in a scalable and flexible manner.
+Oxigraph is a high‑performance, open‑source RDF store and SPARQL engine written in Rust. It provides a fully compliant SPARQL 1.1 query processor and a compact, embeddable graph database that can be used both as a library and as a standalone server. Designed for speed, safety, and low resource consumption, Oxigraph is ideal for applications that need fast, standards‑compliant semantic data handling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/oxigraph/oxigraph) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oxigraph/oxigraph) · [← Back to Data](./README.md)</sub>

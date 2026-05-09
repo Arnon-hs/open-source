@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 399 |
+| ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`application` `declarative-ui` `dsl` `framework` `gpu` `render` `ui` `ui-framework` `uikit` `user-interface` `ux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Blinc is an open-source, front-end UI system that combines declarative and reactive principles to create interactive applications with ease. Its key features include state machines and spring physics animations that provide a robust and engaging user experience. By leveraging GPU acceleration, Blinc enables high-performance rendering and efficient resource utilization.
+Blinc is an open‑source, declarative UI framework that integrates first‑class state machines with reactive rendering, enabling developers to describe interfaces as pure functions of state. It combines spring‑physics‑based animations and GPU‑accelerated drawing to deliver smooth, high‑performance visuals while keeping the codebase simple and predictable. Suitable for modern frontend projects, Blinc lets you build interactive applications with minimal boilerplate and deterministic state management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/project-blinc/Blinc) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/project-blinc/Blinc) · [← Back to Frontend](./README.md)</sub>
