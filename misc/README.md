@@ -2,7 +2,7 @@
 
 > Everything else worth noting
 
-**786 projects** in this category.
+**787 projects** in this category.
 
 ## Projects
 
@@ -484,16 +484,16 @@
 | 474 | [wimpysworld/nix-config](./wimpysworld-nix-config.md) | ⭐ 677 | Nix | 55/100 |
 | 475 | [m35/jpsxdec](./m35-jpsxdec.md) | ⭐ 566 | Java | 54/100 |
 | 476 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 54/100 |
-| 477 | [gopher64/gopher64](./gopher64-gopher64.md) | ⭐ 1k | Rust | 54/100 |
-| 478 | [redox-os/relibc](./redox-os-relibc.md) | ⭐ 985 | Rust | 54/100 |
+| 477 | [redox-os/relibc](./redox-os-relibc.md) | ⭐ 985 | Rust | 54/100 |
+| 478 | [gopher64/gopher64](./gopher64-gopher64.md) | ⭐ 1k | Rust | 54/100 |
 | 479 | [kellnr/kellnr](./kellnr-kellnr.md) | ⭐ 981 | Rust | 54/100 |
 | 480 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 54/100 |
 | 481 | [ashtf8/PocketMage_PDA](./ashtf8-pocketmage-pda.md) | ⭐ 1.8k | C++ | 54/100 |
 | 482 | [cnpack/cnvcl](./cnpack-cnvcl.md) | ⭐ 396 | Pascal | 54/100 |
 | 483 | [carlospolop/Auto_Wordlists](./carlospolop-auto-wordlists.md) | ⭐ 1.4k | Python | 54/100 |
 | 484 | [xiaoxiunique/x-kit](./xiaoxiunique-x-kit.md) | ⭐ 918 | TypeScript | 54/100 |
-| 485 | [mozilla/application-services](./mozilla-application-services.md) | ⭐ 664 | Rust | 54/100 |
-| 486 | [stm32-rs/stm32f1xx-hal](./stm32-rs-stm32f1xx-hal.md) | ⭐ 645 | Rust | 54/100 |
+| 485 | [stm32-rs/stm32f1xx-hal](./stm32-rs-stm32f1xx-hal.md) | ⭐ 645 | Rust | 54/100 |
+| 486 | [mozilla/application-services](./mozilla-application-services.md) | ⭐ 664 | Rust | 54/100 |
 | 487 | [ddterm/gnome-shell-extension-ddterm](./ddterm-gnome-shell-extension-ddterm.md) | ⭐ 435 | JavaScript | 54/100 |
 | 488 | [touhidurrr/iplist-youtube](./touhidurrr-iplist-youtube.md) | ⭐ 382 | RouterOS Script | 54/100 |
 | 489 | [havenweb/haven](./havenweb-haven.md) | ⭐ 775 | Ruby | 54/100 |
@@ -522,8 +522,8 @@
 | 512 | [bazaar-org/bazaar](./bazaar-org-bazaar.md) | ⭐ 1.5k | C | 53/100 |
 | 513 | [monosans/proxy-list](./monosans-proxy-list.md) | ⭐ 1.4k | — | 53/100 |
 | 514 | [MidnightCommander/mc](./midnightcommander-mc.md) | ⭐ 843 | C | 53/100 |
-| 515 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 53/100 |
-| 516 | [sha0coder/mwemu](./sha0coder-mwemu.md) | ⭐ 301 | Rust | 53/100 |
+| 515 | [sha0coder/mwemu](./sha0coder-mwemu.md) | ⭐ 301 | Rust | 53/100 |
+| 516 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 53/100 |
 | 517 | [Misaka-blog/chromego_merge](./misaka-blog-chromego-merge.md) | ⭐ 951 | Python | 53/100 |
 | 518 | [obeli-sk/obelisk](./obeli-sk-obelisk.md) | ⭐ 459 | Rust | 53/100 |
 | 519 | [obi1kenobi/cargo-semver-checks](./obi1kenobi-cargo-semver-checks.md) | ⭐ 1.6k | Rust | 53/100 |
@@ -638,8 +638,8 @@
 | 628 | [kulikov0/whitelist-bypass](./kulikov0-whitelist-bypass.md) | ⭐ 1k | Go | 48/100 |
 | 629 | [mirror/dd-wrt](./mirror-dd-wrt.md) | ⭐ 604 | — | 48/100 |
 | 630 | [bytecodealliance/wrpc](./bytecodealliance-wrpc.md) | ⭐ 322 | Rust | 48/100 |
-| 631 | [pungin/Beanfun](./pungin-beanfun.md) | ⭐ 768 | Rust | 48/100 |
-| 632 | [nonnorm/DietPi-Dashboard](./nonnorm-dietpi-dashboard.md) | ⭐ 165 | Rust | 48/100 |
+| 631 | [nonnorm/DietPi-Dashboard](./nonnorm-dietpi-dashboard.md) | ⭐ 165 | Rust | 48/100 |
+| 632 | [pungin/Beanfun](./pungin-beanfun.md) | ⭐ 768 | Rust | 48/100 |
 | 633 | [omarshahine/HomeClaw](./omarshahine-homeclaw.md) | ⭐ 104 | Swift | 48/100 |
 | 634 | [PiSugar/pisugar-power-manager-rs](./pisugar-pisugar-power-manager-rs.md) | ⭐ 188 | Rust | 48/100 |
 | 635 | [open-spaced-repetition/fsrs-rs](./open-spaced-repetition-fsrs-rs.md) | ⭐ 366 | Rust | 48/100 |
@@ -682,8 +682,8 @@
 | 672 | [luongnv89/ccl](./luongnv89-ccl.md) | ⭐ 22 | Python | 46/100 |
 | 673 | [jsinger67/parol](./jsinger67-parol.md) | ⭐ 234 | Rust | 46/100 |
 | 674 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 262 | C# | 46/100 |
-| 675 | [EvanBacon/serve-sim](./evanbacon-serve-sim.md) | ⭐ 821 | TypeScript | 46/100 |
-| 676 | [bq2015/FreeProxies](./bq2015-freeproxies.md) | ⭐ 575 | — | 46/100 |
+| 675 | [bq2015/FreeProxies](./bq2015-freeproxies.md) | ⭐ 575 | — | 46/100 |
+| 676 | [EvanBacon/serve-sim](./evanbacon-serve-sim.md) | ⭐ 821 | TypeScript | 46/100 |
 | 677 | [pdx-tools/pdx-tools](./pdx-tools-pdx-tools.md) | ⭐ 117 | Rust | 46/100 |
 | 678 | [xiongjian83/TvBox](./xiongjian83-tvbox.md) | ⭐ 619 | JavaScript | 46/100 |
 | 679 | [mitoma/kashiki2](./mitoma-kashiki2.md) | ⭐ 362 | Rust | 46/100 |
@@ -751,49 +751,50 @@
 | 741 | [monocurl/monocurl](./monocurl-monocurl.md) | ⭐ 164 | Rust | 41/100 |
 | 742 | [nteract/desktop](./nteract-desktop.md) | ⭐ 105 | Rust | 41/100 |
 | 743 | [sisshiki1969/monoruby](./sisshiki1969-monoruby.md) | ⭐ 137 | Rust | 41/100 |
-| 744 | [jordepic/icestream](./jordepic-icestream.md) | ⭐ — | — | 39/100 |
-| 745 | [aaronw122/termcopy](./aaronw122-termcopy.md) | ⭐ — | — | 39/100 |
-| 746 | [GiuseppePuleri/jimphp](./giuseppepuleri-jimphp.md) | ⭐ — | — | 39/100 |
-| 747 | [tsirysndr/rockbox-zig](./tsirysndr-rockbox-zig.md) | ⭐ — | — | 39/100 |
+| 744 | [nooga/let-go](./nooga-let-go.md) | ⭐ — | — | 39/100 |
+| 745 | [jordepic/icestream](./jordepic-icestream.md) | ⭐ — | — | 39/100 |
+| 746 | [aaronw122/termcopy](./aaronw122-termcopy.md) | ⭐ — | — | 39/100 |
+| 747 | [GiuseppePuleri/jimphp](./giuseppepuleri-jimphp.md) | ⭐ — | — | 39/100 |
 | 748 | [fiaos-org/FiaPhy](./fiaos-org-fiaphy.md) | ⭐ — | — | 39/100 |
-| 749 | [MihaiBuilds/memory-vault](./mihaibuilds-memory-vault.md) | ⭐ — | — | 39/100 |
-| 750 | [heikowagner/nela-lang](./heikowagner-nela-lang.md) | ⭐ — | — | 39/100 |
+| 749 | [heikowagner/nela-lang](./heikowagner-nela-lang.md) | ⭐ — | — | 39/100 |
+| 750 | [MihaiBuilds/memory-vault](./mihaibuilds-memory-vault.md) | ⭐ — | — | 39/100 |
 | 751 | [ninjahawk/VirtualPC](./ninjahawk-virtualpc.md) | ⭐ — | — | 39/100 |
-| 752 | [kyren/piccolo](./kyren-piccolo.md) | ⭐ — | — | 39/100 |
-| 753 | [pion/rtwatch](./pion-rtwatch.md) | ⭐ — | — | 39/100 |
-| 754 | [lemon-ant/JHarmonizer](./lemon-ant-jharmonizer.md) | ⭐ — | — | 39/100 |
-| 755 | [KripkesBeard/programming-for-philosophers](./kripkesbeard-programming-for-philosophers.md) | ⭐ — | — | 39/100 |
-| 756 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ — | — | 39/100 |
-| 757 | [anazoa/anazoa](./anazoa-anazoa.md) | ⭐ — | — | 39/100 |
-| 758 | [skorotkiewicz/darwinian_cleaner](./skorotkiewicz-darwinian-cleaner.md) | ⭐ — | — | 39/100 |
-| 759 | [artpar/jslike](./artpar-jslike.md) | ⭐ — | — | 39/100 |
-| 760 | [themackabu/ant](./themackabu-ant.md) | ⭐ — | — | 39/100 |
+| 752 | [tsirysndr/rockbox-zig](./tsirysndr-rockbox-zig.md) | ⭐ — | — | 39/100 |
+| 753 | [lemon-ant/JHarmonizer](./lemon-ant-jharmonizer.md) | ⭐ — | — | 39/100 |
+| 754 | [kyren/piccolo](./kyren-piccolo.md) | ⭐ — | — | 39/100 |
+| 755 | [pion/rtwatch](./pion-rtwatch.md) | ⭐ — | — | 39/100 |
+| 756 | [artpar/jslike](./artpar-jslike.md) | ⭐ — | — | 39/100 |
+| 757 | [KripkesBeard/programming-for-philosophers](./kripkesbeard-programming-for-philosophers.md) | ⭐ — | — | 39/100 |
+| 758 | [eriirfos-eng/ternary-intelligence-stack](./eriirfos-eng-ternary-intelligence-stack.md) | ⭐ — | — | 39/100 |
+| 759 | [anazoa/anazoa](./anazoa-anazoa.md) | ⭐ — | — | 39/100 |
+| 760 | [skorotkiewicz/darwinian_cleaner](./skorotkiewicz-darwinian-cleaner.md) | ⭐ — | — | 39/100 |
 | 761 | [ShadowLLM/shadow-peft](./shadowllm-shadow-peft.md) | ⭐ — | — | 39/100 |
-| 762 | [robertdfrench/ifuncd-up](./robertdfrench-ifuncd-up.md) | ⭐ — | — | 39/100 |
-| 763 | [facebook/openzl](./facebook-openzl.md) | ⭐ — | — | 39/100 |
-| 764 | [janpfeifer/gonb](./janpfeifer-gonb.md) | ⭐ — | — | 39/100 |
-| 765 | [onehorizonai/lumon-terminal](./onehorizonai-lumon-terminal.md) | ⭐ — | — | 39/100 |
-| 766 | [cloudstreet-dev/Binary-Serialization-Survey](./cloudstreet-dev-binary-serialization-survey.md) | ⭐ — | — | 39/100 |
-| 767 | [A-I-dentity/soul_stamp](./a-i-dentity-soul-stamp.md) | ⭐ — | — | 39/100 |
-| 768 | [valhalla/valhalla](./valhalla-valhalla.md) | ⭐ — | — | 39/100 |
-| 769 | [arc-edge/wfb-link](./arc-edge-wfb-link.md) | ⭐ — | — | 39/100 |
-| 770 | [Fergtic/chronicle-write-up](./fergtic-chronicle-write-up.md) | ⭐ — | — | 39/100 |
-| 771 | [facebookresearch/ProgramBench](./facebookresearch-programbench.md) | ⭐ — | — | 39/100 |
-| 772 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 39/100 |
-| 773 | [scosman/cursed_browser](./scosman-cursed-browser.md) | ⭐ — | — | 39/100 |
-| 774 | [Cpp2Rust/cpp2rust](./cpp2rust-cpp2rust.md) | ⭐ — | — | 39/100 |
-| 775 | [chrishayuk/larql](./chrishayuk-larql.md) | ⭐ — | — | 39/100 |
-| 776 | [eblanshey/DiffCAD](./eblanshey-diffcad.md) | ⭐ — | — | 39/100 |
-| 777 | [BintzGavin/apastra](./bintzgavin-apastra.md) | ⭐ — | — | 39/100 |
-| 778 | [CodeAbra/iai-mcp](./codeabra-iai-mcp.md) | ⭐ — | — | 39/100 |
-| 779 | [navid-m/flightsim](./navid-m-flightsim.md) | ⭐ — | — | 37/100 |
-| 780 | [Raamyy/azuredevops-commits-migrator](./raamyy-azuredevops-commits-migrator.md) | ⭐ — | — | 36/100 |
-| 781 | [hlaueriksson/awesome-powertoys-run-plugins](./hlaueriksson-awesome-powertoys-run-plugins.md) | ⭐ — | — | 21/100 |
-| 782 | [serhii-londar/open-source-mac-os-apps](./serhii-londar-open-source-mac-os-apps.md) | ⭐ — | — | 21/100 |
-| 783 | [thibmaek/awesome-raspberry-pi](./thibmaek-awesome-raspberry-pi.md) | ⭐ — | — | 21/100 |
-| 784 | [agarrharr/awesome-macos-screensavers](./agarrharr-awesome-macos-screensavers.md) | ⭐ — | — | 21/100 |
-| 785 | [bcoe/awesome-cross-platform-nodejs](./bcoe-awesome-cross-platform-nodejs.md) | ⭐ — | — | 21/100 |
-| 786 | [sponsors/sindresorhus](./sponsors-sindresorhus.md) | ⭐ — | — | 21/100 |
+| 762 | [themackabu/ant](./themackabu-ant.md) | ⭐ — | — | 39/100 |
+| 763 | [robertdfrench/ifuncd-up](./robertdfrench-ifuncd-up.md) | ⭐ — | — | 39/100 |
+| 764 | [facebook/openzl](./facebook-openzl.md) | ⭐ — | — | 39/100 |
+| 765 | [janpfeifer/gonb](./janpfeifer-gonb.md) | ⭐ — | — | 39/100 |
+| 766 | [onehorizonai/lumon-terminal](./onehorizonai-lumon-terminal.md) | ⭐ — | — | 39/100 |
+| 767 | [cloudstreet-dev/Binary-Serialization-Survey](./cloudstreet-dev-binary-serialization-survey.md) | ⭐ — | — | 39/100 |
+| 768 | [A-I-dentity/soul_stamp](./a-i-dentity-soul-stamp.md) | ⭐ — | — | 39/100 |
+| 769 | [valhalla/valhalla](./valhalla-valhalla.md) | ⭐ — | — | 39/100 |
+| 770 | [arc-edge/wfb-link](./arc-edge-wfb-link.md) | ⭐ — | — | 39/100 |
+| 771 | [Fergtic/chronicle-write-up](./fergtic-chronicle-write-up.md) | ⭐ — | — | 39/100 |
+| 772 | [facebookresearch/ProgramBench](./facebookresearch-programbench.md) | ⭐ — | — | 39/100 |
+| 773 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 39/100 |
+| 774 | [scosman/cursed_browser](./scosman-cursed-browser.md) | ⭐ — | — | 39/100 |
+| 775 | [Cpp2Rust/cpp2rust](./cpp2rust-cpp2rust.md) | ⭐ — | — | 39/100 |
+| 776 | [chrishayuk/larql](./chrishayuk-larql.md) | ⭐ — | — | 39/100 |
+| 777 | [eblanshey/DiffCAD](./eblanshey-diffcad.md) | ⭐ — | — | 39/100 |
+| 778 | [BintzGavin/apastra](./bintzgavin-apastra.md) | ⭐ — | — | 39/100 |
+| 779 | [CodeAbra/iai-mcp](./codeabra-iai-mcp.md) | ⭐ — | — | 39/100 |
+| 780 | [navid-m/flightsim](./navid-m-flightsim.md) | ⭐ — | — | 37/100 |
+| 781 | [Raamyy/azuredevops-commits-migrator](./raamyy-azuredevops-commits-migrator.md) | ⭐ — | — | 36/100 |
+| 782 | [hlaueriksson/awesome-powertoys-run-plugins](./hlaueriksson-awesome-powertoys-run-plugins.md) | ⭐ — | — | 21/100 |
+| 783 | [serhii-londar/open-source-mac-os-apps](./serhii-londar-open-source-mac-os-apps.md) | ⭐ — | — | 21/100 |
+| 784 | [thibmaek/awesome-raspberry-pi](./thibmaek-awesome-raspberry-pi.md) | ⭐ — | — | 21/100 |
+| 785 | [agarrharr/awesome-macos-screensavers](./agarrharr-awesome-macos-screensavers.md) | ⭐ — | — | 21/100 |
+| 786 | [bcoe/awesome-cross-platform-nodejs](./bcoe-awesome-cross-platform-nodejs.md) | ⭐ — | — | 21/100 |
+| 787 | [sponsors/sindresorhus](./sponsors-sindresorhus.md) | ⭐ — | — | 21/100 |
 
 ---
 

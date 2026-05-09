@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`daw` `hacktoberfest` `midi` `music` `songs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Product
 
 ## 📝 Summary
 
-LMMS is an open-source, cross-platform music production software that empowers users to create, edit, and mix music tracks. With a user-friendly interface and a wide range of features, it offers flexibility and customization options for musicians, producers, and composers. LMMS is a free and accessible platform for music creation, ideal for both beginners and experienced artists.
+LMMS (Linux MultiMedia Studio) is a free, open‑source digital audio workstation that enables users to compose, sequence, and mix music across Windows, macOS, and Linux. Featuring a wide range of built‑in instruments, effects, and a flexible piano‑roll editor, it offers a professional‑grade workflow without the cost of commercial DAWs. The project is community‑driven, continuously adding new plugins, sample libraries, and workflow enhancements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/LMMS/lmms) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LMMS/lmms) · [← Back to Product](./README.md)</sub>

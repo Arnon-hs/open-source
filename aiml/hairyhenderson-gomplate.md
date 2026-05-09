@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`boltdb` `cli` `cloud` `config` `consul` `devops` `devops-tools` `docker` `go` `golang` `sysadmin` `sysops`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-gomplate is an open-source command-line tool for flexible template rendering, capable of utilizing various local and remote data sources. This project enables users to dynamically generate content by merging templates with data, streamlining tasks such as generating configuration files, documentation, and more. With gomplate, developers can efficiently automate template-based processes.
+hairyhenderson/gomplate is an open‑source, command‑line utility that renders text templates using a wide variety of data sources—including environment variables, files, databases, cloud services, and HTTP APIs. Its flexible syntax and extensive built‑in functions make it ideal for automating configuration, generating code, and orchestrating DevOps workflows. The tool is lightweight, cross‑platform, and designed for integration into CI/CD pipelines and other development toolchains.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/hairyhenderson/gomplate) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hairyhenderson/gomplate) · [← Back to AI/ML](./README.md)</sub>

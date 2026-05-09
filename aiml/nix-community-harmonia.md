@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 492 |
+| ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-with-buildbot`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-Harmonia is an open-source, Rust-based Nix binary cache, designed to efficiently manage dependencies and accelerate package builds. This project aims to provide a scalable and reliable solution for developers working with Nix, particularly in AI/ML and frontend applications. By leveraging Rust for development, Harmonia offers a high-performance caching system for Nix users.
+Harmonia is an open‑source binary cache server for the Nix package manager, written in Rust for high performance and safety. It provides fast, reliable storage and retrieval of pre‑built Nix artifacts, simplifying reproducible builds and reducing compilation time across teams. Maintained by @Mic92, Harmonia aims to integrate smoothly with existing Nix workflows while offering a modern, extensible architecture.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/nix-community/harmonia) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nix-community/harmonia) · [← Back to AI/ML](./README.md)</sub>

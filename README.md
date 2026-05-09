@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4672** |
+| 🗂️ **Total projects** | **4687** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1897 | [Browse →](./aiml/) |
-| 📦 **Misc** | 786 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 467 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 1903 | [Browse →](./aiml/) |
+| 📦 **Misc** | 787 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 470 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 450 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 244 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 245 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 231 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 173 | [Browse →](./crypto/) |
-| 📊 **Data** | 105 | [Browse →](./data/) |
+| ⛓️ **Crypto** | 174 | [Browse →](./crypto/) |
+| 📊 **Data** | 107 | [Browse →](./data/) |
 | 💳 **Payments** | 87 | [Browse →](./payments/) |
 | 📈 **Trading** | 60 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 55 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 53 | [Browse →](./mobile/) |
 | 🔐 **Security** | 37 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
-| 🎯 **Product** | 10 | [Browse →](./product/) |
+| 🎯 **Product** | 11 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 5 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
@@ -43,9 +43,9 @@
 | 2 | [flybywiresim/aircraft](./aiml/flybywiresim-aircraft.md) | ⭐ 5.4k | AI/ML |
 | 3 | [Serial-Studio/Serial-Studio](./frontend/serial-studio-serial-studio.md) | ⭐ 6.9k | Frontend |
 | 4 | [apache/groovy](./misc/apache-groovy.md) | ⭐ 5.4k | Misc |
-| 5 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
+| 5 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
 | 6 | [TeamNewPipe/NewPipe](./mobile/teamnewpipe-newpipe.md) | ⭐ 38k | Mobile |
-| 7 | [RustPython/RustPython](./misc/rustpython-rustpython.md) | ⭐ 22k | Misc |
+| 7 | [ai-collection/ai-collection](./aiml/ai-collection-ai-collection.md) | ⭐ 8.9k | AI/ML |
 | 8 | [alibaba/spring-cloud-alibaba](./frontend/alibaba-spring-cloud-alibaba.md) | ⭐ 29.1k | Frontend |
 | 9 | [Anionex/banana-slides](./aiml/anionex-banana-slides.md) | ⭐ 14.4k | AI/ML |
 | 10 | [tw93/Pake](./misc/tw93-pake.md) | ⭐ 48.6k | Misc |

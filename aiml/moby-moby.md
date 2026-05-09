@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 18.9k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`containers` `docker` `go` `golang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The Moby Project is an open-source initiative that aims to assemble container-based systems, fostering collaboration within the container ecosystem. It provides a comprehensive platform for developers and organizations to build, manage, and deploy containerized applications. Moby enables the creation of customized container systems, promoting flexibility and innovation in DevOps and infrastructure management.
+Moby is an open‑source framework for building custom container‑based systems, providing the core components (container runtime, image handling, networking, and orchestration) that power Docker and other container platforms. It offers a modular, extensible codebase and reference implementations that enable developers and infrastructure teams to assemble, extend, and tailor container solutions for diverse DevOps and AI/ML workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/moby/moby) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/moby/moby) · [← Back to AI/ML](./README.md)</sub>

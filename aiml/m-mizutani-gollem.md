@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `go` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Gollem is an open-source Go framework designed for building agentic AI applications using the Multiple Causality Problem (MCP) approach. This framework provides a comprehensive set of tools for developing intelligent and autonomous AI systems, offering a unique combination of frontend capabilities and AI/ML functionality. With Gollem, developers can create advanced AI applications that can perceive, reason, and interact with their environment.
+m-mizutani/gollem is an open‑source Go framework designed for building agentic AI applications. It provides a modular micro‑core platform (MCP) and bundles a set of ready‑to‑use tools—such as prompt handling, tool execution, and UI components—so developers can quickly prototype and deploy intelligent agents with a web‑frontend interface. The project targets AI/ML and frontend developers who want a lightweight, extensible foundation for next‑generation AI‑driven services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/m-mizutani/gollem) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/m-mizutani/gollem) · [← Back to AI/ML](./README.md)</sub>

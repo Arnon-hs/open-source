@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dag` `data-analysis` `data-engineering` `data-science` `dataframe` `etl` `etl-framework` `etl-pipeline` `feature-engineering` `hacktoberfest` `lineage` `llmops`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Apache Hamilton is an open-source project that enables data scientists and engineers to create testable, modular, and self-documenting dataflows that track lineage and metadata. This scalable solution allows dataflows to run anywhere Python does, making it a versatile tool for a variety of applications, including AI/ML and cryptography. By providing a standardized way to manage dataflows, Apache Hamilton streamlines data processing and analytics.
+Apache Hamilton is an open‑source Python library that lets data scientists and engineers build modular, self‑documenting data pipelines with built‑in lineage, tracing, and metadata management. By treating dataflows as testable components, Hamilton makes it easy to validate, version, and scale workflows across any environment where Python runs. It’s particularly suited for AI/ML and orchestration tasks, though it can also be applied to broader data engineering scenarios.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/apache/hamilton) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/hamilton) · [← Back to Crypto](./README.md)</sub>

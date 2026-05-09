@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 378 |
+| ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary of the emavgl/oinkoin project:
-
-Oinkoin is a user-friendly, open-source expense management app built with Flutter, allowing users to track their spending without the need for an internet connection. This mobile application provides a convenient and offline-capable solution for individuals to manage their finances effectively. With Oinkoin, users can easily record and categorize their expenses, making it an ideal tool for personal budgeting.
+Oinkoin is an open‑source Flutter mobile app designed to help users track and manage their personal expenses without requiring an internet connection. Its offline‑first approach ensures data privacy and reliable performance, while offering a clean, intuitive frontend for budgeting on the go.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/emavgl/oinkoin) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/emavgl/oinkoin) · [← Back to Frontend](./README.md)</sub>
