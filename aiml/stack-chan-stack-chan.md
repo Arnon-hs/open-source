@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 167 |
+| 🍴 **Forks** | 168 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatgpt` `esp32` `fusion360` `hardware` `javascript` `kawaii` `kicad` `m5stack` `moddable` `robots` `schematics` `stackchan`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Stack-chan is a charming, open-source robot built on the M5Stack platform, driven by JavaScript and powered by your creativity. With its adorable design, Stack-chan is an ideal project for developers and makers looking to explore artificial intelligence and machine learning concepts. This project allows users to customize and learn from its behavior, making it an engaging and educational experience."
+stack‑chan is an open‑source, JavaScript‑controlled robot built on the M5Stack ESP32 platform, designed to be compact, expressive, and “super‑kawaii.” It combines AI/ML capabilities—such as voice interaction, facial recognition, and emotion detection—with a range of sensors, actuators, and customizable animations, allowing developers to program sophisticated behaviors using familiar JavaScript APIs. The project provides full hardware schematics, firmware, and example code so users can quickly assemble, extend, and personalize their own interactive robot.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/stack-chan/stack-chan) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/stack-chan/stack-chan) · [← Back to AI/ML](./README.md)</sub>

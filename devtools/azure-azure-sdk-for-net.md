@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`azure` `azure-sdk` `c-sharp` `dotnet` `hacktoberfest` `microsoft`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Azure/azure-sdk-for-net is a promising open-source project. Categories: DevTools. Interest score: 97/100.
+Azure/azure-sdk-for-net is the official, open‑source repository that houses the actively developed Azure SDK libraries for the .NET platform. It provides idiomatic .NET client libraries, tooling, and samples that enable developers to integrate Azure services (such as storage, compute, AI, and more) into their applications, with comprehensive documentation available on Microsoft Learn and the project’s versioned site. The project welcomes contributions and follows the Azure SDK design guidelines to ensure consistency, reliability, and ease of use across all services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/Azure/azure-sdk-for-net) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Azure/azure-sdk-for-net) · [← Back to DevTools](./README.md)</sub>

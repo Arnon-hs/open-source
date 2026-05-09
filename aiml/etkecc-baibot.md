@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 221 |
+| ⭐ **Stars** | 222 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `chatgpt` `llm` `matrix` `openai`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The baibot project is an open-source Matrix bot that leverages the capabilities of Artificial Intelligence (AI) and Large Language Models, such as OpenAI and Anthropic, to perform various tasks including text generation, text-to-speech conversion, and image generation. This bot aims to provide a unified interface for interacting with multiple AI models, making it accessible for developers and users to utilize AI capabilities within the Matrix ecosystem. By utilizing baibot, users can explore and integrate AI functionalities into their Matrix experiences.
+etkecc/baibot is an open‑source Matrix bot that integrates multiple AI services—such as text generation, speech synthesis, speech recognition, and image creation—from providers like OpenAI and Anthropic. By exposing these capabilities through Matrix chat, users can interact with large language models and multimodal AI directly from their preferred messaging environment. The project is designed for easy extensibility and community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/etkecc/baibot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/etkecc/baibot) · [← Back to AI/ML](./README.md)</sub>

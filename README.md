@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3739** |
+| 🗂️ **Total projects** | **3779** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1494 | [Browse →](./aiml/) |
-| 📦 **Misc** | 596 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 378 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 368 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 196 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 194 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 149 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 1508 | [Browse →](./aiml/) |
+| 📦 **Misc** | 605 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 383 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 373 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 198 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 196 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 151 | [Browse →](./crypto/) |
 | 📊 **Data** | 85 | [Browse →](./data/) |
 | 💳 **Payments** | 82 | [Browse →](./payments/) |
 | 📈 **Trading** | 54 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 48 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 40 | [Browse →](./mobile/) |
 | 🔐 **Security** | 31 | [Browse →](./security/) |
 | ✨ **Design** | 11 | [Browse →](./design/) |
@@ -46,8 +46,8 @@
 | 5 | [affaan-m/everything-claude-code](./aiml/affaan-m-everything-claude-code.md) | ⭐ 176k | AI/ML |
 | 6 | [google/zx](./devtools/google-zx.md) | ⭐ 45.5k | DevTools |
 | 7 | [zulip/zulip](./frontend/zulip-zulip.md) | ⭐ 25.2k | Frontend |
-| 8 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
-| 9 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
+| 8 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
+| 9 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
 | 10 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
 
 ## 🚀 How it works

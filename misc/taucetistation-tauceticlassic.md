@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 432 |
 | 💻 **Language** | DM |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`byond` `dm` `game` `ss13` `tauceti` `taucetistation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The TauCetiStation/TauCetiClassic project is an open-source initiative that appears to be a recreation or reinterpretation of the classic game "Frankenstein Lives" from a specific perspective. The project's title suggests a connection to the planet Tau Ceti, which is a star system in science fiction often associated with exoplanetary life. The project's details are limited, but it may offer a renewed or alternative version of the original game.
+TauCetiStation/TauCetiClassic is an open‑source project that revives and expands the classic “Frankenstein is alive” (Франкенштейн жив) concept, offering a modular framework for building and customizing retro‑style game worlds. It provides a collection of assets, scripts, and tools that enable developers to create their own versions of the original experience while supporting modern platforms and community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/TauCetiStation/TauCetiClassic) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/TauCetiStation/TauCetiClassic) · [← Back to Misc](./README.md)</sub>

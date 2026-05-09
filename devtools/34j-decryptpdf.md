@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-tool` `cross-platform` `decryption` `linux` `macos` `pdf` `pdf-decrypt` `pikepdf` `pypi` `pypi-package`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the 34j/decryptpdf project:
-
-DecryptPDF is an open-source command-line tool designed to simplify the process of unlocking and removing passwords from PDF files. This lightweight utility allows for batch processing and decryption using a simple and intuitive CLI interface. With DecryptPDF, users can easily access their encrypted PDF content.
+A lightweight command‑line utility that removes passwords from PDF files, allowing you to unlock and process documents in bulk. It can be run directly with `uvx decryptpdf my.pdf` or via `pipx run decryptpdf my.pdf`, making it simple to integrate into scripts or workflows. Ideal for developers needing a quick, no‑frills PDF decryption tool.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/34j/decryptpdf) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/34j/decryptpdf) · [← Back to DevTools](./README.md)</sub>

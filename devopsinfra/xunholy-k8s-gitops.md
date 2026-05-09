@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`flux` `gitops` `k8s-at-home` `kubernetes` `kubesearch` `renovate` `talos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The xunholy/k8s-gitops project is an open-source initiative that leverages GitOps with FluxCD to manage Kubernetes clusters. It achieves a unified source of truth, streamlined automated workflows, and declarative infrastructure, aligning with modern DevOps best practices. This project enables users to simplify cluster management and enhance the overall development experience.
+xunholy/k8s-gitops is an open‑source repository that provides a complete, production‑ready Kubernetes cluster setup driven by GitOps principles using Flux CD. It centralises the cluster’s desired state in a single Git source, automates deployments and infrastructure changes through declarative manifests, and showcases modern DevOps best practices for reproducible, self‑healing environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/xunholy/k8s-gitops) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/xunholy/k8s-gitops) · [← Back to DevOps & Infra](./README.md)</sub>

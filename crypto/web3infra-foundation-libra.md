@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54 |
-| 🍴 **Forks** | 86 |
+| ⭐ **Stars** | 55 |
+| 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`git` `jj` `pijul` `rust` `vcs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-The web3infra-foundation/libra project represents a significant evolution in the Libra ecosystem, transforming it into an AI agent-native platform for streamlined version control. This innovative approach aims to leverage artificial intelligence capabilities to enhance development and infrastructure workflows, particularly in the realms of cryptocurrency and DevOps. By integrating AI into Libra's infrastructure, the project seeks to revolutionize the way developers collaborate and manage their codebases.
+Libra is an open‑source platform that merges version‑control capabilities with AI agents, enabling developers to manage code, configurations, and infrastructure through conversational interfaces. Built for the web3 ecosystem, it provides crypto‑aware tooling and DevOps automation while allowing AI/ML models to interact directly with repositories, streamlining collaborative development and deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/web3infra-foundation/libra) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/web3infra-foundation/libra) · [← Back to Crypto](./README.md)</sub>

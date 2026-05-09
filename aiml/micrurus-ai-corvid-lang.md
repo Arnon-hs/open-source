@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Corvid-lang is an open-source programming language designed to ensure the reliability and safety of artificial intelligence (AI) systems. This language checks and validates AI models before execution, providing an additional layer of security against potential biases, errors, or malicious code. By utilizing Corvid-lang, developers can build more trustworthy and transparent AI applications.
+Micrurus‑Ai/Corvid‑lang is an open‑source programming language designed to validate and test AI models before execution, ensuring safety, correctness, and compliance with predefined constraints. By embedding static analysis, runtime checks, and model‑verification primitives directly into the language, developers can catch logic errors, bias, and security issues early in the development cycle. Ideal for AI/ML pipelines, Corvid‑lang helps teams ship more reliable and trustworthy intelligent systems.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/Micrurus-Ai/Corvid-lang) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Micrurus-Ai/Corvid-lang) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agent-windows` `claude` `claude-code` `claude-skills` `hermes` `multi-agent` `openclaw` `openclaw-feishu` `openclaw-like` `openclaw-skill` `openclaw-wechat`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-OpenPisci is an open-source AI agent designed for Windows desktops, enabling multi-agent and skill-based interactions. It offers seamless connectivity to popular platforms such as Feishu and Weixin, facilitating integration with diverse applications. This project is ideal for developers looking to create complex AI-driven workflows and automations on Windows desktops.
+njbinbin‑pisci/openpisci is an open‑source AI agent platform that brings the capabilities of OpenClaw to native desktop GUIs, enabling seamless interaction with local applications. It supports multiple concurrent agents, extensible skill modules, and integrations with popular communication tools such as Feishu, WeChat, and others, making it suitable for orchestration, AI/ML workflows, and frontend automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/njbinbin-pisci/openpisci) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/njbinbin-pisci/openpisci) · [← Back to Orchestration](./README.md)</sub>

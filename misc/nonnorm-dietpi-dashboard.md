@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dietpi` `lightweight` `nomini` `rust` `web-dashboard`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-DietPi-Dashboard is a lightweight, open-source web interface designed specifically for DietPi, providing users with a centralized and easy-to-use platform for managing their devices. This standalone dashboard offers a user-friendly experience, allowing users to monitor and control their system with ease. It is a valuable addition to the DietPi ecosystem, enhancing the overall user experience for those utilizing this popular operating system.
+The nonnorm/DietPi‑Dashboard project provides a lightweight, standalone web interface for monitoring and managing DietPi systems. It offers a clean, responsive dashboard that displays key system metrics, service statuses, and allows quick access to common configuration tasks without requiring additional heavyweight tools. Ideal for users who want a simple, open‑source solution to keep an eye on their DietPi devices from any browser.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/nonnorm/DietPi-Dashboard) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/nonnorm/DietPi-Dashboard) · [← Back to Misc](./README.md)</sub>

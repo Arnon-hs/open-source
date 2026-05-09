@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 785 |
+| ⭐ **Stars** | 788 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alienfx` `alienfx-usb-controller` `alienware` `alienware-computer` `alienware-fans` `cli` `cplusplus` `fan-control` `gui` `light-control` `lighting-effects` `power-control`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The T-Troll/alienfx-tools project offers an open-source collection of tools and apps that provide comprehensive control over Alienware systems, including lights, fans, and power management. This suite of tools allows users to customize and fine-tune their Alienware experience, enabling enhanced performance, improved system efficiency, and personalized aesthetic settings. By leveraging this project, users can unlock advanced features and capabilities on their Alienware devices.
+T‑Troll/alienfx‑tools is an open‑source suite for managing Alienware hardware, providing utilities to control system RGB lighting, fan speeds, and power profiles. It includes both command‑line tools and graphical front‑ends, making it easy for users to customize and automate their Alienware experience. The project is geared toward developers and power users who want fine‑grained control over their machine’s hardware features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/T-Troll/alienfx-tools) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/T-Troll/alienfx-tools) · [← Back to Frontend](./README.md)</sub>

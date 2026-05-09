@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 162 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 184 |
+| 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`devops` `monitor` `nodeget` `probe` `worker`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-NodeSeekDev/NodeGet is an open-source project that provides a next-generation platform for server monitoring and management. This comprehensive toolset offers real-time insights and granular control over servers, enabling developers to optimize performance, troubleshoot issues, and streamline their infrastructure. By utilizing NodeGet, users can gain unparalleled visibility and automation capabilities for their backend operations.
+NodeGet is a modern, open‑source suite for real‑time server monitoring and management, built on Node.js. It provides lightweight agents, a customizable dashboard, and automated alerting to help backend teams track performance metrics, resource usage, and service health across distributed environments. The project emphasizes extensibility through plugins and API integrations, making it suitable for both small deployments and large‑scale infrastructures.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/NodeSeekDev/NodeGet) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NodeSeekDev/NodeGet) · [← Back to Backend](./README.md)</sub>

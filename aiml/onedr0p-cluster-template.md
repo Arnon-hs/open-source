@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | YAML |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cilium` `flux` `gitops` `kubernetes` `mise` `sops` `talos`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project provides a template for deploying a Talos-based Kubernetes cluster with Flux for GitOps, enabling streamlined management and automation of infrastructure and applications. The template supports the development and deployment of AI/ML and other containerized workloads. By leveraging Talos and Flux, users can simplify their cluster management and ensure consistency across their environments.
+A lightweight, opinionated template for provisioning a Talos‑based Kubernetes cluster, pre‑configured with Flux CD to enable GitOps workflows. It provides ready‑to‑use manifests, Helm charts and CI/CD scripts that automate cluster bootstrapping, node provisioning, and continuous delivery of infrastructure and applications. Ideal for DevOps teams looking to quickly spin up reproducible, self‑hosted clusters with minimal manual setup.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/onedr0p/cluster-template) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/onedr0p/cluster-template) · [← Back to AI/ML](./README.md)</sub>

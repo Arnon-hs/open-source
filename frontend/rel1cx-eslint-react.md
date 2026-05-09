@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 544 |
+| ⭐ **Stars** | 545 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`eslint-plugin-react-dom` `eslint-plugin-react-jsx` `eslint-plugin-react-naming-convention` `eslint-plugin-react-rsc` `eslint-plugin-react-web-api` `eslint-plugin-react-x`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Rel1cx/eslint-react is an open-source project that provides a set of ESLint rules designed specifically for React applications, with a focus on performance and composability. These rules are engineered to be 4-7 times faster than traditional ESLint rules, making them an ideal choice for large and complex React projects. By utilizing composable rules, developers can easily customize and extend the rules to fit their specific needs.
+Rel1cx/eslint-react provides a high‑performance, composable set of ESLint rules specifically tuned for React and its ecosystem, delivering linting speeds that are 4–7× faster than typical configurations. By offering modular, easily customizable rules, it helps developers maintain clean, consistent code across both frontend and backend projects that use React, while keeping the tooling lightweight and developer‑friendly.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Rel1cx/eslint-react) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Rel1cx/eslint-react) · [← Back to Frontend](./README.md)</sub>

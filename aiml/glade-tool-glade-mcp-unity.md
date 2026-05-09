@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 81 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 95 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-tools` `claude` `cursor` `game-development` `gamedev` `gemini` `llm` `mcp` `model-context-protocol` `openai` `unity`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-Glade-tool/glade-mcp-unity is an open-source solution that bridges any MCP-compatible AI client with the Unity Editor, unlocking a vast array of tools and features for developers. With over 222 granular tools and a Unity-aware system prompt, this project streamlines game development by providing a local, free, and comprehensive platform for AI integration, design documentation, and script management. This innovative toolset empowers developers to harness the full potential of AI in their Unity projects.
+Glade‑tool/glade‑mcp‑unity is an open‑source Unity extension that bridges any MCP‑compatible AI client (such as Claude Code or Cursor) directly into the Unity Editor. It offers over 222 granular AI‑driven utilities—including a Unity‑aware system prompt, game‑design document context, script semantic search, and skill calibration—all running locally and free of charge. This tool streamlines AI‑assisted development, scripting, and design workflows within Unity.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Glade-tool/glade-mcp-unity) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Glade-tool/glade-mcp-unity) · [← Back to AI/ML](./README.md)</sub>

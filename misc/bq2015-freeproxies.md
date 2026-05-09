@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 565 |
-| 🍴 **Forks** | 146 |
+| ⭐ **Stars** | 575 |
+| 🍴 **Forks** | 147 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This project, FreeProxies, provides a free and permanent solution for bypassing internet restrictions and accessing the internet securely. It features an auto-updating proxy list refreshed every 10 minutes, only retaining available nodes, and allows for easy subscription link imports with minimal maintenance. By forking the repository, users can ensure the link's longevity and support the project.
+FreeProxies is an open‑source repository that maintains a constantly refreshed list of free, globally accessible proxy nodes for bypassing internet restrictions. The project automatically updates the node pool every 10 minutes, filters out non‑working entries, and provides a ready‑to‑use subscription link that can be imported with a single click. Users are encouraged to star the project and fork it to preserve the subscription URL.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/bq2015/FreeProxies) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bq2015/FreeProxies) · [← Back to Misc](./README.md)</sub>

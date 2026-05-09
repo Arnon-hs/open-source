@@ -1,6 +1,6 @@
 # cocoindex-io/cocoindex
 
-[![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat-square&color=yellow)](https://github.com/cocoindex-io/cocoindex/stargazers) [![Forks](https://img.shields.io/github/forks/cocoindex-io/cocoindex?style=flat-square&color=blue)](https://github.com/cocoindex-io/cocoindex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat-square&color=yellow)](https://github.com/cocoindex-io/cocoindex/stargazers) [![Forks](https://img.shields.io/github/forks/cocoindex-io/cocoindex?style=flat-square&color=blue)](https://github.com/cocoindex-io/cocoindex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
 
 > Incremental engine for long horizon agents 🌟 Star if you like it!
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.3k |
-| 🍴 **Forks** | 610 |
+| ⭐ **Stars** | 9.2k |
+| 🍴 **Forks** | 687 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 95/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-data-framework` `ai` `ai-agents` `change-data-capture` `codebase-intelligence` `context-engineering` `data-engineering` `data-indexing` `data-processing` `etl` `help-wanted` `indexing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The cocoindex project is an open-source incremental engine designed to support long horizon agents. This engine enables efficient and scalable decision-making for complex AI and machine learning applications. By providing a robust and adaptable framework, cocoindex facilitates the development of intelligent systems that can effectively navigate intricate environments and make informed decisions over extended periods.
+cocoindex is an open‑source incremental engine designed to support long‑horizon agents, enabling them to efficiently store, query, and update large-scale contextual data as they operate over extended time periods. By providing a lightweight, scalable indexing layer with built‑in versioning and fast retrieval, it helps AI/ML applications maintain coherent state across many interaction steps. The project is community‑driven and welcomes contributions, with a star‑friendly vibe for supporters.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cocoindex-io/cocoindex) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cocoindex-io/cocoindex) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 977 |
+| ⭐ **Stars** | 978 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`build-tool` `bundler` `frontend` `javascript` `library` `rsbuild` `rslib` `rspack` `rstack` `typescript` `webpack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The rslib project is an open-source initiative that simplifies the process of creating JavaScript libraries, making it more accessible and user-friendly for developers. This project empowers frontend engineers and DevOps/infrastructure professionals to craft high-quality libraries with ease, streamlining their development workflow. By leveraging rslib, developers can now focus on building robust and efficient libraries with minimal effort.
+**web‑infra‑dev/rslib** is an open‑source toolkit that streamlines the creation of JavaScript libraries, offering a clean, intuitive API and build pipeline that abstracts away repetitive configuration. It targets both frontend developers and DevOps/infrastructure teams, enabling rapid development, testing, and deployment of reusable modules with minimal setup.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/web-infra-dev/rslib) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/web-infra-dev/rslib) · [← Back to Frontend](./README.md)</sub>

@@ -2,22 +2,22 @@
 
 [![Stars](https://img.shields.io/github/stars/study8677/antigravity-workspace-template?style=flat-square&color=yellow)](https://github.com/study8677/antigravity-workspace-template/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/antigravity-workspace-template?style=flat-square&color=blue)](https://github.com/study8677/antigravity-workspace-template/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
-> Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf. Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.
+> Multi-agent knowledge engine (ag-refresh / ag-ask) that turns any codebase into a queryable AI assistant.Workspace template + MCP server for Claude Code, Codex CLI, Cursor & Windsurf.
 
 ## 📊 Stats
 
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 246 |
+| 🍴 **Forks** | 249 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-coding` `ai-agents` `ai-coding` `ai-ide` `ai-workspace` `claude-code` `claude-code-template` `code-search` `codex` `codex-cli` `cursor-ide`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The antigravity-workspace-template is an open-source starter kit for building AI-powered Integrated Development Environments (IDEs) and other agentic coding environments, providing a foundation for developers to create next-generation coding tools. It supports AI frameworks like Claude and Codex, catering to the growing need for AI-driven development tools. This template is an ideal starting point for building cutting-edge AI IDEs and coding platforms.
+The **antigravity‑workspace‑template** provides a ready‑to‑use development environment that powers a multi‑agent knowledge engine (ag‑refresh / ag‑ask). It turns any codebase into a queryable AI assistant by integrating Claude Code, Codex CLI, Cursor and Windsurf through an MCP server, enabling orchestration of AI‑driven code analysis, generation, and interaction. This template streamlines backend setup for AI/ML‑focused tooling and automated workspace workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/study8677/antigravity-workspace-template) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/study8677/antigravity-workspace-template) · [← Back to Orchestration](./README.md)</sub>
