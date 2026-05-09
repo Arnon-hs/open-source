@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 645 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bungie` `destiny` `react` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-DestinyItemManager/DIM is a promising open-source project. Categories: Frontend. Interest score: 69/100.
+Destiny Item Manager (DIM) is an open‑source web application that lets players of the Destiny series view, organize, and transfer their in‑game gear across characters and platforms. Built with a modern frontend stack, it integrates directly with Bungie’s API to provide real‑time inventory management, loadout sharing, and item comparison tools. The project is community‑driven, offering extensible features and frequent updates for the Destiny community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/DestinyItemManager/DIM) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DestinyItemManager/DIM) · [← Back to Frontend](./README.md)</sub>

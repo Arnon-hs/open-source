@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-memory` `claude-code` `long-term-memo` `mcp` `memory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The forgetful project is an open-source initiative that focuses on developing a memory system for artificial agents. This AI/ML project aims to create a model that enables agents to learn and adapt while also incorporating a mechanism for forgetting, allowing them to avoid knowledge overload and improve their decision-making capabilities. By implementing a forgetful memory system, the project seeks to enhance the overall performance and efficiency of artificial agents.
+ScottRBK/forgetful is an open‑source library that provides a lightweight, differentiable memory module designed for AI agents, enabling them to store, retrieve, and selectively forget information during training and inference. By integrating a controllable forgetting mechanism, the project helps improve long‑term reasoning and reduces memory bloat in reinforcement learning and language model applications. It is released under an MIT license and can be easily plugged into existing PyTorch‑based pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/ScottRBK/forgetful) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ScottRBK/forgetful) · [← Back to AI/ML](./README.md)</sub>

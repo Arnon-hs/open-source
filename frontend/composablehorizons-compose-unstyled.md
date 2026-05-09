@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `compose-desktop` `compose-multiplatform` `compose-ui` `compose-web` `design-systems` `ios` `jetpack-compose` `kotlin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile · Design
 
 ## 📝 Summary
 
-Compose Unstyled is an open-source project that fills the gap in Jetpack Compose's UI ecosystem by providing a comprehensive Design System layer. This library offers a set of reusable, adaptable components and a robust architecture that enables developers to create consistent, visually appealing user interfaces with ease. By leveraging Compose Unstyled, developers can build high-quality UI components without sacrificing customizability or performance.
+Composable Horizons / compose‑unstyled fills the gap between raw Jetpack Compose UI components and a full‑blown design system. It provides a lightweight, unstyled foundation of reusable composables, theming utilities, and layout primitives that let developers craft their own visual language while keeping code modular and maintainable. Ideal for frontend and mobile teams seeking a flexible, design‑system‑agnostic layer for Compose‑based apps.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/composablehorizons/compose-unstyled) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/composablehorizons/compose-unstyled) · [← Back to Frontend](./README.md)</sub>

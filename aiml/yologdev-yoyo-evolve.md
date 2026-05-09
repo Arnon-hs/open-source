@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 114 |
+| 🍴 **Forks** | 115 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The yoyo-evolve project is an open-source, self-evolving AI coding agent that writes its own code in real-time, providing a unique opportunity to witness its growth and development publicly. This Truman Show-like AI system allows users to observe its learning process and evolution, offering insights into the capabilities and limitations of artificial intelligence.
+yoyo-evolve is an open‑source experiment that showcases a self‑evolving AI coding agent, which autonomously writes, modifies, and improves its own source code while being publicly visible. The project serves as a “Truman Show” for AI development, allowing observers to watch the agent’s growth, learning cycles, and emergent capabilities in real time. It targets AI/ML enthusiasts interested in meta‑programming, continual learning, and transparent AI evolution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/yologdev/yoyo-evolve) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yologdev/yoyo-evolve) · [← Back to AI/ML](./README.md)</sub>

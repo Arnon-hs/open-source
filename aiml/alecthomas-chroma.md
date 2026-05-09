@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 482 |
+| 🍴 **Forks** | 483 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`console` `go` `golang` `highlighter` `highlighting` `html` `library` `syntax` `tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Chroma is an open-source, pure Go syntax highlighter designed for general-purpose use. It provides a flexible and customizable way to colorize source code from various programming languages, making it a valuable tool for developers and language enthusiasts alike. Developed by Alec Thomas, Chroma supports a wide range of programming languages and can be easily integrated into various applications and projects.
+Alecthomas/chroma is a pure‑Go library that provides fast, extensible syntax highlighting for a wide range of programming languages. It parses source code into token streams and applies customizable style themes, making it easy to embed highlighted code in web pages, terminal applications, or static documentation generators. Although written in Go, it can be used from any language that can call Go libraries, offering a versatile, open‑source solution for developers needing language‑aware code rendering.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/alecthomas/chroma) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/alecthomas/chroma) · [← Back to AI/ML](./README.md)</sub>

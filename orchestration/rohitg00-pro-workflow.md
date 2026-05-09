@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 197 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 198 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai-agents` `ai-coding` `ai-workflow` `claude` `claude-code` `claude-code-plugin` `claude-code-skills` `claude-skills` `codex` `context-engineering` `cursor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-The open-source project "pro-workflow" by rohitg00 enables Claude Code to learn from user corrections, improving its accuracy through a self-correcting memory mechanism that compounds knowledge over multiple sessions. This tool also features advanced capabilities such as context engineering, parallel worktrees, and agent teams, along with 17 battle-tested skills. Developers can leverage these features for efficient orchestration, AI/ML tasks, and other DevTools applications.
+Rohitg00’s **pro‑workflow** is an open‑source orchestration framework that lets Claude‑based code assistants continuously improve by learning from user corrections, building a self‑correcting memory that compounds across 50+ sessions. It combines advanced context engineering, parallel Git worktrees, and modular agent teams, offering 17 battle‑tested AI/ML‑driven skills to streamline complex development pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/rohitg00/pro-workflow) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/rohitg00/pro-workflow) · [← Back to Orchestration](./README.md)</sub>

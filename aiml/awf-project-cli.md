@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `claude` `codex-cli` `gemini` `golang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The awf-project/cli is an open-source, Go-based command-line tool designed to simplify the orchestration of AI agents through the use of deterministic YAML workflows. This tool enables developers to create and manage complex AI workflows with ease, ensuring predictable and reliable outcomes. By utilizing YAML workflows, the tool allows for a high degree of customization and flexibility in AI agent orchestration.
+awf‑project/cli is an open‑source Go command‑line utility that lets you define and run AI‑agent workflows using simple YAML files. It guarantees deterministic execution and includes hardening features to make the orchestration reliable and secure, making it a handy DevTools addition for AI/ML pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/awf-project/cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/awf-project/cli) · [← Back to AI/ML](./README.md)</sub>

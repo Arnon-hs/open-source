@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `cloud-native` `dev-services` `developer-experience` `java` `llm` `micrometer` `multitenancy` `observability` `opentelemetry` `spring-ai` `spring-boot`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Arconia is an open-source framework designed to enhance enterprise applications built with Java and Spring Boot. By integrating Arconia into an existing Spring Boot application, developers can streamline their workflow, reduce redundant code, and easily adopt cloud native patterns. This framework aims to boost developer experience and efficiency in modern software development.
+Arconia is an open‑source framework that plugs into Spring Boot to streamline the development of modern, cloud‑native Java enterprise applications. By providing concise APIs and utilities, it reduces boilerplate code, improves developer ergonomics, and makes it easy to adopt best‑practice patterns for scalability and resilience. It serves as a dev‑tools add‑on, enhancing productivity without requiring major changes to existing Spring Boot projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/arconia-io/arconia) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/arconia-io/arconia) · [← Back to AI/ML](./README.md)</sub>

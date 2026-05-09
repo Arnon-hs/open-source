@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 471 |
+| ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agentic-ai` `ai-agent` `ai-governance` `ai-orchestration` `ai-safety` `audit-trail` `autonomous-agents` `control-plane` `devops` `governance` `human-in-the-loop`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary for the cordum project:
-
-Cordum is an open-source control plane for governing autonomous AI agents, providing pre-execution policy enforcement, approval gates, and audit trails to ensure secure and compliant AI operations. It supports integration with various frameworks, including LangChain, CrewAI, and MCP, offering flexibility and scalability for AI orchestration. With cordum, organizations can effectively manage and monitor their autonomous AI agents.
+Cordum is an open‑source control plane for autonomous AI agents, providing pre‑execution policy enforcement, approval gates, and comprehensive audit trails. It integrates seamlessly with popular frameworks such as LangChain, CrewAI, MCP, and others, enabling secure and governed orchestration of AI/ML workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cordum-io/cordum) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cordum-io/cordum) · [← Back to Orchestration](./README.md)</sub>

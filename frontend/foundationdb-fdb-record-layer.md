@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 662 |
-| 🍴 **Forks** | 123 |
+| ⭐ **Stars** | 661 |
+| 🍴 **Forks** | 122 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`foundationdb` `relational-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data
 
 ## 📝 Summary
 
-The FoundationDB/fdb-record-layer project is an open-source relational database that integrates SQL capabilities on top of FoundationDB. This project enables developers to utilize a traditional relational database management system (RDBMS) alongside the high-performance, distributed architecture of FoundationDB. By combining these two technologies, users can leverage the benefits of both worlds.
+FoundationDB fdb‑record‑layer is an open‑source library that adds a relational, SQL‑like data model on top of the FoundationDB key‑value store. It provides schema definition, indexing, query planning and execution, enabling developers to build high‑performance, ACID‑compliant applications without managing a separate RDBMS. The project fits both frontend and data‑management categories, offering a flexible, version‑controlled record layer for modern cloud‑native workloads.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/FoundationDB/fdb-record-layer) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/FoundationDB/fdb-record-layer) · [← Back to Frontend](./README.md)</sub>

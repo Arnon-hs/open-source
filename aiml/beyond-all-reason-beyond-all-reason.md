@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 581 |
+| 🍴 **Forks** | 584 |
 | 💻 **Language** | Lua |
 | 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-beyond-all-reason/Beyond-All-Reason is a promising open-source project. Categories: AI/ML. Interest score: 75/100.
+Beyond All Reason (BAR) is an open‑source, high‑performance real‑time strategy game engine that focuses on massive battles, advanced physics, and scalable AI. The repository hosts the core game code, tools, and assets, enabling developers to contribute to its modular architecture, improve unit AI, and extend gameplay features. It serves as both a platform for AI/ML research in RTS environments and a community‑driven project for building and customizing large‑scale strategy games.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/beyond-all-reason/Beyond-All-Reason) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/beyond-all-reason/Beyond-All-Reason) · [← Back to AI/ML](./README.md)</sub>

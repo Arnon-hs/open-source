@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 538 |
+| 🍴 **Forks** | 548 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The kyrolabs/awesome-agents project is an open-source, curated list of notable AI agents, providing a centralized resource for exploring and learning about the latest advancements in artificial intelligence. This repository aims to catalog a diverse range of AI agents, from language models to robotic systems, and everything in between. By aggregating these agents in one place, the project facilitates discovery and comparison of different AI solutions.
+The **awesome-agents** repository curated by kyrolabs is a curated collection of resources, tools, and research papers related to AI agents—from autonomous chatbots and reinforcement‑learning agents to multi‑modal and task‑oriented systems. It serves as a go‑to reference for developers, researchers, and enthusiasts looking for state‑of‑the‑art implementations, frameworks, datasets, and best practices in building intelligent agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kyrolabs/awesome-agents) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kyrolabs/awesome-agents) · [← Back to AI/ML](./README.md)</sub>

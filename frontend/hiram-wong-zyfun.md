@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `tdesign` `vite` `vue3` `zyplayer`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-zyfun is an open-source, cross-platform desktop video player that offers a visually appealing and free experience. This project combines frontend development with design principles to create a high-quality video player that can be used on multiple platforms. With a focus on aesthetics and functionality, zyfun is an attractive option for users seeking a premium video playback experience.
+Hiram‑Wong/zyfun is an open‑source, cross‑platform desktop video player that focuses on a sleek, high‑quality visual design. It provides a free, aesthetically pleasing interface for browsing and playing video resources on Windows, macOS, and Linux. Ideal for developers and designers looking for a modern multimedia solution with a strong emphasis on UI/UX.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Hiram-Wong/zyfun) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Hiram-Wong/zyfun) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`webhook` `webhook-api` `webhook-events` `webhook-server` `webhook-service` `webhooks`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the hook0 project:
-
-hook0 is an open-source webhook server that simplifies the process of providing webhooks to users, eliminating the need for tedious feature implementation. This robust backend solution handles a wide range of tasks, making it easier to manage webhooks and enhance user experiences. With hook0, developers can focus on creating innovative applications while leveraging its comprehensive features.
+hook0 is an open‑source webhook server that lets developers quickly expose reliable webhooks to their users without building the infrastructure from scratch. It bundles common, often‑repeated features—such as request validation, retry handling, signature verification, and delivery tracking—into a ready‑to‑run backend service. This lets teams focus on core business logic while hook0 manages the heavy lifting of webhook management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/hook0/hook0) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hook0/hook0) · [← Back to Backend](./README.md)</sub>

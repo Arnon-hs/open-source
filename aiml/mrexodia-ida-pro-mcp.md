@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.2k |
-| 🍴 **Forks** | 985 |
+| ⭐ **Stars** | 8.3k |
+| 🍴 **Forks** | 997 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `aiagent` `binary-analysis` `ida-plugin` `ida-pro` `mcp` `mcp-server` `modelcontextprotocol` `reverse-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-This project, ida-pro-mcp, is an open-source tool that enables AI-powered reverse engineering assistance in IDA Pro. It integrates language models with IDA Pro through the MCP (Machine Code Parser) interface, streamlining the process of analyzing and understanding complex binary code. This integration helps reverse engineers leverage the capabilities of AI to accelerate their workflow and gain deeper insights into binary code.
+mrexodia/ida‑pro‑mcp is an open‑source backend that connects IDA Pro to modern language models, turning the disassembler into an AI‑powered reverse‑engineering assistant. By exposing a simple MCP (Message‑Passing Control) interface, it lets users query large language models for code analysis, de‑obfuscation suggestions, and automated documentation directly from within IDA. The project streamlines the integration of AI/ML capabilities into traditional binary analysis workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mrexodia/ida-pro-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mrexodia/ida-pro-mcp) · [← Back to AI/ML](./README.md)</sub>

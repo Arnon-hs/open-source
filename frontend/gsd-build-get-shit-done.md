@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60.1k |
-| 🍴 **Forks** | 5.1k |
+| ⭐ **Stars** | 61.1k |
+| 🍴 **Forks** | 5.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude-code` `context-engineering` `meta-prompting` `spec-driven-development`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-gsd-build/get-shit-done is a lightweight, powerful meta-prompting, context engineering, and spec-driven development system designed specifically for Claude Code by TÂCHES. This system aims to revolutionize the development process by providing a streamlined and efficient workflow. It serves as a valuable tool for developers working with Claude Code, enabling them to focus on creating high-quality applications.
+gsd‑build/get‑shit‑done is a lightweight, meta‑prompting framework that streamlines context engineering and spec‑driven development for Claude Code, the AI‑powered coding assistant from TÂCHES. By allowing developers to define reusable prompts, specifications, and execution contexts, it accelerates prototyping and boosts code quality while keeping the frontend footprint minimal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gsd-build/get-shit-done) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gsd-build/get-shit-done) · [← Back to Frontend](./README.md)</sub>

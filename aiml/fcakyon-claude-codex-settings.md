@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 664 |
+| ⭐ **Stars** | 673 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-tools` `claude-ai` `claude-code` `claude-code-plugin` `claude-skills` `claudecode` `claudecode-config` `codex` `codex-cli` `commit-message` `cursor`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-This open-source project, "claude-codex-settings," provides a comprehensive setup for Claude Code and OpenAI Codex users, featuring battle-tested skills, plugins, hooks, and agents tailored for daily use. The project offers a pre-configured framework for optimizing the functionality of these AI tools. By utilizing this setup, users can enhance their productivity and streamline their workflow.
+A personal development toolkit that bundles a finely tuned Claude‑based code assistant with OpenAI Codex, pre‑configured with proven prompts, plugins, hooks, and autonomous agents for daily coding tasks. It streamlines AI‑driven code generation, debugging, and refactoring across frontend and general development workflows, making advanced AI assistance instantly usable out‑of‑the‑box.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/fcakyon/claude-codex-settings) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/fcakyon/claude-codex-settings) · [← Back to AI/ML](./README.md)</sub>

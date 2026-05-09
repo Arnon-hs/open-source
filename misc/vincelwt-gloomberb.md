@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 441 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 462 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Gloomberb is an open-source, terminal-based finance application that provides users with a command-line interface to monitor and manage their financial portfolios. It offers a simple and intuitive way to stay updated on market trends and track personal finances in a minimalistic and efficient manner. With Gloomberb, users can access a wealth of financial information from the comfort of their terminal.
+**Gloomberb** is a lightweight, open‑source finance terminal that runs directly in your command‑line interface, providing real‑time market data, portfolio tracking, and quick access to financial news without leaving the terminal. It supports multiple data sources, customizable watchlists, and simple charting, making it a handy tool for traders and investors who prefer a text‑based workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/vincelwt/gloomberb) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vincelwt/gloomberb) · [← Back to Misc](./README.md)</sub>

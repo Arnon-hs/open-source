@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 33 |
-| 🍴 **Forks** | 5 |
+| ⭐ **Stars** | 36 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-memory` `ai` `ai-agents` `ai-memory` `anthropic` `claude` `claude-code` `embeddings` `local-first` `long-term-memory` `mcp` `memory-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-TrueMemory is an open-source, locally-run living memory system that utilizes long-horizon data to provide valuable insights, empowering users to make more informed decisions. By operating within a single SQLite file, it offers a lightweight and self-contained solution for data analysis. TrueMemory integrates AI/ML capabilities with frontend functionality, streamlining the process of extracting actionable insights from complex data sets.
+TrueMemory is an open‑source, locally‑run memory engine that continuously ingests long‑horizon data streams, stores everything in a single SQLite file, and uses AI/ML inference to surface actionable insights. By acting as an orchestrated “living memory” layer, it enables downstream applications to make more decisive, context‑aware decisions without relying on external services.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/buildingjoshbetter/TrueMemory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/buildingjoshbetter/TrueMemory) · [← Back to Orchestration](./README.md)</sub>
