@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 920 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 921 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ad-blocker` `api` `blocky` `dhcp` `dhcp-server` `dns` `dns-cache` `dns-server` `etcd` `prometheus` `replicated` `webui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the BeryJu/gravity project:
-
-BeryJu/gravity is an open-source, fully-replicated DNS and DHCP server that leverages etcd for its functionality. This project also features built-in ad-blocking capabilities, providing users with a secure and efficient network management solution. With its open-source nature, BeryJu/gravity allows developers to customize and contribute to the project.
+BeryJu/gravity is an open‑source DNS and DHCP server that offers full replication across nodes using etcd, ensuring high availability and consistent configuration. It integrates ad‑blocking directly into the DNS layer, allowing networks to filter unwanted content without additional proxy services. The project provides both backend services and a lightweight frontend UI for managing zones, leases, and blocklists.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/BeryJu/gravity) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/BeryJu/gravity) · [← Back to Frontend](./README.md)</sub>

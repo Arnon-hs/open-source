@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-agentcore
 
-[![Stars](https://img.shields.io/github/stars/spring-ai-community/spring-ai-agentcore?style=flat-square&color=yellow)](https://github.com/spring-ai-community/spring-ai-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-community/spring-ai-agentcore?style=flat-square&color=blue)](https://github.com/spring-ai-community/spring-ai-agentcore/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-ai-community/spring-ai-agentcore?style=flat-square&color=yellow)](https://github.com/spring-ai-community/spring-ai-agentcore/stargazers) [![Forks](https://img.shields.io/github/forks/spring-ai-community/spring-ai-agentcore?style=flat-square&color=blue)](https://github.com/spring-ai-community/spring-ai-agentcore/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Boot integrations for Amazon Bedrock AgentCore
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentcore` `ai` `aws` `bedrock` `spring`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Spring AI AgentCore project is an open-source integration of Spring Boot with Amazon Bedrock AgentCore, enabling developers to leverage the power of AI and machine learning in their applications. This project provides a Spring Boot-based implementation of the AgentCore, simplifying the process of integrating AI capabilities into existing systems. It facilitates the development of AI-driven applications with reduced complexity and increased efficiency.
+Spring AI AgentCore provides seamless Spring Boot integration for Amazon Bedrock’s AgentCore, enabling developers to build, configure, and run AI agents directly within Spring applications. It offers ready‑to‑use auto‑configuration, property‑based setup, and convenient abstractions for invoking Bedrock agents, simplifying the development of intelligent, conversational services. The library is open‑source, lightweight, and fits naturally into the Spring ecosystem for rapid AI/ML prototyping and production deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/spring-ai-community/spring-ai-agentcore) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/spring-ai-community/spring-ai-agentcore) · [← Back to AI/ML](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `developer-tools` `golang` `http` `ngrok-alternative` `ngrok-replacement` `open-source` `python` `reverse-tunnel` `self-hosted` `shadcn-svelte` `shadcn-ui`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The portr project is an open-source tool that allows users to expose local HTTP, TCP, or WebSocket connections to the public internet, enabling easy access and testing of local services. This tool is particularly useful for developers and testers who need to share their local applications or services with others remotely. By simplifying the process of exposing local connections, portr streamlines collaboration and testing.
+**portr** is an open‑source tool that creates secure tunnels, allowing developers to expose local HTTP, TCP, or WebSocket services to the public internet with a single command. It works as a lightweight DevTools utility, handling the connection routing and TLS termination so you can share or test local applications without needing complex proxy setups or cloud deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/amalshaji/portr) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/amalshaji/portr) · [← Back to Frontend](./README.md)</sub>

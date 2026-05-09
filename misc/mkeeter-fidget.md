@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`computer-graphics` `frep` `implicit-surfaces` `jit` `rendering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The fidget project is an open-source library that provides blazing fast implicit surface evaluation. It enables developers to efficiently compute and visualize implicit surfaces, which are mathematical representations of 3D shapes defined by equations. This library is designed to support various applications that require high-performance surface rendering and manipulation.
+mkeeter/fidget is an open‑source library that provides ultra‑fast evaluation of implicit surfaces, leveraging highly optimized algorithms and low‑level data structures to achieve real‑time performance. Designed for flexibility, it can be integrated into graphics, simulation, or computational geometry pipelines where rapid surface queries are essential.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/mkeeter/fidget) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mkeeter/fidget) · [← Back to Misc](./README.md)</sub>

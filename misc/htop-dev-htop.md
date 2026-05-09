@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 588 |
 | 💻 **Language** | C |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bsd` `c` `console` `hacktoberfest` `linux` `macos` `process` `terminal` `viewer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The htop project is an open-source, interactive process viewer for Linux systems. It provides a dynamic and user-friendly interface for monitoring system processes, allowing users to sort, filter, and manage running processes in real-time. With htop, users can easily identify and troubleshoot system performance issues, manage resources, and optimize system utilization.
+htop is a terminal‑based, interactive system‑monitoring tool that provides a real‑time, color‑coded view of running processes, CPU, memory, and swap usage. It allows users to sort, filter, and manage processes directly from the interface with keyboard shortcuts and mouse support. The project is open‑source and maintained under the **htop-dev/htop** repository.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/htop-dev/htop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/htop-dev/htop) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `computer-vision` `dataset-hub` `datasets` `deep-learning` `huggingface` `llm` `machine-learning` `natural-language-processing` `nlp` `numpy`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-The huggingface/datasets repository is an open-source project that provides a comprehensive hub for ready-to-use datasets in AI and machine learning, offering fast and efficient data manipulation tools. This repository serves as a centralized resource for accessing and working with diverse datasets, making it easier for developers to focus on model training and development. It supports a wide range of data formats and can be easily integrated into existing AI projects.
+The **huggingface/datasets** library provides a comprehensive, open‑source hub of ready‑to‑use datasets for machine‑learning and AI research. It offers fast, memory‑efficient data loading and preprocessing tools that integrate seamlessly with popular frameworks such as PyTorch, TensorFlow, and JAX, enabling users to explore, filter, and transform large collections of data with minimal code.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/huggingface/datasets) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/huggingface/datasets) · [← Back to AI/ML](./README.md)</sub>

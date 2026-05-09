@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 450 |
+| ⭐ **Stars** | 451 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `license-checking` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Feluda is an open-source tool that scans your project for potential license usage restrictions. It detects dependencies and libraries that may impose restrictions on your project's usage, helping you avoid licensing issues and maintain compliance. With Feluda, developers can easily identify and address potential licensing conflicts.
+**Feluda** is an open‑source developer tool that scans a codebase to identify the licenses of its dependencies and highlights any usage restrictions they impose. By parsing package metadata and cross‑referencing known license terms, it helps teams ensure compliance and avoid legal pitfalls early in the development process.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/anistark/feluda) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/anistark/feluda) · [← Back to DevTools](./README.md)</sub>

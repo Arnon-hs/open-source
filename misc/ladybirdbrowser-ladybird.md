@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62.8k |
+| ⭐ **Stars** | 63.2k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `browser-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-LadybirdBrowser/ladybird is a promising open-source project. Categories: Misc. Interest score: 93/100.
+Ladybird is an open‑source, fully independent web browser written from the ground up with a focus on standards compliance, security, and modern web technologies. It implements its own rendering engine, JavaScript engine, and networking stack, deliberately avoiding reliance on external browser components. The project aims to provide a lightweight, extensible, and privacy‑respecting browsing experience for developers and power users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/LadybirdBrowser/ladybird) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LadybirdBrowser/ladybird) · [← Back to Misc](./README.md)</sub>

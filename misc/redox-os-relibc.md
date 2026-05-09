@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`libc` `libredox` `linux` `posix` `redox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Redox OS's libc project is an open-source implementation of the standard C library for the Redox OS, providing a foundation for building applications on the operating system. This project aims to offer a reliable alternative to other C libraries, ensuring compatibility and efficiency for users. By mirroring the original repository from GitLab, this project provides a convenient access point for Redox OS developers and contributors.
+relibc is an open‑source, lightweight C standard library implementation designed for the Redox OS ecosystem. It provides the core libc functionality (including POSIX‑compatible APIs, memory allocation, I/O, and system call wrappers) while being written in Rust for safety and portability, making it suitable for both Redox and other Unix‑like environments. The repository mirrors the upstream project hosted on GitLab.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/redox-os/relibc) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/redox-os/relibc) · [← Back to Misc](./README.md)</sub>

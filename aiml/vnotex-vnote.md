@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`editor` `markdown` `mathjax` `note` `note-taking` `uml` `vim` `vnote`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the vnote project:
-
-vnote is an open-source, native C++ note-taking platform designed to provide a seamless and efficient note-taking experience. It is built with a focus on user-friendliness and performance, making it an ideal tool for users seeking a lightweight and customizable note-taking solution. By leveraging C++ native capabilities, vnote offers a unique blend of speed and flexibility.
+vNote is an open‑source, native C++ application that provides a clean, fast, and extensible platform for taking and organizing notes. Designed with a focus on performance and a pleasant user experience, it offers rich text editing, hierarchical notebooks, tagging, and powerful search capabilities, while its modular architecture allows easy integration of AI/ML features such as semantic search and content summarization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/vnotex/vnote) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vnotex/vnote) · [← Back to AI/ML](./README.md)</sub>

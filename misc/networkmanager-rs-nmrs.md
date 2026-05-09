@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dbus` `linux` `networkmanager` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The networkmanager-rs/nmrs project provides Rust bindings for NetworkManager, a system service for managing network connections, via the D-Bus protocol. This allows Rust developers to interact with NetworkManager and leverage its features in their applications. By providing a Rust interface to NetworkManager, this project facilitates the development of network-aware Rust software.
+NetworkManager‑rs (NMRS) provides safe, idiomatic Rust bindings for interacting with NetworkManager via D‑Bus, enabling Rust applications to manage network connections, devices, and settings programmatically. It abstracts the low‑level D‑Bus protocol into ergonomic Rust types and async APIs, making it easy to integrate NetworkManager functionality into modern Rust projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/networkmanager-rs/nmrs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/networkmanager-rs/nmrs) · [← Back to Misc](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 148 |
+| ⭐ **Stars** | 3.6k |
+| 🍴 **Forks** | 151 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Blitz is an open-source, radically modular HTML/CSS rendering engine that enables developers to create highly customizable and efficient frontend applications. Built with a focus on modularity, Blitz allows for flexible and interchangeable components, making it easier to integrate new features and technologies as they emerge. This powerful engine has the potential to revolutionize frontend development with its cutting-edge approach to rendering HTML/CSS.
+Blitz is an open‑source, highly modular rendering engine designed to transform HTML and CSS into visual output with extreme flexibility. Built by Dioxus Labs, it breaks the rendering pipeline into interchangeable components, enabling developers to customize or replace parts of the process while leveraging AI/ML‑driven optimizations for performance and layout accuracy. Ideal for modern frontend projects, Blitz offers a pluggable architecture that simplifies experimentation and integration with existing web tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/DioxusLabs/blitz) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DioxusLabs/blitz) · [← Back to AI/ML](./README.md)</sub>

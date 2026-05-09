@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`chatbot` `chromadb` `fastapi` `graphrag` `hybrid-search` `korean-nlp` `langchain-alternative` `llm` `ollama` `openai-compatible` `pinecone` `production-ready`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-OneRAG is an open-source, production-ready RAG (Retrieve, Aggregate, Generate) framework written in Python and utilizing the FastAPI framework. It is designed for easy configuration and switching between different vector databases (including Weaviate, Pinecone, and Qdrant) and large language models (LLMs), such as Gemini and OpenAI. This comprehensive framework includes over 2100 tests to ensure reliability and compatibility.
+OneRAG is a production‑ready Retrieval‑Augmented Generation framework built with Python and FastAPI, offering a single‑line configuration to switch among six vector databases (Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB) and five LLM providers (Gemini, OpenAI, Claude, Ollama, OpenRouter). It exposes an OpenAI‑compatible API for seamless integration and is backed by a comprehensive test suite of over 2,100 tests. The project targets orchestration, AI/ML, and backend developers seeking a flexible, battle‑tested RAG solution.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/notadev-iamaura/OneRAG) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/notadev-iamaura/OneRAG) · [← Back to Orchestration](./README.md)</sub>

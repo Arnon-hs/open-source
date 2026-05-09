@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**227 projects** in this category.
+**229 projects** in this category.
 
 ## Projects
 
@@ -200,41 +200,43 @@
 | 190 | [KATO-Hiro/AtCoderClans](./kato-hiro-atcoderclans.md) | ⭐ 140 | Shell | 51/100 |
 | 191 | [timothebot/lacy](./timothebot-lacy.md) | ⭐ 175 | Rust | 51/100 |
 | 192 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
-| 193 | [kantord/blogtato](./kantord-blogtato.md) | ⭐ 224 | Rust | 50/100 |
-| 194 | [34j/decryptpdf](./34j-decryptpdf.md) | ⭐ 33 | Python | 50/100 |
-| 195 | [newrelic/newrelic-cli](./newrelic-newrelic-cli.md) | ⭐ 141 | Go | 50/100 |
-| 196 | [snowflakedb/snowflake-cli](./snowflakedb-snowflake-cli.md) | ⭐ 250 | Python | 50/100 |
-| 197 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 50/100 |
-| 198 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
-| 199 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
-| 200 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
-| 201 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
-| 202 | [jreisinger/checkip](./jreisinger-checkip.md) | ⭐ 247 | Go | 48/100 |
-| 203 | [xvitaly/zswap-cli](./xvitaly-zswap-cli.md) | ⭐ 40 | C++ | 48/100 |
-| 204 | [suzuki-shunsuke/ghalint](./suzuki-shunsuke-ghalint.md) | ⭐ 240 | Go | 48/100 |
-| 205 | [petdance/altbox](./petdance-altbox.md) | ⭐ 52 | Astro | 48/100 |
-| 206 | [ekristen/cast](./ekristen-cast.md) | ⭐ 138 | Go | 48/100 |
-| 207 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
-| 208 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
-| 209 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 47/100 |
-| 210 | [nuxt/cli](./nuxt-cli.md) | ⭐ 384 | TypeScript | 47/100 |
-| 211 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 47/100 |
-| 212 | [indaco/malt](./indaco-malt.md) | ⭐ 104 | Zig | 47/100 |
-| 213 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
-| 214 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
-| 215 | [Kelsidavis/WoWee](./kelsidavis-wowee.md) | ⭐ 417 | C++ | 45/100 |
-| 216 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
-| 217 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
-| 218 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 219 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
-| 220 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 221 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
-| 222 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
-| 223 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
-| 224 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
-| 225 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
-| 226 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
-| 227 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
+| 193 | [hivemq/mqtt-cli](./hivemq-mqtt-cli.md) | ⭐ 361 | Java | 50/100 |
+| 194 | [kantord/blogtato](./kantord-blogtato.md) | ⭐ 224 | Rust | 50/100 |
+| 195 | [34j/decryptpdf](./34j-decryptpdf.md) | ⭐ 33 | Python | 50/100 |
+| 196 | [newrelic/newrelic-cli](./newrelic-newrelic-cli.md) | ⭐ 141 | Go | 50/100 |
+| 197 | [snowflakedb/snowflake-cli](./snowflakedb-snowflake-cli.md) | ⭐ 250 | Python | 50/100 |
+| 198 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 50/100 |
+| 199 | [apollographql/rover](./apollographql-rover.md) | ⭐ 445 | Rust | 50/100 |
+| 200 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 50/100 |
+| 201 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
+| 202 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
+| 203 | [jreisinger/checkip](./jreisinger-checkip.md) | ⭐ 247 | Go | 48/100 |
+| 204 | [xvitaly/zswap-cli](./xvitaly-zswap-cli.md) | ⭐ 40 | C++ | 48/100 |
+| 205 | [suzuki-shunsuke/ghalint](./suzuki-shunsuke-ghalint.md) | ⭐ 240 | Go | 48/100 |
+| 206 | [petdance/altbox](./petdance-altbox.md) | ⭐ 52 | Astro | 48/100 |
+| 207 | [ekristen/cast](./ekristen-cast.md) | ⭐ 138 | Go | 48/100 |
+| 208 | [suzuki-shunsuke/tfcmt](./suzuki-shunsuke-tfcmt.md) | ⭐ 528 | Go | 48/100 |
+| 209 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 48/100 |
+| 210 | [anistark/feluda](./anistark-feluda.md) | ⭐ 451 | Rust | 47/100 |
+| 211 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 47/100 |
+| 212 | [nuxt/cli](./nuxt-cli.md) | ⭐ 384 | TypeScript | 47/100 |
+| 213 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 47/100 |
+| 214 | [indaco/malt](./indaco-malt.md) | ⭐ 104 | Zig | 47/100 |
+| 215 | [frostwire/frostwire](./frostwire-frostwire.md) | ⭐ 587 | Java | 47/100 |
+| 216 | [suzuki-shunsuke/ghtkn](./suzuki-shunsuke-ghtkn.md) | ⭐ 143 | Go | 46/100 |
+| 217 | [Kelsidavis/WoWee](./kelsidavis-wowee.md) | ⭐ 417 | C++ | 45/100 |
+| 218 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
+| 219 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
+| 220 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
+| 221 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 222 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
+| 223 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 168 | TypeScript | 44/100 |
+| 224 | [gildas/bitbucket-cli](./gildas-bitbucket-cli.md) | ⭐ 43 | Go | 44/100 |
+| 225 | [opentofu/registry](./opentofu-registry.md) | ⭐ 405 | Go | 44/100 |
+| 226 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 43/100 |
+| 227 | [stellar/stellar-cli](./stellar-stellar-cli.md) | ⭐ 112 | Rust | 43/100 |
+| 228 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 42/100 |
+| 229 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 36/100 |
 
 ---
 

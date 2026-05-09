@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41.7k |
+| ⭐ **Stars** | 41.8k |
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | C |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `client` `curl` `ftp` `gopher` `hacktoberfest` `http` `https` `imaps` `ldap` `libcurl` `library`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-curl/curl is an open-source project that provides a command-line tool and library for transferring data over various protocols, including HTTP, FTP, and more, using URL syntax. This versatile tool, known as libcurl, offers a wide range of features for data transfer and manipulation. It supports multiple protocols and is widely used in various applications for its reliability and flexibility.
+cURL is a versatile, open‑source command‑line utility and library (libcurl) that enables data transfer over a massive range of protocols—including HTTP, HTTPS, FTP, SFTP, SMTP, LDAP, MQTT, and many more—using simple URL syntax. It provides developers with robust features such as authentication, proxy support, SSL/TLS, and resumable transfers, making it a cornerstone tool for scripting, automation, and integration in DevOps, networking, and data‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/curl/curl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/curl/curl) · [← Back to AI/ML](./README.md)</sub>

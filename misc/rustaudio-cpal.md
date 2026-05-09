@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 500 |
+| 🍴 **Forks** | 502 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `rust` `sound`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The RustAudio/cpal project is an open-source library that provides a cross-platform audio I/O solution in pure Rust, designed to handle various audio input and output operations efficiently. This library aims to offer a versatile and reliable means of working with audio data across different platforms, including desktop and mobile environments. By leveraging Rust's capabilities, cpal enables developers to create robust and high-performance audio applications with ease.
+RustAudio’s **cpal** (Cross‑Platform Audio Library) is a pure‑Rust abstraction layer for low‑level audio input and output on Windows, macOS, Linux, iOS, Android, and WebAssembly. It provides a simple, unified API that automatically selects the appropriate native backend (e.g., WASAPI, CoreAudio, ALSA, PulseAudio, JACK) and handles device enumeration, stream configuration, and real‑time audio callbacks. This makes it easy for developers to integrate high‑performance, cross‑platform audio I/O into Rust applications without dealing with platform‑specific details.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/RustAudio/cpal) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/RustAudio/cpal) · [← Back to Misc](./README.md)</sub>

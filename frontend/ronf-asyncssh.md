@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-AsyncSSH is an open-source Python package that provides an asynchronous client and server implementation of the SSHv2 protocol, built on top of the asyncio framework. This allows for efficient and non-blocking SSH connections, making it suitable for high-performance applications. With AsyncSSH, developers can create robust and scalable SSH solutions with minimal latency.
+AsyncSSH is an open‑source Python library that implements the SSHv2 protocol using the asyncio framework, offering both client and server capabilities for asynchronous network communication. It enables developers to build secure, non‑blocking SSH applications without relying on external binaries, making it a versatile tool for backend services, DevOps automation, and custom remote‑execution workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/ronf/asyncssh) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ronf/asyncssh) · [← Back to Frontend](./README.md)</sub>

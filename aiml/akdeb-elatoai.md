@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 201 |
+| 🍴 **Forks** | 204 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `arduino` `cloudflare` `deno` `elevenlabs` `esp32` `gemini` `grok` `hardware` `hume` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary of the ElatoAI project:
-
-ElatoAI is an open-source project that enables real-time voice AI capabilities on Arduino ESP32 devices, allowing for the development of AI-powered toys, companions, and devices. With over 100 pre-trained models available, users can leverage secure websockets and edge functions to create interactive and intelligent applications. This project empowers innovators to create cutting-edge AI-powered devices with ease.
+**ElatoAI** is an open‑source framework that brings real‑time voice AI to Arduino‑compatible ESP32 devices, supporting over 100 pre‑trained models via secure WebSocket connections and edge‑function back‑ends. It enables developers to create AI‑powered toys, companions, and smart devices with low‑latency speech recognition, synthesis, and inference, all while keeping the communication encrypted and lightweight. The project spans AI/ML and frontend tooling, offering ready‑to‑use APIs, sample code, and a web dashboard for managing models and device interactions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/akdeb/ElatoAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/akdeb/ElatoAI) · [← Back to AI/ML](./README.md)</sub>

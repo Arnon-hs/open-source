@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `iot` `java` `mqtt` `mqtt-client`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-MQTT CLI is an open-source command line interface that enables users to connect to various MQTT clients, supporting both MQTT 5.0 and 3.1.1 protocols. This tool provides a simple and efficient way to interact with MQTT brokers, making it a valuable resource for developers and IoT enthusiasts. With MQTT CLI, users can easily publish and subscribe to messages, as well as manage their MQTT connections.
+The **MQTT CLI** provides a lightweight, cross‑platform command‑line interface for interacting with MQTT brokers. It supports both MQTT 5.0 and the legacy 3.1.1 protocol, allowing users to publish, subscribe, and manage topics directly from the terminal, making testing and automation of MQTT‑based systems fast and scriptable. It’s packaged as an open‑source tool under the `hivemq/mqtt-cli` repository.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/hivemq/mqtt-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hivemq/mqtt-cli) · [← Back to DevTools](./README.md)</sub>

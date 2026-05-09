@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 244 |
+| 🍴 **Forks** | 247 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-debugging` `ai-tools` `anthropic` `claude` `claude-code` `claude-code-tools` `debugging` `desktop-app` `developer-tools` `devtools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Claude DevTools is an open-source project that fills the gap in Claude code development by providing a user-friendly, visual interface to inspect and analyze session logs, tool calls, token usage, subagents, and context windows. This free and accessible tool enables developers to gain a deeper understanding of their Claude models and optimize their performance. By providing a comprehensive set of features, Claude DevTools streamlines the development process and enhances overall productivity.
+matt1398/claude-devtools is an open‑source visual interface that fills the gap in Claude’s development workflow by letting users explore session logs, tool invocations, token consumption, sub‑agent interactions, and the context window. It provides a free, browser‑based DevTools panel for debugging and optimizing Claude‑powered applications, targeting AI/ML developers and frontend engineers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/matt1398/claude-devtools) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/matt1398/claude-devtools) · [← Back to AI/ML](./README.md)</sub>

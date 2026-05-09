@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.9k |
+| ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`command-line` `elevate` `elevated-commands` `elevated-permissions` `powershell` `runas` `sudo` `sudo-for-windows` `terminal` `uac` `windows` `wsl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The gsudo project is an open-source, Windows-based implementation of the sudo command, offering a powerful and secure way to perform administrative tasks on Windows systems. This tool allows users to execute commands with elevated privileges, providing a more flexible and controlled alternative to traditional Windows privilege escalation methods. By emulating the behavior of Linux's sudo command, gsudo simplifies the process of managing system-wide changes and configurations.
+Gerardog/gsudo is an open‑source utility that brings Unix‑style elevation to Windows, allowing users to run commands with elevated privileges (as “admin” or another user) without launching a new console. It works by intercepting the command line, handling UAC prompts, and preserving the original environment, making it a drop‑in replacement for `sudo` in scripts and interactive sessions on Windows. The project is lightweight, actively maintained, and licensed for free use.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/gerardog/gsudo) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gerardog/gsudo) · [← Back to Misc](./README.md)</sub>

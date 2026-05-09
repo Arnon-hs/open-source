@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 172 |
+| 🍴 **Forks** | 179 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-video-generator` `claude-code` `developer-tools` `elevenlabs` `open-source` `openclaw` `playwright` `programmatic-video` `qwen-tts` `remotion` `text-to-speech` `video-editing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Product
 
 ## 📝 Summary
 
-Claude Code Video Toolkit is an open-source project that provides an AI-native video production solution, optimized for the Claude Code platform. This toolkit facilitates the creation of high-quality video content using AI-driven tools and capabilities. By leveraging Claude Code's strengths, the toolkit streamlines video production and enhances the overall experience for developers and content creators.
+digitalsamba/claude-code-video-toolkit is an open‑source, AI‑native toolkit that streamlines video production directly from Claude Code projects. It provides developers with automated scripting, scene generation, and rendering utilities, enabling rapid creation of high‑quality videos without manual editing. Ideal for AI/ML and DevTools workflows, the toolkit turns code‑driven concepts into polished visual content.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/digitalsamba/claude-code-video-toolkit) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/digitalsamba/claude-code-video-toolkit) · [← Back to AI/ML](./README.md)</sub>

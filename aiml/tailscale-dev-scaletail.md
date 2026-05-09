@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 103 |
+| 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `docker-compose` `dockercompose` `hacktoberfest` `self-hosted` `sidecar` `sidecar-container` `sidecar-proxy` `tailscale` `tailscale-exit-node` `tailscale-network` `tailscale-proxy`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the ScaleTail project:
-
-ScaleTail is an open-source project that provides pre-configured Tailscale sidecar configurations for Docker, simplifying the integration of secure and reliable networking for containerized applications. By leveraging Tailscale, developers can establish fast, secure, and zero-config networking between containers and on-premises environments. This project aims to streamline DevOps workflows and enable seamless communication across distributed systems.
+ScaleTail is an open‑source sidecar that bundles Tailsable networking capabilities into Docker containers, letting developers and operators add secure, zero‑config mesh networking to any service with minimal effort. It provides ready‑to‑use Docker configurations, environment‑variable controls, and health‑checks, making it easy to integrate Tailscale’s encrypted overlay into CI/CD pipelines, micro‑service deployments, and infrastructure‑as‑code workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tailscale-dev/ScaleTail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tailscale-dev/ScaleTail) · [← Back to AI/ML](./README.md)</sub>

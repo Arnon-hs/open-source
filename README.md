@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **4259** |
+| 🗂️ **Total projects** | **4299** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1731 | [Browse →](./aiml/) |
-| 📦 **Misc** | 684 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 429 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 415 | [Browse →](./frontend/) |
-| 🔧 **DevTools** | 227 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 218 | [Browse →](./backend/) |
+| 🤖 **AI/ML** | 1751 | [Browse →](./aiml/) |
+| 📦 **Misc** | 695 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 430 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 418 | [Browse →](./frontend/) |
+| 🔧 **DevTools** | 229 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 220 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 163 | [Browse →](./crypto/) |
 | 📊 **Data** | 93 | [Browse →](./data/) |
 | 💳 **Payments** | 86 | [Browse →](./payments/) |
 | 📈 **Trading** | 56 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 51 | [Browse →](./devopsinfra/) |
-| 📱 **Mobile** | 45 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 46 | [Browse →](./mobile/) |
 | 🔐 **Security** | 35 | [Browse →](./security/) |
 | ✨ **Design** | 12 | [Browse →](./design/) |
 | 🎯 **Product** | 10 | [Browse →](./product/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [MODSetter/SurfSense](./orchestration/modsetter-surfsense.md) | ⭐ 14.2k | Orchestration |
-| 2 | [CISOfy/lynis](./aiml/cisofy-lynis.md) | ⭐ 15.6k | AI/ML |
-| 3 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 83.1k | AI/ML |
-| 4 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.5k | DevTools |
-| 5 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
-| 6 | [fastlane/fastlane](./frontend/fastlane-fastlane.md) | ⭐ 41.5k | Frontend |
-| 7 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
-| 8 | [junit-team/junit-framework](./devtools/junit-team-junit-framework.md) | ⭐ 7k | DevTools |
-| 9 | [rustdesk/rustdesk](./mobile/rustdesk-rustdesk.md) | ⭐ 113.8k | Mobile |
-| 10 | [rohitg00/ai-engineering-from-scratch](./aiml/rohitg00-ai-engineering-from-scratch.md) | ⭐ 6.5k | AI/ML |
+| 1 | [huggingface/datasets](./aiml/huggingface-datasets.md) | ⭐ 21.5k | AI/ML |
+| 2 | [curl/curl](./aiml/curl-curl.md) | ⭐ 41.8k | AI/ML |
+| 3 | [vnotex/vnote](./aiml/vnotex-vnote.md) | ⭐ 12.8k | AI/ML |
+| 4 | [MODSetter/SurfSense](./orchestration/modsetter-surfsense.md) | ⭐ 14.2k | Orchestration |
+| 5 | [CISOfy/lynis](./aiml/cisofy-lynis.md) | ⭐ 15.6k | AI/ML |
+| 6 | [renovatebot/renovate](./devtools/renovatebot-renovate.md) | ⭐ 21.5k | DevTools |
+| 7 | [sherlock-project/sherlock](./aiml/sherlock-project-sherlock.md) | ⭐ 83.1k | AI/ML |
+| 8 | [jnMetaCode/agency-agents-zh](./crypto/jnmetacode-agency-agents-zh.md) | ⭐ 10.3k | Crypto |
+| 9 | [fastlane/fastlane](./frontend/fastlane-fastlane.md) | ⭐ 41.5k | Frontend |
+| 10 | [mrexodia/ida-pro-mcp](./aiml/mrexodia-ida-pro-mcp.md) | ⭐ 8.3k | AI/ML |
 
 ## 🚀 How it works
 

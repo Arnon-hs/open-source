@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 24 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`emulation` `emulator` `game` `n64` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The gopher64 project is an open-source N64 emulator designed for high compatibility, allowing users to play a wide range of Nintendo 64 games on various platforms. This emulator aims to provide a seamless gaming experience, reproducing the original console's graphics and functionality with great accuracy. Developed by the gopher64 community, this emulator is a valuable resource for retro gaming enthusiasts and developers.
+gopher64 is an open‑source Nintendo 64 emulator that prioritizes high compatibility with the console’s game library, aiming to run titles accurately across a range of platforms. It implements the core N64 hardware emulation, including graphics, audio and controller input, while providing a lightweight, configurable interface for both casual players and developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/gopher64/gopher64) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gopher64/gopher64) · [← Back to Misc](./README.md)</sub>

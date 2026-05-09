@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 303 |
+| 🍴 **Forks** | 310 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `hono` `issue-management` `issue-tracker` `jira-alternative` `kanban` `linear-alternative` `project-management` `react` `self-hosted` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Kaneo is an open-source project management platform designed to be user-centric and adaptable to individual needs. Its intuitive interface and seamless workflow aim to simplify project coordination, allowing teams to focus on their work without unnecessary complexity. By harnessing the potential of AI and frontend technologies, Kaneo strives to create a more efficient and collaborative work environment.
+usekaneo/kaneo is an open‑source project‑management platform that streamlines workflows with a clean, user‑focused interface, eliminating unnecessary features and complexity. Built with modern AI/ML integrations and a responsive frontend, it helps teams organize tasks, track progress, and collaborate efficiently while staying adaptable to each project’s unique needs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/usekaneo/kaneo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/usekaneo/kaneo) · [← Back to AI/ML](./README.md)</sub>
