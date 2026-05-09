@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.9k |
+| ⭐ **Stars** | 26k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Mojo |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `language` `machine-learning` `max` `modular` `mojo` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Modular Platform is an open-source AI/ML project that includes two core components: MAX and Mojo. MAX stands for Machine Learning Accelerator, a high-performance computing engine, while Mojo is a user-friendly interface for building, deploying, and managing machine learning models. This platform enables developers to create, train, and optimize AI models at scale, leveraging modular architecture for flexibility and scalability.
+The Modular Platform is an open‑source framework that unifies the development, training, and deployment of AI models across both the MAX (Modular AI eXchange) and Mojo ecosystems. It provides a plug‑and‑play architecture for composing reusable components, managing data pipelines, and scaling inference on diverse hardware back‑ends, enabling researchers and engineers to build, share, and accelerate machine‑learning solutions collaboratively.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/modular/modular) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/modular/modular) · [← Back to AI/ML](./README.md)</sub>

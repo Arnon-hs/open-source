@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `ai-agents` `ai-coding` `ai-orchestration` `audit-trail` `automation` `claude` `claude-ai` `claude-code` `cli` `code-quality` `codex`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-Vinix24's vnx-orchestration is an open-source, governance-first orchestration tool designed for seamless integration with AI/ML platforms like Claude Code, Codex, and Gemini CLI. It enables efficient parallel processing, automated receipts, quality gates, and comprehensive provenance tracking, ensuring robust workflows and transparent decision-making. This DevTools solution empowers developers to build high-quality, scalable, and maintainable AI/ML applications.
+Vinix24’s **vnx‑orchestration** is an open‑source framework that puts governance at the core of AI code generation pipelines for Claude Code, Codex and Gemini CLI. It manages parallel workers, generates immutable receipts, enforces quality‑gate checks, and records full provenance for every task, enabling reliable, auditable orchestration of AI‑driven development workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Vinix24/vnx-orchestration) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Vinix24/vnx-orchestration) · [← Back to Orchestration](./README.md)</sub>

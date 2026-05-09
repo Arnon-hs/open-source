@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 211 |
+| ⭐ **Stars** | 2.4k |
+| 🍴 **Forks** | 216 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `mcp` `modelcontextprotocol` `security`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-The snyk/agent-scan project is an open-source security scanner designed to identify vulnerabilities in AI agents, MCP servers, and agent skills. This tool helps ensure the integrity and security of AI systems by detecting potential weaknesses and providing recommendations for remediation. By integrating with the snyk platform, users can monitor and manage the security posture of their AI assets.
+snyk/agent-scan is an open‑source security scanner designed to analyze AI agents, MCP (Multi‑Component Platform) servers, and agent‑based skills for vulnerabilities, misconfigurations, and policy violations. It integrates with orchestration workflows and provides automated detection, reporting, and remediation guidance to help developers secure AI‑driven components throughout the backend stack.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/snyk/agent-scan) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/snyk/agent-scan) · [← Back to Orchestration](./README.md)</sub>

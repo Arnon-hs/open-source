@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 254 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 259 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `claude-code` `gateway` `llm` `orches` `orchestration`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Tingly-Box is an open-source project that aims to orchestrate intelligence across various builders, teams, and agents, making AI and ML more accessible to everyone. This front-end focused solution provides a unified interface for managing and integrating multiple components, streamlining complex workflows. By doing so, Tingly-Box enables seamless collaboration and efficient deployment of intelligent systems.
+Tingly‑Box is an open‑source orchestration platform that unifies AI agents, workflows, and front‑end components into a single, collaborative environment. It lets developers, product teams, and even non‑technical users design, connect, and run intelligent agents and micro‑services with a visual interface and extensible API. By abstracting the complexity of AI/ML pipelines, Tingly‑Box makes building and managing intelligent applications accessible to everyone.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tingly-dev/tingly-box) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tingly-dev/tingly-box) · [← Back to Orchestration](./README.md)</sub>

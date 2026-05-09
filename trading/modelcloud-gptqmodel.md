@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 184 |
+| 🍴 **Forks** | 185 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gptq` `optimum` `peft` `quantization` `sglang` `transformers` `vllm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the ModelCloud/GPTQModel project:
-
-ModelCloud/GPTQModel is an open-source toolkit for quantizing and compressing Large Language Models (LLMs) while providing hardware acceleration support for various platforms, including Nvidia, AMD, Intel GPU, and Intel/AMD/Apple CPU. This toolkit utilizes frameworks like HF, vLLM, and SGLang to optimize model performance and efficiency. By leveraging hardware acceleration, it enables faster and more scalable deployment of LLMs in trading and AI/ML applications.
+ModelCloud/GPTQModel is an open‑source toolkit for quantizing (compressing) large language models, offering hardware‑accelerated inference across Nvidia, AMD, and Intel GPUs as well as Intel, AMD, and Apple CPUs. It integrates seamlessly with Hugging Face, vLLM, and SGLang, enabling fast, low‑memory deployment of quantized LLMs for AI/ML and trading applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ModelCloud/GPTQModel) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ModelCloud/GPTQModel) · [← Back to Trading](./README.md)</sub>

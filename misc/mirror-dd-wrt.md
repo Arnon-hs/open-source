@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-DD-WRT is a popular open-source firmware for wireless routers, offering advanced features and customization options. The mirror/dd-wrt project provides a Subversion mirror of the DD-WRT codebase, allowing users to access and contribute to the firmware's development in a centralized repository. This mirror facilitates collaboration and version control for the DD-WRT community.
+The **mirror/dd-wrt** project provides a publicly accessible Subversion mirror of the DD‑WRT firmware source code. It synchronizes with the official DD‑WRT repository, offering developers and contributors a reliable backup and an easy way to check out specific revisions for custom builds or debugging. This repository falls under the “Misc” category, serving as a straightforward source‑code mirror rather than a standalone application.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/mirror/dd-wrt) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mirror/dd-wrt) · [← Back to Misc](./README.md)</sub>

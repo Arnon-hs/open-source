@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
+| ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `api-client` `civic-tech` `ckan` `ckan-api` `claude` `cloudflare-workers` `data-discovery` `data-portal` `datastore` `government-data` `mcp`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the ondata/ckan-mcp-server open-source project:
-
-The ondata/ckan-mcp-server is an open-source MCP (Machine-Readable Catalog) server designed to facilitate querying and accessing data from CKAN open data portals. It supports various CKAN features, including package search, DataStore SQL queries, organization, group, and tag lookups. This project enables developers to build more efficient and scalable applications that leverage CKAN's vast open data resources.
+The **ckan-mcp-server** is an open‑source backend service that provides a unified API for querying multiple CKAN open‑data portals. It supports key CKAN features such as package search, DataStore SQL queries, and metadata retrieval for organizations, groups, and tags, making it easy to integrate and aggregate data from disparate CKAN instances. Ideal for AI/ML pipelines, data‑driven applications, and developer tooling that need fast, programmatic access to open data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ondata/ckan-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ondata/ckan-mcp-server) · [← Back to AI/ML](./README.md)</sub>

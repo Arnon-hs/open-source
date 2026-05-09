@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 961 |
-| 🍴 **Forks** | 60 |
+| ⭐ **Stars** | 965 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `http-proxy` `https-proxy` `man-in-the-middle` `mitm` `network` `network-security` `proxy` `reverse-proxy` `rust` `ssl` `tls`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the emanuele-em/proxelar project:
-
-Proxelar is an open-source, programmable MITM (Man-in-the-Middle) proxy that intercepts HTTP and HTTPS traffic, allowing users to gain insight into their app's behavior without speculation. It offers flexible operation modes, including forward and reverse proxying, TLS interception, and a range of user interfaces including TUI, terminal, and web GUI. This powerful tool empowers developers with a high level of control over network traffic, facilitating more efficient and secure app development.
+Proxelar is a programmable man‑in‑the‑middle proxy that captures and manipulates HTTP/HTTPS traffic, letting developers inspect and modify requests without guessing what their applications are doing. It supports both forward and reverse proxy modes, TLS interception, and offers multiple interfaces—including a TUI, terminal commands, and a web GUI—for flexible, real‑time debugging and testing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/emanuele-em/proxelar) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/emanuele-em/proxelar) · [← Back to Frontend](./README.md)</sub>

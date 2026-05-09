@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bot` `claude` `fixer` `github` `issues`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Anantys-oss/koan project:
-
-Koan is an open-source, autonomous background agent that leverages unused Claude Max quota to explore, audit, and improve codebases. It communicates with users through Telegram and a shared mission queue, enabling developers to collaborate with AI in the improvement process. This project empowers the efficient use of AI-assisted development by repurposing underutilized AI quota.
+Anantys‑oss/koan is an autonomous background agent that leverages any unused Claude‑Max quota to continuously explore, audit, and refactor a codebase. It interacts with developers through Telegram and a shared mission queue, allowing the AI to propose improvements, detect issues, and collaborate on code changes in real time. The tool is open‑source and designed to automate routine code‑maintenance tasks while keeping a human in the loop.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Anantys-oss/koan) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Anantys-oss/koan) · [← Back to AI/ML](./README.md)</sub>

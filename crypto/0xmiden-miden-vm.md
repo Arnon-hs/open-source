@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 737 |
-| 🍴 **Forks** | 290 |
+| ⭐ **Stars** | 738 |
+| 🍴 **Forks** | 292 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptography` `stark` `virtual-machine` `zero-knowledge`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The 0xMiden/miden-vm project is an open-source implementation of a STARK-based virtual machine, providing a secure and scalable platform for executing smart contracts. This virtual machine leverages the power of STARKs (Scalable Transparent ARguments of Knowledge) to enable fast and trustworthy computations, ensuring the integrity and transparency of contract operations. By utilizing this technology, developers can create secure and efficient decentralized applications.
+0xMiden / miden‑vm is an open‑source, STARK‑powered virtual machine designed for executing cryptographically verifiable programs. It provides a high‑performance, zero‑knowledge execution environment that enables succinct proofs of computation integrity, making it ideal for blockchain, DeFi, and other trust‑less applications. The project is written in Rust and offers a modular architecture for building scalable, privacy‑preserving smart‑contract platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/0xMiden/miden-vm) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/0xMiden/miden-vm) · [← Back to Crypto](./README.md)</sub>

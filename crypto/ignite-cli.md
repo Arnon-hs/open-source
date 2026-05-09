@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blockchain` `cli` `cosmos-sdk` `ignite` `tendermint`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the ignite/cli project:
-
-Ignite is an open-source CLI tool and hub for building Proof of Stake Blockchains, leveraging the Cosmos-SDK technology stack. This project provides a foundation for developers to construct and manage their own Cosmos-based blockchain networks. With Ignite, users can streamline the process of building and launching their own Proof of Stake blockchain projects.
+Ignite/cli is an open‑source command‑line interface and hub that streamlines the creation of Proof‑of‑Stake blockchains built on the Cosmos‑SDK framework. By providing scaffolding, modular components, and developer tooling, it accelerates blockchain development while ensuring compatibility with Cosmos’s interoperable ecosystem. The project targets crypto developers and DevOps teams looking to launch custom, secure PoS networks quickly.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ignite/cli) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ignite/cli) · [← Back to Crypto](./README.md)</sub>

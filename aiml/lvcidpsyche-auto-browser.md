@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 394 |
-| 🍴 **Forks** | 71 |
+| ⭐ **Stars** | 428 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-agents` `browser-automation` `claude` `docker` `fastapi` `llm` `local-first` `mcp` `novnc` `playwright` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-The LvcidPsyche/auto-browser project is an open-source initiative that enables AI agents to interact with the web using a human-in-the-loop approach. This MCP-native browser agent provides a real browser experience for AI systems, allowing for more seamless and intuitive web interactions. By utilizing this open-source project, developers can integrate AI with web browsing capabilities.
+LvcidPsyche/auto-browser is an open‑source, MCP‑native browser agent that equips AI assistants with a fully functional web browser while keeping a human in the loop for safe, interactive control. It enables developers to run AI‑driven browsing tasks—such as data extraction, form submission, or navigation—directly from backend or DevOps pipelines, leveraging real‑time human oversight to mitigate risks and improve reliability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/LvcidPsyche/auto-browser) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LvcidPsyche/auto-browser) · [← Back to AI/ML](./README.md)</sub>

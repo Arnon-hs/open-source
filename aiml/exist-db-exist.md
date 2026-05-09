@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`application-server` `exist-db` `java` `native-xml-database` `nosql` `tei-xml` `xml` `xml-database` `xml-schema` `xpath` `xproc` `xquery`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-eXist-db is an open-source native XML database and application platform that enables developers to build robust, scalable, and high-performance applications for storing, managing, and querying complex XML data. This versatile platform provides a comprehensive set of tools and APIs for data modeling, storage, and retrieval, making it an ideal choice for AI/ML, backend, and data-intensive applications. With its native support for XML, eXist-db offers unparalleled flexibility and efficiency in managing and processing large volumes of semi-structured data.
+eXist-db is an open‑source native XML database that provides a robust platform for storing, indexing, and querying XML documents using standards such as XQuery, XPath, and XSLT. It also offers a full‑stack application environment with built‑in REST, WebDAV, and HTTP APIs, making it ideal for backend services that require flexible, schema‑agnostic data handling and advanced search capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/eXist-db/exist) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/eXist-db/exist) · [← Back to AI/ML](./README.md)</sub>

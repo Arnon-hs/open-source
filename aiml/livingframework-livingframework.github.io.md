@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
+| ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-governance` `artificial-intelligence` `claude` `claude-cowork-governance` `claude-desktop` `context-engineering` `cowork` `human-ai-alignment` `human-ai-collaboration` `llm` `prompt-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The LivingFramework project is an open-source initiative that provides governance templates for Claude Cowork, a platform focused on long-horizon human-AI collaboration. These templates are grounded in empirical research and aim to facilitate effective and sustainable collaboration between humans and AI systems. The project's templates can be used to establish a solid foundation for AI governance, enabling organizations to harness the benefits of human-AI collaboration while minimizing risks.
+LivingFramework provides a collection of governance templates designed to support long‑term, human‑AI collaboration with Claude Cowork. Built from empirical research on extended AI partnerships, the templates offer structured guidelines and best‑practice tools for managing roles, responsibilities, decision‑making, and ethical considerations in Claude‑centric projects. The repository is a frontend‑focused, open‑source resource for teams looking to implement robust, scalable AI governance frameworks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/LivingFramework/LivingFramework.github.io) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/LivingFramework/LivingFramework.github.io) · [← Back to AI/ML](./README.md)</sub>

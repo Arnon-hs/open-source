@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `ai-agents` `aiagentframework` `bub` `llms` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Bub is an open-source, hook-first runtime that enables agents to interact with people seamlessly. This innovative project allows developers to build agents that live alongside people, creating a more integrated and user-friendly experience. By leveraging AI/ML and frontend technologies, Bub facilitates the creation of sophisticated and engaging agent-human interactions.
+Bub is an open‑source, hook‑first runtime designed for building AI agents that operate alongside humans. It provides a lightweight framework for integrating intelligent behaviors into front‑end applications, enabling developers to create responsive, context‑aware agents with minimal boilerplate. Ideal for AI/ML and frontend projects, Bub streamlines the development, deployment, and interaction of conversational or task‑oriented agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/bubbuild/bub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/bubbuild/bub) · [← Back to AI/ML](./README.md)</sub>

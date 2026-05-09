@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 572 |
+| ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `local-first-software` `p2p` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend
 
 ## 📝 Summary
 
-The s4wave/spacewave project is an open-source initiative that enables users to self-host various services effortlessly. This project provides a simplified approach to hosting and managing multiple services on a single platform, streamlining the process for users. By leveraging its robust features, users can easily deploy and maintain their own customized server environments.
+Spacewave (s4wave/spacewave) is an open‑source, local‑first web application that runs entirely in the browser, eliminating the need for any backend server. It leverages peer‑to‑peer (P2P) networking to enable real‑time collaboration and data synchronization directly between users’ devices. The project provides both frontend and backend components that operate within the browser environment, making deployment as simple as opening a web page.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/s4wave/spacewave) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/s4wave/spacewave) · [← Back to Frontend](./README.md)</sub>

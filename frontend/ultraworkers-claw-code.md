@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 190.2k |
-| 🍴 **Forks** | 109.7k |
+| ⭐ **Stars** | 190.8k |
+| 🍴 **Forks** | 109.8k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a 3-sentence summary of the open-source project:
-
-Claw-code is a fast and lightweight project built using Rust, utilizing oh-my-codex. It has gained significant attention in the developer community, surpassing 100,000 stars in a notable achievement. The project is categorized under frontend and devtools, with a growing community available on Discord for collaboration and discussion.
+Ultraworkers / claw‑code is an open‑source, Rust‑based development toolkit that delivers ultra‑fast front‑end tooling and utilities, built on the “oh‑my‑codex” framework. After being unlocked, the project quickly amassed over 100 K GitHub stars, reflecting its popularity among developers. Join the community on Discord to stay updated and contribute.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ultraworkers/claw-code) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ultraworkers/claw-code) · [← Back to Frontend](./README.md)</sub>

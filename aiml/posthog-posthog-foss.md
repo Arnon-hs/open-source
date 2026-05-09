@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 490 |
-| 🍴 **Forks** | 97 |
+| ⭐ **Stars** | 492 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-PostHog FOSS is an open-source version of PostHog, a platform that provides analytics and product insights. This read-only mirror removes proprietary code, making it available for public use and modification. It is synced automatically from the main PostHog repository.
+PostHog FOSS is an open‑source, read‑only mirror of the PostHog analytics platform that strips out all proprietary components, providing a fully free version of the product. The repository is automatically synced from the main PostHog codebase, so contributions and issue tracking should be directed to the upstream project. It falls under the AI/ML category as a tool for product analytics and data-driven insights.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/PostHog/posthog-foss) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/PostHog/posthog-foss) · [← Back to AI/ML](./README.md)</sub>

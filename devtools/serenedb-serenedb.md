@@ -1,23 +1,23 @@
 # serenedb/serenedb
 
-[![Stars](https://img.shields.io/github/stars/serenedb/serenedb?style=flat-square&color=yellow)](https://github.com/serenedb/serenedb/stargazers) [![Forks](https://img.shields.io/github/forks/serenedb/serenedb?style=flat-square&color=blue)](https://github.com/serenedb/serenedb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serenedb/serenedb?style=flat-square&color=yellow)](https://github.com/serenedb/serenedb/stargazers) [![Forks](https://img.shields.io/github/forks/serenedb/serenedb?style=flat-square&color=blue)](https://github.com/serenedb/serenedb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
-> The First Distributed Real-Time Search Analytics Database
+> The First Real-Time Search Analytics Database
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 428 |
-| 🍴 **Forks** | 29 |
+| ⭐ **Stars** | 459 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`analytics` `bm25` `clickhouse` `cpp` `database` `dbms` `duckdb` `elasticsearch` `olap` `postgresql` `relational-database` `search-engine`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data
 
 ## 📝 Summary
 
-SereneDB is an open-source project that offers the first distributed real-time search analytics database. This innovative database provides fast and efficient search capabilities, making it ideal for applications requiring high-performance data analysis and search functionality. With its distributed architecture, SereneDB enables scalable and reliable data management for a wide range of use cases.
+SereneDB is an open‑source, real‑time search analytics database designed to ingest, store, and query high‑velocity event streams with sub‑second latency. It combines a column‑arithmetic engine and a full‑text search index, enabling developers to perform complex aggregations, faceting, and drill‑down analytics on live data without sacrificing performance. The project provides a lightweight, schema‑flexible platform for building dashboards, monitoring systems, and data‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/serenedb/serenedb) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/serenedb/serenedb) · [← Back to DevTools](./README.md)</sub>

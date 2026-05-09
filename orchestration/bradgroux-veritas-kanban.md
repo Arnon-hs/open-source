@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 692 |
-| 🍴 **Forks** | 81 |
+| ⭐ **Stars** | 694 |
+| 🍴 **Forks** | 83 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `developer-tools` `kanban` `local-first` `pino` `project-management` `react` `task-management` `typescript` `vite`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Veritas Kanban is a lightweight orchestration platform designed for the agentic AI era, providing a clear and unfiltered view of project progress. Built for agility and ease of use, it streamlines project management by harnessing the power of AI and machine learning. This open-source project offers a flexible solution for modern teams to optimize their workflows and stay on track.
+BradGroux’s **veritas‑kanban** is a lightweight orchestration platform designed for the emerging “agentic AI” era, offering a clear, real‑time view of a project’s status. It combines a minimalist front‑end kanban board with AI‑ready hooks, enabling developers and autonomous agents to coordinate tasks, track progress, and surface the unfiltered truth about where work stands. Ideal for teams that need fast, visual orchestration without the overhead of heavyweight project‑management tools.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/BradGroux/veritas-kanban) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/BradGroux/veritas-kanban) · [← Back to Orchestration](./README.md)</sub>
