@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Goverlay is an open-source, user-friendly graphical interface designed to simplify the configuration process of popular gaming overlays, including MangoHud, vkBasalt, and OptiScaler. This intuitive tool streamlines the customization experience for gamers, allowing them to easily adjust settings and enhance their visual experience. By providing a straightforward interface, Goverlay helps gamers get the most out of their preferred overlays.
+Goverlay is a lightweight, open‑source GUI that simplifies the configuration of popular Linux graphics overlays such as MangoHud, vkBasalt, and OptiScaler. It provides an intuitive interface for tweaking performance metrics, post‑processing effects, and scaling options without manually editing configuration files. Ideal for gamers and developers seeking quick, visual control over their Vulkan and OpenGL overlay settings.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/benjamimgois/goverlay) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/benjamimgois/goverlay) · [← Back to Misc](./README.md)</sub>

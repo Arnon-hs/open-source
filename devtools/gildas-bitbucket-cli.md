@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42 |
+| ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitbucket` `cli` `command-line`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The gildas/bitbucket-cli project is an open-source command-line interface (CLI) for interacting with Bitbucket, a web-based version control repository manager. This tool allows users to manage their Bitbucket repositories and projects directly from the terminal, streamlining development workflows and improving productivity. With the bitbucket-cli, users can perform various tasks, such as repository management, issue tracking, and code reviews, all from a single command-line interface.
+A lightweight command‑line interface for interacting with Bitbucket repositories, providing quick access to common actions such as cloning, pulling, pushing, and managing pull requests without leaving the terminal. It streamlines DevOps workflows by wrapping Bitbucket’s REST API into simple, scriptable commands, making repository automation and management faster and more convenient.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/gildas/bitbucket-cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/gildas/bitbucket-cli) · [← Back to DevTools](./README.md)</sub>

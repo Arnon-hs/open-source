@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -16,7 +16,8 @@
 | 6 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 71/100 |
 | 7 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 56/100 |
 | 8 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 52/100 |
-| 9 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
+| 9 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 43/100 |
+| 10 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
 
 ---
 

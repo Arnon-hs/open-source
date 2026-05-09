@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `automation` `claude` `codex` `coding-reviewer` `developer-tools` `github` `pull-request` `react` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the 'oh-my-pr' project:
-
-Oh-my-pr is an open-source, autonomous GitHub PR babysitter that monitors repositories, categorizes review feedback, and leverages AI agents to automatically resolve code issues. This innovative tool streamlines the code review process, saving developers time and effort while maintaining high-quality code. By harnessing the power of AI, oh-my-pr provides a seamless and efficient collaboration experience.
+yungookim/oh‑my‑pr is an autonomous “PR babysitter” that continuously monitors your GitHub repositories, automatically triages incoming review comments, and dispatches AI agents to generate and apply code fixes. By integrating AI/ML with a lightweight frontend interface, it streamlines the pull‑request workflow, turning feedback into actionable changes without manual intervention. This dev‑tool aims to accelerate code review cycles and keep repositories healthy with minimal human effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/yungookim/oh-my-pr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/yungookim/oh-my-pr) · [← Back to AI/ML](./README.md)</sub>

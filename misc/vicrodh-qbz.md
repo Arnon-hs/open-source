@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 370 |
+| ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`linux` `opensource` `qobuz` `qobuz-desktop-player` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The vicrodh/qbz project is an open-source, native desktop player for Linux that provides high-fidelity (hi-fi) audio playback on Qobuz, a popular music streaming service. With its focus on fast and bit-perfect audio, this player ensures an exceptional listening experience for music enthusiasts. By utilizing native Linux capabilities, it offers a seamless and efficient way to enjoy your favorite music on Qobuz.
+vicrodh/qbz is a native Linux desktop application that provides a full‑featured, hi‑fi player for the Qobuz streaming service. It delivers fast, bit‑perfect audio playback with support for Qobuz’s high‑resolution catalog, offering an integrated, Linux‑only solution for audiophiles.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/vicrodh/qbz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vicrodh/qbz) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 133 |
-| 🍴 **Forks** | 50 |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`auth` `benchmark` `builder` `el-node` `eth` `ethereum` `evm` `json-rpc` `spammer` `testing` `transaction`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Frontend · DevTools
 
 ## 📝 Summary
 
-The contender project is an open-source tool designed to test the resilience and performance of Ethereum Virtual Machine (EVM) execution nodes against spam traffic. It accomplishes this by sending large volumes of JSON-RPC requests to these nodes, allowing developers to evaluate their defenses against denial-of-service (DoS) attacks. Additionally, the project includes benchmarking capabilities to compare the performance and stress tolerance of different EVM execution nodes.
+Flashbots Contender is an open‑source benchmarking suite that stresses Ethereum Virtual Machine (EVM) execution nodes by sending high‑volume JSON‑RPC requests, simulating spam traffic to evaluate performance and resilience. It provides configurable workloads and detailed metrics, helping developers and operators compare client implementations and optimize their infrastructure. The tool is geared toward the crypto community, dev‑tools engineers, and anyone needing realistic load‑testing for EVM‑compatible nodes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/flashbots/contender) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/flashbots/contender) · [← Back to Crypto](./README.md)</sub>

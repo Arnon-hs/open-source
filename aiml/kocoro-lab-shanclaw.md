@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 248 |
-| 🍴 **Forks** | 109 |
+| ⭐ **Stars** | 257 |
+| 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the ShanClaw project:
-
-ShanClaw is an open-source AI agent runtime that leverages Shannon technology to automate complex tasks across various platforms, including Mac file operations, shell scripting, and GUI automation. It enables developers to create sophisticated workflows and delegate tasks via the Shannon Cloud. This powerful tool empowers users to streamline their workflows and automate repetitive tasks with ease.
+Kocoro‑lab/ShanClaw is an open‑source runtime that lets AI agents execute macOS file operations, shell commands, and GUI automation through the Shannon framework. It extends these capabilities with sophisticated task delegation using Shannon Cloud workflows, enabling seamless integration of local automation and cloud‑based orchestration. The project targets AI/ML developers and frontend engineers who need a flexible, programmable interface for complex, cross‑environment tasks.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Kocoro-lab/ShanClaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Kocoro-lab/ShanClaw) · [← Back to AI/ML](./README.md)</sub>

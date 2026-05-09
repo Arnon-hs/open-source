@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 176 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 178 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `agentic-os` `linux` `os` `skill`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ANOLISA is an open-source project that provides a comprehensive Agentic Nexus Operating Layer & Interface System Architecture for AI and Machine Learning applications. It offers a robust framework for developing and integrating intelligent systems, enabling seamless communication and collaboration between various agents and components. By leveraging ANOLISA, developers can create more efficient, scalable, and adaptable AI solutions.
+ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) is an open‑source framework designed to streamline the development, orchestration, and interaction of autonomous AI agents. It provides a modular, extensible architecture that integrates agent management, communication protocols, and a unified interface layer, enabling developers to build complex, collaborative AI systems with minimal overhead.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/alibaba/anolisa) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/alibaba/anolisa) · [← Back to AI/ML](./README.md)</sub>

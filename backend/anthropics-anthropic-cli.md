@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 329 |
-| 🍴 **Forks** | 40 |
+| ⭐ **Stars** | 341 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `api` `claude` `cli`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The anthropic-cli is an open-source command-line interface (CLI) designed for the Claude API, providing developers with a user-friendly tool to interact with the AI-powered platform. This CLI enables seamless integration and automation of tasks, making it easier to leverage the capabilities of Claude in various applications and projects. By using anthropic-cli, developers can streamline their workflow and unlock the full potential of the Claude API.
+anthropic-cli is a lightweight command‑line interface for interacting with Anthropic’s Claude API, enabling developers to send prompts, retrieve completions, and manage model settings directly from the terminal. It streamlines backend integration and debugging workflows, offering features such as configurable API keys, output formatting, and scriptable batch requests. Ideal for DevOps and AI‑focused tooling, the CLI simplifies rapid prototyping and automation of Claude‑powered applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/anthropics/anthropic-cli) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/anthropics/anthropic-cli) · [← Back to Backend](./README.md)</sub>

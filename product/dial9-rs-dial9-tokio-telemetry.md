@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 315 |
+| ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Product
 
 ## 📝 Summary
 
-The dial9-tokio-telemetry project is an open-source solution that provides a production-ready Tokio Telemetry implementation. This project offers a reliable and efficient way to collect and monitor system metrics, making it suitable for deployment in high-traffic production environments. By utilizing Tokio, a popular Rust async runtime, this solution ensures seamless integration and scalability.
+Dial9‑tokio‑telemetry is an open‑source library that provides production‑ready telemetry for applications built with the Tokio asynchronous runtime. It offers easy‑to‑integrate metrics, tracing, and logging facilities tailored to high‑performance Rust services, allowing developers to monitor latency, throughput, and error rates with minimal overhead. The crate is packaged for use in production environments, helping teams gain observability without sacrificing Tokio’s scalability.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/dial9-rs/dial9-tokio-telemetry) · [← Back to Product](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/dial9-rs/dial9-tokio-telemetry) · [← Back to Product](./README.md)</sub>

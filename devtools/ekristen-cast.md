@@ -1,6 +1,6 @@
 # ekristen/cast
 
-[![Stars](https://img.shields.io/github/stars/ekristen/cast?style=flat-square&color=yellow)](https://github.com/ekristen/cast/stargazers) [![Forks](https://img.shields.io/github/forks/ekristen/cast?style=flat-square&color=blue)](https://github.com/ekristen/cast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekristen/cast?style=flat-square&color=yellow)](https://github.com/ekristen/cast/stargazers) [![Forks](https://img.shields.io/github/forks/ekristen/cast?style=flat-square&color=blue)](https://github.com/ekristen/cast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cast is an installer for any compatible Saltstack based distribution like SIFT or REMnux
 
@@ -11,13 +11,13 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `distro` `golang` `linux` `saltstack`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Cast is an open-source installer for Saltstack-based distributions, designed to simplify the process of setting up compatible platforms like SIFT or REMnux. This tool offers a convenient and streamlined experience for users to deploy and manage these specialized systems. With Cast, users can efficiently install and configure Saltstack distributions for various security and forensic analysis needs.
+Cast is an open‑source installer that automates the deployment of SaltStack‑based security distributions such as SIFT and REMnux. By detecting compatible environments and handling package selection, configuration, and setup, it streamlines the process of getting a fully functional analysis platform up and running. The tool is packaged as a developer‑focused utility for easy extension and integration into custom SaltStack workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/ekristen/cast) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ekristen/cast) · [← Back to DevTools](./README.md)</sub>

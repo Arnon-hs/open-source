@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `bitcoinjs` `blockchain` `cryptocurrency` `react-native` `reactnative`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Frontend
 
 ## 📝 Summary
 
-BlueWallet is an open-source Bitcoin wallet available for both iOS and Android devices, developed using the React Native framework. This user-friendly wallet provides a secure and accessible way to manage Bitcoin transactions, catering to users across various mobile platforms. With its open-source nature, BlueWallet encourages community involvement and contributions to its ongoing development.
+BlueWallet is a cross‑platform Bitcoin wallet for iOS and Android, developed with React Native. It offers a clean, user‑friendly interface for sending, receiving, and managing Bitcoin, supporting both on‑chain and Lightning Network transactions. As an open‑source project, it encourages community contributions and transparency while integrating modern crypto features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/BlueWallet/BlueWallet) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/BlueWallet/BlueWallet) · [← Back to Crypto](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39.6k |
-| 🍴 **Forks** | 6.5k |
+| ⭐ **Stars** | 39.9k |
+| 🍴 **Forks** | 6.6k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-transparency` `anthropic` `chatgpt` `claude` `claude-code` `gemini` `generative-ai` `gpt-5` `grok` `large-language-models` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-This open-source project, "system_prompts_leaks," provides a collection of system prompts extracted from various popular AI models, including ChatGPT, Claude, Gemini, Grok, and more. The project is regularly updated to ensure users have access to the latest system prompts, facilitating research and development in the AI/ML field. This repository serves as a valuable resource for developers and researchers working with AI models.
+The **asgeirtj/system_prompts_leaks** repository aggregates and regularly updates the hidden system prompts used by major conversational AI models—including ChatGPT (GPT‑5.5 Thinking), Anthropic’s Claude series, Google Gemini variants, Grok 4.3 beta, Perplexity, and others. By extracting these prompts, the project provides developers and researchers with insight into the underlying instruction sets that shape each model’s behavior, facilitating analysis, comparison, and tool development in the AI/ML space.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/asgeirtj/system_prompts_leaks) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/asgeirtj/system_prompts_leaks) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 715 |
+| ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bolt` `cypher` `database` `enterprise-solutions` `golang` `graph-rag` `graphql` `hnsw` `local-llm` `mcp-server` `memoryos` `mvcc`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-NornicDB is a high-performance, distributed database that supports Graph+Vector and Temporal MVCC data models, offering sub-millisecond HNSW search and graph traversal capabilities. Built on top of Neo4j Bolt/Cypher and qdrant's gRPC, it provides a flexible architecture that allows seamless switching between different technologies. With its comprehensive feature set, including intelligent features like LLM reranking and GPU acceleration, NornicDB is a powerful tool for AI/ML and data-intensive applications.
+NornicDB is a high‑performance, distributed database that combines graph and vector search with temporal MVCC, delivering sub‑millisecond HNSW queries, graph traversals, and ultra‑low‑latency writes. It supports Neo4j Bolt/Cypher and Qdrant gRPC APIs for seamless compatibility, while offering advanced features such as schema enforcement, managed embeddings, LLM‑based reranking and inference, GPU acceleration, automatic temporal locality pruning, memory decay, and an MCP server.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/orneryd/NornicDB) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/orneryd/NornicDB) · [← Back to AI/ML](./README.md)</sub>

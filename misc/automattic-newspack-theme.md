@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Newspack theme is an open-source project that provides a customizable and user-friendly design for Newspack, a platform for creating and managing online news publications. This theme allows developers and publishers to easily customize and enhance their Newspack sites with a clean and modern layout. By contributing to this project, users can help create a robust and versatile theme for the Newspack community.
+Automattic’s **newspack-theme** is a fully responsive, Gutenberg‑compatible WordPress theme built specifically for the Newspack publishing platform. It provides a clean, customizable design with native support for newsletters, ad placements, and multilingual content, enabling publishers to launch professional news sites quickly and manage them entirely within the WordPress ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Automattic/newspack-theme) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Automattic/newspack-theme) · [← Back to Misc](./README.md)</sub>

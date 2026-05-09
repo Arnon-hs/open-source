@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `data-ingestion` `paimon` `real-time-analytics` `rust` `streaming-datalake` `table-store`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Apache Paimon Rust is an open-source project that provides a Rust implementation of Apache Paimon, a distributed, scalable, and high-performance storage engine for AI and ML workloads. This project enables developers to utilize Apache Paimon's capabilities in Rust-based applications, facilitating efficient data storage and processing. By leveraging Paimon's strengths, Rust developers can build high-performance data pipelines and analytics systems.
+Apache Paimon Rust is the Rust-language implementation of the Apache Paimon data lake framework, providing high‑performance, transactional table storage and query capabilities for modern data‑intensive applications. The project brings Paimon's core features—such as schema evolution, ACID guarantees, and efficient columnar storage—to the Rust ecosystem, enabling seamless integration with Rust‑based data pipelines, analytics, and AI/ML workloads. It aims to offer a lightweight, safe, and fast alternative for developers building scalable, real‑time data processing systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/apache/paimon-rust) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/apache/paimon-rust) · [← Back to AI/ML](./README.md)</sub>

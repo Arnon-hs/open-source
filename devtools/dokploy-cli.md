@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 104 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 106 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `dokploy` `vps`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Dokploy/cli is an open-source command-line interface (CLI) tool designed to simplify the deployment process for developers. It provides a user-friendly and efficient way to automate and manage deployments, streamlining the workflow and reducing manual errors. With Dokploy/cli, developers can focus on building applications while ensuring seamless and reliable deployment.
+Dokploy CLI is an open‑source command‑line interface that streamlines the deployment and management of applications on the Dokploy platform. It provides developers with simple, scriptable commands for creating, updating, and monitoring services, making DevOps workflows faster and more reproducible.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/Dokploy/cli) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Dokploy/cli) · [← Back to DevTools](./README.md)</sub>

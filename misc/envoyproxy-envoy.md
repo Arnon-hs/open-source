@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cars` `cats` `cats-over-dogs` `cncf` `corgis` `more-cats` `nanoservices` `rocket-ships`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Envoy proxy is an open-source, cloud-native high-performance edge/middle/service proxy designed to handle complex networking tasks with ease. As a high-performance solution, Envoy enables organizations to efficiently manage and route network traffic, improving scalability and reliability in their infrastructure. This proxy is widely used in modern architectures to optimize and secure the flow of data across distributed systems.
+Envoy is a high‑performance, open‑source edge and service proxy designed for cloud‑native architectures. It provides advanced L7 routing, traffic management, observability, and resilience features, making it ideal for modern microservice deployments and API gateways.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/envoyproxy/envoy) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/envoyproxy/envoy) · [← Back to Misc](./README.md)</sub>

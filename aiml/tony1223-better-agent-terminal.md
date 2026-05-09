@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 377 |
-| 🍴 **Forks** | 87 |
+| ⭐ **Stars** | 384 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `anthropic` `claude` `claude-code` `developer-tools` `electron` `multi-terminal` `terminal` `terminal-emulator` `workspace`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"better-agent-terminal is a multi-workspace terminal aggregator that streamlines development workflows by integrating a Claude Code AI assistant. This innovative tool enables users to efficiently manage multiple terminals, code snippets, and AI-driven suggestions in a single, intuitive interface. By combining AI-driven code completion and terminal aggregation, better-agent-terminal enhances productivity and coding efficiency."
+**better-agent-terminal** is an open‑source, multi‑workspace terminal aggregator that lets users manage several shell sessions from a single interface. It integrates Claude Code AI, enabling context‑aware code suggestions, completions, and debugging assistance directly within the terminal environment. Ideal for developers who want a unified command‑line workspace enhanced with powerful AI‑driven tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/tony1223/better-agent-terminal) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tony1223/better-agent-terminal) · [← Back to AI/ML](./README.md)</sub>

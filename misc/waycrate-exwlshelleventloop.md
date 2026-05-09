@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`layershell` `sessionlock` `sway` `wayland`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, waycrate/exwlshelleventloop, provides a binding for the Windows API's layershell and sessionlock, offering a similar experience to winit for Windows-specific development. It enables developers to work with shell events and window management, providing a foundation for creating Windows desktop applications. By offering a Winit-like API, the project streamlines the process of building Windows desktop applications.
+waycrate/exwlshelleventloop is an open‑source Rust library that provides a **winit‑style event loop** tailored for the **layer‑shell** and **session‑lock** protocols used in Wayland compositors. It abstracts the low‑level Wayland plumbing, letting applications create and manage windows, handle input events, and interact with lock screens in a clean, cross‑platform‑like API. The crate is positioned as a miscellaneous utility for developers building Wayland‑based GUI tools.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/waycrate/exwlshelleventloop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/waycrate/exwlshelleventloop) · [← Back to Misc](./README.md)</sub>

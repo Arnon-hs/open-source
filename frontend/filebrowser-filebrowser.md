@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`file-browser` `file-manager` `file-sharing` `go` `material-design` `self-hosted` `vue`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Filebrowser is an open-source, web-based file management interface that allows users to browse, upload, and download files. It offers a user-friendly and customizable design, making it suitable for a wide range of applications, from personal file management to enterprise environments. This project can be easily integrated into existing systems to provide a seamless file browsing experience.
+filebrowser is an open‑source web application that provides a clean, responsive interface for navigating, uploading, and managing files on a remote server directly from a browser. It supports user authentication, customizable themes, and a range of file operations (copy, move, delete, rename, edit) while exposing a simple REST API for integration with other tools. The project is built with modern frontend technologies and is designed for easy deployment and extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/filebrowser/filebrowser) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/filebrowser/filebrowser) · [← Back to Frontend](./README.md)</sub>

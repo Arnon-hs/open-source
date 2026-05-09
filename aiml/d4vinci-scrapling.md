@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.6k |
-| 🍴 **Forks** | 4.1k |
+| ⭐ **Stars** | 47.9k |
+| 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-scraping` `automation` `crawler` `crawling` `crawling-python` `data` `data-extraction` `mcp` `mcp-server` `playwright` `python`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a summary of the D4Vinci/Scrapling project:
-
-D4Vinci/Scrapling is an open-source, adaptive web scraping framework capable of handling a wide range of tasks from simple requests to large-scale crawls. This versatile tool enables users to extract and process data from various web sources with ease and efficiency. With its flexible architecture, Scrapling is suitable for both small-scale data collection and complex data mining operations.
+D4Vinci / Scrapling is an adaptive web‑scraping framework that scales effortlessly from single‑page requests to large‑scale crawls. It combines AI‑enhanced extraction techniques with a modular backend, letting developers configure parsers, rate limits and storage pipelines for robust data collection. Ideal for projects that need flexible, high‑performance scraping without reinventing the crawling infrastructure.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/D4Vinci/Scrapling) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/D4Vinci/Scrapling) · [← Back to AI/ML](./README.md)</sub>

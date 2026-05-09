@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 367 |
-| 🍴 **Forks** | 46 |
+| ⭐ **Stars** | 370 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-ai` `claude-api` `claude-cli` `claude-code` `claude-code-plugin` `claudecode` `claudecode-monitoring` `claudecodeing` `local-echo` `mosh` `opencode`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the Ark0N/Codeman project:
-
-Ark0N/Codeman is an open-source project that provides a modern web-based interface for managing Claude Code and Opencode in Tmux sessions. This project offers a user-friendly web UI for developers to effortlessly manage their AI and ML-related projects, streamlining their workflow and improving productivity. By leveraging Tmux sessions, Codeman enables seamless collaboration and efficient project management.
+Ark0N/Codeman is an open‑source tool that lets you run Claude Code and Opencode sessions directly within tmux, while providing a sleek, modern web interface for easy interaction. It bridges AI‑powered code generation with terminal workflows, offering both a responsive frontend UI and a backend that manages tmux sessions and API communication. Ideal for developers who want seamless integration of AI code assistance into their existing terminal‑centric toolchain.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Ark0N/Codeman) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Ark0N/Codeman) · [← Back to AI/ML](./README.md)</sub>

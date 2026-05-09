@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 227 |
+| ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `api-rest` `arazzo` `hacktoberfest` `openapi3` `openapi31`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The jentic-public-apis project is an open-source initiative that serves as a knowledge layer for AI agents and APIs, providing a comprehensive platform for integrating and exchanging information across various systems. This project aims to facilitate the development of more intelligent and interconnected AI applications, promoting collaboration and innovation in the field of artificial intelligence and machine learning. By offering a shared knowledge base, jentic-public-apis enables the creation of more robust and effective AI solutions.
+jentic/jentic-public-apis provides an open‑knowledge layer that lets AI agents discover, access, and interact with a wide range of public APIs in a unified, machine‑readable format. It offers a searchable repository, standardized metadata, and backend tooling to simplify integration and enable autonomous agents to retrieve up‑to‑date API information without manual curation. This project targets AI/ML developers building intelligent agents that need reliable, programmatic API discovery and consumption.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/jentic/jentic-public-apis) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jentic/jentic-public-apis) · [← Back to AI/ML](./README.md)</sub>

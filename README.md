@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **3499** |
+| 🗂️ **Total projects** | **3539** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 1395 | [Browse →](./aiml/) |
-| 📦 **Misc** | 548 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 1411 | [Browse →](./aiml/) |
+| 📦 **Misc** | 560 | [Browse →](./misc/) |
 | 🧩 **Orchestration** | 355 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 348 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 186 | [Browse →](./backend/) |
-| 🔧 **DevTools** | 178 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 136 | [Browse →](./crypto/) |
-| 📊 **Data** | 81 | [Browse →](./data/) |
+| 🎨 **Frontend** | 349 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 188 | [Browse →](./backend/) |
+| 🔧 **DevTools** | 182 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 139 | [Browse →](./crypto/) |
+| 📊 **Data** | 82 | [Browse →](./data/) |
 | 💳 **Payments** | 80 | [Browse →](./payments/) |
 | 📈 **Trading** | 53 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 47 | [Browse →](./devopsinfra/) |
 | 📱 **Mobile** | 40 | [Browse →](./mobile/) |
 | 🔐 **Security** | 31 | [Browse →](./security/) |
+| 🎯 **Product** | 10 | [Browse →](./product/) |
 | ✨ **Design** | 10 | [Browse →](./design/) |
-| 🎯 **Product** | 9 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 2 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
-| 2 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.5k | Security |
-| 3 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
-| 4 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
-| 5 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
-| 6 | [kedro-org/kedro](./aiml/kedro-org-kedro.md) | ⭐ 10.9k | AI/ML |
-| 7 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42.3k | Frontend |
-| 8 | [Lissy93/dashy](./frontend/lissy93-dashy.md) | ⭐ 25k | Frontend |
-| 9 | [gfx-rs/wgpu](./backend/gfx-rs-wgpu.md) | ⭐ 17.1k | Backend |
-| 10 | [reactos/reactos](./frontend/reactos-reactos.md) | ⭐ 17.5k | Frontend |
+| 1 | [asgeirtj/system_prompts_leaks](./aiml/asgeirtj-system-prompts-leaks.md) | ⭐ 39.9k | AI/ML |
+| 2 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
+| 3 | [envoyproxy/envoy](./misc/envoyproxy-envoy.md) | ⭐ 27.9k | Misc |
+| 4 | [winsiderss/systeminformer](./security/winsiderss-systeminformer.md) | ⭐ 14.5k | Security |
+| 5 | [JustArchiNET/ArchiSteamFarm](./backend/justarchinet-archisteamfarm.md) | ⭐ 13.3k | Backend |
+| 6 | [projectcalico/calico](./devopsinfra/projectcalico-calico.md) | ⭐ 7.2k | DevOps & Infra |
+| 7 | [influxdata/influxdb](./frontend/influxdata-influxdb.md) | ⭐ 31.5k | Frontend |
+| 8 | [nukeop/nuclear](./aiml/nukeop-nuclear.md) | ⭐ 17.5k | AI/ML |
+| 9 | [kedro-org/kedro](./aiml/kedro-org-kedro.md) | ⭐ 10.9k | AI/ML |
+| 10 | [payloadcms/payload](./frontend/payloadcms-payload.md) | ⭐ 42.3k | Frontend |
 
 ## 🚀 How it works
 

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The oxide-and-friends project is an open-source repository that hosts show notes from Oxide and Friends, a series of recordings that likely feature conversations, discussions, or interviews on various topics. The repository provides a centralized location for accessing and referencing the show notes from these recordings. It is a community-driven resource for users to review and engage with the content.
+Oxide‑and‑Friends is an open‑source repository that collects and publishes the show notes for the “Oxide and Friends” audio recordings. It serves as a centralized, searchable archive of episode summaries, timestamps, references, and related resources, making it easy for listeners and contributors to find and reuse the content.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/oxidecomputer/oxide-and-friends) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/oxidecomputer/oxide-and-friends) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.1k |
-| 🍴 **Forks** | 531 |
+| 🍴 **Forks** | 532 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud-disk` `command-line` `file-sharing` `file-upload-server` `rust` `static-server` `webdav` `webdav-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend
 
 ## 📝 Summary
 
-The dufs project is an open-source file server that provides a robust set of features, including static serving, file uploading, searching, access control, and webdav functionality. This backend solution enables users to manage files efficiently and securely, making it suitable for various use cases. With its open-source nature, the dufs project allows developers to customize and extend its capabilities to meet their specific needs.
+**dufs** is an open‑source, lightweight file server written in Go that provides static file serving, file uploads, search functionality, access control, and WebDAV support. It’s designed for easy deployment as a backend service, offering configurable authentication and directory indexing while handling large directories efficiently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/sigoden/dufs) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sigoden/dufs) · [← Back to Backend](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 336 |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 337 |
+| 🍴 **Forks** | 100 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Data
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project 'open-telemetry/otel-arrow':
-
-The open-telemetry/otel-arrow project provides a standardized protocol and libraries for efficiently sending and receiving OpenTelemetry data using Apache Arrow, enabling scalable and high-performance telemetry data processing. By leveraging Apache Arrow's efficient columnar data storage and computational engine, this project facilitates the rapid and reliable transfer of telemetry data across various systems. This integration enables seamless observability and monitoring across distributed applications.
+OpenTelemetry OTel‑Arrow provides a high‑performance protocol and a set of libraries that encode OpenTelemetry traces, metrics, and logs in the Apache Arrow columnar format for efficient transmission and storage. By leveraging Arrow’s zero‑copy, language‑agnostic serialization, OTel‑Arrow enables fast, low‑overhead collection and ingestion of observability data across diverse systems and languages. It is an open‑source project aimed at improving the scalability of telemetry pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/open-telemetry/otel-arrow) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/open-telemetry/otel-arrow) · [← Back to Data](./README.md)</sub>

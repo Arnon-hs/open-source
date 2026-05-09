@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser-game` `game` `io-game` `rts` `rts-game`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-openfrontio/OpenFrontIO is a promising open-source project. Categories: Misc. Interest score: 74/100.
+OpenFrontIO is an open‑source, browser‑based real‑time strategy (RTS) game that lets players build bases, command units, and compete against each other directly from a web interface. The project provides a fully client‑server architecture, customizable maps, and extensible game mechanics, making it a flexible foundation for both casual play and experimental RTS development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/openfrontio/OpenFrontIO) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/openfrontio/OpenFrontIO) · [← Back to Misc](./README.md)</sub>

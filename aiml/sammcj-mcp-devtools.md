@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `ai` `cline` `coding` `devtools` `llm` `mcp` `sammcj`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The sammcj/mcp-devtools project is an open-source, modular MCP (Multi-Client Package) server designed to provide a suite of developer tools for AI coding agents. It offers a centralized platform for AI developers to create, test, and refine their AI projects, streamlining the development process and enhancing collaboration. By leveraging this modular MCP server, developers can focus on building innovative AI solutions without the need for custom development of infrastructure tools.
+sammcj/mcp-devtools is a modular MCP (Modular Coding Platform) server that bundles a suite of commonly used developer tools specifically designed for AI coding agents. It offers a plug‑in architecture that lets developers easily integrate, configure, and extend utilities such as code generation, linting, testing, and debugging within AI‑driven workflows. The project targets AI/ML backend environments, providing a lightweight, open‑source foundation for building robust AI‑assisted development pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/sammcj/mcp-devtools) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sammcj/mcp-devtools) · [← Back to AI/ML](./README.md)</sub>

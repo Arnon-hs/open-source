@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 814 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 833 |
+| 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The jdx/hk project is an open-source collection of tools designed to enhance software development workflows. It includes a set of customizable git hooks and project lints that can be integrated into various development projects. These tools aim to promote code quality, consistency, and collaboration among developers.
+jdx/hk is an open‑source toolkit that provides ready‑to‑use Git hooks and a collection of project linting utilities to enforce code quality and workflow standards. By integrating seamlessly with any repository, it automates checks such as formatting, static analysis, and commit message validation, helping developers catch issues early and maintain consistent coding conventions. It’s packaged as a lightweight DevTools solution for teams seeking simple, customizable pre‑commit and continuous‑integration safeguards.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/jdx/hk) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jdx/hk) · [← Back to DevTools](./README.md)</sub>

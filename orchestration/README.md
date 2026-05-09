@@ -333,8 +333,8 @@
 | 323 | [Signet-AI/signetai](./signet-ai-signetai.md) | ⭐ 137 | TypeScript | 51/100 |
 | 324 | [simota/agent-skills](./simota-agent-skills.md) | ⭐ 32 | HTML | 50/100 |
 | 325 | [DiegoNogueiraDev/mcp-graph-workflow](./diegonogueiradev-mcp-graph-workflow.md) | ⭐ 34 | TypeScript | 50/100 |
-| 326 | [dkondo/agent-tackle-box](./dkondo-agent-tackle-box.md) | ⭐ 49 | Python | 50/100 |
-| 327 | [itlackey/akm](./itlackey-akm.md) | ⭐ 43 | TypeScript | 50/100 |
+| 326 | [itlackey/akm](./itlackey-akm.md) | ⭐ 43 | TypeScript | 50/100 |
+| 327 | [dkondo/agent-tackle-box](./dkondo-agent-tackle-box.md) | ⭐ 49 | Python | 50/100 |
 | 328 | [MarlBurroW/kinbot](./marlburrow-kinbot.md) | ⭐ 40 | TypeScript | 50/100 |
 | 329 | [friday-platform/friday-studio](./friday-platform-friday-studio.md) | ⭐ 63 | TypeScript | 50/100 |
 | 330 | [kstevica/captain-claw](./kstevica-captain-claw.md) | ⭐ 34 | Python | 50/100 |
@@ -351,12 +351,12 @@
 | 341 | [bruc3van/agent-skills-guard](./bruc3van-agent-skills-guard.md) | ⭐ 343 | Rust | 49/100 |
 | 342 | [oneshot-repo/OneShot](./oneshot-repo-oneshot.md) | ⭐ 40 | Python | 49/100 |
 | 343 | [dance-of-tal/dot-studio](./dance-of-tal-dot-studio.md) | ⭐ 378 | TypeScript | 49/100 |
-| 344 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 34 | C# | 48/100 |
-| 345 | [raphaeltm/simple-agent-manager](./raphaeltm-simple-agent-manager.md) | ⭐ 32 | TypeScript | 48/100 |
+| 344 | [raphaeltm/simple-agent-manager](./raphaeltm-simple-agent-manager.md) | ⭐ 32 | TypeScript | 48/100 |
+| 345 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 34 | C# | 48/100 |
 | 346 | [aws-samples/sample-autonomous-cloud-coding-agents](./aws-samples-sample-autonomous-cloud-coding-agents.md) | ⭐ 47 | TypeScript | 48/100 |
 | 347 | [gastownhall/gascity](./gastownhall-gascity.md) | ⭐ 643 | Go | 48/100 |
-| 348 | [sympozium-ai/sympozium](./sympozium-ai-sympozium.md) | ⭐ 475 | Go | 47/100 |
-| 349 | [Dicklesworthstone/frankenterm](./dicklesworthstone-frankenterm.md) | ⭐ 79 | Rust | 47/100 |
+| 348 | [Dicklesworthstone/frankenterm](./dicklesworthstone-frankenterm.md) | ⭐ 79 | Rust | 47/100 |
+| 349 | [sympozium-ai/sympozium](./sympozium-ai-sympozium.md) | ⭐ 475 | Go | 47/100 |
 | 350 | [aws/bedrock-agentcore-sdk-python](./aws-bedrock-agentcore-sdk-python.md) | ⭐ 696 | Python | 47/100 |
 | 351 | [YPares/agent-skills](./ypares-agent-skills.md) | ⭐ 24 | Shell | 46/100 |
 | 352 | [github/gh-aw-firewall](./github-gh-aw-firewall.md) | ⭐ 68 | TypeScript | 45/100 |
