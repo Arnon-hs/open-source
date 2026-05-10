@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
-| 🍴 **Forks** | 16 |
+| ⭐ **Stars** | 142 |
+| 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `memory-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The mempal project is an open-source AI agent memory solution that enables efficient management of agent knowledge and experience. This project facilitates the integration of artificial intelligence and machine learning capabilities into various systems, promoting smoother orchestration and intelligent decision-making. By utilizing mempal, developers can create more sophisticated and adaptive AI agents.
+ZhangHanDong/mempal is an open‑source framework that equips AI agents with a persistent, searchable memory store, enabling them to recall past interactions, facts, and context across sessions. By integrating lightweight orchestration tools and machine‑learning utilities, the project simplifies the creation of long‑term, stateful conversational agents that can retrieve and update information dynamically.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ZhangHanDong/mempal) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ZhangHanDong/mempal) · [← Back to Orchestration](./README.md)</sub>

@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 886 |
+| 🍴 **Forks** | 884 |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-The google-api-ruby-client is an open-source REST client for interacting with Google APIs. This Ruby library provides a simple and convenient way to access a wide range of Google services, including Google Drive, Google Calendar, and more. With its easy-to-use interface and robust functionality, developers can quickly and easily integrate Google APIs into their Ruby applications.
+The **googleapis/google-api-ruby-client** is an open‑source Ruby library that provides a convenient, idiomatic REST client for accessing Google’s extensive suite of APIs. It abstracts authentication, request building, and response handling, enabling developers to integrate services such as Drive, Sheets, and Cloud Platform into Ruby backend applications with minimal boilerplate. The project is actively maintained and serves as a key DevTools component for Ruby‑based Google API integration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/googleapis/google-api-ruby-client) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/googleapis/google-api-ruby-client) · [← Back to Backend](./README.md)</sub>

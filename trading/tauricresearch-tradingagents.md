@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 68.9k |
-| 🍴 **Forks** | 13.3k |
+| ⭐ **Stars** | 72.7k |
+| 🍴 **Forks** | 14.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `finance` `llm` `multiagent` `trading`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the TradingAgents open-source project:
-
-TradingAgents is an open-source, multi-agent framework for financial trading that leverages Large Language Models (LLM) to enable sophisticated trading strategies. This framework allows developers to create and orchestrate multiple trading agents, empowering them to optimize trading decisions and adapt to dynamic market conditions. By harnessing the power of AI/ML, TradingAgents aims to revolutionize the trading industry with more informed and autonomous decision-making.
+TradingAgents is an open‑source framework that leverages large language models (LLMs) to create and coordinate multiple autonomous trading agents for financial markets. It provides tools for orchestrating agent interactions, strategy execution, and data handling, enabling developers to build, test, and deploy AI‑driven trading systems with minimal boilerplate. The project targets traders, researchers, and AI engineers interested in combining LLM capabilities with automated trading workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/TauricResearch/TradingAgents) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/TauricResearch/TradingAgents) · [← Back to Trading](./README.md)</sub>

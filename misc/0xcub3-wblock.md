@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The 0xCUB3/wBlock project offers a next-generation ad blocker specifically designed for Safari browsers. This open-source solution aims to provide users with a more seamless and ad-free browsing experience. By leveraging advanced technology, wBlock enhances web performance and user privacy by blocking unwanted advertisements and malicious content.
+0xCUB3/wBlock is an open‑source, next‑generation ad‑blocking extension designed specifically for Safari. It leverages modern web‑filtering techniques to block intrusive ads, trackers, and malicious content while preserving browsing performance and privacy. The project is maintained as a community‑driven tool under the “Misc” category, inviting contributions and customization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/0xCUB3/wBlock) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/0xCUB3/wBlock) · [← Back to Misc](./README.md)</sub>

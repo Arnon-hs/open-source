@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 704 |
-| 🍴 **Forks** | 34 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,9 @@ AI/ML
 
 ## 📝 Summary
 
-The omni project is an open-source Workplace AI Assistant and Search Platform designed to enhance productivity and streamline workflows. It utilizes artificial intelligence and machine learning to provide a comprehensive search platform and intelligent assistant capabilities, thereby improving employee efficiency and collaboration. This project aims to offer a customizable and scalable solution for organizations seeking to leverage AI-powered tools in their work environment.
+**Summary:**  
+Omni (getomnico/omni) is an open‑source workplace AI assistant that combines conversational assistance with powerful, context‑aware search across company data. Built on modern AI/ML technologies, it helps teams retrieve information, automate routine tasks, and streamline collaboration within a unified platform.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/getomnico/omni) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/getomnico/omni) · [← Back to AI/ML](./README.md)</sub>

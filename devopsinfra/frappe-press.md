@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 504 |
-| 🍴 **Forks** | 370 |
+| ⭐ **Stars** | 506 |
+| 🍴 **Forks** | 373 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cloud` `docker` `erpnext` `frappe` `hosting` `saas`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra · Product
 
 ## 📝 Summary
 
-The frappe/press project is an open-source platform that provides full-service cloud hosting for the Frappe stack. It powers Frappe Cloud, offering a comprehensive infrastructure solution for users. This platform is designed to simplify cloud hosting and management, making it easier for developers to deploy and manage their applications.
+frappe/press is an open‑source platform that provides fully managed cloud hosting for the entire Frappe stack, enabling developers to deploy, scale, and maintain Frappe‑based applications with minimal operational overhead. It powers Frappe Cloud, offering features such as automated provisioning, backups, monitoring, and integrated CI/CD pipelines, making it a turnkey DevOps and product solution for teams building on Frappe.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/frappe/press) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/frappe/press) · [← Back to DevOps & Infra](./README.md)</sub>

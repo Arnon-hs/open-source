@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 702 |
-| 🍴 **Forks** | 128 |
+| ⭐ **Stars** | 704 |
+| 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, douyin-hot-hub, tracks and archives various Douyin (TikTok) rankings, including the Hot List, Star List, Live Stream List, Music List, and Brand List, with hourly updates and daily archives. It provides a comprehensive view of the most popular and trending content on the platform. The project is maintained by lonnyzhang423 and is available as an open-source repository.
+This open‑source repository tracks Douyin’s various ranking lists—including Hot, Celebrity, Live, Music, and Brand charts—by scraping the data every hour and storing it in daily archives. It provides a continuously updated, time‑stamped dataset that can be used for analysis, monitoring trends, or building applications that rely on up‑to‑date Douyin popularity metrics.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/lonnyzhang423/douyin-hot-hub) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/lonnyzhang423/douyin-hot-hub) · [← Back to Misc](./README.md)</sub>

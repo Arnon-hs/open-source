@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111 |
+| ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `daemon` `devops` `devops-tools` `ecosystem` `ipc` `linux` `macos` `nodejs` `pm2` `pm2-alternative` `production`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Product
 
 ## 📝 Summary
 
-OxMgr is an open-source process manager written in Rust, designed to provide a fast and deterministic alternative to PM2 for managing any executable across multiple platforms. This lightweight solution allows users to efficiently manage processes with ease, making it an ideal choice for developers and system administrators. With its modern architecture and cross-platform compatibility, OxMgr is a versatile tool for managing system resources and processes.
+Oxmgr is a lightweight, cross‑platform process manager built in Rust, offering a fast and deterministic alternative to PM2 for running any executable. Designed for developers and product teams, it provides modern tooling for starting, stopping, and monitoring processes with minimal overhead. Its Rust implementation ensures high performance and reliability across Windows, macOS, and Linux.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Vladimir-Urik/OxMgr) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Vladimir-Urik/OxMgr) · [← Back to DevTools](./README.md)</sub>

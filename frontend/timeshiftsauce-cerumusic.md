@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 71 |
+| 🍴 **Forks** | 73 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the CeruMusic project:
-
-CeruMusic is an open-source, cross-platform music player built with Electron and Vue, inspired by the concept of plugins in Last.fm. It serves as a framework for running plugins and playing music, without directly storing or providing any music source files. Users can install compatible plugins to access music data, providing a legitimate music playback tool framework for developers to learn and practice desktop application development.
+Ceru Music is a cross‑platform desktop music player built with Electron and Vue that provides a plugin framework and playback engine without bundling any music files. Users obtain music data by installing third‑party, legally compliant plugins, while developers can use the project as a practical example of desktop‑app development.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/timeshiftsauce/CeruMusic) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/timeshiftsauce/CeruMusic) · [← Back to Frontend](./README.md)</sub>

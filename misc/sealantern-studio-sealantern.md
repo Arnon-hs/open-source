@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 377 |
-| 🍴 **Forks** | 137 |
+| ⭐ **Stars** | 380 |
+| 🍴 **Forks** | 136 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`minecraft`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-SeaLantern is an open-source, community-driven, and highly customizable Minecraft server. Based on the Bilibili community, this project empowers users to personalize and create their own unique Minecraft experiences. Users can shape the server's appearance to their liking, providing a highly flexible and creative platform for Minecraft enthusiasts.
+SeaLantern is a community‑driven, customizable Minecraft server platform created collaboratively by the Bilibili (B站) community. It provides a flexible framework that lets users tailor the server’s appearance, plugins, and gameplay features to their own vision, making each deployment uniquely theirs. The project is open‑source and welcomes contributions from anyone interested in shaping the next generation of Minecraft server experiences.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/SeaLantern-Studio/SeaLantern) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/SeaLantern-Studio/SeaLantern) · [← Back to Misc](./README.md)</sub>

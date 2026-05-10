@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 390 |
+| ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dataclass` `dataclasses` `extension` `fast` `msgpack` `numpy` `orjson` `pydantic` `pyo3` `python` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-ormsgpack is a high-performance MessagePack serialization library for Python, developed using Rust and PyO3. This open-source project provides efficient serialization and deserialization capabilities, allowing developers to seamlessly work with MessagePack data in their Python applications. By leveraging Rust's speed and PyO3's Python integration, ormsgpack offers a robust and reliable solution for data serialization needs.
+ormsgpack is a high‑performance MessagePack serialization library for Python, built on the fast Rust implementation of orjson and exposed to Python via PyO3. It offers rapid encoding and decoding of MessagePack data while maintaining a simple, Pythonic API, making it ideal for data‑intensive applications that need efficient binary serialization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ormsgpack/ormsgpack) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ormsgpack/ormsgpack) · [← Back to Data](./README.md)</sub>

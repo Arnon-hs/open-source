@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 397 |
-| 🍴 **Forks** | 69 |
+| ⭐ **Stars** | 404 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`996icu` `crawler` `icu` `iplocation` `iplocator` `proxy` `proxy-checker` `proxy-server` `proxy-sources` `proxypool` `requests` `spider`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the FreeProxy project:
-
-FreeProxy is an open-source project that collects high-quality, free proxies from the internet. It supports scraping proxies from multiple sources and allows users to customize proxy filtering rules. With daily updates and robust data analysis capabilities, FreeProxy is a valuable tool for web scraping and other applications that require large numbers of reliable, free proxies.
+FreeProxy is an open‑source backend tool that crawls dozens of public sources to gather a large, constantly refreshed pool of high‑quality free proxies worldwide. It offers customizable filtering rules for selecting proxies, making it ideal for web‑scraping, crawling, and data‑analysis tasks that require reliable, up‑to‑date proxy lists.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/CharlesPikachu/freeproxy) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/CharlesPikachu/freeproxy) · [← Back to Backend](./README.md)</sub>
