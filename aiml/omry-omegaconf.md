@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 153 |
+| 🍴 **Forks** | 154 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`configuration-files` `configuration-loader` `python` `python-types` `schema-validator` `yaml` `yaml-configuration`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here is a brief summary of the omry/omegaconf project:
-
-Omegaconf is an open-source, flexible Python configuration system designed for simplicity and ease of use. It provides a robust framework for managing and parsing configuration files, making it an ideal choice for developers working with complex projects. By offering a comprehensive and customizable solution, Omegaconf aims to be the last configuration system you will ever need.
+OmegaConf (omry/omegaconf) is a flexible, hierarchical configuration library for Python that seamlessly merges YAML files, command‑line arguments, environment variables, and programmatic overrides. It supports type safety, interpolation, and dynamic merging, making it ideal for complex AI/ML pipelines and experiments. The library’s intuitive API and extensive validation features aim to be the last configuration system developers will need.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/omry/omegaconf) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/omry/omegaconf) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 892 |
+| ⭐ **Stars** | 893 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automad` `cms` `flat-file` `template-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Automad is an open-source flat-file content management system (CMS) that allows users to create and manage websites using a simple, flat-file data structure. It also functions as a template engine, enabling users to define custom layouts and templates for their content. This system simplifies website development and maintenance by eliminating the need for a traditional database.
+marcantondahmen/automad is a lightweight, flat‑file content management system that doubles as a powerful template engine. It lets users create, edit, and publish website content without a database, using simple markup files that are parsed and rendered on the fly. Ideal for small to medium static sites, Automad provides a clean UI, extensible plugins, and built‑in theming to streamline rapid web development.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/marcantondahmen/automad) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/marcantondahmen/automad) · [← Back to Misc](./README.md)</sub>

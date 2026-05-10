@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 395 |
-| 🍴 **Forks** | 17 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app-sales` `app-store` `appstore` `deals` `discounts` `price-drops` `price-tracker` `rss` `telegram`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Appstore-discounts is an open-source project that monitors and tracks discounts on the App Store. This project uses GitHub Actions to provide real-time notifications via RSS, Telegram, and DingTalk, allowing users to stay informed about their favorite apps' price drops. By leveraging these features, users can easily discover and take advantage of discounted apps.
+appstore-discounts is an open‑source tool that automatically tracks price reductions and promotions on the Apple App Store. Powered by GitHub Actions, it periodically checks for discounts and can push alerts via RSS feeds, Telegram bots, or DingTalk messages, making it easy for developers and users to stay informed about the latest deals.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/appstore-discounts/appstore-discounts) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/appstore-discounts/appstore-discounts) · [← Back to Frontend](./README.md)</sub>

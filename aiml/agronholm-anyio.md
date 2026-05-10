@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 202 |
+| 🍴 **Forks** | 205 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async-await` `asyncio` `trio`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The anyio project is an open-source, high-level asynchronous concurrency and networking framework that provides a unified API for working with either Trio or asyncio. This framework allows developers to write concurrent code that can run on a variety of asynchronous runtimes, making it more versatile and adaptable to different project needs. By providing a single interface for concurrency and networking, anyio simplifies the development process and improves code maintainability.
+AnyIO is a high‑level asynchronous concurrency and networking library that provides a unified API for both Trio and asyncio, allowing developers to write portable, framework‑agnostic async code. It abstracts away the differences between the underlying event loops, offering a consistent set of primitives for task groups, cancellation scopes, streams, and synchronization. By simplifying the choice of async backend, AnyIO helps developers focus on application logic rather than low‑level concurrency details.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/agronholm/anyio) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/agronholm/anyio) · [← Back to AI/ML](./README.md)</sub>

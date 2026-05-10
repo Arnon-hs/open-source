@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`jellyfin` `jellyfin-community-plugin` `jellyfin-plugin` `jellyfin-web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The Jellyfin-Enhanced project is an open-source enhancement layer designed to elevate the Jellyfin web UI experience. This comprehensive layer introduces various quality-of-life improvements, including keyboard shortcuts, advanced subtitle styling, and seamless integration with popular media management tools like TMDB, Seerr, Sonarr, and Radarr. By streamlining user interactions and enhancing functionality, Jellyfin-Enhanced aims to create a more intuitive and efficient media management interface.
+The **Jellyfin‑Enhanced** project adds a rich overlay of quality‑of‑life features to the Jellyfin web interface, including customizable keyboard shortcuts, subtitle styling, TMDB data and user reviews, and seamless Seerr integration with automatic request handling. It also provides a media calendar, download monitoring through Sonarr and Radarr, and a continuously expanding set of UI improvements aimed at streamlining the user experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/n00bcodr/Jellyfin-Enhanced) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/n00bcodr/Jellyfin-Enhanced) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 311 |
-| 🍴 **Forks** | 143 |
+| 🍴 **Forks** | 145 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `kotlin` `mobile-app` `woocommerce`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Mobile
 
 ## 📝 Summary
 
-The WooCommerce Android app is an open-source project that enables users to manage their online stores directly from their mobile devices. It allows users to view orders, track inventory, and receive notifications, all in a user-friendly interface. This project provides a convenient solution for businesses to stay on top of their e-commerce operations remotely.
+The **WooCommerce Android** project provides an official mobile client for WooCommerce stores, enabling merchants and shoppers to manage products, orders, and customers directly from Android devices. It offers a native, feature‑rich interface for browsing the catalog, processing payments, and handling store administration while integrating seamlessly with the WooCommerce REST API. The open‑source app is built with modern Android development practices and can be customized or extended by the community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/woocommerce/woocommerce-android) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/woocommerce/woocommerce-android) · [← Back to Mobile](./README.md)</sub>

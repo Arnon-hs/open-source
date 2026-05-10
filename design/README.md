@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**17 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -23,8 +23,9 @@
 | 13 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 53/100 |
 | 14 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 52/100 |
 | 15 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
-| 16 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 49/100 |
-| 17 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
+| 16 | [SideCloudGroup/BetterForward](./sidecloudgroup-betterforward.md) | ⭐ 648 | Python | 50/100 |
+| 17 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 49/100 |
+| 18 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
 
 ---
 

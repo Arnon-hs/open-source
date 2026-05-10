@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 622 |
-| 🍴 **Forks** | 296 |
+| ⭐ **Stars** | 624 |
+| 🍴 **Forks** | 298 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`adversaries` `adversary-groups` `attack-patternon` `classification` `information-exchange` `malware` `misp` `misp-galaxy` `mitre-adversarial-tactics` `stix` `threat-actors` `threat-hunting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading
 
 ## 📝 Summary
 
-The MISP/misp-galaxy project is an open-source tool designed to facilitate the creation and management of clusters and elements that can be attached to MISP events or attributes. This allows users to more effectively organize and analyze threat intelligence, such as threat actors and their associated information. By leveraging misp-galaxy, users can streamline their threat intelligence gathering and analysis processes.
+MISP‑Galaxy is an open‑source library of pre‑defined “galaxies” – structured clusters and elements such as threat‑actor profiles, malware families, attack‑techniques, and other contextual data – that can be linked to MISP events and attributes for richer threat intelligence sharing. By providing a standardized taxonomy and JSON/YAML definitions, it enables analysts to quickly tag, filter, and correlate indicators across platforms, improving consistency and automation in threat‑intel workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/MISP/misp-galaxy) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/MISP/misp-galaxy) · [← Back to Trading](./README.md)</sub>

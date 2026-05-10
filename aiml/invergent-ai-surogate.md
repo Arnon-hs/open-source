@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cuda` `deep-learning` `fine-tuning` `generative-ai` `llama` `llm` `llms` `nvidia-gpu` `qwen` `sft`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project 'surogate':
-
-Surogate is an open-source project that accelerates the training and fine-tuning of AI models at unprecedented speeds. By leveraging cutting-edge technologies, it streamlines the AI development process, making it more efficient and effective for developers and researchers alike. With surogate, users can unlock the full potential of their AI models, pushing the boundaries of what's possible in the field of artificial intelligence.
+invergent‑ai/surogate is an open‑source framework designed to accelerate the training and fine‑tuning of large AI models, delivering near‑real‑time performance through optimized data pipelines, parallelism, and hardware‑aware scheduling. It supports a wide range of model architectures and integrates with popular ML libraries, making high‑speed model adaptation accessible to researchers and developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/invergent-ai/surogate) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/invergent-ai/surogate) · [← Back to AI/ML](./README.md)</sub>

@@ -228,8 +228,8 @@
 | 218 | [KATO-Hiro/AtCoderClans](./kato-hiro-atcoderclans.md) | ⭐ 140 | Shell | 51/100 |
 | 219 | [timothebot/lacy](./timothebot-lacy.md) | ⭐ 175 | Rust | 51/100 |
 | 220 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
-| 221 | [Correia-jpv/fucking-awesome-cli-apps](./correia-jpv-fucking-awesome-cli-apps.md) | ⭐ 50 | Shell | 50/100 |
-| 222 | [y3owk1n/nvs](./y3owk1n-nvs.md) | ⭐ 32 | Go | 50/100 |
+| 221 | [y3owk1n/nvs](./y3owk1n-nvs.md) | ⭐ 32 | Go | 50/100 |
+| 222 | [Correia-jpv/fucking-awesome-cli-apps](./correia-jpv-fucking-awesome-cli-apps.md) | ⭐ 50 | Shell | 50/100 |
 | 223 | [rafi/awesome-cli-binaries](./rafi-awesome-cli-binaries.md) | ⭐ 45 | Lua | 50/100 |
 | 224 | [ehmicky/nvexeca](./ehmicky-nvexeca.md) | ⭐ 48 | JavaScript | 50/100 |
 | 225 | [hivemq/mqtt-cli](./hivemq-mqtt-cli.md) | ⭐ 361 | Java | 50/100 |
@@ -243,8 +243,8 @@
 | 233 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
 | 234 | [kazupon/gunshi](./kazupon-gunshi.md) | ⭐ 412 | TypeScript | 49/100 |
 | 235 | [openclaw/goplaces](./openclaw-goplaces.md) | ⭐ 223 | Go | 49/100 |
-| 236 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
-| 237 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 236 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
+| 237 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
 | 238 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 776 | Swift | 49/100 |
 | 239 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
 | 240 | [SimonHalvdansson/Harmonic-HN](./simonhalvdansson-harmonic-hn.md) | ⭐ 910 | Java | 48/100 |

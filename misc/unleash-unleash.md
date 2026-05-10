@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.4k |
-| 🍴 **Forks** | 846 |
+| ⭐ **Stars** | 13.5k |
+| 🍴 **Forks** | 848 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`activation-strategies` `collaboration` `continuous-delivery` `continuous-deployment` `devops` `devtool` `experiments` `feature` `feature-flags` `feature-toggle` `feature-toggles` `feature-toggling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Unleash is an open-source feature management platform that enables developers to easily manage and control the roll-out of new features across their applications. This platform provides a centralized interface for feature flagging, A/B testing, and experimentation, allowing teams to safely and efficiently deploy new features to end-users. By using Unleash, developers can streamline their development workflows and improve the overall user experience.
+Unleash is an open‑source feature management platform that enables developers to toggle functionality, run A/B tests, and control releases across multiple environments without redeploying code. It provides a simple UI, robust SDKs for many programming languages, and fine‑grained targeting rules, making feature flagging and gradual rollouts easy to implement and manage.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Unleash/unleash) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Unleash/unleash) · [← Back to Misc](./README.md)</sub>
