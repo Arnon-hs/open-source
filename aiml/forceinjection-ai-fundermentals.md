@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 181 |
+| 🍴 **Forks** | 187 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-infra` `cuda`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the ForceInjection/AI-fundermentals project:
-
-This open-source project, ForceInjection/AI-fundermentals, provides a comprehensive collection of AI fundamentals, covering GPU architecture, CUDA programming, large model foundations, and AI agent-related knowledge. It aims to equip developers and researchers with the necessary skills and understanding to work effectively in the field of artificial intelligence. By offering free access to this knowledge, the project promotes AI education and collaboration within the community.
+ForceInjection/AI-fundermentals is an open‑source knowledge hub that covers the fundamentals of artificial intelligence, including GPU architecture, CUDA programming, the basics of large language models, and AI agent concepts. It provides concise, well‑structured tutorials and reference material aimed at developers and engineers who want to build a solid technical foundation for AI/ML and related DevOps/infra workflows. The project’s documentation is hosted at https://forceinjection.github.io/.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ForceInjection/AI-fundermentals) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ForceInjection/AI-fundermentals) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.6k |
+| ⭐ **Stars** | 11.7k |
 | 🍴 **Forks** | 15.4k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`autonomous` `autopilot` `avoidance` `dds` `drone` `dronecode` `drones` `fixed-wing` `mavlink` `mavros` `multicopter` `pixhawk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The PX4 Autopilot Software is an open-source project that provides a comprehensive autopilot solution for drones, robots, and other unmanned vehicles. It offers a highly customizable and modular architecture that enables developers to create a wide range of autonomous systems. With its extensive feature set and active community, PX4 is widely used in industries such as aerospace, robotics, and surveying.
+PX4 is an open‑source flight control stack that provides high‑performance autopilot software for drones, VTOLs, and other unmanned vehicles. It offers a modular architecture, real‑time sensor fusion, and a rich set of flight modes, supporting a wide range of hardware platforms and operating systems. The project is community‑driven, continually updated, and integrates with popular ground‑control stations and simulation tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/PX4/PX4-Autopilot) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PX4/PX4-Autopilot) · [← Back to Misc](./README.md)</sub>

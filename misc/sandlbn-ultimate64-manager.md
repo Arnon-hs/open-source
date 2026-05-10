@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 146 |
+| ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c64` `commodore` `commodore-64` `retrocomputing` `ultimate-64`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ultimate64-manager is an open-source desktop application designed to manage Commodore 64 devices, specifically the Commodore 64 Ultimate, Ultimate64, and Ultimate-II+. This software allows users to easily configure, monitor, and control these devices from their computer. It caters to the needs of enthusiasts and collectors who work with these retro computers.
+The Ultimate64‑Manager is a cross‑platform desktop utility designed to configure and control Commodore 64 “Ultimate” hardware, including the Ultimate, Ultimate 64 and Ultimate‑II+ adapters. It provides a graphical interface for firmware updates, cartridge management, SD‑card handling, joystick mapping and other device‑specific settings, streamlining the workflow for retro‑computing enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/sandlbn/ultimate64-manager) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sandlbn/ultimate64-manager) · [← Back to Misc](./README.md)</sub>

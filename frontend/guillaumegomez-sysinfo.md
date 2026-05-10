@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 411 |
+| 🍴 **Forks** | 413 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`linux` `macos` `raspberry` `rust` `system` `unix` `windows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-GuillaumeGomez/sysinfo is an open-source, cross-platform library designed to provide a unified interface for fetching system information. This library offers a simple and consistent way to retrieve various system metrics, making it a valuable tool for developers working on applications that require system-specific data. By utilizing sysinfo, developers can easily create system-aware applications that adapt to different environments.
+GuillaumeGomez/sysinfo is a lightweight, cross‑platform library that provides a simple API for retrieving detailed system information such as CPU, memory, OS version, and hardware specs. Designed for front‑end applications, it abstracts away OS‑specific calls, allowing developers to gather consistent system data on Windows, macOS, and Linux with minimal effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/GuillaumeGomez/sysinfo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/GuillaumeGomez/sysinfo) · [← Back to Frontend](./README.md)</sub>

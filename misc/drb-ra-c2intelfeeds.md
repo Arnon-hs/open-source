@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 678 |
+| ⭐ **Stars** | 679 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | REXX |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cobalt-strike` `cobaltstrike` `empire` `indicators-of-compromise` `iocs` `metasploit` `poshc2` `threat-hunting` `threat-intelligence` `threatintel`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The drb-ra/C2IntelFeeds project is an open-source initiative that automatically generates C2 (Command and Control) feeds, providing users with a readily available source of intel on malicious activities. This tool aims to facilitate threat intelligence and incident response efforts by offering up-to-date information on potential threat actors. By leveraging automated generation, the project aims to streamline the process of staying informed about emerging threats.
+The **drb-ra/C2IntelFeeds** repository provides automatically generated Command‑and‑Control (C2) intelligence feeds, aggregating known malicious C2 endpoints and related indicators. It streamlines the collection, parsing, and regular updating of these feeds for use in threat‑hunting, detection, and defensive tooling. The project is open‑source and categorized under Miscellaneous utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/drb-ra/C2IntelFeeds) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/drb-ra/C2IntelFeeds) · [← Back to Misc](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`astrophysics` `python` `radiative-transfer` `science` `supernova`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The TARDIS project is an open-source tool for simulating temperature and radiative diffusion in supernovae. It provides a comprehensive framework for modeling the complex processes that occur during these catastrophic cosmic events, enabling researchers to better understand the underlying physics and dynamics. By leveraging TARDIS, scientists can gain valuable insights into supernova behavior and evolution.
+TARDIS (Temperature And Radiative Diffusion In Supernovae) is an open‑source Python framework for simulating the radiative transfer and spectral formation in expanding supernova ejecta. It provides a modular, Monte‑Carlo based toolkit that lets researchers generate synthetic spectra, explore parameter spaces, and compare model predictions with observational data. The project is community‑driven, well‑documented, and integrates with common astrophysical libraries for easy extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/tardis-sn/tardis) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tardis-sn/tardis) · [← Back to Misc](./README.md)</sub>

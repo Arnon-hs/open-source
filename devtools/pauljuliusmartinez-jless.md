@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 112 |
+| 🍴 **Forks** | 114 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `json` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · Data · Design
 
 ## 📝 Summary
 
-jless is an open-source command-line JSON viewer that allows users to easily read, explore, and search through JSON data. This tool provides a simple and efficient way to visualize and interact with complex JSON files, making it an invaluable resource for developers, data analysts, and anyone working with JSON data. With jless, users can quickly navigate and understand the structure and content of their JSON files.
+jless is a lightweight, command‑line utility that lets developers conveniently view, navigate, and search JSON documents directly in the terminal. It provides syntax‑highlighted, paginated output with intuitive key bindings for expanding, collapsing, and filtering data, making it ideal for quick inspection of large or nested JSON structures. The tool is open‑source, cross‑platform, and fits naturally into DevOps, data‑analysis, and design workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/PaulJuliusMartinez/jless) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PaulJuliusMartinez/jless) · [← Back to DevTools](./README.md)</sub>

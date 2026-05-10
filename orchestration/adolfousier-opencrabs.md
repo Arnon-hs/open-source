@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 707 |
-| 🍴 **Forks** | 65 |
+| ⭐ **Stars** | 736 |
+| 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agentic-ai` `agentic-framework` `autonomous-agents` `harness` `harness-framework` `open-source` `opencrabs` `orchestration-framework` `recursive-self-improvement` `rsi` `self-healing`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The OpenCrabs project is an open-source, self-improving AI agent that can operate across multiple channels, providing self-healing and fully autonomous capabilities. Built as a single Rust binary, this project offers a comprehensive AI/ML orchestration solution for a wide range of applications. With its robust and modular design, OpenCrabs enables seamless automation and self-improvement in complex systems.
+adolfousier/opencrabs is a self‑improving, fully autonomous AI agent that operates across all communication channels. Built as a single Rust binary, it features self‑healing capabilities and can orchestrate complex workflows without external dependencies. The project targets developers looking for a lightweight, robust solution for AI‑driven automation and orchestration.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/adolfousier/opencrabs) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/adolfousier/opencrabs) · [← Back to Orchestration](./README.md)</sub>

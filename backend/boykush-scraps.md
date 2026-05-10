@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43 |
+| ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `knowledge-management` `markdown` `mcp` `mcp-server` `personal-knowledge-management` `rust` `static-site-generator` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Scraps is an open-source, portable CLI knowledge hub that enables users to manage interconnected Markdown documentation. It utilizes Wiki-link notation to facilitate seamless linking between related content, making it easier to navigate and maintain comprehensive documentation. This tool is designed for developers and teams to create and organize knowledge bases.
+Scraps is a lightweight, portable command‑line tool that lets you organize and navigate Markdown documents using Wiki‑link style connections. It builds a searchable, interlinked knowledge hub that runs locally, making it ideal for developers who need a fast, backend‑friendly way to manage personal or project documentation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/boykush/scraps) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/boykush/scraps) · [← Back to Backend](./README.md)</sub>

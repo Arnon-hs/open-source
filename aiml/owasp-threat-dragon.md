@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 367 |
+| 🍴 **Forks** | 370 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`owasp` `owasp-threat-dragon` `sdlc` `threat-dragon` `threat-modeling`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Threat-Dragon is an open-source threat modeling tool developed by OWASP, designed to help security professionals and developers identify potential security threats in their systems. This AI/ML-powered tool utilizes a structured approach to analyze and mitigate vulnerabilities, making it a valuable resource for organizations to enhance their security posture. By leveraging Threat-Dragon, users can create a comprehensive threat model to protect their applications and infrastructure from various types of cyber threats.
+OWASP Threat Dragon is a free, open‑source threat‑modeling application that helps security professionals and developers visualize, document, and assess potential threats throughout the software development lifecycle. Built on modern web technologies and integrated with the OWASP Threat Modeling methodology, it enables teams to create data flow diagrams, assign mitigations, and export reports for compliance and risk‑management purposes.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/OWASP/threat-dragon) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/OWASP/threat-dragon) · [← Back to AI/ML](./README.md)</sub>

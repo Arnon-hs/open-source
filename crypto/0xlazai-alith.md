@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `crypto` `embeddings` `genetic-algorithm` `large-language-models` `llm` `llmops` `machine-learning` `nodejs` `python` `rust` `vector-database`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Data
 
 ## 📝 Summary
 
-The alith project is an open-source initiative that provides a platform for developing simple, composable, high-performance, and safe artificial intelligence (AI) agents. Designed with web3 in mind, this project enables users to create and interact with AI agents in a secure and blockchain-friendly manner. The alith gateway serves as a foundation for building and deploying AI models in various applications.
+0xLazAI/alith is an open‑source framework that lets developers build simple, composable AI agents that run safely and at high performance while being fully compatible with Web3 environments. It includes the LazAI Gateway, a lightweight, plug‑and‑play interface for connecting blockchain data, smart contracts, and decentralized services to AI workloads, making sophisticated AI‑driven applications accessible to anyone in the crypto and AI/ML space.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/0xLazAI/alith) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/0xLazAI/alith) · [← Back to Crypto](./README.md)</sub>

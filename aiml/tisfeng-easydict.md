@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 13.1k |
-| 🍴 **Forks** | 644 |
+| 🍴 **Forks** | 651 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app` `baidu` `bing` `deepl` `dictionary` `gemini` `google` `macos` `ocr` `openai` `shortcuts` `tencent`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Easydict project:
-
-Easydict is an open-source, macOS dictionary and translator app that offers a seamless user experience. It supports various translation engines, including OpenAI, Gemini, and multiple online dictionaries, as well as offline OCR recognition and Apple's built-in dictionaries and translators. This concise and elegant app provides users with a comprehensive translation solution for their everyday needs.
+Easydict (tisfeng/Easydict) is a lightweight macOS application that provides fast, offline‑enabled dictionary lookups and translation across a wide range of services, including system dictionaries, Youdao, OpenAI, Gemini, DeepL, Google, Bing, and major Chinese providers. Its clean, elegant interface lets users instantly query words or translate text without additional setup, making it a convenient all‑in‑one language tool for macOS users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/tisfeng/Easydict) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tisfeng/Easydict) · [← Back to AI/ML](./README.md)</sub>

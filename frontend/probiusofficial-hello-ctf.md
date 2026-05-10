@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | PHP |
 | 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ctf` `quickstart` `writeups`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary of the project:
-
-"Hello CTF" is an open-source, beginner-friendly CTF tutorial designed to introduce new users to the world of cybersecurity from scratch. This free resource aims to bridge the knowledge gap for both entry-level and experienced CTF participants, providing a comprehensive and accessible guide to help users strengthen their skills in this field. By contributing to the project, users can help foster a healthy open-source ecosystem for CTF and network security.
+ProbiusOfficial/Hello-CTF is a free, open‑source tutorial suite designed to introduce beginners with no prior experience to Capture‑The‑Flag (CTF) challenges and basic cybersecurity concepts. The project provides step‑by‑step, beginner‑friendly exercises that also bridge common knowledge gaps for intermediate participants, fostering an inclusive CTF learning ecosystem. Its focus on clear, frontend‑oriented content makes it a valuable resource for anyone looking to start or deepen their skills in CTF and network security.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/ProbiusOfficial/Hello-CTF) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ProbiusOfficial/Hello-CTF) · [← Back to Frontend](./README.md)</sub>

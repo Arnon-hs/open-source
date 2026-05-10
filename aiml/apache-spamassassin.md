@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Perl |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c` `mail` `perl` `spamassassin`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Apache SpamAssassin is an open-source, machine learning-based email filtering system that helps identify and block spam emails. This project utilizes AI and ML techniques to analyze email content and assign a spam score, enabling users to filter out unwanted messages effectively. By using Apache SpamAssassin, users can significantly reduce their inbox clutter and improve email security.
+Apache SpamAssassin is an open‑source, rule‑based mail filter that uses a combination of text analysis, DNS blocklists, and machine‑learning heuristics to detect and score spam messages. This repository provides a read‑only mirror of the official Apache SpamAssassin source code, enabling developers to browse, fork, or contribute to the project while keeping a synchronized copy of the latest releases. It is widely used in email servers and gateways to improve inbox hygiene through automated spam classification.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/apache/spamassassin) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/apache/spamassassin) · [← Back to AI/ML](./README.md)</sub>

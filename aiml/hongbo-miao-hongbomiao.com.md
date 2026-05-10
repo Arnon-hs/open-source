@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 293 |
+| ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aerospace` `autonomy` `cloud-native` `computational-fluid-dynamics` `computer-vision` `distributed-tracing` `embedded` `graphql` `high-performance-computing` `infrastructure-as-code` `kubernetes` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The hongbo-miao/hongbomiao.com project is an open-source research and development (R&D) lab that aims to facilitate the sharing of knowledge across various fields, including AI/ML, frontend development, and DevOps/Infrastructure. This platform serves as a hub for innovation and collaboration, providing a space for researchers and developers to explore new ideas and technologies. By making its resources and findings publicly available, hongbomiao.com contributes to the growth of the global knowledge community.
+hongbomiao.com is an open‑source personal R&D lab that consolidates the author’s research, experiments, and utilities across AI/ML, frontend development, and DevOps/infra. It provides a modular codebase, documentation, and reusable components to help developers quickly prototype, share knowledge, and integrate cutting‑edge technologies into their own projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/hongbo-miao/hongbomiao.com) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hongbo-miao/hongbomiao.com) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 396 |
+| ⭐ **Stars** | 409 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `android` `aosp` `customisation` `gemini-api` `groq` `keyboard` `kotlin` `onnx` `opensource` `privacy` `proofreading`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
-LeanType is an open-source, AI-enhanced keyboard project that leverages AI providers to offer a customizable typing experience. Built as a fork of HeliBoard, LeanType incorporates dedicated AI keys for seamless integration with various AI services. This innovative project combines AI and keyboard technology to create a unique typing experience.
+LeanType is an open‑source, AI‑enhanced keyboard built as a fork of HeliBoard, offering developers and users a fully customizable typing experience. It supports pluggable AI providers and includes dedicated AI keys, enabling on‑the‑fly text generation, suggestions, and other intelligent features directly from the mobile keyboard. The project spans mobile, backend, and AI/ML domains, making it a versatile tool for integrating generative AI into everyday typing workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/LeanBitLab/LeanType) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/LeanBitLab/LeanType) · [← Back to AI/ML](./README.md)</sub>

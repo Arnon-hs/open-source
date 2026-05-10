@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**184 projects** in this category.
+**185 projects** in this category.
 
 ## Projects
 
@@ -156,42 +156,43 @@
 | 146 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 160 | PHP | 52/100 |
 | 147 | [YichengYang-Ethan/oracle3](./yichengyang-ethan-oracle3.md) | ⭐ 189 | Python | 52/100 |
 | 148 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 52/100 |
-| 149 | [edb-rs/edb](./edb-rs-edb.md) | ⭐ 360 | Rust | 51/100 |
-| 150 | [axone-protocol/contracts](./axone-protocol-contracts.md) | ⭐ 123 | Rust | 51/100 |
-| 151 | [secutils-dev/secutils](./secutils-dev-secutils.md) | ⭐ 101 | Rust | 51/100 |
-| 152 | [zigflow/zigflow](./zigflow-zigflow.md) | ⭐ 144 | Go | 51/100 |
-| 153 | [keep-starknet-strange/starknet-agentic](./keep-starknet-strange-starknet-agentic.md) | ⭐ 79 | TypeScript | 51/100 |
-| 154 | [shinpr/sub-agents-mcp](./shinpr-sub-agents-mcp.md) | ⭐ 81 | TypeScript | 51/100 |
-| 155 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 51/100 |
-| 156 | [melink14/rikaikun](./melink14-rikaikun.md) | ⭐ 475 | TypeScript | 51/100 |
-| 157 | [bitcoin-s/bitcoin-s](./bitcoin-s-bitcoin-s.md) | ⭐ 381 | Scala | 51/100 |
-| 158 | [Fr-e-d/GAAI-framework](./fr-e-d-gaai-framework.md) | ⭐ 137 | Shell | 51/100 |
-| 159 | [sepivip/SeekerClaw](./sepivip-seekerclaw.md) | ⭐ 104 | JavaScript | 51/100 |
-| 160 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 51/100 |
-| 161 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 51/100 |
-| 162 | [wienerlabs/covenant](./wienerlabs-covenant.md) | ⭐ 22 | TypeScript | 50/100 |
-| 163 | [truss44/mcp-crypto-price](./truss44-mcp-crypto-price.md) | ⭐ 39 | TypeScript | 50/100 |
-| 164 | [nirholas/three.ws](./nirholas-three.ws.md) | ⭐ 32 | JavaScript | 50/100 |
-| 165 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 516 | Rust | 50/100 |
-| 166 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 142 | Rust | 49/100 |
-| 167 | [Lqz13Th/extrema_infra](./lqz13th-extrema-infra.md) | ⭐ 179 | Rust | 49/100 |
-| 168 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 169 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 48/100 |
-| 170 | [error311/wayfinder.nvim](./error311-wayfinder.nvim.md) | ⭐ 106 | Lua | 48/100 |
-| 171 | [web3infra-foundation/libra](./web3infra-foundation-libra.md) | ⭐ 55 | Rust | 48/100 |
-| 172 | [websitebutlers/codefire-app](./websitebutlers-codefire-app.md) | ⭐ 209 | Swift | 48/100 |
-| 173 | [galacticcouncil/hydration-node](./galacticcouncil-hydration-node.md) | ⭐ 204 | Rust | 47/100 |
-| 174 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 47/100 |
-| 175 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
-| 176 | [aaronjmars/web3-research-mcp](./aaronjmars-web3-research-mcp.md) | ⭐ 153 | TypeScript | 46/100 |
-| 177 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
-| 178 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 44/100 |
-| 179 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
-| 180 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
-| 181 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 42/100 |
-| 182 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
-| 183 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
-| 184 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 41/100 |
+| 149 | [0xLazAI/alith](./0xlazai-alith.md) | ⭐ 43 | Rust | 51/100 |
+| 150 | [edb-rs/edb](./edb-rs-edb.md) | ⭐ 360 | Rust | 51/100 |
+| 151 | [axone-protocol/contracts](./axone-protocol-contracts.md) | ⭐ 123 | Rust | 51/100 |
+| 152 | [secutils-dev/secutils](./secutils-dev-secutils.md) | ⭐ 101 | Rust | 51/100 |
+| 153 | [zigflow/zigflow](./zigflow-zigflow.md) | ⭐ 144 | Go | 51/100 |
+| 154 | [keep-starknet-strange/starknet-agentic](./keep-starknet-strange-starknet-agentic.md) | ⭐ 79 | TypeScript | 51/100 |
+| 155 | [shinpr/sub-agents-mcp](./shinpr-sub-agents-mcp.md) | ⭐ 81 | TypeScript | 51/100 |
+| 156 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 51/100 |
+| 157 | [melink14/rikaikun](./melink14-rikaikun.md) | ⭐ 475 | TypeScript | 51/100 |
+| 158 | [bitcoin-s/bitcoin-s](./bitcoin-s-bitcoin-s.md) | ⭐ 381 | Scala | 51/100 |
+| 159 | [Fr-e-d/GAAI-framework](./fr-e-d-gaai-framework.md) | ⭐ 137 | Shell | 51/100 |
+| 160 | [sepivip/SeekerClaw](./sepivip-seekerclaw.md) | ⭐ 104 | JavaScript | 51/100 |
+| 161 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 51/100 |
+| 162 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 51/100 |
+| 163 | [wienerlabs/covenant](./wienerlabs-covenant.md) | ⭐ 22 | TypeScript | 50/100 |
+| 164 | [truss44/mcp-crypto-price](./truss44-mcp-crypto-price.md) | ⭐ 39 | TypeScript | 50/100 |
+| 165 | [nirholas/three.ws](./nirholas-three.ws.md) | ⭐ 32 | JavaScript | 50/100 |
+| 166 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 516 | Rust | 50/100 |
+| 167 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 142 | Rust | 49/100 |
+| 168 | [Lqz13Th/extrema_infra](./lqz13th-extrema-infra.md) | ⭐ 179 | Rust | 49/100 |
+| 169 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 170 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 48/100 |
+| 171 | [error311/wayfinder.nvim](./error311-wayfinder.nvim.md) | ⭐ 106 | Lua | 48/100 |
+| 172 | [web3infra-foundation/libra](./web3infra-foundation-libra.md) | ⭐ 55 | Rust | 48/100 |
+| 173 | [websitebutlers/codefire-app](./websitebutlers-codefire-app.md) | ⭐ 209 | Swift | 48/100 |
+| 174 | [galacticcouncil/hydration-node](./galacticcouncil-hydration-node.md) | ⭐ 204 | Rust | 47/100 |
+| 175 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 47/100 |
+| 176 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
+| 177 | [aaronjmars/web3-research-mcp](./aaronjmars-web3-research-mcp.md) | ⭐ 153 | TypeScript | 46/100 |
+| 178 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
+| 179 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 44/100 |
+| 180 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
+| 181 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
+| 182 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 42/100 |
+| 183 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
+| 184 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 185 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 41/100 |
 
 ---
 
