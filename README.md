@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5552** |
+| 🗂️ **Total projects** | **5592** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,16 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2217 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1002 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 552 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 512 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 296 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 268 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 200 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2229 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1015 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 557 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 514 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 297 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 270 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 203 | [Browse →](./crypto/) |
 | 📊 **Data** | 130 | [Browse →](./data/) |
-| 💳 **Payments** | 93 | [Browse →](./payments/) |
-| 📈 **Trading** | 70 | [Browse →](./trading/) |
+| 💳 **Payments** | 94 | [Browse →](./payments/) |
+| 📈 **Trading** | 71 | [Browse →](./trading/) |
 | 📱 **Mobile** | 68 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 62 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 43 | [Browse →](./security/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [hugohe3/ppt-master](./aiml/hugohe3-ppt-master.md) | ⭐ 14.1k | AI/ML |
-| 2 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 57.3k | AI/ML |
-| 3 | [koodo-reader/koodo-reader](./aiml/koodo-reader-koodo-reader.md) | ⭐ 26.8k | AI/ML |
-| 4 | [AI4Finance-Foundation/FinRobot](./aiml/ai4finance-foundation-finrobot.md) | ⭐ 6.9k | AI/ML |
-| 5 | [joomla/joomla-cms](./aiml/joomla-joomla-cms.md) | ⭐ 5.1k | AI/ML |
-| 6 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.6k | Misc |
-| 7 | [yairm210/Unciv](./aiml/yairm210-unciv.md) | ⭐ 10.3k | AI/ML |
-| 8 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 28.5k | AI/ML |
-| 9 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
-| 10 | [formatjs/formatjs](./frontend/formatjs-formatjs.md) | ⭐ 14.7k | Frontend |
+| 1 | [streamlink/streamlink](./aiml/streamlink-streamlink.md) | ⭐ 11.5k | AI/ML |
+| 2 | [hugohe3/ppt-master](./aiml/hugohe3-ppt-master.md) | ⭐ 14.1k | AI/ML |
+| 3 | [JuliusBrussee/caveman](./aiml/juliusbrussee-caveman.md) | ⭐ 57.3k | AI/ML |
+| 4 | [koodo-reader/koodo-reader](./aiml/koodo-reader-koodo-reader.md) | ⭐ 26.8k | AI/ML |
+| 5 | [AI4Finance-Foundation/FinRobot](./aiml/ai4finance-foundation-finrobot.md) | ⭐ 6.9k | AI/ML |
+| 6 | [joomla/joomla-cms](./aiml/joomla-joomla-cms.md) | ⭐ 5.1k | AI/ML |
+| 7 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.6k | Misc |
+| 8 | [yairm210/Unciv](./aiml/yairm210-unciv.md) | ⭐ 10.3k | AI/ML |
+| 9 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 28.5k | AI/ML |
+| 10 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
 
 ## 🚀 How it works
 

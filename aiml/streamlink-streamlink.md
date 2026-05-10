@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11.4k |
+| ⭐ **Stars** | 11.5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `livestream` `python` `streaming` `streaming-services` `streamlink` `twitch` `vlc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Streamlink is an open-source command-line utility that effortlessly streams video content from various online services into a video player, allowing users to easily access their favorite shows and movies. This versatile tool supports a wide range of services, including live TV, sports, and on-demand content. With streamlink, you can enjoy uninterrupted streaming on your preferred platform.
+Streamlink is an open‑source command‑line tool that extracts live video streams from a wide range of online platforms and forwards them directly to a local media player, eliminating the need for browser playback. It supports numerous streaming services, offers customizable plugins, and is designed for developers and power users who need a lightweight, scriptable solution for handling video streams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/streamlink/streamlink) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/streamlink/streamlink) · [← Back to AI/ML](./README.md)</sub>

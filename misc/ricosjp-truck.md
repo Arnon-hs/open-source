@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
+| ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cad` `graphics` `truck`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The truck project is an open-source, Rust-based CAD (Computer-Aided Design) kernel. It provides a robust framework for geometric modeling and manipulation, making it a valuable tool for developers working in fields such as computer-aided design, engineering, and architecture. By utilizing the truck kernel, users can create complex geometric models and perform various CAD operations with ease.
+Truck is an open‑source CAD kernel written in Rust, offering a foundation for building geometric modeling and computer‑aided design applications. It provides core data structures, algorithms, and primitives for robust 2D/3D operations, aiming to be safe, performant, and extensible. The project is categorized under Miscellaneous utilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/ricosjp/truck) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ricosjp/truck) · [← Back to Misc](./README.md)</sub>

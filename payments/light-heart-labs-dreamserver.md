@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 503 |
-| 🍴 **Forks** | 152 |
+| ⭐ **Stars** | 513 |
+| 🍴 **Forks** | 155 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `amd` `comfyui` `docker` `llama-cpp` `llm` `local-ai` `n8n` `nvidia` `open-webui` `rag` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the DreamServer project:
-
-DreamServer is an open-source project that enables local AI capabilities anywhere, allowing users to run Large Language Model (LLM) inference, chat interfaces, and more on their own devices without relying on cloud services or subscriptions. This versatile platform includes features like voice interactions, agent management, workflow automation, and image generation, making it a powerful tool for developers and individuals alike. By providing a local AI solution, DreamServer promotes data sovereignty and flexibility.
+Light‑Heart Labs’ **DreamServer** is an open‑source, self‑hosted platform that brings full‑stack LLM capabilities to any device—offering chat, voice interaction, agent workflows, retrieval‑augmented generation, and image synthesis—without relying on cloud services or subscription fees. It bundles inference, a responsive UI, and payment integration tools, making powerful AI accessible locally for developers and end‑users alike.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Light-Heart-Labs/DreamServer) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Light-Heart-Labs/DreamServer) · [← Back to Payments](./README.md)</sub>

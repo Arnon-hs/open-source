@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 506 |
+| ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`koltin` `morphe` `python` `revanced` `revanced-extended` `revanced-patches`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Jman-Github/ReVanced-Patch-Bundles project is an open-source initiative that aggregates alternative ReVanced patch and integration repositories into easily importable JSON files. These bundled patches can be directly imported into the ReVanced Manager Compose, streamlining the process of accessing and applying various modifications to applications. This project aims to simplify the management of patches and integrations for users of the ReVanced Manager.
+Jman‑Github’s **ReVanced‑Patch‑Bundles** automates the collection of alternative ReVanced and Morphe patch bundles, compiling them into ready‑to‑import JSON files for use with the ReVanced and Morphe Managers. By regularly aggregating these community‑generated patches, the project simplifies keeping your manager tools up‑to‑date with the latest compatible modifications. It’s a lightweight, miscellaneous utility aimed at streamlining the patch‑management workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Jman-Github/ReVanced-Patch-Bundles) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Jman-Github/ReVanced-Patch-Bundles) · [← Back to Misc](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 327 |
+| ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup` `cli` `compression` `deduplication` `gui` `healthcheck` `monitoring` `orchestrator` `prometheus-metrics` `restic` `vss`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the netinvent/npbackup project:
-
-npbackup is an open-source file backup solution designed to provide secure and efficient data protection for both system administrators and end-users. This project offers a user-friendly graphical interface for non-technical users, while also catering to the needs of system administrators through its command-line interface. With npbackup, users can easily backup and restore their files with peace of mind.
+netinvent/npbackup is an open‑source backup tool that provides secure, high‑performance file archiving for both system administrators and everyday users. It offers a powerful command‑line interface for scripting and automation, alongside an intuitive graphical UI for easy configuration and monitoring. The project combines robust encryption and efficient storage handling to simplify reliable data protection across platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/netinvent/npbackup) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/netinvent/npbackup) · [← Back to Frontend](./README.md)</sub>

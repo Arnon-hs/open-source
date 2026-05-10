@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The NVIDIA Network Operator is an open-source project that provides a Kubernetes network operator for Mellanox networking hardware. This operator simplifies the management and configuration of Mellanox networking environments within Kubernetes clusters, improving network resource allocation and utilization. By utilizing this operator, users can automate and streamline the deployment and management of Mellanox networking resources.
+Mellanox Network Operator is an open‑source Kubernetes operator that automates the deployment, configuration, and lifecycle management of NVIDIA (Mellanox) networking components—such as SR‑IOV, SmartNICs, and Ethernet fabrics—within container clusters. It streamlines networking setup for high‑performance workloads by handling device provisioning, custom resource definitions, and ongoing updates directly from the Kubernetes control plane.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Mellanox/network-operator) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Mellanox/network-operator) · [← Back to Misc](./README.md)</sub>

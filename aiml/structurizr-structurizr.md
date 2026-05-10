@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 172 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 179 |
+| 🍴 **Forks** | 26 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `c4model` `mcp-server` `software-architecture` `structurizr`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the structurizr/structurizr open-source project:
-
-Structurizr is an open-source, model-driven tool that enables users to create and visualize software architecture diagrams using the C4 model, a widely accepted approach to visualizing system structure. By treating models as code, Structurizr allows developers and architects to manage and evolve system designs in a collaborative and version-controlled manner. This facilitates better communication and understanding of complex software systems across the development team.
+Structurizr ( github.com/structurizr/structurizr ) is an open‑source “models‑as‑code” framework that lets developers define software architecture using the C4 model directly in code. It generates interactive, hierarchical diagrams and documentation from these model definitions, supporting a range of back‑end languages and integration points. The tool is especially useful for teams that want to keep architecture descriptions versioned, testable, and easily shareable across the development lifecycle.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/structurizr/structurizr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/structurizr/structurizr) · [← Back to AI/ML](./README.md)</sub>

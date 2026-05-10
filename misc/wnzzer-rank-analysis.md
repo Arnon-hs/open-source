@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 346 |
-| 🍴 **Forks** | 33 |
+| ⭐ **Stars** | 350 |
+| 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, "rank-analysis", is a League of Legends (LOL) Tencent server performance query assistant built with Tauri 2 and Rust. It features an innovative tagging system, allowing users to quickly analyze their "mixed" and "strong" teammates with a single click. This tool aims to help LOL players improve their teamwork and strategy.
+Rank‑Analysis is an open‑source desktop helper for the Chinese “LOL” (League of Legends) Tencent server, built with Tauri 2 and Rust. It lets players retrieve and examine match history, using a novel tag‑based system to flag problematic teammates (e.g., “trolls” or “feeders”) and generate quick, one‑click analyses. The tool is packaged as a lightweight, cross‑platform application.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/wnzzer/rank-analysis) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/wnzzer/rank-analysis) · [← Back to Misc](./README.md)</sub>

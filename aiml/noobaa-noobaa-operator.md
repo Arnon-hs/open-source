@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `crd` `k8s` `kubernetes` `multi-cloud-environments` `noobaa` `object-storage` `ocs` `openshift` `operator`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary of the noobaa/noobaa-operator project:
-
-The noobaa/noobaa-operator is an open-source project that provides a Kubernetes operator for NooBaa, an object data service designed for hybrid and multi-cloud environments. This operator enables seamless deployment, management, and operation of NooBaa on Kubernetes, simplifying the process of building scalable and resilient data storage solutions. By utilizing this operator, users can efficiently deploy and manage NooBaa across their cloud environments.
+The **NooBaa Operator** automates the deployment, scaling, and management of NooBaa’s object‑data service on Kubernetes, enabling seamless hybrid and multi‑cloud storage across on‑premises, public cloud, and edge environments. It handles lifecycle tasks such as provisioning the NooBaa system, configuring backing stores, and exposing S3‑compatible endpoints, while integrating with native Kubernetes tools for observability and upgrades. This open‑source operator streamlines the creation of resilient, policy‑driven data lakes and archives for AI/ML workloads and DevOps pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/noobaa/noobaa-operator) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/noobaa/noobaa-operator) · [← Back to AI/ML](./README.md)</sub>

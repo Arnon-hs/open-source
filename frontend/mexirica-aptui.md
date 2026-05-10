@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 361 |
+| ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apt` `debian` `go` `golang` `linux` `linux-mint` `popos` `terminal` `tui` `ubuntu`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-The mexirica/aptui project is an open-source, text-based user interface (TUI) package manager designed specifically for APT-based Linux distributions. It allows users to manage packages and dependencies in a user-friendly, command-line interface, streamlining the process of installing, updating, and removing software. With aptui, users can efficiently interact with their system's package manager without needing to use the command line or a graphical interface.
+mexirica/aptui is a lightweight terminal user interface (TUI) for managing packages on APT‑based Linux distributions. It provides an intuitive, ncurses‑styled front‑end that lets users search, install, upgrade, and remove packages without leaving the command line. Designed for speed and simplicity, aptui streamlines common APT tasks while maintaining full compatibility with the underlying package manager.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/mexirica/aptui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mexirica/aptui) · [← Back to Frontend](./README.md)</sub>

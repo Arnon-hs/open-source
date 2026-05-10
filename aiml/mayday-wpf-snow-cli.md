@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 576 |
-| 🍴 **Forks** | 66 |
+| ⭐ **Stars** | 572 |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-coding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-MayDay-wpf/snow-cli is an open-source project that enables agentic coding in the terminal, providing a unified interface to various large language models. Compatible with OpenAI, Gemini, and Claude, this project simplifies the integration of AI capabilities into developers' workflows. It aims to streamline the interaction between developers and AI models through a single, user-friendly command-line interface.
+MayDay‑wpf/snow‑cli is a terminal‑based coding assistant that lets developers interact with large language models directly from the command line. It supports OpenAI, Google Gemini, and Anthropic Claude, enabling flexible, agentic code generation, debugging, and refactoring without leaving the shell. Ideal for AI‑enhanced development workflows, it bridges dev tools and modern LLM APIs in an open‑source package.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/MayDay-wpf/snow-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/MayDay-wpf/snow-cli) · [← Back to AI/ML](./README.md)</sub>

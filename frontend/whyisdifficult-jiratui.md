@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 61 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`atlassian` `atlassian-jira` `cli` `developer-tool` `jira` `python` `task-management` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the whyisdifficult/jiratui project:
-
-Jiratui is an open-source, text-based user interface for interacting with Atlassian Jira from your shell. It allows users to manage their Jira workflow seamlessly from the command line, streamlining tasks and enhancing productivity. With Jiratui, you can easily track issues, create tickets, and perform other Jira-related tasks without needing a graphical interface.
+A lightweight Textual User Interface (TUI) that lets you browse, search, and manage Atlassian Jira issues directly from the command line. It provides fast, keyboard‑driven access to projects, tickets, comments, and transitions without leaving your shell, making Jira workflow more efficient for developers and power users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/whyisdifficult/jiratui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/whyisdifficult/jiratui) · [← Back to Frontend](./README.md)</sub>

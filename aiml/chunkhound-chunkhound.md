@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
+| ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `duckdb` `mcp-server` `rag` `semantic-search` `tree-sitter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Chunkhound is an open-source project that aims to provide local-first codebase intelligence, offering developers tools to improve their coding experience and project management. This project leverages AI and ML technologies to enable intelligent code analysis, suggesting improvements and optimizations. By running locally, it ensures data security and privacy, making it a valuable resource for developers seeking to enhance their coding efficiency.
+Chunkhound is an open‑source, locally‑hosted platform that provides intelligent insights into codebases by analyzing source files, dependencies, and architectural patterns without sending data to external services. It leverages AI/ML techniques to enable fast, privacy‑preserving queries, code navigation, and automated documentation for developers. Ideal for backend teams that need on‑premise code intelligence while maintaining full control over their repositories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/chunkhound/chunkhound) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/chunkhound/chunkhound) · [← Back to AI/ML](./README.md)</sub>

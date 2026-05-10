@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 69 |
+| ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bm25` `chromadb` `claude` `claude-code` `document-search` `embeddings` `fastembed` `hybrid-search` `knowledge-base` `local-ai` `mcp` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the knowledge-rag project:
-
-"Knowledge-rag is an open-source project that enables instant search and documentation of various formats, powered by the Claude Code. It features a hybrid search and reranking system, along with support for 12 Multi-Code-Parser (MCP) tools and 20 format parsers. This 100% local solution eliminates the need for servers and API keys."
+Lyonzin’s **knowledge‑RAG** is a fully local retrieval‑augmented generation toolkit that lets you drop any documents (supporting 20+ formats) and instantly query them with Claude Code using hybrid search and reranking—all without servers or API keys. It bundles 12 ready‑to‑use MCP tools for seamless integration, making it ideal for AI/ML, backend, and data‑driven applications that require fast, privacy‑preserving document search.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/lyonzin/knowledge-rag) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/lyonzin/knowledge-rag) · [← Back to AI/ML](./README.md)</sub>

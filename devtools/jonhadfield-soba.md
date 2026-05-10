@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 163 |
+| ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automation` `azure-devops` `backup` `bitbucket` `cli` `docker` `encryption` `git` `git-backup` `git-bundle` `gitea` `github`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra · Security
 
 ## 📝 Summary
 
-The soba project is an open-source tool that automates encrypted backups of Git repositories from various platforms, including GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut. This tool ensures that sensitive information remains secure by encrypting the backups. By providing a centralized backup solution, soba helps developers and organizations protect their version control data.
+soba is an open‑source tool that automatically creates encrypted backups of Git repositories from a wide range of hosting services—including GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut. It streamlines the backup workflow by pulling repository data, encrypting it locally, and storing the resulting archives in a user‑specified location, ensuring that codebases remain safe from accidental loss or unauthorized access. The project targets developers, DevOps engineers, and security teams looking for a simple, reliable way to protect their source code.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/jonhadfield/soba) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/jonhadfield/soba) · [← Back to DevTools](./README.md)</sub>

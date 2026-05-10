@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62.5k |
-| 🍴 **Forks** | 11.1k |
+| ⭐ **Stars** | 63.9k |
+| 🍴 **Forks** | 11.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-Paperclip is an open-source orchestration tool designed for zero-human companies, allowing for efficient automation and management of AI/ML workflows. It helps streamline and simplify the development and deployment process by providing a robust framework for orchestration. This project enables businesses to focus on innovation and growth, rather than manual labor and infrastructure management.
+Paperclip is an open‑source orchestration platform that enables companies to run entirely without human intervention. By integrating AI/ML models, workflow automation, and developer tools, it coordinates tasks, data pipelines, and decision‑making processes across an organization. This framework lets teams build, deploy, and manage “zero‑human” operations with transparent, extensible tooling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/paperclipai/paperclip) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/paperclipai/paperclip) · [← Back to Orchestration](./README.md)</sub>

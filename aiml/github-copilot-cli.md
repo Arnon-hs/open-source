@@ -1,32 +1,32 @@
 # github/copilot-cli
 
-[![Stars](https://img.shields.io/github/stars/github/copilot-cli?style=flat-square&color=yellow)](https://github.com/github/copilot-cli/stargazers) [![Forks](https://img.shields.io/github/forks/github/copilot-cli?style=flat-square&color=blue)](https://github.com/github/copilot-cli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/copilot-cli?style=flat-square&color=yellow)](https://github.com/github/copilot-cli/stargazers) [![Forks](https://img.shields.io/github/forks/github/copilot-cli?style=flat-square&color=blue)](https://github.com/github/copilot-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
-> GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+> Mentioned in dev.to article (tag github): The 3 Pillars of Agentic DevOps: From Zero to Hero
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.4k |
-| 🍴 **Forks** | 1.4k |
-| 💻 **Language** | Shell |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | devto |
 
 ## 🏷️ Topics
 
-_no topics_
+`devto` `github` `ai` `github` `devops`
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
-GitHub Copilot CLI allows developers to harness the power of AI-driven coding capabilities directly from their terminal. This open-source tool provides enhanced coding productivity by suggesting code completions, snippets, and even entire functions, all based on machine learning models. By streamlining the coding process, Copilot CLI aims to improve developer efficiency and accuracy.
+The **3 Pillars of Agentic DevOps: From Zero to Hero** is an open‑source framework that demonstrates how to integrate autonomous AI agents into the full DevOps lifecycle—code generation, continuous integration/deployment, and runtime monitoring. By providing reusable templates, orchestration scripts, and example pipelines, it guides developers from a bare‑bones setup to a production‑grade, self‑healing CI/CD system powered by large language models. The project showcases practical, end‑to‑end implementations that bridge AI/ML techniques with modern DevOps practices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/github/copilot-cli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/github/copilot-cli) · [← Back to AI/ML](./README.md)</sub>

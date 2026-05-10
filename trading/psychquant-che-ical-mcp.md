@@ -2,22 +2,22 @@
 
 [![Stars](https://img.shields.io/github/stars/PsychQuant/che-ical-mcp?style=flat-square&color=yellow)](https://github.com/PsychQuant/che-ical-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PsychQuant/che-ical-mcp?style=flat-square&color=blue)](https://github.com/PsychQuant/che-ical-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
-> macOS Calendar & Reminders MCP server with 28 tools - Native Swift EventKit integration for Claude AI. Attendee/organizer info, per-event timezone, undo/redo, --cli mode, --setup TCC, batch ops. Supports iCloud, Google, Exchange.
+> macOS Calendar & Reminders MCP server with 29 tools — Native Swift EventKit integration for Claude. Attendees/organizer, per-event timezone, undo/redo, --cli mode, --setup TCC, --self-update, signed + notarized binary for macOS 26. Supports iCloud, Google, Exchange.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26 |
+| ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-tools` `apple` `automation` `calendar` `claude` `claude-ai` `claude-code` `claude-desktop` `eventkit` `eventkit-api` `ical` `macos`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-PsychQuant/che-ical-mcp is an open-source macOS Calendar and Reminders server that utilizes Native Swift EventKit integration for seamless interaction with AI models. This robust project offers 28 powerful tools and features, including native timezone support, undo/redo functionality, and a command-line interface. It supports various calendar services such as iCloud, Google, and Exchange, making it a versatile tool for trading and AI/ML applications.
+PsychQuant/che-ical-mcp is a macOS‑only MCP server that bridges native Swift EventKit functionality with Claude‑based AI, offering a full suite of 29 command‑line tools for managing Calendar and Reminders data. It supports per‑event time zones, attendees/organizer handling, undo‑redo, automated TCC setup, self‑updates, and a signed/notarized binary compatible with macOS 26, with sync capabilities for iCloud, Google, and Exchange accounts. The project is positioned at the intersection of trading, AI/ML, and backend services.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PsychQuant/che-ical-mcp) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PsychQuant/che-ical-mcp) · [← Back to Trading](./README.md)</sub>
