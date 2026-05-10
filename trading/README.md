@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**62 projects** in this category.
+**63 projects** in this category.
 
 ## Projects
 
@@ -70,6 +70,7 @@
 | 60 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 49/100 |
 | 61 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 48/100 |
 | 62 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 312 | Rust | 47/100 |
+| 63 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 39/100 |
 
 ---
 

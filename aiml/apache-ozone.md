@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 599 |
+| 🍴 **Forks** | 601 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`big-data` `hadoop` `kubernetes` `object-store` `s3` `storage`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
-Apache Ozone is an open-source, distributed storage system designed to cater to the needs of data analytics and object store workloads. It offers scalable and reliable architecture, making it suitable for large-scale applications. By leveraging its distributed capabilities, Apache Ozone enables efficient data storage and processing for various AI/ML and data-intensive workloads.
+Apache Ozone is a highly scalable, fault‑tolerant distributed storage system designed to handle massive data‑analytics and object‑store workloads. It provides a Hadoop‑compatible, tiered architecture that separates metadata and data services for improved reliability and performance, making it ideal for AI/ML pipelines, big‑data processing, and modern DevOps/infra environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/apache/ozone) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/apache/ozone) · [← Back to AI/ML](./README.md)</sub>

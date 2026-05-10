@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 201 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 233 |
+| 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `ai` `ai-agents` `android-application` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Aether is an open-source, localized, general-purpose AI Agent designed for Android devices, offering a stunning AI experience. This AI framework is built to be versatile, providing a range of features and capabilities for both developers and end-users alike. By harnessing the power of AI on mobile devices, Aether aims to bridge the gap between humans and technology.
+Zhou‑Shilin/Aether is an open‑source, general‑purpose AI agent designed specifically for Android devices, offering localized processing for privacy‑preserving interactions. It provides a versatile framework for building voice, text, and multimodal assistants that run directly on the phone without relying on cloud services. The project targets developers in AI/ML and mobile domains who need a customizable, on‑device intelligent agent.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Zhou-Shilin/Aether) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Zhou-Shilin/Aether) · [← Back to AI/ML](./README.md)</sub>

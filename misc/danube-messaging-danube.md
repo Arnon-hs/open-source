@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the Danube project:
-
-Danube is an open-source distributed messaging broker platform designed to provide a scalable and reliable infrastructure for data exchange between applications. It enables distributed systems to communicate efficiently, making it an ideal solution for large-scale and microservice-based architectures. With Danube, developers can build resilient and performant systems that can handle high volumes of messages and meet the demands of modern cloud-based applications.
+Danube is an open‑source distributed messaging broker platform designed to provide scalable, fault‑tolerant communication across heterogeneous systems. It offers a modular architecture that supports multiple messaging protocols, dynamic node discovery, and high‑throughput message routing, making it suitable for building resilient, real‑time data pipelines and micro‑service infrastructures.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/danube-messaging/danube) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/danube-messaging/danube) · [← Back to Misc](./README.md)</sub>

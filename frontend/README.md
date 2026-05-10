@@ -440,8 +440,8 @@
 | 430 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 51/100 |
 | 431 | [moq-dev/moq](./moq-dev-moq.md) | ⭐ 1.2k | Rust | 51/100 |
 | 432 | [stjude-rust-labs/sprocket](./stjude-rust-labs-sprocket.md) | ⭐ 155 | Rust | 51/100 |
-| 433 | [johnsideserf/siggy](./johnsideserf-siggy.md) | ⭐ 145 | Rust | 51/100 |
-| 434 | [Ralex91/Razzia](./ralex91-razzia.md) | ⭐ 614 | TypeScript | 51/100 |
+| 433 | [Ralex91/Razzia](./ralex91-razzia.md) | ⭐ 614 | TypeScript | 51/100 |
+| 434 | [johnsideserf/siggy](./johnsideserf-siggy.md) | ⭐ 145 | Rust | 51/100 |
 | 435 | [Ralex91/Rahoot](./ralex91-rahoot.md) | ⭐ 614 | TypeScript | 51/100 |
 | 436 | [nbafrank/uvr](./nbafrank-uvr.md) | ⭐ 121 | Rust | 51/100 |
 | 437 | [Rishang/install-release](./rishang-install-release.md) | ⭐ 142 | Python | 51/100 |
@@ -512,8 +512,8 @@
 | 502 | [PozzettiAndrea/ComfyUI-UniRig](./pozzettiandrea-comfyui-unirig.md) | ⭐ 383 | Python | 43/100 |
 | 503 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 42/100 |
 | 504 | [Reviewable/Reviewable](./reviewable-reviewable.md) | ⭐ 198 | CSS | 42/100 |
-| 505 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
-| 506 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
+| 505 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
+| 506 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
 | 507 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 40/100 |
 | 508 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 39/100 |
 | 509 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 39/100 |

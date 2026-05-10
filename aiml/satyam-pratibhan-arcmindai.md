@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 121 |
+| ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `architecture` `developer` `hacktoberfest` `hacktoberfest-accepted` `llm` `nextjs` `system-design`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-The arcmindAI project is an open-source tool that leverages AI to transform product ideas into comprehensive system architectures, streamlining the design process from diagrams to technical blueprints. This innovative DevTool utilizes machine learning capabilities to simplify the complex task of creating system architectures, making it more accessible and efficient for developers and designers. By automating this process, arcmindAI enables teams to focus on innovation and implementation.
+arcmindAI is an open‑source tool that leverages generative AI to transform raw product concepts into fully‑fledged system architectures. By accepting high‑level ideas or simple diagrams, it automatically produces detailed technical blueprints, component diagrams, and implementation roadmaps, streamlining the design phase for developers and product teams. The project sits at the intersection of AI/ML, developer tooling, and design automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/SATYAM-PRATIBHAN/arcmindAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/SATYAM-PRATIBHAN/arcmindAI) · [← Back to AI/ML](./README.md)</sub>

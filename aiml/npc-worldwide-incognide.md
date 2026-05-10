@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 389 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 391 |
+| 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai` `ai-agents` `artificial-intelligence` `ide` `llm-inference` `llms` `node` `npc` `npm` `research`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Incognide is an open-source project that empowers users to explore the unknown, build their own future, and maintain control over their personal data. Leveraging AI/ML and data-driven technologies, Incognide provides a platform for users to create a customized digital experience. By giving users full ownership of their data, Incognide promotes transparency and autonomy in the digital age.
+NPC‑Worldwide/incognide is an open‑source platform that empowers users to explore emerging AI/ML technologies while maintaining full ownership of their data. It provides a modern frontend interface for building and visualizing predictive models, enabling developers to create data‑driven applications without sacrificing privacy. The project aims to democratize advanced analytics and foster collaborative innovation across the AI community.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/NPC-Worldwide/incognide) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/NPC-Worldwide/incognide) · [← Back to AI/ML](./README.md)</sub>
