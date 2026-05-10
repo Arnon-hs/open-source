@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15k |
+| ⭐ **Stars** | 15.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser` `data` `fake` `faker` `javascript` `nodejs` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The faker-js/faker project is an open-source library that generates large amounts of fake data, allowing developers to populate databases or test applications with realistic yet fictional data. This JavaScript library is compatible with both browser and Node.js environments, providing a flexible solution for data generation needs. With faker-js/faker, users can create diverse and varied fake data, including names, addresses, phone numbers, and more.
+Faker‑JS is an open‑source library that creates realistic, random data such as names, addresses, phone numbers, dates, and many other data types, usable both in the browser and in Node.js environments. It provides a simple, chainable API for generating large volumes of fake data for testing, prototyping, and seeding databases, with extensive locale support and customizable generators.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/faker-js/faker) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/faker-js/faker) · [← Back to Data](./README.md)</sub>

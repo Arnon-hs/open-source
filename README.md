@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5321** |
+| 🗂️ **Total projects** | **5361** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,14 +18,14 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2134 | [Browse →](./aiml/) |
-| 📦 **Misc** | 948 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 528 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 497 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 276 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 2151 | [Browse →](./aiml/) |
+| 📦 **Misc** | 955 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 534 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 499 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 281 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 261 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 195 | [Browse →](./crypto/) |
-| 📊 **Data** | 123 | [Browse →](./data/) |
+| 📊 **Data** | 125 | [Browse →](./data/) |
 | 💳 **Payments** | 91 | [Browse →](./payments/) |
 | 📱 **Mobile** | 66 | [Browse →](./mobile/) |
 | 📈 **Trading** | 63 | [Browse →](./trading/) |
@@ -33,22 +33,22 @@
 | 🔐 **Security** | 42 | [Browse →](./security/) |
 | ✨ **Design** | 17 | [Browse →](./design/) |
 | 🎯 **Product** | 13 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 7 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 8 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [yairm210/Unciv](./aiml/yairm210-unciv.md) | ⭐ 10.3k | AI/ML |
-| 2 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 28.5k | AI/ML |
-| 3 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
-| 4 | [formatjs/formatjs](./frontend/formatjs-formatjs.md) | ⭐ 14.7k | Frontend |
-| 5 | [jaywcjlove/reference](./aiml/jaywcjlove-reference.md) | ⭐ 15.1k | AI/ML |
-| 6 | [kubernetes-sigs/kubespray](./aiml/kubernetes-sigs-kubespray.md) | ⭐ 18.5k | AI/ML |
-| 7 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.2k | AI/ML |
-| 8 | [PX4/PX4-Autopilot](./misc/px4-px4-autopilot.md) | ⭐ 11.7k | Misc |
-| 9 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
-| 10 | [simple-icons/simple-icons](./design/simple-icons-simple-icons.md) | ⭐ 25.1k | Design |
+| 1 | [evcc-io/evcc](./misc/evcc-io-evcc.md) | ⭐ 6.6k | Misc |
+| 2 | [yairm210/Unciv](./aiml/yairm210-unciv.md) | ⭐ 10.3k | AI/ML |
+| 3 | [linshenkx/prompt-optimizer](./aiml/linshenkx-prompt-optimizer.md) | ⭐ 28.5k | AI/ML |
+| 4 | [hoochanlon/hamuleite](./misc/hoochanlon-hamuleite.md) | ⭐ 9.4k | Misc |
+| 5 | [formatjs/formatjs](./frontend/formatjs-formatjs.md) | ⭐ 14.7k | Frontend |
+| 6 | [jaywcjlove/reference](./aiml/jaywcjlove-reference.md) | ⭐ 15.1k | AI/ML |
+| 7 | [kubernetes-sigs/kubespray](./aiml/kubernetes-sigs-kubespray.md) | ⭐ 18.5k | AI/ML |
+| 8 | [laramies/theHarvester](./aiml/laramies-theharvester.md) | ⭐ 16.2k | AI/ML |
+| 9 | [PX4/PX4-Autopilot](./misc/px4-px4-autopilot.md) | ⭐ 11.7k | Misc |
+| 10 | [clap-rs/clap](./misc/clap-rs-clap.md) | ⭐ 16.4k | Misc |
 
 ## 🚀 How it works
 

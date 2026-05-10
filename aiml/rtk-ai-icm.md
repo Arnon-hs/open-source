@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 289 |
-| 🍴 **Forks** | 25 |
+| ⭐ **Stars** | 319 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude-code` `experimental` `mcp` `memory` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The rtk-ai/icm open-source project provides a permanent memory solution for AI agents, enabling them to retain information and learn from their environment. This compact, zero-dependency binary is specifically designed to be native to the MCP (Minecraft server software), allowing for seamless integration and efficient AI performance. By leveraging this feature, AI developers can create more sophisticated and resilient AI agents for Minecraft and other applications.
+rtk‑ai/icm provides a lightweight, single‑binary solution for giving AI agents persistent memory across sessions. It requires no external libraries or runtime dependencies and runs natively on the MCP platform, making it easy to integrate long‑term state management into any AI/ML workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/rtk-ai/icm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rtk-ai/icm) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 430 |
+| ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anyrun` `auto-cpufreq` `bash` `bat` `btop` `cava` `cmus` `foot` `hyprland` `mako` `mpv` `neovim`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Hypr project is an open-source collection of custom dotfiles, providing users with a starting point for personalizing their Linux systems. Maintained by Cybersnake223, this repository offers a flexible and customizable setup for various Linux configurations. The dotfiles are designed to enhance user experience and simplify system management.
+Cybersnake223/Hypr is a collection of personal dotfiles that configure a highly customized, minimalist desktop environment built around the Hyprland window manager. It includes tailored settings, scripts, and themes to streamline workflow and enhance productivity for Linux power‑users. The repository serves as a reference and starting point for anyone looking to adopt a sleek, Viper‑inspired setup.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/Cybersnake223/Hypr) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Cybersnake223/Hypr) · [← Back to Misc](./README.md)</sub>

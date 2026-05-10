@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.9k |
-| 🍴 **Forks** | 282 |
+| ⭐ **Stars** | 10.1k |
+| 🍴 **Forks** | 287 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`airport` `clash` `gfw` `hysteria2` `shadowsocks` `sing-box` `ssr` `trojan` `v2ray` `vless` `vmess` `vpn`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-The PandaVPNPro project is a collection of open-source tools and resources for secure and fast internet access. It provides a list of recommended affordable and stable VPNs, airports (airports are a type of VPN server), and nodes suitable for popular proxy software such as ClashForWindows, V2rayN, and singbox. The project aims to offer a comprehensive evaluation of VPN services and nodes for users seeking reliable and cost-effective internet access.
+PandaVPNPro is an open‑source repository that aggregates and evaluates a wide range of paid VPN/ proxy “airport” services—often referred to as “nodes” or “clash/V2Ray” subscriptions—targeted at users seeking low‑cost, high‑speed, and stable connections for bypassing internet censorship in China. The project supplies curated node lists compatible with popular clients such as Clash For Windows, V2rayN, Sing‑Box, NekoBox, and Shadowrocket, and includes detailed performance reviews to help users choose the most cost‑effective, reliable service.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/DiningFactory/panda-vpn-pro) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/DiningFactory/panda-vpn-pro) · [← Back to AI/ML](./README.md)</sub>

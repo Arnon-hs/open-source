@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `ctl` `gvm` `gvm-cli` `languages-version` `package-management`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The GVM (Global Version Manager) project is an open-source tool designed to manage multiple versions of programming languages on a single system. It allows developers to easily install, update, and switch between different versions of languages like Go, Vim, and more, simplifying the development process. With GVM, users can efficiently manage their project dependencies and environments.
+toodofun/gvm is an open‑source version manager that lets developers install, switch between, and manage multiple versions of programming language runtimes with a simple command‑line interface. It streamlines workflow across projects by handling version discovery, automatic updates, and environment configuration, making it easy to keep language toolchains consistent. Ideal for developers who need quick, reliable control over language versions in their DevTools toolkit.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/toodofun/gvm) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/toodofun/gvm) · [← Back to DevTools](./README.md)</sub>

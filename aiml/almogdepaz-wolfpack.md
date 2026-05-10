@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28 |
+| ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `claude` `codex` `developer-tools` `pwa` `self-hosted` `tailscale` `terminal` `tmux`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The wolfpack project is an open-source command center that enables users to manage and control AI coding agents, such as Claude and Codex, across multiple machines and devices. This desktop and mobile application provides a centralized hub for seamless session management, secured by Tailscale for enhanced protection.
+Wolfpack is a cross‑platform command center that lets you manage AI coding agents such as Claude, Codex, and Gemini from any device—mobile or desktop—through a unified interface. It synchronizes sessions across machines securely using Tailscale, making it easy to start, monitor, and switch between AI‑driven coding tasks on the fly. Ideal for developers who want a seamless, network‑protected workflow for AI‑assisted programming.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/almogdepaz/wolfpack) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/almogdepaz/wolfpack) · [← Back to AI/ML](./README.md)</sub>

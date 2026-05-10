@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 214 |
+| ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `crawler` `interview` `job-search` `llm` `python` `react` `resume`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The FindJobs-Agent is an open-source, AI-powered toolkit that streamlines professional skill analysis, AI interviews, and job structuring. Leveraging large language models (LLM), this tool automates the process of taxonomizing skills and conducting adaptive AI interviews with adjustable difficulty levels. By utilizing FindJobs-Agent, users can optimize their resume scoring and enhance their job search experience.
+FindJobs‑Agent is an open‑source, LLM‑driven toolkit that automates professional skill taxonomy, AI‑powered interview simulations, resume scoring, and job structure generation. By leveraging adaptive difficulty, it streamlines skill analysis and interview processes, helping users assess and improve their qualifications. The project spans AI/ML and frontend components, offering a ready‑to‑use solution for modern hiring workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/he-yufeng/FindJobs-Agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/he-yufeng/FindJobs-Agent) · [← Back to AI/ML](./README.md)</sub>

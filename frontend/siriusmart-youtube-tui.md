@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
+| ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `rust` `rust-lang` `terminal` `terminal-based` `terminal-user-interface` `tui` `youtube` `youtube-dl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-The YouTube TUI is an open-source, Rust-based terminal interface designed to provide an aesthetically pleasing experience for browsing YouTube videos. This project allows users to navigate and interact with YouTube content directly from the terminal, enabling a unique and distraction-free way to consume videos. The project's focus on a user-friendly interface and Rust programming make it an attractive option for developers and YouTube enthusiasts alike.
+Siriusmart’s **youtube-tui** is a terminal‑based YouTube client built with Rust, offering a clean, visually appealing interface for browsing, searching, and playing videos without leaving the command line. It combines fast, asynchronous networking with a modern TUI layout, making it a handy dev‑tool for users who prefer lightweight, keyboard‑driven workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Siriusmart/youtube-tui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Siriusmart/youtube-tui) · [← Back to Frontend](./README.md)</sub>

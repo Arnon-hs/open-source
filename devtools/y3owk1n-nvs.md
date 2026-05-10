@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `command-line` `command-line-tool` `golang` `neovim` `neovim-configuration-manager` `neovim-version-manager` `version-manager`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-y3owk1n/nvs is a lightweight command-line interface (CLI) tool designed to manage Neovim versions and configurations. This tool enables users to easily install, switch, list, uninstall, and reset various Neovim versions, streamlining their development workflow. By using nvs, developers can efficiently test and experiment with different Neovim versions without cluttering their system.
+A lightweight command‑line utility for managing Neovim installations, **y3owk1n/nvs** lets you quickly install specific Neovim versions, switch between them, list available builds, uninstall unwanted releases, and reset to a clean state. Designed as a simple DevTools solution, it streamlines version control and configuration handling for developers who work with multiple Neovim setups.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/y3owk1n/nvs) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/y3owk1n/nvs) · [← Back to DevTools](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cairo` `mlir` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The starkware-libs/cairo_native project is an open-source compiler that translates Cairo's intermediate representation, known as "Sierra" code, into the Machine Learning Integrated Runtime (MLIR) format. This allows Cairo programs to be optimized and executed on a wide range of hardware architectures. By converting Sierra code to MLIR, cairo_native aims to enhance the portability and efficiency of Cairo-based AI/ML applications.
+starkware-libs/cairo_native is an open‑source compiler that transforms Cairo’s intermediate representation, known as Sierra, into MLIR (Multi-Level Intermediate Representation). By bridging Cairo’s domain‑specific code with the flexible MLIR ecosystem, it enables further optimizations, analysis, and integration with existing compiler toolchains, facilitating the development of high‑performance, AI/ML workloads on StarkNet.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/starkware-libs/cairo_native) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/starkware-libs/cairo_native) · [← Back to AI/ML](./README.md)</sub>

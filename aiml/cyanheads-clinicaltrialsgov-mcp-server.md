@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 68 |
+| ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `api-client` `bioinformatics` `clinical-trials` `clinicaltrials` `clinicaltrials-gov` `eligibility-criteria` `health-tech` `hono` `http` `llm` `llm-agent`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-This open-source project, clinicaltrialsgov-mcp-server, is a MCP (Matched Controlled Protocol) server designed to interact with the ClinicalTrials.gov v2 API. It enables users to search for trials, retrieve study details and results, and match patients to eligible trials, facilitating informed decision-making in medical research and patient care. By leveraging the ClinicalTrials.gov API, this project aims to streamline the clinical trial matching process.
+The **clinicaltrialsgov-mcp-server** is an open‑source backend service that implements the ClinicalTrials.gov v2 API, providing endpoints for searching trials, retrieving detailed study information and results, and matching patients to eligible studies. Designed as a micro‑service, it enables developers to integrate comprehensive clinical trial data into AI/ML pipelines, health applications, or research tools with minimal effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) · [← Back to AI/ML](./README.md)</sub>

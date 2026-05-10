@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 107 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 111 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agent` `ai-scientist` `ai4science` `auto-research` `benchmark` `claude` `claude-code` `clawdbot` `codex` `discovery`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-ResearchClawBench is an open-source project designed to evaluate and compare the performance of artificial intelligence (AI) agents in automated research tasks. This benchmark assesses AI agents' ability to move from re-discovery to new-discovery, allowing researchers to accurately evaluate their capabilities. By providing a standardized evaluation framework, ResearchClawBench aims to advance the development of AI-powered research tools.
+ResearchClawBench is an open‑source benchmarking suite that assesses AI agents’ capabilities across the full spectrum of scientific inquiry—from reproducing known results to generating novel discoveries. It provides a standardized set of tasks, datasets, and evaluation metrics tailored to automated research workflows, enabling systematic comparison and improvement of AI‑driven research tools. The project is geared toward AI/ML researchers looking to measure and advance the experimental, analytical, and hypothesis‑generation abilities of intelligent agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/InternScience/ResearchClawBench) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/InternScience/ResearchClawBench) · [← Back to AI/ML](./README.md)</sub>

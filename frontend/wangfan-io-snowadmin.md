@@ -1,6 +1,6 @@
 # WangFan-io/SnowAdmin
 
-[![Stars](https://img.shields.io/github/stars/WangFan-io/SnowAdmin?style=flat-square&color=yellow)](https://github.com/WangFan-io/SnowAdmin/stargazers) [![Forks](https://img.shields.io/github/forks/WangFan-io/SnowAdmin?style=flat-square&color=blue)](https://github.com/WangFan-io/SnowAdmin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WangFan-io/SnowAdmin?style=flat-square&color=yellow)](https://github.com/WangFan-io/SnowAdmin/stargazers) [![Forks](https://img.shields.io/github/forks/WangFan-io/SnowAdmin?style=flat-square&color=blue)](https://github.com/WangFan-io/SnowAdmin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 161 |
+| 🍴 **Forks** | 162 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the SnowAdmin project:
-
-SnowAdmin is an open-source backend management framework built with the latest technology stack, including Vue3, TypeScript, Vite7, Pinia, and Arco.Design. It is designed with a user-friendly interface and follows a straightforward usage pattern, making it an ideal choice for developers seeking a robust and efficient solution. SnowAdmin aims to provide a comprehensive and scalable foundation for building web applications with ease.
+SnowAdmin is an open‑source admin dashboard built with the latest front‑end stack—Vue 3, TypeScript, Vite 7, Pinia, and Arco.Design. It offers an intuitive, component‑driven UI for building backend management interfaces, leveraging modern tooling for fast development and easy customization. Suitable for developers looking for a clean, TypeScript‑first framework for enterprise‑grade front‑end applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/WangFan-io/SnowAdmin) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/WangFan-io/SnowAdmin) · [← Back to Frontend](./README.md)</sub>

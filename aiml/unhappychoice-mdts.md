@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 180 |
-| 🍴 **Forks** | 13 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `filesystem` `frontmatter` `live-reload` `markdown` `markdown-renderer` `mermaid` `preview` `server` `webui` `zero-setup` `zero-setup-tools`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-The unhappychoice/mdts project is a local markdown preview server that simplifies the process of viewing and editing markdown files. With a single command, 'npx mdts', users can quickly set up a preview server, making it an ideal tool for markdown enthusiasts and developers alike. This open-source project streamlines the workflow for those working with markdown files.
+unhappychoice/mdts is a lightweight, open‑source tool that launches a local server to render Markdown files as live HTML previews. With a single command (`npx mdts`), developers can instantly view and edit their documentation or notes without any configuration. It’s useful for both frontend and backend workflows, providing a fast, zero‑setup preview environment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/unhappychoice/mdts) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/unhappychoice/mdts) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 234 |
+| ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent-client-protocol` `agentclientprotocol`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-The formulahendry/acp-ui project offers a cross-platform desktop client for the Agent Client Protocol (ACP), providing a modern interface to connect with a wide range of ACP-compatible AI agents. This client supports various popular AI agents, including Claude, Codex, and Copilot, among others, making it an accessible platform for developers and users. With its open-source nature, the project fosters a community-driven approach to AI interaction and development.
+Formulahendry/acp‑ui is a modern, cross‑platform client that implements the Agent Client Protocol (ACP), allowing users to connect to a wide range of AI agents—including Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw, and others—from desktop, mobile, or web interfaces. Built with a responsive frontend stack, the project provides a unified UI for interacting with any ACP‑compatible service, making it a versatile tool for developers and AI enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/formulahendry/acp-ui) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/formulahendry/acp-ui) · [← Back to AI/ML](./README.md)</sub>

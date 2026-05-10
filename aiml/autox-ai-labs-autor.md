@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 21 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-scientist` `auto-research` `claude` `claude-code` `cli` `harness` `llm` `openai` `paper` `science`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the AutoR open-source project:
-
-AutoR provides a collaborative framework where AI-driven automation meets human oversight, allowing developers to execute AI tasks while maintaining control over direction and goals. Each run is recorded as a research artifact, enabling transparent and inspectable workflows. This innovative approach combines the power of AI with human intuition to drive research and development.
+AutoR is an open‑source framework that lets developers delegate the execution of AI‑driven tasks to an autonomous engine while retaining full control over the high‑level direction and objectives. Each run is automatically captured as a self‑contained, inspectable research artifact stored on disk, enabling reproducibility, debugging, and systematic analysis. The project bridges AI/ML research and dev‑tool workflows, turning every experiment into a traceable, reusable asset.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/AutoX-AI-Labs/AutoR) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AutoX-AI-Labs/AutoR) · [← Back to AI/ML](./README.md)</sub>

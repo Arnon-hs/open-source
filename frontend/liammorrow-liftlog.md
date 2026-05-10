@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 432 |
-| 🍴 **Forks** | 59 |
+| ⭐ **Stars** | 435 |
+| 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`app` `aspnetcore` `dotnet` `expo` `gym` `react-native`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-LiftLog is a free, open-source application designed to track your lifts and gym progress across various platforms. This user-friendly tool allows users to record and monitor their workout history, helping them set and achieve fitness goals. By providing a centralized platform for lift tracking, LiftLog aims to streamline gym routines and enhance overall fitness management.
+LiamMorrow/LiftLog is an open‑source, cross‑platform mobile application designed to help users log and track their gym workouts. Built with a modern frontend stack, it provides an intuitive interface for recording lifts, monitoring progress, and visualizing performance across iOS and Android devices. The project is ideal for fitness enthusiasts who want a customizable, on‑the‑go solution for managing their strength‑training data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/LiamMorrow/LiftLog) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/LiamMorrow/LiftLog) · [← Back to Frontend](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 749 |
+| 🍴 **Forks** | 752 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cairo` `computational-integrity` `starknet` `zero-knowledge-proofs` `zkp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Cairo is an open-source, Turing-complete language designed specifically for creating provable programs for general computation. This innovative language enables developers to write code that can be formally verified, providing a high level of assurance and trust in the correctness of the program. By leveraging Cairo, users can create secure and reliable AI and machine learning applications.
+Cairo is an open‑source, Turing‑complete programming language designed for writing provable, verifiable programs that can be executed and audited on a blockchain. Developed by StarkWare, it enables developers to create scalable, zero‑knowledge proofs for general computation, making complex smart‑contract logic both efficient and trustless. The project provides the core compiler, libraries, and tooling needed to build and verify provable applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/starkware-libs/cairo) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/starkware-libs/cairo) · [← Back to AI/ML](./README.md)</sub>

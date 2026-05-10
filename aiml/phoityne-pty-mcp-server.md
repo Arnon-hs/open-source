@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bash` `cabal` `clean-architecture` `ghc` `ghci` `haskell` `mcp` `mcp-server` `onion` `onion-architecture` `pty`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The pty-mcp-server is an open-source project that provides a backend implementation for working with terminal interfaces in Machine Learning and AI environments. It enables seamless integration of terminal-based interfaces with machine learning models, facilitating the development of more interactive and intuitive AI-powered applications. By leveraging this project, developers can build more sophisticated and user-friendly AI systems.
+**Summary:**  
+`phoityne/pty-mcp-server` is an open‑source backend service that provides a lightweight, TCP‑based MCP (Message Control Protocol) server for managing pseudo‑terminal (PTY) sessions over the network. Designed for AI/ML workflows and remote tooling, it enables secure, programmatic creation, interaction, and monitoring of PTY instances, making it easy to integrate terminal‑based processes into distributed applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/phoityne/pty-mcp-server) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/phoityne/pty-mcp-server) · [← Back to AI/ML](./README.md)</sub>

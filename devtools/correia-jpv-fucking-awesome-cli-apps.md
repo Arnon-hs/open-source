@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 50 |
-| 🍴 **Forks** | 4 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `cli` `cli-app` `cmd` `cmd-scripts` `cmdline` `cmdline-linux` `command-line` `command-line-app` `command-line-interface` `command-line-tool`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-The "fucking-awesome-cli-apps" repository is a curated list of command-line applications, providing an up-to-date collection of tools for developers. This project offers a comprehensive resource for discovering and exploring a wide range of CLI utilities, categorized for easy navigation. It uses repository stars and forks to ensure the list remains current and relevant to the developer community.
+A curated collection of standout command‑line applications, featuring real‑time statistics such as GitHub stars and forks for each tool. The list helps developers quickly discover, evaluate, and adopt powerful CLI utilities across categories like monitoring, data processing, gaming, and development. It’s an open‑source, community‑maintained resource aimed at simplifying the search for high‑quality DevTools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Correia-jpv/fucking-awesome-cli-apps) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Correia-jpv/fucking-awesome-cli-apps) · [← Back to DevTools](./README.md)</sub>

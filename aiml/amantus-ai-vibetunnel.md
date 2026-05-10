@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 324 |
+| 🍴 **Forks** | 323 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`remote` `terminal` `vibecoding`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The Vibetunnel project is an open-source initiative that enables users to transform any web browser into a terminal, providing a seamless command-line experience. This capability allows users to manage and interact with their agents remotely, streamlining processes and enhancing productivity on-the-go. By harnessing AI/ML technologies, Vibetunnel offers a cutting-edge tool for navigating and controlling digital workflows.
+VibeTunnel (amantus‑ai/vibetunnel) transforms a web browser into an interactive terminal, letting users issue commands and control AI‑powered agents from anywhere with an internet connection. By leveraging lightweight web technologies and a modular AI/ML backend, it provides real‑time, cross‑platform access to remote agents without requiring additional client software. The project is open‑source, extensible, and designed for seamless integration into existing AI workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/amantus-ai/vibetunnel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/amantus-ai/vibetunnel) · [← Back to AI/ML](./README.md)</sub>
