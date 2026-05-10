@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 246 |
+| ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`console` `r` `rust` `terminal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the eitsupi/arf project:
-
-The eitsupi/arf project is an open-source, modern R console designed as an alternative frontend for the popular R programming language. Built using Rust, it offers a fresh and efficient interface for interacting with R, providing users with a more streamlined experience. By leveraging the performance of Rust, eitsupi/arf aims to deliver faster and more responsive R operations.
+eitsupi/arf is an open‑source, Rust‑based alternative frontend for the R programming language, providing a modern, feature‑rich console experience. By leveraging Rust’s performance and safety, it delivers faster command execution, syntax highlighting, auto‑completion, and an extensible UI while remaining fully compatible with existing R workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/eitsupi/arf) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/eitsupi/arf) · [← Back to Frontend](./README.md)</sub>

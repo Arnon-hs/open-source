@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 51 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Hybrid-Mount project is an open-source metamodule designed to provide a hybrid mounting solution. It aims to combine different mounting systems and approaches, offering a versatile and adaptable solution for various applications. By integrating multiple mounting methods, this project facilitates flexibility and customization in system design.
+Hybrid-Mount/meta-hybrid_mount is an open‑source metamodule that provides a flexible “hybrid mount” system for integrating multiple filesystem or storage backends under a unified interface. It abstracts the mounting process, allowing developers to combine different mount types (e.g., local, network, virtual) seamlessly within a single configuration, and includes extensible hooks for custom behavior. The project is categorized as Misc and serves as a reusable component for building hybrid storage solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Hybrid-Mount/meta-hybrid_mount) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Hybrid-Mount/meta-hybrid_mount) · [← Back to Misc](./README.md)</sub>

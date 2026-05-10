@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 163 |
-| 🍴 **Forks** | 39 |
+| ⭐ **Stars** | 165 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`claude` `claude-code` `docs` `documentation` `llm` `markdown` `mcp` `mcp-server` `token-efficient`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary of the project:
-
-jdocmunch-mcp is an open-source MCP server that efficiently indexes and retrieves documentation via structured sectioning, streamlining the process of documentation exploration and retrieval. This token-efficient server is optimized for AI and machine learning applications, providing a robust backend solution for managing complex documentation datasets. By leveraging section indexing, jdocmunch-mcp enables seamless and scalable documentation retrieval.
+jDocMunch‑MCP is an open‑source, token‑efficient MCP (Model‑Centric Prompting) server that enables fast, AI‑powered exploration and retrieval of documentation using structured section indexing. It provides a backend service optimized for low token consumption, making it ideal for large‑scale knowledge bases and retrieval‑augmented generation pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [← Back to AI/ML](./README.md)</sub>

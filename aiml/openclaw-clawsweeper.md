@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 189 |
+| 🍴 **Forks** | 202 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `bot` `openclaw` `review`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-ClawSweeper is an automated tool that scans all open issues and pull requests on a regular basis to suggest which ones can be closed and why. It runs weekly, helping maintainers streamline their workflow and focus on active tasks. By providing actionable insights, ClawSweeper facilitates a more efficient and organized project management process.
+ClawSweeper is an open‑source automation tool that periodically scans every issue and pull request in a repository, using AI to identify items that can be safely closed and providing concise reasons for each recommendation. It runs automatically once a week on each PR or issue, helping maintainers keep their project backlog clean and up‑to‑date.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/openclaw/clawsweeper) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/openclaw/clawsweeper) · [← Back to AI/ML](./README.md)</sub>

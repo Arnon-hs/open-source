@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 122 |
+| ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apache-arrow` `calculator` `excel` `formula-evaluation` `formula-parser` `python` `rust` `spreadsheet` `spreadsheet-engine` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Marketing
 
 ## 📝 Summary
 
-The PSU3D0/formualizer is an open-source, embeddable spreadsheet engine that allows developers to parse, evaluate, and mutate Excel workbooks from various programming languages, including Rust, Python, and the browser. Powered by the Arrow library, it provides over 320 functions for advanced spreadsheet operations. This tool enables seamless integration of spreadsheet functionality into applications and workflows, promoting automation and data analysis.
+PSU3D0/formualizer is an embeddable spreadsheet engine that can parse, evaluate, and modify Excel workbooks directly from Rust, Python, or a web browser. Powered by Apache Arrow for high‑performance data handling, it implements over 320 native spreadsheet functions, making it a versatile tool for developers who need Excel‑compatible calculations in their applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/PSU3D0/formualizer) · [← Back to Marketing](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PSU3D0/formualizer) · [← Back to Marketing](./README.md)</sub>

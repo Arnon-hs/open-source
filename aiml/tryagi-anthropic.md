@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `autosdk` `chat-completion` `claude` `csharp` `dotnet` `llm` `openapi` `sdk` `tokenizer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The tryAGI/Anthropic project is an open-source C# Software Development Kit (SDK) that provides a seamless interface to the Anthropic API. With this SDK, developers can easily integrate Anthropic's powerful language model capabilities, including text completions, tool calling, and vision, into their applications. This SDK enables users to unlock the full potential of the Anthropic API in a scalable and efficient manner.
+The **tryAGI/Anthropic** project provides a lightweight, open‑source C# SDK that wraps the Anthropic API, enabling developers to integrate Claude chat completions, tool‑calling workflows, and vision capabilities directly into .NET applications. It abstracts authentication, request formatting, and response handling, offering a clean, typed interface for building AI‑powered back‑end services and conversational agents.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/tryAGI/Anthropic) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tryAGI/Anthropic) · [← Back to AI/ML](./README.md)</sub>

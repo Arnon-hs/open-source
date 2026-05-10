@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 676 |
-| 🍴 **Forks** | 156 |
+| ⭐ **Stars** | 691 |
+| 🍴 **Forks** | 159 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `claude` `claude-agent-sdk` `claude-code` `gemini` `openrouter` `swarm-intelligence`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The agentic-flow project is an open-source solution that enables seamless switching between low-cost AI models in Claude Code/Agent SDK. This makes it easier for users to deploy their agents for real-world business applications, leveraging the flexibility of Claude Code. By providing a hosted agent deployment option, agentic-flow streamlines the process of transitioning from development to production.
+r​uvnet/agentic‑flow is an open‑source toolkit that lets developers seamlessly swap between low‑cost AI models within the Claude Code/Agent SDK, turning prototype Claude agents and commands into fully hosted, production‑ready services. It streamlines the workflow from building an agent in Claude Code to deploying it on any cloud platform, making it easy to use cost‑effective models for real‑world business applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ruvnet/agentic-flow) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ruvnet/agentic-flow) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 320 |
+| 🍴 **Forks** | 319 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`addons` `haos` `hassio` `hassio-addons` `home-assistant` `homeassistant`
 
 ## 🎯 Categories
 
@@ -25,8 +25,9 @@ Misc
 
 ## 📝 Summary
 
-This open-source project, "hassio-addons" by alexbelgium, provides a collection of custom add-ons for Home Assistant, a popular home automation platform. These add-ons can enhance and expand the capabilities of Home Assistant, making it easier to integrate and manage various smart devices and services. The project offers a community-driven repository of user-contributed add-ons, promoting customization and innovation in home automation.
+**Summary:**  
+The *alexbelgium/hassio-addons* repository provides a collection of custom Home Assistant add‑ons maintained by Alex Belgium. These add‑ons extend Home Assistant’s functionality with various utilities and services, all packaged for easy installation via the Hass.io add‑on store. The project is open‑source and organized under the “Misc” category for general-purpose enhancements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/alexbelgium/hassio-addons) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/alexbelgium/hassio-addons) · [← Back to Misc](./README.md)</sub>

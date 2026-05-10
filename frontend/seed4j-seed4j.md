@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`generator` `hacktoberfest` `hexagonal-architecture` `java` `spring-boot` `typescript` `vuejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Seed4J is an open-source, modular code generator that utilizes a clean architecture to streamline development. This frontend-focused tool enables users to create efficient and maintainable code, making it an ideal choice for software developers seeking to optimize their workflow and productivity. By leveraging Seed4J, developers can expedite the coding process and focus on more complex aspects of their projects.
+Seed4J is an open‑source, modular code‑generation framework built with a clean‑architecture approach. It enables developers to define reusable templates and plug‑in generators for various frontend technologies, streamlining the creation of boilerplate code and accelerating project scaffolding. The project’s extensible design makes it easy to integrate new languages, frameworks, or custom generation logic.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/seed4j/seed4j) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/seed4j/seed4j) · [← Back to Frontend](./README.md)</sub>

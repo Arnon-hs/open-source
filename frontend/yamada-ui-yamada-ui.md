@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`a11y` `animation` `animation-css` `dark-mode` `emotion` `framer-motion` `react` `responsive-design` `ui` `ui-components` `ui-design` `ui-library`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-Yamada UI is an open-source project that provides a set of React UI components designed specifically for the Yamada community. Built with React and Emotion, this library offers a customizable and accessible way to enhance user interfaces. By leveraging Yamada UI, developers can streamline their design workflows and create visually appealing applications.
+Yamada‑UI is an open‑source library of reusable React components styled with Emotion, designed to provide a clean, customizable UI toolkit for modern web applications. It offers a comprehensive set of frontend building blocks—such as buttons, forms, layout primitives, and theming utilities—tailored for developers who want a cohesive design system without sacrificing flexibility. The project aims to simplify UI development while maintaining a consistent visual language across React projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/yamada-ui/yamada-ui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/yamada-ui/yamada-ui) · [← Back to Frontend](./README.md)</sub>

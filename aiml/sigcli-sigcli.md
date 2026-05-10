@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200 |
+| ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the sigcli project:
-
-sigcli is an open-source authentication CLI and proxy designed to grant AI agents secure access to various systems and resources without exposing user credentials. This project empowers developers to maintain a strong separation of concerns between their AI agents and sensitive authentication information. By using sigcli, users can ensure the secure and efficient interaction of AI agents with their systems.
+sigcli is an open‑source command‑line tool and proxy that enables AI agents to authenticate securely without exposing users’ credentials. By acting as an intermediary, it grants agents scoped access to services while enforcing fine‑grained security policies, making it ideal for developers building AI‑powered applications. The project bridges AI/ML, DevTools, and security concerns with a lightweight, easy‑to‑integrate solution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/sigcli/sigcli) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sigcli/sigcli) · [← Back to AI/ML](./README.md)</sub>

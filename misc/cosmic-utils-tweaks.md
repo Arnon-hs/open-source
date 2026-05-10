@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 169 |
-| 🍴 **Forks** | 24 |
+| ⭐ **Stars** | 170 |
+| 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cosmic` `cosmic-ext-application` `libcosmic` `pop-os` `tweaks`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Cosmic-utils/tweaks is an open-source project designed to provide users of the COSMIC desktop with a versatile tweaking tool. This utility allows users to customize various aspects of their desktop environment, giving them greater control over their computing experience. By offering a range of tweakable settings, it enhances the overall usability and personalization of the COSMIC desktop.
+cosmic‑utils/tweaks is an open‑source utility that provides a simple graphical interface for customizing the COSMIC desktop environment. It lets users fine‑tune system settings, appearance options, and workflow preferences without manual configuration files. Ideal for both casual users and power users who want quick, on‑the‑fly desktop tweaks.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/cosmic-utils/tweaks) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/cosmic-utils/tweaks) · [← Back to Misc](./README.md)</sub>

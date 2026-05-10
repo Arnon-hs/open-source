@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `annotation-driven` `declarative` `java` `mcp` `mcp-server` `model-context-protocol` `no-spring` `sdk`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The thought2code/mcp-annotated-java-sdk project is an open-source, annotation-driven Java SDK for developing Machine Learning Pipelines (MCPs) without the need for Spring or boilerplate code. This pure Java library aims to simplify the development process by leveraging annotations, reducing complexity and increasing productivity. It is an ideal solution for building AI/ML backend applications with minimal overhead.
+thought2code/mcp-annotated-java-sdk is an open‑source Java SDK that lets developers build MCP (Model‑Centric Programming) applications using simple annotations, eliminating the need for Spring or other heavyweight frameworks. By generating all required plumbing at compile time, it provides a zero‑boilerplate, pure‑Java experience for AI/ML‑backed backend services. The library focuses on clean, annotation‑driven code while keeping runtime dependencies minimal.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/thought2code/mcp-annotated-java-sdk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/thought2code/mcp-annotated-java-sdk) · [← Back to AI/ML](./README.md)</sub>

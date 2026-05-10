@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 482 |
+| 🍴 **Forks** | 485 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cross-platform` `csharp` `dotnet-core` `driver` `userspace-driver`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The OpenTabletDriver project is an open-source, cross-platform user-mode tablet driver designed to provide a unified and efficient way to manage tablet input devices. This project aims to empower developers and users by allowing them to write custom tablet drivers or utilize existing ones, offering flexibility and control over tablet functionality. By being user-mode, the driver operates outside of the kernel, enhancing compatibility and ease of development.
+OpenTabletDriver is a free, open‑source, user‑mode driver that enables graphic tablets to work seamlessly across Windows, macOS, and Linux. It provides a cross‑platform solution for configuring pressure sensitivity, button mappings, and other tablet features without requiring kernel‑level modifications. The project is community‑driven and aims to offer a reliable, customizable alternative to proprietary tablet drivers.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) · [← Back to Misc](./README.md)</sub>

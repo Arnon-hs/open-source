@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 374 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 376 |
+| 🍴 **Forks** | 16 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`amd` `amdgpu` `gpt` `gpu` `openai` `pytorch` `qwen3` `rdna3` `rdna4` `transformer` `zig`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project "zolotukhin/zinc":
-
-Zinc is an open-source, local Language Model (LLM) inference engine that leverages the processing power of AMD GPUs and Apple Silicon hardware to accelerate inference tasks. This project provides a highly optimized solution for AI/ML workflows, enabling efficient and secure local processing of large language models. By utilizing specialized hardware, Zinc aims to improve the performance and latency of LLM inference.
+Zinc is an open‑source inference engine written in Zig that enables fast, local execution of large language models on AMD GPUs and Apple Silicon devices. By leveraging low‑level GPU support and Zig’s safety‑focused performance, the project provides a lightweight, cross‑platform alternative for running LLMs without relying on cloud services. It targets developers in AI/ML and design who need on‑device, high‑throughput language model processing.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/zolotukhin/zinc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/zolotukhin/zinc) · [← Back to AI/ML](./README.md)</sub>

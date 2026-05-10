@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 500 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 512 |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-dArkOS is an open-source operating system based on Debian, designed to provide a flexible and customizable platform for various applications, including AI and machine learning. This project aims to offer a lightweight and efficient alternative for users seeking a Debian-based ArkOS environment. By leveraging the strengths of Debian, dArkOS enables users to harness the power of AI and ML tools with ease.
+Christianhaitian/dArkOS is an open‑source operating system built on Debian that customizes the ArkOS platform for enhanced performance and flexibility. It bundles a range of AI/ML tools and libraries, making it suitable for developers and researchers who need a Debian‑based environment optimized for machine‑learning workloads. The project is community‑driven and aims to provide a stable, extensible base for AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/christianhaitian/dArkOS) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/christianhaitian/dArkOS) · [← Back to AI/ML](./README.md)</sub>

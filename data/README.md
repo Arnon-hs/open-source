@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**114 projects** in this category.
+**115 projects** in this category.
 
 ## Projects
 
@@ -118,10 +118,11 @@
 | 108 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
 | 109 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
 | 110 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 111 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
-| 112 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
-| 113 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 114 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 111 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
+| 112 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
+| 113 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 114 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 115 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 
