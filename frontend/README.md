@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**523 projects** in this category.
+**524 projects** in this category.
 
 ## Projects
 
@@ -17,8 +17,8 @@
 | 7 | [influxdata/influxdb](./influxdata-influxdb.md) | ⭐ 31.5k | Rust | 100/100 |
 | 8 | [payloadcms/payload](./payloadcms-payload.md) | ⭐ 42.3k | TypeScript | 100/100 |
 | 9 | [Lissy93/dashy](./lissy93-dashy.md) | ⭐ 25k | Vue | 100/100 |
-| 10 | [reactos/reactos](./reactos-reactos.md) | ⭐ 17.5k | C | 100/100 |
-| 11 | [jhipster/generator-jhipster](./jhipster-generator-jhipster.md) | ⭐ 22.4k | TypeScript | 100/100 |
+| 10 | [jhipster/generator-jhipster](./jhipster-generator-jhipster.md) | ⭐ 22.4k | TypeScript | 100/100 |
+| 11 | [reactos/reactos](./reactos-reactos.md) | ⭐ 17.5k | C | 100/100 |
 | 12 | [Automattic/wp-calypso](./automattic-wp-calypso.md) | ⭐ 12.6k | TypeScript | 100/100 |
 | 13 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 100/100 |
 | 14 | [PrestaShop/PrestaShop](./prestashop-prestashop.md) | ⭐ 9.1k | PHP | 100/100 |
@@ -437,8 +437,8 @@
 | 427 | [vavallee/bindery](./vavallee-bindery.md) | ⭐ 234 | Go | 52/100 |
 | 428 | [akirarika/milkio](./akirarika-milkio.md) | ⭐ 399 | TypeScript | 52/100 |
 | 429 | [h3pdesign/Neon-Vision-Editor](./h3pdesign-neon-vision-editor.md) | ⭐ 229 | Swift | 52/100 |
-| 430 | [david-vanderson/dvui](./david-vanderson-dvui.md) | ⭐ 1.4k | Zig | 51/100 |
-| 431 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 51/100 |
+| 430 | [Charcoal-SE/SmokeDetector](./charcoal-se-smokedetector.md) | ⭐ 493 | Python | 51/100 |
+| 431 | [david-vanderson/dvui](./david-vanderson-dvui.md) | ⭐ 1.4k | Zig | 51/100 |
 | 432 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 51/100 |
 | 433 | [moq-dev/moq](./moq-dev-moq.md) | ⭐ 1.2k | Rust | 51/100 |
 | 434 | [stjude-rust-labs/sprocket](./stjude-rust-labs-sprocket.md) | ⭐ 155 | Rust | 51/100 |
@@ -521,16 +521,17 @@
 | 511 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
 | 512 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 41/100 |
 | 513 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 40/100 |
-| 514 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 39/100 |
-| 515 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 39/100 |
-| 516 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 39/100 |
-| 517 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
-| 518 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 39/100 |
-| 519 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 39/100 |
-| 520 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 36/100 |
-| 521 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 36/100 |
-| 522 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 21/100 |
-| 523 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 21/100 |
+| 514 | [mech-lang/mech](./mech-lang-mech.md) | ⭐ — | — | 39/100 |
+| 515 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 39/100 |
+| 516 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 39/100 |
+| 517 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 39/100 |
+| 518 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
+| 519 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 39/100 |
+| 520 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 39/100 |
+| 521 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 36/100 |
+| 522 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 36/100 |
+| 523 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 21/100 |
+| 524 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 21/100 |
 
 ---
 

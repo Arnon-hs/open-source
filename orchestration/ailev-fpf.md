@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 346 |
-| 🍴 **Forks** | 58 |
+| ⭐ **Stars** | 350 |
+| 🍴 **Forks** | 61 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `auditability` `bounded-context` `collective-intelligence` `conceptual-modeling` `decision-making` `first-principles` `human-ai-collaboration` `multi-agent-systems` `reasoning` `spec-driven-development` `systems-engineering`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-The First Principles Framework (FPF) is an open-source operating system for facilitating open-ended thought and collaboration among engineering, research, and mixed human/AI teams. FPF enables bounded contexts, auditable reasoning, decision records, and multi-view publication, fostering transparency and accountability in complex decision-making processes. By providing a structured framework for collaboration, FPF aims to bridge the gap between human and AI-driven insights.
+First Principles Framework (FPF) is an open‑source operating system designed to structure and manage open‑ended engineering, research, and mixed human‑AI collaborations. It provides tools for defining bounded contexts, maintaining auditable reasoning trails, recording decisions, and publishing work from multiple perspectives, enabling transparent, reproducible, and coordinated team workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ailev/FPF) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ailev/FPF) · [← Back to Orchestration](./README.md)</sub>

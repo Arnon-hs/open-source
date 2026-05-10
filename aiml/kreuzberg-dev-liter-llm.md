@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 164 |
-| 🍴 **Forks** | 11 |
+| ⭐ **Stars** | 178 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`anthropic` `api-client` `llm` `machine-learning` `openai` `polyglot` `python` `rust` `streaming` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-The kreuzberg-dev/liter-llm project is an open-source, universal LLM (Large Language Model) API client that offers seamless access to over 142 providers through a single interface. Built on a Rust core, it boasts 11 native language bindings for convenient integration into various development frameworks. This comprehensive tool enables developers to leverage the power of LLMs across diverse applications and platforms.
+Liter‑LLM is a universal client for Large Language Model APIs that abstracts over 140+ providers and offers native bindings for 11 programming languages. Built on a high‑performance Rust core, it lets developers integrate LLM capabilities into backend services and tools with a single, consistent interface. The project is open‑source and targets AI/ML, backend, and developer‑tool workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kreuzberg-dev/liter-llm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kreuzberg-dev/liter-llm) · [← Back to AI/ML](./README.md)</sub>

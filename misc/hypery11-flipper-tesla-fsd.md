@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 713 |
-| 🍴 **Forks** | 346 |
+| ⭐ **Stars** | 739 |
+| 🍴 **Forks** | 352 |
 | 💻 **Language** | C |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`automotive` `autopilot` `can-bus` `canbus-research` `cybertruck` `electric-vehicle` `flipper-zero` `flipper-zero-app` `fsd` `fsdv14` `hardware-hacking` `hw3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The flipper-tesla-fsd project is an open-source software modification for Tesla vehicles, utilizing a Flipper Zero device and an ESP32 module to add various features. These features include a nag killer, FSD region unlock, track mode, BMS dashboard, and more, which can be accessed and controlled through the OBD-II or X179 connector. The project aims to enhance the functionality and user experience of Tesla vehicles.
+hypery11’s **flipper‑tesla‑fsd** is an open‑source firmware add‑on for the Flipper Zero paired with an ESP32 that brings a suite of Tesla‑specific features to the car’s OBD‑II or X179 port. It provides tools such as a “nag killer,” FSD region unlock, track‑mode performance tweaks, BMS dashboard, blind‑spot alerts, high‑beam strobe, speed read‑out and steering‑assist modes, all controllable from the Flipper device. The project is packaged as a miscellaneous utility for Tesla owners who want customizable, on‑board diagnostics and driver‑assist enhancements.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/hypery11/flipper-tesla-fsd) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hypery11/flipper-tesla-fsd) · [← Back to Misc](./README.md)</sub>

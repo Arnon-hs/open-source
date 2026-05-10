@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `ai-tools` `claude` `cursor` `developer-tools` `mcp` `mcp-server` `model-context-protocol` `structured-output` `token-efficiency` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Pare is an open-source suite of development tools optimized for agents, providing structured and token-efficient MCP (Multi-Purpose Container) servers for popular applications such as Git, test runners, npm, and Docker. This project aims to simplify development workflows by streamlining access to essential tools. With Pare, developers can focus on their projects while leveraging efficient and scalable infrastructure.
+Dave‑London/Pare is an open‑source suite of developer tools designed specifically for AI agents, offering highly structured and token‑efficient micro‑service control protocol (MCP) servers that handle common development tasks such as Git operations, test execution, npm package management, Docker orchestration, and more. By providing streamlined, agent‑friendly APIs, Pare enables seamless integration of automated workflows into AI‑driven pipelines while reducing latency and resource consumption. It sits at the intersection of AI/ML, backend services, and modern DevTools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/Dave-London/Pare) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Dave-London/Pare) · [← Back to AI/ML](./README.md)</sub>

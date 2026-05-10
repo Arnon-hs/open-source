@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 215 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 216 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agents` `ai-directory` `ai-tools` `anthropic` `artificial-intelligence` `awesome-list` `claude` `claude-ai` `claude-api` `claude-code` `claude-desktop`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the JSONbored/claudepro-directory project:
-
-The JSONbored/claudepro-directory is an open-source project that provides a comprehensive collection of pre-built AI skills, agents, and custom configurations for various agentic workflows and platforms. This searchable directory is designed to enhance the capabilities of tools such as Claude, Codex, and Cursor, facilitating seamless integration and customization. By leveraging this directory, users can easily discover and deploy AI-powered solutions to streamline their workflow.
+HeyClaude (formerly Claude Pro Directory) is an open‑source, searchable repository of ready‑made AI “skills” and configurations—including agents, MCP servers, guides, hooks, statuslines, and other custom setups—to extend the capabilities of Claude, Codex, Cursor, OpenClaw and similar agent‑centric platforms. By centralizing these reusable components, the project streamlines the orchestration of complex AI workflows and lets developers quickly integrate and iterate on advanced agentic features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/JSONbored/claudepro-directory) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/JSONbored/claudepro-directory) · [← Back to Orchestration](./README.md)</sub>

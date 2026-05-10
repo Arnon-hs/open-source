@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 668 |
+| 🍴 **Forks** | 670 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `c-plus-plus-11` `image-processing` `images` `texture` `vfx`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
-OpenImageIO is an open-source project that provides a universal image processing library, enabling reading, writing, and manipulation of various image file formats in a format-agnostic manner. Designed specifically for Visual Effects (VFX) applications, it offers a powerful tool for artists, developers, and researchers alike. With its versatile API, OpenImageIO streamlines image processing tasks across a wide range of file formats.
+OpenImageIO (OSI) is an open‑source library that provides a format‑agnostic API for reading, writing, and manipulating images across a broad range of file types, with a focus on the high‑performance needs of visual effects pipelines. It offers robust image processing utilities, metadata handling, and extensible plug‑in support, making it a versatile backend component for VFX, rendering, and other graphics applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/AcademySoftwareFoundation/OpenImageIO) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AcademySoftwareFoundation/OpenImageIO) · [← Back to Orchestration](./README.md)</sub>

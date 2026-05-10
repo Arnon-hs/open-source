@@ -234,8 +234,8 @@
 | 224 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 225 | Go | 50/100 |
 | 225 | [kazupon/gunshi](./kazupon-gunshi.md) | ⭐ 412 | TypeScript | 49/100 |
 | 226 | [openclaw/goplaces](./openclaw-goplaces.md) | ⭐ 223 | Go | 49/100 |
-| 227 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
-| 228 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
+| 227 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 49/100 |
+| 228 | [VirtusLab/scala-cli](./virtuslab-scala-cli.md) | ⭐ 635 | Scala | 49/100 |
 | 229 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 776 | Swift | 49/100 |
 | 230 | [test-summary/action](./test-summary-action.md) | ⭐ 438 | TypeScript | 49/100 |
 | 231 | [raffis/gitops-zombies](./raffis-gitops-zombies.md) | ⭐ 112 | Go | 48/100 |

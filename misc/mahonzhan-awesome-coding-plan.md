@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 804 |
+| ⭐ **Stars** | 861 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-This project, "awesome-coding-plan", provides a comprehensive comparison of the actual value of coding plans offered by various companies. It aims to help users make informed decisions when choosing a coding plan that suits their needs and budget. By aggregating and analyzing data from multiple sources, this project offers a valuable resource for programmers and enthusiasts alike.
+**awesome-coding-plan** is an open‑source repository that collects and compares the practical value of coding plans from various manufacturers. It provides side‑by‑side assessments, highlighting strengths, weaknesses, and use‑case suitability to help developers choose the most effective plan for their projects. The project is categorized under Miscellaneous and serves as a reference guide for evaluating different coding plan implementations.
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/mahonzhan/awesome-coding-plan) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mahonzhan/awesome-coding-plan) · [← Back to Misc](./README.md)</sub>

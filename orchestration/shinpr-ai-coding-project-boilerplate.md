@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 205 |
+| ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `agentic-ai` `agentic-workflow` `ai-agents` `boilerplate` `claude-code` `developer-tools` `llm-orchestration` `productivity` `quality-gates` `skills` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-This open-source project, 'ai-coding-project-boilerplate', provides a comprehensive TypeScript boilerplate for Claude Code, enabling the development of sub-agent workflows with integrated quality checks. It also includes context engineering capabilities, making it an ideal starting point for building AI and ML projects. This boilerplate is designed to streamline the development process and ensure high-quality coding.
+A lightweight TypeScript boilerplate that lets you build “agentic” coding assistants powered by Claude Code, supporting sub‑agent workflows, automated quality checks, and sophisticated context‑engineering utilities. It streamlines the orchestration of multiple AI agents for front‑end development tasks, providing a ready‑to‑run foundation for creating robust, AI‑augmented coding pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/shinpr/ai-coding-project-boilerplate) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/shinpr/ai-coding-project-boilerplate) · [← Back to Orchestration](./README.md)</sub>

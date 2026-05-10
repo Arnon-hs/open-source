@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 22.1k |
-| 🍴 **Forks** | 909 |
+| 🍴 **Forks** | 910 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`keyboard` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Karabiner-Elements is a robust, open-source utility for macOS that allows users to customize and personalize their keyboard settings. This powerful tool provides a wide range of features and options for remapping keys, creating custom keyboard layouts, and adjusting various keyboard settings to suit individual preferences. By utilizing Karabiner-Elements, users can unlock new levels of keyboard customization and productivity.
+Karabiner-Elements is an open‑source utility that lets macOS users remap keys, create complex keyboard shortcuts, and modify input behavior at a low level. It provides a graphical interface and a flexible JSON‑based configuration system, enabling everything from simple key swaps to sophisticated conditional mappings. The project is actively maintained and works across recent macOS versions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/pqrs-org/Karabiner-Elements) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/pqrs-org/Karabiner-Elements) · [← Back to Misc](./README.md)</sub>

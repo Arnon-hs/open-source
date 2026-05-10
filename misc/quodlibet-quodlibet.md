@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`music` `music-library` `music-player` `python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Quod Libet is an open-source music player and library manager available for Linux, Windows, and macOS. It allows users to efficiently organize their music collections by providing features such as tagging, editing, and searching capabilities. With Quod Libet, users can enjoy a seamless music listening experience while also having control over their music library.
+Quod Libet is a cross‑platform music player and library manager that lets users organize, tag, and browse large collections of audio files with powerful search and playlist features. It supports a wide range of formats on Linux, Windows, and macOS, offers customizable plugins, and provides a clean, scriptable interface for both casual listeners and power users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/quodlibet/quodlibet) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/quodlibet/quodlibet) · [← Back to Misc](./README.md)</sub>

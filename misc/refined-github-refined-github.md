@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 99/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`browser-extension` `chrome-extension` `firefox-addon` `github` `github-extension` `safari-extension` `userstyle`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Refined GitHub is a free, open-source browser extension that enhances the GitHub interface by simplifying and streamlining key features. It offers a range of useful enhancements to improve productivity and navigation on the platform. By installing this extension, users can unlock a more efficient and user-friendly GitHub experience.
+Refined GitHub is a lightweight browser extension that streamlines the GitHub web UI by removing visual clutter, enhancing navigation, and introducing handy shortcuts. It adds a variety of quality‑of‑life features—such as file size display, quick file copy, improved pull‑request handling, and customizable UI tweaks—while keeping the look and feel of GitHub intact. The project is open‑source and community‑maintained, making it easy to contribute or tailor the extension to personal workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/refined-github/refined-github) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/refined-github/refined-github) · [← Back to Misc](./README.md)</sub>

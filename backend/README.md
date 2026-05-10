@@ -233,8 +233,8 @@
 | 223 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
 | 224 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
 | 225 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 50/100 |
-| 226 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 50/100 |
-| 227 | [boykush/scraps](./boykush-scraps.md) | ⭐ 44 | Rust | 50/100 |
+| 226 | [boykush/scraps](./boykush-scraps.md) | ⭐ 44 | Rust | 50/100 |
+| 227 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 50/100 |
 | 228 | [webdown-a/webdown](./webdown-a-webdown.md) | ⭐ 111 | — | 50/100 |
 | 229 | [Apicurio/apicurio-registry](./apicurio-apicurio-registry.md) | ⭐ 803 | Java | 50/100 |
 | 230 | [georgekhananaev/claude-skills-vault](./georgekhananaev-claude-skills-vault.md) | ⭐ 23 | Python | 50/100 |

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 210 |
+| ⭐ **Stars** | 216 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-codeErrorSleep/dbpaw is an open-source, high-performance database client that offers seamless integration with AI assistance, empowering developers to streamline their database interactions. This innovative tool combines speed and efficiency with cutting-edge AI capabilities, making it an essential addition to any data-driven project. By leveraging AI assistance, dbpaw simplifies complex database operations and enhances overall productivity.
+codeErrorSleep/dbpaw is a high‑performance, modern database client that streamlines data access and manipulation across multiple database systems. It offers optional AI‑powered assistance—such as query generation, optimization suggestions, and natural‑language explanations—to help developers work faster and more accurately. Designed for developers and data engineers, the tool combines robust DevTools functionality with intelligent, machine‑learning features for a smoother data workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/codeErrorSleep/dbpaw) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/codeErrorSleep/dbpaw) · [← Back to AI/ML](./README.md)</sub>

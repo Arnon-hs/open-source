@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 206 |
+| 🍴 **Forks** | 208 |
 | 💻 **Language** | C |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`logic-programming` `prolog` `swi-prolog`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-SWI-Prolog/swipl-devel is an open-source project that serves as the main development repository for the SWI-Prolog system. This AI/ML-focused project provides a platform for developing and integrating logic programming, artificial intelligence, and machine learning capabilities. It enables users to contribute to and utilize the latest advancements in the field through its open-source nature.
+SWI‑Prolog’s **swipl-devel** repository houses the active development version of the widely used Prolog environment, providing the latest language features, libraries, and performance enhancements. It serves as the central hub for contributors to implement new AI/ML tools, debugging utilities, and extensions while maintaining compatibility with the stable SWI‑Prolog releases.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/SWI-Prolog/swipl-devel) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/SWI-Prolog/swipl-devel) · [← Back to AI/ML](./README.md)</sub>

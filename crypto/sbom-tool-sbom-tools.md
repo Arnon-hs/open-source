@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 178 |
+| ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`appsec` `cbom` `cryptographic-inventory` `cyber-resilience-act` `cyclonedx` `licence-management` `oss-compliance` `post-quantum-cryptography` `pqc` `sarif` `sbom` `sbom-quality`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
-The sbom-tool/sbom-tools project is an open-source tool that provides comprehensive analysis and quality scoring for software bills of materials (SBOMs) and component bills of materials (CBOMs). It supports CycloneDX and SPDX formats, offering features such as semantic diff, dependency tracking, license conflicts, vulnerability identification, and cryptographic inventory grading. This tool enables developers to assess the security and compliance of their software components.
+sbom‑tool/sbom‑tools is an open‑source utility that compares and scores Software Bill of Materials (SBOM) and Component Bill of Materials (CBOM) in CycloneDX or SPDX formats. It highlights component updates, dependency shifts, license conflicts, known vulnerabilities, and cryptographic inventory quality, and it checks for post‑quantum‑cryptography compliance (CNSA 2.0, NIST IR 8547) through a terminal‑based UI.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/sbom-tool/sbom-tools) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sbom-tool/sbom-tools) · [← Back to Crypto](./README.md)</sub>
