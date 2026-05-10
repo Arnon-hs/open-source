@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 486 |
-| 🍴 **Forks** | 55 |
+| ⭐ **Stars** | 499 |
+| 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `cli` `downloader` `music` `python` `tidal` `tiddl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-This open-source project, titled "oskvr37/tiddl", is a Tidal downloader that enables users to easily download music tracks, videos, albums, playlists, and artists from the Tidal music streaming platform, including high-quality master files. The project's primary focus is on providing a user-friendly and efficient tool for Tidal content extraction. Its open-source nature allows developers to contribute and improve the project's functionality.
+A lightweight, open‑source Tidal downloader that lets users fetch individual tracks, full albums, playlists, videos, and artist collections directly from Tidal, preserving the original master‑quality audio when available. It provides a simple command‑line interface and supports batch operations, making it a handy DevTools utility for archiving and offline listening.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/oskvr37/tiddl) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/oskvr37/tiddl) · [← Back to DevTools](./README.md)</sub>

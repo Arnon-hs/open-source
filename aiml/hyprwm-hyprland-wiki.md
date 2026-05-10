@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 384 |
-| 🍴 **Forks** | 637 |
+| ⭐ **Stars** | 385 |
+| 🍴 **Forks** | 638 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hypr` `hyprland` `wiki`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Hyprland Wiki is an open-source project that provides a centralized platform for documentation related to Hyprland, a desktop environment. This project offers wiki pages that are automatically synced with the official Hyprland website, ensuring users have access to the latest information and resources. By utilizing AI/ML technology, the project aims to facilitate seamless knowledge sharing and collaboration within the Hyprland community.
+Hyprland‑Wiki is an open‑source repository that houses the Markdown source files for the Hyprland window manager’s documentation. The pages are automatically synchronized with the official Hyprland website, ensuring that the online wiki and the version‑controlled source stay in lockstep. This project streamlines contribution, versioning, and continuous deployment of the Hyprland documentation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/hyprwm/hyprland-wiki) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hyprwm/hyprland-wiki) · [← Back to AI/ML](./README.md)</sub>

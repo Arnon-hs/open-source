@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`geospatial-data` `raster` `remote-sensing` `vector`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-GDAL (Geospatial Data Abstraction Library) is an open-source, MIT-licensed library that enables the translation and manipulation of geospatial data formats, including both raster and vector files. It provides a unified interface for working with various spatial data formats, making it a versatile tool for geospatial analysis and processing. GDAL is widely used in various applications, including geographic information systems (GIS), remote sensing, and spatial data analysis.
+GDAL (Geospatial Data Abstraction Library) is a robust, MIT‑licensed open‑source toolkit for reading, writing, and transforming a wide variety of raster and vector geospatial data formats. It provides a unified API and command‑line utilities that enable developers and analysts to efficiently process, reproject, and manipulate spatial datasets across many GIS applications. The project serves as a foundational component in the geospatial software ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/OSGeo/gdal) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/OSGeo/gdal) · [← Back to Data](./README.md)</sub>

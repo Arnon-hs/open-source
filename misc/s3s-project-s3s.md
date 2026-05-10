@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 275 |
-| 🍴 **Forks** | 78 |
+| ⭐ **Stars** | 277 |
+| 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`http` `rust` `s3`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The S3 Service Adapter, or s3s, is an open-source project aimed at facilitating seamless interactions with Amazon S3 services. It acts as a versatile adapter, enabling users to easily integrate S3 functionalities into their applications and workflows. With s3s, developers can streamline data management and storage processes.
+s3s is an open‑source S3 Service Adapter that provides a lightweight, plug‑in compatible layer for interacting with Amazon S3‑compatible storage services. It abstracts common S3 operations—such as bucket management, object upload/download, and permission handling—into a unified API, making it easier to integrate S3 storage into diverse applications and tooling. The project is positioned as a miscellaneous utility for developers needing a simple, extensible bridge to S3‑compatible backends.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/s3s-project/s3s) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/s3s-project/s3s) · [← Back to Misc](./README.md)</sub>

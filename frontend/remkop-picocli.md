@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 460 |
+| 🍴 **Forks** | 462 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`annotations` `ansi` `ansi-colors` `argument-parsing` `autocomplete` `bash-completion` `cli` `cli-framework` `command-line` `command-line-parser` `commandline` `completion`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Picocli is a lightweight, open-source framework for building modern command-line applications. It offers a range of features, including color support, autocompletion, and subcommands, allowing developers to create user-friendly interfaces with ease. Written in Java, Picocli can be used in various programming languages, including Groovy, Kotlin, and Scala.
+Picocli is a lightweight, modern command‑line parsing library that lets developers create feature‑rich, GraalVM‑compatible CLI applications with minimal effort. Packed into a single source file, it supports colors, auto‑completion, subcommands, and works seamlessly with Java, Groovy, Kotlin, Scala, and other JVM languages, allowing projects to embed it directly without adding an external dependency.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/remkop/picocli) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/remkop/picocli) · [← Back to Frontend](./README.md)</sub>

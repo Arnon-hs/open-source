@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-framework` `agent-learning` `agent-runtime` `browsecomp` `environment` `gaia` `mcp` `rl-training` `world-model` `xbench`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-AWorld is an open-source project developed by inclusionAI that aims to simplify the process of searching, understanding, reproducing, and improving ideas using its AI/ML orchestration capabilities. This platform empowers users to efficiently explore, manipulate, and refine concepts with ease, promoting a culture of innovation and knowledge sharing. By streamlining the idea development lifecycle, AWorld facilitates faster discovery and iteration.
+InclusionAI / AWorld is an open‑source platform that streamlines the entire research workflow—from searching for relevant concepts and comprehending their details, to reproducing experiments and iteratively enhancing them. By integrating orchestration tools with AI/ML capabilities, it enables developers and researchers to manage, evaluate, and improve ideas with minimal friction.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/inclusionAI/AWorld) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/inclusionAI/AWorld) · [← Back to Orchestration](./README.md)</sub>

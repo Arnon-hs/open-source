@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 242 |
-| 🍴 **Forks** | 93 |
+| ⭐ **Stars** | 241 |
+| 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-Yellowstone-vixen is an open-source, Solana program parsing toolkit designed to simplify the process of working with Solana programs. This project provides a comprehensive toolset for parsing and interacting with Solana programs, streamlining development and reducing the complexity of program analysis. By utilizing yellowstone-vixen, developers can focus on building robust and efficient solutions for the Solana ecosystem.
+rpcpool/yellowstone‑vixen is an open‑source toolkit for parsing Solana on‑chain programs and their associated data structures. It provides utilities for decoding instruction layouts, account state, and transaction logs, making it easier for developers to analyze, debug, and build tooling around Solana smart contracts. The project is geared toward the crypto community and aims to streamline interaction with Solana’s runtime.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/rpcpool/yellowstone-vixen) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rpcpool/yellowstone-vixen) · [← Back to Crypto](./README.md)</sub>

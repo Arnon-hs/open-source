@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**266 projects** in this category.
+**267 projects** in this category.
 
 ## Projects
 
@@ -270,10 +270,11 @@
 | 260 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
 | 261 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
 | 262 | [orgs/community](./orgs-community.md) | ⭐ — | — | 40/100 |
-| 263 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
-| 264 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 265 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 266 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 263 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 39/100 |
+| 264 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
+| 265 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 266 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 267 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

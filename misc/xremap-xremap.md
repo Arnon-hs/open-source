@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`keyboard-shortcuts` `linux` `wayland` `x11`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The xremap project is an open-source key remapping tool designed for both X11 and Wayland environments. This utility provides users with the ability to customize and remap keyboard keys to suit their specific needs, offering a flexible solution for improving productivity and accessibility. By utilizing xremap, users can create customized key mappings to enhance their overall interaction experience.
+xremap is an open‑source key‑remapping tool that works on both X11 and Wayland environments. It lets users define custom key bindings and modifier behaviors through simple YAML configuration files, enabling complex keyboard customizations without requiring low‑level programming. The project is lightweight, cross‑platform within the Linux graphics stack, and suitable for anyone who wants to tailor their keyboard layout to their workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/xremap/xremap) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/xremap/xremap) · [← Back to Misc](./README.md)</sub>

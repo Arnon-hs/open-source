@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 244 |
+| ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`assembly` `bootloader` `from-scratch` `from-scratch-implementation` `linker` `os` `os-related` `rust-lang` `unix`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-LearnixOS is an open-source operating system designed to facilitate learning and education. Its primary objective is to provide a platform for users to explore and understand the inner workings of an operating system, making it an ideal tool for students and developers. By leveraging LearnixOS, users can gain hands-on experience and develop a deeper understanding of operating system concepts.
+LearnixOS is an experimental, open‑source operating system designed as a hands‑on learning platform for developers and students interested in OS concepts. It provides a minimal yet functional kernel, basic drivers, and a modular framework that encourages users to explore, modify, and extend core system components.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/sagi21805/LearnixOS) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sagi21805/LearnixOS) · [← Back to Misc](./README.md)</sub>
