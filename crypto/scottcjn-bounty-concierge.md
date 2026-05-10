@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 60 |
+| ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto · AI/ML
 
 ## 📝 Summary
 
-The Bounty Concierge is an open-source project that simplifies the process of participating in cryptocurrency bounties for both humans and AI agents. It allows users to browse available bounties, register their wallets, and monitor payouts across platforms, streamlining the engagement process. This project aims to bridge the gap between blockchain enthusiasts and the world of cryptocurrency bounties.
+Scottcjn’s **bounty-concierge** is an open‑source Rust‑based platform that serves as a “concierge” for RustChain bounties, letting both human users and AI agents browse available tasks, register their wallets, and monitor payouts. It streamlines the end‑to‑end bounty workflow—including cross‑platform engagement and automated notifications—making it easier to discover, claim, and fulfill crypto‑linked rewards. The project sits at the intersection of cryptocurrency and AI/ML, providing a unified interface for decentralized incentive programs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Scottcjn/bounty-concierge) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Scottcjn/bounty-concierge) · [← Back to Crypto](./README.md)</sub>

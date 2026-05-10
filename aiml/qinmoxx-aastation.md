@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 70 |
+| ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The AAStation project is an open-source AI agent relay station that enables the development and deployment of artificial intelligence (AI) and machine learning (ML) models. This platform facilitates the seamless communication and collaboration between AI agents, allowing for more efficient and effective AI-driven applications. With AAStation, developers can create and manage AI-powered systems that can learn, adapt, and make decisions in complex environments.
+QinMoXX/AAStation is an open‑source relay hub that enables seamless communication between multiple AI agents, facilitating coordinated task execution and information sharing. By abstracting the complexities of inter‑agent messaging, it provides a scalable framework for building multi‑agent systems in AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/QinMoXX/AAStation) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/QinMoXX/AAStation) · [← Back to AI/ML](./README.md)</sub>

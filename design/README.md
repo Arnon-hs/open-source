@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**16 projects** in this category.
+**17 projects** in this category.
 
 ## Projects
 
@@ -21,9 +21,10 @@
 | 11 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 54/100 |
 | 12 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
 | 13 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 53/100 |
-| 14 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
-| 15 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 49/100 |
-| 16 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
+| 14 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 52/100 |
+| 15 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
+| 16 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 49/100 |
+| 17 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
 
 ---
 

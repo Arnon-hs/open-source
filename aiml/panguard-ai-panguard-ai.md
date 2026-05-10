@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agent` `ai-security` `cybersecurity` `llm-security` `mcp` `open-source` `prompt-injection` `sigma-rules` `threat-detection` `threat-intelligence` `tool-poisoning` `typescript`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project in English:
-
-Panguard-ai is an open-source security platform designed to protect AI agents from potential threats. It conducts thorough audits of AI skills before installation and continuously monitors AI agents 24/7 to identify potential vulnerabilities. Additionally, the platform shares threat intelligence across all users to enhance overall AI security.
+panguard‑ai is an open‑source security platform designed to protect AI agents throughout their lifecycle. It audits an agent’s skills before installation, provides continuous 24/7 monitoring, and aggregates threat intelligence from the community to keep all users informed of emerging risks.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/panguard-ai/panguard-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/panguard-ai/panguard-ai) · [← Back to AI/ML](./README.md)</sub>

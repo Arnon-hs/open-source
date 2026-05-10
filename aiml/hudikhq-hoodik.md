@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 47 |
+| 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`backup` `cloud` `e2e-encryption` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-The hoodik project is an open-source, self-hosted solution for secure data storage, featuring end-to-end encryption. This easy-to-install storage drive provides users with a private and tamper-proof space to store their sensitive files, ensuring confidentiality and peace of mind. By leveraging encryption, hoodik protects users' data from unauthorized access.
+**Hoodik** is an open‑source, self‑hosted storage solution that provides end‑to‑end encryption for all data stored on the drive, making it ideal for secure personal or enterprise use. Designed for ease of installation and management, it combines strong cryptographic safeguards with a straightforward setup process, fitting seamlessly into AI/ML pipelines or any workflow that requires confidential data handling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/hudikhq/hoodik) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/hudikhq/hoodik) · [← Back to AI/ML](./README.md)</sub>

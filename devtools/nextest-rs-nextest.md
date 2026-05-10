@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 156 |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cargo-plugin` `cargo-subcommand` `flaky-tests` `junit` `nextest` `rust` `testing`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Nextest is an open-source, next-generation test runner for Rust, designed to simplify and streamline the testing process. Built with flexibility and performance in mind, it offers a more efficient and user-friendly experience for developers working with Rust. By utilizing advanced features and a modular architecture, Nextest aims to become the go-to test runner for the Rust community.
+nextest is an open‑source, high‑performance test runner for the Rust programming language that replaces the default `cargo test` workflow. It offers faster execution, parallelism across multiple crates, more detailed output, and flexible filtering options, making large Rust codebases easier to test and debug. Designed as a drop‑in replacement, nextest integrates seamlessly with existing Cargo projects while providing advanced DevTools features for developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/nextest-rs/nextest) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/nextest-rs/nextest) · [← Back to DevTools](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 172 |
+| ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`dictionaries` `dictionary` `english-learning` `french-learning` `language-learning` `spanish-learning` `yomichan` `yomitan`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-This open-source project, yomidevs/wiktionary-to-yomitan, leverages Wiktionary data to create dictionaries compatible with Yomitan, a language processing tool. By utilizing Wiktionary's vast repository of words, this project enables the development of comprehensive Yomitan dictionaries. The resulting dictionaries can be used to improve language understanding and processing capabilities within Yomitan applications.
+Yomidevs’ **wiktionary-to-yomitan** project converts raw Wiktionary dumps into dictionary files that can be directly imported into the Yomitan browser extension. By parsing and restructuring multilingual lexical data, it generates Yomitan‑compatible JSON/TSV formats, enabling users to build custom, offline dictionaries for language learning and reference.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/yomidevs/wiktionary-to-yomitan) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/yomidevs/wiktionary-to-yomitan) · [← Back to Data](./README.md)</sub>

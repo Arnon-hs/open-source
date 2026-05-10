@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 197 |
+| ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`benchmark` `guiagent` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the Tongyi-MAI/MobileWorld project:
-
-MobileWorld is an open-source benchmarking platform that evaluates the performance of autonomous mobile agents in interactive environments. This project aims to advance research in artificial intelligence and machine learning by providing a standardized framework for testing agent-user interactions and multi-agent collaborative scenarios. By facilitating reproducible and comparable experiments, MobileWorld facilitates the development of more sophisticated autonomous mobile agents.
+Tongyi‑MAI / MobileWorld is an open‑source benchmark suite that evaluates autonomous mobile agents interacting with human users and with multi‑characteristic perception (MCP)‑augmented environments, as presented in ACL 2026. It provides standardized tasks, datasets, and evaluation metrics for both AI/ML research and frontend integration, enabling systematic comparison of agent navigation, decision‑making, and user‑centric interaction capabilities. The framework is extensible, supporting custom scenarios and real‑time visualisation to accelerate development of robust, user‑friendly mobile AI systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Tongyi-MAI/MobileWorld) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Tongyi-MAI/MobileWorld) · [← Back to AI/ML](./README.md)</sub>

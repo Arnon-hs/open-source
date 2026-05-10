@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `automation` `claude` `cli` `conventional-commits` `developer-tools` `git` `llm` `rust`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The LLM-Git project is an AI-powered commit message generator that utilizes Claude/GPT APIs to provide efficient and conventional commit messages. This tool offers two modes: compose mode for generating commit messages on the fly and history rewrite, allowing users to refactor their commit history with ease. By automating commit message generation, LLM-Git streamlines the development process for software developers.
+can1357/llm-git is an open‑source tool that leverages Claude or GPT APIs to automatically generate commit messages following conventional‑commit standards. It supports both a “compose” mode for drafting new messages and a history‑rewrite mode that retroactively fixes past commits, making it a handy AI‑powered addition to any Git workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/can1357/llm-git) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/can1357/llm-git) · [← Back to AI/ML](./README.md)</sub>

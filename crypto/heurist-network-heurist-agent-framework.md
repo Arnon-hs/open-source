@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 806 |
+| ⭐ **Stars** | 809 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agentic-framework` `ai` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Orchestration · AI/ML
 
 ## 📝 Summary
 
-The Heurist Agent Framework is an open-source, multi-interface AI agent framework that enables the creation of advanced agents with capabilities such as reasoning, tool use, and memory. This flexible framework also supports integration with blockchain technology, Machine Learning (ML) and Cryptocurrency (Crypto) applications, making it suitable for complex and innovative use cases. It aims to provide a comprehensive platform for building and deploying AI agents as a service.
+Heurist Agent Framework is an open‑source, modular platform that lets developers create AI agents capable of sophisticated reasoning, tool integration, persistent memory, deep research, blockchain interactions, and multi‑chain processing (MCP). By exposing a unified multi‑interface API, it supports agents‑as‑a‑service deployments and orchestration across crypto‑focused workflows, making it ideal for building scalable, intelligent automation solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/heurist-network/heurist-agent-framework) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/heurist-network/heurist-agent-framework) · [← Back to Crypto](./README.md)</sub>

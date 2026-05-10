@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 698 |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`functional-programming` `scala` `scala-native` `scalajs` `scalaz`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Scalaz is an open-source project that provides a comprehensive set of functional programming tools and libraries for the Scala programming language. It offers a principled approach to functional programming, enabling developers to write more concise, composable, and maintainable code. With Scalaz, developers can take full advantage of Scala's functional programming capabilities to create robust, scalable, and elegant software systems.
+Scalaz is a comprehensive functional programming library for Scala that provides a rich set of abstractions—such as monads, functors, lenses, and effect systems—to enable principled, type‑safe code. It extends the standard library with powerful combinators, data structures, and type class instances, helping developers write concise, expressive, and highly composable Scala applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/scalaz/scalaz) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/scalaz/scalaz) · [← Back to Misc](./README.md)</sub>

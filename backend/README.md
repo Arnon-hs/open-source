@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**260 projects** in this category.
+**261 projects** in this category.
 
 ## Projects
 
@@ -233,41 +233,42 @@
 | 223 | [av1155/houndarr](./av1155-houndarr.md) | ⭐ 203 | Python | 51/100 |
 | 224 | [cablehead/http-nu](./cablehead-http-nu.md) | ⭐ 129 | Rust | 51/100 |
 | 225 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 50/100 |
-| 226 | [boykush/scraps](./boykush-scraps.md) | ⭐ 44 | Rust | 50/100 |
-| 227 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 50/100 |
+| 226 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 50/100 |
+| 227 | [boykush/scraps](./boykush-scraps.md) | ⭐ 44 | Rust | 50/100 |
 | 228 | [webdown-a/webdown](./webdown-a-webdown.md) | ⭐ 111 | — | 50/100 |
 | 229 | [Apicurio/apicurio-registry](./apicurio-apicurio-registry.md) | ⭐ 803 | Java | 50/100 |
 | 230 | [georgekhananaev/claude-skills-vault](./georgekhananaev-claude-skills-vault.md) | ⭐ 23 | Python | 50/100 |
 | 231 | [Mearman/mcp-wayback-machine](./mearman-mcp-wayback-machine.md) | ⭐ 22 | TypeScript | 50/100 |
 | 232 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 50/100 |
-| 233 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 82 | Rust | 48/100 |
-| 234 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 184 | Rust | 48/100 |
-| 235 | [anthropics/anthropic-cli](./anthropics-anthropic-cli.md) | ⭐ 341 | Go | 48/100 |
-| 236 | [GrahamCampbell/Laravel-GitHub](./grahamcampbell-laravel-github.md) | ⭐ 644 | PHP | 48/100 |
-| 237 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
-| 238 | [bjia56/cosmotop](./bjia56-cosmotop.md) | ⭐ 66 | C++ | 47/100 |
-| 239 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 47/100 |
-| 240 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 47/100 |
-| 241 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
-| 242 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
-| 243 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
-| 244 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 46/100 |
-| 245 | [BenedictKing/ccx](./benedictking-ccx.md) | ⭐ 266 | Go | 46/100 |
-| 246 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 46/100 |
-| 247 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
-| 248 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
-| 249 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
-| 250 | [nietus/anki-mcp](./nietus-anki-mcp.md) | ⭐ 39 | JavaScript | 45/100 |
-| 251 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 44/100 |
-| 252 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
-| 253 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
-| 254 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
-| 255 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
-| 256 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
-| 257 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
-| 258 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
-| 259 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
-| 260 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
+| 233 | [tae0y/real-estate-mcp](./tae0y-real-estate-mcp.md) | ⭐ 346 | Python | 49/100 |
+| 234 | [Epistates/turbomcp](./epistates-turbomcp.md) | ⭐ 82 | Rust | 48/100 |
+| 235 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 184 | Rust | 48/100 |
+| 236 | [anthropics/anthropic-cli](./anthropics-anthropic-cli.md) | ⭐ 341 | Go | 48/100 |
+| 237 | [GrahamCampbell/Laravel-GitHub](./grahamcampbell-laravel-github.md) | ⭐ 644 | PHP | 48/100 |
+| 238 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 48/100 |
+| 239 | [bjia56/cosmotop](./bjia56-cosmotop.md) | ⭐ 66 | C++ | 47/100 |
+| 240 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 47/100 |
+| 241 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 47/100 |
+| 242 | [jkawamoto/mcp-youtube-transcript](./jkawamoto-mcp-youtube-transcript.md) | ⭐ 386 | Python | 47/100 |
+| 243 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 47/100 |
+| 244 | [Dwlad90/stylex-swc-plugin](./dwlad90-stylex-swc-plugin.md) | ⭐ 104 | Rust | 47/100 |
+| 245 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 46/100 |
+| 246 | [BenedictKing/ccx](./benedictking-ccx.md) | ⭐ 266 | Go | 46/100 |
+| 247 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 46/100 |
+| 248 | [GrahamCampbell/Laravel-DigitalOcean](./grahamcampbell-laravel-digitalocean.md) | ⭐ 503 | PHP | 46/100 |
+| 249 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 46/100 |
+| 250 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 222 | Go | 46/100 |
+| 251 | [nietus/anki-mcp](./nietus-anki-mcp.md) | ⭐ 39 | JavaScript | 45/100 |
+| 252 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 44/100 |
+| 253 | [C24Be/AS_Network_List](./c24be-as-network-list.md) | ⭐ 526 | Python | 44/100 |
+| 254 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
+| 255 | [B-M-Capital-Research/honeclaw](./b-m-capital-research-honeclaw.md) | ⭐ 503 | Rust | 44/100 |
+| 256 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
+| 257 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 41/100 |
+| 258 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
+| 259 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 39/100 |
+| 260 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 39/100 |
+| 261 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 39/100 |
 
 ---
 

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.3k |
-| 🍴 **Forks** | 262 |
+| 🍴 **Forks** | 263 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`async` `framework` `http-server` `rust` `salvo` `web`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Design
 
 ## 📝 Summary
 
-Salvo is an open-source web framework that offers a simplified design, making it an ideal choice for developers seeking a powerful yet easy-to-use platform for building web applications. With its streamlined architecture, Salvo enables efficient development and scalable deployment of high-performance web applications. Whether you're building a frontend, backend, or designing a new interface, Salvo provides a versatile foundation for your next project.
+Salvo is a high‑performance, open‑source web framework for Rust that emphasizes a clean, minimalistic architecture while offering powerful routing, middleware, and request‑handling capabilities. Designed for both frontend and backend development, it streamlines API creation and server‑side rendering with a straightforward, extensible design.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/salvo-rs/salvo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/salvo-rs/salvo) · [← Back to Frontend](./README.md)</sub>

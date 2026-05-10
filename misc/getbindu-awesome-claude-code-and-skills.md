@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 99 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 103 |
+| 🍴 **Forks** | 29 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `awesome-list` `claude` `claude-skills` `claue-code`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-GetBindu's awesome-claude-code-and-skills is an open-source collection of Claude skills, providing users with a comprehensive repository of pre-built and customizable code to enhance their AI development capabilities. This project aims to facilitate the creation and sharing of knowledge among developers working with Claude, a cutting-edge AI model. By contributing to this repository, users can accelerate their progress and explore new possibilities in AI development.
+**awesome-claude-code-and-skills** is an open‑source repository that curates a wide range of Claude “Skills”—ready‑to‑use code snippets, prompts, and utilities designed to extend Claude’s capabilities across various tasks. The collection serves as a centralized library for developers and AI enthusiasts looking to integrate, experiment with, or contribute reusable Claude‑specific solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/GetBindu/awesome-claude-code-and-skills) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/GetBindu/awesome-claude-code-and-skills) · [← Back to Misc](./README.md)</sub>

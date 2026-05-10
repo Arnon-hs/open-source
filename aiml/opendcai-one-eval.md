@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 119 |
+| ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `agents` `benchmark` `data` `data-analysis` `data-science` `evaluation` `llm` `llms` `sglang` `vllm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Data
 
 ## 📝 Summary
 
-OpenDCAI/One-Eval is an open-source project that automates Large Language Model (LLM) evaluation using agent-based systems. This innovative platform streamlines the evaluation process, allowing for faster and more efficient assessment of LLM performance across various tasks and metrics. By leveraging agents, One-Eval facilitates comprehensive and objective evaluation of LLMs.
+OpenDCAI / One‑Eval is an open‑source framework that automates the evaluation of large language models by orchestrating specialized evaluation agents. It provides a plug‑and‑play pipeline for defining tasks, running multiple LLMs, collecting metrics, and generating comprehensive reports, streamlining benchmarking and analysis for AI/ML research and development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/OpenDCAI/One-Eval) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/OpenDCAI/One-Eval) · [← Back to AI/ML](./README.md)</sub>

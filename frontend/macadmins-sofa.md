@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 400 |
+| ⭐ **Stars** | 403 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple` `cve` `ios` `macadmins` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile
 
 ## 📝 Summary
 
-SOFA (Simple Organized Feed for Apple Software Updates) is an open-source project designed to help Mac administrators streamline the process of managing Apple software updates. This project provides a centralized feed of Apple software updates, allowing administrators to easily keep their Mac fleets up-to-date and secure. By utilizing SOFA, administrators can simplify their software update management and reduce the risk of vulnerabilities.
+SOFA (Simple Organized Feed for Apple) is an open‑source frontend tool that lets Mac administrators quickly view, filter, and track Apple software updates across their fleet. Built with a mobile‑friendly interface, it aggregates update metadata from Apple’s servers into a clear, searchable feed, simplifying patch management and reporting for macOS and iOS environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/macadmins/sofa) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/macadmins/sofa) · [← Back to Frontend](./README.md)</sub>

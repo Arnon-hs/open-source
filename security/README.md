@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**41 projects** in this category.
+**42 projects** in this category.
 
 ## Projects
 
@@ -49,6 +49,7 @@
 | 39 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 45/100 |
 | 40 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 44/100 |
 | 41 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 43/100 |
+| 42 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
 
 ---
 
