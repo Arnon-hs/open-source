@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 553 |
+| 🍴 **Forks** | 562 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai` `artificial-intelligence` `awesome` `awesome-list` `awesome-lists` `chatgpt` `claude` `claude-skills` `claudecode` `deepseek` `gemini`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-"Awesome-AITools is an open-source collection of AI-related utilities, aiming to simplify and streamline AI development workflows. This project aggregates a variety of useful tools and resources, making it easier for developers to experiment and build AI applications. Contributions are welcome and encouraged to help grow this community-driven repository."
+**Awesome‑AITools** is an open‑source curated collection of practical utilities for artificial intelligence and machine learning, spanning tasks such as model orchestration, data preprocessing, evaluation, and deployment. The repository invites contributors to add new tools, scripts, or resources via pull requests, making it a community‑driven hub for AI‑related workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/ikaijua/Awesome-AITools) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ikaijua/Awesome-AITools) · [← Back to Orchestration](./README.md)</sub>

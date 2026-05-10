@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 307 |
+| ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`alpha-beta` `chess` `chess-ai` `chess-engine` `nnue` `rust` `uci`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Reckless is an open-source, competitive chess engine developed in Rust, designed to provide a robust and efficient platform for chess analysis and gameplay. Utilizing advanced algorithms and AI techniques, Reckless is engineered to deliver high-quality moves and strategies, making it a valuable tool for chess enthusiasts and programmers alike. By pushing the boundaries of chess engine capabilities, Reckless fosters innovation and improvement in the world of artificial intelligence and machine learning.
+Reckless is an open‑source, high‑performance chess engine built in Rust, designed for competitive play and AI research. Leveraging Rust’s safety and concurrency features, the project implements advanced search algorithms, evaluation functions, and parallel processing to deliver strong, reliable gameplay. It serves as a modern, extensible platform for developers exploring artificial intelligence and machine‑learning techniques in board game engines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/codedeliveryservice/Reckless) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/codedeliveryservice/Reckless) · [← Back to AI/ML](./README.md)</sub>

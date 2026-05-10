@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 904 |
+| ⭐ **Stars** | 906 |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csharp` `e164` `java-source` `libphonenumber` `phone-number` `phonenumbers`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The twcclegg/libphonenumber-csharp project is a C# implementation of the popular libphonenumber library, providing a robust and accurate solution for working with international phone numbers. It allows developers to parse, format, and validate phone numbers in a variety of formats and regions. This open-source library is a useful tool for any application requiring international phone number handling.
+twcclegg/libphonenumber-csharp is an open‑source C# implementation of Google’s libphonenumber library, providing comprehensive parsing, formatting, and validation of international phone numbers. It mirrors the functionality of the original Java/JavaScript project, enabling .NET developers to handle phone‑number operations reliably across platforms.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/twcclegg/libphonenumber-csharp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/twcclegg/libphonenumber-csharp) · [← Back to Misc](./README.md)</sub>

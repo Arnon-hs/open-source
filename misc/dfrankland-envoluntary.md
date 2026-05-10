@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the dfrankland/envoluntary project:
-
-envoluntary is an open-source project that automates the creation of Nix development environments for your shell. This tool streamlines the process of setting up and managing development environments, making it easier to work on various projects in isolation. By utilizing Nix, envoluntary ensures reproducible and reliable environments for your development needs.
+dfrankland/envoluntary provides a lightweight tool that automatically generates Nix-based development environments tailored to the needs of your current shell session. By detecting the commands you run and the dependencies they require, it creates reproducible, on‑the‑fly Nix shells without manual configuration, simplifying setup for any project. The project is open‑source and useful for developers who want hassle‑free, consistent environments across machines.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/dfrankland/envoluntary) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/dfrankland/envoluntary) · [← Back to Misc](./README.md)</sub>

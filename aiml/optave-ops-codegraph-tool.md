@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42 |
+| ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `architecture` `ci-cd` `cli` `code-analysis` `code-quality` `codeowners` `complexity-metrics` `dependency-graph` `impact-analysis` `incremental-builds` `mcp-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-optave/ops-codegraph-tool is an open-source, fully local code intelligence CLI that provides a function-level dependency graph across 11 languages. This tool integrates with a 30-tool MCP server for AI agents, offering complexity metrics, architecture boundary enforcement, and CI quality gates, ensuring seamless collaboration between developers and AI systems. With features like git diff impact analysis and hybrid semantic search, it enhances code quality and maintainability.
+optave/ops-codegraph-tool is a command‑line utility that builds function‑level dependency graphs for codebases in 11 programming languages, providing complexity metrics, architecture‑boundary enforcement, and CI quality gates. It also includes a 30‑tool multi‑component server for AI agents, git‑diff impact analysis with co‑change detection, and hybrid semantic search—all running locally without any external API keys.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/optave/ops-codegraph-tool) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/optave/ops-codegraph-tool) · [← Back to AI/ML](./README.md)</sub>

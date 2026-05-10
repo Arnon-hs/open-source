@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -19,6 +19,7 @@
 | 9 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 52/100 |
 | 10 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 43/100 |
 | 11 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
+| 12 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 39/100 |
 
 ---
 

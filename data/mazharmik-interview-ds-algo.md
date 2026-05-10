@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algorithms` `algorithms-and-data-structures` `coding-interviews` `companies-list` `data-structures` `interview-ds-algo` `leetcode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-MAZHARMIK/Interview_DS_Algo is an open-source repository designed to aid in coding interview preparation, providing a comprehensive resource for data structures and algorithms. This super repository offers a wide range of coding challenges and interview materials to help individuals improve their problem-solving skills. By utilizing this repository, users can enhance their knowledge and confidence in tackling complex coding interview questions.
+MAZHARMIK/Interview_DS_Algo is a comprehensive, open‑source repository designed to help users prepare for coding interviews. It aggregates a wide range of data structures, algorithms, and problem‑solving resources—complete with explanations, code snippets, and practice questions—to provide a one‑stop toolkit for interview readiness.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/MAZHARMIK/Interview_DS_Algo) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/MAZHARMIK/Interview_DS_Algo) · [← Back to Data](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 122 |
-| 🍴 **Forks** | 12 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai21` `anthropic` `chatgpt` `chatgpt-api` `claude` `cloudflare-ai` `cohere` `gemini` `gooseai` `groq` `huggingface`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The samestrin/llm-interface is an open-source project that provides a simple and unified interface for interacting with a wide range of Large Language Model (LLM) providers. This NPM interface currently supports 36 LLM providers, including industry leaders like OpenAI and Google Gemini, and offers seamless access to hundreds of models. By standardizing interactions with LLMs, the project aims to simplify development and accelerate the adoption of AI/ML technologies.
+samestrin/llm‑interface is a lightweight NPM library that provides a unified, plug‑and‑play API for calling over 36 LLM providers—including OpenAI, Anthropic, Google Gemini, Cohere, Hugging Face Inference, NVIDIA AI, Mistral AI, AI21 Studio, LLaMA.CPP, Ollama, and many others—without having to manage provider‑specific request formats. The package abstracts authentication, model selection, and response handling, allowing developers to integrate a wide range of language models into backend services with minimal code. It’s ideal for AI/ML applications that need flexible, multi‑provider LLM access.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/samestrin/llm-interface) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/samestrin/llm-interface) · [← Back to AI/ML](./README.md)</sub>

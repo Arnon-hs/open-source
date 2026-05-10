@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 470 |
+| ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-PowerShell/DSC is an open-source project that focuses on the development of the DSC (Desired State Configuration) v3 project. It enables users to manage and configure various system settings across multiple devices through PowerShell, helping to achieve and maintain a consistent and compliant state. This project provides a flexible and scalable solution for infrastructure management and automation.
+PowerShell/DSC is the open‑source repository for the third version of Desired State Configuration (DSC), Microsoft's declarative management platform for Windows and cross‑platform environments. The project provides the core DSC engine, resource modules, and tooling needed to define, deploy, and maintain system configurations as code. It serves as a central hub for contributions, issue tracking, and documentation of DSC v3 features.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/PowerShell/DSC) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PowerShell/DSC) · [← Back to Misc](./README.md)</sub>

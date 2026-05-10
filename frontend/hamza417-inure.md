@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 88 |
+| 🍴 **Forks** | 89 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `android-app` `android-application` `animations` `app` `c` `interface` `java` `kotlin` `manager` `mvvm` `root`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Data · Mobile
 
 ## 📝 Summary
 
-Inure is a comprehensive, open-source Android app manager that offers a range of advanced features, including root and Shizuku support, a built-in terminal, analytics, and debloating capabilities. Developed with a custom UI design, Inure features a highly customizable theme engine and includes additional tools such as virus scanning and system statistics. This versatile app is designed to provide users with a streamlined experience for managing their Android device.
+Hamza417/Inure is a premium‑grade Android app manager that combines a sleek, custom‑designed UI with powerful features such as root and Shizuku integration, a built‑in terminal, analytics, VirusTotal scanning, debloating tools, usage statistics, and a flexible theme engine. The project emphasizes reproducible builds and pure custom UI design, making it a comprehensive solution for advanced mobile app management.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Hamza417/Inure) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Hamza417/Inure) · [← Back to Frontend](./README.md)</sub>

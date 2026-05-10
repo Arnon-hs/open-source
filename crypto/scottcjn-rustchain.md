@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 269 |
-| 🍴 **Forks** | 250 |
+| 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-economy` `ai` `ai-agents` `blockchain` `cryptocurrency` `decentralized` `depin` `e-waste` `green-computing` `hardware-fingerprinting` `machine-to-machine` `micropayments`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · Payments · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the Rustchain open-source project:
-
-Rustchain is a proof-of-antiquity blockchain that rewards old, vintage hardware with mining power. Leveraging AI-powered hardware fingerprinting and supporting over 15 CPU architectures, the network outmines newer machines, creating a unique incentive for preserving older technology. This decentralized, open-source ecosystem is built on a Solana bridge with WebRTC (wRTC) integration and has been developed without any venture capital investment.
+Scottcjn / Rustchain is an open‑source DePIN platform that creates a “Proof‑of‑Antiquity” blockchain where vintage computers and legacy CPU architectures actually out‑mine newer hardware. It uses AI‑driven hardware fingerprinting to verify thousands of old machines (supporting 15+ CPU families), links to Solana via a wRTC bridge, and operates without venture‑capital funding. The project targets crypto‑based payments and AI/ML integration for a novel, retro‑centric mining ecosystem.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Scottcjn/Rustchain) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Scottcjn/Rustchain) · [← Back to Crypto](./README.md)</sub>

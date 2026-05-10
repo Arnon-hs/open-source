@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Brooooooklyn/Image is an open-source image processing library designed to provide developers with a comprehensive set of tools for manipulating and analyzing digital images. This library offers a wide range of functionalities, from basic image transformations to advanced processing techniques, allowing users to customize and enhance their image data. With its open-source nature, Brooooooklyn/Image facilitates collaboration and adaptation in various fields, including computer vision, artificial intelligence, and graphics.
+Brooooooklyn/Image is an open‑source C++ library that provides a lightweight, extensible framework for common image‑processing tasks such as loading, saving, filtering, and pixel manipulation. It abstracts away low‑level details while offering a clean API that can be integrated into graphics applications, scientific visualisation tools, or any project that needs fast, cross‑platform image handling.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/Brooooooklyn/Image) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Brooooooklyn/Image) · [← Back to Misc](./README.md)</sub>

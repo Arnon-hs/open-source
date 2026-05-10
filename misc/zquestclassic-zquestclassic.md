@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 529 |
+| ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `game-development` `game-engine` `open-source` `zelda-like`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-ZQuest Classic is an open-source game engine designed for creating top-down, 8-bit style games reminiscent of the classic NES Zelda series. This engine allows developers to create and share their own nostalgic-style games with ease, using a user-friendly interface and a range of customization options. By leveraging the power of open-source software, ZQuest Classic fosters a community-driven approach to game development.
+ZQuest Classic is an open‑source game engine that lets developers design and play titles reminiscent of the original NES *The Legend of Zelda*. It provides a full suite of tools—including a map editor, scripting language, and asset pipeline—to create retro‑style action‑adventure games without needing proprietary software. The project is community‑driven and licensed for free use and modification.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/ZQuestClassic/ZQuestClassic) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ZQuestClassic/ZQuestClassic) · [← Back to Misc](./README.md)</sub>

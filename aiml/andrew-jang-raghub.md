@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 160 |
+| 🍴 **Forks** | 161 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `large-language-models` `llm` `machine-learning` `natural-language-processing` `nlp` `open-source` `rag` `retrieval-augmented-generation`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-RAGHub is an open-source initiative that serves as a centralized repository for Retrieval-Augmented Generation (RAG) frameworks, projects, and resources. This community-driven platform provides a collaborative space for developers to contribute and explore the rapidly evolving RAG ecosystem. By pooling knowledge and expertise, RAGHub aims to accelerate innovation in AI/ML research and applications.
+Andrew‑Jang/RAGHub is a community‑maintained repository that aggregates a wide range of Retrieval‑Augmented Generation (RAG) frameworks, projects, and learning resources in a single, searchable collection. It invites developers and researchers to contribute new tools, tutorials, and benchmarks, helping the RAG ecosystem evolve collaboratively. The hub serves as a practical starting point for anyone looking to explore, compare, or extend state‑of‑the‑art RAG solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Andrew-Jang/RAGHub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Andrew-Jang/RAGHub) · [← Back to AI/ML](./README.md)</sub>

@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.1k |
+| ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blueteam` `discovery` `emails` `information-gathering` `osint` `python` `recon` `reconnaissance` `redteam` `subdomain-enumeration`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-theHarvester is an open-source OSINT tool that harvests email addresses, subdomains, and names from various sources. This AI/ML powered tool enables users to gather valuable information for reconnaissance, threat intelligence, or cybersecurity purposes. By leveraging its capabilities, users can efficiently gather and analyze data to inform their security strategies or investigations.
+ltheHarvester is an open‑source OSINT (Open Source Intelligence) tool that automates the gathering of email addresses, subdomains, hostnames, and other publicly available information about a target domain. It queries a wide range of public data sources—search engines, certificate transparency logs, social media, and specialized APIs—to quickly compile comprehensive contact and infrastructure lists for security assessments, penetration testing, or threat‑intel research. Although primarily a reconnaissance utility, its modular design allows easy integration with AI/ML workflows for automated analysis and enrichment of the harvested data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/laramies/theHarvester) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/laramies/theHarvester) · [← Back to AI/ML](./README.md)</sub>

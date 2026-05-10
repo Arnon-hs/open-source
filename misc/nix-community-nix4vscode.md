@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 124 |
+| ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`nix` `vscode`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The nix-community/nix4vscode project provides a Visual Studio Code (VS Code) extension that integrates Nix, a package manager for Linux and other Unix-like systems, into the popular code editor. This extension allows users to easily manage Nix-based projects within VS Code, streamlining their workflow and improving productivity. By leveraging Nix's powerful package management capabilities, developers can now harness its benefits directly within their favorite code editor.
+Nix4VSCode is an open‑source extension that brings full Nix language support to Visual Studio Code, enabling features such as syntax highlighting, code completion, diagnostics, and integration with the Nix package manager. It streamlines development of Nix expressions and flake configurations directly within the editor, improving productivity for both newcomers and experienced Nix users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/nix-community/nix4vscode) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/nix-community/nix4vscode) · [← Back to Misc](./README.md)</sub>

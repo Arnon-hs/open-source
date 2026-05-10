@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47 |
-| 🍴 **Forks** | 20 |
+| ⭐ **Stars** | 51 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`2026` `agent-frameworks` `ai-agents` `ai-tools` `autonomous-agents` `awesome` `awesome-list` `crewai` `langchain` `llm` `llm-agents`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"Awesome AI Agents for 2026 is an open-source project that aims to provide a comprehensive collection of the latest and most effective AI and machine learning (ML) agents. This project focuses on orchestration and offers a centralized hub for developers to discover, explore, and integrate cutting-edge AI solutions. By leveraging this repository, users can accelerate their AI development journey and stay up-to-date with the latest advancements in the field."
+A curated collection of more than 300 AI agents, frameworks, and code samples for 2026, spanning creative, voice, research, and enterprise use‑cases. It offers detailed comparison guides, benchmark results, and deep‑dive analyses to help developers choose and orchestrate the right AI tools. The repository is organized around orchestration, AI/ML, and frontend integration, making it a go‑to resource for building and evaluating modern AI‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [← Back to Orchestration](./README.md)</sub>
