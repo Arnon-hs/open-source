@@ -1,6 +1,6 @@
 # jamescherti/minimal-emacs.d
 
-[![Stars](https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=flat-square&color=yellow)](https://github.com/jamescherti/minimal-emacs.d/stargazers) [![Forks](https://img.shields.io/github/forks/jamescherti/minimal-emacs.d?style=flat-square&color=blue)](https://github.com/jamescherti/minimal-emacs.d/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=flat-square&color=yellow)](https://github.com/jamescherti/minimal-emacs.d/stargazers) [![Forks](https://img.shields.io/github/forks/jamescherti/minimal-emacs.d?style=flat-square&color=blue)](https://github.com/jamescherti/minimal-emacs.d/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 783 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ This open-source project, minimal-emacs.d, provides a customizable foundation fo
 
 ### 中文
 
-jamescherti/minimal-emacs.d：jamescherti/minimal-emacs.d may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jamescherti/minimal-emacs.d：jamescherti/minimal-emacs.d may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jamescherti/minimal-emacs.d：jamescherti/minimal-emacs.d may be useful when its
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jamescherti/minimal-emacs.d：jamescherti/minimal-emacs.d may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 70/100 |
+| outlook | 71/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

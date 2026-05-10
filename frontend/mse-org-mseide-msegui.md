@@ -1,6 +1,6 @@
 # mse-org/mseide-msegui
 
-[![Stars](https://img.shields.io/github/stars/mse-org/mseide-msegui?style=flat-square&color=yellow)](https://github.com/mse-org/mseide-msegui/stargazers) [![Forks](https://img.shields.io/github/forks/mse-org/mseide-msegui?style=flat-square&color=blue)](https://github.com/mse-org/mseide-msegui/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mse-org/mseide-msegui?style=flat-square&color=yellow)](https://github.com/mse-org/mseide-msegui/stargazers) [![Forks](https://img.shields.io/github/forks/mse-org/mseide-msegui?style=flat-square&color=blue)](https://github.com/mse-org/mseide-msegui/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MSEide is a Rapid Application Development IDE for platform independent rich GUI applications in the Pascal language. It comes with its own GUI toolkit called MSEgui. Binaries: https://github.com/mse-org/mseide-msegui/releases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ mse-org/mseide-msegui：mse-org/mseide-msegui helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

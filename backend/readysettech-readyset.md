@@ -1,6 +1,6 @@
 # readysettech/readyset
 
-[![Stars](https://img.shields.io/github/stars/readysettech/readyset?style=flat-square&color=yellow)](https://github.com/readysettech/readyset/stargazers) [![Forks](https://img.shields.io/github/forks/readysettech/readyset?style=flat-square&color=blue)](https://github.com/readysettech/readyset/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/readysettech/readyset?style=flat-square&color=yellow)](https://github.com/readysettech/readyset/stargazers) [![Forks](https://img.shields.io/github/forks/readysettech/readyset?style=flat-square&color=blue)](https://github.com/readysettech/readyset/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ReadySet - это открытое исходное решение, предна
 
 ### 中文
 
-readysettech/readyset：readysettech/readyset helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+readysettech/readyset：readysettech/readyset helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ readysettech/readyset：readysettech/readyset helps teams reuse service infrastr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ readysettech/readyset：readysettech/readyset helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 70/100 |
+| outlook | 75/100 |
 | adoption | 72/100 |
 | stars | 79/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

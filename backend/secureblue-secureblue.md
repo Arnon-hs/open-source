@@ -1,6 +1,6 @@
 # secureblue/secureblue
 
-[![Stars](https://img.shields.io/github/stars/secureblue/secureblue?style=flat-square&color=yellow)](https://github.com/secureblue/secureblue/stargazers) [![Forks](https://img.shields.io/github/forks/secureblue/secureblue?style=flat-square&color=blue)](https://github.com/secureblue/secureblue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/secureblue/secureblue?style=flat-square&color=yellow)](https://github.com/secureblue/secureblue/stargazers) [![Forks](https://img.shields.io/github/forks/secureblue/secureblue?style=flat-square&color=blue)](https://github.com/secureblue/secureblue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A security-focused desktop and server linux operating system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 943 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ secureblue/secureblue：secureblue/secureblue helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 68/100 |
+| production | 65/100 |
+| outlook | 61/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

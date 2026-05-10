@@ -1,6 +1,6 @@
 # mkiser/WTFJHT
 
-[![Stars](https://img.shields.io/github/stars/mkiser/WTFJHT?style=flat-square&color=yellow)](https://github.com/mkiser/WTFJHT/stargazers) [![Forks](https://img.shields.io/github/forks/mkiser/WTFJHT?style=flat-square&color=blue)](https://github.com/mkiser/WTFJHT/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkiser/WTFJHT?style=flat-square&color=yellow)](https://github.com/mkiser/WTFJHT/stargazers) [![Forks](https://img.shields.io/github/forks/mkiser/WTFJHT?style=flat-square&color=blue)](https://github.com/mkiser/WTFJHT/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Logging the daily shock and awe in national politics. Read in moderation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 666 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ mkiser/WTFJHT：mkiser/WTFJHT helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

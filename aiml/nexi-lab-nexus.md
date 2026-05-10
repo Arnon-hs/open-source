@@ -1,6 +1,6 @@
 # nexi-lab/nexus
 
-[![Stars](https://img.shields.io/github/stars/nexi-lab/nexus?style=flat-square&color=yellow)](https://github.com/nexi-lab/nexus/stargazers) [![Forks](https://img.shields.io/github/forks/nexi-lab/nexus?style=flat-square&color=blue)](https://github.com/nexi-lab/nexus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nexi-lab/nexus?style=flat-square&color=yellow)](https://github.com/nexi-lab/nexus/stargazers) [![Forks](https://img.shields.io/github/forks/nexi-lab/nexus?style=flat-square&color=blue)](https://github.com/nexi-lab/nexus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Nexus, the shared heartbeat where every agent and human connect, collaborate, and evolve together.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ nexi-lab/nexus：nexi-lab/nexus helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 42/100 |
 | stars | 50/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

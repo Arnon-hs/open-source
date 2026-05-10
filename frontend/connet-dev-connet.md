@@ -1,6 +1,6 @@
 # connet-dev/connet
 
-[![Stars](https://img.shields.io/github/stars/connet-dev/connet?style=flat-square&color=yellow)](https://github.com/connet-dev/connet/stargazers) [![Forks](https://img.shields.io/github/forks/connet-dev/connet?style=flat-square&color=blue)](https://github.com/connet-dev/connet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/connet-dev/connet?style=flat-square&color=yellow)](https://github.com/connet-dev/connet/stargazers) [![Forks](https://img.shields.io/github/forks/connet-dev/connet?style=flat-square&color=blue)](https://github.com/connet-dev/connet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Connet is an open-source, peer-to-peer reverse proxy that facilitates NAT traver
 
 ### 中文
 
-connet-dev/connet：connet-dev/connet helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+connet-dev/connet：connet-dev/connet helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ connet-dev/connet：connet-dev/connet helps ship user-facing interfaces with les
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ connet-dev/connet：connet-dev/connet helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 50/100 |
 | stars | 58/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

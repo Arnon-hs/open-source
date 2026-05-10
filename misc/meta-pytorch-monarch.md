@@ -1,6 +1,6 @@
 # meta-pytorch/monarch
 
-[![Stars](https://img.shields.io/github/stars/meta-pytorch/monarch?style=flat-square&color=yellow)](https://github.com/meta-pytorch/monarch/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/monarch?style=flat-square&color=blue)](https://github.com/meta-pytorch/monarch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-pytorch/monarch?style=flat-square&color=yellow)](https://github.com/meta-pytorch/monarch/stargazers) [![Forks](https://img.shields.io/github/forks/meta-pytorch/monarch?style=flat-square&color=blue)](https://github.com/meta-pytorch/monarch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > PyTorch Single Controller
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ meta-pytorch/monarch：meta-pytorch/monarch may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

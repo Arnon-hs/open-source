@@ -1,6 +1,6 @@
 # intellij-dlanguage/intellij-dlanguage
 
-[![Stars](https://img.shields.io/github/stars/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=yellow)](https://github.com/intellij-dlanguage/intellij-dlanguage/stargazers) [![Forks](https://img.shields.io/github/forks/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=blue)](https://github.com/intellij-dlanguage/intellij-dlanguage/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=yellow)](https://github.com/intellij-dlanguage/intellij-dlanguage/stargazers) [![Forks](https://img.shields.io/github/forks/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=blue)](https://github.com/intellij-dlanguage/intellij-dlanguage/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Intellij Plugin for the D Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | D |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ intellij-dlanguage/intellij-dlanguage：intellij-dlanguage/intellij-dlanguage ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 67/100 |
+| outlook | 65/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

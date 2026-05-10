@@ -1,6 +1,6 @@
 # RediSearch/RediSearch
 
-[![Stars](https://img.shields.io/github/stars/RediSearch/RediSearch?style=flat-square&color=yellow)](https://github.com/RediSearch/RediSearch/stargazers) [![Forks](https://img.shields.io/github/forks/RediSearch/RediSearch?style=flat-square&color=blue)](https://github.com/RediSearch/RediSearch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RediSearch/RediSearch?style=flat-square&color=yellow)](https://github.com/RediSearch/RediSearch/stargazers) [![Forks](https://img.shields.io/github/forks/RediSearch/RediSearch?style=flat-square&color=blue)](https://github.com/RediSearch/RediSearch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | C |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ RediSearch - это мощный модуль для Redis, предоставл
 
 ### 中文
 
-RediSearch/RediSearch：RediSearch/RediSearch helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+RediSearch/RediSearch：RediSearch/RediSearch helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ RediSearch/RediSearch：RediSearch/RediSearch helps convert raw data into search
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ RediSearch/RediSearch：RediSearch/RediSearch helps convert raw data into search
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

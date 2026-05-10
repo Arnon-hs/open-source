@@ -1,6 +1,6 @@
 # B-M-Capital-Research/honeclaw
 
-[![Stars](https://img.shields.io/github/stars/B-M-Capital-Research/honeclaw?style=flat-square&color=yellow)](https://github.com/B-M-Capital-Research/honeclaw/stargazers) [![Forks](https://img.shields.io/github/forks/B-M-Capital-Research/honeclaw?style=flat-square&color=blue)](https://github.com/B-M-Capital-Research/honeclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/B-M-Capital-Research/honeclaw?style=flat-square&color=yellow)](https://github.com/B-M-Capital-Research/honeclaw/stargazers) [![Forks](https://img.shields.io/github/forks/B-M-Capital-Research/honeclaw?style=flat-square&color=blue)](https://github.com/B-M-Capital-Research/honeclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > HoneClaw (Hone-Financial) is dedicated to being a professional investment assistant that truly understands you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ B-M-Capital-Research/honeclaw：B-M-Capital-Research/honeclaw helps teams reuse 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

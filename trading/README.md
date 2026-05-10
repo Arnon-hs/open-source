@@ -47,15 +47,15 @@
 | 37 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 66/100 |
 | 38 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.4k | TypeScript | 65/100 |
 | 39 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 65/100 |
-| 40 | [vllm-project/llm-compressor](./vllm-project-llm-compressor.md) | ⭐ 3.2k | Python | 65/100 |
-| 41 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 346 | Python | 65/100 |
-| 42 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 65/100 |
-| 43 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 64/100 |
-| 44 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 64/100 |
-| 45 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 63/100 |
-| 46 | [bitsandbytes-foundation/bitsandbytes](./bitsandbytes-foundation-bitsandbytes.md) | ⭐ 8.2k | Python | 63/100 |
-| 47 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 624 | Python | 63/100 |
-| 48 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 62/100 |
+| 40 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 346 | Python | 65/100 |
+| 41 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 65/100 |
+| 42 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 64/100 |
+| 43 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 64/100 |
+| 44 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 63/100 |
+| 45 | [bitsandbytes-foundation/bitsandbytes](./bitsandbytes-foundation-bitsandbytes.md) | ⭐ 8.2k | Python | 63/100 |
+| 46 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 624 | Python | 63/100 |
+| 47 | [quic/aimet](./quic-aimet.md) | ⭐ 2.6k | Python | 62/100 |
+| 48 | [vllm-project/llm-compressor](./vllm-project-llm-compressor.md) | ⭐ 3.2k | Python | 62/100 |
 | 49 | [sstklen/trump-code](./sstklen-trump-code.md) | ⭐ 746 | Python | 62/100 |
 | 50 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 62/100 |
 | 51 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 312 | Rust | 62/100 |

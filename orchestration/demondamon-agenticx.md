@@ -1,6 +1,6 @@
 # DemonDamon/AgenticX
 
-[![Stars](https://img.shields.io/github/stars/DemonDamon/AgenticX?style=flat-square&color=yellow)](https://github.com/DemonDamon/AgenticX/stargazers) [![Forks](https://img.shields.io/github/forks/DemonDamon/AgenticX?style=flat-square&color=blue)](https://github.com/DemonDamon/AgenticX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DemonDamon/AgenticX?style=flat-square&color=yellow)](https://github.com/DemonDamon/AgenticX/stargazers) [![Forks](https://img.shields.io/github/forks/DemonDamon/AgenticX?style=flat-square&color=blue)](https://github.com/DemonDamon/AgenticX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ AgenticX - это единственная, готовая к использов
 
 ### 中文
 
-DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 100/100 |
-| production | 82/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

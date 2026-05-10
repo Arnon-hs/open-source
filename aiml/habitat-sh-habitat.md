@@ -1,6 +1,6 @@
 # habitat-sh/habitat
 
-[![Stars](https://img.shields.io/github/stars/habitat-sh/habitat?style=flat-square&color=yellow)](https://github.com/habitat-sh/habitat/stargazers) [![Forks](https://img.shields.io/github/forks/habitat-sh/habitat?style=flat-square&color=blue)](https://github.com/habitat-sh/habitat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/habitat-sh/habitat?style=flat-square&color=yellow)](https://github.com/habitat-sh/habitat/stargazers) [![Forks](https://img.shields.io/github/forks/habitat-sh/habitat?style=flat-square&color=blue)](https://github.com/habitat-sh/habitat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Modern applications with built-in automation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 316 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Habitat is an open-source project that enables the development of modern applica
 
 ### 中文
 
-habitat-sh/habitat：habitat-sh/habitat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+habitat-sh/habitat：habitat-sh/habitat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ habitat-sh/habitat：habitat-sh/habitat helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ habitat-sh/habitat：habitat-sh/habitat helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 70/100 |
+| outlook | 77/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

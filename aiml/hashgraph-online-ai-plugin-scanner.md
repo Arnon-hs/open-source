@@ -1,6 +1,6 @@
 # hashgraph-online/ai-plugin-scanner
 
-[![Stars](https://img.shields.io/github/stars/hashgraph-online/ai-plugin-scanner?style=flat-square&color=yellow)](https://github.com/hashgraph-online/ai-plugin-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/ai-plugin-scanner?style=flat-square&color=blue)](https://github.com/hashgraph-online/ai-plugin-scanner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashgraph-online/ai-plugin-scanner?style=flat-square&color=yellow)](https://github.com/hashgraph-online/ai-plugin-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/hashgraph-online/ai-plugin-scanner?style=flat-square&color=blue)](https://github.com/hashgraph-online/ai-plugin-scanner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Security and best-practices scanner for AI Plugins, covering Codex, Claude, Opencode, Gemini & more. Scores trust for plugins 0-100.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ hashgraph-online/ai-plugin-scanner - независимый проект, пре
 
 ### 中文
 
-hashgraph-online/ai-plugin-scanner：hashgraph-online/ai-plugin-scanner helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hashgraph-online/ai-plugin-scanner：hashgraph-online/ai-plugin-scanner helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ hashgraph-online/ai-plugin-scanner：hashgraph-online/ai-plugin-scanner helps ad
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ hashgraph-online/ai-plugin-scanner：hashgraph-online/ai-plugin-scanner helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 94/100 |
-| production | 81/100 |
-| outlook | 81/100 |
+| production | 75/100 |
+| outlook | 74/100 |
 | adoption | 43/100 |
 | stars | 53/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
