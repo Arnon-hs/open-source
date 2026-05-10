@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 183 |
+| ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript` `nodejs` `package-manager` `rust` `yarn`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The yarnpkg/zpm project is the future development trunk for Yarn, a popular package manager for JavaScript developers. This open-source repository serves as a central hub for ongoing development and innovation in Yarn, driving advancements in package management and dependency resolution. By contributing to zpm, developers can help shape the future of Yarn and improve the overall developer experience.
+The **yarnpkg/zpm** repository serves as the experimental development trunk for Yarn, the popular JavaScript package manager. It houses ongoing, cutting‑edge changes and prototype features that are not yet part of the stable Yarn releases, allowing contributors to test, review, and iterate on future functionality. This project is maintained as an open‑source sandbox for Yarn’s evolution.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/yarnpkg/zpm) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/yarnpkg/zpm) · [← Back to Misc](./README.md)</sub>

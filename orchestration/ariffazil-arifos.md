@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 43 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agi` `ai` `ai-agents` `ai-governance` `ai-safety` `claude-code` `constitutional-ai` `fastmcp` `governance` `guardrails` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-ArifOS is an open-source project that enables governed AI execution through its Constitutional MCP (Multi-Party Computation) kernel. This kernel is built on the AAA architecture, consisting of Architect, Auditor, and Agent components, to ensure transparency and accountability in AI decision-making processes. By embracing the open-source agentic era, ArifOS facilitates the orchestration and development of secure and trustworthy AI/ML systems.
+ArifOS is an open‑source, constitutional micro‑kernel designed to govern AI execution through a three‑role AAA architecture—Architect, Auditor, and Agent. It provides a lightweight, extensible framework for orchestrating and safely managing autonomous agents in the emerging agentic AI ecosystem, while offering front‑end integrations for monitoring and control.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ariffazil/arifos) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ariffazil/arifos) · [← Back to Orchestration](./README.md)</sub>

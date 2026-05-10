@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 262 |
+| ⭐ **Stars** | 267 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-AIBuildAI is an open-source project that leverages AI automation to build AI models, ranking #1 on the OpenAI MLE-Bench. This innovative tool empowers developers to streamline the AI model creation process, unlocking efficient and accelerated development. By harnessing the power of AI, AIBuildAI aims to revolutionize the field of artificial intelligence and machine learning.
+AIBuildAI is an open‑source AI agent that automates the end‑to‑end creation of machine‑learning models, handling tasks such as data preprocessing, architecture selection, training, and deployment with minimal human intervention. Ranked #1 on the OpenAI MLE‑Bench leaderboard, it provides a user‑friendly frontend for configuring experiments and visualizing results, making AI model development faster and more accessible.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/aibuildai/AI-Build-AI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/aibuildai/AI-Build-AI) · [← Back to AI/ML](./README.md)</sub>

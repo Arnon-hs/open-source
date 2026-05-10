@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
+| ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `jellyfin` `maintainerr` `maintenance` `movies` `plex` `plex-media-server` `radarr` `seerr` `sonarr` `tv-series` `tv-shows`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Maintainerr is an open-source library maintenance tool designed for Plex and Jellyfin. It provides an alternative to traditional maintenance approaches, offering a unique set of features to simplify library management. This tool aims to provide a more efficient and user-friendly experience for media server administrators.
+Maintainerr is an open‑source automation tool that helps you keep your Plex or Jellyfin media libraries tidy by identifying and removing unwanted or duplicate items. Inspired by the look and feel of Seerr but working in reverse, it scans your collection, flags stale or low‑quality content, and provides easy actions to delete or archive it. Ideal for media server admins, the project blends backend logic with DevOps‑style workflows to simplify ongoing library maintenance.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Maintainerr/Maintainerr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Maintainerr/Maintainerr) · [← Back to AI/ML](./README.md)</sub>

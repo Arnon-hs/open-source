@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `beginner-friendly` `command-line` `concurrency` `developer-experience` `domain-driven-design` `event-sourcing` `functional-programming` `haskell` `mobile` `neohaskell` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-NeoHaskell is an open-source project that aims to make Haskell more accessible and productive for newcomers. As a dialect of the Haskell programming language, NeoHaskell prioritizes ease of use and efficiency, making it a valuable tool for developers interested in AI, machine learning, and design. This project promotes a more streamlined learning experience for Haskell, enabling users to focus on their projects with reduced complexity.
+NeoHaskell is an open‑source dialect of Haskell designed to be especially approachable for newcomers while boosting developer productivity. It offers a streamlined syntax and tooling that lower the learning curve of functional programming, making it suitable for AI/ML experimentation, general development, and rapid prototyping. The project targets both beginners and experienced Haskell users who want a more user‑friendly, modern development experience.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/neohaskell/NeoHaskell) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/neohaskell/NeoHaskell) · [← Back to AI/ML](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**130 projects** in this category.
+**132 projects** in this category.
 
 ## Projects
 
@@ -81,63 +81,65 @@
 | 71 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.3k | Rust | 60/100 |
 | 72 | [sudheerj/datastructures-algorithms](./sudheerj-datastructures-algorithms.md) | ⭐ 753 | Python | 59/100 |
 | 73 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 1.7k | PHP | 59/100 |
-| 74 | [gaarason/database-all](./gaarason-database-all.md) | ⭐ 1.1k | Java | 58/100 |
-| 75 | [mmastrac/linktime](./mmastrac-linktime.md) | ⭐ 988 | Rust | 58/100 |
-| 76 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
-| 77 | [oxigraph/oxigraph](./oxigraph-oxigraph.md) | ⭐ 1.7k | Rust | 57/100 |
-| 78 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 737 | Python | 57/100 |
-| 79 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 864 | Perl | 57/100 |
-| 80 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
-| 81 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
-| 82 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
-| 83 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 56/100 |
-| 84 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 817 | Rust | 56/100 |
-| 85 | [taglib/taglib](./taglib-taglib.md) | ⭐ 1.4k | C++ | 56/100 |
-| 86 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 514 | C | 56/100 |
-| 87 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
-| 88 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
-| 89 | [Zeugma440/atldotnet](./zeugma440-atldotnet.md) | ⭐ 554 | C# | 55/100 |
-| 90 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 428 | PHP | 55/100 |
-| 91 | [duggytuxy/Data-Shield_IPv4_Blocklist](./duggytuxy-data-shield-ipv4-blocklist.md) | ⭐ 576 | — | 55/100 |
-| 92 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
-| 93 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
-| 94 | [apache/sedona-db](./apache-sedona-db.md) | ⭐ 450 | Rust | 54/100 |
-| 95 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 392 | Rust | 53/100 |
-| 96 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 435 | Rust | 53/100 |
-| 97 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 53/100 |
-| 98 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
-| 99 | [yomidevs/wiktionary-to-yomitan](./yomidevs-wiktionary-to-yomitan.md) | ⭐ 173 | Rust | 52/100 |
-| 100 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 657 | JavaScript | 52/100 |
-| 101 | [exercism/problem-specifications](./exercism-problem-specifications.md) | ⭐ 351 | Ruby | 52/100 |
-| 102 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
-| 103 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
-| 104 | [SteamDeckHomebrew/decky-plugin-database](./steamdeckhomebrew-decky-plugin-database.md) | ⭐ 316 | Shell | 51/100 |
-| 105 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 51/100 |
-| 106 | [mjaakko/NeoStumbler](./mjaakko-neostumbler.md) | ⭐ 445 | Kotlin | 50/100 |
-| 107 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 108 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 162 | Rust | 49/100 |
-| 109 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 48/100 |
-| 110 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
-| 111 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 159 | Rust | 47/100 |
-| 112 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 47/100 |
-| 113 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 235 | Rust | 47/100 |
-| 114 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 47/100 |
-| 115 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
-| 116 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
-| 117 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 45/100 |
-| 118 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 45/100 |
-| 119 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
-| 120 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
-| 121 | [fluree/db](./fluree-db.md) | ⭐ 377 | Rust | 43/100 |
-| 122 | [krumjahn/applehealth](./krumjahn-applehealth.md) | ⭐ 396 | Python | 43/100 |
-| 123 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
-| 124 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
-| 125 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
-| 126 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 41/100 |
-| 127 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 39/100 |
-| 128 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
-| 129 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
-| 130 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
+| 74 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 58/100 |
+| 75 | [gaarason/database-all](./gaarason-database-all.md) | ⭐ 1.1k | Java | 58/100 |
+| 76 | [mmastrac/linktime](./mmastrac-linktime.md) | ⭐ 988 | Rust | 58/100 |
+| 77 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 605 | PHP | 58/100 |
+| 78 | [oxigraph/oxigraph](./oxigraph-oxigraph.md) | ⭐ 1.7k | Rust | 57/100 |
+| 79 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 737 | Python | 57/100 |
+| 80 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 864 | Perl | 57/100 |
+| 81 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 57/100 |
+| 82 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 57/100 |
+| 83 | [soot-oss/SootUp](./soot-oss-sootup.md) | ⭐ 785 | Java | 57/100 |
+| 84 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 56/100 |
+| 85 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 817 | Rust | 56/100 |
+| 86 | [taglib/taglib](./taglib-taglib.md) | ⭐ 1.4k | C++ | 56/100 |
+| 87 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 514 | C | 56/100 |
+| 88 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 56/100 |
+| 89 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 725 | Python | 56/100 |
+| 90 | [Zeugma440/atldotnet](./zeugma440-atldotnet.md) | ⭐ 554 | C# | 55/100 |
+| 91 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 428 | PHP | 55/100 |
+| 92 | [duggytuxy/Data-Shield_IPv4_Blocklist](./duggytuxy-data-shield-ipv4-blocklist.md) | ⭐ 576 | — | 55/100 |
+| 93 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 611 | Rust | 55/100 |
+| 94 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 55/100 |
+| 95 | [apache/sedona-db](./apache-sedona-db.md) | ⭐ 450 | Rust | 54/100 |
+| 96 | [ormsgpack/ormsgpack](./ormsgpack-ormsgpack.md) | ⭐ 392 | Rust | 53/100 |
+| 97 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 435 | Rust | 53/100 |
+| 98 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 53/100 |
+| 99 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 231 | Rust | 53/100 |
+| 100 | [yomidevs/wiktionary-to-yomitan](./yomidevs-wiktionary-to-yomitan.md) | ⭐ 173 | Rust | 52/100 |
+| 101 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 657 | JavaScript | 52/100 |
+| 102 | [exercism/problem-specifications](./exercism-problem-specifications.md) | ⭐ 351 | Ruby | 52/100 |
+| 103 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 52/100 |
+| 104 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
+| 105 | [SteamDeckHomebrew/decky-plugin-database](./steamdeckhomebrew-decky-plugin-database.md) | ⭐ 316 | Shell | 51/100 |
+| 106 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 51/100 |
+| 107 | [mjaakko/NeoStumbler](./mjaakko-neostumbler.md) | ⭐ 445 | Kotlin | 50/100 |
+| 108 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 109 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 162 | Rust | 49/100 |
+| 110 | [datafusion-contrib/datafusion-distributed](./datafusion-contrib-datafusion-distributed.md) | ⭐ 101 | Rust | 48/100 |
+| 111 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 48/100 |
+| 112 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 48/100 |
+| 113 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 159 | Rust | 47/100 |
+| 114 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 47/100 |
+| 115 | [JanKaul/iceberg-rust](./jankaul-iceberg-rust.md) | ⭐ 235 | Rust | 47/100 |
+| 116 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 47/100 |
+| 117 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 47/100 |
+| 118 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 46/100 |
+| 119 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 45/100 |
+| 120 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 45/100 |
+| 121 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 44/100 |
+| 122 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 44/100 |
+| 123 | [fluree/db](./fluree-db.md) | ⭐ 377 | Rust | 43/100 |
+| 124 | [krumjahn/applehealth](./krumjahn-applehealth.md) | ⭐ 396 | Python | 43/100 |
+| 125 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 43/100 |
+| 126 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
+| 127 | [AdrianEddy/telemetry-parser](./adrianeddy-telemetry-parser.md) | ⭐ 264 | Rust | 42/100 |
+| 128 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 41/100 |
+| 129 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 39/100 |
+| 130 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 39/100 |
+| 131 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 39/100 |
+| 132 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 39/100 |
 
 ---
 

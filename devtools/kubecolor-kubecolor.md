@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bash` `cli` `kubectl` `kubectl-plugins` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Kubecolor is an open-source project that enhances the user experience of kubectl commands by adding colorization to the output. This colorized output improves readability and simplifies the process of interpreting complex command-line results. By streamlining kubectl output, Kubecolor helps developers and DevOps professionals work more efficiently with Kubernetes.
+kubecolor is an open‑source command‑line tool that adds syntax highlighting and color formatting to the output of `kubectl`, making Kubernetes resource information easier to read and debug. It works as a drop‑in replacement, automatically detecting the terminal’s capabilities and supporting common `kubectl` sub‑commands, custom columns, and JSON/YAML output. Ideal for developers and operators, kubecolor improves visibility in DevTools and DevOps workflows without requiring any changes to existing scripts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/kubecolor/kubecolor) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kubecolor/kubecolor) · [← Back to DevTools](./README.md)</sub>

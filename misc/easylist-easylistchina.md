@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 351 |
+| ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The easylist/easylistchina project is an open-source repository containing ad-blocking filter lists in various languages, including a dedicated Chinese list ("easylistchina"). This collection of filter lists helps users block unwanted advertisements and malicious content across different web browsers and platforms. By contributing to this project, developers can improve the effectiveness of ad-blocking solutions for global users.
+EasyList China is an open‑source, community‑maintained filter list that blocks advertisements, tracking scripts, and other unwanted content on Chinese websites. It extends the popular EasyList project with region‑specific rules, keeping browsers and ad‑blocking extensions effective for users browsing the Chinese internet. The repository provides regularly updated rule sets and documentation for contributors.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/easylist/easylistchina) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/easylist/easylistchina) · [← Back to Misc](./README.md)</sub>

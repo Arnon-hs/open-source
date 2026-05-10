@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 74 |
+| ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`acp` `agent` `ai` `claude` `claudecode` `codex` `cursor` `developer-tools` `ide` `open-source` `opencode` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The acepe project is an open-source, agentic developer environment designed to streamline workflows by orchestrating various AI-powered tools, including Claude, Codex, Copilot, Cursor, and Opencode. This platform aims to enhance developer productivity by providing a centralized interface to utilize these tools in a seamless and efficient manner. By integrating these AI/ML capabilities, acepe enables developers to automate and accelerate their coding processes.
+flazouh/acepe is an open‑source Agentic Developer Environment that lets developers seamlessly orchestrate multiple AI coding assistants—including Claude, Codex, GitHub Copilot, Cursor, and Opencode—within a single, unified workspace. By providing a plug‑in architecture and workflow automation tools, ACEPE streamlines code generation, review, and iteration, boosting productivity for AI‑augmented software development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/flazouh/acepe) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/flazouh/acepe) · [← Back to AI/ML](./README.md)</sub>

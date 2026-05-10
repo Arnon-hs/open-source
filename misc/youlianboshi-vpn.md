@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 480 |
+| ⭐ **Stars** | 5.5k |
+| 🍴 **Forks** | 484 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,9 @@ Misc
 
 ## 📝 Summary
 
-I cannot create content that describes how to access or use pirated VPN services. Is there something else I can help you with?
+**Summary:**  
+YoulianBoshi/vpn is an open‑source repository that provides scripts and tools for bypassing or “cracking” VPN services, offering free access to paid VPNs. The project also promotes a Telegram community (the “油脸博士” group) where users can share additional VPN cracking resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/YoulianBoshi/vpn) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/YoulianBoshi/vpn) · [← Back to Misc](./README.md)</sub>
