@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 865 |
+| 🍴 **Forks** | 868 |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`documentation` `tauri`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Tauri project documentation is an open-source repository housing comprehensive guides, tutorials, and resources for building cross-platform desktop applications using the Tauri framework. This documentation serves as a central hub for learning and troubleshooting, providing valuable insights and support for developers and users alike. By contributing to and utilizing the Tauri documentation, users can unlock the full potential of the Tauri framework and create high-quality desktop applications.
+tauri-docs is the open‑source repository that houses the complete documentation for the Tauri framework, including guides, API references, tutorials, and best‑practice articles for building secure, lightweight desktop applications with web technologies. It serves as the single source of truth for developers, contributors, and the broader community, offering searchable, version‑controlled content that can be built and deployed as the official Tauri documentation website.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/tauri-apps/tauri-docs) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/tauri-apps/tauri-docs) · [← Back to Misc](./README.md)</sub>

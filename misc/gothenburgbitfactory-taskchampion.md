@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`rust` `task-tracking` `taskwarrior`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-TaskChampion is an open-source, personal task-tracking library designed to help users manage their tasks and objectives effectively. This library provides a simple, yet powerful framework for creating and organizing tasks, allowing users to track progress and stay on top of their goals. By utilizing TaskChampion, individuals can streamline their workflow and improve productivity.
+GothenburgBitFactory / taskchampion is an open‑source, cross‑platform library that provides a robust, SQLite‑backed data model for personal task management. It offers a clean API for creating, updating, querying, and syncing tasks, making it easy for developers to build feature‑rich to‑do applications or integrate task‑tracking functionality into existing software.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/GothenburgBitFactory/taskchampion) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/GothenburgBitFactory/taskchampion) · [← Back to Misc](./README.md)</sub>

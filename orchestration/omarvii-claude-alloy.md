@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 100 |
+| ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-orchestration` `agentic-coding` `agents` `ai` `ai-agents` `anthropic` `automation` `claude` `claude-code` `claude-code-plugin` `developer-tools` `llm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
-OMARVII/claude-alloy is an open-source project that provides a 14-agent orchestration harness for Claude Code. This pure configuration-based solution does not require a runtime or wrapper, making it a lightweight and efficient tool for managing AI/ML workflows. It is designed to simplify the orchestration process, allowing developers to focus on their core tasks without the complexity of additional infrastructure.
+OMARVII/claude-alloy is a lightweight, configuration‑only framework that orchestrates up to 14 Claude‑based agents to work together on code‑related tasks. By eliminating any runtime dependencies or wrapper code, it lets developers define complex multi‑agent workflows entirely through declarative settings, making integration and scaling simple for AI‑enhanced development pipelines.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/OMARVII/claude-alloy) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/OMARVII/claude-alloy) · [← Back to Orchestration](./README.md)</sub>

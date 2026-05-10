@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25 |
+| ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arabic` `claude` `claude-desktop` `hebrew` `patch` `rtl`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-The claude-desktop-rtl-patch project provides an open-source CSS patch that enables right-to-left (RTL) support for Hebrew and Arabic languages in Claude Desktop, a windows version of the AI-powered desktop application. This patch allows users to seamlessly navigate and interact with the interface in languages that read from right to left. By contributing to this project, users can enhance the accessibility and usability of Claude Desktop for users who speak these languages.
+The **claude-desktop-rtl-patch** provides a simple CSS modification that adds right‑to‑left (RTL) layout support to the Windows version of Claude Desktop, making the interface usable for Hebrew, Arabic, and other RTL languages. By injecting the patch into Claude’s UI, users can seamlessly switch to an RTL view without altering the core application code. This lightweight, open‑source fix is targeted at developers and end‑users who need multilingual front‑end support for AI tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/shraga100/claude-desktop-rtl-patch) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/shraga100/claude-desktop-rtl-patch) · [← Back to AI/ML](./README.md)</sub>

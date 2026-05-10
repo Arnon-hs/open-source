@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `llm` `security` `static-analysis` `vulnerability-detection`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Security
 
 ## 📝 Summary
 
-Parsentry is an open-source security scan orchestrator designed specifically for AI Agents. This tool enables AI developers to efficiently manage and automate security scanning processes, ensuring the integrity and trustworthiness of their agents. By leveraging Parsentry, AI teams can streamline their security workflows and maintain a robust defense against potential threats.
+HikaruEgashira/parsentry is an open‑source orchestrator that coordinates security scans performed by AI agents, streamlining vulnerability detection and remediation across diverse environments. It provides a modular framework for defining scan pipelines, managing agent communication, and aggregating results, making it easier to integrate AI‑driven security testing into existing workflows. The project targets both AI/ML and security practitioners seeking automated, scalable threat‑assessment solutions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/HikaruEgashira/parsentry) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/HikaruEgashira/parsentry) · [← Back to AI/ML](./README.md)</sub>

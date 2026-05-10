@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 409 |
+| ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`args` `argument` `argv` `cli` `option`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools
 
 ## 📝 Summary
 
-Gunshi is a modern JavaScript command-line library designed to simplify the development of CLI tools and applications. This open-source project provides a robust and flexible framework for building console-based interfaces, making it an ideal choice for developers seeking to create efficient and user-friendly command-line experiences. With Gunshi, users can focus on writing application logic without worrying about the complexities of command-line interaction.
+Gunshi is a modern JavaScript library designed to simplify the creation of command‑line interfaces. It provides a clean, expressive API for defining commands, options, and arguments, handling parsing, validation, and help generation out of the box. Ideal for developers building robust CLI tools, Gunshi streamlines development while remaining lightweight and fully open‑source.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/kazupon/gunshi) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kazupon/gunshi) · [← Back to DevTools](./README.md)</sub>

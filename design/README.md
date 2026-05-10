@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**14 projects** in this category.
+**15 projects** in this category.
 
 ## Projects
 
@@ -21,7 +21,8 @@
 | 11 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 54/100 |
 | 12 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 53/100 |
 | 13 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 52/100 |
-| 14 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
+| 14 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 49/100 |
+| 15 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 39/100 |
 
 ---
 

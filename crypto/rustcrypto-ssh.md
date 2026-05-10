@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 225 |
-| 🍴 **Forks** | 51 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Crypto
 
 ## 📝 Summary
 
-The RustCrypto/SSH project provides a complete, open-source implementation of the Secure Shell (SSH) protocol in Rust, offering a secure and customizable solution for cryptographic operations. This implementation includes various components of the SSH protocol, making it a valuable resource for developers and organizations seeking to integrate secure remote access and data transfer capabilities into their systems. By leveraging Rust's performance and security features, this project enables the creation of robust and reliable SSH connections.
+RustCrypto/SSH is a pure‑Rust library that implements key components of the Secure Shell (SSH) protocol, including key exchange, encryption, authentication, and channel handling. Designed for safety and performance, it provides developers with a modern, memory‑safe alternative for building SSH clients and servers without relying on external C dependencies. The project is part of the RustCrypto ecosystem and focuses on cryptographic correctness and extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/RustCrypto/SSH) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/RustCrypto/SSH) · [← Back to Crypto](./README.md)</sub>

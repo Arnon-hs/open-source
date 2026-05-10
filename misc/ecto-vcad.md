@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 339 |
+| ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 43/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The ecto/vcad project is an open-source implementation of a BRep (Boundary Representation) CAD (Computer-Aided Design) kernel in Rust, designed to run on both native platforms and in web browsers via WebAssembly (WASM). This kernel provides a robust framework for creating and manipulating 3D models. By leveraging the Rust programming language, it aims to offer a fast, safe, and efficient solution for CAD applications.
+Ecto/vcad is an open‑source BRep (boundary‑representation) CAD kernel written in Rust and compiled to WebAssembly, enabling high‑performance geometric modeling directly in web environments. It provides a robust foundation for creating, editing, and querying solid models, while leveraging Rust’s safety and speed. The project is positioned as a versatile, cross‑platform CAD toolkit for developers and researchers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/ecto/vcad) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ecto/vcad) · [← Back to Misc](./README.md)</sub>

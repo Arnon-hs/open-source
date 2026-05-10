@@ -2,22 +2,22 @@
 
 [![Stars](https://img.shields.io/github/stars/mlhher/late-cli?style=flat-square&color=yellow)](https://github.com/mlhher/late-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mlhher/late-cli?style=flat-square&color=blue)](https://github.com/mlhher/late-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
-> Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that actively degrade LLM reasoning.
+> Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 261 |
-| 🍴 **Forks** | 23 |
+| ⭐ **Stars** | 276 |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai-agent` `ai-coding-assistant` `cli` `coding-agent` `developer-tools` `golang` `llm` `llm-orchestration` `mcp` `skills` `terminal`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
-The late-cli project is an open-source tool designed to efficiently manage and orchestrate AI development teams, leveraging a cutting-edge AI coding agent that can operate on as little as 5GB of VRAM. This innovative solution aims to reduce costs associated with large language model token wrappers and preserve the reasoning capabilities of large language models. By utilizing ephemeral context and exact-match diffs, late-cli enables streamlined AI development processes.
+mlhher/late-cli is a lightweight, single‑binary tool that lets you run a full AI development team on a machine with just 5 GB of VRAM. It creates temporary sub‑agents, generates exact‑match diffs, and eliminates context bloat, while supporting any model without external dependencies. Ideal for orchestrating AI/ML workflows and front‑end prototypes in a zero‑setup environment.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/mlhher/late-cli) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mlhher/late-cli) · [← Back to Orchestration](./README.md)</sub>

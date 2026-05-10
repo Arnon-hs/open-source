@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 71 |
+| 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`diagram` `network` `proxmox-ve` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary for the Pouzor/homelable open-source project:
-
-Pouzor/homelable is an open-source, self-hosted tool that visualizes and monitors your homelab infrastructure in real-time. This interactive network diagram provides a detailed overview of your network topology, allowing you to easily track the status of your servers, devices, and connections. With homelable, you can simplify the management and troubleshooting of your homelab infrastructure.
+Pouzor/homelable is a self‑hosted tool that visualizes your homelab infrastructure as an interactive network diagram, displaying real‑time status and health metrics for each node. It integrates with common monitoring endpoints to provide live updates, making it easy to spot issues and understand topology at a glance. Ideal for DevOps and infrastructure teams looking to centralize visibility of their on‑prem resources.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/Pouzor/homelable) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Pouzor/homelable) · [← Back to DevOps & Infra](./README.md)</sub>

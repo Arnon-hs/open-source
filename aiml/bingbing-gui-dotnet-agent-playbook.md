@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
+| ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
-
-This open-source project, dotnet-agent-playbook, is a practical repository focused on .NET + AI Agent development, covering web, cloud-native, and microservices scenarios. It aims to facilitate the engineering and implementation of intelligent applications. By leveraging .NET and AI technologies, this project enables developers to build scalable and efficient smart applications.
+The **bingbing-gui/dotnet-agent-playbook** is an open‑source, hands‑on repository that demonstrates how to build AI‑powered agents with .NET across web, cloud‑native, and micro‑service environments. It provides practical code samples, architectural patterns, and deployment guides to help developers engineer intelligent applications from concept to production.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/bingbing-gui/dotnet-agent-playbook) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/bingbing-gui/dotnet-agent-playbook) · [← Back to AI/ML](./README.md)</sub>

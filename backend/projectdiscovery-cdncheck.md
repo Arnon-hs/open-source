@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 959 |
+| ⭐ **Stars** | 962 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `cdn` `cli` `cname` `detection` `lib` `technology`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the projectdiscovery/cdncheck open-source project:
-
-cdncheck is an open-source utility that helps detect various technologies and services associated with a given IP address. It provides a comprehensive view of the online presence of an IP, including content delivery networks (CDNs), cloud services, and other digital infrastructure. This tool is useful for security researchers, network administrators, and developers who need to identify and investigate online presence.
+projectdiscovery/cdncheck is an open‑source command‑line utility that scans a target IP address to identify the CDN, WAF, DNS, and other infrastructure technologies it’s using. It aggregates data from multiple public sources and fingerprinting techniques, providing quick, reliable detection for security researchers and DevOps teams. The tool is lightweight, easy to integrate into automated workflows, and is actively maintained as part of the ProjectDiscovery suite.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/projectdiscovery/cdncheck) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/projectdiscovery/cdncheck) · [← Back to Backend](./README.md)</sub>

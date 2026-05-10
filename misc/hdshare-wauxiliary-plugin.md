@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 763 |
-| 🍴 **Forks** | 97 |
+| ⭐ **Stars** | 767 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`plugin` `wauxiliary` `wauxv` `wechat`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The HdShare/WAuxiliary_Plugin is an open-source WeChat auxiliary plugin. It provides users with additional functionalities and features to enhance their WeChat experience. This plugin is designed to be user-friendly, customizable, and compatible with a wide range of WeChat versions.
+HdShare/WAuxiliary_Plugin is an open‑source WeChat Auxiliary Plugin that extends the functionality of the WeChat desktop client. It provides additional tools—such as message automation, enhanced media handling, and customizable shortcuts—to improve user productivity and streamline everyday communication tasks. The plugin is lightweight, cross‑platform, and released under a permissive license for community contributions.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/HdShare/WAuxiliary_Plugin) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/HdShare/WAuxiliary_Plugin) · [← Back to Misc](./README.md)</sub>

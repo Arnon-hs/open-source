@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-FastLED/FastLED is a promising open-source project. Categories: Frontend. Interest score: 90/100.
+FastLED is an open‑source Arduino library that simplifies the creation of vivid, high‑performance color animations on addressable LED strips and matrices. It provides a rich set of functions for color manipulation, timing, and effects while keeping the code lightweight and hardware‑agnostic. Community support is handled on the FastLED Reddit, with GitHub issues reserved exclusively for bug reports and feature requests.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/FastLED/FastLED) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/FastLED/FastLED) · [← Back to Frontend](./README.md)</sub>
