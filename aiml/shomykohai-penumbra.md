@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 298 |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 304 |
+| 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bootloader-unlock` `firmware-update` `mediatek` `mtk` `mtkclient` `mtkv6`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Penumbra is an open-source, Rust-based MTK (MediaTek) flash tool designed to facilitate the flashing of firmware on MediaTek devices. This project aims to provide a user-friendly and efficient solution for developers and enthusiasts working with MediaTek hardware. By utilizing Rust, Penumbra offers a secure and reliable alternative to traditional flash tools.
+shomykohai/penumbra is an open‑source flashing utility for MediaTek (MTK) devices, built entirely in Rust for speed, safety, and cross‑platform compatibility. It provides a command‑line interface that streamlines firmware installation, partition management, and low‑level device communication, making it a reliable dev‑tool for hardware developers and enthusiasts.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/shomykohai/penumbra) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/shomykohai/penumbra) · [← Back to AI/ML](./README.md)</sub>

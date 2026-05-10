@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `ffmpeg` `golang` `jellyfin` `mediabrowser` `netflix` `next` `plex` `python` `react-native` `self-hosted`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Mobile · DevOps/Infra
 
 ## 📝 Summary
 
-Kyoo is an open-source, portable media library solution that offers a comprehensive and vast collection of media content. This versatile project can be integrated into various platforms, including frontend and mobile applications, and is designed to be easily managed and maintained with DevOps/Infra tools. Kyoo provides a reliable and efficient media library solution for users to access and enjoy their favorite content.
+Kyoo is an open‑source, cross‑platform media library that lets users organize, browse, and stream their collections from any device. Built with a responsive frontend, native mobile apps, and container‑ready DevOps tooling, it provides a scalable, self‑hosted solution for managing vast media libraries.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/zoriya/Kyoo) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/zoriya/Kyoo) · [← Back to Frontend](./README.md)</sub>

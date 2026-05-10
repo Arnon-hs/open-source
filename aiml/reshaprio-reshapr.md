@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-tools` `ai-agents` `ai-gateway` `ai-infrastructure` `ai-integration` `ai-native` `context-optimization` `context-window` `developer-tools` `graphql-to-mcp` `grpc` `llm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the reshaprio/reshapr project:
-
-Reshapr is an open-source, no-code MCP (Model Collaboration Protocol) Server that enables seamless AI-native API access. This innovative tool streamlines the collaboration process between AI models, allowing developers to focus on building and integrating AI-powered applications. By leveraging Reshapr, developers can unlock the full potential of AI in their projects with ease and efficiency.
+Reshaprio/Reshapr is an open‑source, no‑code MCP (Micro‑Control Plane) server that provides a unified, AI‑native API gateway for accessing and managing various AI services. It lets developers and non‑technical users expose, orchestrate, and monitor AI/ML models through a simple backend interface without writing code, streamlining integration and deployment in AI‑driven applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/reshaprio/reshapr) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/reshaprio/reshapr) · [← Back to AI/ML](./README.md)</sub>

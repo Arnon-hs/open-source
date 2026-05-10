@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 168 |
+| 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cfg` `decoder` `decompiler` `disassembler` `eth` `ethereum` `evm` `rust` `security` `solidity` `toolkit` `yul`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · Security
 
 ## 📝 Summary
 
-Heimdall is an open-source, advanced EVM smart contract toolkit designed to analyze bytecode and extract valuable information from unverified contracts. This powerful tool offers enhanced security and functionality for developers working with Ethereum-based smart contracts. By leveraging Heimdall, users can gain deeper insights into contract behavior and improve the overall security of their blockchain applications.
+Heimdall is an open‑source Rust toolkit for deep analysis of Ethereum Virtual Machine (EVM) bytecode, enabling developers and security researchers to dissect, interpret, and extract useful metadata from unverified smart contracts. It provides a collection of utilities for parsing, decompiling, and querying contract bytecode, helping users identify vulnerabilities, understand contract behavior, and integrate EVM insights into broader security workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Jon-Becker/heimdall-rs) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Jon-Becker/heimdall-rs) · [← Back to Crypto](./README.md)</sub>

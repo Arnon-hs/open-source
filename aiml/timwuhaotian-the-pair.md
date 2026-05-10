@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 342 |
+| ⭐ **Stars** | 336 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `ai-agents` `claude-code` `codex` `codex-cli` `coding` `gemini` `glm` `gpt` `kimi` `minimax`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Pair is an open-source project that utilizes AI agents for automated pair programming, enabling developers to work alongside virtual colleagues. This tool allows for code review and cross-checking while the developer takes a break, promoting efficiency and accuracy. By leveraging AI-driven collaboration, The Pair aims to facilitate a more streamlined and stress-free coding experience.
+The Pair is an open‑source tool that enables automated pair programming by running two AI agents side‑by‑side to generate, review, and cross‑check code in real time—so developers can “grab a coffee” while the agents collaborate on the same task. It streamlines code creation and quality assurance, making AI‑assisted development faster and more reliable for any language or framework.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/timwuhaotian/the-pair) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/timwuhaotian/the-pair) · [← Back to AI/ML](./README.md)</sub>

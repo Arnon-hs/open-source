@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 603 |
-| 🍴 **Forks** | 47 |
+| ⭐ **Stars** | 607 |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-coding` `claude` `claude-code` `developer-tools` `project-initialization` `python` `react` `security` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Claude Bootstrap is an open-source project initialization tool designed for Claude Code, an AI-native development framework. This tool prioritizes security and adherence to specifications, ensuring a robust foundation for AI and machine learning projects. By providing an opinionated project setup, Claude Bootstrap streamlines the development process and facilitates the creation of high-quality AI-native applications.
+Alinaqi’s **claude-bootstrap** is a opinionated starter kit designed to kick‑start projects that leverage Claude Code. It emphasizes a security‑first, specification‑driven workflow and integrates AI‑native tooling out of the box, making it ideal for building robust frontend and dev‑tool applications. The scaffold streamlines setup while enforcing best practices for AI/ML‑centric development.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/alinaqi/claude-bootstrap) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/alinaqi/claude-bootstrap) · [← Back to AI/ML](./README.md)</sub>

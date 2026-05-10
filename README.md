@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5765** |
+| 🗂️ **Total projects** | **5795** |
 | 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2297 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1054 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 574 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 2314 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1059 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 577 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 525 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 306 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 277 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 206 | [Browse →](./crypto/) |
+| ⚙️ **Backend** | 278 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 207 | [Browse →](./crypto/) |
 | 📊 **Data** | 137 | [Browse →](./data/) |
 | 💳 **Payments** | 94 | [Browse →](./payments/) |
 | 📈 **Trading** | 75 | [Browse →](./trading/) |
-| 📱 **Mobile** | 71 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 74 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 64 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 44 | [Browse →](./security/) |
 | ✨ **Design** | 19 | [Browse →](./design/) |
@@ -39,16 +39,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [moeru-ai/airi](./aiml/moeru-ai-airi.md) | ⭐ 39.1k | AI/ML |
-| 2 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 21.1k | Orchestration |
-| 3 | [dockur/windows](./aiml/dockur-windows.md) | ⭐ 51.3k | AI/ML |
-| 4 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
-| 5 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
-| 6 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
+| 1 | [openebs/openebs](./aiml/openebs-openebs.md) | ⭐ 9.7k | AI/ML |
+| 2 | [moeru-ai/airi](./aiml/moeru-ai-airi.md) | ⭐ 39.1k | AI/ML |
+| 3 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 21.1k | Orchestration |
+| 4 | [dockur/windows](./aiml/dockur-windows.md) | ⭐ 51.3k | AI/ML |
+| 5 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
+| 6 | [quic-go/quic-go](./frontend/quic-go-quic-go.md) | ⭐ 11.6k | Frontend |
 | 7 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.3k | Security |
-| 8 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
-| 9 | [ScrapeGraphAI/Scrapegraph-ai](./aiml/scrapegraphai-scrapegraph-ai.md) | ⭐ 24.9k | AI/ML |
-| 10 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
+| 8 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
+| 9 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
+| 10 | [ScrapeGraphAI/Scrapegraph-ai](./aiml/scrapegraphai-scrapegraph-ai.md) | ⭐ 24.9k | AI/ML |
 
 ## 🚀 How it works
 

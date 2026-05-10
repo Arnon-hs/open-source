@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 107 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 137 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Waywallen is an open-source wallpaper manager designed specifically for Linux operating systems. This tool provides a user-friendly interface to easily manage and switch between various wallpapers, allowing users to personalize their desktop environment. With Waywallen, users can browse and select from their existing wallpapers or add new ones to create a visually appealing and dynamic desktop experience.
+Waywallen is an open‑source wallpaper manager designed for Linux desktops. It provides a simple, lightweight interface for browsing, selecting, and automatically rotating desktop backgrounds, supporting multiple image sources and customizable scheduling. The tool aims to streamline wallpaper management while remaining highly configurable and easy to integrate into any Linux environment.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/waywallen/waywallen) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/waywallen/waywallen) · [← Back to Misc](./README.md)</sub>

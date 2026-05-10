@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Jinja |
 | 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`civic-tech` `community-networks` `curriculum-design` `distraction-free` `diy` `education` `home-school` `hotspot` `human-rights` `international-development` `knowledge` `learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · Design
 
 ## 📝 Summary
 
-The iiab/iiab project is an innovative, open-source initiative that empowers users to create their own personal library of knowledge using a Raspberry Pi, reminiscent of the ancient Library of Alexandria. This project combines frontend, backend, and design elements to provide a comprehensive digital library platform. By leveraging the Raspberry Pi, users can easily build and customize their own digital repository of information.
+Internet-in-a-Box (iiab/iiab) is an open‑source platform that transforms a Raspberry Pi into a self‑contained, offline digital library, providing a curated collection of educational content, web services, and tools for communities with limited internet access. It bundles a lightweight web front‑end, back‑end services (such as content servers, media streaming, and local DNS), and a user‑friendly design that lets anyone set up and manage a portable “Library of Alexandria” with minimal technical expertise.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/iiab/iiab) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/iiab/iiab) · [← Back to Frontend](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`access-control` `api` `authorization` `awslambda` `cloudflare-workers` `deno` `docker` `embeddings` `flyio` `graphql` `graphql-server` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevOps/Infra
 
 ## 📝 Summary
 
-Exograph is an open-source project that enables developers to rapidly build production-ready backends in a matter of minutes. By streamlining the backend development process, Exograph aims to reduce the complexity and time required to deploy scalable and efficient applications. This project is ideal for developers seeking to accelerate their backend development workflow.
+Exograph is an open‑source framework that lets you generate fully functional, production‑ready back‑end services in minutes, handling data modeling, API generation, authentication, and deployment pipelines out of the box. It bridges the gap between frontend and DevOps by providing a declarative schema‑driven approach that automatically creates GraphQL/REST endpoints, integrates with popular databases, and offers built‑in CI/CD and scaling tools. This makes it ideal for teams looking to accelerate backend development while maintaining control over infrastructure and deployment.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/exograph/exograph) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/exograph/exograph) · [← Back to Frontend](./README.md)</sub>

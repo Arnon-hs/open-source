@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 431 |
-| 🍴 **Forks** | 129 |
+| ⭐ **Stars** | 432 |
+| 🍴 **Forks** | 131 |
 | 💻 **Language** | C# |
 | 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`gamedev` `unity` `vr`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Basis is an open-source social framework designed for both virtual reality (VR) and desktop environments, aiming to provide a platform for interactive and immersive social experiences. This project enables developers to create and share engaging content, fostering a sense of community among users. By leveraging Basis, users can connect and interact in new and innovative ways.
+BasisVR/Basis is an open‑source framework that provides the core social infrastructure for both virtual‑reality and traditional desktop applications. It offers developers ready‑to‑use networking, avatar handling, voice chat, and room management tools, enabling fast creation of shared, cross‑platform experiences. The project is community‑driven and licensed for unrestricted use and modification.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/BasisVR/Basis) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/BasisVR/Basis) · [← Back to Misc](./README.md)</sub>

@@ -188,8 +188,8 @@
 | 178 | [pypa/bandersnatch](./pypa-bandersnatch.md) | ⭐ 538 | Python | 54/100 |
 | 179 | [VirtusLab/git-machete](./virtuslab-git-machete.md) | ⭐ 1.1k | Python | 54/100 |
 | 180 | [pantheon-systems/terminus](./pantheon-systems-terminus.md) | ⭐ 339 | PHP | 54/100 |
-| 181 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 251 | TypeScript | 54/100 |
-| 182 | [Dicklesworthstone/beads_rust](./dicklesworthstone-beads-rust.md) | ⭐ 882 | Rust | 54/100 |
+| 181 | [Dicklesworthstone/beads_rust](./dicklesworthstone-beads-rust.md) | ⭐ 882 | Rust | 54/100 |
+| 182 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 251 | TypeScript | 54/100 |
 | 183 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 54/100 |
 | 184 | [emersion/slurp](./emersion-slurp.md) | ⭐ 1.2k | C | 53/100 |
 | 185 | [oskvr37/tiddl](./oskvr37-tiddl.md) | ⭐ 499 | Python | 53/100 |
@@ -245,8 +245,8 @@
 | 235 | [KATO-Hiro/AtCoderClans](./kato-hiro-atcoderclans.md) | ⭐ 140 | Shell | 51/100 |
 | 236 | [timothebot/lacy](./timothebot-lacy.md) | ⭐ 175 | Rust | 51/100 |
 | 237 | [azat-io/actions-up](./azat-io-actions-up.md) | ⭐ 523 | TypeScript | 51/100 |
-| 238 | [Correia-jpv/fucking-awesome-cli-apps](./correia-jpv-fucking-awesome-cli-apps.md) | ⭐ 50 | Shell | 50/100 |
-| 239 | [y3owk1n/nvs](./y3owk1n-nvs.md) | ⭐ 32 | Go | 50/100 |
+| 238 | [y3owk1n/nvs](./y3owk1n-nvs.md) | ⭐ 32 | Go | 50/100 |
+| 239 | [Correia-jpv/fucking-awesome-cli-apps](./correia-jpv-fucking-awesome-cli-apps.md) | ⭐ 50 | Shell | 50/100 |
 | 240 | [rafi/awesome-cli-binaries](./rafi-awesome-cli-binaries.md) | ⭐ 45 | Lua | 50/100 |
 | 241 | [ehmicky/nvexeca](./ehmicky-nvexeca.md) | ⭐ 48 | JavaScript | 50/100 |
 | 242 | [hivemq/mqtt-cli](./hivemq-mqtt-cli.md) | ⭐ 361 | Java | 50/100 |
@@ -294,8 +294,8 @@
 | 284 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 106 | TypeScript | 45/100 |
 | 285 | [openabdev/openab](./openabdev-openab.md) | ⭐ 436 | Rust | 45/100 |
 | 286 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 150 | Go | 45/100 |
-| 287 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
-| 288 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 287 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 45/100 |
+| 288 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 252 | TypeScript | 45/100 |
 | 289 | [lessweb/deepcode-cli](./lessweb-deepcode-cli.md) | ⭐ 464 | TypeScript | 44/100 |
 | 290 | [getstackit/stackit](./getstackit-stackit.md) | ⭐ 28 | Go | 44/100 |
 | 291 | [GlassHaven/Haven](./glasshaven-haven.md) | ⭐ 465 | Kotlin | 44/100 |

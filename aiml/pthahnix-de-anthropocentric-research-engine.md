@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200 |
-| 🍴 **Forks** | 14 |
+| ⭐ **Stars** | 227 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`academic-research` `ai-agent` `ai-scientist` `arxiv` `auto-research` `claude-code` `codex` `deep-research` `idea-generator` `literature-review` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Design
 
 ## 📝 Summary
 
-The De-Anthropocentric Research Engine is a cutting-edge, open-source platform that leverages AI to automate various stages of academic research, including deep literature surveys, gap analysis, and experiment design and execution. This innovative tool combines multiple techniques such as iterative deep research, adversarial debate, and evolutionary generation to facilitate more efficient and effective research. By harnessing the power of distributed GPU execution, the engine accelerates the discovery process and enables researchers to generate new ideas and insights more rapidly.
+The De‑Anthropocentric Research Engine (Pthahnix/De-Anthropocentric-Research-Engine) is an open‑source AI platform that automates the full research workflow—from deep literature surveys and gap analysis to idea generation, experimental design, and execution—leveraging iterative deep research, adversarial debate, and evolutionary generation techniques. It runs on distributed GPU clusters, enabling scalable, AI‑driven academic investigations across any domain.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Pthahnix/De-Anthropocentric-Research-Engine) · [← Back to AI/ML](./README.md)</sub>

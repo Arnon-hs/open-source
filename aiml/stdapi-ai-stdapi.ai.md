@@ -12,12 +12,12 @@
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `anthropic` `anthropic-api` `anthropic-claude` `bedrock` `claude` `claude-api` `llm` `openai-api` `polly` `transcribe`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the stdapi-ai/stdapi.ai project:
-
-The stdapi-ai/stdapi.ai project is an open-source, OpenAI and Anthropic compatible API gateway designed for seamless integration with AWS Bedrock and various AI services. This gateway enables developers to easily interact with AI models, leveraging the power of large language models like those from OpenAI and Anthropic. By providing a standardized interface, stdapi-ai/stdapi.ai simplifies the development process and accelerates the deployment of AI-powered applications.
+stdapi-ai/stdapi.ai is an open‑source API gateway that provides a unified, OpenAI‑ and Anthropic‑compatible interface for accessing AWS Bedrock and other AI services. It enables developers to route standard chat‑completion and embedding calls to multiple backend models without changing client code, simplifying integration and deployment of AI workloads. The project is positioned as a backend solution for AI/ML applications, offering easy configuration, authentication, and extensibility.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/stdapi-ai/stdapi.ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/stdapi-ai/stdapi.ai) · [← Back to AI/ML](./README.md)</sub>
