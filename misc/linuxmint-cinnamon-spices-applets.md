@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 732 |
-| 🍴 **Forks** | 651 |
+| ⭐ **Stars** | 733 |
+| 🍴 **Forks** | 654 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Cinnamon Spices Applets project is an open-source collection of customizable applets designed for the Cinnamon desktop environment. These applets offer users a range of functionalities, from basic system monitoring to more complex features, enhancing the overall user experience. By contributing to this project, developers can create and share their own applets, enriching the Cinnamon community.
+A collection of community‑maintained applets that extend the functionality of the Cinnamon desktop environment. These lightweight extensions add features such as system monitors, weather widgets, window controls, and custom menus, allowing users to personalize their Cinnamon experience. The repository is open‑source, regularly updated, and suitable for any Linux Mint or Cinnamon user looking to enhance their desktop workflow.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/linuxmint/cinnamon-spices-applets) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/linuxmint/cinnamon-spices-applets) · [← Back to Misc](./README.md)</sub>

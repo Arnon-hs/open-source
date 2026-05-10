@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.3k |
+| ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`better-auth` `bun` `clack-prompt` `cli` `drizzle-orm` `expo` `fumadocs` `hono` `prisma` `shadcn-ui` `solid` `sveltekit`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-"create-better-t-stack" is a cutting-edge CLI tool for rapidly setting up end-to-end type-safe TypeScript projects with industry-recognized best practices and customizable configurations. This project enables developers to kickstart their projects with a solid foundation, saving time and effort on tedious setup tasks. With its focus on AI/ML, frontend, and DevTools, it's an essential tool for developers seeking to streamline their workflow with modern TypeScript projects.
+AmanVarshney01/create-better-t-stack is a modern command‑line utility that scaffolds fully type‑safe TypeScript applications, wiring together best‑practice configurations for frontend, backend, testing, and CI/CD. It lets developers generate end‑to‑end projects with customizable options—such as framework selection, linting, formatting, and AI‑assisted code generation—so they can start building production‑ready codebases instantly. The tool targets AI/ML‑enhanced workflows, frontend development, and general dev‑tooling needs, and is released under an open‑source license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/AmanVarshney01/create-better-t-stack) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AmanVarshney01/create-better-t-stack) · [← Back to AI/ML](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 584 |
+| ⭐ **Stars** | 586 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-The cachey project is an open-source, read-through cache designed to enhance performance and efficiency for object storage systems. This caching solution aims to accelerate data retrieval and improve overall workflow speed in AI/ML applications that rely heavily on object storage. By acting as a cache layer, cachey helps reduce latency and increase productivity in object storage-based workflows.
+s2‑streamstore/cachey is an open‑source read‑through caching layer designed for object‑storage systems. It transparently fetches missing items from the underlying store, writes them to a local cache, and serves subsequent requests with low latency, while providing configurable eviction policies and metrics. Ideal for AI/ML pipelines that need fast, repeatable access to large datasets stored in cloud object stores.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/s2-streamstore/cachey) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/s2-streamstore/cachey) · [← Back to AI/ML](./README.md)</sub>

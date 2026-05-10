@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 282 |
-| 🍴 **Forks** | 21 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `credentials` `harness` `hermes` `hermes-agent` `moltbot` `openclaw` `pii` `rust` `secuirty`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the clawshell project:
-
-Clawshell is an open-source Runtime Security Layer designed to protect sensitive information like PII (Personal Identifiable Information) and credentials. Built on top of OpenClaw/Hermes-agent, it provides an essential safety harness for secure data handling. This project enables developers to safeguard critical data across various platforms and applications.
+ClawShell is an open‑source runtime security layer designed for the OpenClaw/Hermes‑agent ecosystem, providing a robust safety harness that safeguards personally identifiable information (PII) and other sensitive credentials during execution. By integrating lightweight monitoring and enforcement mechanisms, it helps developers enforce security policies and prevent data leaks in AI/ML, frontend, and broader application contexts.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/clawshell/clawshell) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/clawshell/clawshell) · [← Back to AI/ML](./README.md)</sub>

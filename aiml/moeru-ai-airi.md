@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39k |
-| 🍴 **Forks** | 3.9k |
+| ⭐ **Stars** | 39.1k |
+| 🍴 **Forks** | 4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-companion` `ai-vtuber` `airi` `digital-life` `grok-companion` `live2d` `neuro-sama` `neurosama` `openclaw` `vrm` `vtuber`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the airi project:
-
-Airi is an open-source, self-hosted AI companion project that allows users to bring their virtual waifu or cyber lives into their digital world. This project, inspired by the concept of Neuro-sama's altitude, enables real-time voice chat, gaming capabilities such as Minecraft and Factorio, and supports various platforms including web, macOS, and Windows. By hosting Airi, users can create their own personalized AI companion.
+moeru‑ai/airi is an open‑source, self‑hosted AI companion that emulates a “Grok”‑style waifu, offering real‑time voice interaction and integration with games such as Minecraft and Factorio. It runs in a container, supports web, macOS, and Windows clients, and aims to provide a highly personalized, user‑owned chatbot experience comparable to Neuro‑sama.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/moeru-ai/airi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/moeru-ai/airi) · [← Back to AI/ML](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 191 |
+| 🍴 **Forks** | 193 |
 | 💻 **Language** | C |
 | 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-library` `cpp` `hacktoberfest` `portable` `posix-compatible` `x86-64`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Managarm's mlibc is an open-source, portable implementation of the C standard library, designed to be easily integratable into various AI and machine learning frameworks. This project provides a reliable and cross-platform foundation for building high-performance computing applications. By offering a lightweight and customizable C library, mlibc empowers developers to build efficient and scalable software solutions.
+managarm/mlibc is an open‑source, portable implementation of the C standard library that aims to provide a lightweight, clean, and fully POSIX‑compatible runtime for various operating systems and architectures. It is designed to be easily integrated into hobbyist kernels, unikernels, and other low‑level projects, offering essential libc functionality while remaining small and maintainable. Although listed under AI/ML categories, its primary focus is on system‑level programming rather than machine‑learning features.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/managarm/mlibc) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/managarm/mlibc) · [← Back to AI/ML](./README.md)</sub>

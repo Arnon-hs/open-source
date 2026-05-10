@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 381 |
-| 🍴 **Forks** | 41 |
+| ⭐ **Stars** | 396 |
+| 🍴 **Forks** | 44 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-search` `claude` `cli` `generative-engine-optimization` `geo` `llms-txt` `mcp` `openai` `perplexity` `python` `schema-markup` `seo`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools · Data
 
 ## 📝 Summary
 
-The geo-optimizer-skill project is an open-source toolkit developed to enhance website visibility in AI search engines. Based on Princeton KDD 2024 research, this Generative Engine Optimization (GEO) toolkit offers tools for auditing and optimizing websites to make them more accessible to AI-powered search engines like ChatGPT, Perplexity, and Claude. By utilizing the GEO toolkit, users can improve their online presence and increase their website's visibility in these cutting-edge search engines.
+Auriti‑Labs’ **geo‑optimizer‑skill** is an open‑source toolkit that audits and optimizes websites for visibility in AI‑driven search engines such as ChatGPT, Perplexity, Claude, and Gemini. Leveraging findings from the Princeton KDD 2024 study, it provides developers with automated diagnostics, performance‑enhancing recommendations, and deployment scripts to improve a site’s generative‑engine ranking. The project sits at the intersection of AI/ML, developer tools, and data engineering.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/Auriti-Labs/geo-optimizer-skill) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Auriti-Labs/geo-optimizer-skill) · [← Back to AI/ML](./README.md)</sub>

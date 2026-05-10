@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 109 |
-| 🍴 **Forks** | 18 |
+| ⭐ **Stars** | 110 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`mcp` `typescript` `utcp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-The universal-tool-calling-protocol/typescript-utcp project is an open-source, TypeScript implementation of the Universal Tool Calling Protocol (UTCP), a standard enabling AI agents to directly interface with any API without the need for intermediate middleware. This allows for seamless communication and integration between AI systems and external services. By leveraging UTCP, developers can simplify their interactions with APIs and enhance the capabilities of their AI applications.
+The **universal-tool-calling-protocol/typescript-utcp** repository provides a complete, production‑ready TypeScript implementation of the Universal Tool Calling Protocol (UTCP). UTCP is an open standard that enables AI agents to invoke any external API directly—eliminating the need for custom middleware or adapters—making integration faster and more secure. This library offers type‑safe request/response handling, protocol utilities, and examples for seamless backend integration in AI/ML applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-03 · [View on GitHub](https://github.com/universal-tool-calling-protocol/typescript-utcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/universal-tool-calling-protocol/typescript-utcp) · [← Back to AI/ML](./README.md)</sub>

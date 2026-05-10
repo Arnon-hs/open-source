@@ -38,8 +38,8 @@
 | 28 | [stablyai/orca](./stablyai-orca.md) | ⭐ 2k | TypeScript | 66/100 |
 | 29 | [claabs/epicgames-freegames-node](./claabs-epicgames-freegames-node.md) | ⭐ 1.9k | TypeScript | 65/100 |
 | 30 | [DanOps-1/Gpt-Agreement-Payment](./danops-1-gpt-agreement-payment.md) | ⭐ 1.1k | Python | 65/100 |
-| 31 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
-| 32 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
+| 31 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 64/100 |
+| 32 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2k | Python | 64/100 |
 | 33 | [stripe/ai](./stripe-ai.md) | ⭐ 1.5k | TypeScript | 63/100 |
 | 34 | [Lin-arm/GKD_subscription](./lin-arm-gkd-subscription.md) | ⭐ 2.4k | TypeScript | 62/100 |
 | 35 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 1.1k | TypeScript | 62/100 |
@@ -52,8 +52,8 @@
 | 42 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 58/100 |
 | 43 | [stripe/stripe-react-native](./stripe-stripe-react-native.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 44 | [VladSez/easy-invoice-pdf](./vladsez-easy-invoice-pdf.md) | ⭐ 821 | TypeScript | 57/100 |
-| 45 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 57/100 |
-| 46 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 57/100 |
+| 45 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 57/100 |
+| 46 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 57/100 |
 | 47 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 813 | PHP | 57/100 |
 | 48 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 57/100 |
 | 49 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 903 | TypeScript | 57/100 |
@@ -61,8 +61,8 @@
 | 51 | [billabear/billabear](./billabear-billabear.md) | ⭐ 746 | PHP | 56/100 |
 | 52 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 597 | Python | 56/100 |
 | 53 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 56/100 |
-| 54 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
-| 55 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
+| 54 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 56/100 |
+| 55 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 56/100 |
 | 56 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 553 | Vala | 55/100 |
 | 57 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 55/100 |
 | 58 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 430 | Rust | 54/100 |
@@ -71,13 +71,13 @@
 | 61 | [djaodjin/djaodjin-saas](./djaodjin-djaodjin-saas.md) | ⭐ 600 | Python | 54/100 |
 | 62 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 522 | Rust | 54/100 |
 | 63 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 53/100 |
-| 64 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
-| 65 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
+| 64 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 53/100 |
+| 65 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 53/100 |
 | 66 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 385 | PHP | 53/100 |
 | 67 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 99 | HTML | 52/100 |
 | 68 | [tddworks/asc-cli](./tddworks-asc-cli.md) | ⭐ 186 | Swift | 52/100 |
-| 69 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
-| 70 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
+| 69 | [openfintechio/openfintech](./openfintechio-openfintech.md) | ⭐ 215 | PHP | 52/100 |
+| 70 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 52/100 |
 | 71 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 295 | — | 52/100 |
 | 72 | [askalf/dario](./askalf-dario.md) | ⭐ 189 | JavaScript | 52/100 |
 | 73 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 51/100 |
@@ -90,10 +90,10 @@
 | 80 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 168 | Rust | 51/100 |
 | 81 | [Kingler16/Velora](./kingler16-velora.md) | ⭐ 30 | Python | 50/100 |
 | 82 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 54 | JavaScript | 50/100 |
-| 83 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 50/100 |
-| 84 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 50/100 |
-| 85 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 50/100 |
-| 86 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
+| 83 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 50/100 |
+| 84 | [OrchardCMS/OrchardCore.Commerce](./orchardcms-orchardcore.commerce.md) | ⭐ 229 | C# | 50/100 |
+| 85 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 50/100 |
+| 86 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 50/100 |
 | 87 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 50/100 |
 | 88 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 67 | TypeScript | 49/100 |
 | 89 | [AdguardTeam/FiltersRegistry](./adguardteam-filtersregistry.md) | ⭐ 341 | Adblock Filter List | 48/100 |

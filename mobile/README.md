@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**70 projects** in this category.
+**71 projects** in this category.
 
 ## Projects
 
@@ -48,36 +48,37 @@
 | 38 | [Watfaq/clash-rs](./watfaq-clash-rs.md) | ⭐ 1.6k | Rust | 64/100 |
 | 39 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 1.6k | Kotlin | 62/100 |
 | 40 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 62/100 |
-| 41 | [uholeschak/ediabaslib](./uholeschak-ediabaslib.md) | ⭐ 853 | C# | 59/100 |
-| 42 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
-| 43 | [solsticegamestudios/GModPatchTool](./solsticegamestudios-gmodpatchtool.md) | ⭐ 780 | Rust | 56/100 |
-| 44 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 925 | Kotlin | 56/100 |
-| 45 | [qaul/qaul.net](./qaul-qaul.net.md) | ⭐ 706 | Dart | 56/100 |
-| 46 | [chipweinberger/flutter_blue_plus](./chipweinberger-flutter-blue-plus.md) | ⭐ 991 | Dart | 56/100 |
-| 47 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 587 | Rust | 55/100 |
-| 48 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 321 | Java | 55/100 |
-| 49 | [jinleili/learn-wgpu-zh](./jinleili-learn-wgpu-zh.md) | ⭐ 492 | Rust | 54/100 |
-| 50 | [mozilla-mobile/reference-browser](./mozilla-mobile-reference-browser.md) | ⭐ 658 | Kotlin | 54/100 |
-| 51 | [LanRhyme/MicYou](./lanrhyme-micyou.md) | ⭐ 1.9k | Kotlin | 54/100 |
-| 52 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
-| 53 | [jinleili/wgpu-in-app](./jinleili-wgpu-in-app.md) | ⭐ 398 | Rust | 53/100 |
-| 54 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 53/100 |
-| 55 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 53/100 |
-| 56 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 53/100 |
-| 57 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 51/100 |
-| 58 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
-| 59 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
-| 60 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
-| 61 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 50/100 |
-| 62 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 456 | Swift | 50/100 |
-| 63 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 49/100 |
-| 64 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 49/100 |
-| 65 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 47/100 |
-| 66 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
-| 67 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
-| 68 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 43/100 |
-| 69 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
-| 70 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
+| 41 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2k | Java | 59/100 |
+| 42 | [uholeschak/ediabaslib](./uholeschak-ediabaslib.md) | ⭐ 853 | C# | 59/100 |
+| 43 | [Automattic/pocket-casts-ios](./automattic-pocket-casts-ios.md) | ⭐ 1.8k | Swift | 58/100 |
+| 44 | [solsticegamestudios/GModPatchTool](./solsticegamestudios-gmodpatchtool.md) | ⭐ 780 | Rust | 56/100 |
+| 45 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 925 | Kotlin | 56/100 |
+| 46 | [qaul/qaul.net](./qaul-qaul.net.md) | ⭐ 706 | Dart | 56/100 |
+| 47 | [chipweinberger/flutter_blue_plus](./chipweinberger-flutter-blue-plus.md) | ⭐ 991 | Dart | 56/100 |
+| 48 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 587 | Rust | 55/100 |
+| 49 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 321 | Java | 55/100 |
+| 50 | [jinleili/learn-wgpu-zh](./jinleili-learn-wgpu-zh.md) | ⭐ 492 | Rust | 54/100 |
+| 51 | [mozilla-mobile/reference-browser](./mozilla-mobile-reference-browser.md) | ⭐ 658 | Kotlin | 54/100 |
+| 52 | [LanRhyme/MicYou](./lanrhyme-micyou.md) | ⭐ 1.9k | Kotlin | 54/100 |
+| 53 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 54/100 |
+| 54 | [jinleili/wgpu-in-app](./jinleili-wgpu-in-app.md) | ⭐ 398 | Rust | 53/100 |
+| 55 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 53/100 |
+| 56 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 53/100 |
+| 57 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 53/100 |
+| 58 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 51/100 |
+| 59 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 51/100 |
+| 60 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 51/100 |
+| 61 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 51/100 |
+| 62 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 50/100 |
+| 63 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 456 | Swift | 50/100 |
+| 64 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 49/100 |
+| 65 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 49/100 |
+| 66 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 47/100 |
+| 67 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 47/100 |
+| 68 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 47/100 |
+| 69 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 43/100 |
+| 70 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
+| 71 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
 
 ---
 

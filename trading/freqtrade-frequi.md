@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 971 |
-| 🍴 **Forks** | 420 |
+| ⭐ **Stars** | 978 |
+| 🍴 **Forks** | 425 |
 | 💻 **Language** | Vue |
 | 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`freqtrade` `freqtrade-ui` `trading` `trading-bot` `vue` `vuejs`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading · Frontend
 
 ## 📝 Summary
 
-Frequi is an open-source frontend project designed to complement Freqtrade, a popular trading bot. This project aims to provide a user-friendly interface for managing and interacting with Freqtrade, making it easier for users to monitor and optimize their trading strategies. With Frequi, users can access Freqtrade's features in a visually appealing and intuitive manner.
+Freqtrade UI is an open‑source frontend built for the Freqtrade cryptocurrency trading bot, providing a visual interface to configure, monitor, and manage automated trading strategies. It streamlines the user experience with real‑time charts, performance metrics, and easy access to bot settings, making algorithmic trading more accessible for both beginners and advanced traders.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/freqtrade/frequi) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/freqtrade/frequi) · [← Back to Trading](./README.md)</sub>

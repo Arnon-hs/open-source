@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 173 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 178 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `file-browser` `file-manager` `image-preview` `kitty-graphics` `ratatui` `rust` `sixel` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the elio project:
-
-Elio is an open-source, terminal-based file manager that provides a rich and intuitive user experience. With its batteries-included approach, it offers various features such as rich previews, inline images, and bulk actions, making it an ideal choice for users who prefer a command-line interface. This file manager also includes trash support for added convenience.
+Elio is a fast, feature‑rich terminal file manager that delivers a modern, “batteries‑included” experience: it shows detailed previews (including inline images), supports bulk operations, and integrates a trash system for safe deletions. Designed for developers and power users, it combines a sleek UI with powerful DevTools‑style shortcuts, making navigation and file manipulation efficient directly from the command line.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/elio-fm/elio) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/elio-fm/elio) · [← Back to Frontend](./README.md)</sub>

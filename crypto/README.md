@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**205 projects** in this category.
+**206 projects** in this category.
 
 ## Projects
 
@@ -14,8 +14,8 @@
 | 4 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 100/100 |
 | 5 | [PrivateBin/PrivateBin](./privatebin-privatebin.md) | ⭐ 8.3k | PHP | 100/100 |
 | 6 | [guanzhi/GmSSL](./guanzhi-gmssl.md) | ⭐ 6k | C | 100/100 |
-| 7 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
-| 8 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
+| 7 | [OpenBB-finance/OpenBB](./openbb-finance-openbb.md) | ⭐ 67.1k | Python | 100/100 |
+| 8 | [Superalgos/Superalgos](./superalgos-superalgos.md) | ⭐ 5.5k | JavaScript | 100/100 |
 | 9 | [ccxt/ccxt](./ccxt-ccxt.md) | ⭐ 42.3k | Python | 100/100 |
 | 10 | [lightningnetwork/lnd](./lightningnetwork-lnd.md) | ⭐ 8.1k | Go | 100/100 |
 | 11 | [foundry-rs/foundry](./foundry-rs-foundry.md) | ⭐ 10.3k | Rust | 100/100 |
@@ -187,32 +187,33 @@
 | 177 | [sepivip/SeekerClaw](./sepivip-seekerclaw.md) | ⭐ 104 | JavaScript | 51/100 |
 | 178 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 51/100 |
 | 179 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 51/100 |
-| 180 | [wienerlabs/covenant](./wienerlabs-covenant.md) | ⭐ 22 | TypeScript | 50/100 |
-| 181 | [truss44/mcp-crypto-price](./truss44-mcp-crypto-price.md) | ⭐ 39 | TypeScript | 50/100 |
-| 182 | [nirholas/three.ws](./nirholas-three.ws.md) | ⭐ 32 | JavaScript | 50/100 |
-| 183 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 516 | Rust | 50/100 |
-| 184 | [depado/goploader](./depado-goploader.md) | ⭐ 300 | JavaScript | 49/100 |
-| 185 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 142 | Rust | 49/100 |
-| 186 | [Lqz13Th/extrema_infra](./lqz13th-extrema-infra.md) | ⭐ 179 | Rust | 49/100 |
-| 187 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 188 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 48/100 |
-| 189 | [error311/wayfinder.nvim](./error311-wayfinder.nvim.md) | ⭐ 106 | Lua | 48/100 |
-| 190 | [web3infra-foundation/libra](./web3infra-foundation-libra.md) | ⭐ 55 | Rust | 48/100 |
-| 191 | [websitebutlers/codefire-app](./websitebutlers-codefire-app.md) | ⭐ 209 | Swift | 48/100 |
-| 192 | [galacticcouncil/hydration-node](./galacticcouncil-hydration-node.md) | ⭐ 204 | Rust | 47/100 |
-| 193 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 47/100 |
-| 194 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
-| 195 | [aaronjmars/web3-research-mcp](./aaronjmars-web3-research-mcp.md) | ⭐ 153 | TypeScript | 46/100 |
-| 196 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
-| 197 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 44/100 |
-| 198 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
-| 199 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
-| 200 | [rpcpool/yellowstone-vixen](./rpcpool-yellowstone-vixen.md) | ⭐ 241 | Rust | 43/100 |
-| 201 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 42/100 |
-| 202 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
-| 203 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
-| 204 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 62 | Python | 41/100 |
-| 205 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 41/100 |
+| 180 | [kawacukennedy/kuberna-labs](./kawacukennedy-kuberna-labs.md) | ⭐ 39 | TypeScript | 50/100 |
+| 181 | [wienerlabs/covenant](./wienerlabs-covenant.md) | ⭐ 22 | TypeScript | 50/100 |
+| 182 | [truss44/mcp-crypto-price](./truss44-mcp-crypto-price.md) | ⭐ 39 | TypeScript | 50/100 |
+| 183 | [nirholas/three.ws](./nirholas-three.ws.md) | ⭐ 32 | JavaScript | 50/100 |
+| 184 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 516 | Rust | 50/100 |
+| 185 | [depado/goploader](./depado-goploader.md) | ⭐ 300 | JavaScript | 49/100 |
+| 186 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 142 | Rust | 49/100 |
+| 187 | [Lqz13Th/extrema_infra](./lqz13th-extrema-infra.md) | ⭐ 179 | Rust | 49/100 |
+| 188 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 189 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 48/100 |
+| 190 | [error311/wayfinder.nvim](./error311-wayfinder.nvim.md) | ⭐ 106 | Lua | 48/100 |
+| 191 | [web3infra-foundation/libra](./web3infra-foundation-libra.md) | ⭐ 55 | Rust | 48/100 |
+| 192 | [websitebutlers/codefire-app](./websitebutlers-codefire-app.md) | ⭐ 209 | Swift | 48/100 |
+| 193 | [galacticcouncil/hydration-node](./galacticcouncil-hydration-node.md) | ⭐ 204 | Rust | 47/100 |
+| 194 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 47/100 |
+| 195 | [near/near-cli-rs](./near-near-cli-rs.md) | ⭐ 142 | Rust | 47/100 |
+| 196 | [aaronjmars/web3-research-mcp](./aaronjmars-web3-research-mcp.md) | ⭐ 153 | TypeScript | 46/100 |
+| 197 | [pawurb/mevlog-rs](./pawurb-mevlog-rs.md) | ⭐ 200 | Rust | 45/100 |
+| 198 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 44/100 |
+| 199 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 44/100 |
+| 200 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 44/100 |
+| 201 | [rpcpool/yellowstone-vixen](./rpcpool-yellowstone-vixen.md) | ⭐ 241 | Rust | 43/100 |
+| 202 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 42/100 |
+| 203 | [ReamLabs/ream](./reamlabs-ream.md) | ⭐ 140 | Rust | 42/100 |
+| 204 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
+| 205 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 62 | Python | 41/100 |
+| 206 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 41/100 |
 
 ---
 

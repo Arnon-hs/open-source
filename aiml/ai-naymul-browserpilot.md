@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 115 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 143 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `ai-agents` `browser` `browser-agent` `browser-automation` `browser-use` `comet` `deep-research` `deep-research-agent` `firecrawl` `firecrawl-alternative`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-BrowserPilot is an open-source project that combines the functionality of Perplexity Comet, director.ai, and firecrawl into a single, user-friendly platform. This AI-powered tool enables developers to monitor, analyze, and optimize web application performance, user behavior, and A/B testing results in real-time. By leveraging BrowserPilot, developers can make data-driven decisions to improve their applications and enhance user experiences.
+BrowserPilot is an open‑source platform that merges the capabilities of Perplexity‑style AI search, director.ai’s autonomous web navigation, and Firecrawl’s web‑scraping into a single backend service. It enables developers to programmatically browse, extract, and analyze website content using large language models, offering a self‑hosted alternative for AI‑driven web intelligence.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/ai-naymul/BrowserPilot) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ai-naymul/BrowserPilot) · [← Back to AI/ML](./README.md)</sub>

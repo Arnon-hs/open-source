@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`asynchronous-io` `hacktoberfest` `microkernel` `modern-cpp` `operating-system` `posix-compatible` `x86-64`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-Managarm is an open-source, microkernel-based operating system designed for asynchronous I/O operations, providing a pragmatic and efficient foundation for a wide range of applications. Built with flexibility in mind, Managarm can be leveraged for various use cases, including AI and machine learning workloads. Its modular design and asynchronous architecture enable developers to optimize system performance and reliability.
+Managarm is an open‑source, microkernel‑based operating system that emphasizes pragmatic design and fully asynchronous I/O, aiming to provide a modern, modular foundation for both research and everyday use. While its primary focus is on kernel architecture and system‑level performance, the project also offers a growing ecosystem of user‑space tools and libraries to simplify development. It is positioned as a forward‑looking platform for exploring advanced OS concepts and building high‑performance applications.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/managarm/managarm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/managarm/managarm) · [← Back to AI/ML](./README.md)</sub>
