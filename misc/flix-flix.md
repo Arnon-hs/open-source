@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Flix |
 | 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`flix` `functional` `hacktoberfest` `imperative` `jvm` `language` `logic` `programming-language`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Flix is a modern, open-source programming language designed for developing high-performance applications efficiently. It offers a flexible and expressive syntax, allowing developers to write concise and readable code. Flix is well-suited for a wide range of applications, including systems programming, data processing, and software development.
+Flix is an open‑source, functional‑logic programming language that blends first‑order logic, Horn clause inference, and modern functional features such as algebraic data types and pattern matching. It compiles to the JVM, offering a concise syntax, type inference, and built‑in support for effect tracking, making it suitable for both academic research and practical application development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/flix/flix) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/flix/flix) · [← Back to Misc](./README.md)</sub>

@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 295 |
+| 🍴 **Forks** | 296 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agents` `ai-native` `cloud-native` `database` `distributed-database` `distributed-systems` `fulltext-support` `git-for-data` `go` `htap` `hyperconverged` `memory`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
-MatrixOne is an open-source, AI-native HTAP (Hybrid Transactional/Analytical Processing) database that integrates Git-for-Data and built-in vector search capabilities. This database serves as a foundational backbone for intelligent agents and applications, providing a unified platform for data management and memory optimization. By leveraging MatrixOne, developers can build scalable and efficient AI-native systems that seamlessly integrate data and analytics.
+MatrixOne is an open‑source, AI‑native HTAP (Hybrid Transactional/Analytical Processing) database that combines traditional relational capabilities with built‑in vector search, enabling seamless handling of both structured data and high‑dimensional embeddings. It introduces a “Git‑for‑Data” model for versioned, collaborative data management, making it a robust memory and storage backbone for intelligent agents and AI‑driven applications. Its architecture spans AI/ML, frontend tooling, and data infrastructure, positioning MatrixOne as a unified platform for next‑generation intelligent systems.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/matrixorigin/matrixone) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/matrixorigin/matrixone) · [← Back to AI/ML](./README.md)</sub>

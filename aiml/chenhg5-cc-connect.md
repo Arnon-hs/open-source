@@ -1,6 +1,6 @@
 # chenhg5/cc-connect
 
-[![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square&color=yellow)](https://github.com/chenhg5/cc-connect/stargazers) [![Forks](https://img.shields.io/github/forks/chenhg5/cc-connect?style=flat-square&color=blue)](https://github.com/chenhg5/cc-connect/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square&color=yellow)](https://github.com/chenhg5/cc-connect/stargazers) [![Forks](https://img.shields.io/github/forks/chenhg5/cc-connect?style=flat-square&color=blue)](https://github.com/chenhg5/cc-connect/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.3k |
-| 🍴 **Forks** | 691 |
+| ⭐ **Stars** | 8.3k |
+| 🍴 **Forks** | 769 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-"CC-Connect is an open-source bridge connecting local AI coding agents to popular messaging platforms. With CC-Connect, users can interact with their AI development assistants from anywhere, without requiring a public IP address for most platforms. This project enables seamless communication between AI agents and messaging platforms."
+A lightweight bridge that connects local AI coding agents—such as Claude Code, Cursor, Gemini CLI, and Codex—to a variety of messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). It lets developers chat with their AI development assistants from any channel without needing a public IP for most integrations, making AI‑powered coding assistance instantly accessible wherever they collaborate.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/chenhg5/cc-connect) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/chenhg5/cc-connect) · [← Back to AI/ML](./README.md)</sub>

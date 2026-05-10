@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 715 |
-| 🍴 **Forks** | 127 |
+| ⭐ **Stars** | 717 |
+| 🍴 **Forks** | 130 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`coding-agent` `computer-use` `enterprise` `generalist-agent` `guardrails` `harness` `knowledge` `mcp` `policies` `sandbox`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-CUGA (CUGA-Agent) is an open-source, generalist agent harness designed for enterprises to execute complex tasks on web and APIs. This robust platform supports integrations with OpenAPI and MCP, features a composable architecture, and offers various reasoning modes and policy-aware capabilities. By leveraging CUGA, organizations can streamline automation and decision-making processes across their operations.
+CUGA Agent is an open‑source, enterprise‑grade generalist AI agent framework that orchestrates complex tasks across web interfaces, APIs, and OpenAPI/MCP services. Its composable architecture offers multiple reasoning modes, policy‑aware controls, and seamless integration capabilities, making it a versatile backend solution for AI‑driven automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/cuga-project/cuga-agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/cuga-project/cuga-agent) · [← Back to AI/ML](./README.md)</sub>

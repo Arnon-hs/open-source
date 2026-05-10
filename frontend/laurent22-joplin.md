@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54.6k |
+| ⭐ **Stars** | 54.7k |
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`android` `dropbox` `electron` `enex-files` `evernote` `javascript` `joplin` `nextcloud` `nodejs` `note-taking` `notesnook` `obsidian`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
-Joplin is an open-source, privacy-focused note-taking application that offers seamless syncing capabilities across various platforms, including Windows, macOS, Linux, Android, and iOS. This versatile tool provides users with a secure and reliable space to store and organize their notes, making it an attractive option for those prioritizing data protection. With its cross-platform compatibility, Joplin is an ideal solution for individuals seeking a unified note-taking experience.
+Joplin is an open‑source, privacy‑first note‑taking application that lets users create, organize, and encrypt markdown notes and to‑do lists across all major platforms—including Windows, macOS, Linux, Android, and iOS. It offers robust synchronization options (e.g., file system, cloud services, WebDAV) while keeping data under the user’s control, and provides a clean, extensible UI for both desktop and mobile environments.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/laurent22/joplin) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/laurent22/joplin) · [← Back to Frontend](./README.md)</sub>

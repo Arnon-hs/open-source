@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4k |
-| 🍴 **Forks** | 780 |
+| 🍴 **Forks** | 781 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The osrg/gobgp project is an open-source implementation of the Border Gateway Protocol (BGP) in the Go programming language. This implementation provides a lightweight and efficient way to manage and analyze BGP routing information, making it suitable for use in a variety of network infrastructure and research applications. By leveraging the Go language, gobgp offers a highly scalable and concurrent architecture for BGP processing and control.
+gobgp is an open‑source implementation of the Border Gateway Protocol (BGP) written in Go. It provides a fully functional BGP daemon with support for modern extensions such as BMP, RIB, and graceful restart, and offers both a command‑line interface and a gRPC API for programmatic control. Designed for flexibility and performance, gobgp is widely used in network automation, testing, and research environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/osrg/gobgp) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/osrg/gobgp) · [← Back to Misc](./README.md)</sub>

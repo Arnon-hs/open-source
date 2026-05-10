@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 191 |
+| ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`algo-trading` `decision-making` `edtech` `finance` `financial-simulation` `forecast` `forecasting` `forecasting-methods` `forecasting-platforms` `forecasts` `futarchy` `investment-strategies`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Trading
 
 ## 📝 Summary
 
-The openpredictionmarkets/socialpredict project provides an open-source platform for creating prediction markets, allowing users to easily deploy and manage their own prediction market applications. This platform aims to make prediction markets accessible to a wider audience, facilitating the collection of accurate and diverse opinions on various topics. By leveraging socialpredict, developers can build and customize their own prediction market systems with ease.
+openpredictionmarkets/socialpredict is an easy‑to‑deploy, open‑source platform for creating and running prediction markets. Built with a focus on simplicity and scalability, it provides essential trading features—such as market creation, order matching, and outcome resolution—while allowing developers to customize and extend the system for various use cases. Ideal for researchers, communities, or enterprises looking to experiment with decentralized forecasting and market‑based information aggregation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/openpredictionmarkets/socialpredict) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/openpredictionmarkets/socialpredict) · [← Back to Trading](./README.md)</sub>

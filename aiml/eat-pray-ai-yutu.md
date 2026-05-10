@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 448 |
-| 🍴 **Forks** | 46 |
+| ⭐ **Stars** | 449 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `automation` `bot` `chatgpt` `claude` `clawdbot-skill` `cli` `docker` `gemini` `linux` `macos`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the open-source project:
-
-The eat-pray-ai/yutu project is an open-source, AI-powered toolkit designed to automate and optimize YouTube channel growth. This innovative tool utilizes machine learning algorithms to streamline content creation, engagement, and analytics, allowing creators to focus on content development while their channel expands on autopilot. By leveraging AI/ML capabilities, yutu empowers YouTubers to increase their channel's visibility and reach a wider audience.
+**eat-pray-ai/yutu** is an open‑source, AI‑driven toolkit designed to automate YouTube channel growth by handling tasks such as content idea generation, thumbnail creation, SEO optimization, and posting schedules. It integrates machine‑learning models with DevOps pipelines to streamline workflow management, making it easy for creators and developers to scale their channels with minimal manual effort.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/eat-pray-ai/yutu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/eat-pray-ai/yutu) · [← Back to AI/ML](./README.md)</sub>

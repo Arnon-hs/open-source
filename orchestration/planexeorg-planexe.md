@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 379 |
+| ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agi` `ai` `ai-planning` `llamaindex` `mcp` `ollama` `openrouter` `pddl` `planner` `planning` `planning-algorithms` `pmbok`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-PlanExe is an open-source project that utilizes AI and ML to rapidly generate plans from brief descriptions. This innovative tool enables users to create plans in mere minutes, streamlining complex tasks and fostering productivity. By leveraging orchestration and AI capabilities, PlanExe aims to simplify the planning process and facilitate more efficient decision-making.
+PlanExe is an open‑source orchestration tool that leverages AI/ML to automatically generate executable plans from natural‑language descriptions in just minutes. By interpreting user‑provided specifications, it creates structured, actionable workflows that can be integrated with existing automation pipelines. Ideal for rapid prototyping and streamlining complex processes, PlanExe accelerates the transition from idea to implementation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/PlanExeOrg/PlanExe) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/PlanExeOrg/PlanExe) · [← Back to Orchestration](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The GoogleCloudPlatform/k8s-config-connector is an open-source project that integrates Google Cloud Platform (GCP) resources with Kubernetes, allowing for seamless management and configuration of GCP resources within a Kubernetes environment. This add-on enables users to leverage the power of Kubernetes to manage and scale GCP resources, streamlining DevOps and infrastructure operations. By bridging the gap between GCP and Kubernetes, this project facilitates a more efficient and automated approach to resource management.
+Google Cloud Config Connector is an open‑source Kubernetes add‑on that lets you declaratively provision, manage, and synchronize Google Cloud Platform resources using native Kubernetes manifests and CRDs. By integrating GCP services directly into your cluster’s control plane, it enables GitOps‑style workflows and consistent infrastructure-as-code across both cloud and on‑prem environments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/GoogleCloudPlatform/k8s-config-connector) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/GoogleCloudPlatform/k8s-config-connector) · [← Back to DevOps & Infra](./README.md)</sub>

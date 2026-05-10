@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 148 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`electron` `electron-app` `radix-ui` `react` `sftp-client` `ssh` `ssh-client` `terminal` `terminal-emulator` `xterm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · DevTools
 
 ## 📝 Summary
 
-Netcatty is an open-source project that combines an SSH workspace, SFTP, and multiple terminals into a single, user-friendly interface. This comprehensive tool allows developers to streamline their workflow by providing a centralized platform for remote access, file transfer, and terminal interactions. With Netcatty, users can efficiently manage multiple tasks and projects from a single, accessible location.
+Binaricat/Netcatty is an open‑source web‑based development tool that consolidates SSH sessions, SFTP file management, and terminal access into a single, unified workspace. Designed for frontend developers and DevOps engineers, it provides a lightweight, browser‑accessible interface for managing remote servers, editing files, and running commands without switching between multiple applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/binaricat/Netcatty) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/binaricat/Netcatty) · [← Back to Frontend](./README.md)</sub>

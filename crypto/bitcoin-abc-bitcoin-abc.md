@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 783 |
+| 🍴 **Forks** | 782 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bitcoin` `bitcoin-abc` `ecash` `xec`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Crypto · DevOps/Infra
 
 ## 📝 Summary
 
-Here's a brief summary of the Bitcoin-ABC project:
-
-Bitcoin-ABC is an open-source project that develops node software and infrastructure for the eCash project, a decentralized cryptocurrency. This project serves as a mirror of the official Bitcoin-ABC repository, providing a community-driven alternative for developers to access and contribute to the project. By leveraging this project, users can explore and participate in the development of eCash's underlying technology.
+Bitcoin ABC is the reference implementation of node software and supporting infrastructure for the eCash blockchain, maintaining full compatibility with the original Bitcoin protocol while incorporating eCash‑specific upgrades. This open‑source repository mirrors the official Bitcoin‑ABC codebase, providing developers with the latest consensus rules, wallet, and networking features needed to run and contribute to the eCash network.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Bitcoin-ABC/bitcoin-abc) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Bitcoin-ABC/bitcoin-abc) · [← Back to Crypto](./README.md)</sub>

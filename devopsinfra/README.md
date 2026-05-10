@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**62 projects** in this category.
+**64 projects** in this category.
 
 ## Projects
 
@@ -59,17 +59,19 @@
 | 49 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 55/100 |
 | 50 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 55/100 |
 | 51 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 54/100 |
-| 52 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
-| 53 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
-| 54 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
-| 55 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
-| 56 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
-| 57 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 51/100 |
-| 58 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 51/100 |
-| 59 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
-| 60 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
-| 61 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 47/100 |
-| 62 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
+| 52 | [kubevirt/hyperconverged-cluster-operator](./kubevirt-hyperconverged-cluster-operator.md) | ⭐ 182 | Go | 53/100 |
+| 53 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
+| 54 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 53/100 |
+| 55 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 53/100 |
+| 56 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 52/100 |
+| 57 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 52/100 |
+| 58 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 52/100 |
+| 59 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 51/100 |
+| 60 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 51/100 |
+| 61 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 50/100 |
+| 62 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 63 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 47/100 |
+| 64 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
 
 ---
 

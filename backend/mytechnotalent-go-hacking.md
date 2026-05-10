@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`api` `api-security` `api-services` `arm` `arm32` `arm64` `cyber` `cybersecurity` `distributed` `go` `golang` `hack`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend · Security
 
 ## 📝 Summary
 
-Here's a brief summary for the Go-Hacking project:
-
-The Go-Hacking project is an open-source, comprehensive tutorial on reverse engineering Go programming language, covering x64, ARM64, and ARM32 architectures. This freely available resource guides users through a step-by-step learning process, from the basics to advanced techniques. By utilizing Go-Hacking, developers can enhance their understanding of the Go language and improve their skills in reverse engineering and security.
+A free, open‑source tutorial that walks you through reverse‑engineering Go binaries on x64, ARM64 and ARM32 platforms, covering all the essential concepts and tools from the ground up. It’s designed for developers and security researchers who want to master Go hacking and gain hands‑on experience with backend exploitation techniques.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/mytechnotalent/Go-Hacking) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mytechnotalent/Go-Hacking) · [← Back to Backend](./README.md)</sub>

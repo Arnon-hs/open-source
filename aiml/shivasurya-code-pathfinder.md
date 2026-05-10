@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-agents` `ai-sast` `application-security` `code-scanning` `mcp` `mcp-server` `sast` `security` `security-tools` `static-analysis` `static-code-analysis` `structural-search`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The code-pathfinder project is a static code analysis tool designed for security teams to identify vulnerabilities and derive valuable insights from code. It utilizes inter-file taint analysis to provide advanced structural search capabilities, making it easier to detect potential threats. By supporting Machine-Code-Path (MCP), this tool offers a comprehensive solution for security experts to navigate and safeguard their codebase.
+shivasurya/code‑pathfinder is an open‑source static code analysis platform designed for security teams, offering inter‑file taint tracking, advanced structural search, and vulnerability discovery across codebases. It provides deep insight generation and integrates with MCP for comprehensive threat modeling, while supporting both frontend and backend components powered by AI/ML techniques.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/shivasurya/code-pathfinder) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/shivasurya/code-pathfinder) · [← Back to AI/ML](./README.md)</sub>

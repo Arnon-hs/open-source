@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 541 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 545 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the open-source project:
-
-The Azure DevOps MCP (Multi-Cloud Platform) server brings the capabilities of Azure DevOps directly to your agents, enabling seamless integration and automation. This open-source project allows you to harness the power of Azure DevOps on your own infrastructure, providing increased flexibility and control. With MCP, you can leverage Azure DevOps features on-premises or in your own cloud environments.
+The **Azure DevOps MCP** (Microsoft Cloud Provider) server extends Azure DevOps functionality onto self‑hosted agents, enabling them to run pipelines, manage builds, and execute tasks without constant cloud round‑trips. By deploying the open‑source MCP server, organizations can bring the full power of Azure DevOps’ CI/CD, artifact handling, and extension ecosystem directly to their private infrastructure, improving latency, security, and offline capabilities. It serves as a backend component for AI/ML‑driven workflows while remaining fully customizable and extensible.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/microsoft/azure-devops-mcp) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/microsoft/azure-devops-mcp) · [← Back to AI/ML](./README.md)</sub>

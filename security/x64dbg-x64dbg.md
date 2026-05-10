@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`binary-analysis` `ctf` `cybersecurity` `debugger` `debugging` `disassembler` `dynamic-analysis` `exploit-development` `hacking` `malware-analysis` `offensive-security` `oscp`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Security
 
 ## 📝 Summary
 
-x64dbg is an open-source, user-mode debugger designed for Windows that excels in reverse engineering and malware analysis tasks. This versatile tool offers a comprehensive suite of features, allowing users to dissect and understand the inner workings of Windows applications. With its focus on security, x64dbg is a valuable resource for researchers and analysts seeking to uncover malicious code and enhance their reverse engineering skills.
+x64dbg is a free, open‑source user‑mode debugger for Windows, tailored specifically for reverse engineering, vulnerability research, and malware analysis. It offers a modern GUI, powerful scripting capabilities, and extensive plugin support, enabling analysts to efficiently inspect, modify, and trace program execution. The project is actively maintained by the security community and integrates with popular reverse‑engineering tools.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/x64dbg/x64dbg) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/x64dbg/x64dbg) · [← Back to Security](./README.md)</sub>

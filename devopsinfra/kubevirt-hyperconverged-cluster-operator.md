@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
+| ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hco` `hyperconverged` `kubernetes` `kubernetes-operator` `openshift` `operator` `virtualization`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevOps/Infra · Product
 
 ## 📝 Summary
 
-The kubevirt/hyperconverged-cluster-operator project is an open-source implementation of the operator pattern for managing complex multi-operator products. It provides a scalable and efficient way to deploy and manage hyperconverged clusters, simplifying the process of managing multiple interacting components. This project enables users to automate the lifecycle management of their clusters, reducing operational overhead and improving overall cluster reliability.
+The HyperConverged Cluster Operator (HCO) is an open‑source Kubernetes operator that orchestrates the deployment, configuration, and lifecycle of multiple related operators (such as KubeVirt, CDI, and SSP) to deliver a fully integrated hyper‑converged infrastructure stack. By abstracting the complexity of coordinating these components, HCO enables users to install, upgrade, and monitor a complete virtualization‑enabled OpenShift/Kubernetes environment through a single, declarative custom resource.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/kubevirt/hyperconverged-cluster-operator) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kubevirt/hyperconverged-cluster-operator) · [← Back to DevOps & Infra](./README.md)</sub>

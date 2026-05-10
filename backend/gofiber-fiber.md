@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`express` `expressjs` `fast` `fiber` `flexible` `framework` `friendly` `go` `golang` `hacktoberfest` `hacktoberfest2020` `nodejs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Backend
 
 ## 📝 Summary
 
-Here's a brief summary of the gofiber/fiber project:
-
-gofiber/fiber is an open-source, Express-inspired web framework written in Go that aims to provide a fast, lightweight, and efficient way to build web applications. This framework offers a simple and intuitive API, making it ideal for developers looking to create scalable and high-performance web servers. By leveraging Go's concurrency features, fiber enables developers to write efficient and concurrent web applications.
+goFiber is a high‑performance, minimalist web framework for Go that draws inspiration from Express.js, offering an intuitive routing API, built‑in middleware support, and a lightweight core optimized for speed and low memory usage. It enables developers to quickly build scalable backend services and APIs while leveraging Go’s concurrency model and native HTTP capabilities.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/gofiber/fiber) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/gofiber/fiber) · [← Back to Backend](./README.md)</sub>

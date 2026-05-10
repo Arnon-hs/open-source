@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `golang` `http3` `protocol` `qlog` `quic` `quic-client` `quic-server`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-quic-go is an open-source, production-ready implementation of the QUIC (Quick UDP Internet Connections) protocol in pure Go. This flexible and efficient library enables developers to easily integrate QUIC into their applications, offering a scalable and secure alternative to traditional transport protocols. By leveraging the simplicity and concurrency capabilities of Go, quic-go provides a robust foundation for building high-performance QUIC-based systems.
+quic-go is a fully-featured, production‑ready implementation of the QUIC protocol written in pure Go. It provides both client and server APIs that integrate seamlessly with Go’s standard networking libraries, enabling developers to add low‑latency, multiplexed, and secure transport to any backend or frontend service. The library is actively maintained, well‑documented, and widely used in cloud, CDN, and web‑application projects.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/quic-go/quic-go) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/quic-go/quic-go) · [← Back to Frontend](./README.md)</sub>

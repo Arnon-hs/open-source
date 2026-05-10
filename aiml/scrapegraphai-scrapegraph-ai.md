@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.4k |
-| 🍴 **Forks** | 2.1k |
+| ⭐ **Stars** | 24.9k |
+| 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai-crawler` `ai-scraping` `ai-search` `crawler` `data-extraction` `firecrawl-alternative` `large-language-model` `llm` `markdown` `rag` `scraping` `scraping-python`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Backend · Data
 
 ## 📝 Summary
 
-Scrapegraph-ai is an open-source Python scraper powered by artificial intelligence (AI) that enables users to efficiently extract and process data from various web sources. By leveraging AI capabilities, this project simplifies the data scraping process, allowing developers to focus on data analysis and insights. It offers a powerful backend solution for data collection and processing.
+ScrapeGraphAI (Scrapegraph‑ai) is an open‑source Python library that combines web‑scraping with generative AI to automatically extract structured data from arbitrary web pages. By leveraging large language models, it transforms raw HTML into clean, queryable graphs or tables without requiring custom parsing rules, making it ideal for data‑driven backend pipelines and machine‑learning workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [← Back to AI/ML](./README.md)</sub>

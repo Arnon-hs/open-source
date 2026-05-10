@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.1k |
-| 🍴 **Forks** | 582 |
+| 🍴 **Forks** | 585 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arthursonzogni` `ascii` `ascii-art` `cpp` `curse` `simple` `terminal` `terminal-based` `tui` `ui` `user-interface` `xterm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Here is a brief summary for the FTXUI project:
-
-FTXUI is a lightweight, open-source C++ library for building functional terminal user interfaces. It enables developers to create interactive command-line applications with a modern, intuitive design. With FTXUI, users can leverage the power of a terminal interface while enjoying a seamless and user-friendly experience.
+ArthurSonzogni/FTXUI is a lightweight, header‑only C++ library that enables developers to build rich, interactive terminal user interfaces using a functional, declarative style. It provides a set of composable widgets, layout tools, and event handling mechanisms that work across major platforms, making it ideal for creating modern CLI applications without external GUI dependencies.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ArthurSonzogni/FTXUI) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ArthurSonzogni/FTXUI) · [← Back to Frontend](./README.md)</sub>

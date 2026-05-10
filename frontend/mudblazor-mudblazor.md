@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`blazor` `blazor-components` `component` `component-library` `components` `csharp` `material` `wasm`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend · Design
 
 ## 📝 Summary
 
-MudBlazor/MudBlazor is a promising open-source project. Categories: Frontend, Design. Interest score: 100/100.
+MudBlazor is an open‑source component library for Blazor that implements Google's Material Design guidelines, providing a rich set of ready‑to‑use UI controls such as tables, charts, dialogs, and navigation elements. It emphasizes a pure‑C# and CSS‑centric approach, minimizing JavaScript dependencies while enabling developers to build modern, responsive web applications quickly and consistently.
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/MudBlazor/MudBlazor) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/MudBlazor/MudBlazor) · [← Back to Frontend](./README.md)</sub>

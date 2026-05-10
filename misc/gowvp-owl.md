@@ -1,6 +1,6 @@
 # gowvp/owl
 
-[![Stars](https://img.shields.io/github/stars/gowvp/owl?style=flat-square&color=yellow)](https://github.com/gowvp/owl/stargazers) [![Forks](https://img.shields.io/github/forks/gowvp/owl?style=flat-square&color=blue)](https://github.com/gowvp/owl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gowvp/owl?style=flat-square&color=yellow)](https://github.com/gowvp/owl/stargazers) [![Forks](https://img.shields.io/github/forks/gowvp/owl?style=flat-square&color=blue)](https://github.com/gowvp/owl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > GB28181 - 2022 NVR | ONVIF/RTMP/RTSP | ZLMediaKit | 本地 YOLO 检测 | 私有部署 | Frigate 中文平替
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 725 |
-| 🍴 **Forks** | 133 |
+| ⭐ **Stars** | 729 |
+| 🍴 **Forks** | 134 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`an-fang` `frigate` `gb28181` `gb28181-2022` `homekit` `onvif` `rtmp` `rtsp` `wvp` `yolo` `zlm`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the gowvp/owl project:
-
-gowvp/owl is an open-source project that provides a GB28181-2022 compliant NVR (Network Video Recorder) server, supporting various protocols including ONVIF, RTMP, and RTSP. The project also utilizes ZLMediaKit for media processing and integrates local YOLO (You Only Look Once) object detection capabilities. This private deployment solution is designed for secure and customizable video surveillance management.
+gowvp/owl is an open‑source, self‑hosted video‑surveillance solution that implements the GB28181‑2022 NVR protocol and integrates ONVIF, RTMP, and RTSP streams via ZLMediaKit. It adds on‑device AI by running local YOLO object detection and serves as a Chinese‑language alternative to Frigate for private deployments.
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/gowvp/owl) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/gowvp/owl) · [← Back to Misc](./README.md)</sub>

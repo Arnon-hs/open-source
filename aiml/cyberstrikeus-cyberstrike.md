@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 250 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 261 |
+| 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agent` `appsec` `atomic-red-team` `bug-bounty` `cis-benchmarks` `cybersecurity` `devsecops` `ethical-hacking` `mcp` `mitre-attack` `nist`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools · Security
 
 ## 📝 Summary
 
-Here's a brief summary of the project:
-
-CyberStrike is an open-source, AI-powered offensive security agent that leverages 7,300+ actionable security skills to identify and exploit vulnerabilities. Powered by industry-leading frameworks such as MITRE ATT&CK, CIS Benchmarks, OWASP, and NIST, CyberStrike automates pentesting with zero context pollution. This autonomous red team tool is designed to simulate real-world attacks and provide actionable security insights.
+CyberStrike is an open‑source, AI‑driven offensive security agent that automates penetration testing and red‑team operations. Leveraging MITRE ATT&CK (2,000+ atomic tests), CIS Benchmarks (1,500+ controls), OWASP, and NIST, it provides over 7,300 actionable security skills while using lazy‑loading and zero context‑pollution techniques for fast, isolated execution. Ideal for developers and security teams seeking an autonomous, AI‑powered red‑team toolkit.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/CyberStrikeus/CyberStrike) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/CyberStrikeus/CyberStrike) · [← Back to AI/ML](./README.md)</sub>
