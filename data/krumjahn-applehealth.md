@@ -1,6 +1,6 @@
 # krumjahn/applehealth
 
-[![Stars](https://img.shields.io/github/stars/krumjahn/applehealth?style=flat-square&color=yellow)](https://github.com/krumjahn/applehealth/stargazers) [![Forks](https://img.shields.io/github/forks/krumjahn/applehealth?style=flat-square&color=blue)](https://github.com/krumjahn/applehealth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krumjahn/applehealth?style=flat-square&color=yellow)](https://github.com/krumjahn/applehealth/stargazers) [![Forks](https://img.shields.io/github/forks/krumjahn/applehealth?style=flat-square&color=blue)](https://github.com/krumjahn/applehealth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Export your Apple Health data and turn them into insights and visualizations using A.I.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,56 @@ Data
 
 ## 📝 Summary
 
+### English
+
 The **krumjahn/applehealth** project provides tools to export data from Apple Health, process it, and generate AI‑driven insights and visualizations. It automates the conversion of raw health metrics into clear charts and analytic reports, making personal health data easier to explore and understand. Suitable for developers and researchers who want to analyze Apple Health datasets in an open‑source environment.
+
+### Русский
+
+**krumjahn/applehealth** – открытый инструмент для экспорта данных Apple Health, их анализа и создания визуальных отчётов с помощью методов искусственного интеллекта. Проект позволяет быстро преобразовать собранные показатели здоровья в понятные инсайты и интерактивные графики, помогая пользователям лучше понимать свои привычки и состояние организма.
+
+### 中文
+
+krumjahn/applehealth：krumjahn/applehealth helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** krumjahn/applehealth helps convert raw data into searchable, analyzable, or automated pipelines.
+
+**Best use cases**
+
+- organize analytics pipelines
+- process datasets
+- improve reporting workflows
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 396 GitHub stars
+- 35 forks
+- updated 2026-05-10
+- primary language: Python
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 63/100 |
+| integration | 46/100 |
+| production | 70/100 |
+| outlook | 66/100 |
+| adoption | 51/100 |
+| stars | 55/100 |
+| forks | 39/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 100/100 |
 
 ---
 

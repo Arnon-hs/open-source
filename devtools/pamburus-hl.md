@@ -25,7 +25,57 @@ DevTools
 
 ## 📝 Summary
 
+### English
+
 pamburus/hl is a high‑performance log viewer and processor that transforms JSON or logfmt‑encoded logs into a clean, human‑readable format. It streams logs quickly, supports filtering, color‑coded output, and customizable formatting, making debugging and analysis faster and more intuitive. Ideal for developers who need a lightweight yet powerful tool for real‑time log inspection.
+
+### Русский
+
+pamburus/hl — это быстрый и мощный инструмент для просмотра и обработки журналов, позволяющий преобразовывать логи в формате JSON или logfmt в удобочитаемый человеко‑ориентированный вид. Он поддерживает гибкую фильтрацию, раскраску и агрегацию записей, что делает его незаменимым в процессе отладки и анализа. Проект относится к категории DevTools и распространяется под открытой лицензией.
+
+### 中文
+
+pamburus/hl：pamburus/hl helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** pamburus/hl helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 3122 GitHub stars
+- 64 forks
+- updated 2026-05-08
+- primary language: Rust
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 85/100 |
+| integration | 46/100 |
+| production | 78/100 |
+| outlook | 86/100 |
+| adoption | 66/100 |
+| stars | 74/100 |
+| forks | 45/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

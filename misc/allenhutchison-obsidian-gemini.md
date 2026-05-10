@@ -1,6 +1,6 @@
 # allenhutchison/obsidian-gemini
 
-[![Stars](https://img.shields.io/github/stars/allenhutchison/obsidian-gemini?style=flat-square&color=yellow)](https://github.com/allenhutchison/obsidian-gemini/stargazers) [![Forks](https://img.shields.io/github/forks/allenhutchison/obsidian-gemini?style=flat-square&color=blue)](https://github.com/allenhutchison/obsidian-gemini/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenhutchison/obsidian-gemini?style=flat-square&color=yellow)](https://github.com/allenhutchison/obsidian-gemini/stargazers) [![Forks](https://img.shields.io/github/forks/allenhutchison/obsidian-gemini?style=flat-square&color=blue)](https://github.com/allenhutchison/obsidian-gemini/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An obsidian plugin to interact with Google Gemini
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 425 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,54 @@ Misc
 
 ## 📝 Summary
 
+### English
+
 A lightweight Obsidian plugin that lets users query and generate content using Google Gemini directly within their notes. It provides a simple interface for sending prompts to Gemini, receiving AI‑generated responses, and inserting the results into the active markdown file. Ideal for enriching personal knowledge bases with AI‑assisted writing and research.
+
+### Русский
+
+Объединяет возможности Obsidian с мощным API Google Gemini, позволяя пользователям генерировать, дополнять и редактировать заметки прямо из редактора. Плагин поддерживает интерактивный чат, автоматическое заполнение контента и настройку параметров модели, упрощая работу с искусственным интеллектом без выхода из Obsidian. Под лицензией MIT, проект открыт для доработок и расширения сообщества.
+
+### 中文
+
+allenhutchison/obsidian-gemini：allenhutchison/obsidian-gemini may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** allenhutchison/obsidian-gemini may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 425 GitHub stars
+- 56 forks
+- updated 2026-05-10
+- primary language: TypeScript
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 64/100 |
+| integration | 78/100 |
+| production | 75/100 |
+| outlook | 67/100 |
+| adoption | 53/100 |
+| stars | 56/100 |
+| forks | 44/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 100/100 |
 
 ---
 

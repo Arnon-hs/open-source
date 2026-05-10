@@ -25,7 +25,57 @@ Payments
 
 ## 📝 Summary
 
+### English
+
 SteveTheKiller/KillerPDF is a lightweight, open‑source PDF editor for Windows that can be installed normally or used as a portable executable. Released under the GPL‑v3 license, it provides full editing capabilities without requiring an account, subscription, or any telemetry. Ideal for users who need a privacy‑focused, cost‑free alternative for PDF manipulation.
+
+### Русский
+
+SteveTheKiller/KillerPDF — это бесплатный PDF‑редактор для Windows, доступный как в виде установочного пакета, так и в портативном варианте. Приложение распространяется по лицензии GPL v3, полностью открытое, без необходимости регистрации, подписки и сбора телеметрии. Идеально подходит для быстрых и безопасных операций с PDF‑документами без скрытых платежей.
+
+### 中文
+
+SteveTheKiller/KillerPDF：SteveTheKiller/KillerPDF helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** SteveTheKiller/KillerPDF helps integrate monetization, billing, or PSP flows faster.
+
+**Best use cases**
+
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1321 GitHub stars
+- 64 forks
+- updated 2026-05-08
+- primary language: C#
+- 8 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 82/100 |
+| integration | 30/100 |
+| production | 75/100 |
+| outlook | 79/100 |
+| adoption | 61/100 |
+| stars | 66/100 |
+| forks | 45/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

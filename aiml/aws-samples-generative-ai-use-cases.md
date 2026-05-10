@@ -25,7 +25,57 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-aws-samples/generative-ai-use-cases is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 66/100.
+### English
+
+aws-samples/generative-ai-use-cases: aws-samples/generative-ai-use-cases helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+aws-samples/generative-ai-use-cases: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+aws-samples/generative-ai-use-cases：aws-samples/generative-ai-use-cases helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** aws-samples/generative-ai-use-cases helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1335 GitHub stars
+- 426 forks
+- updated 2026-05-07
+- primary language: TypeScript
+- 19 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 80/100 |
+| integration | 46/100 |
+| production | 72/100 |
+| outlook | 76/100 |
+| adoption | 66/100 |
+| stars | 67/100 |
+| forks | 66/100 |
+| recency | 80/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

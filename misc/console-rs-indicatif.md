@@ -1,6 +1,6 @@
 # console-rs/indicatif
 
-[![Stars](https://img.shields.io/github/stars/console-rs/indicatif?style=flat-square&color=yellow)](https://github.com/console-rs/indicatif/stargazers) [![Forks](https://img.shields.io/github/forks/console-rs/indicatif?style=flat-square&color=blue)](https://github.com/console-rs/indicatif/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/console-rs/indicatif?style=flat-square&color=yellow)](https://github.com/console-rs/indicatif/stargazers) [![Forks](https://img.shields.io/github/forks/console-rs/indicatif?style=flat-square&color=blue)](https://github.com/console-rs/indicatif/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A command line progress reporting library for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 277 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,54 @@ Misc
 
 ## 📝 Summary
 
+### English
+
 **console‑rs/indicatif** is a Rust library that provides simple, flexible tools for displaying progress bars, spinners, and other command‑line progress indicators. It supports multi‑threaded environments, customizable styles, and automatic handling of terminal capabilities, making it easy to add polished progress reporting to Rust CLI applications.
+
+### Русский
+
+**console-rs/indicatif** — это лёгкая и гибкая библиотека для Rust, позволяющая выводить в терминале информативные индикаторы прогресса, спиннеры и статусные сообщения. Она поддерживает кастомизацию стилей, многопоточный рендеринг и автоматическое обновление, что делает её удобным инструментом для создания удобных CLI‑утилит. Проект находится в категории Misc и полностью открыт для сообщества.
+
+### 中文
+
+console-rs/indicatif：console-rs/indicatif may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** console-rs/indicatif may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 5131 GitHub stars
+- 277 forks
+- updated 2026-05-09
+- primary language: Rust
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 73/100 |
+| integration | 30/100 |
+| production | 72/100 |
+| outlook | 72/100 |
+| adoption | 74/100 |
+| stars | 79/100 |
+| forks | 61/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 100/100 |
 
 ---
 

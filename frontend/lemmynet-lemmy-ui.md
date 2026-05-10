@@ -25,7 +25,57 @@ Frontend
 
 ## 📝 Summary
 
+### English
+
 Lemmy‑UI is the official web front‑end for Lemmy, an open‑source, federated discussion platform. Built with modern JavaScript frameworks, it provides a responsive, feature‑rich interface for browsing, posting, and interacting with communities across the Lemmy network. The project is maintained as an open‑source frontend component, enabling easy customization and integration with any Lemmy instance.
+
+### Русский
+
+LemmyNet/lemmy‑ui — официальное клиентское веб‑приложение для платформы Lemmy, реализованное на современном фронтенде. Оно предоставляет пользователям удобный интерфейс для просмотра, создания и комментирования постов, а также управления подписками и настройками аккаунта. Проект полностью открытый, легко интегрируется с любой публичной или самоуправляемой инстанцией Lemmy.
+
+### 中文
+
+LemmyNet/lemmy-ui：LemmyNet/lemmy-ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** LemmyNet/lemmy-ui helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 991 GitHub stars
+- 372 forks
+- updated 2026-05-09
+- primary language: CSS
+- 4 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 76/100 |
+| integration | 30/100 |
+| production | 73/100 |
+| outlook | 74/100 |
+| adoption | 64/100 |
+| stars | 64/100 |
+| forks | 64/100 |
+| recency | 100/100 |
+| topics | 50/100 |
+| sourceTrust | 100/100 |
 
 ---
 

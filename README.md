@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **5866** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **5889** |
+| 📁 **Categories** | **19** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
 
@@ -18,15 +18,15 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2338 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1079 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 584 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 529 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 310 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 284 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 207 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 2341 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1087 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 586 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 530 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 311 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 286 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 208 | [Browse →](./crypto/) |
 | 📊 **Data** | 139 | [Browse →](./data/) |
-| 💳 **Payments** | 94 | [Browse →](./payments/) |
+| 💳 **Payments** | 95 | [Browse →](./payments/) |
 | 📱 **Mobile** | 76 | [Browse →](./mobile/) |
 | 📈 **Trading** | 76 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 65 | [Browse →](./devopsinfra/) |
@@ -34,21 +34,24 @@
 | ✨ **Design** | 19 | [Browse →](./design/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 8 | [Browse →](./marketing/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| 🏷️ **Database** | 1 | [Browse →](./database/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [pear-devs/pear-desktop](./misc/pear-devs-pear-desktop.md) | ⭐ 31.6k | Misc |
-| 2 | [flame-engine/flame](./mobile/flame-engine-flame.md) | ⭐ 10.6k | Mobile |
-| 3 | [openebs/openebs](./aiml/openebs-openebs.md) | ⭐ 9.7k | AI/ML |
-| 4 | [moeru-ai/airi](./aiml/moeru-ai-airi.md) | ⭐ 39.1k | AI/ML |
-| 5 | [VoltAgent/awesome-agent-skills](./orchestration/voltagent-awesome-agent-skills.md) | ⭐ 21.1k | Orchestration |
-| 6 | [dockur/windows](./aiml/dockur-windows.md) | ⭐ 51.3k | AI/ML |
-| 7 | [gofiber/fiber](./backend/gofiber-fiber.md) | ⭐ 39.7k | Backend |
-| 8 | [x64dbg/x64dbg](./security/x64dbg-x64dbg.md) | ⭐ 48.3k | Security |
-| 9 | [laurent22/joplin](./frontend/laurent22-joplin.md) | ⭐ 54.7k | Frontend |
-| 10 | [MudBlazor/MudBlazor](./frontend/mudblazor-mudblazor.md) | ⭐ 10.4k | Frontend |
+| 1 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
+| 2 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 3 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
+| 4 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
+| 5 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
+| 6 | [mcp-use/mcp-use](./aiml/mcp-use-mcp-use.md) | ⭐ 9.9k | AI/ML |
+| 7 | [D4Vinci/Scrapling](./aiml/d4vinci-scrapling.md) | ⭐ 47.9k | AI/ML |
+| 8 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 35k | Orchestration |
+| 9 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 36.8k | Orchestration |
+| 10 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
 
 ## 🚀 How it works
 
@@ -62,9 +65,9 @@ graph LR
 ```
 
 1. **Discover** — 4 sources pulled in parallel
-2. **Score** — weighted: stars, forks, recency, topics, source trust
-3. **Categorize** — rule-based + LLM-assisted tagging
-4. **Summarize** — concise bilingual (EN/RU) summaries via LLM
+2. **Score** — weighted: usefulness, quality, integration, production readiness, outlook, adoption
+3. **Categorize** — rule-based tagging across product domains, integrations, MCP, RAG, automation and infrastructure
+4. **Summarize** — concise RU/EN/ZH summaries via LLM with deterministic fallback
 5. **Sync** — markdown committed here, metadata upserted to PostgreSQL
 
 ## 🛠️ Self-host

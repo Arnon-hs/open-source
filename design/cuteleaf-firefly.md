@@ -25,7 +25,55 @@ Design
 
 ## 📝 Summary
 
+### English
+
 CuteLeaf / Firefly is an open‑source Astro theme that delivers a fresh, minimalist design for static blogs. Built as a secondary development of the Fuwari template, it offers a clean, aesthetically‑pleasing layout with customizable components and easy integration for Astro‑based sites. Ideal for designers and developers seeking a modern, lightweight blog appearance.
+
+### Русский
+
+CuteLeaf/Firefly — это открытая тема для статических блогов на базе Astro, вдохновлённая оригинальной темой Fuwari. Она сочетает свежий, минималистичный дизайн с продуманными UI‑элементами, обеспечивая быструю загрузку и лёгкую настройку. Идеальна для разработчиков, желающих быстро развернуть эстетичный и полностью кастомизируемый блог.
+
+### 中文
+
+CuteLeaf/Firefly：CuteLeaf/Firefly may be useful when its README and activity match a concrete workflow.。适合用于Design。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** CuteLeaf/Firefly may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 937 GitHub stars
+- 479 forks
+- updated 2026-05-08
+- primary language: Astro
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 84/100 |
+| integration | 46/100 |
+| production | 78/100 |
+| outlook | 79/100 |
+| adoption | 64/100 |
+| stars | 63/100 |
+| forks | 67/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

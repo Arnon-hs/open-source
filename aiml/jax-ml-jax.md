@@ -1,6 +1,6 @@
 # jax-ml/jax
 
-[![Stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&color=yellow)](https://github.com/jax-ml/jax/stargazers) [![Forks](https://img.shields.io/github/forks/jax-ml/jax?style=flat-square&color=blue)](https://github.com/jax-ml/jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&color=yellow)](https://github.com/jax-ml/jax/stargazers) [![Forks](https://img.shields.io/github/forks/jax-ml/jax?style=flat-square&color=blue)](https://github.com/jax-ml/jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML
 
 ## 📝 Summary
 
-jax-ml/jax is a promising open-source project. Categories: AI/ML. Interest score: 91/100.
+### English
+
+jax-ml/jax: jax-ml/jax helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+jax-ml/jax: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+jax-ml/jax：jax-ml/jax helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** jax-ml/jax helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 35571 GitHub stars
+- 3565 forks
+- updated 2026-05-07
+- primary language: Python
+- 1 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 84/100 |
+| integration | 46/100 |
+| production | 78/100 |
+| outlook | 78/100 |
+| adoption | 95/100 |
+| stars | 97/100 |
+| forks | 89/100 |
+| recency | 100/100 |
+| topics | 13/100 |
+| sourceTrust | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # whoahaow/rjsxrd
 
-[![Stars](https://img.shields.io/github/stars/whoahaow/rjsxrd?style=flat-square&color=yellow)](https://github.com/whoahaow/rjsxrd/stargazers) [![Forks](https://img.shields.io/github/forks/whoahaow/rjsxrd?style=flat-square&color=blue)](https://github.com/whoahaow/rjsxrd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whoahaow/rjsxrd?style=flat-square&color=yellow)](https://github.com/whoahaow/rjsxrd/stargazers) [![Forks](https://img.shields.io/github/forks/whoahaow/rjsxrd?style=flat-square&color=blue)](https://github.com/whoahaow/rjsxrd/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Обход блокировок. Обход белых списков. Обход белого списка.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 518 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Frontend
 
 ## 📝 Summary
 
+### English
+
 **whoahaow/rjsxrd** is an open‑source frontend tool designed to bypass various types of content restrictions, including blocklists and whitelists. It provides mechanisms to circumvent site‑wide blocks and whitelist filters, enabling unrestricted access to web resources. The project focuses on client‑side techniques for overcoming these access controls.
+
+### Русский
+
+**whoahaow/rjsxrd** – это open‑source инструмент для обхода различных блокировок и белых списков в веб‑приложениях, ориентированный на Frontend‑разработчиков. Он предоставляет набор лёгких JavaScript‑модулей, позволяющих динамически менять запросы и заголовки, подменять источники контента и обходить ограничения, наложенные фильтрами и политиками доступа. Проект легко интегрируется в существующие сборки и поддерживает настройку под любые сценарии обхода.
+
+### 中文
+
+whoahaow/rjsxrd：whoahaow/rjsxrd helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** whoahaow/rjsxrd helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 518 GitHub stars
+- 18 forks
+- updated 2026-05-09
+- primary language: Python
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 78/100 |
+| integration | 46/100 |
+| production | 76/100 |
+| outlook | 76/100 |
+| adoption | 51/100 |
+| stars | 58/100 |
+| forks | 32/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

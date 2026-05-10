@@ -1,6 +1,6 @@
 # Dicklesworthstone/ntm
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/ntm?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/ntm/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/ntm?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/ntm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/ntm?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/ntm/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/ntm?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/ntm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 272 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Dicklesworthstone/ntm is a promising open-source project. Categories: AI/ML, Frontend, DevTools. Interest score: 49/100.
+### English
+
+Dicklesworthstone/ntm: Dicklesworthstone/ntm helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+Dicklesworthstone/ntm: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+Dicklesworthstone/ntm：Dicklesworthstone/ntm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** Dicklesworthstone/ntm helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 272 GitHub stars
+- 44 forks
+- updated 2026-05-07
+- primary language: Go
+- 5 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 90/100 |
+| quality | 71/100 |
+| integration | 62/100 |
+| production | 76/100 |
+| outlook | 81/100 |
+| adoption | 49/100 |
+| stars | 52/100 |
+| forks | 41/100 |
+| recency | 100/100 |
+| topics | 63/100 |
+| sourceTrust | 100/100 |
 
 ---
 

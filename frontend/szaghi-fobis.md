@@ -1,6 +1,6 @@
 # szaghi/FoBiS
 
-[![Stars](https://img.shields.io/github/stars/szaghi/FoBiS?style=flat-square&color=yellow)](https://github.com/szaghi/FoBiS/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FoBiS?style=flat-square&color=blue)](https://github.com/szaghi/FoBiS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/szaghi/FoBiS?style=flat-square&color=yellow)](https://github.com/szaghi/FoBiS/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FoBiS?style=flat-square&color=blue)](https://github.com/szaghi/FoBiS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > FoBiS.py, Fortran projects Building System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Frontend · DevTools
 
 ## 📝 Summary
 
+### English
+
 FoBiS.py (Fortran Build System) is an open‑source, Python‑based tool that streamlines the compilation, testing, and deployment of Fortran projects. It provides a simple, cross‑platform command‑line interface for managing source files, dependencies, and build configurations, making Fortran development faster and more reproducible. Ideal for both small scripts and large scientific codebases, FoBiS.py integrates seamlessly with existing workflows and continuous‑integration pipelines.
+
+### Русский
+
+FoBiS.py — это открытая система сборки Fortran‑проекта, позволяющая быстро и удобно управлять компиляцией, зависимостями и тестированием кода. Инструмент предоставляет гибкий frontend и набор DevTools, поддерживает различные компиляторы и платформы, а также интегрируется с системами контроля версий. Благодаря простому конфигурационному файлу и автоматическому обнаружению модулей FoBiS.py ускоряет разработку и упрощает поддержание больших Fortran‑проектов.
+
+### 中文
+
+szaghi/FoBiS：szaghi/FoBiS helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** szaghi/FoBiS helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 144 GitHub stars
+- 38 forks
+- updated 2026-05-08
+- primary language: Python
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 90/100 |
+| quality | 75/100 |
+| integration | 62/100 |
+| production | 77/100 |
+| outlook | 84/100 |
+| adoption | 44/100 |
+| stars | 46/100 |
+| forks | 40/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

@@ -25,7 +25,57 @@ Backend · DevTools · Data
 
 ## 📝 Summary
 
-akto-api-security/akto is a promising open-source project. Categories: Backend, DevTools, Data. Interest score: 65/100.
+### English
+
+akto-api-security/akto: akto-api-security/akto helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+akto-api-security/akto: open-source проект в категориях Backend, DevTools, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+akto-api-security/akto：akto-api-security/akto helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** akto-api-security/akto helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1472 GitHub stars
+- 282 forks
+- updated 2026-05-07
+- primary language: Java
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 80/100 |
+| integration | 46/100 |
+| production | 71/100 |
+| outlook | 76/100 |
+| adoption | 66/100 |
+| stars | 67/100 |
+| forks | 61/100 |
+| recency | 80/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

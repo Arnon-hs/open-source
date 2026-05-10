@@ -1,6 +1,6 @@
 # SharpAI/SwiftLM
 
-[![Stars](https://img.shields.io/github/stars/SharpAI/SwiftLM?style=flat-square&color=yellow)](https://github.com/SharpAI/SwiftLM/stargazers) [![Forks](https://img.shields.io/github/forks/SharpAI/SwiftLM?style=flat-square&color=blue)](https://github.com/SharpAI/SwiftLM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SharpAI/SwiftLM?style=flat-square&color=yellow)](https://github.com/SharpAI/SwiftLM/stargazers) [![Forks](https://img.shields.io/github/forks/SharpAI/SwiftLM?style=flat-square&color=blue)](https://github.com/SharpAI/SwiftLM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 632 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
+### English
+
 SharpAI/SwiftLM is a native Swift‑based inference server that leverages Apple Silicon’s MLX framework to run large language models—including 100 billion‑parameter Mixture‑of‑Experts architectures—directly on macOS and iOS devices. It offers an OpenAI‑compatible API, SSD‑backed model streaming, TurboQuant KV‑cache compression, and even a companion iPhone app, making high‑performance LLM deployment accessible for trading, AI/ML, and backend workloads.
+
+### Русский
+
+SharpAI/SwiftLM — это нативный сервер инференса больших языковых моделей на базе MLX и Swift, оптимизированный под Apple Silicon. Он предлагает совместимый с OpenAI API, поддерживает потоковую загрузку SSD‑моделей более 100 млрд параметров (включая MoE), ускоряет работу KV‑кешей технологией TurboQuant и доступен как на macOS, так и в виде iOS‑приложения. Проект ориентирован на задачи трейдинга, AI/ML и высокопроизводительный backend.
+
+### 中文
+
+SharpAI/SwiftLM：SharpAI/SwiftLM helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** SharpAI/SwiftLM helps research and automate market workflows.
+
+**Best use cases**
+
+- research trading systems
+- backtest strategies
+- monitor market workflows
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 632 GitHub stars
+- 34 forks
+- updated 2026-05-08
+- primary language: Swift
+- 10 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 79/100 |
+| integration | 46/100 |
+| production | 76/100 |
+| outlook | 80/100 |
+| adoption | 54/100 |
+| stars | 60/100 |
+| forks | 39/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

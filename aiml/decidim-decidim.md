@@ -25,7 +25,57 @@ AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
+### English
+
 Decidim is an open‑source participatory democracy platform built on Ruby on Rails, offering a generator and a suite of gems that enable municipalities, organizations, and communities to create transparent, citizen‑driven decision‑making processes. It provides modular components for proposals, voting, budgeting, and collaborative planning, making it easy to deploy custom democratic applications while adhering to best practices in security and scalability.
+
+### Русский
+
+Decidim — это открытая платформа для организации интерактивной демократии, построенная на Ruby on Rails и распределённая в виде генератора и набора гемов. Она позволяет муниципалитетам, НКО и сообществам создавать кастомные публичные консультации, голосования и процедуры совместного принятия решений, легко интегрируясь в существующую инфраструктуру и поддерживая автоматизацию DevOps. Благодаря модульному дизайну и расширяемому API Decidim подходит как для небольших проектов, так и для масштабных государственных инициатив.
+
+### 中文
+
+decidim/decidim：decidim/decidim helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** decidim/decidim helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1745 GitHub stars
+- 466 forks
+- updated 2026-05-08
+- primary language: Ruby
+- 15 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 86/100 |
+| integration | 46/100 |
+| production | 79/100 |
+| outlook | 84/100 |
+| adoption | 68/100 |
+| stars | 69/100 |
+| forks | 67/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

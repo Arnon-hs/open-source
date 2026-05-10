@@ -1,6 +1,6 @@
 # Mastercard/developers-agent-toolkit
 
-[![Stars](https://img.shields.io/github/stars/Mastercard/developers-agent-toolkit?style=flat-square&color=yellow)](https://github.com/Mastercard/developers-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/Mastercard/developers-agent-toolkit?style=flat-square&color=blue)](https://github.com/Mastercard/developers-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mastercard/developers-agent-toolkit?style=flat-square&color=yellow)](https://github.com/Mastercard/developers-agent-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/Mastercard/developers-agent-toolkit?style=flat-square&color=blue)](https://github.com/Mastercard/developers-agent-toolkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > The Mastercard Developers Agent Toolkit allows popular agent frameworks to integrate with Mastercard Developers Platform for service discovery and integration guides.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
+### English
+
 The Mastercard Developers Agent Toolkit provides ready‑to‑use adapters that let popular AI agent frameworks (such as LangChain, CrewAI, and others) connect directly to the Mastercard Developers Platform. By exposing Mastercard’s service catalog and integration guides, the toolkit enables agents to discover, invoke, and orchestrate Mastercard APIs for payments, security, and data services, streamlining the development of AI‑driven financial applications. It is an open‑source solution focused on orchestration, AI/ML, and frontend integration.
+
+### Русский
+
+Open‑source проект **Mastercard/developers-agent-toolkit** предоставляет набор компонентов, позволяющих популярным фреймворкам агентов (Orchestration, AI/ML, Frontend) подключаться к платформе Mastercard Developers для автоматического обнаружения сервисов и получения интерактивных руководств по их интеграции. Инструментарий упрощает процесс создания интеллектуальных приложений, обеспечивая единый интерфейс к API‑каталогу Mastercard и ускоряя разработку безопасных и масштабируемых решений.
+
+### 中文
+
+Mastercard/developers-agent-toolkit：Mastercard/developers-agent-toolkit helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** Mastercard/developers-agent-toolkit helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 47 GitHub stars
+- 25 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 100/100 |
+| quality | 71/100 |
+| integration | 78/100 |
+| production | 78/100 |
+| outlook | 84/100 |
+| adoption | 36/100 |
+| stars | 36/100 |
+| forks | 35/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # latex3/latex2e
 
-[![Stars](https://img.shields.io/github/stars/latex3/latex2e?style=flat-square&color=yellow)](https://github.com/latex3/latex2e/stargazers) [![Forks](https://img.shields.io/github/forks/latex3/latex2e?style=flat-square&color=blue)](https://github.com/latex3/latex2e/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/latex3/latex2e?style=flat-square&color=yellow)](https://github.com/latex3/latex2e/stargazers) [![Forks](https://img.shields.io/github/forks/latex3/latex2e?style=flat-square&color=blue)](https://github.com/latex3/latex2e/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The LaTeX2e kernel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,55 @@ Misc
 
 ## 📝 Summary
 
-latex3/latex2e is a promising open-source project. Categories: Misc. Interest score: 64/100.
+### English
+
+latex3/latex2e: latex3/latex2e may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+latex3/latex2e: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+latex3/latex2e：latex3/latex2e may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** latex3/latex2e may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2385 GitHub stars
+- 308 forks
+- updated 2026-05-07
+- primary language: TeX
+- 2 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 75/100 |
+| integration | 30/100 |
+| production | 72/100 |
+| outlook | 73/100 |
+| adoption | 69/100 |
+| stars | 72/100 |
+| forks | 62/100 |
+| recency | 100/100 |
+| topics | 25/100 |
+| sourceTrust | 100/100 |
 
 ---
 

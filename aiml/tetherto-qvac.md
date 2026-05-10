@@ -1,6 +1,6 @@
 # tetherto/qvac
 
-[![Stars](https://img.shields.io/github/stars/tetherto/qvac?style=flat-square&color=yellow)](https://github.com/tetherto/qvac/stargazers) [![Forks](https://img.shields.io/github/forks/tetherto/qvac?style=flat-square&color=blue)](https://github.com/tetherto/qvac/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tetherto/qvac?style=flat-square&color=yellow)](https://github.com/tetherto/qvac/stargazers) [![Forks](https://img.shields.io/github/forks/tetherto/qvac?style=flat-square&color=blue)](https://github.com/tetherto/qvac/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 163 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
-tetherto/qvac is a promising open-source project. Categories: AI/ML, Frontend, Mobile. Interest score: 52/100.
+### English
+
+tetherto/qvac: tetherto/qvac helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+tetherto/qvac: open-source проект в категориях AI/ML, Frontend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+tetherto/qvac：tetherto/qvac helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** tetherto/qvac helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 163 GitHub stars
+- 51 forks
+- updated 2026-05-07
+- primary language: JavaScript
+- 14 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 71/100 |
+| integration | 46/100 |
+| production | 68/100 |
+| outlook | 74/100 |
+| adoption | 46/100 |
+| stars | 47/100 |
+| forks | 43/100 |
+| recency | 80/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

@@ -25,7 +25,57 @@ DevTools
 
 ## 📝 Summary
 
+### English
+
 Nheko‑Reborn is an open‑source, cross‑platform desktop client for the Matrix communication protocol, built with Qt and modern C++20. It offers a sleek, native UI and full support for Matrix features such as end‑to‑end encryption, voice/video calls, and rich media handling. Designed for developers and power users, the project provides a lightweight yet extensible alternative to web‑based Matrix clients.
+
+### Русский
+
+Nheko‑Reborn — это кросс‑платформенный настольный клиент для протокола Matrix, написанный на C++20 с использованием Qt. Он обеспечивает быстрый и удобный доступ к чатам, поддерживает end‑to‑end шифрование, групповые конференции и интеграцию с ботами. Проект ориентирован на разработчиков и пользователей, ищущих лёгкое, безопасное и полностью открытое решение для коммуникаций в Matrix.
+
+### 中文
+
+Nheko-Reborn/nheko：Nheko-Reborn/nheko helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** Nheko-Reborn/nheko helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 2411 GitHub stars
+- 237 forks
+- updated 2026-05-08
+- primary language: C++
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 82/100 |
+| integration | 46/100 |
+| production | 77/100 |
+| outlook | 81/100 |
+| adoption | 68/100 |
+| stars | 72/100 |
+| forks | 59/100 |
+| recency | 100/100 |
+| topics | 75/100 |
+| sourceTrust | 100/100 |
 
 ---
 

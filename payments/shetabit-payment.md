@@ -25,7 +25,57 @@ Payments
 
 ## 📝 Summary
 
+### English
+
 shetabit/payment is a lightweight Laravel package that streamlines payment processing by providing a clean, unified API for multiple payment gateways. It abstracts the complexities of each driver, allowing developers to integrate and switch between supported payment providers with minimal configuration. Ideal for Laravel applications that need a simple yet flexible solution for handling transactions.
+
+### Русский
+
+`shetabit/payment` — это лёгкий open‑source пакет для Laravel, позволяющий интегрировать в приложение различные платёжные системы через единый API. Пакет поддерживает несколько драйверов (например, Stripe, PayPal, Razorpay и др.), упрощая настройку и обработку платежей. Благодаря простой конфигурации и расширяемой архитектуре, он подходит как для небольших проектов, так и для крупных сервисов.
+
+### 中文
+
+shetabit/payment：shetabit/payment helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** shetabit/payment helps integrate monetization, billing, or PSP flows faster.
+
+**Best use cases**
+
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 940 GitHub stars
+- 151 forks
+- updated 2026-05-07
+- primary language: PHP
+- 4 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 70/100 |
+| integration | 30/100 |
+| production | 66/100 |
+| outlook | 67/100 |
+| adoption | 61/100 |
+| stars | 63/100 |
+| forks | 55/100 |
+| recency | 80/100 |
+| topics | 50/100 |
+| sourceTrust | 100/100 |
 
 ---
 

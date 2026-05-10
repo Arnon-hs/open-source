@@ -1,6 +1,6 @@
 # morettt/my-neuro
 
-[![Stars](https://img.shields.io/github/stars/morettt/my-neuro?style=flat-square&color=yellow)](https://github.com/morettt/my-neuro/stargazers) [![Forks](https://img.shields.io/github/forks/morettt/my-neuro?style=flat-square&color=blue)](https://github.com/morettt/my-neuro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/morettt/my-neuro?style=flat-square&color=yellow)](https://github.com/morettt/my-neuro/stargazers) [![Forks](https://img.shields.io/github/forks/morettt/my-neuro?style=flat-square&color=blue)](https://github.com/morettt/my-neuro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML
 
 ## 📝 Summary
 
+### English
+
 morettt / my‑neuro is an open‑source framework for building a real‑time AI desktop companion that can talk, recognize visuals, and remember past interactions. It supports fast (≈1 second) voice conversations, long‑term memory, voice cloning, custom LLM training, and integrates with any Live2D avatar for fully personalized character animations.
+
+### Русский
+
+morettt/my-neuro — open‑source платформа для создания персонального AI‑компаньона, который общается голосом в реальном времени (ответ за ≈ 1 секунду). Проект поддерживает долгосрочную память, визуальное распознавание, клонование голоса и дообучение LLM, а также гибкую интеграцию кастомных персонажей Live2D. Он ориентирован на разработчиков AI/ML, желающих быстро собрать интерактивного виртуального помощника с расширяемой функциональностью.
+
+### 中文
+
+morettt/my-neuro：morettt/my-neuro helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** morettt/my-neuro helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1206 GitHub stars
+- 142 forks
+- updated 2026-05-09
+- primary language: Python
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 83/100 |
+| integration | 46/100 |
+| production | 78/100 |
+| outlook | 82/100 |
+| adoption | 62/100 |
+| stars | 66/100 |
+| forks | 54/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

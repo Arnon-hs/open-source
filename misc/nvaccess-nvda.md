@@ -1,6 +1,6 @@
 # nvaccess/nvda
 
-[![Stars](https://img.shields.io/github/stars/nvaccess/nvda?style=flat-square&color=yellow)](https://github.com/nvaccess/nvda/stargazers) [![Forks](https://img.shields.io/github/forks/nvaccess/nvda?style=flat-square&color=blue)](https://github.com/nvaccess/nvda/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvaccess/nvda?style=flat-square&color=yellow)](https://github.com/nvaccess/nvda/stargazers) [![Forks](https://img.shields.io/github/forks/nvaccess/nvda?style=flat-square&color=blue)](https://github.com/nvaccess/nvda/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > NVDA, the free and open source Screen Reader for Microsoft Windows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 770 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,55 @@ Misc
 
 ## 📝 Summary
 
+### English
+
 NVDA (NonVisual Desktop Access) is a free, open‑source screen reader for Microsoft Windows that enables blind and low‑vision users to navigate the operating system and applications through synthesized speech and braille output. Developed by the NV Access community, it supports a wide range of software, offers extensive customization, and is continuously updated to keep pace with Windows releases and accessibility standards.
+
+### Русский
+
+NVDA — это бесплатный и открытый скрин‑ридер для операционной системы Microsoft Windows, разработанный сообществом NV Access. Программа позволяет людям с ограниченными возможностями зрения полноценно взаимодействовать с компьютером, озвучивая текст, элементы интерфейса и описывая действия пользователя. Проект активно поддерживается, регулярно обновляется и распространяется под лицензией GPL.
+
+### 中文
+
+nvaccess/nvda：nvaccess/nvda may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** nvaccess/nvda may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 2546 GitHub stars
+- 770 forks
+- updated 2026-05-08
+- primary language: Python
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 78/100 |
+| integration | 46/100 |
+| production | 76/100 |
+| outlook | 75/100 |
+| adoption | 72/100 |
+| stars | 72/100 |
+| forks | 72/100 |
+| recency | 100/100 |
+| topics | 38/100 |
+| sourceTrust | 100/100 |
 
 ---
 

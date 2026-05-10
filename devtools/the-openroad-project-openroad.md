@@ -1,6 +1,6 @@
 # The-OpenROAD-Project/OpenROAD
 
-[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 880 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ DevTools · Data
 
 ## 📝 Summary
 
-The-OpenROAD-Project/OpenROAD is a promising open-source project. Categories: DevTools, Data. Interest score: 82/100.
+### English
+
+The-OpenROAD-Project/OpenROAD: The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+The-OpenROAD-Project/OpenROAD: open-source проект в категориях DevTools, Data. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 2654 GitHub stars
+- 880 forks
+- updated 2026-05-07
+- primary language: Verilog
+- 11 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 88/100 |
+| integration | 30/100 |
+| production | 77/100 |
+| outlook | 82/100 |
+| adoption | 73/100 |
+| stars | 73/100 |
+| forks | 74/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

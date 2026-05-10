@@ -1,6 +1,6 @@
 # invoiceninja/invoiceninja
 
-[![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat-square&color=yellow)](https://github.com/invoiceninja/invoiceninja/stargazers) [![Forks](https://img.shields.io/github/forks/invoiceninja/invoiceninja?style=flat-square&color=blue)](https://github.com/invoiceninja/invoiceninja/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat-square&color=yellow)](https://github.com/invoiceninja/invoiceninja/stargazers) [![Forks](https://img.shields.io/github/forks/invoiceninja/invoiceninja?style=flat-square&color=blue)](https://github.com/invoiceninja/invoiceninja/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A source-available invoice, quote, project and time-tracking app built with Laravel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Payments · AI/ML · Frontend
 
 ## 📝 Summary
 
-invoiceninja/invoiceninja is a promising open-source project. Categories: Payments, AI/ML, Frontend. Interest score: 100/100.
+### English
+
+invoiceninja/invoiceninja: invoiceninja/invoiceninja helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+invoiceninja/invoiceninja: open-source проект в категориях Payments, AI/ML, Frontend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+invoiceninja/invoiceninja：invoiceninja/invoiceninja helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** invoiceninja/invoiceninja helps integrate monetization, billing, or PSP flows faster.
+
+**Best use cases**
+
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 9721 GitHub stars
+- 2632 forks
+- updated 2026-05-07
+- primary language: PHP
+- 16 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 88/100 |
+| integration | 30/100 |
+| production | 72/100 |
+| outlook | 78/100 |
+| adoption | 85/100 |
+| stars | 85/100 |
+| forks | 86/100 |
+| recency | 80/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

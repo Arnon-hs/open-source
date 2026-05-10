@@ -1,6 +1,6 @@
 # numtide/llm-agents.nix
 
-[![Stars](https://img.shields.io/github/stars/numtide/llm-agents.nix?style=flat-square&color=yellow)](https://github.com/numtide/llm-agents.nix/stargazers) [![Forks](https://img.shields.io/github/forks/numtide/llm-agents.nix?style=flat-square&color=blue)](https://github.com/numtide/llm-agents.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numtide/llm-agents.nix?style=flat-square&color=yellow)](https://github.com/numtide/llm-agents.nix/stargazers) [![Forks](https://img.shields.io/github/forks/numtide/llm-agents.nix?style=flat-square&color=blue)](https://github.com/numtide/llm-agents.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Nix packages for AI coding agents and development tools. Automatically updated daily.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-numtide/llm-agents.nix is a promising open-source project. Categories: AI/ML, Frontend. Interest score: 51/100.
+### English
+
+numtide/llm-agents.nix: numtide/llm-agents.nix helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+numtide/llm-agents.nix: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+numtide/llm-agents.nix：numtide/llm-agents.nix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** numtide/llm-agents.nix helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1184 GitHub stars
+- 127 forks
+- updated 2026-05-07
+- primary language: Nix
+- 1 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 70/100 |
+| integration | 30/100 |
+| production | 70/100 |
+| outlook | 77/100 |
+| adoption | 62/100 |
+| stars | 65/100 |
+| forks | 53/100 |
+| recency | 100/100 |
+| topics | 13/100 |
+| sourceTrust | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # taiga-family/taiga-ui
 
-[![Stars](https://img.shields.io/github/stars/taiga-family/taiga-ui?style=flat-square&color=yellow)](https://github.com/taiga-family/taiga-ui/stargazers) [![Forks](https://img.shields.io/github/forks/taiga-family/taiga-ui?style=flat-square&color=blue)](https://github.com/taiga-family/taiga-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taiga-family/taiga-ui?style=flat-square&color=yellow)](https://github.com/taiga-family/taiga-ui/stargazers) [![Forks](https://img.shields.io/github/forks/taiga-family/taiga-ui?style=flat-square&color=blue)](https://github.com/taiga-family/taiga-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Angular components library for awesome people
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 560 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML · Frontend · Design
 
 ## 📝 Summary
 
+### English
+
 Taiga UI is an open‑source Angular component library that provides a comprehensive set of beautifully designed, highly customizable UI elements for modern web applications. It focuses on delivering a consistent, accessible, and performant user experience, making it ideal for developers who want to build elegant front‑end interfaces quickly. The project also embraces best practices in design and development, offering robust theming, responsive layouts, and seamless integration with Angular’s ecosystem.
+
+### Русский
+
+Taiga UI — это открытая библиотека UI‑компонентов для Angular, ориентированная на разработчиков и дизайнеров, стремящихся создавать современные, эстетически приятные интерфейсы. Компоненты библиотеки сочетают гибкую настройку, высокую производительность и готовые решения для типовых задач фронтенда, а также поддерживают интеграцию с AI/ML‑инструментами. Проект активно поддерживается сообществом и подходит как для прототипирования, так и для масштабных коммерческих приложений.
+
+### 中文
+
+taiga-family/taiga-ui：taiga-family/taiga-ui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** taiga-family/taiga-ui helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 3978 GitHub stars
+- 560 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 16 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 88/100 |
+| integration | 46/100 |
+| production | 79/100 |
+| outlook | 82/100 |
+| adoption | 74/100 |
+| stars | 77/100 |
+| forks | 69/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

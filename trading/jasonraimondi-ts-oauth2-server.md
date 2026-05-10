@@ -1,6 +1,6 @@
 # jasonraimondi/ts-oauth2-server
 
-[![Stars](https://img.shields.io/github/stars/jasonraimondi/ts-oauth2-server?style=flat-square&color=yellow)](https://github.com/jasonraimondi/ts-oauth2-server/stargazers) [![Forks](https://img.shields.io/github/forks/jasonraimondi/ts-oauth2-server?style=flat-square&color=blue)](https://github.com/jasonraimondi/ts-oauth2-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasonraimondi/ts-oauth2-server?style=flat-square&color=yellow)](https://github.com/jasonraimondi/ts-oauth2-server/stargazers) [![Forks](https://img.shields.io/github/forks/jasonraimondi/ts-oauth2-server?style=flat-square&color=blue)](https://github.com/jasonraimondi/ts-oauth2-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured, secure, standards compliant implementation of an OAuth 2.0 authorization server for Nodejs that utilizes JWT and Proof Key for Code Exchange (PKCE), written in TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Trading · AI/ML · Backend
 
 ## 📝 Summary
 
+### English
+
 jasonraimondi/ts‑oauth2‑server is a TypeScript‑based OAuth 2.0 authorization server for Node.js that fully implements the specification, including JWT access tokens and PKCE support for enhanced security. It offers a complete, standards‑compliant solution for issuing, validating, and revoking tokens, making it ideal for backend services that need robust authentication and authorization flows. The library is open‑source, well‑typed, and ready for integration into modern web and API projects.
+
+### Русский
+
+Полнофункциональный и безопасный OAuth 2.0‑сервер авторизации для Node.js, реализованный на TypeScript и поддерживающий JWT и PKCE. Проект полностью соответствует спецификациям OAuth 2.0, обеспечивая надёжную аутентификацию и авторизацию для бэкенд‑приложений. Идеально подходит для интеграции в торговые и AI/ML сервисы, требующие стандартизованного управления доступом.
+
+### 中文
+
+jasonraimondi/ts-oauth2-server：jasonraimondi/ts-oauth2-server helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** jasonraimondi/ts-oauth2-server helps research and automate market workflows.
+
+**Best use cases**
+
+- research trading systems
+- backtest strategies
+- monitor market workflows
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 305 GitHub stars
+- 55 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 18 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 78/100 |
+| integration | 62/100 |
+| production | 78/100 |
+| outlook | 79/100 |
+| adoption | 50/100 |
+| stars | 53/100 |
+| forks | 44/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

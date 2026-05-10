@@ -1,6 +1,6 @@
 # fujiapple852/trippy
 
-[![Stars](https://img.shields.io/github/stars/fujiapple852/trippy?style=flat-square&color=yellow)](https://github.com/fujiapple852/trippy/stargazers) [![Forks](https://img.shields.io/github/forks/fujiapple852/trippy?style=flat-square&color=blue)](https://github.com/fujiapple852/trippy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fujiapple852/trippy?style=flat-square&color=yellow)](https://github.com/fujiapple852/trippy/stargazers) [![Forks](https://img.shields.io/github/forks/fujiapple852/trippy?style=flat-square&color=blue)](https://github.com/fujiapple852/trippy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A network diagnostic tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -25,8 +25,58 @@ Orchestration · Frontend · DevTools
 
 ## 📝 Summary
 
+### English
+
 **Summary**  
 `fujiapple852/trippy` is an open‑source network diagnostic utility designed to visualize and analyze connectivity paths across distributed systems. It combines a modern frontend interface with orchestration capabilities, allowing users to run, monitor, and compare traceroute‑style diagnostics from multiple nodes in real time. Ideal for developers and DevOps teams, the tool streamlines troubleshooting and performance tuning of complex network topologies.
+
+### Русский
+
+**fujiapple852/trippy** — это открытый инструмент для диагностики сетевых соединений, предоставляющий удобный веб‑интерфейс и возможности оркестрации для комплексного мониторинга. Он объединяет функции DevTools и визуализации, позволяя быстро выявлять проблемы с производительностью, задержками и потерями пакетов в реальном времени. Проект ориентирован на разработчиков и системных администраторов, которым нужен простой, но мощный набор средств для анализа сетевой инфраструктуры.
+
+### 中文
+
+fujiapple852/trippy：fujiapple852/trippy helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** fujiapple852/trippy helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 6848 GitHub stars
+- 225 forks
+- updated 2026-05-10
+- primary language: Rust
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 89/100 |
+| integration | 46/100 |
+| production | 80/100 |
+| outlook | 89/100 |
+| adoption | 75/100 |
+| stars | 82/100 |
+| forks | 59/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

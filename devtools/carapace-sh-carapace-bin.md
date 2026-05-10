@@ -1,6 +1,6 @@
 # carapace-sh/carapace-bin
 
-[![Stars](https://img.shields.io/github/stars/carapace-sh/carapace-bin?style=flat-square&color=yellow)](https://github.com/carapace-sh/carapace-bin/stargazers) [![Forks](https://img.shields.io/github/forks/carapace-sh/carapace-bin?style=flat-square&color=blue)](https://github.com/carapace-sh/carapace-bin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carapace-sh/carapace-bin?style=flat-square&color=yellow)](https://github.com/carapace-sh/carapace-bin/stargazers) [![Forks](https://img.shields.io/github/forks/carapace-sh/carapace-bin?style=flat-square&color=blue)](https://github.com/carapace-sh/carapace-bin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-shell completion binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ DevTools · Product
 
 ## 📝 Summary
 
+### English
+
 carapace‑bin is an open‑source, cross‑shell completion engine that provides context‑aware command‑line suggestions for a wide range of tools. It compiles a single binary capable of generating completions for Bash, Zsh, Fish, PowerShell and other shells, simplifying installation and maintenance for developers. The project is packaged under the DevTools/Product category and can be integrated into any CLI workflow to enhance productivity.
+
+### Русский
+
+carapace‑bin — это кросс‑оболочечный бинарный инструмент, генерирующий автодополнения для самых популярных командных оболочек (bash, zsh, fish, PowerShell и др.). Он упакован в один исполняемый файл, что упрощает интеграцию и развёртывание в проектах DevTools, позволяя быстро добавить контекстные подсказки к любой CLI‑утилите. Open‑source решение, активно поддерживаемое сообществом, подходит как для разработки, так и для конечных продуктов.
+
+### 中文
+
+carapace-sh/carapace-bin：carapace-sh/carapace-bin helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** carapace-sh/carapace-bin helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1809 GitHub stars
+- 114 forks
+- updated 2026-05-08
+- primary language: Go
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 84/100 |
+| integration | 62/100 |
+| production | 80/100 |
+| outlook | 83/100 |
+| adoption | 64/100 |
+| stars | 69/100 |
+| forks | 52/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

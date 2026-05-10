@@ -1,6 +1,6 @@
 # nautechsystems/nautilus_trader
 
-[![Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&color=yellow)](https://github.com/nautechsystems/nautilus_trader/stargazers) [![Forks](https://img.shields.io/github/forks/nautechsystems/nautilus_trader?style=flat-square&color=blue)](https://github.com/nautechsystems/nautilus_trader/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&color=yellow)](https://github.com/nautechsystems/nautilus_trader/stargazers) [![Forks](https://img.shields.io/github/forks/nautechsystems/nautilus_trader?style=flat-square&color=blue)](https://github.com/nautechsystems/nautilus_trader/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade Rust-native trading engine with deterministic event-driven architecture
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 100/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Crypto · Trading · Frontend
 
 ## 📝 Summary
 
-nautechsystems/nautilus_trader is a promising open-source project. Categories: Crypto, Trading, Frontend. Interest score: 100/100.
+### English
+
+nautechsystems/nautilus_trader: nautechsystems/nautilus_trader helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+nautechsystems/nautilus_trader: open-source проект в категориях Crypto, Trading, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+nautechsystems/nautilus_trader：nautechsystems/nautilus_trader helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** nautechsystems/nautilus_trader helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 22557 GitHub stars
+- 2774 forks
+- updated 2026-05-07
+- primary language: Rust
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 91/100 |
+| integration | 62/100 |
+| production | 78/100 |
+| outlook | 79/100 |
+| adoption | 91/100 |
+| stars | 93/100 |
+| forks | 86/100 |
+| recency | 80/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

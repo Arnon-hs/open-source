@@ -1,6 +1,6 @@
 # sponsors/sindresorhus
 
-[![Stars](https://img.shields.io/github/stars/sponsors/sindresorhus?style=flat-square&color=yellow)](https://github.com/sponsors/sindresorhus/stargazers) [![Forks](https://img.shields.io/github/forks/sponsors/sindresorhus?style=flat-square&color=blue)](https://github.com/sponsors/sindresorhus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-21%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sponsors/sindresorhus?style=flat-square&color=yellow)](https://github.com/sponsors/sindresorhus/stargazers) [![Forks](https://img.shields.io/github/forks/sponsors/sindresorhus?style=flat-square&color=blue)](https://github.com/sponsors/sindresorhus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
 > Listed in awesome-awesome
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 21/100 |
+| 📈 **Score** | 28/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | awesome |
 
@@ -25,7 +25,51 @@ Misc
 
 ## 📝 Summary
 
-sponsors/sindresorhus is a promising open-source project. Categories: Misc. Interest score: 21/100.
+### English
+
+sponsors/sindresorhus: sponsors/sindresorhus may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+sponsors/sindresorhus: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+sponsors/sindresorhus：sponsors/sindresorhus may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** sponsors/sindresorhus may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 19/100 |
+| integration | 30/100 |
+| production | 30/100 |
+| outlook | 25/100 |
+| adoption | 0/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 20/100 |
+| topics | 25/100 |
+| sourceTrust | 70/100 |
 
 ---
 

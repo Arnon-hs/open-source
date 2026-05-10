@@ -25,7 +25,54 @@ Misc
 
 ## 📝 Summary
 
+### English
+
 A collection of community‑maintained applets that extend the functionality of the Cinnamon desktop environment. These lightweight extensions add features such as system monitors, weather widgets, window controls, and custom menus, allowing users to personalize their Cinnamon experience. The repository is open‑source, regularly updated, and suitable for any Linux Mint or Cinnamon user looking to enhance their desktop workflow.
+
+### Русский
+
+Проект **linuxmint/cinnamon-spices-applets** представляет собой набор бесплатных апплетов, расширяющих функциональность рабочего стола Cinnamon. Он предлагает разнообразные небольшие утилиты (индикаторы, виджеты, инструменты управления) для повышения удобства и персонализации пользовательского интерфейса. Все компоненты распространяются под открытой лицензией и доступны для свободного использования и доработки.
+
+### 中文
+
+linuxmint/cinnamon-spices-applets：linuxmint/cinnamon-spices-applets may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** linuxmint/cinnamon-spices-applets may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 733 GitHub stars
+- 654 forks
+- updated 2026-05-10
+- primary language: JavaScript
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 69/100 |
+| integration | 30/100 |
+| production | 70/100 |
+| outlook | 69/100 |
+| adoption | 64/100 |
+| stars | 61/100 |
+| forks | 70/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 100/100 |
 
 ---
 

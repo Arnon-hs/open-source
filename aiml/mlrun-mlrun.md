@@ -1,6 +1,6 @@
 # mlrun/mlrun
 
-[![Stars](https://img.shields.io/github/stars/mlrun/mlrun?style=flat-square&color=yellow)](https://github.com/mlrun/mlrun/stargazers) [![Forks](https://img.shields.io/github/forks/mlrun/mlrun?style=flat-square&color=blue)](https://github.com/mlrun/mlrun/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlrun/mlrun?style=flat-square&color=yellow)](https://github.com/mlrun/mlrun/stargazers) [![Forks](https://img.shields.io/github/forks/mlrun/mlrun?style=flat-square&color=blue)](https://github.com/mlrun/mlrun/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of production data, ML pipelines, and online applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ AI/ML · Frontend · Data
 
 ## 📝 Summary
 
+### English
+
 MLRun is an open‑source MLOps platform that streamlines the creation, orchestration, and deployment of end‑to‑end machine‑learning applications. It integrates tightly with existing development and CI/CD workflows, automating the delivery of production data, reproducible pipelines, and real‑time inference services throughout the entire ML lifecycle.
+
+### Русский
+
+MLRun – это открытая MLOps‑платформа, позволяющая быстро создавать, развёртывать и поддерживать непрерывные ML‑приложения на всех этапах их жизненного цикла. Она легко интегрируется в существующие среды разработки и CI/CD, автоматизируя поставку производственных данных, построение пайплайнов и запуск онлайн‑моделей. Проект ориентирован на задачи AI/ML, работу с данными и предоставляет удобный фронтенд для мониторинга и управления процессами.
+
+### 中文
+
+mlrun/mlrun：mlrun/mlrun helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** mlrun/mlrun helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1666 GitHub stars
+- 304 forks
+- updated 2026-05-08
+- primary language: Python
+- 10 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 85/100 |
+| integration | 62/100 |
+| production | 80/100 |
+| outlook | 83/100 |
+| adoption | 67/100 |
+| stars | 69/100 |
+| forks | 62/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

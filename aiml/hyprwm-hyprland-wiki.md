@@ -25,7 +25,57 @@ AI/ML
 
 ## 📝 Summary
 
+### English
+
 Hyprland‑Wiki is an open‑source repository that houses the Markdown source files for the Hyprland window manager’s documentation. The pages are automatically synchronized with the official Hyprland website, ensuring that the online wiki and the version‑controlled source stay in lockstep. This project streamlines contribution, versioning, and continuous deployment of the Hyprland documentation.
+
+### Русский
+
+Hyprland‑Wiki — это открытый проект, обеспечивающий автоматическую синхронизацию страниц вики с официальным сайтом Hyprland. Репозиторий хранит markdown‑файлы и скрипты, которые генерируют актуальную документацию и справочные материалы для пользователей и разработчиков. Проект упрощает поддержку информации о дисплей‑менеджере и способствует совместному развитию сообщества.
+
+### 中文
+
+hyprwm/hyprland-wiki：hyprwm/hyprland-wiki helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** hyprwm/hyprland-wiki helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 385 GitHub stars
+- 638 forks
+- updated 2026-05-10
+- primary language: HTML
+- 3 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 72/100 |
+| integration | 30/100 |
+| production | 71/100 |
+| outlook | 72/100 |
+| adoption | 59/100 |
+| stars | 55/100 |
+| forks | 70/100 |
+| recency | 100/100 |
+| topics | 38/100 |
+| sourceTrust | 100/100 |
 
 ---
 

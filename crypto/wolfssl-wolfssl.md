@@ -1,6 +1,6 @@
 # wolfSSL/wolfssl
 
-[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssl?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssl/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssl?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssl?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssl/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssl?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 971 |
 | 💻 **Language** | C |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -25,7 +25,57 @@ Crypto · Frontend · Backend
 
 ## 📝 Summary
 
-wolfSSL/wolfssl is a promising open-source project. Categories: Crypto, Frontend, Backend. Interest score: 84/100.
+### English
+
+wolfSSL/wolfssl: wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+wolfSSL/wolfssl: open-source проект в категориях Crypto, Frontend, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+wolfSSL/wolfssl：wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 2816 GitHub stars
+- 971 forks
+- updated 2026-05-07
+- primary language: C
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 88/100 |
+| integration | 46/100 |
+| production | 79/100 |
+| outlook | 85/100 |
+| adoption | 74/100 |
+| stars | 73/100 |
+| forks | 75/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 100/100 |
 
 ---
 

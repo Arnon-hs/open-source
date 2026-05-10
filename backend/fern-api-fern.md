@@ -25,7 +25,57 @@ Backend
 
 ## 📝 Summary
 
-fern-api/fern is a promising open-source project. Categories: Backend. Interest score: 76/100.
+### English
+
+fern-api/fern: fern-api/fern helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+fern-api/fern: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+fern-api/fern：fern-api/fern helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** fern-api/fern helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 3606 GitHub stars
+- 308 forks
+- updated 2026-05-07
+- primary language: TypeScript
+- 5 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 77/100 |
+| integration | 78/100 |
+| production | 75/100 |
+| outlook | 77/100 |
+| adoption | 72/100 |
+| stars | 76/100 |
+| forks | 62/100 |
+| recency | 80/100 |
+| topics | 63/100 |
+| sourceTrust | 100/100 |
 
 ---
 
