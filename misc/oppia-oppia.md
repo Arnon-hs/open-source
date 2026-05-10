@@ -1,6 +1,6 @@
 # oppia/oppia
 
-[![Stars](https://img.shields.io/github/stars/oppia/oppia?style=flat-square&color=yellow)](https://github.com/oppia/oppia/stargazers) [![Forks](https://img.shields.io/github/forks/oppia/oppia?style=flat-square&color=blue)](https://github.com/oppia/oppia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oppia/oppia?style=flat-square&color=yellow)](https://github.com/oppia/oppia/stargazers) [![Forks](https://img.shields.io/github/forks/oppia/oppia?style=flat-square&color=blue)](https://github.com/oppia/oppia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A free, online learning platform to make quality education accessible for all.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ oppia/oppia：oppia/oppia may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 85/100 |
+| production | 77/100 |
+| outlook | 78/100 |
 | adoption | 85/100 |
 | stars | 81/100 |
 | forks | 94/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

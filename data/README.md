@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**139 projects** in this category.
+**140 projects** in this category.
 
 ## Projects
 
@@ -36,28 +36,28 @@
 | 26 | [gchq/CyberChef](./gchq-cyberchef.md) | ⭐ 34.8k | JavaScript | 67/100 |
 | 27 | [badges/shields](./badges-shields.md) | ⭐ 26.6k | JavaScript | 67/100 |
 | 28 | [ArroyoSystems/arroyo](./arroyosystems-arroyo.md) | ⭐ 4.9k | Rust | 67/100 |
-| 29 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 67/100 |
-| 30 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.7k | Rust | 66/100 |
-| 31 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 66/100 |
-| 32 | [apache/hudi](./apache-hudi.md) | ⭐ 6.2k | Java | 66/100 |
-| 33 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 4k | C++ | 66/100 |
-| 34 | [sudheerj/datastructures-algorithms](./sudheerj-datastructures-algorithms.md) | ⭐ 753 | Python | 66/100 |
-| 35 | [gaarason/database-all](./gaarason-database-all.md) | ⭐ 1.1k | Java | 66/100 |
-| 36 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 737 | Python | 66/100 |
-| 37 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.3k | C | 65/100 |
-| 38 | [dask/dask](./dask-dask.md) | ⭐ 13.8k | Python | 65/100 |
-| 39 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 65/100 |
-| 40 | [PriorLabs/TabPFN](./priorlabs-tabpfn.md) | ⭐ 6.9k | Python | 65/100 |
-| 41 | [pimcore/pimcore](./pimcore-pimcore.md) | ⭐ 3.8k | PHP | 65/100 |
-| 42 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.2k | Rust | 65/100 |
-| 43 | [apache/datafusion-ballista](./apache-datafusion-ballista.md) | ⭐ 2k | Rust | 65/100 |
-| 44 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.7k | Java | 64/100 |
-| 45 | [apache/shardingsphere](./apache-shardingsphere.md) | ⭐ 20.7k | Java | 64/100 |
-| 46 | [apple/foundationdb](./apple-foundationdb.md) | ⭐ 16.3k | C++ | 64/100 |
-| 47 | [RediSearch/RediSearch](./redisearch-redisearch.md) | ⭐ 6.1k | C | 64/100 |
-| 48 | [gristlabs/grist-core](./gristlabs-grist-core.md) | ⭐ 11k | TypeScript | 64/100 |
-| 49 | [numaproj/numaflow](./numaproj-numaflow.md) | ⭐ 2.5k | Rust | 64/100 |
-| 50 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
+| 29 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.7k | Rust | 66/100 |
+| 30 | [trinodb/trino](./trinodb-trino.md) | ⭐ 12.8k | Java | 66/100 |
+| 31 | [apache/hudi](./apache-hudi.md) | ⭐ 6.2k | Java | 66/100 |
+| 32 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 4k | C++ | 66/100 |
+| 33 | [sudheerj/datastructures-algorithms](./sudheerj-datastructures-algorithms.md) | ⭐ 753 | Python | 66/100 |
+| 34 | [gaarason/database-all](./gaarason-database-all.md) | ⭐ 1.1k | Java | 66/100 |
+| 35 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 737 | Python | 66/100 |
+| 36 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.3k | C | 65/100 |
+| 37 | [dask/dask](./dask-dask.md) | ⭐ 13.8k | Python | 65/100 |
+| 38 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 65/100 |
+| 39 | [PriorLabs/TabPFN](./priorlabs-tabpfn.md) | ⭐ 6.9k | Python | 65/100 |
+| 40 | [pimcore/pimcore](./pimcore-pimcore.md) | ⭐ 3.8k | PHP | 65/100 |
+| 41 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.2k | Rust | 65/100 |
+| 42 | [apache/datafusion-ballista](./apache-datafusion-ballista.md) | ⭐ 2k | Rust | 65/100 |
+| 43 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.7k | Java | 64/100 |
+| 44 | [apache/shardingsphere](./apache-shardingsphere.md) | ⭐ 20.7k | Java | 64/100 |
+| 45 | [apple/foundationdb](./apple-foundationdb.md) | ⭐ 16.3k | C++ | 64/100 |
+| 46 | [RediSearch/RediSearch](./redisearch-redisearch.md) | ⭐ 6.1k | C | 64/100 |
+| 47 | [gristlabs/grist-core](./gristlabs-grist-core.md) | ⭐ 11k | TypeScript | 64/100 |
+| 48 | [numaproj/numaflow](./numaproj-numaflow.md) | ⭐ 2.5k | Rust | 64/100 |
+| 49 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 64/100 |
+| 50 | [databricks/terraform-provider-databricks](./databricks-terraform-provider-databricks.md) | ⭐ 586 | Go | 64/100 |
 | 51 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 64/100 |
 | 52 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 657 | JavaScript | 64/100 |
 | 53 | [Sequel-Ace/Sequel-Ace](./sequel-ace-sequel-ace.md) | ⭐ 7.4k | Objective-C | 63/100 |
@@ -143,10 +143,11 @@
 | 133 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 51/100 |
 | 134 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 51/100 |
 | 135 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
-| 136 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
-| 137 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 41/100 |
-| 138 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 41/100 |
-| 139 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 136 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 137 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
+| 138 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 41/100 |
+| 139 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 41/100 |
+| 140 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 

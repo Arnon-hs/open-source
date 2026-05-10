@@ -1,6 +1,6 @@
 # alloy-rs/alloy
 
-[![Stars](https://img.shields.io/github/stars/alloy-rs/alloy?style=flat-square&color=yellow)](https://github.com/alloy-rs/alloy/stargazers) [![Forks](https://img.shields.io/github/forks/alloy-rs/alloy?style=flat-square&color=blue)](https://github.com/alloy-rs/alloy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alloy-rs/alloy?style=flat-square&color=yellow)](https://github.com/alloy-rs/alloy/stargazers) [![Forks](https://img.shields.io/github/forks/alloy-rs/alloy?style=flat-square&color=blue)](https://github.com/alloy-rs/alloy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Transports, Middleware, and Networks for the Alloy project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 619 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alloy-rs/alloy：alloy-rs/alloy helps prototype or inspect blockchain workflows 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 67/100 |
 | stars | 66/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

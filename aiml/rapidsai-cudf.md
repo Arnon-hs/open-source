@@ -1,6 +1,6 @@
 # rapidsai/cudf
 
-[![Stars](https://img.shields.io/github/stars/rapidsai/cudf?style=flat-square&color=yellow)](https://github.com/rapidsai/cudf/stargazers) [![Forks](https://img.shields.io/github/forks/rapidsai/cudf?style=flat-square&color=blue)](https://github.com/rapidsai/cudf/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rapidsai/cudf?style=flat-square&color=yellow)](https://github.com/rapidsai/cudf/stargazers) [![Forks](https://img.shields.io/github/forks/rapidsai/cudf?style=flat-square&color=blue)](https://github.com/rapidsai/cudf/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > cuDF - GPU DataFrame Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rapidsai/cudf：rapidsai/cudf helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 87/100 |
+| production | 76/100 |
+| outlook | 80/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

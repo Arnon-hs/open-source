@@ -1,6 +1,6 @@
 # sentriz/gonic
 
-[![Stars](https://img.shields.io/github/stars/sentriz/gonic?style=flat-square&color=yellow)](https://github.com/sentriz/gonic/stargazers) [![Forks](https://img.shields.io/github/forks/sentriz/gonic?style=flat-square&color=blue)](https://github.com/sentriz/gonic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sentriz/gonic?style=flat-square&color=yellow)](https://github.com/sentriz/gonic/stargazers) [![Forks](https://img.shields.io/github/forks/sentriz/gonic?style=flat-square&color=blue)](https://github.com/sentriz/gonic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > music streaming server / free-software subsonic server API implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sentriz/gonic：sentriz/gonic helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 94/100 |
-| production | 85/100 |
-| outlook | 87/100 |
+| production | 78/100 |
+| outlook | 80/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

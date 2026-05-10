@@ -1,6 +1,6 @@
 # OffchainLabs/prysm
 
-[![Stars](https://img.shields.io/github/stars/OffchainLabs/prysm?style=flat-square&color=yellow)](https://github.com/OffchainLabs/prysm/stargazers) [![Forks](https://img.shields.io/github/forks/OffchainLabs/prysm?style=flat-square&color=blue)](https://github.com/OffchainLabs/prysm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OffchainLabs/prysm?style=flat-square&color=yellow)](https://github.com/OffchainLabs/prysm/stargazers) [![Forks](https://img.shields.io/github/forks/OffchainLabs/prysm?style=flat-square&color=blue)](https://github.com/OffchainLabs/prysm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Go implementation of Ethereum proof of stake
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto · AI/ML
 
 ### English
 
-OffchainLabs/prysm: OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+OffchainLabs/prysm: OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-OffchainLabs/prysm: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+OffchainLabs/prysm: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-OffchainLabs/prysm：OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+OffchainLabs/prysm：OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OffchainLabs/prysm：OffchainLabs/prysm helps prototype or inspect blockchain wo
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OffchainLabs/prysm：OffchainLabs/prysm helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 69/100 |
+| outlook | 67/100 |
 | adoption | 77/100 |
 | stars | 76/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

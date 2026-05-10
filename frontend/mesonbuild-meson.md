@@ -1,6 +1,6 @@
 # mesonbuild/meson
 
-[![Stars](https://img.shields.io/github/stars/mesonbuild/meson?style=flat-square&color=yellow)](https://github.com/mesonbuild/meson/stargazers) [![Forks](https://img.shields.io/github/forks/mesonbuild/meson?style=flat-square&color=blue)](https://github.com/mesonbuild/meson/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mesonbuild/meson?style=flat-square&color=yellow)](https://github.com/mesonbuild/meson/stargazers) [![Forks](https://img.shields.io/github/forks/mesonbuild/meson?style=flat-square&color=blue)](https://github.com/mesonbuild/meson/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The Meson Build System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Frontend
 
 ### English
 
-mesonbuild/meson: mesonbuild/meson helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mesonbuild/meson: mesonbuild/meson helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-mesonbuild/meson: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+mesonbuild/meson: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-mesonbuild/meson：mesonbuild/meson helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mesonbuild/meson：mesonbuild/meson helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mesonbuild/meson：mesonbuild/meson helps ship user-facing interfaces with less 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ mesonbuild/meson：mesonbuild/meson helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 69/100 |
+| outlook | 67/100 |
 | adoption | 81/100 |
 | stars | 81/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

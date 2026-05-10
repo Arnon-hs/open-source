@@ -1,6 +1,6 @@
 # typeorm/typeorm
 
-[![Stars](https://img.shields.io/github/stars/typeorm/typeorm?style=flat-square&color=yellow)](https://github.com/typeorm/typeorm/stargazers) [![Forks](https://img.shields.io/github/forks/typeorm/typeorm?style=flat-square&color=blue)](https://github.com/typeorm/typeorm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typeorm/typeorm?style=flat-square&color=yellow)](https://github.com/typeorm/typeorm/stargazers) [![Forks](https://img.shields.io/github/forks/typeorm/typeorm?style=flat-square&color=blue)](https://github.com/typeorm/typeorm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.5k |
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ typeorm/typeorm：typeorm/typeorm helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 88/100 |
+| production | 76/100 |
+| outlook | 81/100 |
 | adoption | 97/100 |
 | stars | 97/100 |
 | forks | 95/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tempoxyz/mpp-rs
 
-[![Stars](https://img.shields.io/github/stars/tempoxyz/mpp-rs?style=flat-square&color=yellow)](https://github.com/tempoxyz/mpp-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tempoxyz/mpp-rs?style=flat-square&color=blue)](https://github.com/tempoxyz/mpp-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tempoxyz/mpp-rs?style=flat-square&color=yellow)](https://github.com/tempoxyz/mpp-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tempoxyz/mpp-rs?style=flat-square&color=blue)](https://github.com/tempoxyz/mpp-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for the Machine Payments Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tempoxyz/mpp-rs：tempoxyz/mpp-rs helps integrate monetization, billing, or PSP 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 37/100 |
 | stars | 40/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

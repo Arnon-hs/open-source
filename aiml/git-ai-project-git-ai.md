@@ -1,6 +1,6 @@
 # git-ai-project/git-ai
 
-[![Stars](https://img.shields.io/github/stars/git-ai-project/git-ai?style=flat-square&color=yellow)](https://github.com/git-ai-project/git-ai/stargazers) [![Forks](https://img.shields.io/github/forks/git-ai-project/git-ai?style=flat-square&color=blue)](https://github.com/git-ai-project/git-ai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/git-ai-project/git-ai?style=flat-square&color=yellow)](https://github.com/git-ai-project/git-ai/stargazers) [![Forks](https://img.shields.io/github/forks/git-ai-project/git-ai?style=flat-square&color=blue)](https://github.com/git-ai-project/git-ai/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Git extension for tracking the AI-generated code in your repos
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ git-ai-project/git-ai：git-ai-project/git-ai helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 66/100 |
+| outlook | 70/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

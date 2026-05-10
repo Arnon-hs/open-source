@@ -1,6 +1,6 @@
 # celestiaorg/celestia-node
 
-[![Stars](https://img.shields.io/github/stars/celestiaorg/celestia-node?style=flat-square&color=yellow)](https://github.com/celestiaorg/celestia-node/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/celestia-node?style=flat-square&color=blue)](https://github.com/celestiaorg/celestia-node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/celestiaorg/celestia-node?style=flat-square&color=yellow)](https://github.com/celestiaorg/celestia-node/stargazers) [![Forks](https://img.shields.io/github/forks/celestiaorg/celestia-node?style=flat-square&color=blue)](https://github.com/celestiaorg/celestia-node/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Celestia Data Availability Nodes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 995 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ celestiaorg/celestia-node：celestiaorg/celestia-node helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 67/100 |
 | stars | 64/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

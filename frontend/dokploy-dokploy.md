@@ -1,6 +1,6 @@
 # Dokploy/dokploy
 
-[![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=flat-square&color=yellow)](https://github.com/Dokploy/dokploy/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/dokploy?style=flat-square&color=blue)](https://github.com/Dokploy/dokploy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=flat-square&color=yellow)](https://github.com/Dokploy/dokploy/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/dokploy?style=flat-square&color=blue)](https://github.com/Dokploy/dokploy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Alternative to Vercel, Netlify and Heroku.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.8k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Dokploy/dokploy：Dokploy/dokploy helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 78/100 |
-| production | 87/100 |
-| outlook | 90/100 |
+| production | 80/100 |
+| outlook | 83/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
