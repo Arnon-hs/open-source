@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hobby-os` `operating-system` `os` `osdev` `rust` `toy-os` `x86-64`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-MOROS is an open-source, obscure operating system written in Rust, aiming to provide a unique and educational platform for developers and researchers. This project allows users to explore and learn about operating system development, system programming, and low-level system interactions. By contributing to MOROS, developers can gain hands-on experience with building a custom operating system from scratch.
+MOROS is an experimental, open‑source operating system written in Rust, aiming to explore low‑level system programming while leveraging Rust’s safety guarantees. The project serves as a playground for obscure and unconventional OS concepts, providing a minimal kernel, basic hardware drivers, and a simple command‑line interface. It is intended for developers interested in Rust‑based OS development and for educational purposes.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/vinc/moros) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/vinc/moros) · [← Back to Misc](./README.md)</sub>

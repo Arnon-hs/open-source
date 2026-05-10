@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `ai-agents` `ai-collaboration` `ai-court` `ai-orchestration` `ancient-china` `autonomous-agents` `clawdbot` `discord` `discord-bot` `imperial-china` `liu-bu-zhi`
 
 ## 🎯 Categories
 
@@ -25,10 +25,9 @@ Orchestration · AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary of the open-source project:
-
-This project, "danghuangshang", is an open-source framework for building AI court systems from scratch. It provides a comprehensive tutorial, covering the basics to advanced topics, to help users learn and implement AI/ML orchestration. The goal is to equip users with the skills and knowledge needed to design and deploy AI solutions at scale.
+**Summary:**  
+"Wanikua/danghuangshang" is an open‑source, step‑by‑step tutorial for building a complete AI‑driven “court” system—from beginner fundamentals to advanced orchestration techniques. It guides users through setting up, configuring, and scaling AI/ML components within an orchestrated environment, making the project a practical learning resource for both newcomers and experienced practitioners.
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/wanikua/danghuangshang) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/wanikua/danghuangshang) · [← Back to Orchestration](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`book` `cb7` `cbr` `cbt` `cbz` `comic` `docx` `ebook` `epub` `fb2` `html` `markdown`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · Mobile
 
 ## 📝 Summary
 
-Here's a brief summary for the koodo-reader/koodo-reader project:
-
-Koodo-Reader is a comprehensive, open-source ebook management and reading platform available on multiple platforms, including Windows, macOS, Linux, Android, iOS, and Web. It offers seamless syncing and backup capabilities, allowing users to access their ebooks across devices. This versatile tool is designed to cater to the diverse needs of readers, making it an ideal choice for those seeking a hassle-free ebook experience.
+Koodo Reader is a cross‑platform ebook manager and reader that lets users organize, read, sync, and back up their digital libraries across Windows, macOS, Linux, Android, iOS, and the web. It combines a modern, customizable UI with AI‑enhanced features such as smart tagging, content summarization, and recommendation suggestions, making it easy to discover and manage books on any device.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/koodo-reader/koodo-reader) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/koodo-reader/koodo-reader) · [← Back to AI/ML](./README.md)</sub>

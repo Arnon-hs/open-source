@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 159 |
-| 🍴 **Forks** | 54 |
+| 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`kdbx-database` `keepass` `parser` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-This project, keepass-rs, is an open-source Rust library that allows parsing KeePass database files in KDB, KDBX3, and KDBX4 formats. It also provides experimental support for writing KDBX4 files, enabling users to interact with KeePass databases programmatically. The library offers a reliable and efficient way to work with KeePass data in Rust applications.
+sseemayer/keepass‑rs is a Rust library that parses KeePass password‑manager databases, supporting the legacy KDB format as well as the newer KDBX3 and KDBX4 versions. In addition to reading, it provides experimental write capabilities for KDBX4 files, making it useful for applications that need to manipulate KeePass data programmatically. The crate is open‑source and focuses on safe, efficient handling of credential storage.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/sseemayer/keepass-rs) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sseemayer/keepass-rs) · [← Back to Data](./README.md)</sub>

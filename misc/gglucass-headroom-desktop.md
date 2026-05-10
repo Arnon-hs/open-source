@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 112 |
+| ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,9 @@ Misc
 
 ## 📝 Summary
 
-The gglucass/headroom-desktop project is an open-source initiative that unlocks additional Claude Code usage, effectively doubling the capacity. This allows developers and users to make the most of the Claude Code platform, enhancing their productivity and capabilities. By providing more headroom, the project empowers users to push the boundaries of what is possible with Claude Code.
+**Summary:**  
+The *headroom-desktop* project by gglucass is a lightweight desktop utility that removes the default usage limits on Claude Code, effectively doubling the amount of code you can generate with Claude’s AI. It provides an easy‑to‑install, open‑source solution that integrates with the Claude platform to unlock the extra 2× code capacity for developers and power users.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/gglucass/headroom-desktop) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/gglucass/headroom-desktop) · [← Back to Misc](./README.md)</sub>

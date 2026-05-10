@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 134 |
+| ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-The Agnesoft Graph Database (agdb) is an open-source, graph database designed to efficiently store and query complex relationships between data entities. This project enables developers to build scalable and high-performance applications that can effectively navigate and analyze interconnected data. By leveraging the agdb, users can unlock insights from large-scale graph data and create innovative solutions in various fields.
+Agnesoft Graph Database (agdb) is an open‑source, lightweight graph database engine designed for high‑performance storage and traversal of complex network data. It provides a simple, schema‑free API for creating, querying, and updating vertices and edges, making it suitable for applications such as recommendation systems, social networks, and knowledge graphs. The project is written in Rust, offers ACID‑compliant transactions, and can be embedded directly into Rust applications or accessed via a RESTful interface.
 
 ---
 
-<sub>🔭 Discovered 2026-05-01 · [View on GitHub](https://github.com/agnesoft/agdb) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/agnesoft/agdb) · [← Back to Data](./README.md)</sub>

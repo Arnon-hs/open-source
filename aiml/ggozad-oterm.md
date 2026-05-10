@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 136 |
+| 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`llm` `llms` `machine-learning` `ollama` `python` `terminal`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a summary for the ggozad/oterm project:
-
-Oterm is an open-source terminal client designed specifically for interacting with the Ollama platform, allowing users to access its features and capabilities from the comfort of their terminal. Developed with AI/ML and DevTools in mind, this client provides a convenient and efficient interface for leveraging Ollama's capabilities. With Oterm, users can streamline their workflow and tap into the power of Ollama's technology.
+ggozad/oterm is an open‑source terminal client that lets users interact with large language models (LLMs) directly from the command line. Designed for developers and AI enthusiasts, it provides a lightweight, scriptable interface for prompting, streaming responses, and managing model settings without leaving the terminal. The tool integrates with popular LLM APIs and can be extended via plugins, making it a handy DevTools addition for rapid experimentation and automation.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/ggozad/oterm) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/ggozad/oterm) · [← Back to AI/ML](./README.md)</sub>

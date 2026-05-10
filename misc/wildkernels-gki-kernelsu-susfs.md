@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 4k |
+| 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here's a brief summary for the WildKernels/GKI_KernelSU_SUSFS project:
-
-This open-source project provides pre-built, open-source Linux kernels based on Google's Generic Kernel Image (GKI) version 2, using kernel versions 5.10 and later. The kernels are combined with Wild KSU (Kernel, System, Utilities) and SUSFS (a file system implementation) for a comprehensive development environment. This project aims to offer a flexible and customizable kernel solution for various projects and use cases.
+WildKernels / GKI_KernelSU_SUSFS provides pre‑built GKI (Generic Kernel Image) 5.10+ kernels that integrate the Wild KernelSU module and the SUSFS filesystem driver, enabling rootless and system‑less modifications on Android devices. The project bundles these components into ready‑to‑flash kernel packages, simplifying the deployment of kernel‑level root access and custom file‑system support for developers and power users. It is categorized under Miscellaneous as a utility for Android kernel customization.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/WildKernels/GKI_KernelSU_SUSFS) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/WildKernels/GKI_KernelSU_SUSFS) · [← Back to Misc](./README.md)</sub>

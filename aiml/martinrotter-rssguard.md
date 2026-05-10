@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 156 |
+| ⭐ **Stars** | 2.6k |
+| 🍴 **Forks** | 157 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`aggregator` `atom` `bazqux` `c-plus-plus` `feed-reader` `feedly` `freshrss` `gmail` `inoreader` `json-feed` `nextcloud` `qt`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the project:
-
-RssGuard is an open-source feed reader that supports various protocols including RSS, ATOM, JSON, Gemini, and XMPP, allowing users to read and manage their favorite podcasts and news feeds from a single platform. This versatile tool also supports web-based feed services, making it a comprehensive solution for those seeking a unified feed management experience.
+**RSS Guard** is an open‑source, cross‑platform feed reader that also functions as a podcast player, basic XMPP client, and Gemini protocol client. It aggregates content from RSS, Atom, JSON feeds and a wide range of web‑based feed services, offering a unified interface for reading and managing diverse online streams.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/martinrotter/rssguard) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/martinrotter/rssguard) · [← Back to AI/ML](./README.md)</sub>

@@ -1,6 +1,6 @@
 # datawhalechina/easy-vibe
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vibe?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vibe/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vibe?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vibe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vibe?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vibe/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vibe?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vibe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
 
 > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.6k |
-| 🍴 **Forks** | 789 |
+| ⭐ **Stars** | 8.8k |
+| 🍴 **Forks** | 872 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 98/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `coding` `course` `deepseek` `gemini` `genai` `gpt` `llm` `low-code` `mcp` `nextjs`
 
 ## 🎯 Categories
 
@@ -25,10 +25,9 @@ AI/ML · Data
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project:
-
-The "easy-vibe" project is an open-source, beginner-friendly programming course that provides a step-by-step learning experience for mastering modern programming skills. Developed by datawhalechina, this course is designed to cater to the needs of aspiring programmers, covering essential topics in AI/ML and Data. By following this comprehensive course, beginners can gain hands-on experience and build a strong foundation in programming.
+**Summary:**  
+`datawhalechina/easy-vibe` is an open‑source, beginner‑friendly repository that offers a modern, step‑by‑step programming curriculum designed for the 2026 Vibe Coding initiative. It combines interactive coding exercises with AI/ML and data‑science fundamentals, enabling newcomers to build a solid foundation in contemporary programming practices.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/datawhalechina/easy-vibe) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/datawhalechina/easy-vibe) · [← Back to AI/ML](./README.md)</sub>

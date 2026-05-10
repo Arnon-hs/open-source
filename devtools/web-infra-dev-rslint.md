@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 394 |
+| ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript-linter` `linter` `rstack` `tsgo` `typescript` `typescript-go` `typescript-linting`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ DevTools · DevOps/Infra
 
 ## 📝 Summary
 
-Rslint is an open-source tool designed to improve the development experience by enabling faster and more typed code. It aims to bridge the gap between Go's performance and type safety, allowing developers to write high-performance code while maintaining a robust type system. By leveraging Rslint, developers can accelerate their development process and produce more reliable software.
+web‑infra‑dev/rslint is an open‑source linting tool that accelerates development by providing fast, type‑aware static analysis for Go codebases. It integrates seamlessly into CI pipelines and developer workflows, offering precise diagnostics and quick feedback to help teams write safer, more maintainable Go programs.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/web-infra-dev/rslint) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/web-infra-dev/rslint) · [← Back to DevTools](./README.md)</sub>

@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `artificial-intelligence` `big-data` `blockchain` `data` `data-layer` `open-source` `proxy` `rust` `solana` `vpn`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Crypto · AI/ML · Data
 
 ## 📝 Summary
 
-The block-mesh/block-mesh-monorepo project is an open-source initiative that integrates cutting-edge technologies in cryptography, artificial intelligence, and data science. This comprehensive monorepo combines a blockchain framework with AI and machine learning capabilities, aiming to create a robust and scalable platform for various use cases. By leveraging these technologies, the project strives to foster innovation and collaboration in the fields of cryptography, AI, and data science.
+block‑mesh‑monorepo is an open‑source repository that consolidates the core libraries, tooling, and smart‑contract components of the Block Mesh ecosystem. It provides a unified codebase for building and deploying cryptographic, AI/ML‑enhanced data pipelines on blockchain platforms, offering reusable modules, reference implementations, and comprehensive documentation for developers.
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/block-mesh/block-mesh-monorepo) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/block-mesh/block-mesh-monorepo) · [← Back to Crypto](./README.md)</sub>
