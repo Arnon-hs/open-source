@@ -1,6 +1,6 @@
 # HydroniumLabs/h3o
 
-[![Stars](https://img.shields.io/github/stars/HydroniumLabs/h3o?style=flat-square&color=yellow)](https://github.com/HydroniumLabs/h3o/stargazers) [![Forks](https://img.shields.io/github/forks/HydroniumLabs/h3o?style=flat-square&color=blue)](https://github.com/HydroniumLabs/h3o/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HydroniumLabs/h3o?style=flat-square&color=yellow)](https://github.com/HydroniumLabs/h3o/stargazers) [![Forks](https://img.shields.io/github/forks/HydroniumLabs/h3o?style=flat-square&color=blue)](https://github.com/HydroniumLabs/h3o/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of the H3 geospatial indexing system.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 513 |
+| ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a brief summary for the HydroniumLabs/h3o project:
-
-HydroniumLabs/h3o is an open-source Rust implementation of the H3 geospatial indexing system, providing a scalable and efficient solution for spatial data management. This project enables developers to create, query, and manipulate geospatial data using a widely-supported indexing system. By leveraging H3, developers can improve the performance and accuracy of their geospatial applications, particularly in AI and machine learning tasks.
+HydroniumLabs /h3o is a Rust library that provides a fast, native implementation of Uber’s H3 hierarchical geospatial indexing system. It enables developers to encode geographic coordinates into compact hexagonal cells, perform spatial queries, and navigate cell hierarchies—all with the safety and performance guarantees of Rust. Although primarily a geospatial tool, it can be leveraged in AI/ML pipelines for spatial feature engineering and location‑aware models.
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/HydroniumLabs/h3o) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/HydroniumLabs/h3o) · [← Back to AI/ML](./README.md)</sub>

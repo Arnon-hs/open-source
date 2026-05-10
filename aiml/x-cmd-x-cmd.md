@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 141 |
+| 🍴 **Forks** | 142 |
 | 💻 **Language** | Awk |
 | 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `ai` `bash` `cli` `cloud` `shell` `zsh`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-x-cmd is an open-source project that empowers AI agents with powerful shell capabilities, allowing them to interact with the operating system and perform complex tasks with ease. This project bridges the gap between AI/ML capabilities and traditional shell-based workflows, enabling AI agents to automate and streamline tasks. By providing AI agents with shell superpowers, x-cmd enhances their productivity and efficiency.
+x‑cmd is an open‑source toolkit that equips AI agents with advanced shell capabilities, allowing them to execute, compose, and manage command‑line operations as part of their reasoning processes. By providing a unified API and extensible command‑execution environment, x‑cmd turns ordinary terminals into programmable “superpowers” for AI‑driven automation, debugging, and DevOps tasks. It bridges the gap between natural‑language models and system-level tooling, making it easier to build robust, interactive AI applications.
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/x-cmd/x-cmd) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/x-cmd/x-cmd) · [← Back to AI/ML](./README.md)</sub>

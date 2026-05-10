@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 134 |
+| ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`audio` `audio-analysis` `audio-visualizer` `dsp` `linux` `oscilloscope` `pipewire` `rust` `spectrogram`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ Misc
 
 ## 📝 Summary
 
-Here is a brief summary for the open-source project:
-
-OpenMeters is an open-source audio metering and visualization tool designed for Linux, offering fast and professional metrics for audio professionals. This software provides a comprehensive suite of features for monitoring and analyzing audio signals, making it an ideal choice for live performances, post-production, and other audio applications. With its ease of use and customization options, OpenMeters streamlines the audio monitoring process.
+OpenMeters is a lightweight, high‑performance audio metering and visualization toolkit designed for Linux users. It provides fast, professional‑grade level meters, spectrums, and other visual analytics for audio streams, making it ideal for developers and musicians who need real‑time monitoring without sacrificing system resources. The project is open source and can be integrated into a variety of audio applications and workflows.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/httpsworldview/openmeters) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/httpsworldview/openmeters) · [← Back to Misc](./README.md)</sub>

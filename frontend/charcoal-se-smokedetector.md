@@ -12,12 +12,12 @@
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`hacktoberfest` `python` `regex` `spam`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-Charcoal-SE/SmokeDetector is an open-source, headless chatbot designed to detect and identify spam posts in online environments. It facilitates quick deletion of spam by posting links to suspicious content in chatrooms, helping maintain a safer and more reliable online community. This project utilizes a frontend approach to streamline spam detection and removal processes.
+Charcoal‑SE / SmokeDetector is a headless chatbot designed to monitor Stack Exchange chatrooms for spam. It automatically identifies spammy messages, posts a link to the offending content in the chat, and enables moderators to delete the posts quickly. Though categorized under Frontend, the tool operates as a background service that streamlines spam handling across the network.
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/Charcoal-SE/SmokeDetector) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Charcoal-SE/SmokeDetector) · [← Back to Frontend](./README.md)</sub>

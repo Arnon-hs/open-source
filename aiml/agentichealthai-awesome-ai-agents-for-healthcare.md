@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 910 |
-| 🍴 **Forks** | 96 |
+| ⭐ **Stars** | 924 |
+| 🍴 **Forks** | 98 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `ai-agents` `healthcare-agents` `medical-agents`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-The Awesome-AI-Agents-for-Healthcare project is an open-source repository showcasing the latest advancements in agentic AI and AI agents for the healthcare industry. This collection of resources provides developers and researchers with access to cutting-edge tools, techniques, and research papers focused on improving healthcare outcomes through AI-driven solutions. By leveraging this repository, the project aims to accelerate innovation and collaboration in the field of healthcare AI.
+AgenticHealthAI’s **Awesome‑AI‑Agents‑for‑Healthcare** repository curates the most recent research, tools, and open‑source projects that apply agentic artificial intelligence and autonomous AI agents to medical and health‑care contexts. It serves as a centralized hub for developers, clinicians, and researchers looking for state‑of‑the‑art models, frameworks, and use‑case examples—from diagnostic assistants and patient monitoring bots to drug‑discovery pipelines—organized under the AI/ML and DevTools categories.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) · [← Back to AI/ML](./README.md)</sub>

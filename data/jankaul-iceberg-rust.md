@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 236 |
+| ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`arrow` `datafusion` `iceberg` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ Data
 
 ## 📝 Summary
 
-This project, iceberg-rust, is an unofficial Rust implementation of Apache Iceberg, providing a scalable and flexible storage system for large datasets. It also integrates seamlessly with Datafusion, enabling users to effortlessly analyze and manipulate data across various formats. By leveraging Rust's performance capabilities, iceberg-rust offers a high-speed and robust solution for data processing and analytics.
+JanKaul/iceberg‑rust is an unofficial pure‑Rust implementation of the Apache Iceberg table format, providing core metadata handling, schema evolution, and snapshot management. It includes seamless integration with DataFusion, enabling fast, SQL‑based analytics on Iceberg tables directly within Rust applications. The project targets developers needing a lightweight, high‑performance alternative to the Java ecosystem for working with Iceberg data.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/JanKaul/iceberg-rust) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/JanKaul/iceberg-rust) · [← Back to Data](./README.md)</sub>

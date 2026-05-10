@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Zig |
 | 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Frontend
 
 ## 📝 Summary
 
-dvui is an open-source, immediate GUI library for building applications and games using the Zig programming language. It provides a high-performance, low-latency interface for creating interactive user interfaces, making it suitable for a wide range of applications, from desktop apps to games. dvui allows developers to focus on building their application's logic, while its immediate GUI capabilities take care of rendering and user interaction.
+**dvui** is a lightweight, immediate-mode GUI library written in Zig, aimed at providing fast and simple user‑interface components for both desktop applications and games. It offers a minimal API for drawing windows, buttons, text inputs, and other common widgets without the overhead of retained‑mode toolkits, making it ideal for developers who need tight integration with real‑time rendering loops. The library is open‑source, cross‑platform, and focused on performance‑first design for Zig projects.
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/david-vanderson/dvui) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/david-vanderson/dvui) · [← Back to Frontend](./README.md)</sub>

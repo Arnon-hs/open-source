@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,8 @@ Misc
 
 ## 📝 Summary
 
-The Adventure Game Studio (AGS) project is an open-source editor and engine for creating 2D point-and-click adventure games. By providing the engine's source code, the project allows developers to modify and extend the game development platform, facilitating customization and community-driven enhancements. This open-source framework enables creators to craft immersive adventures with greater flexibility and control.
+Adventure Game Studio (AGS) is an open‑source development environment that provides both a visual editor and a runtime engine for creating classic point‑and‑click adventure games. The repository contains the full source code for the editor, scripting language, and engine, enabling developers to customize, extend, and compile their own versions of the toolset. It is maintained by the community and released under an open‑source license.
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/adventuregamestudio/ags) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/adventuregamestudio/ags) · [← Back to Misc](./README.md)</sub>

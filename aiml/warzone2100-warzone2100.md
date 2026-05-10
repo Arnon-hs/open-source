@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 599 |
+| 🍴 **Forks** | 597 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`c-plus-plus` `campaign` `cheats` `cmake` `freebsd` `game` `games` `internet` `javascript` `linux` `mac` `macos`
 
 ## 🎯 Categories
 
@@ -25,8 +25,8 @@ AI/ML · Frontend
 
 ## 📝 Summary
 
-Warzone 2100 is a free and open-source real-time strategy game where players command The Project's forces in a mission to rebuild the world after a devastating nuclear apocalypse. This 100% free game is available for Windows, macOS, Linux, and BSD+, offering a challenging and immersive gaming experience. With its focus on AI and frontend development, Warzone 2100 provides a rich and engaging gameplay experience.
+Warzone 2100 is a fully free and open‑source real‑time strategy game where players lead the remnants of humanity, known as “The Project,” in a post‑apocalyptic war to rebuild civilization after a nuclear catastrophe. The game offers cross‑platform support (Windows, macOS, Linux, BSD) and features advanced AI opponents, a modern 3D engine, and extensive modding capabilities, making it a robust example of community‑driven game development.
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/Warzone2100/warzone2100) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Warzone2100/warzone2100) · [← Back to AI/ML](./README.md)</sub>

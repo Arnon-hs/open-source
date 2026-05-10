@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 415 |
+| ⭐ **Stars** | 417 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `chatbot` `chatpdf` `flowable` `helpdesk` `livechat` `omnichannel` `rag` `support` `team` `ticket-system`
 
 ## 🎯 Categories
 
@@ -25,10 +25,8 @@ AI/ML
 
 ## 📝 Summary
 
-Here's a 2-3 sentence summary for the Bytedesk project:
-
-Bytedesk is an open-source, enterprise-grade Instant Messaging (IM) solution that integrates AI-powered omni-channel customer service and team collaboration. Designed as an alternative to popular platforms like Slack, Zendesk, and Intercom, Bytedesk offers a comprehensive communication and support platform for businesses. Its AI-driven features enable seamless, multi-channel customer engagement and team communication.
+Bytedesk is an open‑source enterprise instant‑messaging platform that combines AI‑driven, omni‑channel customer service with team collaboration features, positioning itself as a unified alternative to solutions like Slack, Zendesk, and Intercom. It offers real‑time chat, ticketing, knowledge‑base integration, and AI assistants across web, mobile, and social channels, enabling businesses to streamline support and internal communication within a single, extensible framework.
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/Bytedesk/bytedesk) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Bytedesk/bytedesk) · [← Back to AI/ML](./README.md)</sub>
