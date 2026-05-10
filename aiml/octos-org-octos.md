@@ -1,6 +1,6 @@
 # octos-org/octos
 
-[![Stars](https://img.shields.io/github/stars/octos-org/octos?style=flat-square&color=yellow)](https://github.com/octos-org/octos/stargazers) [![Forks](https://img.shields.io/github/forks/octos-org/octos?style=flat-square&color=blue)](https://github.com/octos-org/octos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octos-org/octos?style=flat-square&color=yellow)](https://github.com/octos-org/octos/stargazers) [![Forks](https://img.shields.io/github/forks/octos-org/octos?style=flat-square&color=blue)](https://github.com/octos-org/octos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Octos - Agentic Operating Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ octos-org/octos：octos-org/octos helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 62/100 |
+| outlook | 63/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sarub0b0/kubetui
 
-[![Stars](https://img.shields.io/github/stars/sarub0b0/kubetui?style=flat-square&color=yellow)](https://github.com/sarub0b0/kubetui/stargazers) [![Forks](https://img.shields.io/github/forks/sarub0b0/kubetui?style=flat-square&color=blue)](https://github.com/sarub0b0/kubetui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sarub0b0/kubetui?style=flat-square&color=yellow)](https://github.com/sarub0b0/kubetui/stargazers) [![Forks](https://img.shields.io/github/forks/sarub0b0/kubetui?style=flat-square&color=blue)](https://github.com/sarub0b0/kubetui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 373 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sarub0b0/kubetui：sarub0b0/kubetui helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 46/100 |
 | stars | 55/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

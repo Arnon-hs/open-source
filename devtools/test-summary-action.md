@@ -1,6 +1,6 @@
 # test-summary/action
 
-[![Stars](https://img.shields.io/github/stars/test-summary/action?style=flat-square&color=yellow)](https://github.com/test-summary/action/stargazers) [![Forks](https://img.shields.io/github/forks/test-summary/action?style=flat-square&color=blue)](https://github.com/test-summary/action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/test-summary/action?style=flat-square&color=yellow)](https://github.com/test-summary/action/stargazers) [![Forks](https://img.shields.io/github/forks/test-summary/action?style=flat-square&color=blue)](https://github.com/test-summary/action/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Show a helpful summary of test results in GitHub Actions CI/CD workflow runs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ test-summary/action：test-summary/action helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

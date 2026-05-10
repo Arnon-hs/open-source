@@ -1,6 +1,6 @@
 # agenticmail/agenticmail
 
-[![Stars](https://img.shields.io/github/stars/agenticmail/agenticmail?style=flat-square&color=yellow)](https://github.com/agenticmail/agenticmail/stargazers) [![Forks](https://img.shields.io/github/forks/agenticmail/agenticmail?style=flat-square&color=blue)](https://github.com/agenticmail/agenticmail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agenticmail/agenticmail?style=flat-square&color=yellow)](https://github.com/agenticmail/agenticmail/stargazers) [![Forks](https://img.shields.io/github/forks/agenticmail/agenticmail?style=flat-square&color=blue)](https://github.com/agenticmail/agenticmail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Email & SMS infrastructure for AI agents — send and receive real email and text messages programmatically
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · DevOps/Infra
 
 ### English
 
-agenticmail/agenticmail: agenticmail/agenticmail helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agenticmail/agenticmail: agenticmail/agenticmail helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-agenticmail/agenticmail: open-source проект в категориях AI/ML, Backend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+agenticmail/agenticmail: open-source проект в категориях AI/ML, Backend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-agenticmail/agenticmail：agenticmail/agenticmail helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agenticmail/agenticmail：agenticmail/agenticmail helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ agenticmail/agenticmail：agenticmail/agenticmail helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ agenticmail/agenticmail：agenticmail/agenticmail helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 41/100 |
 | stars | 44/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apoorvdarshan/fud-ai
 
-[![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?style=flat-square&color=yellow)](https://github.com/apoorvdarshan/fud-ai/stargazers) [![Forks](https://img.shields.io/github/forks/apoorvdarshan/fud-ai?style=flat-square&color=blue)](https://github.com/apoorvdarshan/fud-ai/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?style=flat-square&color=yellow)](https://github.com/apoorvdarshan/fud-ai/stargazers) [![Forks](https://img.shields.io/github/forks/apoorvdarshan/fud-ai?style=flat-square&color=blue)](https://github.com/apoorvdarshan/fud-ai/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Fud AI is a Free & Open Sourced AI Calorie Tracker for iOS & Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apoorvdarshan/fud-ai：apoorvdarshan/fud-ai helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 45/100 |
 | stars | 47/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

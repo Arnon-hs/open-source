@@ -1,6 +1,6 @@
 # googleapis/python-aiplatform
 
-[![Stars](https://img.shields.io/github/stars/googleapis/python-aiplatform?style=flat-square&color=yellow)](https://github.com/googleapis/python-aiplatform/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/python-aiplatform?style=flat-square&color=blue)](https://github.com/googleapis/python-aiplatform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/python-aiplatform?style=flat-square&color=yellow)](https://github.com/googleapis/python-aiplatform/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/python-aiplatform?style=flat-square&color=blue)](https://github.com/googleapis/python-aiplatform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend · Data
 
 ### English
 
-googleapis/python-aiplatform: googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/python-aiplatform: googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-googleapis/python-aiplatform: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+googleapis/python-aiplatform: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capabil
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 76/100 |
+| production | 72/100 |
+| outlook | 69/100 |
 | adoption | 64/100 |
 | stars | 63/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

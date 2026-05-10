@@ -1,6 +1,6 @@
 # openxla/xprof
 
-[![Stars](https://img.shields.io/github/stars/openxla/xprof?style=flat-square&color=yellow)](https://github.com/openxla/xprof/stargazers) [![Forks](https://img.shields.io/github/forks/openxla/xprof?style=flat-square&color=blue)](https://github.com/openxla/xprof/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openxla/xprof?style=flat-square&color=yellow)](https://github.com/openxla/xprof/stargazers) [![Forks](https://img.shields.io/github/forks/openxla/xprof?style=flat-square&color=blue)](https://github.com/openxla/xprof/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A profiling and performance analysis tool for machine learning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 509 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ openxla/xprof：openxla/xprof may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 62/100 |
+| outlook | 63/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

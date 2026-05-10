@@ -1,6 +1,6 @@
 # supermemoryai/smfs
 
-[![Stars](https://img.shields.io/github/stars/supermemoryai/smfs?style=flat-square&color=yellow)](https://github.com/supermemoryai/smfs/stargazers) [![Forks](https://img.shields.io/github/forks/supermemoryai/smfs?style=flat-square&color=blue)](https://github.com/supermemoryai/smfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supermemoryai/smfs?style=flat-square&color=yellow)](https://github.com/supermemoryai/smfs/stargazers) [![Forks](https://img.shields.io/github/forks/supermemoryai/smfs?style=flat-square&color=blue)](https://github.com/supermemoryai/smfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A filesystem designed for agents, with SOTA retrieval, automatic memory profiles, sync engine. Drop any file type (pdf, images, videos), and grep through them.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ supermemoryai/smfs：supermemoryai/smfs helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

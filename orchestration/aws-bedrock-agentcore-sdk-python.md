@@ -1,6 +1,6 @@
 # aws/bedrock-agentcore-sdk-python
 
-[![Stars](https://img.shields.io/github/stars/aws/bedrock-agentcore-sdk-python?style=flat-square&color=yellow)](https://github.com/aws/bedrock-agentcore-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/aws/bedrock-agentcore-sdk-python?style=flat-square&color=blue)](https://github.com/aws/bedrock-agentcore-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/bedrock-agentcore-sdk-python?style=flat-square&color=yellow)](https://github.com/aws/bedrock-agentcore-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/aws/bedrock-agentcore-sdk-python?style=flat-square&color=blue)](https://github.com/aws/bedrock-agentcore-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ aws/bedrock-agentcore-sdk-python：aws/bedrock-agentcore-sdk-python helps turn i
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

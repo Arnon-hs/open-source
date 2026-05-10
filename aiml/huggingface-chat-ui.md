@@ -1,6 +1,6 @@
 # huggingface/chat-ui
 
-[![Stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=flat-square&color=yellow)](https://github.com/huggingface/chat-ui/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/chat-ui?style=flat-square&color=blue)](https://github.com/huggingface/chat-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=flat-square&color=yellow)](https://github.com/huggingface/chat-ui/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/chat-ui?style=flat-square&color=blue)](https://github.com/huggingface/chat-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The open source codebase powering HuggingChat
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend
 
 ### English
 
-huggingface/chat-ui: huggingface/chat-ui helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+huggingface/chat-ui: huggingface/chat-ui helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-huggingface/chat-ui: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+huggingface/chat-ui: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-huggingface/chat-ui：huggingface/chat-ui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+huggingface/chat-ui：huggingface/chat-ui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ huggingface/chat-ui：huggingface/chat-ui helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ huggingface/chat-ui：huggingface/chat-ui helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 84/100 |
+| production | 74/100 |
+| outlook | 77/100 |
 | adoption | 84/100 |
 | stars | 86/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # horsicq/xntsv
 
-[![Stars](https://img.shields.io/github/stars/horsicq/xntsv?style=flat-square&color=yellow)](https://github.com/horsicq/xntsv/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/xntsv?style=flat-square&color=blue)](https://github.com/horsicq/xntsv/network) [![Language](https://img.shields.io/badge/lang-QMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horsicq/xntsv?style=flat-square&color=yellow)](https://github.com/horsicq/xntsv/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/xntsv?style=flat-square&color=blue)](https://github.com/horsicq/xntsv/network) [![Language](https://img.shields.io/badge/lang-QMake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > XNTSV program for detailed viewing of system structures  for Windows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | QMake |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ horsicq/xntsv：horsicq/xntsv helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

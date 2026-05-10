@@ -1,6 +1,6 @@
 # patrickjaja/claude-desktop-bin
 
-[![Stars](https://img.shields.io/github/stars/patrickjaja/claude-desktop-bin?style=flat-square&color=yellow)](https://github.com/patrickjaja/claude-desktop-bin/stargazers) [![Forks](https://img.shields.io/github/forks/patrickjaja/claude-desktop-bin?style=flat-square&color=blue)](https://github.com/patrickjaja/claude-desktop-bin/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patrickjaja/claude-desktop-bin?style=flat-square&color=yellow)](https://github.com/patrickjaja/claude-desktop-bin/stargazers) [![Forks](https://img.shields.io/github/forks/patrickjaja/claude-desktop-bin?style=flat-square&color=blue)](https://github.com/patrickjaja/claude-desktop-bin/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Linux packages for Claude Desktop AI assistant with automated updates.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Nim |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ patrickjaja/claude-desktop-bin：patrickjaja/claude-desktop-bin helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

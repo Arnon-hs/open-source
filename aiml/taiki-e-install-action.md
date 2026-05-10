@@ -1,6 +1,6 @@
 # taiki-e/install-action
 
-[![Stars](https://img.shields.io/github/stars/taiki-e/install-action?style=flat-square&color=yellow)](https://github.com/taiki-e/install-action/stargazers) [![Forks](https://img.shields.io/github/forks/taiki-e/install-action?style=flat-square&color=blue)](https://github.com/taiki-e/install-action/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taiki-e/install-action?style=flat-square&color=yellow)](https://github.com/taiki-e/install-action/stargazers) [![Forks](https://img.shields.io/github/forks/taiki-e/install-action?style=flat-square&color=blue)](https://github.com/taiki-e/install-action/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action for installing development tools (mainly from GitHub Releases).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ taiki-e/install-action：taiki-e/install-action helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 63/100 |
+| outlook | 64/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

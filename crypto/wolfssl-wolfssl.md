@@ -1,6 +1,6 @@
 # wolfSSL/wolfssl
 
-[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssl?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssl/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssl?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssl?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssl/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssl?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 971 |
 | 💻 **Language** | C |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto · Frontend · Backend
 
 ### English
 
-wolfSSL/wolfssl: wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wolfSSL/wolfssl: wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-wolfSSL/wolfssl: open-source проект в категориях Crypto, Frontend, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+wolfSSL/wolfssl: open-source проект в категориях Crypto, Frontend, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-wolfSSL/wolfssl：wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wolfSSL/wolfssl：wolfSSL/wolfssl helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wolfSSL/wolfssl：wolfSSL/wolfssl helps prototype or inspect blockchain workflow
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wolfSSL/wolfssl：wolfSSL/wolfssl helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 74/100 |
 | stars | 73/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

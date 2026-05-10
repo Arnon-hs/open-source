@@ -1,6 +1,6 @@
 # openvehicles/Open-Vehicle-Monitoring-System-3
 
-[![Stars](https://img.shields.io/github/stars/openvehicles/Open-Vehicle-Monitoring-System-3?style=flat-square&color=yellow)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3/stargazers) [![Forks](https://img.shields.io/github/forks/openvehicles/Open-Vehicle-Monitoring-System-3?style=flat-square&color=blue)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openvehicles/Open-Vehicle-Monitoring-System-3?style=flat-square&color=yellow)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3/stargazers) [![Forks](https://img.shields.io/github/forks/openvehicles/Open-Vehicle-Monitoring-System-3?style=flat-square&color=blue)](https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open Vehicle Monitoring System - Version 3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ openvehicles/Open-Vehicle-Monitoring-System-3：openvehicles/Open-Vehicle-Monito
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 62/100 |
 | stars | 62/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

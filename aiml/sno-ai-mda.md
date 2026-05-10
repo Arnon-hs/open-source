@@ -1,6 +1,6 @@
 # sno-ai/mda
 
-[![Stars](https://img.shields.io/github/stars/sno-ai/mda?style=flat-square&color=yellow)](https://github.com/sno-ai/mda/stargazers) [![Forks](https://img.shields.io/github/forks/sno-ai/mda?style=flat-square&color=blue)](https://github.com/sno-ai/mda/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sno-ai/mda?style=flat-square&color=yellow)](https://github.com/sno-ai/mda/stargazers) [![Forks](https://img.shields.io/github/forks/sno-ai/mda?style=flat-square&color=blue)](https://github.com/sno-ai/mda/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MDA: Markdown for Agent. A next-generation markdown extension designed specifically for AI systems. MDAenhances standard markdown with structured metadata, embedded AI instructions, and explicit document relationships, creating a seamless bridge between human-readable content and LLM/Agent processing. SKILL, MEMORY.md compatible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data · Design
 
 ### English
 
-sno-ai/mda: sno-ai/mda helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sno-ai/mda: sno-ai/mda helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-sno-ai/mda: open-source проект в категориях AI/ML, Data, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+sno-ai/mda: open-source проект в категориях AI/ML, Data, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-sno-ai/mda：sno-ai/mda helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sno-ai/mda：sno-ai/mda helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sno-ai/mda：sno-ai/mda helps add AI capability without starting from a blank mo
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sno-ai/mda：sno-ai/mda helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 69/100 |
+| outlook | 75/100 |
 | adoption | 49/100 |
 | stars | 58/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

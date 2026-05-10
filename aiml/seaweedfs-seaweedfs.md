@@ -1,6 +1,6 @@
 # seaweedfs/seaweedfs
 
-[![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=flat-square&color=yellow)](https://github.com/seaweedfs/seaweedfs/stargazers) [![Forks](https://img.shields.io/github/forks/seaweedfs/seaweedfs?style=flat-square&color=blue)](https://github.com/seaweedfs/seaweedfs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=flat-square&color=yellow)](https://github.com/seaweedfs/seaweedfs/stargazers) [![Forks](https://img.shields.io/github/forks/seaweedfs/seaweedfs?style=flat-square&color=blue)](https://github.com/seaweedfs/seaweedfs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.1k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ seaweedfs/seaweedfs：seaweedfs/seaweedfs helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 62/100 |
-| production | 85/100 |
-| outlook | 90/100 |
+| production | 78/100 |
+| outlook | 83/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

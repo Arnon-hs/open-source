@@ -1,6 +1,6 @@
 # asdfghj1237890/WebVideo2NAS
 
-[![Stars](https://img.shields.io/github/stars/asdfghj1237890/WebVideo2NAS?style=flat-square&color=yellow)](https://github.com/asdfghj1237890/WebVideo2NAS/stargazers) [![Forks](https://img.shields.io/github/forks/asdfghj1237890/WebVideo2NAS?style=flat-square&color=blue)](https://github.com/asdfghj1237890/WebVideo2NAS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asdfghj1237890/WebVideo2NAS?style=flat-square&color=yellow)](https://github.com/asdfghj1237890/WebVideo2NAS/stargazers) [![Forks](https://img.shields.io/github/forks/asdfghj1237890/WebVideo2NAS?style=flat-square&color=blue)](https://github.com/asdfghj1237890/WebVideo2NAS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Chrome → NAS pipeline: capture HLS / DASH / MP4 streams from any site and download to your NAS. Single multi-arch Docker image (FastAPI + worker + ffmpeg) distributed via GHCR.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ asdfghj1237890/WebVideo2NAS：asdfghj1237890/WebVideo2NAS helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 94/100 |
-| production | 84/100 |
-| outlook | 85/100 |
+| production | 77/100 |
+| outlook | 78/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

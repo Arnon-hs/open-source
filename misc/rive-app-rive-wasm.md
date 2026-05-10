@@ -1,6 +1,6 @@
 # rive-app/rive-wasm
 
-[![Stars](https://img.shields.io/github/stars/rive-app/rive-wasm?style=flat-square&color=yellow)](https://github.com/rive-app/rive-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/rive-app/rive-wasm?style=flat-square&color=blue)](https://github.com/rive-app/rive-wasm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rive-app/rive-wasm?style=flat-square&color=yellow)](https://github.com/rive-app/rive-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/rive-app/rive-wasm?style=flat-square&color=blue)](https://github.com/rive-app/rive-wasm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Wasm/JS runtime for Rive
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 934 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ rive-app/rive-wasm：rive-app/rive-wasm may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 68/100 |
+| production | 65/100 |
+| outlook | 61/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

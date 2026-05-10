@@ -1,6 +1,6 @@
 # runelite/plugin-hub
 
-[![Stars](https://img.shields.io/github/stars/runelite/plugin-hub?style=flat-square&color=yellow)](https://github.com/runelite/plugin-hub/stargazers) [![Forks](https://img.shields.io/github/forks/runelite/plugin-hub?style=flat-square&color=blue)](https://github.com/runelite/plugin-hub/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runelite/plugin-hub?style=flat-square&color=yellow)](https://github.com/runelite/plugin-hub/stargazers) [![Forks](https://img.shields.io/github/forks/runelite/plugin-hub?style=flat-square&color=blue)](https://github.com/runelite/plugin-hub/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > External plugins for RuneLite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ runelite/plugin-hub：runelite/plugin-hub may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 62/100 |
 | stars | 54/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

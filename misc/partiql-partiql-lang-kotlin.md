@@ -1,6 +1,6 @@
 # partiql/partiql-lang-kotlin
 
-[![Stars](https://img.shields.io/github/stars/partiql/partiql-lang-kotlin?style=flat-square&color=yellow)](https://github.com/partiql/partiql-lang-kotlin/stargazers) [![Forks](https://img.shields.io/github/forks/partiql/partiql-lang-kotlin?style=flat-square&color=blue)](https://github.com/partiql/partiql-lang-kotlin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/partiql/partiql-lang-kotlin?style=flat-square&color=yellow)](https://github.com/partiql/partiql-lang-kotlin/stargazers) [![Forks](https://img.shields.io/github/forks/partiql/partiql-lang-kotlin?style=flat-square&color=blue)](https://github.com/partiql/partiql-lang-kotlin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > PartiQL libraries and tools in Kotlin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ partiql/partiql-lang-kotlin：partiql/partiql-lang-kotlin may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

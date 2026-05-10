@@ -1,6 +1,6 @@
 # REIJI007/AdBlock_Rule_For_Clash
 
-[![Stars](https://img.shields.io/github/stars/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=yellow)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/stargazers) [![Forks](https://img.shields.io/github/forks/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=blue)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=yellow)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/stargazers) [![Forks](https://img.shields.io/github/forks/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=blue)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 适用于Clash（premium核心与mihomo核心）的广告域名拦截RULE-SET规则集，每20分钟更新一次
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ REIJI007/AdBlock_Rule_For_Clash：REIJI007/AdBlock_Rule_For_Clash may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

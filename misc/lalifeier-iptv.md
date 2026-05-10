@@ -1,6 +1,6 @@
 # lalifeier/IPTV
 
-[![Stars](https://img.shields.io/github/stars/lalifeier/IPTV?style=flat-square&color=yellow)](https://github.com/lalifeier/IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/lalifeier/IPTV?style=flat-square&color=blue)](https://github.com/lalifeier/IPTV/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lalifeier/IPTV?style=flat-square&color=yellow)](https://github.com/lalifeier/IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/lalifeier/IPTV?style=flat-square&color=blue)](https://github.com/lalifeier/IPTV/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 381 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ lalifeier/IPTV：lalifeier/IPTV may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 34/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # SoliSpirit/v2ray-configs
 
-[![Stars](https://img.shields.io/github/stars/SoliSpirit/v2ray-configs?style=flat-square&color=yellow)](https://github.com/SoliSpirit/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/SoliSpirit/v2ray-configs?style=flat-square&color=blue)](https://github.com/SoliSpirit/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SoliSpirit/v2ray-configs?style=flat-square&color=yellow)](https://github.com/SoliSpirit/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/SoliSpirit/v2ray-configs?style=flat-square&color=blue)](https://github.com/SoliSpirit/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > V2Ray configs for multiple protocols and countries, updated every 15 minutes for fast, secure connections!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,14 +62,14 @@ SoliSpirit/v2ray-configs：SoliSpirit/v2ray-configs may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

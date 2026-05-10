@@ -1,6 +1,6 @@
 # TheSpeedX/PROXY-List
 
-[![Stars](https://img.shields.io/github/stars/TheSpeedX/PROXY-List?style=flat-square&color=yellow)](https://github.com/TheSpeedX/PROXY-List/stargazers) [![Forks](https://img.shields.io/github/forks/TheSpeedX/PROXY-List?style=flat-square&color=blue)](https://github.com/TheSpeedX/PROXY-List/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheSpeedX/PROXY-List?style=flat-square&color=yellow)](https://github.com/TheSpeedX/PROXY-List/stargazers) [![Forks](https://img.shields.io/github/forks/TheSpeedX/PROXY-List?style=flat-square&color=blue)](https://github.com/TheSpeedX/PROXY-List/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Get PROXY List  that gets updated everyday
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-TheSpeedX/PROXY-List: TheSpeedX/PROXY-List may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TheSpeedX/PROXY-List: TheSpeedX/PROXY-List may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-TheSpeedX/PROXY-List: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+TheSpeedX/PROXY-List: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-TheSpeedX/PROXY-List：TheSpeedX/PROXY-List may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TheSpeedX/PROXY-List：TheSpeedX/PROXY-List may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TheSpeedX/PROXY-List：TheSpeedX/PROXY-List may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ TheSpeedX/PROXY-List：TheSpeedX/PROXY-List may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 79/100 |
 | stars | 80/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

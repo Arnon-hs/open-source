@@ -1,6 +1,6 @@
 # Dicklesworthstone/asupersync
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/asupersync?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/asupersync/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/asupersync?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/asupersync/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/asupersync?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/asupersync/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/asupersync?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/asupersync/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols, capability-gated effects, and deterministic replay testing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Dicklesworthstone/asupersync：Dicklesworthstone/asupersync helps engineers save
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

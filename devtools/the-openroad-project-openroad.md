@@ -1,6 +1,6 @@
 # The-OpenROAD-Project/OpenROAD
 
-[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 880 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevTools · Data
 
 ### English
 
-The-OpenROAD-Project/OpenROAD: The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+The-OpenROAD-Project/OpenROAD: The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-The-OpenROAD-Project/OpenROAD: open-source проект в категориях DevTools, Data. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+The-OpenROAD-Project/OpenROAD: open-source проект в категориях DevTools, Data. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps engineers sa
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 70/100 |
+| outlook | 75/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

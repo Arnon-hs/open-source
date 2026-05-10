@@ -1,6 +1,6 @@
 # numtide/llm-agents.nix
 
-[![Stars](https://img.shields.io/github/stars/numtide/llm-agents.nix?style=flat-square&color=yellow)](https://github.com/numtide/llm-agents.nix/stargazers) [![Forks](https://img.shields.io/github/forks/numtide/llm-agents.nix?style=flat-square&color=blue)](https://github.com/numtide/llm-agents.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numtide/llm-agents.nix?style=flat-square&color=yellow)](https://github.com/numtide/llm-agents.nix/stargazers) [![Forks](https://img.shields.io/github/forks/numtide/llm-agents.nix?style=flat-square&color=blue)](https://github.com/numtide/llm-agents.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Nix packages for AI coding agents and development tools. Automatically updated daily.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ numtide/llm-agents.nix：numtide/llm-agents.nix helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

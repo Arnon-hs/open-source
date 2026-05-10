@@ -1,6 +1,6 @@
 # ryanpcmcquen/basque
 
-[![Stars](https://img.shields.io/github/stars/ryanpcmcquen/basque?style=flat-square&color=yellow)](https://github.com/ryanpcmcquen/basque/stargazers) [![Forks](https://img.shields.io/github/forks/ryanpcmcquen/basque?style=flat-square&color=blue)](https://github.com/ryanpcmcquen/basque/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ryanpcmcquen/basque?style=flat-square&color=yellow)](https://github.com/ryanpcmcquen/basque/stargazers) [![Forks](https://img.shields.io/github/forks/ryanpcmcquen/basque?style=flat-square&color=blue)](https://github.com/ryanpcmcquen/basque/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A top-down 2d game engine, written from scratch in under 1000 lines of C. Development of the game based on this engine is streamed on Twitch: https://www.twitch.tv/ryanpcmcquen
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 449 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ryanpcmcquen/basque：ryanpcmcquen/basque may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

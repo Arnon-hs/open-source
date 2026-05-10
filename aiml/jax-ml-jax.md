@@ -1,6 +1,6 @@
 # jax-ml/jax
 
-[![Stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&color=yellow)](https://github.com/jax-ml/jax/stargazers) [![Forks](https://img.shields.io/github/forks/jax-ml/jax?style=flat-square&color=blue)](https://github.com/jax-ml/jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&color=yellow)](https://github.com/jax-ml/jax/stargazers) [![Forks](https://img.shields.io/github/forks/jax-ml/jax?style=flat-square&color=blue)](https://github.com/jax-ml/jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-jax-ml/jax: jax-ml/jax helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jax-ml/jax: jax-ml/jax helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-jax-ml/jax: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+jax-ml/jax: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-jax-ml/jax：jax-ml/jax helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jax-ml/jax：jax-ml/jax helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jax-ml/jax：jax-ml/jax helps add AI capability without starting from a blank mo
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jax-ml/jax：jax-ml/jax helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 78/100 |
+| production | 71/100 |
+| outlook | 71/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 89/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

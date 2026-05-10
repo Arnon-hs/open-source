@@ -1,6 +1,6 @@
 # pkalogiros/AudioMass
 
-[![Stars](https://img.shields.io/github/stars/pkalogiros/AudioMass?style=flat-square&color=yellow)](https://github.com/pkalogiros/AudioMass/stargazers) [![Forks](https://img.shields.io/github/forks/pkalogiros/AudioMass?style=flat-square&color=blue)](https://github.com/pkalogiros/AudioMass/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pkalogiros/AudioMass?style=flat-square&color=yellow)](https://github.com/pkalogiros/AudioMass/stargazers) [![Forks](https://img.shields.io/github/forks/pkalogiros/AudioMass?style=flat-square&color=blue)](https://github.com/pkalogiros/AudioMass/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Free full-featured web-based audio & waveform editing tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ pkalogiros/AudioMass：pkalogiros/AudioMass may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

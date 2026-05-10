@@ -1,6 +1,6 @@
 # public-apis/public-apis
 
-[![Stars](https://img.shields.io/github/stars/public-apis/public-apis?style=flat-square&color=yellow)](https://github.com/public-apis/public-apis/stargazers) [![Forks](https://img.shields.io/github/forks/public-apis/public-apis?style=flat-square&color=blue)](https://github.com/public-apis/public-apis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/public-apis/public-apis?style=flat-square&color=yellow)](https://github.com/public-apis/public-apis/stargazers) [![Forks](https://img.shields.io/github/forks/public-apis/public-apis?style=flat-square&color=blue)](https://github.com/public-apis/public-apis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A collective list of free APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 433k |
 | 🍴 **Forks** | 47.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ public-apis/public-apis：public-apis/public-apis helps teams reuse service infr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 100/100 |
+| quality | 95/100 |
 | integration | 62/100 |
-| production | 86/100 |
-| outlook | 92/100 |
+| production | 79/100 |
+| outlook | 85/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

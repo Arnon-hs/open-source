@@ -1,6 +1,6 @@
 # googleapis/google-cloud-rust
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-rust/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-rust?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-rust/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-rust?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Google Cloud Rust Client Libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 918 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Backend · DevTools
 
 ### English
 
-googleapis/google-cloud-rust: googleapis/google-cloud-rust helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/google-cloud-rust: googleapis/google-cloud-rust helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-googleapis/google-cloud-rust: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+googleapis/google-cloud-rust: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-googleapis/google-cloud-rust：googleapis/google-cloud-rust helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/google-cloud-rust：googleapis/google-cloud-rust helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ googleapis/google-cloud-rust：googleapis/google-cloud-rust helps teams reuse se
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ googleapis/google-cloud-rust：googleapis/google-cloud-rust helps teams reuse se
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 72/100 |
+| outlook | 72/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

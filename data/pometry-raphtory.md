@@ -1,6 +1,6 @@
 # Pometry/Raphtory
 
-[![Stars](https://img.shields.io/github/stars/Pometry/Raphtory?style=flat-square&color=yellow)](https://github.com/Pometry/Raphtory/stargazers) [![Forks](https://img.shields.io/github/forks/Pometry/Raphtory?style=flat-square&color=blue)](https://github.com/Pometry/Raphtory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pometry/Raphtory?style=flat-square&color=yellow)](https://github.com/Pometry/Raphtory/stargazers) [![Forks](https://img.shields.io/github/forks/Pometry/Raphtory?style=flat-square&color=blue)](https://github.com/Pometry/Raphtory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Data
 
 ### English
 
-Pometry/Raphtory: Pometry/Raphtory helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Pometry/Raphtory: Pometry/Raphtory helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Pometry/Raphtory: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Pometry/Raphtory: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Pometry/Raphtory：Pometry/Raphtory helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Pometry/Raphtory：Pometry/Raphtory helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Pometry/Raphtory：Pometry/Raphtory helps convert raw data into searchable, anal
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Pometry/Raphtory：Pometry/Raphtory helps convert raw data into searchable, anal
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 77/100 |
+| production | 70/100 |
+| outlook | 70/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

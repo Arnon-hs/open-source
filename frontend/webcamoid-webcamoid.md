@@ -1,6 +1,6 @@
 # webcamoid/webcamoid
 
-[![Stars](https://img.shields.io/github/stars/webcamoid/webcamoid?style=flat-square&color=yellow)](https://github.com/webcamoid/webcamoid/stargazers) [![Forks](https://img.shields.io/github/forks/webcamoid/webcamoid?style=flat-square&color=blue)](https://github.com/webcamoid/webcamoid/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webcamoid/webcamoid?style=flat-square&color=yellow)](https://github.com/webcamoid/webcamoid/stargazers) [![Forks](https://img.shields.io/github/forks/webcamoid/webcamoid?style=flat-square&color=blue)](https://github.com/webcamoid/webcamoid/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Webcamoid is a full featured and multiplatform camera suite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ webcamoid/webcamoid：webcamoid/webcamoid helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

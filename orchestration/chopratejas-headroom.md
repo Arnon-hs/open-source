@@ -1,6 +1,6 @@
 # chopratejas/headroom
 
-[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > The Context Optimization Layer for LLM Applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ chopratejas/headroom：chopratejas/headroom helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 82/100 |
-| outlook | 91/100 |
+| production | 76/100 |
+| outlook | 84/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

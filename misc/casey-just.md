@@ -1,6 +1,6 @@
 # casey/just
 
-[![Stars](https://img.shields.io/github/stars/casey/just?style=flat-square&color=yellow)](https://github.com/casey/just/stargazers) [![Forks](https://img.shields.io/github/forks/casey/just?style=flat-square&color=blue)](https://github.com/casey/just/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/casey/just?style=flat-square&color=yellow)](https://github.com/casey/just/stargazers) [![Forks](https://img.shields.io/github/forks/casey/just?style=flat-square&color=blue)](https://github.com/casey/just/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Just a command runner
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.4k |
 | 🍴 **Forks** | 781 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ casey/just：casey/just may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 90/100 |
 | stars | 96/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 
