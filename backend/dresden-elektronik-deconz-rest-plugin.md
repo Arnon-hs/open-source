@@ -1,6 +1,6 @@
 # dresden-elektronik/deconz-rest-plugin
 
-[![Stars](https://img.shields.io/github/stars/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=yellow)](https://github.com/dresden-elektronik/deconz-rest-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=blue)](https://github.com/dresden-elektronik/deconz-rest-plugin/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=yellow)](https://github.com/dresden-elektronik/deconz-rest-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=blue)](https://github.com/dresden-elektronik/deconz-rest-plugin/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > deCONZ REST-API plugin to control ZigBee devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ deCONZ REST‑API plugin — это открытый серверный мод
 
 ### 中文
 
-dresden-elektronik/deconz-rest-plugin：dresden-elektronik/deconz-rest-plugin helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dresden-elektronik/deconz-rest-plugin：dresden-elektronik/deconz-rest-plugin helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dresden-elektronik/deconz-rest-plugin：dresden-elektronik/deconz-rest-plugin he
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dresden-elektronik/deconz-rest-plugin：dresden-elektronik/deconz-rest-plugin he
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 74/100 |
+| outlook | 79/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 68/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

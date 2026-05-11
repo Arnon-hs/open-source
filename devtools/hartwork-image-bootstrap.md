@@ -1,6 +1,6 @@
 # hartwork/image-bootstrap
 
-[![Stars](https://img.shields.io/github/stars/hartwork/image-bootstrap?style=flat-square&color=yellow)](https://github.com/hartwork/image-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/hartwork/image-bootstrap?style=flat-square&color=blue)](https://github.com/hartwork/image-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hartwork/image-bootstrap?style=flat-square&color=yellow)](https://github.com/hartwork/image-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/hartwork/image-bootstrap?style=flat-square&color=blue)](https://github.com/hartwork/image-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > :partly_sunny: Creates Linux chroots and bootable virtual machine images; command line tool (Python 3)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hartwork/image‑bootstrap — это утилита командной стр
 
 ### 中文
 
-hartwork/image-bootstrap：hartwork/image-bootstrap helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hartwork/image-bootstrap：hartwork/image-bootstrap helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hartwork/image-bootstrap：hartwork/image-bootstrap helps engineers save time in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hartwork/image-bootstrap：hartwork/image-bootstrap helps engineers save time in
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

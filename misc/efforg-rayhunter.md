@@ -1,6 +1,6 @@
 # EFForg/rayhunter
 
-[![Stars](https://img.shields.io/github/stars/EFForg/rayhunter?style=flat-square&color=yellow)](https://github.com/EFForg/rayhunter/stargazers) [![Forks](https://img.shields.io/github/forks/EFForg/rayhunter?style=flat-square&color=blue)](https://github.com/EFForg/rayhunter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EFForg/rayhunter?style=flat-square&color=yellow)](https://github.com/EFForg/rayhunter/stargazers) [![Forks](https://img.shields.io/github/forks/EFForg/rayhunter?style=flat-square&color=blue)](https://github.com/EFForg/rayhunter/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Rust tool to detect cell site simulators on an orbic mobile hotspot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ EFForg/rayhunter：EFForg/rayhunter may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

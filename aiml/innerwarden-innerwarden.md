@@ -1,6 +1,6 @@
 # InnerWarden/innerwarden
 
-[![Stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=flat-square&color=yellow)](https://github.com/InnerWarden/innerwarden/stargazers) [![Forks](https://img.shields.io/github/forks/InnerWarden/innerwarden?style=flat-square&color=blue)](https://github.com/InnerWarden/innerwarden/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=flat-square&color=yellow)](https://github.com/InnerWarden/innerwarden/stargazers) [![Forks](https://img.shields.io/github/forks/InnerWarden/innerwarden?style=flat-square&color=blue)](https://github.com/InnerWarden/innerwarden/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The security agent that fights back. Watches your Linux server from inside, detects threats with kernel-level eBPF, and stops them with on-device AI. Open-source, self-hosted, dry-run by default. Apache-2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ InnerWarden/innerwarden：InnerWarden/innerwarden helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 65/100 |
+| outlook | 73/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

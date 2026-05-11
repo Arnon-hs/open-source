@@ -1,6 +1,6 @@
 # LemmyNet/lemmy
 
-[![Stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=flat-square&color=yellow)](https://github.com/LemmyNet/lemmy/stargazers) [![Forks](https://img.shields.io/github/forks/LemmyNet/lemmy?style=flat-square&color=blue)](https://github.com/LemmyNet/lemmy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=flat-square&color=yellow)](https://github.com/LemmyNet/lemmy/stargazers) [![Forks](https://img.shields.io/github/forks/LemmyNet/lemmy?style=flat-square&color=blue)](https://github.com/LemmyNet/lemmy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🐀 A decentralised discussion platform for communities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.4k |
 | 🍴 **Forks** | 948 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lemmy — это децентрализованная платформа дл�
 
 ### 中文
 
-LemmyNet/lemmy：LemmyNet/lemmy may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LemmyNet/lemmy：LemmyNet/lemmy may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ LemmyNet/lemmy：LemmyNet/lemmy may be useful when its README and activity match
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ LemmyNet/lemmy：LemmyNet/lemmy may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 85/100 |
 | stars | 88/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # khive-ai/lionagi
 
-[![Stars](https://img.shields.io/github/stars/khive-ai/lionagi?style=flat-square&color=yellow)](https://github.com/khive-ai/lionagi/stargazers) [![Forks](https://img.shields.io/github/forks/khive-ai/lionagi?style=flat-square&color=blue)](https://github.com/khive-ai/lionagi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khive-ai/lionagi?style=flat-square&color=yellow)](https://github.com/khive-ai/lionagi/stargazers) [![Forks](https://img.shields.io/github/forks/khive-ai/lionagi?style=flat-square&color=blue)](https://github.com/khive-ai/lionagi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > AGI SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LionAGI is an open‑source Artificial General Intelligence (AGI) software devel
 
 ### 中文
 
-khive-ai/lionagi：khive-ai/lionagi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+khive-ai/lionagi：khive-ai/lionagi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ khive-ai/lionagi：khive-ai/lionagi helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ khive-ai/lionagi：khive-ai/lionagi helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| production | 71/100 |
+| outlook | 80/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

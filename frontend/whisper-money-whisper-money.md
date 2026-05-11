@@ -1,6 +1,6 @@
 # whisper-money/whisper-money
 
-[![Stars](https://img.shields.io/github/stars/whisper-money/whisper-money?style=flat-square&color=yellow)](https://github.com/whisper-money/whisper-money/stargazers) [![Forks](https://img.shields.io/github/forks/whisper-money/whisper-money?style=flat-square&color=blue)](https://github.com/whisper-money/whisper-money/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whisper-money/whisper-money?style=flat-square&color=yellow)](https://github.com/whisper-money/whisper-money/stargazers) [![Forks](https://img.shields.io/github/forks/whisper-money/whisper-money?style=flat-square&color=blue)](https://github.com/whisper-money/whisper-money/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Understand your personal finances. Forget Excels, try Whisper Money.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ whisper-money/whisper-money：whisper-money/whisper-money helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

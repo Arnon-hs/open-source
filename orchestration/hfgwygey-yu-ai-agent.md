@@ -1,6 +1,6 @@
 # hfgwygey/yu-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/hfgwygey/yu-ai-agent?style=flat-square&color=yellow)](https://github.com/hfgwygey/yu-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/hfgwygey/yu-ai-agent?style=flat-square&color=blue)](https://github.com/hfgwygey/yu-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hfgwygey/yu-ai-agent?style=flat-square&color=yellow)](https://github.com/hfgwygey/yu-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/hfgwygey/yu-ai-agent?style=flat-square&color=blue)](https://github.com/hfgwygey/yu-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI 核心特性、Prompt 工程和优化、RAG 检索增强、向量数据库、Tool Calling 工具调用、MCP 模型上下文协议、AI Agent 开发、Cursor AI 工具等核心知识。用一套教程将程序员必知必会的 AI 技术一网打尽，帮你成为 AI 时代企业的香饽饽，给你的简历和求职大幅增加竞争力。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hfgwygey/yu-ai-agent：hfgwygey/yu-ai-agent helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 85/100 |
+| production | 67/100 |
+| outlook | 78/100 |
 | adoption | 39/100 |
 | stars | 41/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

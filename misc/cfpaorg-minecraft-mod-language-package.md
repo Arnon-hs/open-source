@@ -1,6 +1,6 @@
 # CFPAOrg/Minecraft-Mod-Language-Package
 
-[![Stars](https://img.shields.io/github/stars/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=yellow)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/stargazers) [![Forks](https://img.shields.io/github/forks/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=blue)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=yellow)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/stargazers) [![Forks](https://img.shields.io/github/forks/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=blue)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A language package for Minecraft Mods.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ CFPAOrg/Minecraft-Mod-Language-Package：CFPAOrg/Minecraft-Mod-Language-Package 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 68/100 |
 | stars | 65/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

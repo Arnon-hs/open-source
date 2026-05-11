@@ -1,6 +1,6 @@
 # dealfluence/adeu
 
-[![Stars](https://img.shields.io/github/stars/dealfluence/adeu?style=flat-square&color=yellow)](https://github.com/dealfluence/adeu/stargazers) [![Forks](https://img.shields.io/github/forks/dealfluence/adeu?style=flat-square&color=blue)](https://github.com/dealfluence/adeu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dealfluence/adeu?style=flat-square&color=yellow)](https://github.com/dealfluence/adeu/stargazers) [![Forks](https://img.shields.io/github/forks/dealfluence/adeu?style=flat-square&color=blue)](https://github.com/dealfluence/adeu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Native Word Track Changes for AI agents. An MCP server and Python SDK that translates LLM edits into safe DOCX redlines without breaking formatting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dealfluence/adeu provides a native “track changes” solution for AI‑generat
 
 ### 中文
 
-dealfluence/adeu：dealfluence/adeu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dealfluence/adeu：dealfluence/adeu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dealfluence/adeu：dealfluence/adeu helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dealfluence/adeu：dealfluence/adeu helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 36/100 |
 | stars | 39/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

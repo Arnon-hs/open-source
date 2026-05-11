@@ -1,6 +1,6 @@
 # mpecan/tokf
 
-[![Stars](https://img.shields.io/github/stars/mpecan/tokf?style=flat-square&color=yellow)](https://github.com/mpecan/tokf/stargazers) [![Forks](https://img.shields.io/github/forks/mpecan/tokf?style=flat-square&color=blue)](https://github.com/mpecan/tokf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpecan/tokf?style=flat-square&color=yellow)](https://github.com/mpecan/tokf/stargazers) [![Forks](https://img.shields.io/github/forks/mpecan/tokf?style=flat-square&color=blue)](https://github.com/mpecan/tokf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Config-driven CLI tool that compresses command output before it reaches an LLM context
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mpecan/tokf：mpecan/tokf helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # gildas/bitbucket-cli
 
-[![Stars](https://img.shields.io/github/stars/gildas/bitbucket-cli?style=flat-square&color=yellow)](https://github.com/gildas/bitbucket-cli/stargazers) [![Forks](https://img.shields.io/github/forks/gildas/bitbucket-cli?style=flat-square&color=blue)](https://github.com/gildas/bitbucket-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gildas/bitbucket-cli?style=flat-square&color=yellow)](https://github.com/gildas/bitbucket-cli/stargazers) [![Forks](https://img.shields.io/github/forks/gildas/bitbucket-cli?style=flat-square&color=blue)](https://github.com/gildas/bitbucket-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Bitbucket CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gildas/bitbucket-cli：gildas/bitbucket-cli helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 69/100 |
+| production | 65/100 |
+| outlook | 62/100 |
 | adoption | 34/100 |
 | stars | 35/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

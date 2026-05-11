@@ -1,6 +1,6 @@
 # samueltuyizere/oc-go-cc
 
-[![Stars](https://img.shields.io/github/stars/samueltuyizere/oc-go-cc?style=flat-square&color=yellow)](https://github.com/samueltuyizere/oc-go-cc/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuyizere/oc-go-cc?style=flat-square&color=blue)](https://github.com/samueltuyizere/oc-go-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samueltuyizere/oc-go-cc?style=flat-square&color=yellow)](https://github.com/samueltuyizere/oc-go-cc/stargazers) [![Forks](https://img.shields.io/github/forks/samueltuyizere/oc-go-cc?style=flat-square&color=blue)](https://github.com/samueltuyizere/oc-go-cc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Use your OpenCode Go subscription with Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ samueltuyizere/oc-go-cc is an open‑source library that lets developers integra
 
 ### 中文
 
-samueltuyizere/oc-go-cc：samueltuyizere/oc-go-cc helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+samueltuyizere/oc-go-cc：samueltuyizere/oc-go-cc helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ samueltuyizere/oc-go-cc：samueltuyizere/oc-go-cc helps integrate monetization, 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ samueltuyizere/oc-go-cc：samueltuyizere/oc-go-cc helps integrate monetization, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 70/100 |
+| outlook | 71/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

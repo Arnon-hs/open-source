@@ -1,6 +1,6 @@
 # dog-qiuqiu/invincat
 
-[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Dog‑qiuqiu/invincat — это нативный CLI‑агент на Python
 
 ### 中文
 
-dog-qiuqiu/invincat：dog-qiuqiu/invincat helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dog-qiuqiu/invincat：dog-qiuqiu/invincat helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dog-qiuqiu/invincat：dog-qiuqiu/invincat helps turn isolated prompts and tools 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dog-qiuqiu/invincat：dog-qiuqiu/invincat helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

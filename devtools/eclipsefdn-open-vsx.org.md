@@ -1,6 +1,6 @@
 # EclipseFdn/open-vsx.org
 
-[![Stars](https://img.shields.io/github/stars/EclipseFdn/open-vsx.org?style=flat-square&color=yellow)](https://github.com/EclipseFdn/open-vsx.org/stargazers) [![Forks](https://img.shields.io/github/forks/EclipseFdn/open-vsx.org?style=flat-square&color=blue)](https://github.com/EclipseFdn/open-vsx.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EclipseFdn/open-vsx.org?style=flat-square&color=yellow)](https://github.com/EclipseFdn/open-vsx.org/stargazers) [![Forks](https://img.shields.io/github/forks/EclipseFdn/open-vsx.org?style=flat-square&color=blue)](https://github.com/EclipseFdn/open-vsx.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Source of open-vsx.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EclipseFdn/open-vsx.org — это открытый репозиторий, п
 
 ### 中文
 
-EclipseFdn/open-vsx.org：EclipseFdn/open-vsx.org helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+EclipseFdn/open-vsx.org：EclipseFdn/open-vsx.org helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EclipseFdn/open-vsx.org：EclipseFdn/open-vsx.org helps engineers save time in d
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ EclipseFdn/open-vsx.org：EclipseFdn/open-vsx.org helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 70/100 |
+| outlook | 70/100 |
 | adoption | 54/100 |
 | stars | 54/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

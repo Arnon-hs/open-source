@@ -1,6 +1,6 @@
 # haseeb-heaven/gworkspace-agent
 
-[![Stars](https://img.shields.io/github/stars/haseeb-heaven/gworkspace-agent?style=flat-square&color=yellow)](https://github.com/haseeb-heaven/gworkspace-agent/stargazers) [![Forks](https://img.shields.io/github/forks/haseeb-heaven/gworkspace-agent?style=flat-square&color=blue)](https://github.com/haseeb-heaven/gworkspace-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haseeb-heaven/gworkspace-agent?style=flat-square&color=yellow)](https://github.com/haseeb-heaven/gworkspace-agent/stargazers) [![Forks](https://img.shields.io/github/forks/haseeb-heaven/gworkspace-agent?style=flat-square&color=blue)](https://github.com/haseeb-heaven/gworkspace-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Smart Agentic Assistant for your Google Workspace
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The **gworkspace-agent** is an open‑source, AI‑driven backend service that a
 
 ### 中文
 
-haseeb-heaven/gworkspace-agent：haseeb-heaven/gworkspace-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+haseeb-heaven/gworkspace-agent：haseeb-heaven/gworkspace-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ haseeb-heaven/gworkspace-agent：haseeb-heaven/gworkspace-agent helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ haseeb-heaven/gworkspace-agent：haseeb-heaven/gworkspace-agent helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 94/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 39/100 |
 | stars | 41/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

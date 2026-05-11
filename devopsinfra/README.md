@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 13.1k | JavaScript | 80/100 |
-| 2 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 78.3k | TypeScript | 80/100 |
-| 3 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 3k | TypeScript | 78/100 |
+| 1 | [Stirling-Tools/Stirling-PDF](./stirling-tools-stirling-pdf.md) | ⭐ 78.3k | TypeScript | 80/100 |
+| 2 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 3k | TypeScript | 78/100 |
+| 3 | [alam00000/bentopdf](./alam00000-bentopdf.md) | ⭐ 13.1k | JavaScript | 77/100 |
 | 4 | [authelia/authelia](./authelia-authelia.md) | ⭐ 27.7k | Go | 76/100 |
 | 5 | [odigos-io/odigos](./odigos-io-odigos.md) | ⭐ 3.7k | Go | 76/100 |
 | 6 | [projectcalico/calico](./projectcalico-calico.md) | ⭐ 7.2k | Go | 74/100 |

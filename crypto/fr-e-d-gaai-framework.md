@@ -1,6 +1,6 @@
 # Fr-e-d/GAAI-framework
 
-[![Stars](https://img.shields.io/github/stars/Fr-e-d/GAAI-framework?style=flat-square&color=yellow)](https://github.com/Fr-e-d/GAAI-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Fr-e-d/GAAI-framework?style=flat-square&color=blue)](https://github.com/Fr-e-d/GAAI-framework/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fr-e-d/GAAI-framework?style=flat-square&color=yellow)](https://github.com/Fr-e-d/GAAI-framework/stargazers) [![Forks](https://img.shields.io/github/forks/Fr-e-d/GAAI-framework?style=flat-square&color=blue)](https://github.com/Fr-e-d/GAAI-framework/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Turns AI coding tools into reliable software delivery systems. Drop a .gaai/ folder into any project — Discovery defines what to build, Delivery executes autonomously until criteria pass. Works with Claude Code, Codex CLI, Gemini CLI, Cursor, and more. No SDK. No package. Markdown + YAML + bash.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Fr‑e‑d/GAAI‑framework — открытая платформа, прев�
 
 ### 中文
 
-Fr-e-d/GAAI-framework：Fr-e-d/GAAI-framework helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Fr-e-d/GAAI-framework：Fr-e-d/GAAI-framework helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Fr-e-d/GAAI-framework：Fr-e-d/GAAI-framework helps prototype or inspect blockch
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Fr-e-d/GAAI-framework：Fr-e-d/GAAI-framework helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 86/100 |
+| production | 72/100 |
+| outlook | 79/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

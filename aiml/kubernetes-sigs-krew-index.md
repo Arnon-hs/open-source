@@ -1,6 +1,6 @@
 # kubernetes-sigs/krew-index
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/krew-index?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/krew-index/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/krew-index?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/krew-index/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/krew-index?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/krew-index/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/krew-index?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/krew-index/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Krew‑index — это открытый репозиторий, содерж�
 
 ### 中文
 
-kubernetes-sigs/krew-index：kubernetes-sigs/krew-index helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kubernetes-sigs/krew-index：kubernetes-sigs/krew-index helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kubernetes-sigs/krew-index：kubernetes-sigs/krew-index helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ kubernetes-sigs/krew-index：kubernetes-sigs/krew-index helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 77/100 |
+| production | 73/100 |
+| outlook | 70/100 |
 | adoption | 63/100 |
 | stars | 60/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

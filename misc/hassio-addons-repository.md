@@ -1,6 +1,6 @@
 # hassio-addons/repository
 
-[![Stars](https://img.shields.io/github/stars/hassio-addons/repository?style=flat-square&color=yellow)](https://github.com/hassio-addons/repository/stargazers) [![Forks](https://img.shields.io/github/forks/hassio-addons/repository?style=flat-square&color=blue)](https://github.com/hassio-addons/repository/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hassio-addons/repository?style=flat-square&color=yellow)](https://github.com/hassio-addons/repository/stargazers) [![Forks](https://img.shields.io/github/forks/hassio-addons/repository?style=flat-square&color=blue)](https://github.com/hassio-addons/repository/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Home Assistant Community Add-ons
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 672 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ hassio-addons/repository：hassio-addons/repository may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 69/100 |
 | stars | 68/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

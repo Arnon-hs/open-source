@@ -1,6 +1,6 @@
 # mroboff/vm-curator
 
-[![Stars](https://img.shields.io/github/stars/mroboff/vm-curator?style=flat-square&color=yellow)](https://github.com/mroboff/vm-curator/stargazers) [![Forks](https://img.shields.io/github/forks/mroboff/vm-curator?style=flat-square&color=blue)](https://github.com/mroboff/vm-curator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mroboff/vm-curator?style=flat-square&color=yellow)](https://github.com/mroboff/vm-curator/stargazers) [![Forks](https://img.shields.io/github/forks/mroboff/vm-curator?style=flat-square&color=blue)](https://github.com/mroboff/vm-curator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mroboff/vm-curator：mroboff/vm-curator helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 45/100 |
 | stars | 52/100 |
 | forks | 27/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

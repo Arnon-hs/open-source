@@ -1,6 +1,6 @@
 # EmbarkStudios/cargo-deny
 
-[![Stars](https://img.shields.io/github/stars/EmbarkStudios/cargo-deny?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/cargo-deny/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/cargo-deny?style=flat-square&color=blue)](https://github.com/EmbarkStudios/cargo-deny/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmbarkStudios/cargo-deny?style=flat-square&color=yellow)](https://github.com/EmbarkStudios/cargo-deny/stargazers) [![Forks](https://img.shields.io/github/forks/EmbarkStudios/cargo-deny?style=flat-square&color=blue)](https://github.com/EmbarkStudios/cargo-deny/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ❌ Cargo plugin for linting your dependencies 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EmbarkStudios /cargo‑deny — это плагин для Cargo, котор
 
 ### 中文
 
-EmbarkStudios/cargo-deny：EmbarkStudios/cargo-deny helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+EmbarkStudios/cargo-deny：EmbarkStudios/cargo-deny helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EmbarkStudios/cargo-deny：EmbarkStudios/cargo-deny helps engineers save time in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ EmbarkStudios/cargo-deny：EmbarkStudios/cargo-deny helps engineers save time in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 79/100 |
+| production | 73/100 |
+| outlook | 72/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # warmcat/libwebsockets
 
-[![Stars](https://img.shields.io/github/stars/warmcat/libwebsockets?style=flat-square&color=yellow)](https://github.com/warmcat/libwebsockets/stargazers) [![Forks](https://img.shields.io/github/forks/warmcat/libwebsockets?style=flat-square&color=blue)](https://github.com/warmcat/libwebsockets/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warmcat/libwebsockets?style=flat-square&color=yellow)](https://github.com/warmcat/libwebsockets/stargazers) [![Forks](https://img.shields.io/github/forks/warmcat/libwebsockets?style=flat-square&color=blue)](https://github.com/warmcat/libwebsockets/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > canonical libwebsockets.org networking library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ warmcat/libwebsockets is a lightweight, cross‑platform C library that implemen
 
 ### 中文
 
-warmcat/libwebsockets：warmcat/libwebsockets helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+warmcat/libwebsockets：warmcat/libwebsockets helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ warmcat/libwebsockets：warmcat/libwebsockets helps teams reuse service infrastr
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ warmcat/libwebsockets：warmcat/libwebsockets helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 74/100 |
+| outlook | 79/100 |
 | adoption | 79/100 |
 | stars | 79/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

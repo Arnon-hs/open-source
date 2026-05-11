@@ -1,6 +1,6 @@
 # apache/httpd
 
-[![Stars](https://img.shields.io/github/stars/apache/httpd?style=flat-square&color=yellow)](https://github.com/apache/httpd/stargazers) [![Forks](https://img.shields.io/github/forks/apache/httpd?style=flat-square&color=blue)](https://github.com/apache/httpd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/httpd?style=flat-square&color=yellow)](https://github.com/apache/httpd/stargazers) [![Forks](https://img.shields.io/github/forks/apache/httpd?style=flat-square&color=blue)](https://github.com/apache/httpd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/httpd：apache/httpd helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 77/100 |
 | stars | 76/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

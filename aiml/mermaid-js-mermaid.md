@@ -1,6 +1,6 @@
 # mermaid-js/mermaid
 
-[![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat-square&color=yellow)](https://github.com/mermaid-js/mermaid/stargazers) [![Forks](https://img.shields.io/github/forks/mermaid-js/mermaid?style=flat-square&color=blue)](https://github.com/mermaid-js/mermaid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat-square&color=yellow)](https://github.com/mermaid-js/mermaid/stargazers) [![Forks](https://img.shields.io/github/forks/mermaid-js/mermaid?style=flat-square&color=blue)](https://github.com/mermaid-js/mermaid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 87.9k |
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mermaid-js/mermaid：mermaid-js/mermaid helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 100/100 |
+| quality | 95/100 |
 | integration | 46/100 |
-| production | 84/100 |
-| outlook | 88/100 |
+| production | 77/100 |
+| outlook | 81/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 99/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

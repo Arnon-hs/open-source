@@ -1,6 +1,6 @@
 # unfoldadmin/django-unfold
 
-[![Stars](https://img.shields.io/github/stars/unfoldadmin/django-unfold?style=flat-square&color=yellow)](https://github.com/unfoldadmin/django-unfold/stargazers) [![Forks](https://img.shields.io/github/forks/unfoldadmin/django-unfold?style=flat-square&color=blue)](https://github.com/unfoldadmin/django-unfold/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unfoldadmin/django-unfold?style=flat-square&color=yellow)](https://github.com/unfoldadmin/django-unfold/stargazers) [![Forks](https://img.shields.io/github/forks/unfoldadmin/django-unfold?style=flat-square&color=blue)](https://github.com/unfoldadmin/django-unfold/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Django Admin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 350 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Unfold is an open‑source Django‑admin theme that modernizes the default admi
 
 ### 中文
 
-unfoldadmin/django-unfold：unfoldadmin/django-unfold helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+unfoldadmin/django-unfold：unfoldadmin/django-unfold helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ unfoldadmin/django-unfold：unfoldadmin/django-unfold helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ unfoldadmin/django-unfold：unfoldadmin/django-unfold helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

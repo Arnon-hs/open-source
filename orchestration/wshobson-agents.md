@@ -1,6 +1,6 @@
 # wshobson/agents
 
-[![Stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square&color=yellow)](https://github.com/wshobson/agents/stargazers) [![Forks](https://img.shields.io/github/forks/wshobson/agents?style=flat-square&color=blue)](https://github.com/wshobson/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square&color=yellow)](https://github.com/wshobson/agents/stargazers) [![Forks](https://img.shields.io/github/forks/wshobson/agents?style=flat-square&color=blue)](https://github.com/wshobson/agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent automation and multi-agent orchestration for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wshobson/agents：wshobson/agents helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 78/100 |
-| production | 87/100 |
-| outlook | 99/100 |
+| production | 81/100 |
+| outlook | 92/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

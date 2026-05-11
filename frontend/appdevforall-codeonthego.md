@@ -1,6 +1,6 @@
 # appdevforall/CodeOnTheGo
 
-[![Stars](https://img.shields.io/github/stars/appdevforall/CodeOnTheGo?style=flat-square&color=yellow)](https://github.com/appdevforall/CodeOnTheGo/stargazers) [![Forks](https://img.shields.io/github/forks/appdevforall/CodeOnTheGo?style=flat-square&color=blue)](https://github.com/appdevforall/CodeOnTheGo/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appdevforall/CodeOnTheGo?style=flat-square&color=yellow)](https://github.com/appdevforall/CodeOnTheGo/stargazers) [![Forks](https://img.shields.io/github/forks/appdevforall/CodeOnTheGo?style=flat-square&color=blue)](https://github.com/appdevforall/CodeOnTheGo/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ appdevforall/CodeOnTheGo：appdevforall/CodeOnTheGo helps ship user-facing inter
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

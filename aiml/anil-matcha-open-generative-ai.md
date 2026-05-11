@@ -1,6 +1,6 @@
 # Anil-matcha/Open-Generative-AI
 
-[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-Generative-AI?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-Generative-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-Generative-AI?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-Generative-AI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anil-matcha/Open-Generative-AI?style=flat-square&color=yellow)](https://github.com/Anil-matcha/Open-Generative-AI/stargazers) [![Forks](https://img.shields.io/github/forks/Anil-matcha/Open-Generative-AI?style=flat-square&color=blue)](https://github.com/Anil-matcha/Open-Generative-AI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑Generative‑AI — это полностью открытая, без�
 
 ### 中文
 
-Anil-matcha/Open-Generative-AI：Anil-matcha/Open-Generative-AI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Anil-matcha/Open-Generative-AI：Anil-matcha/Open-Generative-AI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Anil-matcha/Open-Generative-AI：Anil-matcha/Open-Generative-AI helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Anil-matcha/Open-Generative-AI：Anil-matcha/Open-Generative-AI helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 94/100 |
+| production | 75/100 |
+| outlook | 87/100 |
 | adoption | 86/100 |
 | stars | 87/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
