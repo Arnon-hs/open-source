@@ -1,6 +1,6 @@
 # rsyncOSX/RsyncUI
 
-[![Stars](https://img.shields.io/github/stars/rsyncOSX/RsyncUI?style=flat-square&color=yellow)](https://github.com/rsyncOSX/RsyncUI/stargazers) [![Forks](https://img.shields.io/github/forks/rsyncOSX/RsyncUI?style=flat-square&color=blue)](https://github.com/rsyncOSX/RsyncUI/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rsyncOSX/RsyncUI?style=flat-square&color=yellow)](https://github.com/rsyncOSX/RsyncUI/stargazers) [![Forks](https://img.shields.io/github/forks/rsyncOSX/RsyncUI?style=flat-square&color=blue)](https://github.com/rsyncOSX/RsyncUI/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A SwiftUI based macOS GUI for rsync.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rsyncOSX/RsyncUI：rsyncOSX/RsyncUI helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 59/100 |
 | stars | 67/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

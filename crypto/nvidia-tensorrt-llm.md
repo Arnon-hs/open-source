@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-LLM
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=flat-square&color=yellow)](https://github.com/NVIDIA/TensorRT-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/TensorRT-LLM?style=flat-square&color=blue)](https://github.com/NVIDIA/TensorRT-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=flat-square&color=yellow)](https://github.com/NVIDIA/TensorRT-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/TensorRT-LLM?style=flat-square&color=blue)](https://github.com/NVIDIA/TensorRT-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NVIDIA/TensorRT-LLM：NVIDIA/TensorRT-LLM helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 87/100 |
 | stars | 88/100 |
 | forks | 84/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

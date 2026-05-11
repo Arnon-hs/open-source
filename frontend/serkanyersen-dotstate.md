@@ -1,6 +1,6 @@
 # serkanyersen/dotstate
 
-[![Stars](https://img.shields.io/github/stars/serkanyersen/dotstate?style=flat-square&color=yellow)](https://github.com/serkanyersen/dotstate/stargazers) [![Forks](https://img.shields.io/github/forks/serkanyersen/dotstate?style=flat-square&color=blue)](https://github.com/serkanyersen/dotstate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serkanyersen/dotstate?style=flat-square&color=yellow)](https://github.com/serkanyersen/dotstate/stargazers) [![Forks](https://img.shields.io/github/forks/serkanyersen/dotstate?style=flat-square&color=blue)](https://github.com/serkanyersen/dotstate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, secure, and user-friendly dotfile manager built with Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ serkanyersen/dotstate：serkanyersen/dotstate helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 46/100 |
 | stars | 54/100 |
 | forks | 27/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6139** |
+| 🗂️ **Total projects** | **6174** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2404 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1135 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 606 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 547 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 321 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 2413 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1143 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 607 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 548 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 322 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 304 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 214 | [Browse →](./crypto/) |
-| 📊 **Data** | 145 | [Browse →](./data/) |
+| ⛓️ **Crypto** | 216 | [Browse →](./crypto/) |
+| 📊 **Data** | 146 | [Browse →](./data/) |
 | 💳 **Payments** | 98 | [Browse →](./payments/) |
 | 📱 **Mobile** | 78 | [Browse →](./mobile/) |
 | 📈 **Trading** | 78 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 65 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 45 | [Browse →](./security/) |
+| 🏷️ **Automation** | 21 | [Browse →](./automation/) |
 | ✨ **Design** | 20 | [Browse →](./design/) |
-| 🏷️ **Automation** | 19 | [Browse →](./automation/) |
-| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 20 | [Browse →](./mcp/) |
+| 🏷️ **Knowledgerag** | 15 | [Browse →](./knowledgerag/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
-| 🏷️ **Knowledgerag** | 11 | [Browse →](./knowledgerag/) |
 | 🏷️ **Database** | 9 | [Browse →](./database/) |
 | 🏷️ **Marketing** | 8 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 1 | [Browse →](./education/) |
-| 🏷️ **Observability** | 1 | [Browse →](./observability/) |
+| 🏷️ **Education** | 2 | [Browse →](./education/) |
+| 🏷️ **Observability** | 2 | [Browse →](./observability/) |
 
 ## 🔥 Top 10 by score
 

@@ -1,6 +1,6 @@
 # alibaba/rtp-llm
 
-[![Stars](https://img.shields.io/github/stars/alibaba/rtp-llm?style=flat-square&color=yellow)](https://github.com/alibaba/rtp-llm/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/rtp-llm?style=flat-square&color=blue)](https://github.com/alibaba/rtp-llm/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/rtp-llm?style=flat-square&color=yellow)](https://github.com/alibaba/rtp-llm/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/rtp-llm?style=flat-square&color=blue)](https://github.com/alibaba/rtp-llm/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Cuda |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/rtp-llm：alibaba/rtp-llm helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mmTheBest/arxie
 
-[![Stars](https://img.shields.io/github/stars/mmTheBest/arxie?style=flat-square&color=yellow)](https://github.com/mmTheBest/arxie/stargazers) [![Forks](https://img.shields.io/github/forks/mmTheBest/arxie?style=flat-square&color=blue)](https://github.com/mmTheBest/arxie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmTheBest/arxie?style=flat-square&color=yellow)](https://github.com/mmTheBest/arxie/stargazers) [![Forks](https://img.shields.io/github/forks/mmTheBest/arxie?style=flat-square&color=blue)](https://github.com/mmTheBest/arxie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI research workspace with a persistent paper database, structured evidence extraction, hybrid search, and proposal workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mmTheBest/arxie — это открытая платформа для исс
 
 ### 中文
 
-mmTheBest/arxie：mmTheBest/arxie helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mmTheBest/arxie：mmTheBest/arxie helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mmTheBest/arxie：mmTheBest/arxie helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mmTheBest/arxie：mmTheBest/arxie helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 85/100 |
+| production | 69/100 |
+| outlook | 78/100 |
 | adoption | 38/100 |
 | stars | 43/100 |
 | forks | 26/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

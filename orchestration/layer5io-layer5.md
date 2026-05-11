@@ -1,6 +1,6 @@
 # layer5io/layer5
 
-[![Stars](https://img.shields.io/github/stars/layer5io/layer5?style=flat-square&color=yellow)](https://github.com/layer5io/layer5/stargazers) [![Forks](https://img.shields.io/github/forks/layer5io/layer5?style=flat-square&color=blue)](https://github.com/layer5io/layer5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/layer5io/layer5?style=flat-square&color=yellow)](https://github.com/layer5io/layer5/stargazers) [![Forks](https://img.shields.io/github/forks/layer5io/layer5?style=flat-square&color=blue)](https://github.com/layer5io/layer5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Layer5, expect more from your infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Layer5 — это открытая платформа оркестрации �
 
 ### 中文
 
-layer5io/layer5：layer5io/layer5 helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+layer5io/layer5：layer5io/layer5 helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ layer5io/layer5：layer5io/layer5 helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ layer5io/layer5：layer5io/layer5 helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 69/100 |
 | stars | 64/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

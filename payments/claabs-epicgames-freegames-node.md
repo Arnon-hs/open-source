@@ -1,6 +1,6 @@
 # claabs/epicgames-freegames-node
 
-[![Stars](https://img.shields.io/github/stars/claabs/epicgames-freegames-node?style=flat-square&color=yellow)](https://github.com/claabs/epicgames-freegames-node/stargazers) [![Forks](https://img.shields.io/github/forks/claabs/epicgames-freegames-node?style=flat-square&color=blue)](https://github.com/claabs/epicgames-freegames-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/claabs/epicgames-freegames-node?style=flat-square&color=yellow)](https://github.com/claabs/epicgames-freegames-node/stargazers) [![Forks](https://img.shields.io/github/forks/claabs/epicgames-freegames-node?style=flat-square&color=blue)](https://github.com/claabs/epicgames-freegames-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ claabs/epicgames-freegames-node：claabs/epicgames-freegames-node helps integrat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 76/100 |
+| outlook | 79/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

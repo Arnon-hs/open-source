@@ -1,6 +1,6 @@
 # karatelabs/karate
 
-[![Stars](https://img.shields.io/github/stars/karatelabs/karate?style=flat-square&color=yellow)](https://github.com/karatelabs/karate/stargazers) [![Forks](https://img.shields.io/github/forks/karatelabs/karate?style=flat-square&color=blue)](https://github.com/karatelabs/karate/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karatelabs/karate?style=flat-square&color=yellow)](https://github.com/karatelabs/karate/stargazers) [![Forks](https://img.shields.io/github/forks/karatelabs/karate?style=flat-square&color=blue)](https://github.com/karatelabs/karate/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Test Automation Made Simple
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Karate is an open‑source test automation framework that lets developers write 
 
 ### 中文
 
-karatelabs/karate：karatelabs/karate helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+karatelabs/karate：karatelabs/karate helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ karatelabs/karate：karatelabs/karate helps teams reuse service infrastructure i
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ karatelabs/karate：karatelabs/karate helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 96/100 |
+| production | 74/100 |
+| outlook | 89/100 |
 | adoption | 84/100 |
 | stars | 84/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

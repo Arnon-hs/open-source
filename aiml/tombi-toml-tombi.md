@@ -1,6 +1,6 @@
 # tombi-toml/tombi
 
-[![Stars](https://img.shields.io/github/stars/tombi-toml/tombi?style=flat-square&color=yellow)](https://github.com/tombi-toml/tombi/stargazers) [![Forks](https://img.shields.io/github/forks/tombi-toml/tombi?style=flat-square&color=blue)](https://github.com/tombi-toml/tombi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tombi-toml/tombi?style=flat-square&color=yellow)](https://github.com/tombi-toml/tombi/stargazers) [![Forks](https://img.shields.io/github/forks/tombi-toml/tombi?style=flat-square&color=blue)](https://github.com/tombi-toml/tombi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > TOML Formatter / Linter / Language Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tombi‑toml/tombi — это открытый инструмент для р�
 
 ### 中文
 
-tombi-toml/tombi：tombi-toml/tombi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+tombi-toml/tombi：tombi-toml/tombi helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tombi-toml/tombi：tombi-toml/tombi helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ tombi-toml/tombi：tombi-toml/tombi helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

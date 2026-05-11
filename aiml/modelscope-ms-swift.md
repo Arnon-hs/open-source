@@ -1,6 +1,6 @@
 # modelscope/ms-swift
 
-[![Stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square&color=yellow)](https://github.com/modelscope/ms-swift/stargazers) [![Forks](https://img.shields.io/github/forks/modelscope/ms-swift?style=flat-square&color=blue)](https://github.com/modelscope/ms-swift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square&color=yellow)](https://github.com/modelscope/ms-swift/stargazers) [![Forks](https://img.shields.io/github/forks/modelscope/ms-swift?style=flat-square&color=blue)](https://github.com/modelscope/ms-swift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ models​cope/ms‑swift is an open‑source toolkit that streamlines parameter�
 
 ### 中文
 
-modelscope/ms-swift：modelscope/ms-swift helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+modelscope/ms-swift：modelscope/ms-swift helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ modelscope/ms-swift：modelscope/ms-swift helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ modelscope/ms-swift：modelscope/ms-swift helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 86/100 |
 | stars | 88/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

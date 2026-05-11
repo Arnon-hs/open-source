@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**145 projects** in this category.
+**146 projects** in this category.
 
 ## Projects
 
@@ -130,29 +130,30 @@
 | 120 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 55/100 |
 | 121 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.3k | — | 54/100 |
 | 122 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 54/100 |
-| 123 | [datafusion-contrib/datafusion-distributed](./datafusion-contrib-datafusion-distributed.md) | ⭐ 101 | Rust | 54/100 |
-| 124 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 54/100 |
-| 125 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 159 | Rust | 54/100 |
-| 126 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 54/100 |
-| 127 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 53/100 |
-| 128 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 53/100 |
-| 129 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 53/100 |
-| 130 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 53/100 |
-| 131 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 53/100 |
-| 132 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
-| 133 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 52/100 |
-| 134 | [fluree/db](./fluree-db.md) | ⭐ 377 | Rust | 52/100 |
-| 135 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 51/100 |
-| 136 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 51/100 |
-| 137 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 51/100 |
-| 138 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 51/100 |
-| 139 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 140 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
-| 141 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 142 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
-| 143 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 41/100 |
-| 144 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
-| 145 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 123 | [clflushopt/tpchgen-rs](./clflushopt-tpchgen-rs.md) | ⭐ 239 | Rust | 54/100 |
+| 124 | [datafusion-contrib/datafusion-distributed](./datafusion-contrib-datafusion-distributed.md) | ⭐ 101 | Rust | 54/100 |
+| 125 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 54/100 |
+| 126 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 159 | Rust | 54/100 |
+| 127 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 54/100 |
+| 128 | [NVIDIA/cuCollections](./nvidia-cucollections.md) | ⭐ 643 | Cuda | 53/100 |
+| 129 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 53/100 |
+| 130 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 53/100 |
+| 131 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 53/100 |
+| 132 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 53/100 |
+| 133 | [project-oak/oak](./project-oak-oak.md) | ⭐ 1.5k | Rust | 52/100 |
+| 134 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 52/100 |
+| 135 | [fluree/db](./fluree-db.md) | ⭐ 377 | Rust | 52/100 |
+| 136 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 51/100 |
+| 137 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 51/100 |
+| 138 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 51/100 |
+| 139 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 51/100 |
+| 140 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 141 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
+| 142 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 143 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
+| 144 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 41/100 |
+| 145 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
+| 146 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 

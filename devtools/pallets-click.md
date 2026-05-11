@@ -1,6 +1,6 @@
 # pallets/click
 
-[![Stars](https://img.shields.io/github/stars/pallets/click?style=flat-square&color=yellow)](https://github.com/pallets/click/stargazers) [![Forks](https://img.shields.io/github/forks/pallets/click?style=flat-square&color=blue)](https://github.com/pallets/click/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pallets/click?style=flat-square&color=yellow)](https://github.com/pallets/click/stargazers) [![Forks](https://img.shields.io/github/forks/pallets/click?style=flat-square&color=blue)](https://github.com/pallets/click/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Python composable command line interface toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ pallets/click is a Python library that simplifies the creation of command‑line
 
 ### 中文
 
-pallets/click：pallets/click helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pallets/click：pallets/click helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pallets/click：pallets/click helps engineers save time in daily development and
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ pallets/click：pallets/click helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 87/100 |
+| production | 75/100 |
+| outlook | 80/100 |
 | adoption | 88/100 |
 | stars | 90/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

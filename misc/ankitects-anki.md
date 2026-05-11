@@ -1,6 +1,6 @@
 # ankitects/anki
 
-[![Stars](https://img.shields.io/github/stars/ankitects/anki?style=flat-square&color=yellow)](https://github.com/ankitects/anki/stargazers) [![Forks](https://img.shields.io/github/forks/ankitects/anki?style=flat-square&color=blue)](https://github.com/ankitects/anki/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ankitects/anki?style=flat-square&color=yellow)](https://github.com/ankitects/anki/stargazers) [![Forks](https://img.shields.io/github/forks/ankitects/anki?style=flat-square&color=blue)](https://github.com/ankitects/anki/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Anki is a smart spaced repetition flashcard program
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.8k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ ankitects/anki：ankitects/anki may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # documenso/documenso
 
-[![Stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square&color=yellow)](https://github.com/documenso/documenso/stargazers) [![Forks](https://img.shields.io/github/forks/documenso/documenso?style=flat-square&color=blue)](https://github.com/documenso/documenso/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square&color=yellow)](https://github.com/documenso/documenso/stargazers) [![Forks](https://img.shields.io/github/forks/documenso/documenso?style=flat-square&color=blue)](https://github.com/documenso/documenso/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source DocuSign Alternative.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Documenso is an open‑source platform that offers a self‑hosted alternative t
 
 ### 中文
 
-documenso/documenso：documenso/documenso helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+documenso/documenso：documenso/documenso helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ documenso/documenso：documenso/documenso helps catch security and privacy issue
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ documenso/documenso：documenso/documenso helps catch security and privacy issue
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 88/100 |
+| production | 75/100 |
+| outlook | 81/100 |
 | adoption | 87/100 |
 | stars | 87/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
