@@ -1,6 +1,6 @@
 # kubernetes/test-infra
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/test-infra?style=flat-square&color=yellow)](https://github.com/kubernetes/test-infra/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/test-infra?style=flat-square&color=blue)](https://github.com/kubernetes/test-infra/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/test-infra?style=flat-square&color=yellow)](https://github.com/kubernetes/test-infra/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/test-infra?style=flat-square&color=blue)](https://github.com/kubernetes/test-infra/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Test infrastructure for the Kubernetes project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kubernetes /test‑infra provides the continuous‑integration, testing, and a
 
 ### 中文
 
-kubernetes/test-infra：kubernetes/test-infra helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kubernetes/test-infra：kubernetes/test-infra helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kubernetes/test-infra：kubernetes/test-infra helps engineers save time in daily
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kubernetes/test-infra：kubernetes/test-infra helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 75/100 |
+| production | 71/100 |
+| outlook | 68/100 |
 | adoption | 79/100 |
 | stars | 77/100 |
 | forks | 87/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # shinkuan/Akagi
 
-[![Stars](https://img.shields.io/github/stars/shinkuan/Akagi?style=flat-square&color=yellow)](https://github.com/shinkuan/Akagi/stargazers) [![Forks](https://img.shields.io/github/forks/shinkuan/Akagi?style=flat-square&color=blue)](https://github.com/shinkuan/Akagi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinkuan/Akagi?style=flat-square&color=yellow)](https://github.com/shinkuan/Akagi/stargazers) [![Forks](https://img.shields.io/github/forks/shinkuan/Akagi?style=flat-square&color=blue)](https://github.com/shinkuan/Akagi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 842 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ shinkuan/Akagi：shinkuan/Akagi helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

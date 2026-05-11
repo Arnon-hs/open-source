@@ -1,6 +1,6 @@
 # IBM/mcp-context-forge
 
-[![Stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat-square&color=yellow)](https://github.com/IBM/mcp-context-forge/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/mcp-context-forge?style=flat-square&color=blue)](https://github.com/IBM/mcp-context-forge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat-square&color=yellow)](https://github.com/IBM/mcp-context-forge/stargazers) [![Forks](https://img.shields.io/github/forks/IBM/mcp-context-forge?style=flat-square&color=blue)](https://github.com/IBM/mcp-context-forge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 648 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ IBM/mcp-context-forge：IBM/mcp-context-forge helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 100/100 |
-| production | 87/100 |
-| outlook | 94/100 |
+| production | 80/100 |
+| outlook | 87/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # AAswordman/Operit
 
-[![Stars](https://img.shields.io/github/stars/AAswordman/Operit?style=flat-square&color=yellow)](https://github.com/AAswordman/Operit/stargazers) [![Forks](https://img.shields.io/github/forks/AAswordman/Operit?style=flat-square&color=blue)](https://github.com/AAswordman/Operit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AAswordman/Operit?style=flat-square&color=yellow)](https://github.com/AAswordman/Operit/stargazers) [![Forks](https://img.shields.io/github/forks/AAswordman/Operit?style=flat-square&color=blue)](https://github.com/AAswordman/Operit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 357 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AAswordman/Operit — это открытый AI‑агент и чат‑пр
 
 ### 中文
 
-AAswordman/Operit：AAswordman/Operit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AAswordman/Operit：AAswordman/Operit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AAswordman/Operit：AAswordman/Operit helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AAswordman/Operit：AAswordman/Operit helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

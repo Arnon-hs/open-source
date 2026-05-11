@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [sahibzada-allahyar/YC-Killer](./sahibzada-allahyar-yc-killer.md) | ⭐ 2.6k | TypeScript | 87/100 |
-| 2 | [YoungCan-Wang/WyckoffTradingAgent](./youngcan-wang-wyckofftradingagent.md) | ⭐ 392 | Python | 84/100 |
+| 2 | [YoungCan-Wang/WyckoffTradingAgent](./youngcan-wang-wyckofftradingagent.md) | ⭐ 392 | Python | 81/100 |
 | 3 | [jagmarques/asqav-sdk](./jagmarques-asqav-sdk.md) | ⭐ 110 | Python | 81/100 |
 | 4 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 27 | Swift | 81/100 |
 | 5 | [HKUDS/Vibe-Trading](./hkuds-vibe-trading.md) | ⭐ 5.6k | Python | 79/100 |
@@ -19,10 +19,10 @@
 | 9 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 79/100 |
 | 10 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 78/100 |
 | 11 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 34.4k | Python | 77/100 |
-| 12 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.5k | Markdown | 77/100 |
-| 13 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 380 | — | 76/100 |
-| 14 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 31.4k | Go | 75/100 |
-| 15 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 25.3k | Python | 74/100 |
+| 12 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 380 | — | 76/100 |
+| 13 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 31.4k | Go | 75/100 |
+| 14 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 25.3k | Python | 74/100 |
+| 15 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.5k | Markdown | 74/100 |
 | 16 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 74/100 |
 | 17 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 73/100 |
 | 18 | [hiyouga/LlamaFactory](./hiyouga-llamafactory.md) | ⭐ 71k | Python | 73/100 |
@@ -40,16 +40,16 @@
 | 30 | [jaylfc/tinyagentos](./jaylfc-tinyagentos.md) | ⭐ 110 | Python | 68/100 |
 | 31 | [Tencent/AngelSlim](./tencent-angelslim.md) | ⭐ 1.1k | Python | 67/100 |
 | 32 | [ModelCloud/GPTQModel](./modelcloud-gptqmodel.md) | ⭐ 1.1k | Python | 67/100 |
-| 33 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 67/100 |
-| 34 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 67/100 |
-| 35 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 66/100 |
-| 36 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.4k | TypeScript | 65/100 |
-| 37 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 65/100 |
-| 38 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 346 | Python | 65/100 |
-| 39 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 65/100 |
-| 40 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 65/100 |
-| 41 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 64/100 |
-| 42 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 64/100 |
+| 33 | [tqec/tqec](./tqec-tqec.md) | ⭐ 361 | Python | 67/100 |
+| 34 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 66/100 |
+| 35 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 8.4k | TypeScript | 65/100 |
+| 36 | [Classiq/classiq-library](./classiq-classiq-library.md) | ⭐ 2k | Jupyter Notebook | 65/100 |
+| 37 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 346 | Python | 65/100 |
+| 38 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 305 | TypeScript | 65/100 |
+| 39 | [LLMQuant/awesome-trading-agents](./llmquant-awesome-trading-agents.md) | ⭐ 61 | — | 65/100 |
+| 40 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 64/100 |
+| 41 | [FloatingPragma/observer-patch-holography](./floatingpragma-observer-patch-holography.md) | ⭐ 492 | Python | 64/100 |
+| 42 | [qiboteam/qibo](./qiboteam-qibo.md) | ⭐ 353 | Python | 64/100 |
 | 43 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 63/100 |
 | 44 | [bitsandbytes-foundation/bitsandbytes](./bitsandbytes-foundation-bitsandbytes.md) | ⭐ 8.2k | Python | 63/100 |
 | 45 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 624 | Python | 63/100 |

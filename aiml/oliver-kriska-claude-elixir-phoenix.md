@@ -1,6 +1,6 @@
 # oliver-kriska/claude-elixir-phoenix
 
-[![Stars](https://img.shields.io/github/stars/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=yellow)](https://github.com/oliver-kriska/claude-elixir-phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=blue)](https://github.com/oliver-kriska/claude-elixir-phoenix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=yellow)](https://github.com/oliver-kriska/claude-elixir-phoenix/stargazers) [![Forks](https://img.shields.io/github/forks/oliver-kriska/claude-elixir-phoenix?style=flat-square&color=blue)](https://github.com/oliver-kriska/claude-elixir-phoenix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin for Elixir/Phoenix/LiveView — 20 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Claude‑Code plugin for Elixir/Phoenix/LiveView** provides a suite of 20 
 
 ### 中文
 
-oliver-kriska/claude-elixir-phoenix：oliver-kriska/claude-elixir-phoenix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+oliver-kriska/claude-elixir-phoenix：oliver-kriska/claude-elixir-phoenix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oliver-kriska/claude-elixir-phoenix：oliver-kriska/claude-elixir-phoenix helps 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ oliver-kriska/claude-elixir-phoenix：oliver-kriska/claude-elixir-phoenix helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 87/100 |
+| production | 73/100 |
+| outlook | 80/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

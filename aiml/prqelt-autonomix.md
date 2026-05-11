@@ -1,6 +1,6 @@
 # PRQELT/Autonomix
 
-[![Stars](https://img.shields.io/github/stars/PRQELT/Autonomix?style=flat-square&color=yellow)](https://github.com/PRQELT/Autonomix/stargazers) [![Forks](https://img.shields.io/github/forks/PRQELT/Autonomix?style=flat-square&color=blue)](https://github.com/PRQELT/Autonomix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PRQELT/Autonomix?style=flat-square&color=yellow)](https://github.com/PRQELT/Autonomix/stargazers) [![Forks](https://img.shields.io/github/forks/PRQELT/Autonomix?style=flat-square&color=blue)](https://github.com/PRQELT/Autonomix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI Developer for Unreal Engine — An autonomous AI agent that creates Blueprints, C++, levels, materials, widgets, and more inside the UE5 editor via natural language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PRQELT/Autonomix：PRQELT/Autonomix helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ludwig-ai/ludwig
 
-[![Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=flat-square&color=yellow)](https://github.com/ludwig-ai/ludwig/stargazers) [![Forks](https://img.shields.io/github/forks/ludwig-ai/ludwig?style=flat-square&color=blue)](https://github.com/ludwig-ai/ludwig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=flat-square&color=yellow)](https://github.com/ludwig-ai/ludwig/stargazers) [![Forks](https://img.shields.io/github/forks/ludwig-ai/ludwig?style=flat-square&color=blue)](https://github.com/ludwig-ai/ludwig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Low-code framework for building custom LLMs, neural networks, and other AI models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.7k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ludwig — это открытый low‑code фреймворк, позвол
 
 ### 中文
 
-ludwig-ai/ludwig：ludwig-ai/ludwig helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ludwig-ai/ludwig：ludwig-ai/ludwig helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ludwig-ai/ludwig：ludwig-ai/ludwig helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ludwig-ai/ludwig：ludwig-ai/ludwig helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 88/100 |
+| production | 74/100 |
+| outlook | 81/100 |
 | adoption | 84/100 |
 | stars | 87/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

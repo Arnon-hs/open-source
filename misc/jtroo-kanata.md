@@ -1,6 +1,6 @@
 # jtroo/kanata
 
-[![Stars](https://img.shields.io/github/stars/jtroo/kanata?style=flat-square&color=yellow)](https://github.com/jtroo/kanata/stargazers) [![Forks](https://img.shields.io/github/forks/jtroo/kanata?style=flat-square&color=blue)](https://github.com/jtroo/kanata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtroo/kanata?style=flat-square&color=yellow)](https://github.com/jtroo/kanata/stargazers) [![Forks](https://img.shields.io/github/forks/jtroo/kanata?style=flat-square&color=blue)](https://github.com/jtroo/kanata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Improve keyboard comfort and usability with advanced customization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jtroo/kanata — это open‑source‑утилита, расширяющая
 
 ### 中文
 
-jtroo/kanata：jtroo/kanata may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jtroo/kanata：jtroo/kanata may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ jtroo/kanata：jtroo/kanata may be useful when its README and activity match a c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ jtroo/kanata：jtroo/kanata may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 76/100 |
 | stars | 82/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

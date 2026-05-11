@@ -1,6 +1,6 @@
 # igareck/vpn-configs-for-russia
 
-[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat-square&color=yellow)](https://github.com/igareck/vpn-configs-for-russia/stargazers) [![Forks](https://img.shields.io/github/forks/igareck/vpn-configs-for-russia?style=flat-square&color=blue)](https://github.com/igareck/vpn-configs-for-russia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat-square&color=yellow)](https://github.com/igareck/vpn-configs-for-russia/stargazers) [![Forks](https://img.shields.io/github/forks/igareck/vpn-configs-for-russia?style=flat-square&color=blue)](https://github.com/igareck/vpn-configs-for-russia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A community‑maintained repository offering free, pre‑tested VPN configuratio
 
 ### 中文
 
-igareck/vpn-configs-for-russia：igareck/vpn-configs-for-russia may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+igareck/vpn-configs-for-russia：igareck/vpn-configs-for-russia may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ igareck/vpn-configs-for-russia：igareck/vpn-configs-for-russia may be useful wh
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ igareck/vpn-configs-for-russia：igareck/vpn-configs-for-russia may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

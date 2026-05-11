@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**45 projects** in this category.
+**46 projects** in this category.
 
 ## Projects
 
@@ -20,9 +20,9 @@
 | 10 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 13.8k | Python | 70/100 |
 | 11 | [rizinorg/rizin](./rizinorg-rizin.md) | ⭐ 3.6k | C | 69/100 |
 | 12 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 362 | Python | 69/100 |
-| 13 | [nielsfaber/alarmo](./nielsfaber-alarmo.md) | ⭐ 2.1k | Python | 68/100 |
-| 14 | [python-social-auth/social-app-django](./python-social-auth-social-app-django.md) | ⭐ 2.1k | Python | 66/100 |
-| 15 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.8k | Go | 65/100 |
+| 13 | [python-social-auth/social-app-django](./python-social-auth-social-app-django.md) | ⭐ 2.1k | Python | 66/100 |
+| 14 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 7.8k | Go | 65/100 |
+| 15 | [nielsfaber/alarmo](./nielsfaber-alarmo.md) | ⭐ 2.1k | Python | 65/100 |
 | 16 | [OpenCTI-Platform/opencti](./opencti-platform-opencti.md) | ⭐ 9.2k | TypeScript | 64/100 |
 | 17 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.2k | AutoIt | 64/100 |
 | 18 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 64/100 |
@@ -35,24 +35,25 @@
 | 25 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 62/100 |
 | 26 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 61/100 |
 | 27 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 61/100 |
-| 28 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 61/100 |
-| 29 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 61/100 |
-| 30 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 4.9k | Rust | 60/100 |
-| 31 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 60/100 |
-| 32 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 60/100 |
-| 33 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 60/100 |
-| 34 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 60/100 |
-| 35 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
-| 36 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 58/100 |
-| 37 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 58/100 |
-| 38 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 58/100 |
-| 39 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 56/100 |
-| 40 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 56/100 |
-| 41 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
-| 42 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
-| 43 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 53/100 |
-| 44 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
-| 45 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
+| 28 | [thunder-id/thunder-id](./thunder-id-thunder-id.md) | ⭐ 167 | Go | 61/100 |
+| 29 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 61/100 |
+| 30 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 61/100 |
+| 31 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 4.9k | Rust | 60/100 |
+| 32 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 60/100 |
+| 33 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 60/100 |
+| 34 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 60/100 |
+| 35 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 60/100 |
+| 36 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
+| 37 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 58/100 |
+| 38 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 58/100 |
+| 39 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 58/100 |
+| 40 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 56/100 |
+| 41 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 56/100 |
+| 42 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
+| 43 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
+| 44 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 53/100 |
+| 45 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
+| 46 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
 
 ---
 

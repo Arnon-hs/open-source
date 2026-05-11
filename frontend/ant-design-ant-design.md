@@ -1,6 +1,6 @@
 # ant-design/ant-design
 
-[![Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square&color=yellow)](https://github.com/ant-design/ant-design/stargazers) [![Forks](https://img.shields.io/github/forks/ant-design/ant-design?style=flat-square&color=blue)](https://github.com/ant-design/ant-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=flat-square&color=yellow)](https://github.com/ant-design/ant-design/stargazers) [![Forks](https://img.shields.io/github/forks/ant-design/ant-design?style=flat-square&color=blue)](https://github.com/ant-design/ant-design/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An enterprise-class UI design language and React UI library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 97.9k |
 | 🍴 **Forks** | 54.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ant-design/ant-design：ant-design/ant-design helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 87/100 |
+| production | 76/100 |
+| outlook | 80/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

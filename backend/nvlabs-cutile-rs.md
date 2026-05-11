@@ -1,6 +1,6 @@
 # NVlabs/cutile-rs
 
-[![Stars](https://img.shields.io/github/stars/NVlabs/cutile-rs?style=flat-square&color=yellow)](https://github.com/NVlabs/cutile-rs/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/cutile-rs?style=flat-square&color=blue)](https://github.com/NVlabs/cutile-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVlabs/cutile-rs?style=flat-square&color=yellow)](https://github.com/NVlabs/cutile-rs/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/cutile-rs?style=flat-square&color=blue)](https://github.com/NVlabs/cutile-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NVlabs/cutile-rs：NVlabs/cutile-rs helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

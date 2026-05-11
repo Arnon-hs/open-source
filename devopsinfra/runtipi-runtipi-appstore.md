@@ -1,6 +1,6 @@
 # runtipi/runtipi-appstore
 
-[![Stars](https://img.shields.io/github/stars/runtipi/runtipi-appstore?style=flat-square&color=yellow)](https://github.com/runtipi/runtipi-appstore/stargazers) [![Forks](https://img.shields.io/github/forks/runtipi/runtipi-appstore?style=flat-square&color=blue)](https://github.com/runtipi/runtipi-appstore/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runtipi/runtipi-appstore?style=flat-square&color=yellow)](https://github.com/runtipi/runtipi-appstore/stargazers) [![Forks](https://img.shields.io/github/forks/runtipi/runtipi-appstore?style=flat-square&color=blue)](https://github.com/runtipi/runtipi-appstore/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Official Runtipi AppStore. Apps and updates live here!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Runtipi AppStore — официальный репозиторий при�
 
 ### 中文
 
-runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and op
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and op
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 59/100 |
 | stars | 57/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

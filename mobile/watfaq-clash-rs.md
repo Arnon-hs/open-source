@@ -1,6 +1,6 @@
 # Watfaq/clash-rs
 
-[![Stars](https://img.shields.io/github/stars/Watfaq/clash-rs?style=flat-square&color=yellow)](https://github.com/Watfaq/clash-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Watfaq/clash-rs?style=flat-square&color=blue)](https://github.com/Watfaq/clash-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Watfaq/clash-rs?style=flat-square&color=yellow)](https://github.com/Watfaq/clash-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Watfaq/clash-rs?style=flat-square&color=blue)](https://github.com/Watfaq/clash-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > custom protocol network proxy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Watfaq/clash-rs — это открытый кроссплатформенны
 
 ### 中文
 
-Watfaq/clash-rs：Watfaq/clash-rs may be useful when its README and activity match a concrete workflow.。适合用于Mobile。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Watfaq/clash-rs：Watfaq/clash-rs may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Watfaq/clash-rs：Watfaq/clash-rs may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Watfaq/clash-rs：Watfaq/clash-rs may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # agentforce314/clawcodex
 
-[![Stars](https://img.shields.io/github/stars/agentforce314/clawcodex?style=flat-square&color=yellow)](https://github.com/agentforce314/clawcodex/stargazers) [![Forks](https://img.shields.io/github/forks/agentforce314/clawcodex?style=flat-square&color=blue)](https://github.com/agentforce314/clawcodex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentforce314/clawcodex?style=flat-square&color=yellow)](https://github.com/agentforce314/clawcodex/stargazers) [![Forks](https://img.shields.io/github/forks/agentforce314/clawcodex?style=flat-square&color=blue)](https://github.com/agentforce314/clawcodex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ClawCodex - Claude Code full rebuilt in Python. Support DeepSeek V4 Pro. LLM-agnostic Coding Agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ agentforce314/clawcodex：agentforce314/clawcodex helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 43/100 |
 | stars | 48/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

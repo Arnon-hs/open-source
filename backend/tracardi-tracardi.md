@@ -1,6 +1,6 @@
 # Tracardi/tracardi
 
-[![Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=flat-square&color=yellow)](https://github.com/Tracardi/tracardi/stargazers) [![Forks](https://img.shields.io/github/forks/Tracardi/tracardi?style=flat-square&color=blue)](https://github.com/Tracardi/tracardi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=flat-square&color=yellow)](https://github.com/Tracardi/tracardi/stargazers) [![Forks](https://img.shields.io/github/forks/Tracardi/tracardi?style=flat-square&color=blue)](https://github.com/Tracardi/tracardi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > TRACARDI is a new HOME for your customer data. TRACARDI is an Composable API-first solution for any company that need inexpensive CDP to intergrate with.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 636 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tracardi — это открытая API‑ориентированная пл
 
 ### 中文
 
-Tracardi/tracardi：Tracardi/tracardi helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Tracardi/tracardi：Tracardi/tracardi helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Tracardi/tracardi：Tracardi/tracardi helps teams reuse service infrastructure i
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Tracardi/tracardi：Tracardi/tracardi helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

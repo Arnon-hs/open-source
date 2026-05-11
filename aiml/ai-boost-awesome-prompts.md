@@ -1,6 +1,6 @@
 # ai-boost/awesome-prompts
 
-[![Stars](https://img.shields.io/github/stars/ai-boost/awesome-prompts?style=flat-square&color=yellow)](https://github.com/ai-boost/awesome-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/ai-boost/awesome-prompts?style=flat-square&color=blue)](https://github.com/ai-boost/awesome-prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-boost/awesome-prompts?style=flat-square&color=yellow)](https://github.com/ai-boost/awesome-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/ai-boost/awesome-prompts?style=flat-square&color=blue)](https://github.com/ai-boost/awesome-prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 722 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ai‑boost/awesome‑prompts is an open‑source collection that gathers high‑
 
 ### 中文
 
-ai-boost/awesome-prompts：ai-boost/awesome-prompts helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ai-boost/awesome-prompts：ai-boost/awesome-prompts helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ai-boost/awesome-prompts：ai-boost/awesome-prompts helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ai-boost/awesome-prompts：ai-boost/awesome-prompts helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 80/100 |
 | stars | 83/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

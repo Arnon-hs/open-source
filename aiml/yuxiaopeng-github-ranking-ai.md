@@ -1,6 +1,6 @@
 # yuxiaopeng/Github-Ranking-AI
 
-[![Stars](https://img.shields.io/github/stars/yuxiaopeng/Github-Ranking-AI?style=flat-square&color=yellow)](https://github.com/yuxiaopeng/Github-Ranking-AI/stargazers) [![Forks](https://img.shields.io/github/forks/yuxiaopeng/Github-Ranking-AI?style=flat-square&color=blue)](https://github.com/yuxiaopeng/Github-Ranking-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuxiaopeng/Github-Ranking-AI?style=flat-square&color=yellow)](https://github.com/yuxiaopeng/Github-Ranking-AI/stargazers) [![Forks](https://img.shields.io/github/forks/yuxiaopeng/Github-Ranking-AI?style=flat-square&color=blue)](https://github.com/yuxiaopeng/Github-Ranking-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yuxiaopeng/Github-Ranking-AI：yuxiaopeng/Github-Ranking-AI helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 68/100 |
+| outlook | 68/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # antflydb/antfly
 
-[![Stars](https://img.shields.io/github/stars/antflydb/antfly?style=flat-square&color=yellow)](https://github.com/antflydb/antfly/stargazers) [![Forks](https://img.shields.io/github/forks/antflydb/antfly?style=flat-square&color=blue)](https://github.com/antflydb/antfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antflydb/antfly?style=flat-square&color=yellow)](https://github.com/antflydb/antfly/stargazers) [![Forks](https://img.shields.io/github/forks/antflydb/antfly?style=flat-square&color=blue)](https://github.com/antflydb/antfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ antflydb/antfly：antflydb/antfly helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 34/100 |
-| production | 74/100 |
-| outlook | 82/100 |
+| production | 67/100 |
+| outlook | 75/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
