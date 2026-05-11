@@ -1,6 +1,6 @@
 # chukwuemekawisdom/claude2api
 
-[![Stars](https://img.shields.io/github/stars/chukwuemekawisdom/claude2api?style=flat-square&color=yellow)](https://github.com/chukwuemekawisdom/claude2api/stargazers) [![Forks](https://img.shields.io/github/forks/chukwuemekawisdom/claude2api?style=flat-square&color=blue)](https://github.com/chukwuemekawisdom/claude2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chukwuemekawisdom/claude2api?style=flat-square&color=yellow)](https://github.com/chukwuemekawisdom/claude2api/stargazers) [![Forks](https://img.shields.io/github/forks/chukwuemekawisdom/claude2api?style=flat-square&color=blue)](https://github.com/chukwuemekawisdom/claude2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **chukwuemekawisdom/claude2api** project converts Claude’s web interface i
 
 ### 中文
 
-chukwuemekawisdom/claude2api：chukwuemekawisdom/claude2api helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+chukwuemekawisdom/claude2api：chukwuemekawisdom/claude2api helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chukwuemekawisdom/claude2api：chukwuemekawisdom/claude2api helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ chukwuemekawisdom/claude2api：chukwuemekawisdom/claude2api helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 75/100 |
+| production | 69/100 |
+| outlook | 68/100 |
 | adoption | 35/100 |
 | stars | 37/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

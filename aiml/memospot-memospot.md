@@ -1,6 +1,6 @@
 # memospot/memospot
 
-[![Stars](https://img.shields.io/github/stars/memospot/memospot?style=flat-square&color=yellow)](https://github.com/memospot/memospot/stargazers) [![Forks](https://img.shields.io/github/forks/memospot/memospot?style=flat-square&color=blue)](https://github.com/memospot/memospot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memospot/memospot?style=flat-square&color=yellow)](https://github.com/memospot/memospot/stargazers) [![Forks](https://img.shields.io/github/forks/memospot/memospot?style=flat-square&color=blue)](https://github.com/memospot/memospot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ memospot/memospot：memospot/memospot helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

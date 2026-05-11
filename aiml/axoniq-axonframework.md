@@ -1,6 +1,6 @@
 # AxonIQ/AxonFramework
 
-[![Stars](https://img.shields.io/github/stars/AxonIQ/AxonFramework?style=flat-square&color=yellow)](https://github.com/AxonIQ/AxonFramework/stargazers) [![Forks](https://img.shields.io/github/forks/AxonIQ/AxonFramework?style=flat-square&color=blue)](https://github.com/AxonIQ/AxonFramework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AxonIQ/AxonFramework?style=flat-square&color=yellow)](https://github.com/AxonIQ/AxonFramework/stargazers) [![Forks](https://img.shields.io/github/forks/AxonIQ/AxonFramework?style=flat-square&color=blue)](https://github.com/AxonIQ/AxonFramework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for Evolutionary Message-Driven Microservices on the JVM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 845 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AxonFramework — это открытая Java‑библиотека, поз�
 
 ### 中文
 
-AxonIQ/AxonFramework：AxonIQ/AxonFramework helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AxonIQ/AxonFramework：AxonIQ/AxonFramework helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AxonIQ/AxonFramework：AxonIQ/AxonFramework helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AxonIQ/AxonFramework：AxonIQ/AxonFramework helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 85/100 |
+| production | 71/100 |
+| outlook | 78/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

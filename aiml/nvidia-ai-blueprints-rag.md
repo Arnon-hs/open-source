@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/rag
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA-AI-Blueprints/rag?style=flat-square&color=yellow)](https://github.com/NVIDIA-AI-Blueprints/rag/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-AI-Blueprints/rag?style=flat-square&color=blue)](https://github.com/NVIDIA-AI-Blueprints/rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA-AI-Blueprints/rag?style=flat-square&color=yellow)](https://github.com/NVIDIA-AI-Blueprints/rag/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA-AI-Blueprints/rag?style=flat-square&color=blue)](https://github.com/NVIDIA-AI-Blueprints/rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > This NVIDIA RAG blueprint serves as a reference solution for a foundational Retrieval Augmented Generation (RAG) pipeline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 604 |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NVIDIA-AI-Blueprints/rag：NVIDIA-AI-Blueprints/rag helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 60/100 |
 | stars | 59/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

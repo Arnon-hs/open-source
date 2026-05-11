@@ -1,6 +1,6 @@
 # django/djangoproject.com
 
-[![Stars](https://img.shields.io/github/stars/django/djangoproject.com?style=flat-square&color=yellow)](https://github.com/django/djangoproject.com/stargazers) [![Forks](https://img.shields.io/github/forks/django/djangoproject.com?style=flat-square&color=blue)](https://github.com/django/djangoproject.com/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/django/djangoproject.com?style=flat-square&color=yellow)](https://github.com/django/djangoproject.com/stargazers) [![Forks](https://img.shields.io/github/forks/django/djangoproject.com?style=flat-square&color=blue)](https://github.com/django/djangoproject.com/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Source code to djangoproject.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **django/djangamodel.com** содержит полн�
 
 ### 中文
 
-django/djangoproject.com：django/djangoproject.com may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+django/djangoproject.com：django/djangoproject.com may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ django/djangoproject.com：django/djangoproject.com may be useful when its READM
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ django/djangoproject.com：django/djangoproject.com may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 71/100 |
+| production | 69/100 |
+| outlook | 64/100 |
 | adoption | 72/100 |
 | stars | 70/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

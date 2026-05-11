@@ -1,6 +1,6 @@
 # agents-flex/agents-flex
 
-[![Stars](https://img.shields.io/github/stars/agents-flex/agents-flex?style=flat-square&color=yellow)](https://github.com/agents-flex/agents-flex/stargazers) [![Forks](https://img.shields.io/github/forks/agents-flex/agents-flex?style=flat-square&color=blue)](https://github.com/agents-flex/agents-flex/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agents-flex/agents-flex?style=flat-square&color=yellow)](https://github.com/agents-flex/agents-flex/stargazers) [![Forks](https://img.shields.io/github/forks/agents-flex/agents-flex?style=flat-square&color=blue)](https://github.com/agents-flex/agents-flex/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Agents-flex is A Lightweight Java AI Application Development Framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 973 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ agents-flex/agents-flex：agents-flex/agents-flex helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 85/100 |
+| production | 68/100 |
+| outlook | 78/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

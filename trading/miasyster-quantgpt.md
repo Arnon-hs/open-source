@@ -1,6 +1,6 @@
 # Miasyster/QuantGPT
 
-[![Stars](https://img.shields.io/github/stars/Miasyster/QuantGPT?style=flat-square&color=yellow)](https://github.com/Miasyster/QuantGPT/stargazers) [![Forks](https://img.shields.io/github/forks/Miasyster/QuantGPT?style=flat-square&color=blue)](https://github.com/Miasyster/QuantGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Miasyster/QuantGPT?style=flat-square&color=yellow)](https://github.com/Miasyster/QuantGPT/stargazers) [![Forks](https://img.shields.io/github/forks/Miasyster/QuantGPT?style=flat-square&color=blue)](https://github.com/Miasyster/QuantGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Miasyster/QuantGPT — это open‑source платформа, превращ
 
 ### 中文
 
-Miasyster/QuantGPT：Miasyster/QuantGPT helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Miasyster/QuantGPT：Miasyster/QuantGPT helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Miasyster/QuantGPT：Miasyster/QuantGPT helps research and automate market workf
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Miasyster/QuantGPT：Miasyster/QuantGPT helps research and automate market workf
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 44/100 |
 | stars | 46/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

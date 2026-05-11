@@ -9,12 +9,12 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.5k | C | 74/100 |
-| 2 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 74/100 |
-| 3 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 33.1k | TypeScript | 73/100 |
-| 4 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.3k | C++ | 72/100 |
-| 5 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.7k | C | 72/100 |
-| 6 | [hashicorp/vault](./hashicorp-vault.md) | ⭐ 35.6k | Go | 72/100 |
-| 7 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 72/100 |
+| 2 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 33.1k | TypeScript | 73/100 |
+| 3 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.3k | C++ | 72/100 |
+| 4 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.7k | C | 72/100 |
+| 5 | [hashicorp/vault](./hashicorp-vault.md) | ⭐ 35.6k | Go | 72/100 |
+| 6 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 72/100 |
+| 7 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 71/100 |
 | 8 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.8k | TypeScript | 70/100 |
 | 9 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 70/100 |
 | 10 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 13.8k | Python | 70/100 |

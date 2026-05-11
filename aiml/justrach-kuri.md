@@ -1,6 +1,6 @@
 # justrach/kuri
 
-[![Stars](https://img.shields.io/github/stars/justrach/kuri?style=flat-square&color=yellow)](https://github.com/justrach/kuri/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/kuri?style=flat-square&color=blue)](https://github.com/justrach/kuri/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/kuri?style=flat-square&color=yellow)](https://github.com/justrach/kuri/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/kuri?style=flat-square&color=blue)](https://github.com/justrach/kuri/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ justrach/kuri — это кроссплатформенный набор ин�
 
 ### 中文
 
-justrach/kuri：justrach/kuri helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+justrach/kuri：justrach/kuri helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ justrach/kuri：justrach/kuri helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ justrach/kuri：justrach/kuri helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 87/100 |
+| production | 71/100 |
+| outlook | 80/100 |
 | adoption | 46/100 |
 | stars | 53/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

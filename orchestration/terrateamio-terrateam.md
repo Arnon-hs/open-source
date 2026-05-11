@@ -1,6 +1,6 @@
 # terrateamio/terrateam
 
-[![Stars](https://img.shields.io/github/stars/terrateamio/terrateam?style=flat-square&color=yellow)](https://github.com/terrateamio/terrateam/stargazers) [![Forks](https://img.shields.io/github/forks/terrateamio/terrateam?style=flat-square&color=blue)](https://github.com/terrateamio/terrateam/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terrateamio/terrateam?style=flat-square&color=yellow)](https://github.com/terrateamio/terrateam/stargazers) [![Forks](https://img.shields.io/github/forks/terrateamio/terrateam?style=flat-square&color=blue)](https://github.com/terrateamio/terrateam/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | OCaml |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ terrateamio/terrateam：terrateamio/terrateam helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 88/100 |
+| production | 68/100 |
+| outlook | 81/100 |
 | adoption | 60/100 |
 | stars | 66/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

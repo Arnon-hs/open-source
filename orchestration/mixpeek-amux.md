@@ -1,6 +1,6 @@
 # mixpeek/amux
 
-[![Stars](https://img.shields.io/github/stars/mixpeek/amux?style=flat-square&color=yellow)](https://github.com/mixpeek/amux/stargazers) [![Forks](https://img.shields.io/github/forks/mixpeek/amux?style=flat-square&color=blue)](https://github.com/mixpeek/amux/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mixpeek/amux?style=flat-square&color=yellow)](https://github.com/mixpeek/amux/stargazers) [![Forks](https://img.shields.io/github/forks/mixpeek/amux?style=flat-square&color=blue)](https://github.com/mixpeek/amux/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mixpeek/amux：mixpeek/amux helps turn isolated prompts and tools into repeatabl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 84/100 |
+| production | 68/100 |
+| outlook | 77/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

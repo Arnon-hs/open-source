@@ -1,6 +1,6 @@
 # opencraig/opencraig
 
-[![Stars](https://img.shields.io/github/stars/opencraig/opencraig?style=flat-square&color=yellow)](https://github.com/opencraig/opencraig/stargazers) [![Forks](https://img.shields.io/github/forks/opencraig/opencraig?style=flat-square&color=blue)](https://github.com/opencraig/opencraig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opencraig/opencraig?style=flat-square&color=yellow)](https://github.com/opencraig/opencraig/stargazers) [![Forks](https://img.shields.io/github/forks/opencraig/opencraig?style=flat-square&color=blue)](https://github.com/opencraig/opencraig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted document intelligence for the people who can't afford to misquote. Every answer cites the page it came from.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ opencraig/opencraig：opencraig/opencraig helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 83/100 |
+| production | 68/100 |
+| outlook | 76/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

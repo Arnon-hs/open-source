@@ -1,6 +1,6 @@
 # bytebase/bytebase
 
-[![Stars](https://img.shields.io/github/stars/bytebase/bytebase?style=flat-square&color=yellow)](https://github.com/bytebase/bytebase/stargazers) [![Forks](https://img.shields.io/github/forks/bytebase/bytebase?style=flat-square&color=blue)](https://github.com/bytebase/bytebase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytebase/bytebase?style=flat-square&color=yellow)](https://github.com/bytebase/bytebase/stargazers) [![Forks](https://img.shields.io/github/forks/bytebase/bytebase?style=flat-square&color=blue)](https://github.com/bytebase/bytebase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 935 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bytebase/bytebase：bytebase/bytebase helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 88/100 |
+| production | 77/100 |
+| outlook | 81/100 |
 | adoption | 84/100 |
 | stars | 88/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

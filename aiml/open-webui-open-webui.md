@@ -1,6 +1,6 @@
 # open-webui/open-webui
 
-[![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square&color=yellow)](https://github.com/open-webui/open-webui/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/open-webui?style=flat-square&color=blue)](https://github.com/open-webui/open-webui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat-square&color=yellow)](https://github.com/open-webui/open-webui/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/open-webui?style=flat-square&color=blue)](https://github.com/open-webui/open-webui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 136.1k |
 | 🍴 **Forks** | 19.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 94/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ open-webui/open-webui：open-webui/open-webui helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 100/100 |
+| quality | 95/100 |
 | integration | 78/100 |
-| production | 88/100 |
-| outlook | 100/100 |
+| production | 82/100 |
+| outlook | 93/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

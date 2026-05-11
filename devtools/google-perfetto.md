@@ -1,6 +1,6 @@
 # google/perfetto
 
-[![Stars](https://img.shields.io/github/stars/google/perfetto?style=flat-square&color=yellow)](https://github.com/google/perfetto/stargazers) [![Forks](https://img.shields.io/github/forks/google/perfetto?style=flat-square&color=blue)](https://github.com/google/perfetto/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/perfetto?style=flat-square&color=yellow)](https://github.com/google/perfetto/stargazers) [![Forks](https://img.shields.io/github/forks/google/perfetto?style=flat-square&color=blue)](https://github.com/google/perfetto/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Google Perfetto — это высокопроизводительный open
 
 ### 中文
 
-google/perfetto：google/perfetto helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google/perfetto：google/perfetto helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ google/perfetto：google/perfetto helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ google/perfetto：google/perfetto helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 76/100 |
+| production | 70/100 |
+| outlook | 69/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 
