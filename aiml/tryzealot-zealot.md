@@ -1,6 +1,6 @@
 # tryzealot/zealot
 
-[![Stars](https://img.shields.io/github/stars/tryzealot/zealot?style=flat-square&color=yellow)](https://github.com/tryzealot/zealot/stargazers) [![Forks](https://img.shields.io/github/forks/tryzealot/zealot?style=flat-square&color=blue)](https://github.com/tryzealot/zealot/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tryzealot/zealot?style=flat-square&color=yellow)](https://github.com/tryzealot/zealot/stargazers) [![Forks](https://img.shields.io/github/forks/tryzealot/zealot?style=flat-square&color=blue)](https://github.com/tryzealot/zealot/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps | 开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tryzealot Zealot is an open‑source, self‑hosted platform for distributing 
 
 ### 中文
 
-tryzealot/zealot：tryzealot/zealot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+tryzealot/zealot：tryzealot/zealot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tryzealot/zealot：tryzealot/zealot helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ tryzealot/zealot：tryzealot/zealot helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 73/100 |
+| outlook | 79/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

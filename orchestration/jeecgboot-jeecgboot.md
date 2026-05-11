@@ -1,6 +1,6 @@
 # jeecgboot/JeecgBoot
 
-[![Stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=flat-square&color=yellow)](https://github.com/jeecgboot/JeecgBoot/stargazers) [![Forks](https://img.shields.io/github/forks/jeecgboot/JeecgBoot?style=flat-square&color=blue)](https://github.com/jeecgboot/JeecgBoot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeecgboot/JeecgBoot?style=flat-square&color=yellow)](https://github.com/jeecgboot/JeecgBoot/stargazers) [![Forks](https://img.shields.io/github/forks/jeecgboot/JeecgBoot?style=flat-square&color=blue)](https://github.com/jeecgboot/JeecgBoot/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46.1k |
 | 🍴 **Forks** | 16k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jeecgboot/JeecgBoot：jeecgboot/JeecgBoot helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 100/100 |
+| quality | 95/100 |
 | integration | 62/100 |
-| production | 86/100 |
-| outlook | 100/100 |
+| production | 79/100 |
+| outlook | 93/100 |
 | adoption | 99/100 |
 | stars | 99/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

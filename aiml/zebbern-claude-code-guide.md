@@ -1,6 +1,6 @@
 # zebbern/claude-code-guide
 
-[![Stars](https://img.shields.io/github/stars/zebbern/claude-code-guide?style=flat-square&color=yellow)](https://github.com/zebbern/claude-code-guide/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/claude-code-guide?style=flat-square&color=blue)](https://github.com/zebbern/claude-code-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zebbern/claude-code-guide?style=flat-square&color=yellow)](https://github.com/zebbern/claude-code-guide/stargazers) [![Forks](https://img.shields.io/github/forks/zebbern/claude-code-guide?style=flat-square&color=blue)](https://github.com/zebbern/claude-code-guide/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 404 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ zebbern/claude-code-guide：zebbern/claude-code-guide helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 78/100 |
-| production | 84/100 |
-| outlook | 93/100 |
+| production | 77/100 |
+| outlook | 86/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

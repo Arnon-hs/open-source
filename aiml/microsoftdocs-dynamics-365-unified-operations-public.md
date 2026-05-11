@@ -1,6 +1,6 @@
 # MicrosoftDocs/dynamics-365-unified-operations-public
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/dynamics-365-unified-operations-public?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/dynamics-365-unified-operations-public?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public/network) [![Language](https://img.shields.io/badge/lang-Mermaid-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/dynamics-365-unified-operations-public?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/dynamics-365-unified-operations-public?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/dynamics-365-unified-operations-public/network) [![Language](https://img.shields.io/badge/lang-Mermaid-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for Microsoft Dynamics 365 apps such as Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Supply Chain Management, and Dynamics 365 Human Resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 850 |
 | 💻 **Language** | Mermaid |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ MicrosoftDocs/dynamics-365-unified-operations-public：MicrosoftDocs/dynamics-36
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 60/100 |
 | stars | 55/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

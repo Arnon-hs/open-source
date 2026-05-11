@@ -1,6 +1,6 @@
 # juspay/hyperswitch-prism
 
-[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch-prism?style=flat-square&color=yellow)](https://github.com/juspay/hyperswitch-prism/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/hyperswitch-prism?style=flat-square&color=blue)](https://github.com/juspay/hyperswitch-prism/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/hyperswitch-prism?style=flat-square&color=yellow)](https://github.com/juspay/hyperswitch-prism/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/hyperswitch-prism?style=flat-square&color=blue)](https://github.com/juspay/hyperswitch-prism/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > One library | Many payment processors | Scale to multiple processors with few lines of code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Juspay Hyperswitch‑Prism — это открытая библиотека,
 
 ### 中文
 
-juspay/hyperswitch-prism：juspay/hyperswitch-prism helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+juspay/hyperswitch-prism：juspay/hyperswitch-prism helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ juspay/hyperswitch-prism：juspay/hyperswitch-prism helps integrate monetization
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ juspay/hyperswitch-prism：juspay/hyperswitch-prism helps integrate monetization
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

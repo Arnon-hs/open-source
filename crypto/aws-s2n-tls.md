@@ -1,6 +1,6 @@
 # aws/s2n-tls
 
-[![Stars](https://img.shields.io/github/stars/aws/s2n-tls?style=flat-square&color=yellow)](https://github.com/aws/s2n-tls/stargazers) [![Forks](https://img.shields.io/github/forks/aws/s2n-tls?style=flat-square&color=blue)](https://github.com/aws/s2n-tls/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/s2n-tls?style=flat-square&color=yellow)](https://github.com/aws/s2n-tls/stargazers) [![Forks](https://img.shields.io/github/forks/aws/s2n-tls?style=flat-square&color=blue)](https://github.com/aws/s2n-tls/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An implementation of the TLS/SSL protocols
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 776 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ aws/s2n-tls — это открытая библиотека, реализую
 
 ### 中文
 
-aws/s2n-tls：aws/s2n-tls helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+aws/s2n-tls：aws/s2n-tls helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aws/s2n-tls：aws/s2n-tls helps prototype or inspect blockchain workflows with o
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aws/s2n-tls：aws/s2n-tls helps prototype or inspect blockchain workflows with o
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 77/100 |
 | stars | 78/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

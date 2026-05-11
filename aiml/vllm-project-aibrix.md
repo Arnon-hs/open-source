@@ -1,6 +1,6 @@
 # vllm-project/aibrix
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat-square&color=yellow)](https://github.com/vllm-project/aibrix/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/aibrix?style=flat-square&color=blue)](https://github.com/vllm-project/aibrix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat-square&color=yellow)](https://github.com/vllm-project/aibrix/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/aibrix?style=flat-square&color=blue)](https://github.com/vllm-project/aibrix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Cost-efficient and pluggable Infrastructure components for GenAI inference
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 575 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ vllm-project/aibrix：vllm-project/aibrix helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 68/100 |
+| outlook | 65/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

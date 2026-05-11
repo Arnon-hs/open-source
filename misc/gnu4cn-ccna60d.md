@@ -1,6 +1,6 @@
 # gnu4cn/ccna60d
 
-[![Stars](https://img.shields.io/github/stars/gnu4cn/ccna60d?style=flat-square&color=yellow)](https://github.com/gnu4cn/ccna60d/stargazers) [![Forks](https://img.shields.io/github/forks/gnu4cn/ccna60d?style=flat-square&color=blue)](https://github.com/gnu4cn/ccna60d/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnu4cn/ccna60d?style=flat-square&color=yellow)](https://github.com/gnu4cn/ccna60d/stargazers) [![Forks](https://img.shields.io/github/forks/gnu4cn/ccna60d?style=flat-square&color=blue)](https://github.com/gnu4cn/ccna60d/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 60天通过思科认证的网络工程师考试
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Handlebars |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ gnu4cn/ccna60d：gnu4cn/ccna60d may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
