@@ -1,6 +1,6 @@
 # dkondo/agent-tackle-box
 
-[![Stars](https://img.shields.io/github/stars/dkondo/agent-tackle-box?style=flat-square&color=yellow)](https://github.com/dkondo/agent-tackle-box/stargazers) [![Forks](https://img.shields.io/github/forks/dkondo/agent-tackle-box?style=flat-square&color=blue)](https://github.com/dkondo/agent-tackle-box/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dkondo/agent-tackle-box?style=flat-square&color=yellow)](https://github.com/dkondo/agent-tackle-box/stargazers) [![Forks](https://img.shields.io/github/forks/dkondo/agent-tackle-box?style=flat-square&color=blue)](https://github.com/dkondo/agent-tackle-box/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for developing AI agents, including agent-debugger: Terminal debugger for LangGraph & LangChain agents. Debug LLM agents with state inspection, tool calls, semantic breakpoints, and Python program stepping in one Textual UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dkondo/agent-tackle-box：dkondo/agent-tackle-box helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 31/100 |
 | stars | 36/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

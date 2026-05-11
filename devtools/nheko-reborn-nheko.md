@@ -1,6 +1,6 @@
 # Nheko-Reborn/nheko
 
-[![Stars](https://img.shields.io/github/stars/Nheko-Reborn/nheko?style=flat-square&color=yellow)](https://github.com/Nheko-Reborn/nheko/stargazers) [![Forks](https://img.shields.io/github/forks/Nheko-Reborn/nheko?style=flat-square&color=blue)](https://github.com/Nheko-Reborn/nheko/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nheko-Reborn/nheko?style=flat-square&color=yellow)](https://github.com/Nheko-Reborn/nheko/stargazers) [![Forks](https://img.shields.io/github/forks/Nheko-Reborn/nheko?style=flat-square&color=blue)](https://github.com/Nheko-Reborn/nheko/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop client for Matrix using Qt and C++20.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Nheko‑Reborn — это кросс‑платформенный настол
 
 ### 中文
 
-Nheko-Reborn/nheko：Nheko-Reborn/nheko helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Nheko-Reborn/nheko：Nheko-Reborn/nheko helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Nheko-Reborn/nheko：Nheko-Reborn/nheko helps engineers save time in daily devel
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Nheko-Reborn/nheko：Nheko-Reborn/nheko helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

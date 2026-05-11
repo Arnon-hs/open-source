@@ -21,8 +21,8 @@
 | 11 | [stacklok/toolhive-studio](./stacklok-toolhive-studio.md) | ⭐ 126 | TypeScript | 81/100 |
 | 12 | [TurixAI/TuriX-CUA](./turixai-turix-cua.md) | ⭐ 2.9k | Python | 81/100 |
 | 13 | [auth0/auth0-mcp-server](./auth0-auth0-mcp-server.md) | ⭐ 106 | TypeScript | 81/100 |
-| 14 | [nyroway/nyro](./nyroway-nyro.md) | ⭐ 133 | Rust | 81/100 |
-| 15 | [taazkareem/clickup-mcp-server](./taazkareem-clickup-mcp-server.md) | ⭐ 38 | Dockerfile | 81/100 |
+| 14 | [taazkareem/clickup-mcp-server](./taazkareem-clickup-mcp-server.md) | ⭐ 38 | Dockerfile | 81/100 |
+| 15 | [nyroway/nyro](./nyroway-nyro.md) | ⭐ 133 | Rust | 81/100 |
 | 16 | [iFurySt/open-codex-computer-use](./ifuryst-open-codex-computer-use.md) | ⭐ 705 | Swift | 81/100 |
 | 17 | [minthcm/minthcm](./minthcm-minthcm.md) | ⭐ 360 | PHP | 80/100 |
 | 18 | [deepset-ai/hayhooks](./deepset-ai-hayhooks.md) | ⭐ 139 | Python | 79/100 |
@@ -60,8 +60,8 @@
 | 50 | [BV-Venky/excalidraw-architect-mcp](./bv-venky-excalidraw-architect-mcp.md) | ⭐ 104 | Python | 69/100 |
 | 51 | [microsoft/mcp-dotnet-samples](./microsoft-mcp-dotnet-samples.md) | ⭐ 183 | C# | 69/100 |
 | 52 | [stippi/code-assistant](./stippi-code-assistant.md) | ⭐ 163 | Rust | 68/100 |
-| 53 | [SonarSource/sonarqube-mcp-server](./sonarsource-sonarqube-mcp-server.md) | ⭐ 550 | Java | 68/100 |
-| 54 | [samyama-ai/samyama-graph](./samyama-ai-samyama-graph.md) | ⭐ 61 | Rust | 68/100 |
+| 53 | [samyama-ai/samyama-graph](./samyama-ai-samyama-graph.md) | ⭐ 61 | Rust | 68/100 |
+| 54 | [SonarSource/sonarqube-mcp-server](./sonarsource-sonarqube-mcp-server.md) | ⭐ 550 | Java | 68/100 |
 | 55 | [symgraph/GhidrAssistMCP](./symgraph-ghidrassistmcp.md) | ⭐ 601 | Java | 68/100 |
 | 56 | [carterlasalle/mac_messages_mcp](./carterlasalle-mac-messages-mcp.md) | ⭐ 279 | Python | 68/100 |
 | 57 | [GoogleCloudPlatform/cloud-run-mcp](./googlecloudplatform-cloud-run-mcp.md) | ⭐ 605 | JavaScript | 67/100 |

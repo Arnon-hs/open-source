@@ -1,6 +1,6 @@
 # kortix-ai/suna
 
-[![Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=flat-square&color=yellow)](https://github.com/kortix-ai/suna/stargazers) [![Forks](https://img.shields.io/github/forks/kortix-ai/suna?style=flat-square&color=blue)](https://github.com/kortix-ai/suna/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=flat-square&color=yellow)](https://github.com/kortix-ai/suna/stargazers) [![Forks](https://img.shields.io/github/forks/kortix-ai/suna?style=flat-square&color=blue)](https://github.com/kortix-ai/suna/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Autonomous Company Operating System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.7k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kortix‑AI/Suna — это открытая операционная сист�
 
 ### 中文
 
-kortix-ai/suna：kortix-ai/suna helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kortix-ai/suna：kortix-ai/suna helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kortix-ai/suna：kortix-ai/suna helps add AI capability without starting from a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kortix-ai/suna：kortix-ai/suna helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 91/100 |
 | stars | 91/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

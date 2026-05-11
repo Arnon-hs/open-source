@@ -1,6 +1,6 @@
 # rwth-i6/returnn
 
-[![Stars](https://img.shields.io/github/stars/rwth-i6/returnn?style=flat-square&color=yellow)](https://github.com/rwth-i6/returnn/stargazers) [![Forks](https://img.shields.io/github/forks/rwth-i6/returnn?style=flat-square&color=blue)](https://github.com/rwth-i6/returnn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rwth-i6/returnn?style=flat-square&color=yellow)](https://github.com/rwth-i6/returnn/stargazers) [![Forks](https://img.shields.io/github/forks/rwth-i6/returnn?style=flat-square&color=blue)](https://github.com/rwth-i6/returnn/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The RWTH extensible training framework for universal recurrent neural networks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rwth-i6/returnn：rwth-i6/returnn helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 54/100 |
 | stars | 55/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

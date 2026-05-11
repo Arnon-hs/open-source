@@ -1,6 +1,6 @@
 # Automattic/pocket-casts-android
 
-[![Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=flat-square&color=yellow)](https://github.com/Automattic/pocket-casts-android/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/pocket-casts-android?style=flat-square&color=blue)](https://github.com/Automattic/pocket-casts-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=flat-square&color=yellow)](https://github.com/Automattic/pocket-casts-android/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/pocket-casts-android?style=flat-square&color=blue)](https://github.com/Automattic/pocket-casts-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Pocket Casts Android 🎧
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Automattic/pocket-casts-android：Automattic/pocket-casts-android may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

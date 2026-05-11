@@ -1,6 +1,6 @@
 # Codeturion/codesurface
 
-[![Stars](https://img.shields.io/github/stars/Codeturion/codesurface?style=flat-square&color=yellow)](https://github.com/Codeturion/codesurface/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/codesurface?style=flat-square&color=blue)](https://github.com/Codeturion/codesurface/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codeturion/codesurface?style=flat-square&color=yellow)](https://github.com/Codeturion/codesurface/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/codesurface?style=flat-square&color=blue)](https://github.com/Codeturion/codesurface/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent instant API lookups instead of expensive source file reads. MCP server for C#, Go, Java, Python, and TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Codeturion/codesurface — это открытый MCP‑сервер, кот�
 
 ### 中文
 
-Codeturion/codesurface：Codeturion/codesurface helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Codeturion/codesurface：Codeturion/codesurface helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Codeturion/codesurface：Codeturion/codesurface helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Codeturion/codesurface：Codeturion/codesurface helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 100/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 25/100 |
 | stars | 29/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

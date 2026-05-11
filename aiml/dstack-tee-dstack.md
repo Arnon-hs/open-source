@@ -1,6 +1,6 @@
 # Dstack-TEE/dstack
 
-[![Stars](https://img.shields.io/github/stars/Dstack-TEE/dstack?style=flat-square&color=yellow)](https://github.com/Dstack-TEE/dstack/stargazers) [![Forks](https://img.shields.io/github/forks/Dstack-TEE/dstack?style=flat-square&color=blue)](https://github.com/Dstack-TEE/dstack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dstack-TEE/dstack?style=flat-square&color=yellow)](https://github.com/Dstack-TEE/dstack/stargazers) [![Forks](https://img.shields.io/github/forks/Dstack-TEE/dstack?style=flat-square&color=blue)](https://github.com/Dstack-TEE/dstack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open framework for confidential AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Dstack-TEE/dstack：Dstack-TEE/dstack helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

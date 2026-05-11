@@ -1,6 +1,6 @@
 # simota/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square&color=yellow)](https://github.com/simota/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/simota/agent-skills?style=flat-square&color=blue)](https://github.com/simota/agent-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simota/agent-skills?style=flat-square&color=yellow)](https://github.com/simota/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/simota/agent-skills?style=flat-square&color=blue)](https://github.com/simota/agent-skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 100+ specialized AI agent skills for Claude Code / Codex CLI / Gemini CLI — prompt engineering assets covering development, security, design, FinOps, compliance, testing, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ simota/agent-skills：simota/agent-skills helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

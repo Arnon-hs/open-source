@@ -1,6 +1,6 @@
 # browser-use/browser-use
 
-[![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&color=yellow)](https://github.com/browser-use/browser-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/browser-use?style=flat-square&color=blue)](https://github.com/browser-use/browser-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&color=yellow)](https://github.com/browser-use/browser-use/stargazers) [![Forks](https://img.shields.io/github/forks/browser-use/browser-use?style=flat-square&color=blue)](https://github.com/browser-use/browser-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 93k |
 | 🍴 **Forks** | 10.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ browser-use/browser-use：browser-use/browser-use helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 97/100 |
+| production | 76/100 |
+| outlook | 90/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

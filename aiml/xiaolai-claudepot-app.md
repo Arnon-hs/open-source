@@ -1,6 +1,6 @@
 # xiaolai/claudepot-app
 
-[![Stars](https://img.shields.io/github/stars/xiaolai/claudepot-app?style=flat-square&color=yellow)](https://github.com/xiaolai/claudepot-app/stargazers) [![Forks](https://img.shields.io/github/forks/xiaolai/claudepot-app?style=flat-square&color=blue)](https://github.com/xiaolai/claudepot-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaolai/claudepot-app?style=flat-square&color=yellow)](https://github.com/xiaolai/claudepot-app/stargazers) [![Forks](https://img.shields.io/github/forks/xiaolai/claudepot-app?style=flat-square&color=blue)](https://github.com/xiaolai/claudepot-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A control panel for Claude Code and Claude Desktop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xiaolai/claudepot-app：xiaolai/claudepot-app helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 34/100 |
 | stars | 38/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # CriticalPathSecurity/Zeek-Intelligence-Feeds
 
-[![Stars](https://img.shields.io/github/stars/CriticalPathSecurity/Zeek-Intelligence-Feeds?style=flat-square&color=yellow)](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/stargazers) [![Forks](https://img.shields.io/github/forks/CriticalPathSecurity/Zeek-Intelligence-Feeds?style=flat-square&color=blue)](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/network) [![Language](https://img.shields.io/badge/lang-Zeek-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CriticalPathSecurity/Zeek-Intelligence-Feeds?style=flat-square&color=yellow)](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/stargazers) [![Forks](https://img.shields.io/github/forks/CriticalPathSecurity/Zeek-Intelligence-Feeds?style=flat-square&color=blue)](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/network) [![Language](https://img.shields.io/badge/lang-Zeek-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Zeek-Formatted Threat Intelligence Feeds
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Zeek |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ CriticalPathSecurity/Zeek-Intelligence-Feeds：CriticalPathSecurity/Zeek-Intelli
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

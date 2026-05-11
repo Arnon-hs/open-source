@@ -1,6 +1,6 @@
 # Dicklesworthstone/frankenterm
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/frankenterm?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/frankenterm/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/frankenterm?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/frankenterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/frankenterm?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/frankenterm/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/frankenterm?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/frankenterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Dicklesworthstone/frankenterm：Dicklesworthstone/frankenterm helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 65/100 |
+| outlook | 71/100 |
 | adoption | 37/100 |
 | stars | 41/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

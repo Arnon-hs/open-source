@@ -1,6 +1,6 @@
 # JimLiu/baoyu-skills
 
-[![Stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square&color=yellow)](https://github.com/JimLiu/baoyu-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JimLiu/baoyu-skills?style=flat-square&color=blue)](https://github.com/JimLiu/baoyu-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=flat-square&color=yellow)](https://github.com/JimLiu/baoyu-skills/stargazers) [![Forks](https://img.shields.io/github/forks/JimLiu/baoyu-skills?style=flat-square&color=blue)](https://github.com/JimLiu/baoyu-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.4k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ JimLiu/baoyu-skills — это открытый проект, объединя
 
 ### 中文
 
-JimLiu/baoyu-skills：JimLiu/baoyu-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+JimLiu/baoyu-skills：JimLiu/baoyu-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ JimLiu/baoyu-skills：JimLiu/baoyu-skills helps turn isolated prompts and tools 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ JimLiu/baoyu-skills：JimLiu/baoyu-skills helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 34/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 88/100 |
 | stars | 90/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

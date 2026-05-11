@@ -1,6 +1,6 @@
 # indaco/malt
 
-[![Stars](https://img.shields.io/github/stars/indaco/malt?style=flat-square&color=yellow)](https://github.com/indaco/malt/stargazers) [![Forks](https://img.shields.io/github/forks/indaco/malt?style=flat-square&color=blue)](https://github.com/indaco/malt/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indaco/malt?style=flat-square&color=yellow)](https://github.com/indaco/malt/stargazers) [![Forks](https://img.shields.io/github/forks/indaco/malt?style=flat-square&color=blue)](https://github.com/indaco/malt/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, drop-in Homebrew alternative for macOS. Warm installs in milliseconds. post_install scripts that actually run.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ indaco/malt：indaco/malt helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 33/100 |
 | stars | 43/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

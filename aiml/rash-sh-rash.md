@@ -1,6 +1,6 @@
 # rash-sh/rash
 
-[![Stars](https://img.shields.io/github/stars/rash-sh/rash?style=flat-square&color=yellow)](https://github.com/rash-sh/rash/stargazers) [![Forks](https://img.shields.io/github/forks/rash-sh/rash?style=flat-square&color=blue)](https://github.com/rash-sh/rash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rash-sh/rash?style=flat-square&color=yellow)](https://github.com/rash-sh/rash/stargazers) [![Forks](https://img.shields.io/github/forks/rash-sh/rash?style=flat-square&color=blue)](https://github.com/rash-sh/rash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative shell scripting using Rust native bindings inspired by Ansible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rash — это open‑source фреймворк для декларативн
 
 ### 中文
 
-rash-sh/rash：rash-sh/rash helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rash-sh/rash：rash-sh/rash helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rash-sh/rash：rash-sh/rash helps add AI capability without starting from a blan
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rash-sh/rash：rash-sh/rash helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 44/100 |
 | stars | 51/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

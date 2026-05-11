@@ -1,6 +1,6 @@
 # momhq/mom
 
-[![Stars](https://img.shields.io/github/stars/momhq/mom?style=flat-square&color=yellow)](https://github.com/momhq/mom/stargazers) [![Forks](https://img.shields.io/github/forks/momhq/mom?style=flat-square&color=blue)](https://github.com/momhq/mom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/momhq/mom?style=flat-square&color=yellow)](https://github.com/momhq/mom/stargazers) [![Forks](https://img.shields.io/github/forks/momhq/mom?style=flat-square&color=blue)](https://github.com/momhq/mom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MOM is a persistent memory for AI agents — she remembers, so you don't have to_
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MOM — это открытая библиотека, предоставляю
 
 ### 中文
 
-momhq/mom：momhq/mom helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+momhq/mom：momhq/mom helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ momhq/mom：momhq/mom helps add AI capability without starting from a blank mode
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ momhq/mom：momhq/mom helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 83/100 |
+| production | 70/100 |
+| outlook | 76/100 |
 | adoption | 31/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

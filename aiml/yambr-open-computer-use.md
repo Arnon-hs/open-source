@@ -1,6 +1,6 @@
 # Yambr/open-computer-use
 
-[![Stars](https://img.shields.io/github/stars/Yambr/open-computer-use?style=flat-square&color=yellow)](https://github.com/Yambr/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/Yambr/open-computer-use?style=flat-square&color=blue)](https://github.com/Yambr/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yambr/open-computer-use?style=flat-square&color=yellow)](https://github.com/Yambr/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/Yambr/open-computer-use?style=flat-square&color=blue)](https://github.com/Yambr/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that gives any LLM its own computer — managed Docker workspaces with live browser, terminal, code execution, document skills, and autonomous sub-agents. Self-hosted, open-source, pluggable into any model.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Yambr/open-computer-use — это сервер MCP, который предо
 
 ### 中文
 
-Yambr/open-computer-use：Yambr/open-computer-use helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Yambr/open-computer-use：Yambr/open-computer-use helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Yambr/open-computer-use：Yambr/open-computer-use helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Yambr/open-computer-use：Yambr/open-computer-use helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 37/100 |
 | stars | 39/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

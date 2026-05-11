@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6694** |
+| 🗂️ **Total projects** | **6732** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,27 +18,27 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2520 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1218 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 663 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 587 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 357 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 334 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 231 | [Browse →](./crypto/) |
-| 📊 **Data** | 159 | [Browse →](./data/) |
+| 🤖 **AI/ML** | 2528 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1228 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 666 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 588 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 359 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 335 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 233 | [Browse →](./crypto/) |
+| 📊 **Data** | 160 | [Browse →](./data/) |
 | 💳 **Payments** | 104 | [Browse →](./payments/) |
 | 📈 **Trading** | 83 | [Browse →](./trading/) |
-| 📱 **Mobile** | 79 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 81 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 70 | [Browse →](./devopsinfra/) |
 | 🏷️ **Mcp** | 70 | [Browse →](./mcp/) |
-| 🚀 **DevOps & Infra** | 69 | [Browse →](./devopsinfra/) |
-| 🏷️ **Automation** | 56 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 58 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 49 | [Browse →](./knowledgerag/) |
 | 🔐 **Security** | 47 | [Browse →](./security/) |
-| 🏷️ **Knowledgerag** | 46 | [Browse →](./knowledgerag/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
-| 🏷️ **Database** | 19 | [Browse →](./database/) |
+| 🏷️ **Database** | 20 | [Browse →](./database/) |
 | 🎯 **Product** | 14 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
-| 🏷️ **Observability** | 5 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 6 | [Browse →](./observability/) |
 | 🏷️ **Education** | 3 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score

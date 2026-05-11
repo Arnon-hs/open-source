@@ -1,6 +1,6 @@
 # christopherkarani/Swarm
 
-[![Stars](https://img.shields.io/github/stars/christopherkarani/Swarm?style=flat-square&color=yellow)](https://github.com/christopherkarani/Swarm/stargazers) [![Forks](https://img.shields.io/github/forks/christopherkarani/Swarm?style=flat-square&color=blue)](https://github.com/christopherkarani/Swarm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christopherkarani/Swarm?style=flat-square&color=yellow)](https://github.com/christopherkarani/Swarm/stargazers) [![Forks](https://img.shields.io/github/forks/christopherkarani/Swarm?style=flat-square&color=blue)](https://github.com/christopherkarani/Swarm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🐦‍🔥 The Best Swift Agent Orchestration Framework  Purpose built for on-device Models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ christopherkarani/Swarm：christopherkarani/Swarm helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 83/100 |
+| production | 67/100 |
+| outlook | 76/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
