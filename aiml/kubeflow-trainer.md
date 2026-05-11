@@ -1,6 +1,6 @@
 # kubeflow/trainer
 
-[![Stars](https://img.shields.io/github/stars/kubeflow/trainer?style=flat-square&color=yellow)](https://github.com/kubeflow/trainer/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/trainer?style=flat-square&color=blue)](https://github.com/kubeflow/trainer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeflow/trainer?style=flat-square&color=yellow)](https://github.com/kubeflow/trainer/stargazers) [![Forks](https://img.shields.io/github/forks/kubeflow/trainer?style=flat-square&color=blue)](https://github.com/kubeflow/trainer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed AI Model Training and LLM Fine-Tuning on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 948 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubeflow/trainer：kubeflow/trainer helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 78/100 |
-| production | 84/100 |
-| outlook | 81/100 |
+| production | 77/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 71/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

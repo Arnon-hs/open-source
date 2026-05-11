@@ -1,6 +1,6 @@
 # dailydotdev/apps
 
-[![Stars](https://img.shields.io/github/stars/dailydotdev/apps?style=flat-square&color=yellow)](https://github.com/dailydotdev/apps/stargazers) [![Forks](https://img.shields.io/github/forks/dailydotdev/apps?style=flat-square&color=blue)](https://github.com/dailydotdev/apps/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dailydotdev/apps?style=flat-square&color=yellow)](https://github.com/dailydotdev/apps/stargazers) [![Forks](https://img.shields.io/github/forks/dailydotdev/apps?style=flat-square&color=blue)](https://github.com/dailydotdev/apps/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > daily.dev application suite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 986 |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **dailydotdev/apps** repository houses the full application suite for daily.
 
 ### 中文
 
-dailydotdev/apps：dailydotdev/apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dailydotdev/apps：dailydotdev/apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dailydotdev/apps：dailydotdev/apps helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dailydotdev/apps：dailydotdev/apps helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 70/100 |
+| outlook | 71/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

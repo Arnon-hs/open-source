@@ -1,6 +1,6 @@
 # mbround18/valheim-docker
 
-[![Stars](https://img.shields.io/github/stars/mbround18/valheim-docker?style=flat-square&color=yellow)](https://github.com/mbround18/valheim-docker/stargazers) [![Forks](https://img.shields.io/github/forks/mbround18/valheim-docker?style=flat-square&color=blue)](https://github.com/mbround18/valheim-docker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mbround18/valheim-docker?style=flat-square&color=yellow)](https://github.com/mbround18/valheim-docker/stargazers) [![Forks](https://img.shields.io/github/forks/mbround18/valheim-docker?style=flat-square&color=blue)](https://github.com/mbround18/valheim-docker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 835 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ mbround18/valheim-docker is a Docker‑based manager for Valheim dedicated serve
 
 ### 中文
 
-mbround18/valheim-docker：mbround18/valheim-docker helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mbround18/valheim-docker：mbround18/valheim-docker helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ mbround18/valheim-docker：mbround18/valheim-docker helps teams reuse service in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ mbround18/valheim-docker：mbround18/valheim-docker helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 78/100 |
-| production | 81/100 |
-| outlook | 81/100 |
+| production | 75/100 |
+| outlook | 74/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

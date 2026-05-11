@@ -1,6 +1,6 @@
 # bigbag/papyrix-reader
 
-[![Stars](https://img.shields.io/github/stars/bigbag/papyrix-reader?style=flat-square&color=yellow)](https://github.com/bigbag/papyrix-reader/stargazers) [![Forks](https://img.shields.io/github/forks/bigbag/papyrix-reader?style=flat-square&color=blue)](https://github.com/bigbag/papyrix-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bigbag/papyrix-reader?style=flat-square&color=yellow)](https://github.com/bigbag/papyrix-reader/stargazers) [![Forks](https://img.shields.io/github/forks/bigbag/papyrix-reader?style=flat-square&color=blue)](https://github.com/bigbag/papyrix-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight open-source firmware for Xteink X4/X3 e-paper reader • EPUB/FB2/MD/TXT support • Custom themes & fonts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ bigbag/papyrix-reader：bigbag/papyrix-reader may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

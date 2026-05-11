@@ -1,6 +1,6 @@
 # sspanak/tt9
 
-[![Stars](https://img.shields.io/github/stars/sspanak/tt9?style=flat-square&color=yellow)](https://github.com/sspanak/tt9/stargazers) [![Forks](https://img.shields.io/github/forks/sspanak/tt9?style=flat-square&color=blue)](https://github.com/sspanak/tt9/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sspanak/tt9?style=flat-square&color=yellow)](https://github.com/sspanak/tt9/stargazers) [![Forks](https://img.shields.io/github/forks/sspanak/tt9?style=flat-square&color=blue)](https://github.com/sspanak/tt9/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A T9 keyboard for Android inspired by the classic Nokia phones of the 2000s.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # yurukusa/cc-safe-setup
 
-[![Stars](https://img.shields.io/github/stars/yurukusa/cc-safe-setup?style=flat-square&color=yellow)](https://github.com/yurukusa/cc-safe-setup/stargazers) [![Forks](https://img.shields.io/github/forks/yurukusa/cc-safe-setup?style=flat-square&color=blue)](https://github.com/yurukusa/cc-safe-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yurukusa/cc-safe-setup?style=flat-square&color=yellow)](https://github.com/yurukusa/cc-safe-setup/stargazers) [![Forks](https://img.shields.io/github/forks/yurukusa/cc-safe-setup?style=flat-square&color=blue)](https://github.com/yurukusa/cc-safe-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 715 example hooks, 9,200+ tests, 30K+ installs — built from 800+ hours of real autonomous CC operation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yurukusa/cc-safe-setup：yurukusa/cc-safe-setup helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 81/100 |
+| production | 67/100 |
+| outlook | 74/100 |
 | adoption | 23/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

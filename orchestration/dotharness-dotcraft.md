@@ -1,6 +1,6 @@
 # DotHarness/dotcraft
 
-[![Stars](https://img.shields.io/github/stars/DotHarness/dotcraft?style=flat-square&color=yellow)](https://github.com/DotHarness/dotcraft/stargazers) [![Forks](https://img.shields.io/github/forks/DotHarness/dotcraft?style=flat-square&color=blue)](https://github.com/DotHarness/dotcraft/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DotHarness/dotcraft?style=flat-square&color=yellow)](https://github.com/DotHarness/dotcraft/stargazers) [![Forks](https://img.shields.io/github/forks/DotHarness/dotcraft?style=flat-square&color=blue)](https://github.com/DotHarness/dotcraft/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Harness best for your project. All in one workspace.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DotHarness/dotcraft：DotHarness/dotcraft helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

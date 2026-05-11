@@ -1,6 +1,6 @@
 # SORMAS-Foundation/SORMAS-Project
 
-[![Stars](https://img.shields.io/github/stars/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=yellow)](https://github.com/SORMAS-Foundation/SORMAS-Project/stargazers) [![Forks](https://img.shields.io/github/forks/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=blue)](https://github.com/SORMAS-Foundation/SORMAS-Project/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=yellow)](https://github.com/SORMAS-Foundation/SORMAS-Project/stargazers) [![Forks](https://img.shields.io/github/forks/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=blue)](https://github.com/SORMAS-Foundation/SORMAS-Project/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of infectious diseases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ SORMAS-Foundation/SORMAS-Project：SORMAS-Foundation/SORMAS-Project may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 54/100 |
 | stars | 53/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

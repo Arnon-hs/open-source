@@ -1,6 +1,6 @@
 # dwyl/learn-payment-processing
 
-[![Stars](https://img.shields.io/github/stars/dwyl/learn-payment-processing?style=flat-square&color=yellow)](https://github.com/dwyl/learn-payment-processing/stargazers) [![Forks](https://img.shields.io/github/forks/dwyl/learn-payment-processing?style=flat-square&color=blue)](https://github.com/dwyl/learn-payment-processing/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dwyl/learn-payment-processing?style=flat-square&color=yellow)](https://github.com/dwyl/learn-payment-processing/stargazers) [![Forks](https://img.shields.io/github/forks/dwyl/learn-payment-processing?style=flat-square&color=blue)](https://github.com/dwyl/learn-payment-processing/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 💳 Learn how to process online payments in your web application (and in Elixir)! 💰
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dwyl/learn-payment-processing：dwyl/learn-payment-processing helps integrate mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 31/100 |
 | stars | 37/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

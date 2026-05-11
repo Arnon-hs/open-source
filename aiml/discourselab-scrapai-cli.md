@@ -1,6 +1,6 @@
 # discourselab/scrapai-cli
 
-[![Stars](https://img.shields.io/github/stars/discourselab/scrapai-cli?style=flat-square&color=yellow)](https://github.com/discourselab/scrapai-cli/stargazers) [![Forks](https://img.shields.io/github/forks/discourselab/scrapai-cli?style=flat-square&color=blue)](https://github.com/discourselab/scrapai-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/discourselab/scrapai-cli?style=flat-square&color=yellow)](https://github.com/discourselab/scrapai-cli/stargazers) [![Forks](https://img.shields.io/github/forks/discourselab/scrapai-cli?style=flat-square&color=blue)](https://github.com/discourselab/scrapai-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered web scraping CLI. Describe what you want, get a   production-ready Scrapy spider. Write once, reuse forever.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ discourselab/scrapai-cli — это open‑source CLI‑утилита, исп
 
 ### 中文
 
-discourselab/scrapai-cli：discourselab/scrapai-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+discourselab/scrapai-cli：discourselab/scrapai-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ discourselab/scrapai-cli：discourselab/scrapai-cli helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ discourselab/scrapai-cli：discourselab/scrapai-cli helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 39/100 |
 | stars | 43/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sanity-io/next-sanity
 
-[![Stars](https://img.shields.io/github/stars/sanity-io/next-sanity?style=flat-square&color=yellow)](https://github.com/sanity-io/next-sanity/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-io/next-sanity?style=flat-square&color=blue)](https://github.com/sanity-io/next-sanity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanity-io/next-sanity?style=flat-square&color=yellow)](https://github.com/sanity-io/next-sanity/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-io/next-sanity?style=flat-square&color=blue)](https://github.com/sanity-io/next-sanity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Sanity toolkit for Next.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 947 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sanity‑toolkit для Next.js — это набор open‑source комп
 
 ### 中文
 
-sanity-io/next-sanity：sanity-io/next-sanity may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sanity-io/next-sanity：sanity-io/next-sanity may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sanity-io/next-sanity：sanity-io/next-sanity may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ sanity-io/next-sanity：sanity-io/next-sanity may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Arvincreator/project-golem
 
-[![Stars](https://img.shields.io/github/stars/Arvincreator/project-golem?style=flat-square&color=yellow)](https://github.com/Arvincreator/project-golem/stargazers) [![Forks](https://img.shields.io/github/forks/Arvincreator/project-golem?style=flat-square&color=blue)](https://github.com/Arvincreator/project-golem/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arvincreator/project-golem?style=flat-square&color=yellow)](https://github.com/Arvincreator/project-golem/stargazers) [![Forks](https://img.shields.io/github/forks/Arvincreator/project-golem?style=flat-square&color=blue)](https://github.com/Arvincreator/project-golem/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Arvincreator’s **project‑golem** is an open‑source, OS‑level autonomous 
 
 ### 中文
 
-Arvincreator/project-golem：Arvincreator/project-golem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Arvincreator/project-golem：Arvincreator/project-golem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Arvincreator/project-golem：Arvincreator/project-golem helps turn isolated prom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Arvincreator/project-golem：Arvincreator/project-golem helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

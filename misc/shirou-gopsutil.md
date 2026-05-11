@@ -1,6 +1,6 @@
 # shirou/gopsutil
 
-[![Stars](https://img.shields.io/github/stars/shirou/gopsutil?style=flat-square&color=yellow)](https://github.com/shirou/gopsutil/stargazers) [![Forks](https://img.shields.io/github/forks/shirou/gopsutil?style=flat-square&color=blue)](https://github.com/shirou/gopsutil/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shirou/gopsutil?style=flat-square&color=yellow)](https://github.com/shirou/gopsutil/stargazers) [![Forks](https://img.shields.io/github/forks/shirou/gopsutil?style=flat-square&color=blue)](https://github.com/shirou/gopsutil/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > psutil for golang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ shirou/gopsutil is an open‑source Go library that provides cross‑platform ut
 
 ### 中文
 
-shirou/gopsutil：shirou/gopsutil may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shirou/gopsutil：shirou/gopsutil may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ shirou/gopsutil：shirou/gopsutil may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ shirou/gopsutil：shirou/gopsutil may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 78/100 |
+| production | 71/100 |
+| outlook | 71/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

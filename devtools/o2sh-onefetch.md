@@ -1,6 +1,6 @@
 # o2sh/onefetch
 
-[![Stars](https://img.shields.io/github/stars/o2sh/onefetch?style=flat-square&color=yellow)](https://github.com/o2sh/onefetch/stargazers) [![Forks](https://img.shields.io/github/forks/o2sh/onefetch?style=flat-square&color=blue)](https://github.com/o2sh/onefetch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/o2sh/onefetch?style=flat-square&color=yellow)](https://github.com/o2sh/onefetch/stargazers) [![Forks](https://img.shields.io/github/forks/o2sh/onefetch?style=flat-square&color=blue)](https://github.com/o2sh/onefetch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line Git information tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.8k |
 | 🍴 **Forks** | 306 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OneFetch — это лёгкий команд‑лайн инструмент,
 
 ### 中文
 
-o2sh/onefetch：o2sh/onefetch helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+o2sh/onefetch：o2sh/onefetch helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ o2sh/onefetch：o2sh/onefetch helps engineers save time in daily development and
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ o2sh/onefetch：o2sh/onefetch helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 80/100 |
 | stars | 87/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

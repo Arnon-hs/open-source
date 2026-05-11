@@ -1,6 +1,6 @@
 # dream-num/univer
 
-[![Stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&color=yellow)](https://github.com/dream-num/univer/stargazers) [![Forks](https://img.shields.io/github/forks/dream-num/univer?style=flat-square&color=blue)](https://github.com/dream-num/univer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dream-num/univer?style=flat-square&color=yellow)](https://github.com/dream-num/univer/stargazers) [![Forks](https://img.shields.io/github/forks/dream-num/univer?style=flat-square&color=blue)](https://github.com/dream-num/univer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer Platform, Univer Spreadsheets is driven directly through natural language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dream-num/univer：dream-num/univer helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 78/100 |
-| production | 86/100 |
-| outlook | 94/100 |
+| production | 79/100 |
+| outlook | 87/100 |
 | adoption | 84/100 |
 | stars | 87/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

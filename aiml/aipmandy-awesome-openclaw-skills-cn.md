@@ -1,6 +1,6 @@
 # AIPMAndy/awesome-openclaw-skills-CN
 
-[![Stars](https://img.shields.io/github/stars/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=yellow)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/stargazers) [![Forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=blue)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=yellow)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/stargazers) [![Forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=blue)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🇨🇳 中文开发者友好的 OpenClaw Skills 精选 | 含国产模型接入指南（DeepSeek/Qwen/GLM/Moonshot）| 2868+ Skills 分类整理
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ AIPMAndy/awesome-openclaw-skills-CN：AIPMAndy/awesome-openclaw-skills-CN helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

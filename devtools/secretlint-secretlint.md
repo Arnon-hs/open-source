@@ -1,6 +1,6 @@
 # secretlint/secretlint
 
-[![Stars](https://img.shields.io/github/stars/secretlint/secretlint?style=flat-square&color=yellow)](https://github.com/secretlint/secretlint/stargazers) [![Forks](https://img.shields.io/github/forks/secretlint/secretlint?style=flat-square&color=blue)](https://github.com/secretlint/secretlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/secretlint/secretlint?style=flat-square&color=yellow)](https://github.com/secretlint/secretlint/stargazers) [![Forks](https://img.shields.io/github/forks/secretlint/secretlint?style=flat-square&color=blue)](https://github.com/secretlint/secretlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Pluggable linting tool to prevent committing credential.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ secretlint is a pluggable linting framework designed to detect and block the acc
 
 ### 中文
 
-secretlint/secretlint：secretlint/secretlint helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+secretlint/secretlint：secretlint/secretlint helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ secretlint/secretlint：secretlint/secretlint helps engineers save time in daily
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ secretlint/secretlint：secretlint/secretlint helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 60/100 |
 | stars | 67/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

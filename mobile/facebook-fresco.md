@@ -1,6 +1,6 @@
 # facebook/fresco
 
-[![Stars](https://img.shields.io/github/stars/facebook/fresco?style=flat-square&color=yellow)](https://github.com/facebook/fresco/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/fresco?style=flat-square&color=blue)](https://github.com/facebook/fresco/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/fresco?style=flat-square&color=yellow)](https://github.com/facebook/fresco/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/fresco?style=flat-square&color=blue)](https://github.com/facebook/fresco/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An Android library for managing images and the memory they use.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.1k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ facebook/fresco：facebook/fresco may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 90/100 |
 | stars | 90/100 |
 | forks | 89/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

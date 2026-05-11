@@ -1,6 +1,6 @@
 # miantiao-me/aigc-weekly
 
-[![Stars](https://img.shields.io/github/stars/miantiao-me/aigc-weekly?style=flat-square&color=yellow)](https://github.com/miantiao-me/aigc-weekly/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/aigc-weekly?style=flat-square&color=blue)](https://github.com/miantiao-me/aigc-weekly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miantiao-me/aigc-weekly?style=flat-square&color=yellow)](https://github.com/miantiao-me/aigc-weekly/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/aigc-weekly?style=flat-square&color=blue)](https://github.com/miantiao-me/aigc-weekly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Agili 的 AIGC 周刊 - 一个由 Agentic AI Agent 驱动的 AIGC（人工智能生成内容）精选周刊。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ miantiao-me/aigc-weekly：miantiao-me/aigc-weekly helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

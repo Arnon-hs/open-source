@@ -1,6 +1,6 @@
 # idosal/git-mcp
 
-[![Stars](https://img.shields.io/github/stars/idosal/git-mcp?style=flat-square&color=yellow)](https://github.com/idosal/git-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/idosal/git-mcp?style=flat-square&color=blue)](https://github.com/idosal/git-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/idosal/git-mcp?style=flat-square&color=yellow)](https://github.com/idosal/git-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/idosal/git-mcp?style=flat-square&color=blue)](https://github.com/idosal/git-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 709 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ idosal/git-mcp：idosal/git-mcp helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 90/100 |
+| production | 76/100 |
+| outlook | 83/100 |
 | adoption | 80/100 |
 | stars | 83/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

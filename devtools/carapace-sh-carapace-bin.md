@@ -1,6 +1,6 @@
 # carapace-sh/carapace-bin
 
-[![Stars](https://img.shields.io/github/stars/carapace-sh/carapace-bin?style=flat-square&color=yellow)](https://github.com/carapace-sh/carapace-bin/stargazers) [![Forks](https://img.shields.io/github/forks/carapace-sh/carapace-bin?style=flat-square&color=blue)](https://github.com/carapace-sh/carapace-bin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carapace-sh/carapace-bin?style=flat-square&color=yellow)](https://github.com/carapace-sh/carapace-bin/stargazers) [![Forks](https://img.shields.io/github/forks/carapace-sh/carapace-bin?style=flat-square&color=blue)](https://github.com/carapace-sh/carapace-bin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-shell completion binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ carapace‑bin — это кросс‑оболочечный бинарный
 
 ### 中文
 
-carapace-sh/carapace-bin：carapace-sh/carapace-bin helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+carapace-sh/carapace-bin：carapace-sh/carapace-bin helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ carapace-sh/carapace-bin：carapace-sh/carapace-bin helps engineers save time in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ carapace-sh/carapace-bin：carapace-sh/carapace-bin helps engineers save time in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

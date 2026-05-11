@@ -1,6 +1,6 @@
 # 1mcp-app/agent
 
-[![Stars](https://img.shields.io/github/stars/1mcp-app/agent?style=flat-square&color=yellow)](https://github.com/1mcp-app/agent/stargazers) [![Forks](https://img.shields.io/github/forks/1mcp-app/agent?style=flat-square&color=blue)](https://github.com/1mcp-app/agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1mcp-app/agent?style=flat-square&color=yellow)](https://github.com/1mcp-app/agent/stargazers) [![Forks](https://img.shields.io/github/forks/1mcp-app/agent?style=flat-square&color=blue)](https://github.com/1mcp-app/agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **1mcp-app/agent** project provides a unified Model Context Protocol (MCP) s
 
 ### 中文
 
-1mcp-app/agent：1mcp-app/agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+1mcp-app/agent：1mcp-app/agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The **1mcp-app/agent** project provides a unified Model Context Protocol (MCP) s
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ The **1mcp-app/agent** project provides a unified Model Context Protocol (MCP) s
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

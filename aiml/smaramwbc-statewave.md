@@ -1,6 +1,6 @@
 # smaramwbc/statewave
 
-[![Stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=flat-square&color=yellow)](https://github.com/smaramwbc/statewave/stargazers) [![Forks](https://img.shields.io/github/forks/smaramwbc/statewave?style=flat-square&color=blue)](https://github.com/smaramwbc/statewave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smaramwbc/statewave?style=flat-square&color=yellow)](https://github.com/smaramwbc/statewave/stargazers) [![Forks](https://img.shields.io/github/forks/smaramwbc/statewave?style=flat-square&color=blue)](https://github.com/smaramwbc/statewave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Memory runtime for AI agents — durable episodes, compiled memories, ranked context retrieval. Self-hosted on Postgres + pgvector.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ smaramwbc/statewave：smaramwbc/statewave helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 68/100 |
+| outlook | 76/100 |
 | adoption | 32/100 |
 | stars | 45/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

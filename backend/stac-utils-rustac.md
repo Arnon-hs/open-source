@@ -1,6 +1,6 @@
 # stac-utils/rustac
 
-[![Stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square&color=yellow)](https://github.com/stac-utils/rustac/stargazers) [![Forks](https://img.shields.io/github/forks/stac-utils/rustac?style=flat-square&color=blue)](https://github.com/stac-utils/rustac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square&color=yellow)](https://github.com/stac-utils/rustac/stargazers) [![Forks](https://img.shields.io/github/forks/stac-utils/rustac?style=flat-square&color=blue)](https://github.com/stac-utils/rustac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The power of Rust for the STAC ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stac-utils/rustac：stac-utils/rustac helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
