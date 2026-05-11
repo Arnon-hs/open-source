@@ -1,6 +1,6 @@
 # qqqqqf-q/Arkloop
 
-[![Stars](https://img.shields.io/github/stars/qqqqqf-q/Arkloop?style=flat-square&color=yellow)](https://github.com/qqqqqf-q/Arkloop/stargazers) [![Forks](https://img.shields.io/github/forks/qqqqqf-q/Arkloop?style=flat-square&color=blue)](https://github.com/qqqqqf-q/Arkloop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qqqqqf-q/Arkloop?style=flat-square&color=yellow)](https://github.com/qqqqqf-q/Arkloop/stargazers) [![Forks](https://img.shields.io/github/forks/qqqqqf-q/Arkloop?style=flat-square&color=blue)](https://github.com/qqqqqf-q/Arkloop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Arkloop is a clean, powerful open‑source platform for building and managing AI
 
 ### 中文
 
-qqqqqf-q/Arkloop：qqqqqf-q/Arkloop helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+qqqqqf-q/Arkloop：qqqqqf-q/Arkloop helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ qqqqqf-q/Arkloop：qqqqqf-q/Arkloop helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ qqqqqf-q/Arkloop：qqqqqf-q/Arkloop helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

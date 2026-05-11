@@ -1,6 +1,6 @@
 # alirezarezvani/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&color=yellow)](https://github.com/alirezarezvani/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=flat-square&color=blue)](https://github.com/alirezarezvani/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&color=yellow)](https://github.com/alirezarezvani/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=flat-square&color=blue)](https://github.com/alirezarezvani/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alirezarezvani/claude-skills：alirezarezvani/claude-skills helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 78/100 |
-| production | 86/100 |
-| outlook | 95/100 |
+| production | 79/100 |
+| outlook | 88/100 |
 | adoption | 87/100 |
 | stars | 88/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # usewhale/whale
 
-[![Stars](https://img.shields.io/github/stars/usewhale/whale?style=flat-square&color=yellow)](https://github.com/usewhale/whale/stargazers) [![Forks](https://img.shields.io/github/forks/usewhale/whale?style=flat-square&color=blue)](https://github.com/usewhale/whale/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usewhale/whale?style=flat-square&color=yellow)](https://github.com/usewhale/whale/stargazers) [![Forks](https://img.shields.io/github/forks/usewhale/whale?style=flat-square&color=blue)](https://github.com/usewhale/whale/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ usewhale/whale is an open‑source command‑line interface that turns DeepSeek 
 
 ### 中文
 
-usewhale/whale：usewhale/whale helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+usewhale/whale：usewhale/whale helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ usewhale/whale：usewhale/whale helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ usewhale/whale：usewhale/whale helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 82/100 |
+| production | 70/100 |
+| outlook | 75/100 |
 | adoption | 26/100 |
 | stars | 32/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

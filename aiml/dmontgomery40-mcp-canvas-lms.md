@@ -1,6 +1,6 @@
 # DMontgomery40/mcp-canvas-lms
 
-[![Stars](https://img.shields.io/github/stars/DMontgomery40/mcp-canvas-lms?style=flat-square&color=yellow)](https://github.com/DMontgomery40/mcp-canvas-lms/stargazers) [![Forks](https://img.shields.io/github/forks/DMontgomery40/mcp-canvas-lms?style=flat-square&color=blue)](https://github.com/DMontgomery40/mcp-canvas-lms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DMontgomery40/mcp-canvas-lms?style=flat-square&color=yellow)](https://github.com/DMontgomery40/mcp-canvas-lms/stargazers) [![Forks](https://img.shields.io/github/forks/DMontgomery40/mcp-canvas-lms?style=flat-square&color=blue)](https://github.com/DMontgomery40/mcp-canvas-lms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Version 2.2 - 54 tools available - an MCP server for interacting with the Canvas LMS API. This server allows you to manage courses, assignments, enrollments, and grades within Canvas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DMCP‑Canvas‑LMS — это открытый сервер MCP версии�
 
 ### 中文
 
-DMontgomery40/mcp-canvas-lms：DMontgomery40/mcp-canvas-lms helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+DMontgomery40/mcp-canvas-lms：DMontgomery40/mcp-canvas-lms helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DMontgomery40/mcp-canvas-lms：DMontgomery40/mcp-canvas-lms helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DMontgomery40/mcp-canvas-lms：DMontgomery40/mcp-canvas-lms helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 42/100 |
 | stars | 42/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

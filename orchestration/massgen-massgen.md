@@ -1,6 +1,6 @@
 # massgen/MassGen
 
-[![Stars](https://img.shields.io/github/stars/massgen/MassGen?style=flat-square&color=yellow)](https://github.com/massgen/MassGen/stargazers) [![Forks](https://img.shields.io/github/forks/massgen/MassGen?style=flat-square&color=blue)](https://github.com/massgen/MassGen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/massgen/MassGen?style=flat-square&color=yellow)](https://github.com/massgen/MassGen/stargazers) [![Forks](https://img.shields.io/github/forks/massgen/MassGen?style=flat-square&color=blue)](https://github.com/massgen/MassGen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 985 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MassGen — open‑source система масштабируемой мно
 
 ### 中文
 
-massgen/MassGen：massgen/MassGen helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+massgen/MassGen：massgen/MassGen helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ massgen/MassGen：massgen/MassGen helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ massgen/MassGen：massgen/MassGen helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 88/100 |
+| production | 73/100 |
+| outlook | 81/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

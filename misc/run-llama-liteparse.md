@@ -1,6 +1,6 @@
 # run-llama/liteparse
 
-[![Stars](https://img.shields.io/github/stars/run-llama/liteparse?style=flat-square&color=yellow)](https://github.com/run-llama/liteparse/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/liteparse?style=flat-square&color=blue)](https://github.com/run-llama/liteparse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/run-llama/liteparse?style=flat-square&color=yellow)](https://github.com/run-llama/liteparse/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/liteparse?style=flat-square&color=blue)](https://github.com/run-llama/liteparse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, helpful, and open-source document parser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ run‑llama/liteparse is an open‑source, high‑performance document parser de
 
 ### 中文
 
-run-llama/liteparse：run-llama/liteparse may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+run-llama/liteparse：run-llama/liteparse may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ run-llama/liteparse：run-llama/liteparse may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ run-llama/liteparse：run-llama/liteparse may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 74/100 |
 | stars | 79/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # schmitech/orbit
 
-[![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > The self-hosted AI gateway for production RAG across LLMs, databases, APIs, and files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 261 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ schmitech/orbit：schmitech/orbit helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 94/100 |
-| production | 82/100 |
-| outlook | 87/100 |
+| production | 75/100 |
+| outlook | 80/100 |
 | adoption | 49/100 |
 | stars | 51/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

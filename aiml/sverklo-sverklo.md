@@ -1,6 +1,6 @@
 # sverklo/sverklo
 
-[![Stars](https://img.shields.io/github/stars/sverklo/sverklo?style=flat-square&color=yellow)](https://github.com/sverklo/sverklo/stargazers) [![Forks](https://img.shields.io/github/forks/sverklo/sverklo?style=flat-square&color=blue)](https://github.com/sverklo/sverklo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sverklo/sverklo?style=flat-square&color=yellow)](https://github.com/sverklo/sverklo/stargazers) [![Forks](https://img.shields.io/github/forks/sverklo/sverklo?style=flat-square&color=blue)](https://github.com/sverklo/sverklo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first code intelligence — MCP server for Claude Code, Cursor, Windsurf, Zed. Symbol graph, blast-radius, git-pinned memory. 43× fewer tokens than naive grep. MIT, zero-config.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sverklo/sverklo：sverklo/sverklo helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 30/100 |
 | stars | 34/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

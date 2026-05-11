@@ -1,6 +1,6 @@
 # szaghi/FoBiS
 
-[![Stars](https://img.shields.io/github/stars/szaghi/FoBiS?style=flat-square&color=yellow)](https://github.com/szaghi/FoBiS/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FoBiS?style=flat-square&color=blue)](https://github.com/szaghi/FoBiS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/szaghi/FoBiS?style=flat-square&color=yellow)](https://github.com/szaghi/FoBiS/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FoBiS?style=flat-square&color=blue)](https://github.com/szaghi/FoBiS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > FoBiS.py, Fortran projects Building System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FoBiS.py — это открытая система сборки Fortran‑п�
 
 ### 中文
 
-szaghi/FoBiS：szaghi/FoBiS helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+szaghi/FoBiS：szaghi/FoBiS helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ szaghi/FoBiS：szaghi/FoBiS helps ship user-facing interfaces with less custom U
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ szaghi/FoBiS：szaghi/FoBiS helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 84/100 |
+| production | 70/100 |
+| outlook | 77/100 |
 | adoption | 44/100 |
 | stars | 46/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

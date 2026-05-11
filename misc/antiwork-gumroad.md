@@ -1,6 +1,6 @@
 # antiwork/gumroad
 
-[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&color=yellow)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&color=blue)](https://github.com/antiwork/gumroad/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antiwork/gumroad?style=flat-square&color=yellow)](https://github.com/antiwork/gumroad/stargazers) [![Forks](https://img.shields.io/github/forks/antiwork/gumroad?style=flat-square&color=blue)](https://github.com/antiwork/gumroad/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Sell stuff and see what sticks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ antiwork/gumroad：antiwork/gumroad may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 67/100 |
+| outlook | 67/100 |
 | adoption | 84/100 |
 | stars | 84/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

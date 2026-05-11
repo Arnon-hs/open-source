@@ -1,6 +1,6 @@
 # n8n-io/n8n-hosting
 
-[![Stars](https://img.shields.io/github/stars/n8n-io/n8n-hosting?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n-hosting/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n-hosting?style=flat-square&color=blue)](https://github.com/n8n-io/n8n-hosting/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n8n-io/n8n-hosting?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n-hosting/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n-hosting?style=flat-square&color=blue)](https://github.com/n8n-io/n8n-hosting/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Example of self-hosting n8n in various environments like docker, kubernetes, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 789 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ n8n‑io/n8n‑hosting provides ready‑to‑use examples and step‑by‑step i
 
 ### 中文
 
-n8n-io/n8n-hosting：n8n-io/n8n-hosting helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+n8n-io/n8n-hosting：n8n-io/n8n-hosting helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ n8n-io/n8n-hosting：n8n-io/n8n-hosting helps make deployment and operations mor
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ n8n-io/n8n-hosting：n8n-io/n8n-hosting helps make deployment and operations mor
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 80/100 |
-| outlook | 71/100 |
+| production | 73/100 |
+| outlook | 64/100 |
 | adoption | 69/100 |
 | stars | 68/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # TrinityCore/TrinityCore
 
-[![Stars](https://img.shields.io/github/stars/TrinityCore/TrinityCore?style=flat-square&color=yellow)](https://github.com/TrinityCore/TrinityCore/stargazers) [![Forks](https://img.shields.io/github/forks/TrinityCore/TrinityCore?style=flat-square&color=blue)](https://github.com/TrinityCore/TrinityCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TrinityCore/TrinityCore?style=flat-square&color=yellow)](https://github.com/TrinityCore/TrinityCore/stargazers) [![Forks](https://img.shields.io/github/forks/TrinityCore/TrinityCore?style=flat-square&color=blue)](https://github.com/TrinityCore/TrinityCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > TrinityCore Open Source MMO Framework (master = 12.0.5.67314, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TrinityCore — это полностью открытый фреймворк 
 
 ### 中文
 
-TrinityCore/TrinityCore：TrinityCore/TrinityCore may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TrinityCore/TrinityCore：TrinityCore/TrinityCore may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TrinityCore/TrinityCore：TrinityCore/TrinityCore may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ TrinityCore/TrinityCore：TrinityCore/TrinityCore may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 88/100 |
 | stars | 86/100 |
 | forks | 95/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

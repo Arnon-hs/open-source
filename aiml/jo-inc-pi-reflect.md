@@ -1,6 +1,6 @@
 # jo-inc/pi-reflect
 
-[![Stars](https://img.shields.io/github/stars/jo-inc/pi-reflect?style=flat-square&color=yellow)](https://github.com/jo-inc/pi-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/pi-reflect?style=flat-square&color=blue)](https://github.com/jo-inc/pi-reflect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jo-inc/pi-reflect?style=flat-square&color=yellow)](https://github.com/jo-inc/pi-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/pi-reflect?style=flat-square&color=blue)](https://github.com/jo-inc/pi-reflect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Self-improving behavioral files for AI coding agents. Analyzes session transcripts for correction patterns and makes surgical edits to prevent recurrence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jo-inc/pi-reflect：jo-inc/pi-reflect helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 26/100 |
 | stars | 30/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

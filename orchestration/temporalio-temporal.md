@@ -1,6 +1,6 @@
 # temporalio/temporal
 
-[![Stars](https://img.shields.io/github/stars/temporalio/temporal?style=flat-square&color=yellow)](https://github.com/temporalio/temporal/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/temporal?style=flat-square&color=blue)](https://github.com/temporalio/temporal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/temporalio/temporal?style=flat-square&color=yellow)](https://github.com/temporalio/temporal/stargazers) [![Forks](https://img.shields.io/github/forks/temporalio/temporal?style=flat-square&color=blue)](https://github.com/temporalio/temporal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Temporal service
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ temporalio/temporal：temporalio/temporal helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 95/100 |
+| production | 75/100 |
+| outlook | 88/100 |
 | adoption | 88/100 |
 | stars | 92/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # dcouple/Pane
 
-[![Stars](https://img.shields.io/github/stars/dcouple/Pane?style=flat-square&color=yellow)](https://github.com/dcouple/Pane/stargazers) [![Forks](https://img.shields.io/github/forks/dcouple/Pane?style=flat-square&color=blue)](https://github.com/dcouple/Pane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcouple/Pane?style=flat-square&color=yellow)](https://github.com/dcouple/Pane/stargazers) [![Forks](https://img.shields.io/github/forks/dcouple/Pane?style=flat-square&color=blue)](https://github.com/dcouple/Pane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Pane is a Terminal-first AI agent manager. The same way Superhuman is an email client (not an email provider), Pane is an agent client (not an agent provider). You bring the agents. We make them fly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Pane is a terminal‑first client for managing AI agents, letting users orchestr
 
 ### 中文
 
-dcouple/Pane：dcouple/Pane helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+dcouple/Pane：dcouple/Pane helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dcouple/Pane：dcouple/Pane helps turn isolated prompts and tools into repeatabl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dcouple/Pane：dcouple/Pane helps turn isolated prompts and tools into repeatabl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 40/100 |
 | stars | 40/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

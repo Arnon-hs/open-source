@@ -1,6 +1,6 @@
 # pkp/pkp-lib
 
-[![Stars](https://img.shields.io/github/stars/pkp/pkp-lib?style=flat-square&color=yellow)](https://github.com/pkp/pkp-lib/stargazers) [![Forks](https://img.shields.io/github/forks/pkp/pkp-lib?style=flat-square&color=blue)](https://github.com/pkp/pkp-lib/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pkp/pkp-lib?style=flat-square&color=yellow)](https://github.com/pkp/pkp-lib/stargazers) [![Forks](https://img.shields.io/github/forks/pkp/pkp-lib?style=flat-square&color=blue)](https://github.com/pkp/pkp-lib/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The library used by PKP's applications OJS, OMP and OPS, open source software for scholarly publishing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ pkp/pkp-lib：pkp/pkp-lib may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 54/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

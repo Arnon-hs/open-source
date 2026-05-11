@@ -1,6 +1,6 @@
 # trustgraph-ai/trustgraph
 
-[![Stars](https://img.shields.io/github/stars/trustgraph-ai/trustgraph?style=flat-square&color=yellow)](https://github.com/trustgraph-ai/trustgraph/stargazers) [![Forks](https://img.shields.io/github/forks/trustgraph-ai/trustgraph?style=flat-square&color=blue)](https://github.com/trustgraph-ai/trustgraph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trustgraph-ai/trustgraph?style=flat-square&color=yellow)](https://github.com/trustgraph-ai/trustgraph/stargazers) [![Forks](https://img.shields.io/github/forks/trustgraph-ai/trustgraph?style=flat-square&color=blue)](https://github.com/trustgraph-ai/trustgraph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The agent runtime platform with context graphs, memory, retrieval, orchestration, and inference for precision-critical agent workloads.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 239 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TrustGraph — это открытая платформа‑runtime для а�
 
 ### 中文
 
-trustgraph-ai/trustgraph：trustgraph-ai/trustgraph helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+trustgraph-ai/trustgraph：trustgraph-ai/trustgraph helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ trustgraph-ai/trustgraph：trustgraph-ai/trustgraph helps turn isolated prompts 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ trustgraph-ai/trustgraph：trustgraph-ai/trustgraph helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

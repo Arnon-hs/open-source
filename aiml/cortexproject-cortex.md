@@ -1,6 +1,6 @@
 # cortexproject/cortex
 
-[![Stars](https://img.shields.io/github/stars/cortexproject/cortex?style=flat-square&color=yellow)](https://github.com/cortexproject/cortex/stargazers) [![Forks](https://img.shields.io/github/forks/cortexproject/cortex?style=flat-square&color=blue)](https://github.com/cortexproject/cortex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cortexproject/cortex?style=flat-square&color=yellow)](https://github.com/cortexproject/cortex/stargazers) [![Forks](https://img.shields.io/github/forks/cortexproject/cortex?style=flat-square&color=blue)](https://github.com/cortexproject/cortex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 858 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cortex — это открытая платформа, обеспечиваю�
 
 ### 中文
 
-cortexproject/cortex：cortexproject/cortex helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cortexproject/cortex：cortexproject/cortex helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cortexproject/cortex：cortexproject/cortex helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cortexproject/cortex：cortexproject/cortex helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 82/100 |
+| production | 74/100 |
+| outlook | 75/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

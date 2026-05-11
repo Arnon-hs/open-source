@@ -14,10 +14,10 @@
 | 4 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 64/100 |
 | 5 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 64/100 |
 | 6 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 63/100 |
-| 7 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 62/100 |
-| 8 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 60/100 |
-| 9 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 59/100 |
-| 10 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 59/100 |
+| 7 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 60/100 |
+| 8 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 59/100 |
+| 9 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 59/100 |
+| 10 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 59/100 |
 | 11 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 54/100 |
 | 12 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 52/100 |
 | 13 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 49/100 |

@@ -1,6 +1,6 @@
 # httptoolkit/httptoolkit-ui
 
-[![Stars](https://img.shields.io/github/stars/httptoolkit/httptoolkit-ui?style=flat-square&color=yellow)](https://github.com/httptoolkit/httptoolkit-ui/stargazers) [![Forks](https://img.shields.io/github/forks/httptoolkit/httptoolkit-ui?style=flat-square&color=blue)](https://github.com/httptoolkit/httptoolkit-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/httptoolkit/httptoolkit-ui?style=flat-square&color=yellow)](https://github.com/httptoolkit/httptoolkit-ui/stargazers) [![Forks](https://img.shields.io/github/forks/httptoolkit/httptoolkit-ui?style=flat-square&color=blue)](https://github.com/httptoolkit/httptoolkit-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The UI of HTTP Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ httptoolkit/httptoolkit-ui：httptoolkit/httptoolkit-ui helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

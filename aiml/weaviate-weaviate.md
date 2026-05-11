@@ -1,6 +1,6 @@
 # weaviate/weaviate
 
-[![Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=flat-square&color=yellow)](https://github.com/weaviate/weaviate/stargazers) [![Forks](https://img.shields.io/github/forks/weaviate/weaviate?style=flat-square&color=blue)](https://github.com/weaviate/weaviate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weaviate/weaviate?style=flat-square&color=yellow)](https://github.com/weaviate/weaviate/stargazers) [![Forks](https://img.shields.io/github/forks/weaviate/weaviate?style=flat-square&color=blue)](https://github.com/weaviate/weaviate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Weaviate — это открытая векторная база данных,
 
 ### 中文
 
-weaviate/weaviate：weaviate/weaviate helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+weaviate/weaviate：weaviate/weaviate helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ weaviate/weaviate：weaviate/weaviate helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ weaviate/weaviate：weaviate/weaviate helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 86/100 |
 | stars | 90/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

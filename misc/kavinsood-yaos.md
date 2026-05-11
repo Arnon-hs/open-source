@@ -1,6 +1,6 @@
 # kavinsood/yaos
 
-[![Stars](https://img.shields.io/github/stars/kavinsood/yaos?style=flat-square&color=yellow)](https://github.com/kavinsood/yaos/stargazers) [![Forks](https://img.shields.io/github/forks/kavinsood/yaos?style=flat-square&color=blue)](https://github.com/kavinsood/yaos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kavinsood/yaos?style=flat-square&color=yellow)](https://github.com/kavinsood/yaos/stargazers) [![Forks](https://img.shields.io/github/forks/kavinsood/yaos?style=flat-square&color=blue)](https://github.com/kavinsood/yaos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 563 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ kavinsood/yaos — это полностью открытый движок с�
 
 ### 中文
 
-kavinsood/yaos：kavinsood/yaos may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kavinsood/yaos：kavinsood/yaos may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kavinsood/yaos：kavinsood/yaos may be useful when its README and activity match
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ kavinsood/yaos：kavinsood/yaos may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

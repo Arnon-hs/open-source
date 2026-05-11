@@ -1,6 +1,6 @@
 # httptoolkit/httptoolkit-server
 
-[![Stars](https://img.shields.io/github/stars/httptoolkit/httptoolkit-server?style=flat-square&color=yellow)](https://github.com/httptoolkit/httptoolkit-server/stargazers) [![Forks](https://img.shields.io/github/forks/httptoolkit/httptoolkit-server?style=flat-square&color=blue)](https://github.com/httptoolkit/httptoolkit-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/httptoolkit/httptoolkit-server?style=flat-square&color=yellow)](https://github.com/httptoolkit/httptoolkit-server/stargazers) [![Forks](https://img.shields.io/github/forks/httptoolkit/httptoolkit-server?style=flat-square&color=blue)](https://github.com/httptoolkit/httptoolkit-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The backend of HTTP Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ httptoolkit/httptoolkit-server：httptoolkit/httptoolkit-server helps teams reus
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

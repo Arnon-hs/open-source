@@ -1,6 +1,6 @@
 # DeusData/codebase-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | C |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DeusData/codebase-memory-mcp — это высокопроизводитель
 
 ### 中文
 
-DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 92/100 |
+| production | 74/100 |
+| outlook | 85/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

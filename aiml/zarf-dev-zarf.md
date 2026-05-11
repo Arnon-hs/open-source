@@ -1,6 +1,6 @@
 # zarf-dev/zarf
 
-[![Stars](https://img.shields.io/github/stars/zarf-dev/zarf?style=flat-square&color=yellow)](https://github.com/zarf-dev/zarf/stargazers) [![Forks](https://img.shields.io/github/forks/zarf-dev/zarf?style=flat-square&color=blue)](https://github.com/zarf-dev/zarf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zarf-dev/zarf?style=flat-square&color=yellow)](https://github.com/zarf-dev/zarf/stargazers) [![Forks](https://img.shields.io/github/forks/zarf-dev/zarf?style=flat-square&color=blue)](https://github.com/zarf-dev/zarf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Airgap Native Package Manager for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zarf-dev/zarf：zarf-dev/zarf helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 78/100 |
-| production | 83/100 |
-| outlook | 80/100 |
+| production | 76/100 |
+| outlook | 73/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Raphire/Win11Debloat
 
-[![Stars](https://img.shields.io/github/stars/Raphire/Win11Debloat?style=flat-square&color=yellow)](https://github.com/Raphire/Win11Debloat/stargazers) [![Forks](https://img.shields.io/github/forks/Raphire/Win11Debloat?style=flat-square&color=blue)](https://github.com/Raphire/Win11Debloat/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Raphire/Win11Debloat?style=flat-square&color=yellow)](https://github.com/Raphire/Win11Debloat/stargazers) [![Forks](https://img.shields.io/github/forks/Raphire/Win11Debloat?style=flat-square&color=blue)](https://github.com/Raphire/Win11Debloat/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Raphire/Win11Debloat：Raphire/Win11Debloat helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 90/100 |
+| production | 76/100 |
+| outlook | 83/100 |
 | adoption | 94/100 |
 | stars | 99/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

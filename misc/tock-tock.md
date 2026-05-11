@@ -1,6 +1,6 @@
 # tock/tock
 
-[![Stars](https://img.shields.io/github/stars/tock/tock?style=flat-square&color=yellow)](https://github.com/tock/tock/stargazers) [![Forks](https://img.shields.io/github/forks/tock/tock?style=flat-square&color=blue)](https://github.com/tock/tock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tock/tock?style=flat-square&color=yellow)](https://github.com/tock/tock/stargazers) [![Forks](https://img.shields.io/github/forks/tock/tock?style=flat-square&color=blue)](https://github.com/tock/tock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A secure embedded operating system for microcontrollers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 827 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tock — это открытая, безопасная операционна�
 
 ### 中文
 
-tock/tock：tock/tock may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+tock/tock：tock/tock may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ tock/tock：tock/tock may be useful when its README and activity match a concret
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ tock/tock：tock/tock may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 79/100 |
 | stars | 81/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
