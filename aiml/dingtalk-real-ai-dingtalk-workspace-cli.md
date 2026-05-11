@@ -1,6 +1,6 @@
 # DingTalk-Real-AI/dingtalk-workspace-cli
 
-[![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=yellow)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/stargazers) [![Forks](https://img.shields.io/github/forks/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=blue)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=yellow)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/stargazers) [![Forks](https://img.shields.io/github/forks/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=blue)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ DingTalk-Real-AI/dingtalk-workspace-cli：DingTalk-Real-AI/dingtalk-workspace-cl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mubaidr/gem-team
 
-[![Stars](https://img.shields.io/github/stars/mubaidr/gem-team?style=flat-square&color=yellow)](https://github.com/mubaidr/gem-team/stargazers) [![Forks](https://img.shields.io/github/forks/mubaidr/gem-team?style=flat-square&color=blue)](https://github.com/mubaidr/gem-team/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mubaidr/gem-team?style=flat-square&color=yellow)](https://github.com/mubaidr/gem-team/stargazers) [![Forks](https://img.shields.io/github/forks/mubaidr/gem-team?style=flat-square&color=blue)](https://github.com/mubaidr/gem-team/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ mubaidr/gem-team：mubaidr/gem-team helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 82/100 |
+| production | 65/100 |
+| outlook | 75/100 |
 | adoption | 37/100 |
 | stars | 43/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

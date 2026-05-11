@@ -1,6 +1,6 @@
 # CronusL-1141/AI-company
 
-[![Stars](https://img.shields.io/github/stars/CronusL-1141/AI-company?style=flat-square&color=yellow)](https://github.com/CronusL-1141/AI-company/stargazers) [![Forks](https://img.shields.io/github/forks/CronusL-1141/AI-company?style=flat-square&color=blue)](https://github.com/CronusL-1141/AI-company/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CronusL-1141/AI-company?style=flat-square&color=yellow)](https://github.com/CronusL-1141/AI-company/stargazers) [![Forks](https://img.shields.io/github/forks/CronusL-1141/AI-company?style=flat-square&color=blue)](https://github.com/CronusL-1141/AI-company/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChain/AutoGen — pure CC native integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CronusL-1141/AI-company：CronusL-1141/AI-company helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 100/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 75/100 |
+| outlook | 79/100 |
 | adoption | 44/100 |
 | stars | 47/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

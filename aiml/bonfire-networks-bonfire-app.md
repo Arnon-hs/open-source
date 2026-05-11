@@ -1,6 +1,6 @@
 # bonfire-networks/bonfire-app
 
-[![Stars](https://img.shields.io/github/stars/bonfire-networks/bonfire-app?style=flat-square&color=yellow)](https://github.com/bonfire-networks/bonfire-app/stargazers) [![Forks](https://img.shields.io/github/forks/bonfire-networks/bonfire-app?style=flat-square&color=blue)](https://github.com/bonfire-networks/bonfire-app/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bonfire-networks/bonfire-app?style=flat-square&color=yellow)](https://github.com/bonfire-networks/bonfire-app/stargazers) [![Forks](https://img.shields.io/github/forks/bonfire-networks/bonfire-app?style=flat-square&color=blue)](https://github.com/bonfire-networks/bonfire-app/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bonfire-networks/bonfire-app：bonfire-networks/bonfire-app helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 84/100 |
+| production | 68/100 |
+| outlook | 77/100 |
 | adoption | 58/100 |
 | stars | 63/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

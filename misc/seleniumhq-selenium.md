@@ -1,6 +1,6 @@
 # SeleniumHQ/selenium
 
-[![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat-square&color=yellow)](https://github.com/SeleniumHQ/selenium/stargazers) [![Forks](https://img.shields.io/github/forks/SeleniumHQ/selenium?style=flat-square&color=blue)](https://github.com/SeleniumHQ/selenium/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat-square&color=yellow)](https://github.com/SeleniumHQ/selenium/stargazers) [![Forks](https://img.shields.io/github/forks/SeleniumHQ/selenium?style=flat-square&color=blue)](https://github.com/SeleniumHQ/selenium/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > A browser automation framework and ecosystem.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.1k |
 | 🍴 **Forks** | 8.7k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ SeleniumHQ/selenium：SeleniumHQ/selenium may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 99/100 |
+| quality | 94/100 |
 | integration | 46/100 |
-| production | 83/100 |
-| outlook | 94/100 |
+| production | 77/100 |
+| outlook | 87/100 |
 | adoption | 97/100 |
 | stars | 96/100 |
 | forks | 98/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

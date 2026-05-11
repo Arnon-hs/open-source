@@ -44,11 +44,11 @@
 | 34 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 60/100 |
 | 35 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 60/100 |
 | 36 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
-| 37 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 58/100 |
-| 38 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 58/100 |
-| 39 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 58/100 |
-| 40 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 56/100 |
-| 41 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 56/100 |
+| 37 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 58/100 |
+| 38 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 58/100 |
+| 39 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 56/100 |
+| 40 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 56/100 |
+| 41 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
 | 42 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
 | 43 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
 | 44 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 53/100 |

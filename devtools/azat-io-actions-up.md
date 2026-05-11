@@ -1,6 +1,6 @@
 # azat-io/actions-up
 
-[![Stars](https://img.shields.io/github/stars/azat-io/actions-up?style=flat-square&color=yellow)](https://github.com/azat-io/actions-up/stargazers) [![Forks](https://img.shields.io/github/forks/azat-io/actions-up?style=flat-square&color=blue)](https://github.com/azat-io/actions-up/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azat-io/actions-up?style=flat-square&color=yellow)](https://github.com/azat-io/actions-up/stargazers) [![Forks](https://img.shields.io/github/forks/azat-io/actions-up?style=flat-square&color=blue)](https://github.com/azat-io/actions-up/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 523 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ azat-io/actions-up is an interactive command‑line utility that scans a reposit
 
 ### 中文
 
-azat-io/actions-up：azat-io/actions-up helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+azat-io/actions-up：azat-io/actions-up helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ azat-io/actions-up：azat-io/actions-up helps engineers save time in daily devel
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ azat-io/actions-up：azat-io/actions-up helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 83/100 |
+| production | 70/100 |
+| outlook | 76/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

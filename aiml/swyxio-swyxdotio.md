@@ -1,6 +1,6 @@
 # swyxio/swyxdotio
 
-[![Stars](https://img.shields.io/github/stars/swyxio/swyxdotio?style=flat-square&color=yellow)](https://github.com/swyxio/swyxdotio/stargazers) [![Forks](https://img.shields.io/github/forks/swyxio/swyxdotio?style=flat-square&color=blue)](https://github.com/swyxio/swyxdotio/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swyxio/swyxdotio?style=flat-square&color=yellow)](https://github.com/swyxio/swyxdotio/stargazers) [![Forks](https://img.shields.io/github/forks/swyxio/swyxdotio?style=flat-square&color=blue)](https://github.com/swyxio/swyxdotio/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ swyxio/swyxdotio：swyxio/swyxdotio helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

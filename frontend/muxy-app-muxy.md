@@ -1,6 +1,6 @@
 # muxy-app/muxy
 
-[![Stars](https://img.shields.io/github/stars/muxy-app/muxy?style=flat-square&color=yellow)](https://github.com/muxy-app/muxy/stargazers) [![Forks](https://img.shields.io/github/forks/muxy-app/muxy?style=flat-square&color=blue)](https://github.com/muxy-app/muxy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muxy-app/muxy?style=flat-square&color=yellow)](https://github.com/muxy-app/muxy/stargazers) [![Forks](https://img.shields.io/github/forks/muxy-app/muxy?style=flat-square&color=blue)](https://github.com/muxy-app/muxy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ muxy-app/muxy：muxy-app/muxy helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

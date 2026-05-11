@@ -1,6 +1,6 @@
 # microsoft/ai-dev-gallery
 
-[![Stars](https://img.shields.io/github/stars/microsoft/ai-dev-gallery?style=flat-square&color=yellow)](https://github.com/microsoft/ai-dev-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ai-dev-gallery?style=flat-square&color=blue)](https://github.com/microsoft/ai-dev-gallery/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/ai-dev-gallery?style=flat-square&color=yellow)](https://github.com/microsoft/ai-dev-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ai-dev-gallery?style=flat-square&color=blue)](https://github.com/microsoft/ai-dev-gallery/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **microsoft/ai-dev-gallery** – это коллек�
 
 ### 中文
 
-microsoft/ai-dev-gallery：microsoft/ai-dev-gallery helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+microsoft/ai-dev-gallery：microsoft/ai-dev-gallery helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/ai-dev-gallery：microsoft/ai-dev-gallery helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microsoft/ai-dev-gallery：microsoft/ai-dev-gallery helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 89/100 |
+| production | 74/100 |
+| outlook | 82/100 |
 | adoption | 65/100 |
 | stars | 67/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

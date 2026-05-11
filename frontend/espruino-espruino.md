@@ -1,6 +1,6 @@
 # espruino/Espruino
 
-[![Stars](https://img.shields.io/github/stars/espruino/Espruino?style=flat-square&color=yellow)](https://github.com/espruino/Espruino/stargazers) [![Forks](https://img.shields.io/github/forks/espruino/Espruino?style=flat-square&color=blue)](https://github.com/espruino/Espruino/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espruino/Espruino?style=flat-square&color=yellow)](https://github.com/espruino/Espruino/stargazers) [![Forks](https://img.shields.io/github/forks/espruino/Espruino?style=flat-square&color=blue)](https://github.com/espruino/Espruino/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Espruino JavaScript interpreter - Official Repo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 765 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ espruino/Espruino：espruino/Espruino helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 73/100 |
 | stars | 74/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

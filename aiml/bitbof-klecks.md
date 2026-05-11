@@ -1,6 +1,6 @@
 # bitbof/klecks
 
-[![Stars](https://img.shields.io/github/stars/bitbof/klecks?style=flat-square&color=yellow)](https://github.com/bitbof/klecks/stargazers) [![Forks](https://img.shields.io/github/forks/bitbof/klecks?style=flat-square&color=blue)](https://github.com/bitbof/klecks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitbof/klecks?style=flat-square&color=yellow)](https://github.com/bitbof/klecks/stargazers) [![Forks](https://img.shields.io/github/forks/bitbof/klecks?style=flat-square&color=blue)](https://github.com/bitbof/klecks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Community-funded painting tool powering Kleki.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bitbof/klecks：bitbof/klecks helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 53/100 |
 | stars | 54/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

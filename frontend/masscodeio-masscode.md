@@ -1,6 +1,6 @@
 # massCodeIO/massCode
 
-[![Stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=flat-square&color=yellow)](https://github.com/massCodeIO/massCode/stargazers) [![Forks](https://img.shields.io/github/forks/massCodeIO/massCode?style=flat-square&color=blue)](https://github.com/massCodeIO/massCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=flat-square&color=yellow)](https://github.com/massCodeIO/massCode/stargazers) [![Forks](https://img.shields.io/github/forks/massCodeIO/massCode?style=flat-square&color=blue)](https://github.com/massCodeIO/massCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ massCodeIO/massCode：massCodeIO/massCode helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 78/100 |
-| production | 84/100 |
-| outlook | 92/100 |
+| production | 78/100 |
+| outlook | 85/100 |
 | adoption | 75/100 |
 | stars | 81/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

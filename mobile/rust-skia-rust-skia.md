@@ -1,6 +1,6 @@
 # rust-skia/rust-skia
 
-[![Stars](https://img.shields.io/github/stars/rust-skia/rust-skia?style=flat-square&color=yellow)](https://github.com/rust-skia/rust-skia/stargazers) [![Forks](https://img.shields.io/github/forks/rust-skia/rust-skia?style=flat-square&color=blue)](https://github.com/rust-skia/rust-skia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-skia/rust-skia?style=flat-square&color=yellow)](https://github.com/rust-skia/rust-skia/stargazers) [![Forks](https://img.shields.io/github/forks/rust-skia/rust-skia?style=flat-square&color=blue)](https://github.com/rust-skia/rust-skia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Bindings for the Skia Graphics Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rust‑bindings для библиотеки Skia — мощного 2D‑р�
 
 ### 中文
 
-rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and activity match a concrete workflow.。适合用于Mobile。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
