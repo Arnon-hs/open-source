@@ -1,6 +1,6 @@
 # shiwenwen/hope-agent
 
-[![Stars](https://img.shields.io/github/stars/shiwenwen/hope-agent?style=flat-square&color=yellow)](https://github.com/shiwenwen/hope-agent/stargazers) [![Forks](https://img.shields.io/github/forks/shiwenwen/hope-agent?style=flat-square&color=blue)](https://github.com/shiwenwen/hope-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shiwenwen/hope-agent?style=flat-square&color=yellow)](https://github.com/shiwenwen/hope-agent/stargazers) [![Forks](https://img.shields.io/github/forks/shiwenwen/hope-agent?style=flat-square&color=blue)](https://github.com/shiwenwen/hope-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 会记忆、能成长的随身 AI 助手 · 桌面 / 云端 / IM 随叫随到，手机远程也能连 | Personal AI that remembers and grows — lives on desktop, self-hosted server and every IM, reachable anywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hope‑Agent is an open‑source, self‑hosted personal AI assistant that can r
 
 ### 中文
 
-shiwenwen/hope-agent：shiwenwen/hope-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shiwenwen/hope-agent：shiwenwen/hope-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shiwenwen/hope-agent：shiwenwen/hope-agent helps add AI capability without star
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shiwenwen/hope-agent：shiwenwen/hope-agent helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 86/100 |
+| production | 69/100 |
+| outlook | 79/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

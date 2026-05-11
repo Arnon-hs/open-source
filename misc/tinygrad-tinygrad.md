@@ -1,6 +1,6 @@
 # tinygrad/tinygrad
 
-[![Stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=flat-square&color=yellow)](https://github.com/tinygrad/tinygrad/stargazers) [![Forks](https://img.shields.io/github/forks/tinygrad/tinygrad?style=flat-square&color=blue)](https://github.com/tinygrad/tinygrad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=flat-square&color=yellow)](https://github.com/tinygrad/tinygrad/stargazers) [![Forks](https://img.shields.io/github/forks/tinygrad/tinygrad?style=flat-square&color=blue)](https://github.com/tinygrad/tinygrad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > You like pytorch? You like micrograd? You love tinygrad! ❤️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.6k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tinygrad — это минималистичный open‑source‑фрейм�
 
 ### 中文
 
-tinygrad/tinygrad：tinygrad/tinygrad may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+tinygrad/tinygrad：tinygrad/tinygrad may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ tinygrad/tinygrad：tinygrad/tinygrad may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ tinygrad/tinygrad：tinygrad/tinygrad may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 71/100 |
+| outlook | 70/100 |
 | adoption | 94/100 |
 | stars | 96/100 |
 | forks | 90/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

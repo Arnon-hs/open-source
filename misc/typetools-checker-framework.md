@@ -1,6 +1,6 @@
 # typetools/checker-framework
 
-[![Stars](https://img.shields.io/github/stars/typetools/checker-framework?style=flat-square&color=yellow)](https://github.com/typetools/checker-framework/stargazers) [![Forks](https://img.shields.io/github/forks/typetools/checker-framework?style=flat-square&color=blue)](https://github.com/typetools/checker-framework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typetools/checker-framework?style=flat-square&color=yellow)](https://github.com/typetools/checker-framework/stargazers) [![Forks](https://img.shields.io/github/forks/typetools/checker-framework?style=flat-square&color=blue)](https://github.com/typetools/checker-framework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Pluggable type-checking for Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ typetools/checker-framework：typetools/checker-framework may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 66/100 |
+| outlook | 73/100 |
 | adoption | 65/100 |
 | stars | 65/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

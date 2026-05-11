@@ -1,6 +1,6 @@
 # gristlabs/grist-core
 
-[![Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=flat-square&color=yellow)](https://github.com/gristlabs/grist-core/stargazers) [![Forks](https://img.shields.io/github/forks/gristlabs/grist-core?style=flat-square&color=blue)](https://github.com/gristlabs/grist-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=flat-square&color=yellow)](https://github.com/gristlabs/grist-core/stargazers) [![Forks](https://img.shields.io/github/forks/gristlabs/grist-core?style=flat-square&color=blue)](https://github.com/gristlabs/grist-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Grist is the evolution of spreadsheets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 570 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Grist — это современная платформа, совмещающ
 
 ### 中文
 
-gristlabs/grist-core：gristlabs/grist-core helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gristlabs/grist-core：gristlabs/grist-core helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gristlabs/grist-core：gristlabs/grist-core helps convert raw data into searchab
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gristlabs/grist-core：gristlabs/grist-core helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 71/100 |
+| outlook | 70/100 |
 | adoption | 81/100 |
 | stars | 86/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

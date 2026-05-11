@@ -1,6 +1,6 @@
 # NVIDIA/spark-rapids
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/spark-rapids?style=flat-square&color=yellow)](https://github.com/NVIDIA/spark-rapids/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/spark-rapids?style=flat-square&color=blue)](https://github.com/NVIDIA/spark-rapids/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/spark-rapids?style=flat-square&color=yellow)](https://github.com/NVIDIA/spark-rapids/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/spark-rapids?style=flat-square&color=blue)](https://github.com/NVIDIA/spark-rapids/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Spark RAPIDS plugin - accelerate Apache Spark with GPUs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 975 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **NVIDIA/spark-rapids** представляет пл
 
 ### 中文
 
-NVIDIA/spark-rapids：NVIDIA/spark-rapids helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+NVIDIA/spark-rapids：NVIDIA/spark-rapids helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NVIDIA/spark-rapids：NVIDIA/spark-rapids helps teams reuse service infrastructu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ NVIDIA/spark-rapids：NVIDIA/spark-rapids helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 77/100 |
+| production | 71/100 |
+| outlook | 70/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

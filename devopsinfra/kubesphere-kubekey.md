@@ -1,6 +1,6 @@
 # kubesphere/kubekey
 
-[![Stars](https://img.shields.io/github/stars/kubesphere/kubekey?style=flat-square&color=yellow)](https://github.com/kubesphere/kubekey/stargazers) [![Forks](https://img.shields.io/github/forks/kubesphere/kubekey?style=flat-square&color=blue)](https://github.com/kubesphere/kubekey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubesphere/kubekey?style=flat-square&color=yellow)](https://github.com/kubesphere/kubekey/stargazers) [![Forks](https://img.shields.io/github/forks/kubesphere/kubekey?style=flat-square&color=blue)](https://github.com/kubesphere/kubekey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Install Kubernetes/K3s, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 820 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ KubeKey — это открытый инструмент для автомат
 
 ### 中文
 
-kubesphere/kubekey：kubesphere/kubekey helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kubesphere/kubekey：kubesphere/kubekey helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kubesphere/kubekey：kubesphere/kubekey helps make deployment and operations mor
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kubesphere/kubekey：kubesphere/kubekey helps make deployment and operations mor
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 81/100 |
-| outlook | 80/100 |
+| production | 74/100 |
+| outlook | 73/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

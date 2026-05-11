@@ -1,6 +1,6 @@
 # blacklanternsecurity/bbot
 
-[![Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=flat-square&color=yellow)](https://github.com/blacklanternsecurity/bbot/stargazers) [![Forks](https://img.shields.io/github/forks/blacklanternsecurity/bbot?style=flat-square&color=blue)](https://github.com/blacklanternsecurity/bbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=flat-square&color=yellow)](https://github.com/blacklanternsecurity/bbot/stargazers) [![Forks](https://img.shields.io/github/forks/blacklanternsecurity/bbot?style=flat-square&color=blue)](https://github.com/blacklanternsecurity/bbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > The recursive internet scanner for hackers. 🧡
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 803 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ blacklanternsecurity/bbot：blacklanternsecurity/bbot helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 93/100 |
+| production | 76/100 |
+| outlook | 86/100 |
 | adoption | 81/100 |
 | stars | 85/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

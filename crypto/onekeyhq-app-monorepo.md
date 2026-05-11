@@ -1,6 +1,6 @@
 # OneKeyHQ/app-monorepo
 
-[![Stars](https://img.shields.io/github/stars/OneKeyHQ/app-monorepo?style=flat-square&color=yellow)](https://github.com/OneKeyHQ/app-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/OneKeyHQ/app-monorepo?style=flat-square&color=blue)](https://github.com/OneKeyHQ/app-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OneKeyHQ/app-monorepo?style=flat-square&color=yellow)](https://github.com/OneKeyHQ/app-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/OneKeyHQ/app-monorepo?style=flat-square&color=blue)](https://github.com/OneKeyHQ/app-monorepo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 506 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OneKeyHQ/app‑monorepo — это полностью открытый, без
 
 ### 中文
 
-OneKeyHQ/app-monorepo：OneKeyHQ/app-monorepo helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+OneKeyHQ/app-monorepo：OneKeyHQ/app-monorepo helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OneKeyHQ/app-monorepo：OneKeyHQ/app-monorepo helps prototype or inspect blockch
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OneKeyHQ/app-monorepo：OneKeyHQ/app-monorepo helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 71/100 |
 | stars | 72/100 |
 | forks | 68/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

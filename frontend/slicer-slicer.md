@@ -1,6 +1,6 @@
 # Slicer/Slicer
 
-[![Stars](https://img.shields.io/github/stars/Slicer/Slicer?style=flat-square&color=yellow)](https://github.com/Slicer/Slicer/stargazers) [![Forks](https://img.shields.io/github/forks/Slicer/Slicer?style=flat-square&color=blue)](https://github.com/Slicer/Slicer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Slicer/Slicer?style=flat-square&color=yellow)](https://github.com/Slicer/Slicer/stargazers) [![Forks](https://img.shields.io/github/forks/Slicer/Slicer?style=flat-square&color=blue)](https://github.com/Slicer/Slicer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-platform, free open source software for visualization and image computing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 724 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Slicer (Slicer/Slicer) — кроссплатформенное бесплат
 
 ### 中文
 
-Slicer/Slicer：Slicer/Slicer helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Slicer/Slicer：Slicer/Slicer helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Slicer/Slicer：Slicer/Slicer helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Slicer/Slicer：Slicer/Slicer helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 81/100 |
+| production | 72/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

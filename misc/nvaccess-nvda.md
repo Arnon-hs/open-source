@@ -1,6 +1,6 @@
 # nvaccess/nvda
 
-[![Stars](https://img.shields.io/github/stars/nvaccess/nvda?style=flat-square&color=yellow)](https://github.com/nvaccess/nvda/stargazers) [![Forks](https://img.shields.io/github/forks/nvaccess/nvda?style=flat-square&color=blue)](https://github.com/nvaccess/nvda/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nvaccess/nvda?style=flat-square&color=yellow)](https://github.com/nvaccess/nvda/stargazers) [![Forks](https://img.shields.io/github/forks/nvaccess/nvda?style=flat-square&color=blue)](https://github.com/nvaccess/nvda/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > NVDA, the free and open source Screen Reader for Microsoft Windows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 770 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NVDA — это бесплатный и открытый скрин‑риде
 
 ### 中文
 
-nvaccess/nvda：nvaccess/nvda may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nvaccess/nvda：nvaccess/nvda may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ nvaccess/nvda：nvaccess/nvda may be useful when its README and activity match a
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ nvaccess/nvda：nvaccess/nvda may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 75/100 |
+| production | 69/100 |
+| outlook | 68/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

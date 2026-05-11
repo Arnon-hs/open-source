@@ -1,6 +1,6 @@
 # microsoft/HydraLab
 
-[![Stars](https://img.shields.io/github/stars/microsoft/HydraLab?style=flat-square&color=yellow)](https://github.com/microsoft/HydraLab/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/HydraLab?style=flat-square&color=blue)](https://github.com/microsoft/HydraLab/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/HydraLab?style=flat-square&color=yellow)](https://github.com/microsoft/HydraLab/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/HydraLab?style=flat-square&color=blue)](https://github.com/microsoft/HydraLab/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Intelligent cloud testing made easy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/HydraLab：microsoft/HydraLab helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 88/100 |
+| production | 68/100 |
+| outlook | 81/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

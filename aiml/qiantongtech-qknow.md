@@ -1,6 +1,6 @@
 # qiantongtech/qKnow
 
-[![Stars](https://img.shields.io/github/stars/qiantongtech/qKnow?style=flat-square&color=yellow)](https://github.com/qiantongtech/qKnow/stargazers) [![Forks](https://img.shields.io/github/forks/qiantongtech/qKnow?style=flat-square&color=blue)](https://github.com/qiantongtech/qKnow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiantongtech/qKnow?style=flat-square&color=yellow)](https://github.com/qiantongtech/qKnow/stargazers) [![Forks](https://img.shields.io/github/forks/qiantongtech/qKnow?style=flat-square&color=blue)](https://github.com/qiantongtech/qKnow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > qKnow is an open-source knowledge platform built around Knowledge Graphs, offering capabilities for knowledge extraction, knowledge fusion, graph construction, and visualization. It helps enterprises and organizations build structured, queryable, and inferable knowledge systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ qiantongtech/qKnow：qiantongtech/qKnow helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

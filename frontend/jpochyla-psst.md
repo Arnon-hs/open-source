@@ -1,6 +1,6 @@
 # jpochyla/psst
 
-[![Stars](https://img.shields.io/github/stars/jpochyla/psst?style=flat-square&color=yellow)](https://github.com/jpochyla/psst/stargazers) [![Forks](https://img.shields.io/github/forks/jpochyla/psst?style=flat-square&color=blue)](https://github.com/jpochyla/psst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jpochyla/psst?style=flat-square&color=yellow)](https://github.com/jpochyla/psst/stargazers) [![Forks](https://img.shields.io/github/forks/jpochyla/psst?style=flat-square&color=blue)](https://github.com/jpochyla/psst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and multi-platform Spotify client with native GUI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ jpochyla/psst：jpochyla/psst helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 76/100 |
+| production | 68/100 |
+| outlook | 69/100 |
 | adoption | 78/100 |
 | stars | 85/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

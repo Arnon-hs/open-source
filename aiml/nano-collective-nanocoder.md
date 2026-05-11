@@ -1,6 +1,6 @@
 # Nano-Collective/nanocoder
 
-[![Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&color=yellow)](https://github.com/Nano-Collective/nanocoder/stargazers) [![Forks](https://img.shields.io/github/forks/Nano-Collective/nanocoder?style=flat-square&color=blue)](https://github.com/Nano-Collective/nanocoder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&color=yellow)](https://github.com/Nano-Collective/nanocoder/stargazers) [![Forks](https://img.shields.io/github/forks/Nano-Collective/nanocoder?style=flat-square&color=blue)](https://github.com/Nano-Collective/nanocoder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Nano-Collective/nanocoder — это локальный кодинговый �
 
 ### 中文
 
-Nano-Collective/nanocoder：Nano-Collective/nanocoder helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Nano-Collective/nanocoder：Nano-Collective/nanocoder helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Nano-Collective/nanocoder：Nano-Collective/nanocoder helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Nano-Collective/nanocoder：Nano-Collective/nanocoder helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

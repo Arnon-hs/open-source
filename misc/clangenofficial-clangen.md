@@ -1,6 +1,6 @@
 # ClanGenOfficial/clangen
 
-[![Stars](https://img.shields.io/github/stars/ClanGenOfficial/clangen?style=flat-square&color=yellow)](https://github.com/ClanGenOfficial/clangen/stargazers) [![Forks](https://img.shields.io/github/forks/ClanGenOfficial/clangen?style=flat-square&color=blue)](https://github.com/ClanGenOfficial/clangen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClanGenOfficial/clangen?style=flat-square&color=yellow)](https://github.com/ClanGenOfficial/clangen/stargazers) [![Forks](https://img.shields.io/github/forks/ClanGenOfficial/clangen?style=flat-square&color=blue)](https://github.com/ClanGenOfficial/clangen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Warrior Cats fan game
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 369 |
 | 🍴 **Forks** | 702 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ ClanGenOfficial/clangen：ClanGenOfficial/clangen may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 68/100 |
+| production | 65/100 |
+| outlook | 61/100 |
 | adoption | 59/100 |
 | stars | 55/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

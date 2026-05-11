@@ -1,6 +1,6 @@
 # Splode/pomotroid
 
-[![Stars](https://img.shields.io/github/stars/Splode/pomotroid?style=flat-square&color=yellow)](https://github.com/Splode/pomotroid/stargazers) [![Forks](https://img.shields.io/github/forks/Splode/pomotroid?style=flat-square&color=blue)](https://github.com/Splode/pomotroid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Splode/pomotroid?style=flat-square&color=yellow)](https://github.com/Splode/pomotroid/stargazers) [![Forks](https://img.shields.io/github/forks/Splode/pomotroid?style=flat-square&color=blue)](https://github.com/Splode/pomotroid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > :tomato: Simple and visually-pleasing Pomodoro timer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Splode/pomotroid — простой, но стильный Pomodoro‑тайм
 
 ### 中文
 
-Splode/pomotroid：Splode/pomotroid may be useful when its README and activity match a concrete workflow.。适合用于Product。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Splode/pomotroid：Splode/pomotroid may be useful when its README and activity match a concrete workflow.。适合用于Product。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Splode/pomotroid：Splode/pomotroid may be useful when its README and activity m
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Splode/pomotroid：Splode/pomotroid may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

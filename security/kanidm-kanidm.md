@@ -1,6 +1,6 @@
 # kanidm/kanidm
 
-[![Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=flat-square&color=yellow)](https://github.com/kanidm/kanidm/stargazers) [![Forks](https://img.shields.io/github/forks/kanidm/kanidm?style=flat-square&color=blue)](https://github.com/kanidm/kanidm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=flat-square&color=yellow)](https://github.com/kanidm/kanidm/stargazers) [![Forks](https://img.shields.io/github/forks/kanidm/kanidm?style=flat-square&color=blue)](https://github.com/kanidm/kanidm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Kanidm: A simple, secure, and fast identity management platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 321 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kanidm — это открытая платформа управления и�
 
 ### 中文
 
-kanidm/kanidm：kanidm/kanidm helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+kanidm/kanidm：kanidm/kanidm helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kanidm/kanidm：kanidm/kanidm helps catch security and privacy issues earlier in
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kanidm/kanidm：kanidm/kanidm helps catch security and privacy issues earlier in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 74/100 |
 | stars | 79/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

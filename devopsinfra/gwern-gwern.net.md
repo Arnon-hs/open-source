@@ -1,6 +1,6 @@
 # gwern/gwern.net
 
-[![Stars](https://img.shields.io/github/stars/gwern/gwern.net?style=flat-square&color=yellow)](https://github.com/gwern/gwern.net/stargazers) [![Forks](https://img.shields.io/github/forks/gwern/gwern.net?style=flat-square&color=blue)](https://github.com/gwern/gwern.net/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gwern/gwern.net?style=flat-square&color=yellow)](https://github.com/gwern/gwern.net/stargazers) [![Forks](https://img.shields.io/github/forks/gwern/gwern.net?style=flat-square&color=blue)](https://github.com/gwern/gwern.net/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gwern/gwern.net：gwern/gwern.net helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

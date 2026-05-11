@@ -1,6 +1,6 @@
 # flutter/devtools
 
-[![Stars](https://img.shields.io/github/stars/flutter/devtools?style=flat-square&color=yellow)](https://github.com/flutter/devtools/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/devtools?style=flat-square&color=blue)](https://github.com/flutter/devtools/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/devtools?style=flat-square&color=yellow)](https://github.com/flutter/devtools/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/devtools?style=flat-square&color=blue)](https://github.com/flutter/devtools/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Developer tools for Flutter & Dart
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 392 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ flutter/devtools：flutter/devtools helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 68/100 |
 | stars | 69/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

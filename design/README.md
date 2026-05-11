@@ -24,8 +24,8 @@
 | 14 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 57/100 |
 | 15 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 57/100 |
 | 16 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 57/100 |
-| 17 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 56/100 |
-| 18 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 54/100 |
+| 17 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 54/100 |
+| 18 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 53/100 |
 | 19 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
 | 20 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 41/100 |
 
