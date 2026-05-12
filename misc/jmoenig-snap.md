@@ -1,6 +1,6 @@
 # jmoenig/Snap
 
-[![Stars](https://img.shields.io/github/stars/jmoenig/Snap?style=flat-square&color=yellow)](https://github.com/jmoenig/Snap/stargazers) [![Forks](https://img.shields.io/github/forks/jmoenig/Snap?style=flat-square&color=blue)](https://github.com/jmoenig/Snap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmoenig/Snap?style=flat-square&color=yellow)](https://github.com/jmoenig/Snap/stargazers) [![Forks](https://img.shields.io/github/forks/jmoenig/Snap?style=flat-square&color=blue)](https://github.com/jmoenig/Snap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > a visual programming language inspired by Scratch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 804 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Snap — это открытая визуальная среда програ�
 
 ### 中文
 
-jmoenig/Snap：jmoenig/Snap may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jmoenig/Snap：jmoenig/Snap may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ jmoenig/Snap：jmoenig/Snap may be useful when its README and activity match a c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ jmoenig/Snap：jmoenig/Snap may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 69/100 |
 | stars | 68/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

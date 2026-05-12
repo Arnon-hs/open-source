@@ -1,6 +1,6 @@
 # zilliztech/memsearch
 
-[![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&color=yellow)](https://github.com/zilliztech/memsearch/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/memsearch?style=flat-square&color=blue)](https://github.com/zilliztech/memsearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=flat-square&color=yellow)](https://github.com/zilliztech/memsearch/stargazers) [![Forks](https://img.shields.io/github/forks/zilliztech/memsearch?style=flat-square&color=blue)](https://github.com/zilliztech/memsearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zilliztech/memsearch：zilliztech/memsearch helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 82/100 |
-| outlook | 89/100 |
+| production | 76/100 |
+| outlook | 82/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

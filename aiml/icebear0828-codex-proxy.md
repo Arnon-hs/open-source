@@ -1,6 +1,6 @@
 # icebear0828/codex-proxy
 
-[![Stars](https://img.shields.io/github/stars/icebear0828/codex-proxy?style=flat-square&color=yellow)](https://github.com/icebear0828/codex-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/icebear0828/codex-proxy?style=flat-square&color=blue)](https://github.com/icebear0828/codex-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icebear0828/codex-proxy?style=flat-square&color=yellow)](https://github.com/icebear0828/codex-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/icebear0828/codex-proxy?style=flat-square&color=blue)](https://github.com/icebear0828/codex-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI-compatible proxy for ChatGPT Codex Responses API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 945 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ icebear0828/codex-proxy：icebear0828/codex-proxy helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 67/100 |
+| outlook | 65/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

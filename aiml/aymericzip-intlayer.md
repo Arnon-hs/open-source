@@ -1,6 +1,6 @@
 # aymericzip/intlayer
 
-[![Stars](https://img.shields.io/github/stars/aymericzip/intlayer?style=flat-square&color=yellow)](https://github.com/aymericzip/intlayer/stargazers) [![Forks](https://img.shields.io/github/forks/aymericzip/intlayer?style=flat-square&color=blue)](https://github.com/aymericzip/intlayer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aymericzip/intlayer?style=flat-square&color=yellow)](https://github.com/aymericzip/intlayer/stargazers) [![Forks](https://img.shields.io/github/forks/aymericzip/intlayer?style=flat-square&color=blue)](https://github.com/aymericzip/intlayer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Intlayer is an open‑source, per‑component internationalisation library for J
 
 ### 中文
 
-aymericzip/intlayer：aymericzip/intlayer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+aymericzip/intlayer：aymericzip/intlayer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aymericzip/intlayer：aymericzip/intlayer helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aymericzip/intlayer：aymericzip/intlayer helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 70/100 |
+| outlook | 71/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

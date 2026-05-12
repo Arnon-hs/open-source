@@ -1,6 +1,6 @@
 # layou233/NeverIdle
 
-[![Stars](https://img.shields.io/github/stars/layou233/NeverIdle?style=flat-square&color=yellow)](https://github.com/layou233/NeverIdle/stargazers) [![Forks](https://img.shields.io/github/forks/layou233/NeverIdle?style=flat-square&color=blue)](https://github.com/layou233/NeverIdle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/layou233/NeverIdle?style=flat-square&color=yellow)](https://github.com/layou233/NeverIdle/stargazers) [![Forks](https://img.shields.io/github/forks/layou233/NeverIdle?style=flat-square&color=blue)](https://github.com/layou233/NeverIdle/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 资源定期浪费，可用于 Oracle 甲骨文保活。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 928 |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ layou233/NeverIdle：layou233/NeverIdle helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 67/100 |
+| outlook | 64/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

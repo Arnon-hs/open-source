@@ -1,6 +1,6 @@
 # benjaminshoemaker/ai_coding_project_base
 
-[![Stars](https://img.shields.io/github/stars/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=yellow)](https://github.com/benjaminshoemaker/ai_coding_project_base/stargazers) [![Forks](https://img.shields.io/github/forks/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=blue)](https://github.com/benjaminshoemaker/ai_coding_project_base/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=yellow)](https://github.com/benjaminshoemaker/ai_coding_project_base/stargazers) [![Forks](https://img.shields.io/github/forks/benjaminshoemaker/ai_coding_project_base?style=flat-square&color=blue)](https://github.com/benjaminshoemaker/ai_coding_project_base/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A structured prompt framework for building software products with AI coding assistants. This toolkit guides you through product specification, technical design, and implementation planning—producing documents that AI agents can execute against.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ benjaminshoemaker/ai_coding_project_base：benjaminshoemaker/ai_coding_project_b
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 71/100 |
+| production | 58/100 |
+| outlook | 64/100 |
 | adoption | 30/100 |
 | stars | 35/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

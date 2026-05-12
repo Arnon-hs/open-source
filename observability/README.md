@@ -2,7 +2,7 @@
 
 > 
 
-**8 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -12,10 +12,11 @@
 | 2 | [elesiuta/picosnitch](./elesiuta-picosnitch.md) | ⭐ 953 | Python | 66/100 |
 | 3 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 470 | TypeScript | 65/100 |
 | 4 | [istio/proxy](./istio-proxy.md) | ⭐ 891 | C++ | 64/100 |
-| 5 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
-| 6 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
-| 7 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
-| 8 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 5 | [ElYusubov/AWESOME-Azure-Bicep](./elyusubov-awesome-azure-bicep.md) | ⭐ 424 | — | 63/100 |
+| 6 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
+| 7 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
+| 8 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
+| 9 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # microsoft/inshellisense
 
-[![Stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=flat-square&color=yellow)](https://github.com/microsoft/inshellisense/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/inshellisense?style=flat-square&color=blue)](https://github.com/microsoft/inshellisense/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/inshellisense?style=flat-square&color=yellow)](https://github.com/microsoft/inshellisense/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/inshellisense?style=flat-square&color=blue)](https://github.com/microsoft/inshellisense/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > IDE style command line auto complete
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/inshellisense：microsoft/inshellisense helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 76/100 |
+| outlook | 79/100 |
 | adoption | 78/100 |
 | stars | 85/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

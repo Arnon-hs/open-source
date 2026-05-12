@@ -1,6 +1,6 @@
 # nextcloud/appstore
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/appstore?style=flat-square&color=yellow)](https://github.com/nextcloud/appstore/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/appstore?style=flat-square&color=blue)](https://github.com/nextcloud/appstore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/appstore?style=flat-square&color=yellow)](https://github.com/nextcloud/appstore/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/appstore?style=flat-square&color=blue)](https://github.com/nextcloud/appstore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > :convenience_store: App Store for Nextcloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **nextcloud/appstore** repository provides the official App Store for Nextcl
 
 ### 中文
 
-nextcloud/appstore：nextcloud/appstore may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+nextcloud/appstore：nextcloud/appstore may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ nextcloud/appstore：nextcloud/appstore may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ nextcloud/appstore：nextcloud/appstore may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 76/100 |
+| production | 74/100 |
+| outlook | 69/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # vesaaa/vstv
 
-[![Stars](https://img.shields.io/github/stars/vesaaa/vstv?style=flat-square&color=yellow)](https://github.com/vesaaa/vstv/stargazers) [![Forks](https://img.shields.io/github/forks/vesaaa/vstv?style=flat-square&color=blue)](https://github.com/vesaaa/vstv/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vesaaa/vstv?style=flat-square&color=yellow)](https://github.com/vesaaa/vstv/stargazers) [![Forks](https://img.shields.io/github/forks/vesaaa/vstv?style=flat-square&color=blue)](https://github.com/vesaaa/vstv/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 331 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ vesaaa/vstv：vesaaa/vstv may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

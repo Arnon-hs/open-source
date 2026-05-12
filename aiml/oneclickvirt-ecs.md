@@ -1,6 +1,6 @@
 # oneclickvirt/ecs
 
-[![Stars](https://img.shields.io/github/stars/oneclickvirt/ecs?style=flat-square&color=yellow)](https://github.com/oneclickvirt/ecs/stargazers) [![Forks](https://img.shields.io/github/forks/oneclickvirt/ecs?style=flat-square&color=blue)](https://github.com/oneclickvirt/ecs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oneclickvirt/ecs?style=flat-square&color=yellow)](https://github.com/oneclickvirt/ecs/stargazers) [![Forks](https://img.shields.io/github/forks/oneclickvirt/ecs?style=flat-square&color=blue)](https://github.com/oneclickvirt/ecs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ oneclickvirt/ecs：oneclickvirt/ecs helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 78/100 |
-| production | 83/100 |
-| outlook | 83/100 |
+| production | 76/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # PiSugar/pisugar-power-manager-rs
 
-[![Stars](https://img.shields.io/github/stars/PiSugar/pisugar-power-manager-rs?style=flat-square&color=yellow)](https://github.com/PiSugar/pisugar-power-manager-rs/stargazers) [![Forks](https://img.shields.io/github/forks/PiSugar/pisugar-power-manager-rs?style=flat-square&color=blue)](https://github.com/PiSugar/pisugar-power-manager-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PiSugar/pisugar-power-manager-rs?style=flat-square&color=yellow)](https://github.com/PiSugar/pisugar-power-manager-rs/stargazers) [![Forks](https://img.shields.io/github/forks/PiSugar/pisugar-power-manager-rs?style=flat-square&color=blue)](https://github.com/PiSugar/pisugar-power-manager-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PiSugar Power Manger in rust language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ PiSugar/pisugar-power-manager-rs：PiSugar/pisugar-power-manager-rs may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

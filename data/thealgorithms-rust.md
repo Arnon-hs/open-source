@@ -1,6 +1,6 @@
 # TheAlgorithms/Rust
 
-[![Stars](https://img.shields.io/github/stars/TheAlgorithms/Rust?style=flat-square&color=yellow)](https://github.com/TheAlgorithms/Rust/stargazers) [![Forks](https://img.shields.io/github/forks/TheAlgorithms/Rust?style=flat-square&color=blue)](https://github.com/TheAlgorithms/Rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheAlgorithms/Rust?style=flat-square&color=yellow)](https://github.com/TheAlgorithms/Rust/stargazers) [![Forks](https://img.shields.io/github/forks/TheAlgorithms/Rust?style=flat-square&color=blue)](https://github.com/TheAlgorithms/Rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > All Algorithms implemented in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.7k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TheAlgorithms/Rust — это открытый репозиторий, в ко
 
 ### 中文
 
-TheAlgorithms/Rust：TheAlgorithms/Rust helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TheAlgorithms/Rust：TheAlgorithms/Rust helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ TheAlgorithms/Rust：TheAlgorithms/Rust helps convert raw data into searchable, 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ TheAlgorithms/Rust：TheAlgorithms/Rust helps convert raw data into searchable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 91/100 |
 | stars | 94/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

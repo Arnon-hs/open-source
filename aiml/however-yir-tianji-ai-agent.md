@@ -1,6 +1,6 @@
 # however-yir/tianji-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/however-yir/tianji-ai-agent?style=flat-square&color=yellow)](https://github.com/however-yir/tianji-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/however-yir/tianji-ai-agent?style=flat-square&color=blue)](https://github.com/however-yir/tianji-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/however-yir/tianji-ai-agent?style=flat-square&color=yellow)](https://github.com/however-yir/tianji-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/however-yir/tianji-ai-agent?style=flat-square&color=blue)](https://github.com/however-yir/tianji-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Spring AI agent engineering project with Java, MCP, RAG, tool calling, multimodal workflows, and UI prototypes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ however-yir/tianji-ai-agent：however-yir/tianji-ai-agent helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 82/100 |
+| production | 65/100 |
+| outlook | 75/100 |
 | adoption | 27/100 |
 | stars | 34/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

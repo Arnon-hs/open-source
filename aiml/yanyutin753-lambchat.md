@@ -1,6 +1,6 @@
 # Yanyutin753/LambChat
 
-[![Stars](https://img.shields.io/github/stars/Yanyutin753/LambChat?style=flat-square&color=yellow)](https://github.com/Yanyutin753/LambChat/stargazers) [![Forks](https://img.shields.io/github/forks/Yanyutin753/LambChat?style=flat-square&color=blue)](https://github.com/Yanyutin753/LambChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yanyutin753/LambChat?style=flat-square&color=yellow)](https://github.com/Yanyutin753/LambChat/stargazers) [![Forks](https://img.shields.io/github/forks/Yanyutin753/LambChat?style=flat-square&color=blue)](https://github.com/Yanyutin753/LambChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation. SSE real-time streaming, multi-modal document intelligence, JWT/RBAC enterprise security, and GitHub-connected Skill marketplace.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Yanyutin753/LambChat：Yanyutin753/LambChat helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

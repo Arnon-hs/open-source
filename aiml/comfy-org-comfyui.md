@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI
 
-[![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&color=yellow)](https://github.com/Comfy-Org/ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/ComfyUI?style=flat-square&color=blue)](https://github.com/Comfy-Org/ComfyUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&color=yellow)](https://github.com/Comfy-Org/ComfyUI/stargazers) [![Forks](https://img.shields.io/github/forks/Comfy-Org/ComfyUI?style=flat-square&color=blue)](https://github.com/Comfy-Org/ComfyUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112k |
 | 🍴 **Forks** | 13.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Comfy-Org/ComfyUI：Comfy-Org/ComfyUI helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 62/100 |
-| production | 85/100 |
-| outlook | 89/100 |
+| production | 78/100 |
+| outlook | 82/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

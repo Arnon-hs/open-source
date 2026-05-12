@@ -1,6 +1,6 @@
 # Roshankrsoni/Roshankrsoni.github.io
 
-[![Stars](https://img.shields.io/github/stars/Roshankrsoni/Roshankrsoni.github.io?style=flat-square&color=yellow)](https://github.com/Roshankrsoni/Roshankrsoni.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/Roshankrsoni/Roshankrsoni.github.io?style=flat-square&color=blue)](https://github.com/Roshankrsoni/Roshankrsoni.github.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Roshankrsoni/Roshankrsoni.github.io?style=flat-square&color=yellow)](https://github.com/Roshankrsoni/Roshankrsoni.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/Roshankrsoni/Roshankrsoni.github.io?style=flat-square&color=blue)](https://github.com/Roshankrsoni/Roshankrsoni.github.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ONLINE PORTFOLIO FOR DEVELOPERS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Roshankrsoni/Roshankrsoni.github.io — это открытый репозит
 
 ### 中文
 
-Roshankrsoni/Roshankrsoni.github.io：Roshankrsoni/Roshankrsoni.github.io helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Roshankrsoni/Roshankrsoni.github.io：Roshankrsoni/Roshankrsoni.github.io helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Roshankrsoni/Roshankrsoni.github.io：Roshankrsoni/Roshankrsoni.github.io helps 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Roshankrsoni/Roshankrsoni.github.io：Roshankrsoni/Roshankrsoni.github.io helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 77/100 |
+| production | 70/100 |
+| outlook | 70/100 |
 | adoption | 41/100 |
 | stars | 44/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

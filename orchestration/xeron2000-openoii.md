@@ -1,6 +1,6 @@
 # Xeron2000/openOii
 
-[![Stars](https://img.shields.io/github/stars/Xeron2000/openOii?style=flat-square&color=yellow)](https://github.com/Xeron2000/openOii/stargazers) [![Forks](https://img.shields.io/github/forks/Xeron2000/openOii?style=flat-square&color=blue)](https://github.com/Xeron2000/openOii/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xeron2000/openOii?style=flat-square&color=yellow)](https://github.com/Xeron2000/openOii/stargazers) [![Forks](https://img.shields.io/github/forks/Xeron2000/openOii?style=flat-square&color=blue)](https://github.com/Xeron2000/openOii/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 基于多智能体协作的 AI 漫剧生成平台 | AI Agent-based Comic Drama Generation Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Xeron2000/openOii — это открытая платформа для ген
 
 ### 中文
 
-Xeron2000/openOii：Xeron2000/openOii helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Xeron2000/openOii：Xeron2000/openOii helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Xeron2000/openOii：Xeron2000/openOii helps turn isolated prompts and tools into
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Xeron2000/openOii：Xeron2000/openOii helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

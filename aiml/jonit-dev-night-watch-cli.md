@@ -1,6 +1,6 @@
 # jonit-dev/night-watch-cli
 
-[![Stars](https://img.shields.io/github/stars/jonit-dev/night-watch-cli?style=flat-square&color=yellow)](https://github.com/jonit-dev/night-watch-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jonit-dev/night-watch-cli?style=flat-square&color=blue)](https://github.com/jonit-dev/night-watch-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonit-dev/night-watch-cli?style=flat-square&color=yellow)](https://github.com/jonit-dev/night-watch-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jonit-dev/night-watch-cli?style=flat-square&color=blue)](https://github.com/jonit-dev/night-watch-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent that implements your specs, opens PRs, and reviews code overnight. Queue GitHub issues or PRDs, wake up to pull requests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jonit-dev/night-watch-cli：jonit-dev/night-watch-cli helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 83/100 |
+| production | 68/100 |
+| outlook | 76/100 |
 | adoption | 30/100 |
 | stars | 35/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mcp-use/mcp-use
 
-[![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&color=yellow)](https://github.com/mcp-use/mcp-use/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-use/mcp-use?style=flat-square&color=blue)](https://github.com/mcp-use/mcp-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&color=yellow)](https://github.com/mcp-use/mcp-use/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-use/mcp-use?style=flat-square&color=blue)](https://github.com/mcp-use/mcp-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 93/100 |
+| 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mcp-use/mcp-use：mcp-use/mcp-use helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 94/100 |
-| production | 88/100 |
-| outlook | 96/100 |
+| production | 81/100 |
+| outlook | 89/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

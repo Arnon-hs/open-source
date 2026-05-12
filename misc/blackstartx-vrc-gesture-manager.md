@@ -1,6 +1,6 @@
 # BlackStartx/VRC-Gesture-Manager
 
-[![Stars](https://img.shields.io/github/stars/BlackStartx/VRC-Gesture-Manager?style=flat-square&color=yellow)](https://github.com/BlackStartx/VRC-Gesture-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/BlackStartx/VRC-Gesture-Manager?style=flat-square&color=blue)](https://github.com/BlackStartx/VRC-Gesture-Manager/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlackStartx/VRC-Gesture-Manager?style=flat-square&color=yellow)](https://github.com/BlackStartx/VRC-Gesture-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/BlackStartx/VRC-Gesture-Manager?style=flat-square&color=blue)](https://github.com/BlackStartx/VRC-Gesture-Manager/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A tool that will help you preview and edit your VRChat avatar animation directly in Unity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ BlackStartx/VRC-Gesture-Manager：BlackStartx/VRC-Gesture-Manager may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 61/100 |
+| outlook | 62/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

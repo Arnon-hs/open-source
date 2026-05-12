@@ -1,6 +1,6 @@
 # reyamira/models
 
-[![Stars](https://img.shields.io/github/stars/reyamira/models?style=flat-square&color=yellow)](https://github.com/reyamira/models/stargazers) [![Forks](https://img.shields.io/github/forks/reyamira/models?style=flat-square&color=blue)](https://github.com/reyamira/models/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reyamira/models?style=flat-square&color=yellow)](https://github.com/reyamira/models/stargazers) [![Forks](https://img.shields.io/github/forks/reyamira/models?style=flat-square&color=blue)](https://github.com/reyamira/models/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 416 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Reyamira/models is a lightweight terminal‑based UI and command‑line tool tha
 
 ### 中文
 
-reyamira/models：reyamira/models helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+reyamira/models：reyamira/models helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ reyamira/models：reyamira/models helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ reyamira/models：reyamira/models helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 69/100 |
+| outlook | 75/100 |
 | adoption | 49/100 |
 | stars | 56/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # matthart1983/netwatch
 
-[![Stars](https://img.shields.io/github/stars/matthart1983/netwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/netwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/netwatch?style=flat-square&color=blue)](https://github.com/matthart1983/netwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthart1983/netwatch?style=flat-square&color=yellow)](https://github.com/matthart1983/netwatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/netwatch?style=flat-square&color=blue)](https://github.com/matthart1983/netwatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ matthart1983/netwatch：matthart1983/netwatch helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 69/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

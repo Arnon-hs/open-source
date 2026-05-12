@@ -1,6 +1,6 @@
 # PacificStudio/openase
 
-[![Stars](https://img.shields.io/github/stars/PacificStudio/openase?style=flat-square&color=yellow)](https://github.com/PacificStudio/openase/stargazers) [![Forks](https://img.shields.io/github/forks/PacificStudio/openase?style=flat-square&color=blue)](https://github.com/PacificStudio/openase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PacificStudio/openase?style=flat-square&color=yellow)](https://github.com/PacificStudio/openase/stargazers) [![Forks](https://img.shields.io/github/forks/PacificStudio/openase?style=flat-square&color=blue)](https://github.com/PacificStudio/openase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick up tickets, execute workflows on your machines, and deliver results with full traceability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PacificStudio/openase：PacificStudio/openase helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

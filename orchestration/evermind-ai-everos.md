@@ -1,6 +1,6 @@
 # EverMind-AI/EverOS
 
-[![Stars](https://img.shields.io/github/stars/EverMind-AI/EverOS?style=flat-square&color=yellow)](https://github.com/EverMind-AI/EverOS/stargazers) [![Forks](https://img.shields.io/github/forks/EverMind-AI/EverOS?style=flat-square&color=blue)](https://github.com/EverMind-AI/EverOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EverMind-AI/EverOS?style=flat-square&color=yellow)](https://github.com/EverMind-AI/EverOS/stargazers) [![Forks](https://img.shields.io/github/forks/EverMind-AI/EverOS?style=flat-square&color=blue)](https://github.com/EverMind-AI/EverOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Build, evaluate, and integrate long-term memory for self-evolving agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EverMind-AI/EverOS：EverMind-AI/EverOS helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 92/100 |
+| production | 75/100 |
+| outlook | 85/100 |
 | adoption | 75/100 |
 | stars | 78/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

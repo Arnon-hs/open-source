@@ -1,6 +1,6 @@
 # yegor256/prompt
 
-[![Stars](https://img.shields.io/github/stars/yegor256/prompt?style=flat-square&color=yellow)](https://github.com/yegor256/prompt/stargazers) [![Forks](https://img.shields.io/github/forks/yegor256/prompt?style=flat-square&color=blue)](https://github.com/yegor256/prompt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yegor256/prompt?style=flat-square&color=yellow)](https://github.com/yegor256/prompt/stargazers) [![Forks](https://img.shields.io/github/forks/yegor256/prompt?style=flat-square&color=blue)](https://github.com/yegor256/prompt/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A plain-text prompt for LLMs that teaches the essence of elegant coding and testing—save it to ~/.claude/CLAUDE.md.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ yegor256/prompt：yegor256/prompt helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 69/100 |
+| production | 65/100 |
+| outlook | 62/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

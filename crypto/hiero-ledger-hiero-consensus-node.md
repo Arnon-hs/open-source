@@ -1,6 +1,6 @@
 # hiero-ledger/hiero-consensus-node
 
-[![Stars](https://img.shields.io/github/stars/hiero-ledger/hiero-consensus-node?style=flat-square&color=yellow)](https://github.com/hiero-ledger/hiero-consensus-node/stargazers) [![Forks](https://img.shields.io/github/forks/hiero-ledger/hiero-consensus-node?style=flat-square&color=blue)](https://github.com/hiero-ledger/hiero-consensus-node/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hiero-ledger/hiero-consensus-node?style=flat-square&color=yellow)](https://github.com/hiero-ledger/hiero-consensus-node/stargazers) [![Forks](https://img.shields.io/github/forks/hiero-ledger/hiero-consensus-node?style=flat-square&color=blue)](https://github.com/hiero-ledger/hiero-consensus-node/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Crypto, token, consensus, file, and smart contract services for a Hiero based network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hiero-ledger/hiero-consensus-node：hiero-ledger/hiero-consensus-node helps prot
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 56/100 |
 | stars | 55/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 49Agents/49Agents
 
-[![Stars](https://img.shields.io/github/stars/49Agents/49Agents?style=flat-square&color=yellow)](https://github.com/49Agents/49Agents/stargazers) [![Forks](https://img.shields.io/github/forks/49Agents/49Agents?style=flat-square&color=blue)](https://github.com/49Agents/49Agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/49Agents/49Agents?style=flat-square&color=yellow)](https://github.com/49Agents/49Agents/stargazers) [![Forks](https://img.shields.io/github/forks/49Agents/49Agents?style=flat-square&color=blue)](https://github.com/49Agents/49Agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Open‑source 2D IDE 49Agents позволяет централизован�
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

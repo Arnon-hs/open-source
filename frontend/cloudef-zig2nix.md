@@ -1,6 +1,6 @@
 # Cloudef/zig2nix
 
-[![Stars](https://img.shields.io/github/stars/Cloudef/zig2nix?style=flat-square&color=yellow)](https://github.com/Cloudef/zig2nix/stargazers) [![Forks](https://img.shields.io/github/forks/Cloudef/zig2nix?style=flat-square&color=blue)](https://github.com/Cloudef/zig2nix/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cloudef/zig2nix?style=flat-square&color=yellow)](https://github.com/Cloudef/zig2nix/stargazers) [![Forks](https://img.shields.io/github/forks/Cloudef/zig2nix?style=flat-square&color=blue)](https://github.com/Cloudef/zig2nix/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Flake for packaging, building and running Zig projects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Cloudef/zig2nix：Cloudef/zig2nix helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 65/100 |
+| outlook | 73/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
