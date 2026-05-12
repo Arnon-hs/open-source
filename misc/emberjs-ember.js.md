@@ -1,6 +1,6 @@
 # emberjs/ember.js
 
-[![Stars](https://img.shields.io/github/stars/emberjs/ember.js?style=flat-square&color=yellow)](https://github.com/emberjs/ember.js/stargazers) [![Forks](https://img.shields.io/github/forks/emberjs/ember.js?style=flat-square&color=blue)](https://github.com/emberjs/ember.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emberjs/ember.js?style=flat-square&color=yellow)](https://github.com/emberjs/ember.js/stargazers) [![Forks](https://img.shields.io/github/forks/emberjs/ember.js?style=flat-square&color=blue)](https://github.com/emberjs/ember.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Ember.js - A JavaScript framework for creating ambitious web applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ember.js — это мощный open‑source JavaScript‑фреймворк
 
 ### 中文
 
-emberjs/ember.js：emberjs/ember.js may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+emberjs/ember.js：emberjs/ember.js may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ emberjs/ember.js：emberjs/ember.js may be useful when its README and activity m
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ emberjs/ember.js：emberjs/ember.js may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 92/100 |
 | stars | 93/100 |
 | forks | 91/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

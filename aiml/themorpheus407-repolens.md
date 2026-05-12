@@ -1,6 +1,6 @@
 # TheMorpheus407/RepoLens
 
-[![Stars](https://img.shields.io/github/stars/TheMorpheus407/RepoLens?style=flat-square&color=yellow)](https://github.com/TheMorpheus407/RepoLens/stargazers) [![Forks](https://img.shields.io/github/forks/TheMorpheus407/RepoLens?style=flat-square&color=blue)](https://github.com/TheMorpheus407/RepoLens/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheMorpheus407/RepoLens?style=flat-square&color=yellow)](https://github.com/TheMorpheus407/RepoLens/stargazers) [![Forks](https://img.shields.io/github/forks/TheMorpheus407/RepoLens?style=flat-square&color=blue)](https://github.com/TheMorpheus407/RepoLens/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ TheMorpheus407/RepoLens：TheMorpheus407/RepoLens helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 61/100 |
+| outlook | 65/100 |
 | adoption | 48/100 |
 | stars | 51/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

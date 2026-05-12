@@ -1,6 +1,6 @@
 # NeverSight/learn-skills.dev
 
-[![Stars](https://img.shields.io/github/stars/NeverSight/learn-skills.dev?style=flat-square&color=yellow)](https://github.com/NeverSight/learn-skills.dev/stargazers) [![Forks](https://img.shields.io/github/forks/NeverSight/learn-skills.dev?style=flat-square&color=blue)](https://github.com/NeverSight/learn-skills.dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeverSight/learn-skills.dev?style=flat-square&color=yellow)](https://github.com/NeverSight/learn-skills.dev/stargazers) [![Forks](https://img.shields.io/github/forks/NeverSight/learn-skills.dev?style=flat-square&color=blue)](https://github.com/NeverSight/learn-skills.dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Cursor, OpenClaw, and other AI coding tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ NeverSight/learn-skills.dev：NeverSight/learn-skills.dev helps turn isolated pr
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 43/100 |
 | stars | 45/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

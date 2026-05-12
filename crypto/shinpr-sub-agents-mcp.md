@@ -1,6 +1,6 @@
 # shinpr/sub-agents-mcp
 
-[![Stars](https://img.shields.io/github/stars/shinpr/sub-agents-mcp?style=flat-square&color=yellow)](https://github.com/shinpr/sub-agents-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/sub-agents-mcp?style=flat-square&color=blue)](https://github.com/shinpr/sub-agents-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinpr/sub-agents-mcp?style=flat-square&color=yellow)](https://github.com/shinpr/sub-agents-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/sub-agents-mcp?style=flat-square&color=blue)](https://github.com/shinpr/sub-agents-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Define task-specific AI sub-agents in Markdown for any MCP-compatible tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ shinpr/sub-agents-mcp is an open‑source framework that lets developers describ
 
 ### 中文
 
-shinpr/sub-agents-mcp：shinpr/sub-agents-mcp helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shinpr/sub-agents-mcp：shinpr/sub-agents-mcp helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shinpr/sub-agents-mcp：shinpr/sub-agents-mcp helps prototype or inspect blockch
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shinpr/sub-agents-mcp：shinpr/sub-agents-mcp helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 38/100 |
 | stars | 41/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

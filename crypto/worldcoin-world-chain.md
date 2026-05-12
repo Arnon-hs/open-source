@@ -1,6 +1,6 @@
 # worldcoin/world-chain
 
-[![Stars](https://img.shields.io/github/stars/worldcoin/world-chain?style=flat-square&color=yellow)](https://github.com/worldcoin/world-chain/stargazers) [![Forks](https://img.shields.io/github/forks/worldcoin/world-chain?style=flat-square&color=blue)](https://github.com/worldcoin/world-chain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/worldcoin/world-chain?style=flat-square&color=yellow)](https://github.com/worldcoin/world-chain/stargazers) [![Forks](https://img.shields.io/github/forks/worldcoin/world-chain?style=flat-square&color=blue)](https://github.com/worldcoin/world-chain/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > World Chain monorepo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ worldcoin/world-chain：worldcoin/world-chain helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 44/100 |
 | stars | 43/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

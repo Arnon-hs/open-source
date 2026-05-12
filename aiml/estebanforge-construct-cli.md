@@ -1,6 +1,6 @@
 # EstebanForge/construct-cli
 
-[![Stars](https://img.shields.io/github/stars/EstebanForge/construct-cli?style=flat-square&color=yellow)](https://github.com/EstebanForge/construct-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EstebanForge/construct-cli?style=flat-square&color=blue)](https://github.com/EstebanForge/construct-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EstebanForge/construct-cli?style=flat-square&color=yellow)](https://github.com/EstebanForge/construct-cli/stargazers) [![Forks](https://img.shields.io/github/forks/EstebanForge/construct-cli?style=flat-square&color=blue)](https://github.com/EstebanForge/construct-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The secure loading program (sandbox) for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ EstebanForge/construct-cli：EstebanForge/construct-cli helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 63/100 |
+| outlook | 60/100 |
 | adoption | 30/100 |
 | stars | 38/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

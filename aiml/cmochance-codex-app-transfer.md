@@ -1,6 +1,6 @@
 # Cmochance/codex-app-transfer
 
-[![Stars](https://img.shields.io/github/stars/Cmochance/codex-app-transfer?style=flat-square&color=yellow)](https://github.com/Cmochance/codex-app-transfer/stargazers) [![Forks](https://img.shields.io/github/forks/Cmochance/codex-app-transfer?style=flat-square&color=blue)](https://github.com/Cmochance/codex-app-transfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cmochance/codex-app-transfer?style=flat-square&color=yellow)](https://github.com/Cmochance/codex-app-transfer/stargazers) [![Forks](https://img.shields.io/github/forks/Cmochance/codex-app-transfer?style=flat-square&color=blue)](https://github.com/Cmochance/codex-app-transfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Cmochance/codex-app-transfer：Cmochance/codex-app-transfer helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 68/100 |
+| outlook | 73/100 |
 | adoption | 28/100 |
 | stars | 32/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

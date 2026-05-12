@@ -1,6 +1,6 @@
 # facebookincubator/reindeer
 
-[![Stars](https://img.shields.io/github/stars/facebookincubator/reindeer?style=flat-square&color=yellow)](https://github.com/facebookincubator/reindeer/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/reindeer?style=flat-square&color=blue)](https://github.com/facebookincubator/reindeer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookincubator/reindeer?style=flat-square&color=yellow)](https://github.com/facebookincubator/reindeer/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/reindeer?style=flat-square&color=blue)](https://github.com/facebookincubator/reindeer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Reindeer is a tool to transform Rust Cargo dependencies into generated Buck build rules
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ facebookincubator/reindeer：facebookincubator/reindeer helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 49/100 |
 | stars | 51/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # suzuki-shunsuke/ghalint
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghalint?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghalint/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghalint?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghalint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghalint?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghalint/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghalint?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghalint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Actions linter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ suzuki-shunsuke/ghalint：suzuki-shunsuke/ghalint helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 68/100 |
+| outlook | 66/100 |
 | adoption | 42/100 |
 | stars | 51/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

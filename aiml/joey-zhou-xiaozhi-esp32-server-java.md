@@ -1,6 +1,6 @@
 # joey-zhou/xiaozhi-esp32-server-java
 
-[![Stars](https://img.shields.io/github/stars/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=yellow)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/stargazers) [![Forks](https://img.shields.io/github/forks/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=blue)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=yellow)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/stargazers) [![Forks](https://img.shields.io/github/forks/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=blue)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 455 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A Java‑based enterprise management platform for the XiaoZhi ESP32 device, deli
 
 ### 中文
 
-joey-zhou/xiaozhi-esp32-server-java：joey-zhou/xiaozhi-esp32-server-java helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+joey-zhou/xiaozhi-esp32-server-java：joey-zhou/xiaozhi-esp32-server-java helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ joey-zhou/xiaozhi-esp32-server-java：joey-zhou/xiaozhi-esp32-server-java helps 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ joey-zhou/xiaozhi-esp32-server-java：joey-zhou/xiaozhi-esp32-server-java helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 74/100 |
+| outlook | 79/100 |
 | adoption | 66/100 |
 | stars | 66/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

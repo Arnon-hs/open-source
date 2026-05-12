@@ -1,6 +1,6 @@
 # ItzLevvie/MicrosoftTeams-msinternal
 
-[![Stars](https://img.shields.io/github/stars/ItzLevvie/MicrosoftTeams-msinternal?style=flat-square&color=yellow)](https://github.com/ItzLevvie/MicrosoftTeams-msinternal/stargazers) [![Forks](https://img.shields.io/github/forks/ItzLevvie/MicrosoftTeams-msinternal?style=flat-square&color=blue)](https://github.com/ItzLevvie/MicrosoftTeams-msinternal/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ItzLevvie/MicrosoftTeams-msinternal?style=flat-square&color=yellow)](https://github.com/ItzLevvie/MicrosoftTeams-msinternal/stargazers) [![Forks](https://img.shields.io/github/forks/ItzLevvie/MicrosoftTeams-msinternal?style=flat-square&color=blue)](https://github.com/ItzLevvie/MicrosoftTeams-msinternal/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > This project was created from PowerShell which allows people to download the latest internal build of Microsoft Teams.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ItzLevvie/MicrosoftTeams-msinternal：ItzLevvie/MicrosoftTeams-msinternal helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**56 projects** in this category.
+**57 projects** in this category.
 
 ## Projects
 
@@ -64,6 +64,7 @@
 | 54 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
 | 55 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
 | 56 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
+| 57 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
 
 ---
 

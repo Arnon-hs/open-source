@@ -1,6 +1,6 @@
 # stride3d/stride
 
-[![Stars](https://img.shields.io/github/stars/stride3d/stride?style=flat-square&color=yellow)](https://github.com/stride3d/stride/stargazers) [![Forks](https://img.shields.io/github/forks/stride3d/stride?style=flat-square&color=blue)](https://github.com/stride3d/stride/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stride3d/stride?style=flat-square&color=yellow)](https://github.com/stride3d/stride/stargazers) [![Forks](https://img.shields.io/github/forks/stride3d/stride?style=flat-square&color=blue)](https://github.com/stride3d/stride/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Stride — это полностью бесплатный кроссплатф
 
 ### 中文
 
-stride3d/stride：stride3d/stride may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+stride3d/stride：stride3d/stride may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ stride3d/stride：stride3d/stride may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ stride3d/stride：stride3d/stride may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

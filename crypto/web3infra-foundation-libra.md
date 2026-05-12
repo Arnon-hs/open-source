@@ -1,6 +1,6 @@
 # web3infra-foundation/libra
 
-[![Stars](https://img.shields.io/github/stars/web3infra-foundation/libra?style=flat-square&color=yellow)](https://github.com/web3infra-foundation/libra/stargazers) [![Forks](https://img.shields.io/github/forks/web3infra-foundation/libra?style=flat-square&color=blue)](https://github.com/web3infra-foundation/libra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web3infra-foundation/libra?style=flat-square&color=yellow)](https://github.com/web3infra-foundation/libra/stargazers) [![Forks](https://img.shields.io/github/forks/web3infra-foundation/libra?style=flat-square&color=blue)](https://github.com/web3infra-foundation/libra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Libra is evolving into an AI agent–native version control tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ web3infra-foundation/libra：web3infra-foundation/libra helps prototype or inspe
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 40/100 |
 | stars | 37/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ModelTC/LightLLM
 
-[![Stars](https://img.shields.io/github/stars/ModelTC/LightLLM?style=flat-square&color=yellow)](https://github.com/ModelTC/LightLLM/stargazers) [![Forks](https://img.shields.io/github/forks/ModelTC/LightLLM?style=flat-square&color=blue)](https://github.com/ModelTC/LightLLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModelTC/LightLLM?style=flat-square&color=yellow)](https://github.com/ModelTC/LightLLM/stargazers) [![Forks](https://img.shields.io/github/forks/ModelTC/LightLLM?style=flat-square&color=blue)](https://github.com/ModelTC/LightLLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ModelTC/LightLLM — это лёгкий Python‑фреймворк для и
 
 ### 中文
 
-ModelTC/LightLLM：ModelTC/LightLLM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ModelTC/LightLLM：ModelTC/LightLLM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ModelTC/LightLLM：ModelTC/LightLLM helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ModelTC/LightLLM：ModelTC/LightLLM helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 73/100 |
 | stars | 77/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

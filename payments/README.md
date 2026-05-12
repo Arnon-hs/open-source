@@ -84,8 +84,8 @@
 | 74 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 60/100 |
 | 75 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 60/100 |
 | 76 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 59/100 |
-| 77 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 78 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
+| 77 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
+| 78 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 79 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 59/100 |
 | 80 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.5k | Java | 58/100 |
 | 81 | [Paymenter/Paymenter](./paymenter-paymenter.md) | ⭐ 1.7k | PHP | 58/100 |
@@ -106,8 +106,8 @@
 | 96 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 80 | Go | 55/100 |
 | 97 | [wevm/mppx](./wevm-mppx.md) | ⭐ 119 | TypeScript | 55/100 |
 | 98 | [AdguardTeam/FiltersRegistry](./adguardteam-filtersregistry.md) | ⭐ 341 | Adblock Filter List | 55/100 |
-| 99 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
-| 100 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 99 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 100 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
 | 101 | [shetabit/payment](./shetabit-payment.md) | ⭐ 940 | PHP | 54/100 |
 | 102 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 53/100 |
 | 103 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 146 | Kotlin | 53/100 |

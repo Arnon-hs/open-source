@@ -1,6 +1,6 @@
 # baz-scm/awesome-reviewers
 
-[![Stars](https://img.shields.io/github/stars/baz-scm/awesome-reviewers?style=flat-square&color=yellow)](https://github.com/baz-scm/awesome-reviewers/stargazers) [![Forks](https://img.shields.io/github/forks/baz-scm/awesome-reviewers?style=flat-square&color=blue)](https://github.com/baz-scm/awesome-reviewers/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baz-scm/awesome-reviewers?style=flat-square&color=yellow)](https://github.com/baz-scm/awesome-reviewers/stargazers) [![Forks](https://img.shields.io/github/forks/baz-scm/awesome-reviewers?style=flat-square&color=blue)](https://github.com/baz-scm/awesome-reviewers/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ready-to-use system prompts for Agentic Code Review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ baz-scm/awesome-reviewers：baz-scm/awesome-reviewers helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
