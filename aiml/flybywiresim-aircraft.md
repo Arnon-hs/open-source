@@ -1,6 +1,6 @@
 # flybywiresim/aircraft
 
-[![Stars](https://img.shields.io/github/stars/flybywiresim/aircraft?style=flat-square&color=yellow)](https://github.com/flybywiresim/aircraft/stargazers) [![Forks](https://img.shields.io/github/forks/flybywiresim/aircraft?style=flat-square&color=blue)](https://github.com/flybywiresim/aircraft/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flybywiresim/aircraft?style=flat-square&color=yellow)](https://github.com/flybywiresim/aircraft/stargazers) [![Forks](https://img.shields.io/github/forks/flybywiresim/aircraft?style=flat-square&color=blue)](https://github.com/flybywiresim/aircraft/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Flybywire Sim – это сообщество разработчиков, со
 
 ### 中文
 
-flybywiresim/aircraft：flybywiresim/aircraft helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+flybywiresim/aircraft：flybywiresim/aircraft helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ flybywiresim/aircraft：flybywiresim/aircraft helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ flybywiresim/aircraft：flybywiresim/aircraft helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 79/100 |
 | stars | 79/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # AlaeddineMessadi/opencode-mcp
 
-[![Stars](https://img.shields.io/github/stars/AlaeddineMessadi/opencode-mcp?style=flat-square&color=yellow)](https://github.com/AlaeddineMessadi/opencode-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AlaeddineMessadi/opencode-mcp?style=flat-square&color=blue)](https://github.com/AlaeddineMessadi/opencode-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlaeddineMessadi/opencode-mcp?style=flat-square&color=yellow)](https://github.com/AlaeddineMessadi/opencode-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AlaeddineMessadi/opencode-mcp?style=flat-square&color=blue)](https://github.com/AlaeddineMessadi/opencode-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for OpenCode AI — 70 tools, 10 resources, 5 prompts. Use npx opencode-mcp with Claude Desktop, Claude Code, Cursor, Windsurf, or any MCP client.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AlaeddineMessadi/opencode-mcp — это открытый MCP‑сервер, 
 
 ### 中文
 
-AlaeddineMessadi/opencode-mcp：AlaeddineMessadi/opencode-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AlaeddineMessadi/opencode-mcp：AlaeddineMessadi/opencode-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AlaeddineMessadi/opencode-mcp：AlaeddineMessadi/opencode-mcp helps add AI capab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AlaeddineMessadi/opencode-mcp：AlaeddineMessadi/opencode-mcp helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 30/100 |
 | stars | 33/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

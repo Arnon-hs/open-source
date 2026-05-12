@@ -1,6 +1,6 @@
 # lige47/lige_icon
 
-[![Stars](https://img.shields.io/github/stars/lige47/lige_icon?style=flat-square&color=yellow)](https://github.com/lige47/lige_icon/stargazers) [![Forks](https://img.shields.io/github/forks/lige47/lige_icon?style=flat-square&color=blue)](https://github.com/lige47/lige_icon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lige47/lige_icon?style=flat-square&color=yellow)](https://github.com/lige47/lige_icon/stargazers) [![Forks](https://img.shields.io/github/forks/lige47/lige_icon?style=flat-square&color=blue)](https://github.com/lige47/lige_icon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Quanx、Loon Surge Fileball Senplayer  Yamby Hills Fowward 小幻影视 的图标绘制、部分规则、解锁检测脚本等。没有的图标留言适配即可。我也是小白，尽量把最简单的东西带给大家
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 496 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lige47/lige_icon：lige47/lige_icon helps research and automate market workflows
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

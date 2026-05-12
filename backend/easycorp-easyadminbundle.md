@@ -1,6 +1,6 @@
 # EasyCorp/EasyAdminBundle
 
-[![Stars](https://img.shields.io/github/stars/EasyCorp/EasyAdminBundle?style=flat-square&color=yellow)](https://github.com/EasyCorp/EasyAdminBundle/stargazers) [![Forks](https://img.shields.io/github/forks/EasyCorp/EasyAdminBundle?style=flat-square&color=blue)](https://github.com/EasyCorp/EasyAdminBundle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EasyCorp/EasyAdminBundle?style=flat-square&color=yellow)](https://github.com/EasyCorp/EasyAdminBundle/stargazers) [![Forks](https://img.shields.io/github/forks/EasyCorp/EasyAdminBundle?style=flat-square&color=blue)](https://github.com/EasyCorp/EasyAdminBundle/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EasyAdminBundle — это открытый пакет для Symfony, пре�
 
 ### 中文
 
-EasyCorp/EasyAdminBundle：EasyCorp/EasyAdminBundle helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+EasyCorp/EasyAdminBundle：EasyCorp/EasyAdminBundle helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EasyCorp/EasyAdminBundle：EasyCorp/EasyAdminBundle helps teams reuse service in
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ EasyCorp/EasyAdminBundle：EasyCorp/EasyAdminBundle helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 77/100 |
 | stars | 77/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

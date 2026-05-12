@@ -1,6 +1,6 @@
 # iKineticate/BlueGauge
 
-[![Stars](https://img.shields.io/github/stars/iKineticate/BlueGauge?style=flat-square&color=yellow)](https://github.com/iKineticate/BlueGauge/stargazers) [![Forks](https://img.shields.io/github/forks/iKineticate/BlueGauge?style=flat-square&color=blue)](https://github.com/iKineticate/BlueGauge/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iKineticate/BlueGauge?style=flat-square&color=yellow)](https://github.com/iKineticate/BlueGauge/stargazers) [![Forks](https://img.shields.io/github/forks/iKineticate/BlueGauge?style=flat-square&color=blue)](https://github.com/iKineticate/BlueGauge/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight tray tool for easily viewing the battery level of Bluetooth devices - 轻松查看蓝牙设备电池电量的轻便托盘工具
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ iKineticate/BlueGauge：iKineticate/BlueGauge may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 49/100 |
 | stars | 56/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # codejunkie99/agentic-stack
 
-[![Stars](https://img.shields.io/github/stars/codejunkie99/agentic-stack?style=flat-square&color=yellow)](https://github.com/codejunkie99/agentic-stack/stargazers) [![Forks](https://img.shields.io/github/forks/codejunkie99/agentic-stack?style=flat-square&color=blue)](https://github.com/codejunkie99/agentic-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codejunkie99/agentic-stack?style=flat-square&color=yellow)](https://github.com/codejunkie99/agentic-stack/stargazers) [![Forks](https://img.shields.io/github/forks/codejunkie99/agentic-stack?style=flat-square&color=blue)](https://github.com/codejunkie99/agentic-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

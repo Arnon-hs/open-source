@@ -1,6 +1,6 @@
 # lhmouse/mcfgthread
 
-[![Stars](https://img.shields.io/github/stars/lhmouse/mcfgthread?style=flat-square&color=yellow)](https://github.com/lhmouse/mcfgthread/stargazers) [![Forks](https://img.shields.io/github/forks/lhmouse/mcfgthread?style=flat-square&color=blue)](https://github.com/lhmouse/mcfgthread/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lhmouse/mcfgthread?style=flat-square&color=yellow)](https://github.com/lhmouse/mcfgthread/stargazers) [![Forks](https://img.shields.io/github/forks/lhmouse/mcfgthread?style=flat-square&color=blue)](https://github.com/lhmouse/mcfgthread/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cornerstone of the MOST efficient std::thread on Windows for mingw-w64
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ lhmouse/mcfgthread：lhmouse/mcfgthread may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

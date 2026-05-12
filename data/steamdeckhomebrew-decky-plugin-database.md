@@ -1,6 +1,6 @@
 # SteamDeckHomebrew/decky-plugin-database
 
-[![Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=yellow)](https://github.com/SteamDeckHomebrew/decky-plugin-database/stargazers) [![Forks](https://img.shields.io/github/forks/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=blue)](https://github.com/SteamDeckHomebrew/decky-plugin-database/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=yellow)](https://github.com/SteamDeckHomebrew/decky-plugin-database/stargazers) [![Forks](https://img.shields.io/github/forks/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=blue)](https://github.com/SteamDeckHomebrew/decky-plugin-database/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Decky Plugin Database. PR your plugins to this repository to have them added to the store!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SteamDeckHomebrew/decky-plugin-database：SteamDeckHomebrew/decky-plugin-databas
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 68/100 |
+| outlook | 66/100 |
 | adoption | 54/100 |
 | stars | 53/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

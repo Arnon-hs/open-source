@@ -1,6 +1,6 @@
 # overshard/timelite
 
-[![Stars](https://img.shields.io/github/stars/overshard/timelite?style=flat-square&color=yellow)](https://github.com/overshard/timelite/stargazers) [![Forks](https://img.shields.io/github/forks/overshard/timelite?style=flat-square&color=blue)](https://github.com/overshard/timelite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/overshard/timelite?style=flat-square&color=yellow)](https://github.com/overshard/timelite/stargazers) [![Forks](https://img.shields.io/github/forks/overshard/timelite?style=flat-square&color=blue)](https://github.com/overshard/timelite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ overshard/timelite：overshard/timelite helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

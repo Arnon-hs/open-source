@@ -1,6 +1,6 @@
 # ratatui/ratatui-image
 
-[![Stars](https://img.shields.io/github/stars/ratatui/ratatui-image?style=flat-square&color=yellow)](https://github.com/ratatui/ratatui-image/stargazers) [![Forks](https://img.shields.io/github/forks/ratatui/ratatui-image?style=flat-square&color=blue)](https://github.com/ratatui/ratatui-image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ratatui/ratatui-image?style=flat-square&color=yellow)](https://github.com/ratatui/ratatui-image/stargazers) [![Forks](https://img.shields.io/github/forks/ratatui/ratatui-image?style=flat-square&color=blue)](https://github.com/ratatui/ratatui-image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Ratatui widget for rendering image graphics in terminals that support it
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ratatui/ratatui-image：ratatui/ratatui-image helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

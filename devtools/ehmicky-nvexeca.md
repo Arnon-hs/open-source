@@ -1,6 +1,6 @@
 # ehmicky/nvexeca
 
-[![Stars](https://img.shields.io/github/stars/ehmicky/nvexeca?style=flat-square&color=yellow)](https://github.com/ehmicky/nvexeca/stargazers) [![Forks](https://img.shields.io/github/forks/ehmicky/nvexeca?style=flat-square&color=blue)](https://github.com/ehmicky/nvexeca/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ehmicky/nvexeca?style=flat-square&color=yellow)](https://github.com/ehmicky/nvexeca/stargazers) [![Forks](https://img.shields.io/github/forks/ehmicky/nvexeca?style=flat-square&color=blue)](https://github.com/ehmicky/nvexeca/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > nvm + execa = nvexeca
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ehmicky/nvexeca：ehmicky/nvexeca helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 31/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

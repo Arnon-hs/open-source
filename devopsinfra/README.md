@@ -27,18 +27,18 @@
 | 17 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.7k | TypeScript | 69/100 |
 | 18 | [netbootxyz/netboot.xyz](./netbootxyz-netboot.xyz.md) | ⭐ 11.8k | Jinja | 68/100 |
 | 19 | [metacall/core](./metacall-core.md) | ⭐ 1.8k | C | 68/100 |
-| 20 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 67/100 |
-| 21 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 67/100 |
-| 22 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 67/100 |
-| 23 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 66/100 |
-| 24 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 66/100 |
-| 25 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 66/100 |
-| 26 | [antrea-io/antrea](./antrea-io-antrea.md) | ⭐ 1.8k | Go | 66/100 |
-| 27 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 66/100 |
-| 28 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 66/100 |
-| 29 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 65/100 |
-| 30 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 65/100 |
-| 31 | [frappe/press](./frappe-press.md) | ⭐ 506 | Python | 65/100 |
+| 20 | [ovn-kubernetes/ovn-kubernetes](./ovn-kubernetes-ovn-kubernetes.md) | ⭐ 1k | Go | 67/100 |
+| 21 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 67/100 |
+| 22 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 66/100 |
+| 23 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9k | Go | 66/100 |
+| 24 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 66/100 |
+| 25 | [antrea-io/antrea](./antrea-io-antrea.md) | ⭐ 1.8k | Go | 66/100 |
+| 26 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 66/100 |
+| 27 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 66/100 |
+| 28 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 65/100 |
+| 29 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 65/100 |
+| 30 | [frappe/press](./frappe-press.md) | ⭐ 506 | Python | 65/100 |
+| 31 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 64/100 |
 | 32 | [aws/secrets-store-csi-driver-provider-aws](./aws-secrets-store-csi-driver-provider-aws.md) | ⭐ 584 | Go | 64/100 |
 | 33 | [lwindolf/lzone-cheat-sheets](./lwindolf-lzone-cheat-sheets.md) | ⭐ 333 | Shell | 64/100 |
 | 34 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 63/100 |
@@ -78,7 +78,7 @@
 | 68 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 55/100 |
 | 69 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
 | 70 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 53/100 |
-| 71 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 51/100 |
+| 71 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 48/100 |
 | 72 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
 
 ---

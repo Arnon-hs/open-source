@@ -1,6 +1,6 @@
 # 0xMiden/crypto
 
-[![Stars](https://img.shields.io/github/stars/0xMiden/crypto?style=flat-square&color=yellow)](https://github.com/0xMiden/crypto/stargazers) [![Forks](https://img.shields.io/github/forks/0xMiden/crypto?style=flat-square&color=blue)](https://github.com/0xMiden/crypto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xMiden/crypto?style=flat-square&color=yellow)](https://github.com/0xMiden/crypto/stargazers) [![Forks](https://img.shields.io/github/forks/0xMiden/crypto?style=flat-square&color=blue)](https://github.com/0xMiden/crypto/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptographic primitives used in Polygon Miden rollup
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Crypto
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 66/100 |
+| production | 64/100 |
+| outlook | 59/100 |
 | adoption | 46/100 |
 | stars | 45/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

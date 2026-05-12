@@ -1,6 +1,6 @@
 # tangramdotdev/tangram
 
-[![Stars](https://img.shields.io/github/stars/tangramdotdev/tangram?style=flat-square&color=yellow)](https://github.com/tangramdotdev/tangram/stargazers) [![Forks](https://img.shields.io/github/forks/tangramdotdev/tangram?style=flat-square&color=blue)](https://github.com/tangramdotdev/tangram/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tangramdotdev/tangram?style=flat-square&color=yellow)](https://github.com/tangramdotdev/tangram/stargazers) [![Forks](https://img.shields.io/github/forks/tangramdotdev/tangram?style=flat-square&color=blue)](https://github.com/tangramdotdev/tangram/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Tangram is a build system and package manager.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ tangramdotdev/tangram：tangramdotdev/tangram helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 63/100 |
+| production | 59/100 |
+| outlook | 56/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

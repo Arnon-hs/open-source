@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/cloud-foundation-fabric
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/cloud-foundation-fabric?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/cloud-foundation-fabric?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/cloud-foundation-fabric?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/cloud-foundation-fabric?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end modular samples and landing zones toolkit for Terraform on GCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GoogleCloudPlatform/cloud-foundation-fabric — это набор модуль
 
 ### 中文
 
-GoogleCloudPlatform/cloud-foundation-fabric：GoogleCloudPlatform/cloud-foundation-fabric helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GoogleCloudPlatform/cloud-foundation-fabric：GoogleCloudPlatform/cloud-foundation-fabric helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GoogleCloudPlatform/cloud-foundation-fabric：GoogleCloudPlatform/cloud-foundati
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GoogleCloudPlatform/cloud-foundation-fabric：GoogleCloudPlatform/cloud-foundati
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 78/100 |
+| production | 69/100 |
+| outlook | 71/100 |
 | adoption | 72/100 |
 | stars | 70/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

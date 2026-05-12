@@ -1,6 +1,6 @@
 # Serial-Studio/Serial-Studio
 
-[![Stars](https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=yellow)](https://github.com/Serial-Studio/Serial-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Serial-Studio/Serial-Studio?style=flat-square&color=blue)](https://github.com/Serial-Studio/Serial-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=yellow)](https://github.com/Serial-Studio/Serial-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Serial-Studio/Serial-Studio?style=flat-square&color=blue)](https://github.com/Serial-Studio/Serial-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Serial‑Studio — это открытая телеметрическая п�
 
 ### 中文
 
-Serial-Studio/Serial-Studio：Serial-Studio/Serial-Studio helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Serial-Studio/Serial-Studio：Serial-Studio/Serial-Studio helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Serial-Studio/Serial-Studio：Serial-Studio/Serial-Studio helps ship user-facing
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Serial-Studio/Serial-Studio：Serial-Studio/Serial-Studio helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 30/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

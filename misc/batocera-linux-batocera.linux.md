@@ -1,6 +1,6 @@
 # batocera-linux/batocera.linux
 
-[![Stars](https://img.shields.io/github/stars/batocera-linux/batocera.linux?style=flat-square&color=yellow)](https://github.com/batocera-linux/batocera.linux/stargazers) [![Forks](https://img.shields.io/github/forks/batocera-linux/batocera.linux?style=flat-square&color=blue)](https://github.com/batocera-linux/batocera.linux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/batocera-linux/batocera.linux?style=flat-square&color=yellow)](https://github.com/batocera-linux/batocera.linux/stargazers) [![Forks](https://img.shields.io/github/forks/batocera-linux/batocera.linux?style=flat-square&color=blue)](https://github.com/batocera-linux/batocera.linux/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > batocera.linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 696 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ batocera-linux/batocera.linux：batocera-linux/batocera.linux may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 67/100 |
+| outlook | 65/100 |
 | adoption | 73/100 |
 | stars | 74/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

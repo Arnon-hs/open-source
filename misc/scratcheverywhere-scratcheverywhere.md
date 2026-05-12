@@ -1,6 +1,6 @@
 # ScratchEverywhere/ScratchEverywhere
 
-[![Stars](https://img.shields.io/github/stars/ScratchEverywhere/ScratchEverywhere?style=flat-square&color=yellow)](https://github.com/ScratchEverywhere/ScratchEverywhere/stargazers) [![Forks](https://img.shields.io/github/forks/ScratchEverywhere/ScratchEverywhere?style=flat-square&color=blue)](https://github.com/ScratchEverywhere/ScratchEverywhere/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScratchEverywhere/ScratchEverywhere?style=flat-square&color=yellow)](https://github.com/ScratchEverywhere/ScratchEverywhere/stargazers) [![Forks](https://img.shields.io/github/forks/ScratchEverywhere/ScratchEverywhere?style=flat-square&color=blue)](https://github.com/ScratchEverywhere/ScratchEverywhere/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Custom Scratch Runtime made in C++!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 508 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ ScratchEverywhere/ScratchEverywhere：ScratchEverywhere/ScratchEverywhere may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # misakaio/chnroutes2
 
-[![Stars](https://img.shields.io/github/stars/misakaio/chnroutes2?style=flat-square&color=yellow)](https://github.com/misakaio/chnroutes2/stargazers) [![Forks](https://img.shields.io/github/forks/misakaio/chnroutes2?style=flat-square&color=blue)](https://github.com/misakaio/chnroutes2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/misakaio/chnroutes2?style=flat-square&color=yellow)](https://github.com/misakaio/chnroutes2/stargazers) [![Forks](https://img.shields.io/github/forks/misakaio/chnroutes2?style=flat-square&color=blue)](https://github.com/misakaio/chnroutes2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Better aggregated chnroutes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 843 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ misakaio/chnroutes2：misakaio/chnroutes2 helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

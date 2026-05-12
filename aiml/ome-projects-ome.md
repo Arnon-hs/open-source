@@ -1,6 +1,6 @@
 # ome-projects/ome
 
-[![Stars](https://img.shields.io/github/stars/ome-projects/ome?style=flat-square&color=yellow)](https://github.com/ome-projects/ome/stargazers) [![Forks](https://img.shields.io/github/forks/ome-projects/ome?style=flat-square&color=blue)](https://github.com/ome-projects/ome/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ome-projects/ome?style=flat-square&color=yellow)](https://github.com/ome-projects/ome/stargazers) [![Forks](https://img.shields.io/github/forks/ome-projects/ome?style=flat-square&color=blue)](https://github.com/ome-projects/ome/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open Model Engine (OME) — Kubernetes operator for LLM serving, GPU scheduling, and model lifecycle management. Works with SGLang, vLLM, TensorRT-LLM, and Triton
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open Model Engine (OME) — это Kubernetes‑оператор, которы
 
 ### 中文
 
-ome-projects/ome：ome-projects/ome helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ome-projects/ome：ome-projects/ome helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ome-projects/ome：ome-projects/ome helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ome-projects/ome：ome-projects/ome helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 77/100 |
+| production | 72/100 |
+| outlook | 70/100 |
 | adoption | 54/100 |
 | stars | 56/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

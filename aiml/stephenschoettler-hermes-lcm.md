@@ -1,6 +1,6 @@
 # stephenschoettler/hermes-lcm
 
-[![Stars](https://img.shields.io/github/stars/stephenschoettler/hermes-lcm?style=flat-square&color=yellow)](https://github.com/stephenschoettler/hermes-lcm/stargazers) [![Forks](https://img.shields.io/github/forks/stephenschoettler/hermes-lcm?style=flat-square&color=blue)](https://github.com/stephenschoettler/hermes-lcm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stephenschoettler/hermes-lcm?style=flat-square&color=yellow)](https://github.com/stephenschoettler/hermes-lcm/stargazers) [![Forks](https://img.shields.io/github/forks/stephenschoettler/hermes-lcm?style=flat-square&color=blue)](https://github.com/stephenschoettler/hermes-lcm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ stephenschoettler/hermes-lcm：stephenschoettler/hermes-lcm helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 69/100 |
+| production | 66/100 |
+| outlook | 62/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ojuschugh1/sqz
 
-[![Stars](https://img.shields.io/github/stars/ojuschugh1/sqz?style=flat-square&color=yellow)](https://github.com/ojuschugh1/sqz/stargazers) [![Forks](https://img.shields.io/github/forks/ojuschugh1/sqz?style=flat-square&color=blue)](https://github.com/ojuschugh1/sqz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ojuschugh1/sqz?style=flat-square&color=yellow)](https://github.com/ojuschugh1/sqz/stargazers) [![Forks](https://img.shields.io/github/forks/ojuschugh1/sqz?style=flat-square&color=blue)](https://github.com/ojuschugh1/sqz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Compress LLM context to save tokens and reduce costs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 215 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Backend · DevTools
 
 ### 中文
 
-ojuschugh1/sqz：ojuschugh1/sqz helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ojuschugh1/sqz：ojuschugh1/sqz helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ojuschugh1/sqz：ojuschugh1/sqz helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ojuschugh1/sqz：ojuschugh1/sqz helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 86/100 |
+| production | 72/100 |
+| outlook | 79/100 |
 | adoption | 43/100 |
 | stars | 50/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

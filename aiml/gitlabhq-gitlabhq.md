@@ -1,6 +1,6 @@
 # gitlabhq/gitlabhq
 
-[![Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=flat-square&color=yellow)](https://github.com/gitlabhq/gitlabhq/stargazers) [![Forks](https://img.shields.io/github/forks/gitlabhq/gitlabhq?style=flat-square&color=blue)](https://github.com/gitlabhq/gitlabhq/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=flat-square&color=yellow)](https://github.com/gitlabhq/gitlabhq/stargazers) [![Forks](https://img.shields.io/github/forks/gitlabhq/gitlabhq?style=flat-square&color=blue)](https://github.com/gitlabhq/gitlabhq/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.3k |
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GitLab CE — открытая версия популярной платфо�
 
 ### 中文
 
-gitlabhq/gitlabhq：gitlabhq/gitlabhq helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+gitlabhq/gitlabhq：gitlabhq/gitlabhq helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gitlabhq/gitlabhq：gitlabhq/gitlabhq helps add AI capability without starting f
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gitlabhq/gitlabhq：gitlabhq/gitlabhq helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 94/100 |
 | stars | 93/100 |
 | forks | 94/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

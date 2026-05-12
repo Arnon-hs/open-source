@@ -1,6 +1,6 @@
 # FrizzleM/BreakFree
 
-[![Stars](https://img.shields.io/github/stars/FrizzleM/BreakFree?style=flat-square&color=yellow)](https://github.com/FrizzleM/BreakFree/stargazers) [![Forks](https://img.shields.io/github/forks/FrizzleM/BreakFree?style=flat-square&color=blue)](https://github.com/FrizzleM/BreakFree/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrizzleM/BreakFree?style=flat-square&color=yellow)](https://github.com/FrizzleM/BreakFree/stargazers) [![Forks](https://img.shields.io/github/forks/FrizzleM/BreakFree?style=flat-square&color=blue)](https://github.com/FrizzleM/BreakFree/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an Apple blocking DNSs and public certificates
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ FrizzleM/BreakFree：FrizzleM/BreakFree helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
