@@ -1,6 +1,6 @@
 # cryfs/cryfs
 
-[![Stars](https://img.shields.io/github/stars/cryfs/cryfs?style=flat-square&color=yellow)](https://github.com/cryfs/cryfs/stargazers) [![Forks](https://img.shields.io/github/forks/cryfs/cryfs?style=flat-square&color=blue)](https://github.com/cryfs/cryfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cryfs/cryfs?style=flat-square&color=yellow)](https://github.com/cryfs/cryfs/stargazers) [![Forks](https://img.shields.io/github/forks/cryfs/cryfs?style=flat-square&color=blue)](https://github.com/cryfs/cryfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptographic filesystem for the cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CryFS — это открытая файловая система, обесп�
 
 ### 中文
 
-cryfs/cryfs：cryfs/cryfs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cryfs/cryfs：cryfs/cryfs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cryfs/cryfs：cryfs/cryfs helps prototype or inspect blockchain workflows with o
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cryfs/cryfs：cryfs/cryfs helps prototype or inspect blockchain workflows with o
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

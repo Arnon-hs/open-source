@@ -1,6 +1,6 @@
 # Kurdeus/Meli-Action
 
-[![Stars](https://img.shields.io/github/stars/Kurdeus/Meli-Action?style=flat-square&color=yellow)](https://github.com/Kurdeus/Meli-Action/stargazers) [![Forks](https://img.shields.io/github/forks/Kurdeus/Meli-Action?style=flat-square&color=blue)](https://github.com/Kurdeus/Meli-Action/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kurdeus/Meli-Action?style=flat-square&color=yellow)](https://github.com/Kurdeus/Meli-Action/stargazers) [![Forks](https://img.shields.io/github/forks/Kurdeus/Meli-Action?style=flat-square&color=blue)](https://github.com/Kurdeus/Meli-Action/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > دانلود فایل از لینک مستقیم، یوتیوب، تلگرام، گوگل پلی، و ذخیره صفحات وب در فیلترینگ شدید اینترنت ملی (پروژه بزرگ ضد فیلترینگ)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ Kurdeus/Meli-Action：Kurdeus/Meli-Action may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 70/100 |
+| production | 66/100 |
+| outlook | 63/100 |
 | adoption | 65/100 |
 | stars | 59/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # aaronjmars/aeon
 
-[![Stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=flat-square&color=yellow)](https://github.com/aaronjmars/aeon/stargazers) [![Forks](https://img.shields.io/github/forks/aaronjmars/aeon?style=flat-square&color=blue)](https://github.com/aaronjmars/aeon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=flat-square&color=yellow)](https://github.com/aaronjmars/aeon/stargazers) [![Forks](https://img.shields.io/github/forks/aaronjmars/aeon?style=flat-square&color=blue)](https://github.com/aaronjmars/aeon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aaronjmars/aeon：aaronjmars/aeon helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 65/100 |
+| outlook | 69/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

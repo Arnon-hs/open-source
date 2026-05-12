@@ -1,6 +1,6 @@
 # opensesh/KARIMO
 
-[![Stars](https://img.shields.io/github/stars/opensesh/KARIMO?style=flat-square&color=yellow)](https://github.com/opensesh/KARIMO/stargazers) [![Forks](https://img.shields.io/github/forks/opensesh/KARIMO?style=flat-square&color=blue)](https://github.com/opensesh/KARIMO/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensesh/KARIMO?style=flat-square&color=yellow)](https://github.com/opensesh/KARIMO/stargazers) [![Forks](https://img.shields.io/github/forks/opensesh/KARIMO?style=flat-square&color=blue)](https://github.com/opensesh/KARIMO/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code harness engineering plugin — plan mode on steroids. Product design-driven agent orchestration with sub-agents and agent teams, tuned for developers and designers shipping real features. Phased adoption from PRD execution to automated review, code review, and CI-friendly agent teams
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ opensesh/KARIMO：opensesh/KARIMO helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

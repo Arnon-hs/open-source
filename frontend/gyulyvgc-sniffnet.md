@@ -1,6 +1,6 @@
 # GyulyVGC/sniffnet
 
-[![Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat-square&color=yellow)](https://github.com/GyulyVGC/sniffnet/stargazers) [![Forks](https://img.shields.io/github/forks/GyulyVGC/sniffnet?style=flat-square&color=blue)](https://github.com/GyulyVGC/sniffnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat-square&color=yellow)](https://github.com/GyulyVGC/sniffnet/stargazers) [![Forks](https://img.shields.io/github/forks/GyulyVGC/sniffnet?style=flat-square&color=blue)](https://github.com/GyulyVGC/sniffnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Comfortably monitor your Internet traffic 🕵️‍♂️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.3k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GyulyVGC/sniffnet — это открытый фронтенд‑инстру�
 
 ### 中文
 
-GyulyVGC/sniffnet：GyulyVGC/sniffnet helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GyulyVGC/sniffnet：GyulyVGC/sniffnet helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GyulyVGC/sniffnet：GyulyVGC/sniffnet helps ship user-facing interfaces with les
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GyulyVGC/sniffnet：GyulyVGC/sniffnet helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 30/100 |
-| production | 80/100 |
-| outlook | 93/100 |
+| production | 74/100 |
+| outlook | 86/100 |
 | adoption | 92/100 |
 | stars | 97/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

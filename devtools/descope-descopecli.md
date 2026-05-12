@@ -1,6 +1,6 @@
 # descope/descopecli
 
-[![Stars](https://img.shields.io/github/stars/descope/descopecli?style=flat-square&color=yellow)](https://github.com/descope/descopecli/stargazers) [![Forks](https://img.shields.io/github/forks/descope/descopecli?style=flat-square&color=blue)](https://github.com/descope/descopecli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/descope/descopecli?style=flat-square&color=yellow)](https://github.com/descope/descopecli/stargazers) [![Forks](https://img.shields.io/github/forks/descope/descopecli?style=flat-square&color=blue)](https://github.com/descope/descopecli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A command line utility for performing common tasks on Descope projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ descope/descopecli：descope/descopecli helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 67/100 |
+| outlook | 64/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

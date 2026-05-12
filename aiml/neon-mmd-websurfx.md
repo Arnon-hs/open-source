@@ -1,6 +1,6 @@
 # neon-mmd/websurfx
 
-[![Stars](https://img.shields.io/github/stars/neon-mmd/websurfx?style=flat-square&color=yellow)](https://github.com/neon-mmd/websurfx/stargazers) [![Forks](https://img.shields.io/github/forks/neon-mmd/websurfx?style=flat-square&color=blue)](https://github.com/neon-mmd/websurfx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neon-mmd/websurfx?style=flat-square&color=yellow)](https://github.com/neon-mmd/websurfx/stargazers) [![Forks](https://img.shields.io/github/forks/neon-mmd/websurfx?style=flat-square&color=blue)](https://github.com/neon-mmd/websurfx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Neon‑MMD/websurfx — это полностью открытый метап�
 
 ### 中文
 
-neon-mmd/websurfx：neon-mmd/websurfx helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+neon-mmd/websurfx：neon-mmd/websurfx helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ neon-mmd/websurfx：neon-mmd/websurfx helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ neon-mmd/websurfx：neon-mmd/websurfx helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

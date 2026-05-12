@@ -1,6 +1,6 @@
 # khuynh22/mcp-wireshark
 
-[![Stars](https://img.shields.io/github/stars/khuynh22/mcp-wireshark?style=flat-square&color=yellow)](https://github.com/khuynh22/mcp-wireshark/stargazers) [![Forks](https://img.shields.io/github/forks/khuynh22/mcp-wireshark?style=flat-square&color=blue)](https://github.com/khuynh22/mcp-wireshark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khuynh22/mcp-wireshark?style=flat-square&color=yellow)](https://github.com/khuynh22/mcp-wireshark/stargazers) [![Forks](https://img.shields.io/github/forks/khuynh22/mcp-wireshark?style=flat-square&color=blue)](https://github.com/khuynh22/mcp-wireshark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that integrates Wireshark/tshark with AI tools and IDEs. Capture live traffic, parse .pcap files, apply display filters, follow streams, and export JSON - all via Claude Desktop, VS Code, or CLI. Cross‑platform, typed, tested, and pip‑installable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ khuynh22/mcp-wireshark — это кросс‑платформенный се
 
 ### 中文
 
-khuynh22/mcp-wireshark：khuynh22/mcp-wireshark helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+khuynh22/mcp-wireshark：khuynh22/mcp-wireshark helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ khuynh22/mcp-wireshark：khuynh22/mcp-wireshark helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ khuynh22/mcp-wireshark：khuynh22/mcp-wireshark helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 77/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

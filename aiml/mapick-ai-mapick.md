@@ -1,6 +1,6 @@
 # mapick-ai/mapick
 
-[![Stars](https://img.shields.io/github/stars/mapick-ai/mapick?style=flat-square&color=yellow)](https://github.com/mapick-ai/mapick/stargazers) [![Forks](https://img.shields.io/github/forks/mapick-ai/mapick?style=flat-square&color=blue)](https://github.com/mapick-ai/mapick/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapick-ai/mapick?style=flat-square&color=yellow)](https://github.com/mapick-ai/mapick/stargazers) [![Forks](https://img.shields.io/github/forks/mapick-ai/mapick?style=flat-square&color=blue)](https://github.com/mapick-ai/mapick/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Mapick Butler - Privacy layer + skill advisor for OpenClaw. Redacts secrets locally, recommends workflow-fit skills, cleans zombies, scores risk, generates persona, ships bundles. MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mapick-ai/mapick：mapick-ai/mapick helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 65/100 |
+| outlook | 72/100 |
 | adoption | 24/100 |
 | stars | 29/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

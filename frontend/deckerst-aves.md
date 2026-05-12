@@ -1,6 +1,6 @@
 # deckerst/aves
 
-[![Stars](https://img.shields.io/github/stars/deckerst/aves?style=flat-square&color=yellow)](https://github.com/deckerst/aves/stargazers) [![Forks](https://img.shields.io/github/forks/deckerst/aves?style=flat-square&color=blue)](https://github.com/deckerst/aves/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deckerst/aves?style=flat-square&color=yellow)](https://github.com/deckerst/aves/stargazers) [![Forks](https://img.shields.io/github/forks/deckerst/aves?style=flat-square&color=blue)](https://github.com/deckerst/aves/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Aves is a gallery and metadata explorer app, built for Android with Flutter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Aves — открытое приложение‑галерея и иссле�
 
 ### 中文
 
-deckerst/aves：deckerst/aves helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+deckerst/aves：deckerst/aves helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ deckerst/aves：deckerst/aves helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ deckerst/aves：deckerst/aves helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
