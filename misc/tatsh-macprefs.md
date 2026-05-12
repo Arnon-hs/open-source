@@ -1,6 +1,6 @@
 # Tatsh/macprefs
 
-[![Stars](https://img.shields.io/github/stars/Tatsh/macprefs?style=flat-square&color=yellow)](https://github.com/Tatsh/macprefs/stargazers) [![Forks](https://img.shields.io/github/forks/Tatsh/macprefs?style=flat-square&color=blue)](https://github.com/Tatsh/macprefs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tatsh/macprefs?style=flat-square&color=yellow)](https://github.com/Tatsh/macprefs/stargazers) [![Forks](https://img.shields.io/github/forks/Tatsh/macprefs?style=flat-square&color=blue)](https://github.com/Tatsh/macprefs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Command and library to export macOS preferences.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Tatsh/macprefs：Tatsh/macprefs may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 65/100 |
+| production | 63/100 |
+| outlook | 58/100 |
 | adoption | 28/100 |
 | stars | 35/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

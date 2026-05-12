@@ -1,6 +1,6 @@
 # joshsymonds/nix-config
 
-[![Stars](https://img.shields.io/github/stars/joshsymonds/nix-config?style=flat-square&color=yellow)](https://github.com/joshsymonds/nix-config/stargazers) [![Forks](https://img.shields.io/github/forks/joshsymonds/nix-config?style=flat-square&color=blue)](https://github.com/joshsymonds/nix-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshsymonds/nix-config?style=flat-square&color=yellow)](https://github.com/joshsymonds/nix-config/stargazers) [![Forks](https://img.shields.io/github/forks/joshsymonds/nix-config?style=flat-square&color=blue)](https://github.com/joshsymonds/nix-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ joshsymonds/nix-config：joshsymonds/nix-config may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 18/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

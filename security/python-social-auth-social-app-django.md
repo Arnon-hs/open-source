@@ -1,6 +1,6 @@
 # python-social-auth/social-app-django
 
-[![Stars](https://img.shields.io/github/stars/python-social-auth/social-app-django?style=flat-square&color=yellow)](https://github.com/python-social-auth/social-app-django/stargazers) [![Forks](https://img.shields.io/github/forks/python-social-auth/social-app-django?style=flat-square&color=blue)](https://github.com/python-social-auth/social-app-django/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python-social-auth/social-app-django?style=flat-square&color=yellow)](https://github.com/python-social-auth/social-app-django/stargazers) [![Forks](https://img.shields.io/github/forks/python-social-auth/social-app-django?style=flat-square&color=blue)](https://github.com/python-social-auth/social-app-django/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Python Social Auth - Application - Django
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Python Social Auth – приложение для Django, позволяюще�
 
 ### 中文
 
-python-social-auth/social-app-django：python-social-auth/social-app-django helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+python-social-auth/social-app-django：python-social-auth/social-app-django helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ python-social-auth/social-app-django：python-social-auth/social-app-django help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ python-social-auth/social-app-django：python-social-auth/social-app-django help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 77/100 |
+| production | 72/100 |
+| outlook | 70/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

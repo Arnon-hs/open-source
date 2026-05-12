@@ -1,6 +1,6 @@
 # martinjrobins/diffsol
 
-[![Stars](https://img.shields.io/github/stars/martinjrobins/diffsol?style=flat-square&color=yellow)](https://github.com/martinjrobins/diffsol/stargazers) [![Forks](https://img.shields.io/github/forks/martinjrobins/diffsol?style=flat-square&color=blue)](https://github.com/martinjrobins/diffsol/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martinjrobins/diffsol?style=flat-square&color=yellow)](https://github.com/martinjrobins/diffsol/stargazers) [![Forks](https://img.shields.io/github/forks/martinjrobins/diffsol?style=flat-square&color=blue)](https://github.com/martinjrobins/diffsol/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ODE solver library in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ martinjrobins/diffsol：martinjrobins/diffsol may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 39/100 |
 | stars | 44/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

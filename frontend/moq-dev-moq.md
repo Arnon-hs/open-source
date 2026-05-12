@@ -1,6 +1,6 @@
 # moq-dev/moq
 
-[![Stars](https://img.shields.io/github/stars/moq-dev/moq?style=flat-square&color=yellow)](https://github.com/moq-dev/moq/stargazers) [![Forks](https://img.shields.io/github/forks/moq-dev/moq?style=flat-square&color=blue)](https://github.com/moq-dev/moq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moq-dev/moq?style=flat-square&color=yellow)](https://github.com/moq-dev/moq/stargazers) [![Forks](https://img.shields.io/github/forks/moq-dev/moq?style=flat-square&color=blue)](https://github.com/moq-dev/moq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Media over QUIC library in Rust+Typescript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ moq-dev/moq：moq-dev/moq helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 69/100 |
+| production | 66/100 |
+| outlook | 62/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

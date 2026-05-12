@@ -1,6 +1,6 @@
 # sourcebot-dev/sourcebot
 
-[![Stars](https://img.shields.io/github/stars/sourcebot-dev/sourcebot?style=flat-square&color=yellow)](https://github.com/sourcebot-dev/sourcebot/stargazers) [![Forks](https://img.shields.io/github/forks/sourcebot-dev/sourcebot?style=flat-square&color=blue)](https://github.com/sourcebot-dev/sourcebot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcebot-dev/sourcebot?style=flat-square&color=yellow)](https://github.com/sourcebot-dev/sourcebot/stargazers) [![Forks](https://img.shields.io/github/forks/sourcebot-dev/sourcebot?style=flat-square&color=blue)](https://github.com/sourcebot-dev/sourcebot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Sourcebot is a self-hosted tool that helps humans and agents understand your codebase.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sourcebot — это самостоятельный open‑source сервис
 
 ### 中文
 
-sourcebot-dev/sourcebot：sourcebot-dev/sourcebot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sourcebot-dev/sourcebot：sourcebot-dev/sourcebot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sourcebot-dev/sourcebot：sourcebot-dev/sourcebot helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sourcebot-dev/sourcebot：sourcebot-dev/sourcebot helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 86/100 |
+| production | 70/100 |
+| outlook | 79/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

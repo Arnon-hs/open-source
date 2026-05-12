@@ -1,6 +1,6 @@
 # archcore-ai/plugin
 
-[![Stars](https://img.shields.io/github/stars/archcore-ai/plugin?style=flat-square&color=yellow)](https://github.com/archcore-ai/plugin/stargazers) [![Forks](https://img.shields.io/github/forks/archcore-ai/plugin?style=flat-square&color=blue)](https://github.com/archcore-ai/plugin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archcore-ai/plugin?style=flat-square&color=yellow)](https://github.com/archcore-ai/plugin/stargazers) [![Forks](https://img.shields.io/github/forks/archcore-ai/plugin?style=flat-square&color=blue)](https://github.com/archcore-ai/plugin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Git-native repo context for Claude Code, Cursor, and other AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ archcore-ai/plugin：archcore-ai/plugin helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 25/100 |
 | stars | 29/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

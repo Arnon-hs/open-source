@@ -1,6 +1,6 @@
 # getkyo/kyo
 
-[![Stars](https://img.shields.io/github/stars/getkyo/kyo?style=flat-square&color=yellow)](https://github.com/getkyo/kyo/stargazers) [![Forks](https://img.shields.io/github/forks/getkyo/kyo?style=flat-square&color=blue)](https://github.com/getkyo/kyo/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getkyo/kyo?style=flat-square&color=yellow)](https://github.com/getkyo/kyo/stargazers) [![Forks](https://img.shields.io/github/forks/getkyo/kyo?style=flat-square&color=blue)](https://github.com/getkyo/kyo/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit for Scala Development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 764 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ getkyo/kyo：getkyo/kyo may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 63/100 |
+| outlook | 64/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

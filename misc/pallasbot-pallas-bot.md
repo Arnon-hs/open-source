@@ -1,6 +1,6 @@
 # PallasBot/Pallas-Bot
 
-[![Stars](https://img.shields.io/github/stars/PallasBot/Pallas-Bot?style=flat-square&color=yellow)](https://github.com/PallasBot/Pallas-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/PallasBot/Pallas-Bot?style=flat-square&color=blue)](https://github.com/PallasBot/Pallas-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PallasBot/Pallas-Bot?style=flat-square&color=yellow)](https://github.com/PallasBot/Pallas-Bot/stargazers) [![Forks](https://img.shields.io/github/forks/PallasBot/Pallas-Bot?style=flat-square&color=blue)](https://github.com/PallasBot/Pallas-Bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 《明日方舟》帕拉斯 Bot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ PallasBot/Pallas-Bot：PallasBot/Pallas-Bot may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 67/100 |
+| production | 64/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

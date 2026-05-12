@@ -1,6 +1,6 @@
 # stripe-samples/checkout-one-time-payments
 
-[![Stars](https://img.shields.io/github/stars/stripe-samples/checkout-one-time-payments?style=flat-square&color=yellow)](https://github.com/stripe-samples/checkout-one-time-payments/stargazers) [![Forks](https://img.shields.io/github/forks/stripe-samples/checkout-one-time-payments?style=flat-square&color=blue)](https://github.com/stripe-samples/checkout-one-time-payments/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe-samples/checkout-one-time-payments?style=flat-square&color=yellow)](https://github.com/stripe-samples/checkout-one-time-payments/stargazers) [![Forks](https://img.shields.io/github/forks/stripe-samples/checkout-one-time-payments?style=flat-square&color=blue)](https://github.com/stripe-samples/checkout-one-time-payments/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Use Checkout to quickly collect one-time payments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 530 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stripe-samples/checkout-one-time-payments：stripe-samples/checkout-one-time-pay
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 65/100 |
 | stars | 64/100 |
 | forks | 68/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

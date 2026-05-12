@@ -1,6 +1,6 @@
 # opensearch-project/security
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/security?style=flat-square&color=yellow)](https://github.com/opensearch-project/security/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/security?style=flat-square&color=blue)](https://github.com/opensearch-project/security/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/security?style=flat-square&color=yellow)](https://github.com/opensearch-project/security/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/security?style=flat-square&color=blue)](https://github.com/opensearch-project/security/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ opensearch-project/security：opensearch-project/security helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 55/100 |
 | stars | 51/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

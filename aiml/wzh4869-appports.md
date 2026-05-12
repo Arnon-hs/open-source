@@ -1,6 +1,6 @@
 # wzh4869/AppPorts
 
-[![Stars](https://img.shields.io/github/stars/wzh4869/AppPorts?style=flat-square&color=yellow)](https://github.com/wzh4869/AppPorts/stargazers) [![Forks](https://img.shields.io/github/forks/wzh4869/AppPorts?style=flat-square&color=blue)](https://github.com/wzh4869/AppPorts/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wzh4869/AppPorts?style=flat-square&color=yellow)](https://github.com/wzh4869/AppPorts/stargazers) [![Forks](https://img.shields.io/github/forks/wzh4869/AppPorts?style=flat-square&color=blue)](https://github.com/wzh4869/AppPorts/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wzh4869/AppPorts：wzh4869/AppPorts helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 59/100 |
 | stars | 65/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bmad-code-org/BMAD-METHOD
 
-[![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat-square&color=yellow)](https://github.com/bmad-code-org/BMAD-METHOD/stargazers) [![Forks](https://img.shields.io/github/forks/bmad-code-org/BMAD-METHOD?style=flat-square&color=blue)](https://github.com/bmad-code-org/BMAD-METHOD/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat-square&color=yellow)](https://github.com/bmad-code-org/BMAD-METHOD/stargazers) [![Forks](https://img.shields.io/github/forks/bmad-code-org/BMAD-METHOD?style=flat-square&color=blue)](https://github.com/bmad-code-org/BMAD-METHOD/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Breakthrough Method for Agile Ai Driven Development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46.7k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BMAD-METHOD is an open‑source framework that combines agile development practi
 
 ### 中文
 
-bmad-code-org/BMAD-METHOD：bmad-code-org/BMAD-METHOD helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bmad-code-org/BMAD-METHOD：bmad-code-org/BMAD-METHOD helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bmad-code-org/BMAD-METHOD：bmad-code-org/BMAD-METHOD helps add AI capability wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ bmad-code-org/BMAD-METHOD：bmad-code-org/BMAD-METHOD helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 78/100 |
+| production | 69/100 |
+| outlook | 71/100 |
 | adoption | 98/100 |
 | stars | 99/100 |
 | forks | 93/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

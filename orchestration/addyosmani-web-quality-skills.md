@@ -1,6 +1,6 @@
 # addyosmani/web-quality-skills
 
-[![Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat-square&color=yellow)](https://github.com/addyosmani/web-quality-skills/stargazers) [![Forks](https://img.shields.io/github/forks/addyosmani/web-quality-skills?style=flat-square&color=blue)](https://github.com/addyosmani/web-quality-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat-square&color=yellow)](https://github.com/addyosmani/web-quality-skills/stargazers) [![Forks](https://img.shields.io/github/forks/addyosmani/web-quality-skills?style=flat-square&color=blue)](https://github.com/addyosmani/web-quality-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ addyosmani/web-quality-skills is an open‑source library that provides ready‑
 
 ### 中文
 
-addyosmani/web-quality-skills：addyosmani/web-quality-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+addyosmani/web-quality-skills：addyosmani/web-quality-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ addyosmani/web-quality-skills：addyosmani/web-quality-skills helps turn isolate
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ addyosmani/web-quality-skills：addyosmani/web-quality-skills helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
