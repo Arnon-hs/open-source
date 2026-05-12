@@ -24,8 +24,8 @@
 | 14 | [stacklok/toolhive-studio](./stacklok-toolhive-studio.md) | ⭐ 126 | TypeScript | 81/100 |
 | 15 | [TurixAI/TuriX-CUA](./turixai-turix-cua.md) | ⭐ 2.9k | Python | 81/100 |
 | 16 | [auth0/auth0-mcp-server](./auth0-auth0-mcp-server.md) | ⭐ 106 | TypeScript | 81/100 |
-| 17 | [taazkareem/clickup-mcp-server](./taazkareem-clickup-mcp-server.md) | ⭐ 38 | Dockerfile | 81/100 |
-| 18 | [nyroway/nyro](./nyroway-nyro.md) | ⭐ 133 | Rust | 81/100 |
+| 17 | [nyroway/nyro](./nyroway-nyro.md) | ⭐ 133 | Rust | 81/100 |
+| 18 | [taazkareem/clickup-mcp-server](./taazkareem-clickup-mcp-server.md) | ⭐ 38 | Dockerfile | 81/100 |
 | 19 | [iFurySt/open-codex-computer-use](./ifuryst-open-codex-computer-use.md) | ⭐ 705 | Swift | 81/100 |
 | 20 | [isnow890/naver-search-mcp](./isnow890-naver-search-mcp.md) | ⭐ 68 | TypeScript | 80/100 |
 | 21 | [minthcm/minthcm](./minthcm-minthcm.md) | ⭐ 360 | PHP | 80/100 |

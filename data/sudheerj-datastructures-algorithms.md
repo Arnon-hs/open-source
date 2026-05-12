@@ -1,6 +1,6 @@
 # sudheerj/datastructures-algorithms
 
-[![Stars](https://img.shields.io/github/stars/sudheerj/datastructures-algorithms?style=flat-square&color=yellow)](https://github.com/sudheerj/datastructures-algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/sudheerj/datastructures-algorithms?style=flat-square&color=blue)](https://github.com/sudheerj/datastructures-algorithms/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sudheerj/datastructures-algorithms?style=flat-square&color=yellow)](https://github.com/sudheerj/datastructures-algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/sudheerj/datastructures-algorithms?style=flat-square&color=blue)](https://github.com/sudheerj/datastructures-algorithms/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > List of Programs related to data structures and algorithms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **sudheerj/datastructures-algorithms** предста
 
 ### 中文
 
-sudheerj/datastructures-algorithms：sudheerj/datastructures-algorithms helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sudheerj/datastructures-algorithms：sudheerj/datastructures-algorithms helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sudheerj/datastructures-algorithms：sudheerj/datastructures-algorithms helps co
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sudheerj/datastructures-algorithms：sudheerj/datastructures-algorithms helps co
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 79/100 |
+| production | 73/100 |
+| outlook | 72/100 |
 | adoption | 61/100 |
 | stars | 61/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

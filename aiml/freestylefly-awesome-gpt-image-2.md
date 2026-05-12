@@ -1,6 +1,6 @@
 # freestylefly/awesome-gpt-image-2
 
-[![Stars](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=yellow)](https://github.com/freestylefly/awesome-gpt-image-2/stargazers) [![Forks](https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=blue)](https://github.com/freestylefly/awesome-gpt-image-2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=yellow)](https://github.com/freestylefly/awesome-gpt-image-2/stargazers) [![Forks](https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=blue)](https://github.com/freestylefly/awesome-gpt-image-2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 665 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-freestylefly/awesome-gpt-image-2：freestylefly/awesome-gpt-image-2 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+freestylefly/awesome-gpt-image-2：freestylefly/awesome-gpt-image-2 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ freestylefly/awesome-gpt-image-2：freestylefly/awesome-gpt-image-2 helps add AI
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ freestylefly/awesome-gpt-image-2：freestylefly/awesome-gpt-image-2 helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 91/100 |
+| production | 70/100 |
+| outlook | 84/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

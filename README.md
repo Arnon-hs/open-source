@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **6992** |
+| 🗂️ **Total projects** | **7032** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2581 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1279 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 694 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 2592 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1290 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 699 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 599 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 368 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 347 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 242 | [Browse →](./crypto/) |
+| 🔧 **DevTools** | 371 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 348 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 245 | [Browse →](./crypto/) |
 | 📊 **Data** | 164 | [Browse →](./data/) |
-| 💳 **Payments** | 109 | [Browse →](./payments/) |
+| 💳 **Payments** | 111 | [Browse →](./payments/) |
 | 🏷️ **Mcp** | 94 | [Browse →](./mcp/) |
-| 📈 **Trading** | 84 | [Browse →](./trading/) |
+| 📈 **Trading** | 85 | [Browse →](./trading/) |
 | 📱 **Mobile** | 83 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 79 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 81 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 71 | [Browse →](./devopsinfra/) |
 | 🏷️ **Knowledgerag** | 62 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 50 | [Browse →](./security/) |
+| 🔐 **Security** | 51 | [Browse →](./security/) |
 | 🏷️ **Database** | 28 | [Browse →](./database/) |
 | ✨ **Design** | 21 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
@@ -51,10 +51,10 @@
 | 4 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
 | 5 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
 | 6 | [subzeroid/instagrapi](./backend/subzeroid-instagrapi.md) | ⭐ 6.2k | Backend |
-| 7 | [davepoon/buildwithclaude](./aiml/davepoon-buildwithclaude.md) | ⭐ 2.9k | AI/ML |
-| 8 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
-| 9 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 15k | AI/ML |
-| 10 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.7k | Orchestration |
+| 7 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
+| 8 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 15k | AI/ML |
+| 9 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.7k | Orchestration |
+| 10 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 46k | Orchestration |
 
 ## 🚀 How it works
 

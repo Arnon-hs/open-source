@@ -1,6 +1,6 @@
 # wavelog/wavelog
 
-[![Stars](https://img.shields.io/github/stars/wavelog/wavelog?style=flat-square&color=yellow)](https://github.com/wavelog/wavelog/stargazers) [![Forks](https://img.shields.io/github/forks/wavelog/wavelog?style=flat-square&color=blue)](https://github.com/wavelog/wavelog/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wavelog/wavelog?style=flat-square&color=yellow)](https://github.com/wavelog/wavelog/stargazers) [![Forks](https://img.shields.io/github/forks/wavelog/wavelog?style=flat-square&color=blue)](https://github.com/wavelog/wavelog/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wavelog/wavelog：wavelog/wavelog helps convert raw data into searchable, analyz
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 80/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 54/100 |
 | stars | 56/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

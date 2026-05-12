@@ -1,6 +1,6 @@
 # wildcard/caro
 
-[![Stars](https://img.shields.io/github/stars/wildcard/caro?style=flat-square&color=yellow)](https://github.com/wildcard/caro/stargazers) [![Forks](https://img.shields.io/github/forks/wildcard/caro?style=flat-square&color=blue)](https://github.com/wildcard/caro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wildcard/caro?style=flat-square&color=yellow)](https://github.com/wildcard/caro/stargazers) [![Forks](https://img.shields.io/github/forks/wildcard/caro?style=flat-square&color=blue)](https://github.com/wildcard/caro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > caro: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wildcard/caro：wildcard/caro helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 74/100 |
+| production | 68/100 |
+| outlook | 67/100 |
 | adoption | 28/100 |
 | stars | 32/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # cppcheck-opensource/cppcheck
 
-[![Stars](https://img.shields.io/github/stars/cppcheck-opensource/cppcheck?style=flat-square&color=yellow)](https://github.com/cppcheck-opensource/cppcheck/stargazers) [![Forks](https://img.shields.io/github/forks/cppcheck-opensource/cppcheck?style=flat-square&color=blue)](https://github.com/cppcheck-opensource/cppcheck/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cppcheck-opensource/cppcheck?style=flat-square&color=yellow)](https://github.com/cppcheck-opensource/cppcheck/stargazers) [![Forks](https://img.shields.io/github/forks/cppcheck-opensource/cppcheck?style=flat-square&color=blue)](https://github.com/cppcheck-opensource/cppcheck/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > static analysis of C/C++ code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cppcheck — это бесплатный инструмент статическ
 
 ### 中文
 
-cppcheck-opensource/cppcheck：cppcheck-opensource/cppcheck may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cppcheck-opensource/cppcheck：cppcheck-opensource/cppcheck may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ cppcheck-opensource/cppcheck：cppcheck-opensource/cppcheck may be useful when i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ cppcheck-opensource/cppcheck：cppcheck-opensource/cppcheck may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 81/100 |
 | stars | 81/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # KylinMountain/TradingAgents-AShare
 
-[![Stars](https://img.shields.io/github/stars/KylinMountain/TradingAgents-AShare?style=flat-square&color=yellow)](https://github.com/KylinMountain/TradingAgents-AShare/stargazers) [![Forks](https://img.shields.io/github/forks/KylinMountain/TradingAgents-AShare?style=flat-square&color=blue)](https://github.com/KylinMountain/TradingAgents-AShare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KylinMountain/TradingAgents-AShare?style=flat-square&color=yellow)](https://github.com/KylinMountain/TradingAgents-AShare/stargazers) [![Forks](https://img.shields.io/github/forks/KylinMountain/TradingAgents-AShare?style=flat-square&color=blue)](https://github.com/KylinMountain/TradingAgents-AShare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A 股多智能体智能投研系统 — 基于 TradingAgents 架构，15 名 AI Agent 模拟机构协作与实时辩论对抗，全流程可视化，支持 OpenClaw / Claude Code 集成，Docker 一键部署。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ KylinMountain/TradingAgents‑AShare — открытая платформа д
 
 ### 中文
 
-KylinMountain/TradingAgents-AShare：KylinMountain/TradingAgents-AShare helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+KylinMountain/TradingAgents-AShare：KylinMountain/TradingAgents-AShare helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ KylinMountain/TradingAgents-AShare：KylinMountain/TradingAgents-AShare helps re
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ KylinMountain/TradingAgents-AShare：KylinMountain/TradingAgents-AShare helps re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

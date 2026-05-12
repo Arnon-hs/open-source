@@ -1,6 +1,6 @@
 # 4R9UN/mcp-kql-server
 
-[![Stars](https://img.shields.io/github/stars/4R9UN/mcp-kql-server?style=flat-square&color=yellow)](https://github.com/4R9UN/mcp-kql-server/stargazers) [![Forks](https://img.shields.io/github/forks/4R9UN/mcp-kql-server?style=flat-square&color=blue)](https://github.com/4R9UN/mcp-kql-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4R9UN/mcp-kql-server?style=flat-square&color=yellow)](https://github.com/4R9UN/mcp-kql-server/stargazers) [![Forks](https://img.shields.io/github/forks/4R9UN/mcp-kql-server?style=flat-square&color=blue)](https://github.com/4R9UN/mcp-kql-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Kusto and Log Analytics MCP server help you execute a KQL (Kusto Query Language) query within an AI prompt, analyze, and visualize the data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ The **4R9UN/mcp-kql-server** project provides a backend service that enables exe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 67/100 |
+| outlook | 66/100 |
 | adoption | 27/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

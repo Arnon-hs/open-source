@@ -1,6 +1,6 @@
 # TonyJiangWJ/mimotion
 
-[![Stars](https://img.shields.io/github/stars/TonyJiangWJ/mimotion?style=flat-square&color=yellow)](https://github.com/TonyJiangWJ/mimotion/stargazers) [![Forks](https://img.shields.io/github/forks/TonyJiangWJ/mimotion?style=flat-square&color=blue)](https://github.com/TonyJiangWJ/mimotion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TonyJiangWJ/mimotion?style=flat-square&color=yellow)](https://github.com/TonyJiangWJ/mimotion/stargazers) [![Forks](https://img.shields.io/github/forks/TonyJiangWJ/mimotion?style=flat-square&color=blue)](https://github.com/TonyJiangWJ/mimotion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 小米运动刷步数（微信支付宝）支持邮箱登录
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ TonyJiangWJ/mimotion：TonyJiangWJ/mimotion may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 67/100 |
+| outlook | 64/100 |
 | adoption | 69/100 |
 | stars | 65/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

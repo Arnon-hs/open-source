@@ -1,6 +1,6 @@
 # progval/Limnoria
 
-[![Stars](https://img.shields.io/github/stars/progval/Limnoria?style=flat-square&color=yellow)](https://github.com/progval/Limnoria/stargazers) [![Forks](https://img.shields.io/github/forks/progval/Limnoria?style=flat-square&color=blue)](https://github.com/progval/Limnoria/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/progval/Limnoria?style=flat-square&color=yellow)](https://github.com/progval/Limnoria/stargazers) [![Forks](https://img.shields.io/github/forks/progval/Limnoria?style=flat-square&color=blue)](https://github.com/progval/Limnoria/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 660 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Limnoria — это надёжный и полнофункциональный
 
 ### 中文
 
-progval/Limnoria：progval/Limnoria may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+progval/Limnoria：progval/Limnoria may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ progval/Limnoria：progval/Limnoria may be useful when its README and activity m
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ progval/Limnoria：progval/Limnoria may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 78/100 |
+| production | 73/100 |
+| outlook | 71/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

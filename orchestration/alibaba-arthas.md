@@ -1,6 +1,6 @@
 # alibaba/arthas
 
-[![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square&color=yellow)](https://github.com/alibaba/arthas/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/arthas?style=flat-square&color=blue)](https://github.com/alibaba/arthas/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square&color=yellow)](https://github.com/alibaba/arthas/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/arthas?style=flat-square&color=blue)](https://github.com/alibaba/arthas/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.3k |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Arthas is an open‑source Java diagnostic tool developed by Alibaba that enable
 
 ### 中文
 
-alibaba/arthas：alibaba/arthas helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+alibaba/arthas：alibaba/arthas helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ alibaba/arthas：alibaba/arthas helps turn isolated prompts and tools into repea
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ alibaba/arthas：alibaba/arthas helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 99/100 |
+| quality | 94/100 |
 | integration | 30/100 |
-| production | 81/100 |
-| outlook | 94/100 |
+| production | 74/100 |
+| outlook | 87/100 |
 | adoption | 97/100 |
 | stars | 97/100 |
 | forks | 97/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # neodevpro/neodevhost
 
-[![Stars](https://img.shields.io/github/stars/neodevpro/neodevhost?style=flat-square&color=yellow)](https://github.com/neodevpro/neodevhost/stargazers) [![Forks](https://img.shields.io/github/forks/neodevpro/neodevhost?style=flat-square&color=blue)](https://github.com/neodevpro/neodevhost/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neodevpro/neodevhost?style=flat-square&color=yellow)](https://github.com/neodevpro/neodevhost/stargazers) [![Forks](https://img.shields.io/github/forks/neodevpro/neodevhost?style=flat-square&color=blue)](https://github.com/neodevpro/neodevhost/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Adblock Filter List |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Neodevhost is an open‑source, regularly updated hosts file that blocks ads, tr
 
 ### 中文
 
-neodevpro/neodevhost：neodevpro/neodevhost helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+neodevpro/neodevhost：neodevpro/neodevhost helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ neodevpro/neodevhost：neodevpro/neodevhost helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ neodevpro/neodevhost：neodevpro/neodevhost helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 61/100 |
 | stars | 67/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

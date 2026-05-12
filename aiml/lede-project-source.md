@@ -1,6 +1,6 @@
 # lede-project/source
 
-[![Stars](https://img.shields.io/github/stars/lede-project/source?style=flat-square&color=yellow)](https://github.com/lede-project/source/stargazers) [![Forks](https://img.shields.io/github/forks/lede-project/source?style=flat-square&color=blue)](https://github.com/lede-project/source/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lede-project/source?style=flat-square&color=yellow)](https://github.com/lede-project/source/stargazers) [![Forks](https://img.shields.io/github/forks/lede-project/source?style=flat-square&color=blue)](https://github.com/lede-project/source/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ lede-project/source：lede-project/source helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 72/100 |
 | stars | 69/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

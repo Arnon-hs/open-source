@@ -1,6 +1,6 @@
 # joeynyc/hermes-hudui
 
-[![Stars](https://img.shields.io/github/stars/joeynyc/hermes-hudui?style=flat-square&color=yellow)](https://github.com/joeynyc/hermes-hudui/stargazers) [![Forks](https://img.shields.io/github/forks/joeynyc/hermes-hudui?style=flat-square&color=blue)](https://github.com/joeynyc/hermes-hudui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joeynyc/hermes-hudui?style=flat-square&color=yellow)](https://github.com/joeynyc/hermes-hudui/stargazers) [![Forks](https://img.shields.io/github/forks/joeynyc/hermes-hudui?style=flat-square&color=blue)](https://github.com/joeynyc/hermes-hudui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ joeynyc/hermes-hudui：joeynyc/hermes-hudui helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 64/100 |
 | stars | 67/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

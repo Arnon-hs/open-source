@@ -1,6 +1,6 @@
 # jundot/omlx
 
-[![Stars](https://img.shields.io/github/stars/jundot/omlx?style=flat-square&color=yellow)](https://github.com/jundot/omlx/stargazers) [![Forks](https://img.shields.io/github/forks/jundot/omlx?style=flat-square&color=blue)](https://github.com/jundot/omlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jundot/omlx?style=flat-square&color=yellow)](https://github.com/jundot/omlx/stargazers) [![Forks](https://img.shields.io/github/forks/jundot/omlx?style=flat-square&color=blue)](https://github.com/jundot/omlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jundot/omlx：jundot/omlx helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 84/100 |
 | stars | 87/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

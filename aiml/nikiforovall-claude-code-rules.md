@@ -1,6 +1,6 @@
 # NikiforovAll/claude-code-rules
 
-[![Stars](https://img.shields.io/github/stars/NikiforovAll/claude-code-rules?style=flat-square&color=yellow)](https://github.com/NikiforovAll/claude-code-rules/stargazers) [![Forks](https://img.shields.io/github/forks/NikiforovAll/claude-code-rules?style=flat-square&color=blue)](https://github.com/NikiforovAll/claude-code-rules/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NikiforovAll/claude-code-rules?style=flat-square&color=yellow)](https://github.com/NikiforovAll/claude-code-rules/stargazers) [![Forks](https://img.shields.io/github/forks/NikiforovAll/claude-code-rules?style=flat-square&color=blue)](https://github.com/NikiforovAll/claude-code-rules/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NikiforovAll/claude-code-rules：NikiforovAll/claude-code-rules helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 68/100 |
+| outlook | 70/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 33/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

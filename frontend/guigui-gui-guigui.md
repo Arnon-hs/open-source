@@ -1,6 +1,6 @@
 # guigui-gui/guigui
 
-[![Stars](https://img.shields.io/github/stars/guigui-gui/guigui?style=flat-square&color=yellow)](https://github.com/guigui-gui/guigui/stargazers) [![Forks](https://img.shields.io/github/forks/guigui-gui/guigui?style=flat-square&color=blue)](https://github.com/guigui-gui/guigui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guigui-gui/guigui?style=flat-square&color=yellow)](https://github.com/guigui-gui/guigui/stargazers) [![Forks](https://img.shields.io/github/forks/guigui-gui/guigui?style=flat-square&color=blue)](https://github.com/guigui-gui/guigui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An immediate-mode-inspired GUI framework for Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ guigui-gui/guigui：guigui-gui/guigui helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 49/100 |
 | stars | 56/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

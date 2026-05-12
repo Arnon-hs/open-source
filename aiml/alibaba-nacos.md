@@ -1,6 +1,6 @@
 # alibaba/nacos
 
-[![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square&color=yellow)](https://github.com/alibaba/nacos/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/nacos?style=flat-square&color=blue)](https://github.com/alibaba/nacos/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/nacos?style=flat-square&color=yellow)](https://github.com/alibaba/nacos/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/nacos?style=flat-square&color=blue)](https://github.com/alibaba/nacos/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.9k |
 | 🍴 **Forks** | 13.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/nacos：alibaba/nacos helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 99/100 |
+| quality | 94/100 |
 | integration | 62/100 |
-| production | 85/100 |
-| outlook | 94/100 |
+| production | 79/100 |
+| outlook | 87/100 |
 | adoption | 97/100 |
 | stars | 96/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # thinkjs/thinkjs
 
-[![Stars](https://img.shields.io/github/stars/thinkjs/thinkjs?style=flat-square&color=yellow)](https://github.com/thinkjs/thinkjs/stargazers) [![Forks](https://img.shields.io/github/forks/thinkjs/thinkjs?style=flat-square&color=blue)](https://github.com/thinkjs/thinkjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thinkjs/thinkjs?style=flat-square&color=yellow)](https://github.com/thinkjs/thinkjs/stargazers) [![Forks](https://img.shields.io/github/forks/thinkjs/thinkjs?style=flat-square&color=blue)](https://github.com/thinkjs/thinkjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 614 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ThinkJS — это современный фреймворк для разра
 
 ### 中文
 
-thinkjs/thinkjs：thinkjs/thinkjs may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+thinkjs/thinkjs：thinkjs/thinkjs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ thinkjs/thinkjs：thinkjs/thinkjs may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ thinkjs/thinkjs：thinkjs/thinkjs may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

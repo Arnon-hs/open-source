@@ -1,6 +1,6 @@
 # nowledge-co/con-terminal
 
-[![Stars](https://img.shields.io/github/stars/nowledge-co/con-terminal?style=flat-square&color=yellow)](https://github.com/nowledge-co/con-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/nowledge-co/con-terminal?style=flat-square&color=blue)](https://github.com/nowledge-co/con-terminal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nowledge-co/con-terminal?style=flat-square&color=yellow)](https://github.com/nowledge-co/con-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/nowledge-co/con-terminal?style=flat-square&color=blue)](https://github.com/nowledge-co/con-terminal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The Native Terminal Emulator with a builtin AI Harness
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nowledge-co/con-terminal：nowledge-co/con-terminal helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 65/100 |
+| outlook | 73/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

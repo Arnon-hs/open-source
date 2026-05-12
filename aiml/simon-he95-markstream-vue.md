@@ -1,6 +1,6 @@
 # Simon-He95/markstream-vue
 
-[![Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat-square&color=yellow)](https://github.com/Simon-He95/markstream-vue/stargazers) [![Forks](https://img.shields.io/github/forks/Simon-He95/markstream-vue?style=flat-square&color=blue)](https://github.com/Simon-He95/markstream-vue/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat-square&color=yellow)](https://github.com/Simon-He95/markstream-vue/stargazers) [![Forks](https://img.shields.io/github/forks/Simon-He95/markstream-vue?style=flat-square&color=blue)](https://github.com/Simon-He95/markstream-vue/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Simon‑He95/markstream‑vue — это рендерер для Vue 3, оп
 
 ### 中文
 
-Simon-He95/markstream-vue：Simon-He95/markstream-vue helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Simon-He95/markstream-vue：Simon-He95/markstream-vue helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Simon-He95/markstream-vue：Simon-He95/markstream-vue helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Simon-He95/markstream-vue：Simon-He95/markstream-vue helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
