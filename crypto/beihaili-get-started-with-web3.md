@@ -1,6 +1,6 @@
 # beihaili/Get-Started-with-Web3
 
-[![Stars](https://img.shields.io/github/stars/beihaili/Get-Started-with-Web3?style=flat-square&color=yellow)](https://github.com/beihaili/Get-Started-with-Web3/stargazers) [![Forks](https://img.shields.io/github/forks/beihaili/Get-Started-with-Web3?style=flat-square&color=blue)](https://github.com/beihaili/Get-Started-with-Web3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beihaili/Get-Started-with-Web3?style=flat-square&color=yellow)](https://github.com/beihaili/Get-Started-with-Web3/stargazers) [![Forks](https://img.shields.io/github/forks/beihaili/Get-Started-with-Web3?style=flat-square&color=blue)](https://github.com/beihaili/Get-Started-with-Web3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 自学入门Web3不是一件容易的事，作为一个刚刚入门Web3的新人，梳理一下最简单直观的Web3小白入门教程。整合开源社区优质资源，为大家从入门到精通web3指路。每周更新
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ beihaili/Get-Started-with-Web3：beihaili/Get-Started-with-Web3 helps prototype 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme
 
-[![Stars](https://img.shields.io/github/stars/EnzymeAD/Enzyme?style=flat-square&color=yellow)](https://github.com/EnzymeAD/Enzyme/stargazers) [![Forks](https://img.shields.io/github/forks/EnzymeAD/Enzyme?style=flat-square&color=blue)](https://github.com/EnzymeAD/Enzyme/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnzymeAD/Enzyme?style=flat-square&color=yellow)](https://github.com/EnzymeAD/Enzyme/stargazers) [![Forks](https://img.shields.io/github/forks/EnzymeAD/Enzyme?style=flat-square&color=blue)](https://github.com/EnzymeAD/Enzyme/network) [![Language](https://img.shields.io/badge/lang-LLVM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance automatic differentiation of LLVM and MLIR.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | LLVM |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Enzyme — это open‑source библиотека, реализующая �
 
 ### 中文
 
-EnzymeAD/Enzyme：EnzymeAD/Enzyme helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+EnzymeAD/Enzyme：EnzymeAD/Enzyme helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EnzymeAD/Enzyme：EnzymeAD/Enzyme helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ EnzymeAD/Enzyme：EnzymeAD/Enzyme helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 69/100 |
+| outlook | 73/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

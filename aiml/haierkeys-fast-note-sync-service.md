@@ -1,6 +1,6 @@
 # haierkeys/fast-note-sync-service
 
-[![Stars](https://img.shields.io/github/stars/haierkeys/fast-note-sync-service?style=flat-square&color=yellow)](https://github.com/haierkeys/fast-note-sync-service/stargazers) [![Forks](https://img.shields.io/github/forks/haierkeys/fast-note-sync-service?style=flat-square&color=blue)](https://github.com/haierkeys/fast-note-sync-service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haierkeys/fast-note-sync-service?style=flat-square&color=yellow)](https://github.com/haierkeys/fast-note-sync-service/stargazers) [![Forks](https://img.shields.io/github/forks/haierkeys/fast-note-sync-service?style=flat-square&color=blue)](https://github.com/haierkeys/fast-note-sync-service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ haierkeys/fast-note-sync-service：haierkeys/fast-note-sync-service helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 68/100 |
+| outlook | 65/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

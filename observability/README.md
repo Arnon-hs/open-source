@@ -2,7 +2,7 @@
 
 > 
 
-**10 projects** in this category.
+**11 projects** in this category.
 
 ## Projects
 
@@ -17,7 +17,8 @@
 | 7 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
 | 8 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
 | 9 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
-| 10 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 10 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
+| 11 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

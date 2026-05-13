@@ -1,6 +1,6 @@
 # Azure/terraform
 
-[![Stars](https://img.shields.io/github/stars/Azure/terraform?style=flat-square&color=yellow)](https://github.com/Azure/terraform/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/terraform?style=flat-square&color=blue)](https://github.com/Azure/terraform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/terraform?style=flat-square&color=yellow)](https://github.com/Azure/terraform/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/terraform?style=flat-square&color=blue)](https://github.com/Azure/terraform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Source code for the Azure Marketplace Terraform development VM package.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 908 |
 | 🍴 **Forks** | 917 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Azure/terraform：Azure/terraform helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 66/100 |
 | stars | 63/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

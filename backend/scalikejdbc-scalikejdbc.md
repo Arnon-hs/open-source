@@ -1,6 +1,6 @@
 # scalikejdbc/scalikejdbc
 
-[![Stars](https://img.shields.io/github/stars/scalikejdbc/scalikejdbc?style=flat-square&color=yellow)](https://github.com/scalikejdbc/scalikejdbc/stargazers) [![Forks](https://img.shields.io/github/forks/scalikejdbc/scalikejdbc?style=flat-square&color=blue)](https://github.com/scalikejdbc/scalikejdbc/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalikejdbc/scalikejdbc?style=flat-square&color=yellow)](https://github.com/scalikejdbc/scalikejdbc/stargazers) [![Forks](https://img.shields.io/github/forks/scalikejdbc/scalikejdbc?style=flat-square&color=blue)](https://github.com/scalikejdbc/scalikejdbc/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ScalikeJDBC — лаконичная библиотека доступа к б�
 
 ### 中文
 
-scalikejdbc/scalikejdbc：scalikejdbc/scalikejdbc helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+scalikejdbc/scalikejdbc：scalikejdbc/scalikejdbc helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ scalikejdbc/scalikejdbc：scalikejdbc/scalikejdbc helps teams reuse service infr
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ scalikejdbc/scalikejdbc：scalikejdbc/scalikejdbc helps teams reuse service infr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 80/100 |
+| production | 70/100 |
+| outlook | 73/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

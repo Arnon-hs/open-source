@@ -1,6 +1,6 @@
 # sbom-tool/sbom-tools
 
-[![Stars](https://img.shields.io/github/stars/sbom-tool/sbom-tools?style=flat-square&color=yellow)](https://github.com/sbom-tool/sbom-tools/stargazers) [![Forks](https://img.shields.io/github/forks/sbom-tool/sbom-tools?style=flat-square&color=blue)](https://github.com/sbom-tool/sbom-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbom-tool/sbom-tools?style=flat-square&color=yellow)](https://github.com/sbom-tool/sbom-tools/stargazers) [![Forks](https://img.shields.io/github/forks/sbom-tool/sbom-tools?style=flat-square&color=blue)](https://github.com/sbom-tool/sbom-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading, and PQC compliance (CNSA 2.0, NIST IR 8547).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sbom-tool/sbom-tools：sbom-tool/sbom-tools helps prototype or inspect blockchai
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

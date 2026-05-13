@@ -1,6 +1,6 @@
 # colmap/colmap
 
-[![Stars](https://img.shields.io/github/stars/colmap/colmap?style=flat-square&color=yellow)](https://github.com/colmap/colmap/stargazers) [![Forks](https://img.shields.io/github/forks/colmap/colmap?style=flat-square&color=blue)](https://github.com/colmap/colmap/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/colmap/colmap?style=flat-square&color=yellow)](https://github.com/colmap/colmap/stargazers) [![Forks](https://img.shields.io/github/forks/colmap/colmap?style=flat-square&color=blue)](https://github.com/colmap/colmap/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > COLMAP - Structure-from-Motion and Multi-View Stereo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.6k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ COLMAP — это открытый кроссплатформенный пак
 
 ### 中文
 
-colmap/colmap：colmap/colmap may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+colmap/colmap：colmap/colmap may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ colmap/colmap：colmap/colmap may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ colmap/colmap：colmap/colmap may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

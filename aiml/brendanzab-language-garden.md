@@ -1,6 +1,6 @@
 # brendanzab/language-garden
 
-[![Stars](https://img.shields.io/github/stars/brendanzab/language-garden?style=flat-square&color=yellow)](https://github.com/brendanzab/language-garden/stargazers) [![Forks](https://img.shields.io/github/forks/brendanzab/language-garden?style=flat-square&color=blue)](https://github.com/brendanzab/language-garden/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brendanzab/language-garden?style=flat-square&color=yellow)](https://github.com/brendanzab/language-garden/stargazers) [![Forks](https://img.shields.io/github/forks/brendanzab/language-garden?style=flat-square&color=blue)](https://github.com/brendanzab/language-garden/network) [![Language](https://img.shields.io/badge/lang-OCaml-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A garden of small programming language implementations 🪴
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | OCaml |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ brendanzab/language-garden：brendanzab/language-garden helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 45/100 |
 | stars | 53/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

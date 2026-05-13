@@ -1,6 +1,6 @@
 # linshenkx/prompt-optimizer
 
-[![Stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=flat-square&color=yellow)](https://github.com/linshenkx/prompt-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/linshenkx/prompt-optimizer?style=flat-square&color=blue)](https://github.com/linshenkx/prompt-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linshenkx/prompt-optimizer?style=flat-square&color=yellow)](https://github.com/linshenkx/prompt-optimizer/stargazers) [![Forks](https://img.shields.io/github/forks/linshenkx/prompt-optimizer?style=flat-square&color=blue)](https://github.com/linshenkx/prompt-optimizer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > An AI prompt optimizer for writing better prompts and getting better AI results.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.5k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ linshenkx/prompt-optimizer：linshenkx/prompt-optimizer helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 90/100 |
+| production | 76/100 |
+| outlook | 83/100 |
 | adoption | 93/100 |
 | stars | 95/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
