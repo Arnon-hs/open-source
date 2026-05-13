@@ -1,6 +1,6 @@
 # finch04/online-mooc
 
-[![Stars](https://img.shields.io/github/stars/finch04/online-mooc?style=flat-square&color=yellow)](https://github.com/finch04/online-mooc/stargazers) [![Forks](https://img.shields.io/github/forks/finch04/online-mooc?style=flat-square&color=blue)](https://github.com/finch04/online-mooc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finch04/online-mooc?style=flat-square&color=yellow)](https://github.com/finch04/online-mooc/stargazers) [![Forks](https://img.shields.io/github/forks/finch04/online-mooc?style=flat-square&color=blue)](https://github.com/finch04/online-mooc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 基于《天机学堂》升级的智慧 MOOC 教育平台，融合课程交易、AI 辅助、数据分析、直播互动、AI 问答及个性化推荐能力，已完成 JDK17 + SpringBoot3 技术栈全面升级。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ finch04/online-mooc：finch04/online-mooc helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 67/100 |
+| outlook | 72/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bjia56/cosmotop
 
-[![Stars](https://img.shields.io/github/stars/bjia56/cosmotop?style=flat-square&color=yellow)](https://github.com/bjia56/cosmotop/stargazers) [![Forks](https://img.shields.io/github/forks/bjia56/cosmotop?style=flat-square&color=blue)](https://github.com/bjia56/cosmotop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bjia56/cosmotop?style=flat-square&color=yellow)](https://github.com/bjia56/cosmotop/stargazers) [![Forks](https://img.shields.io/github/forks/bjia56/cosmotop?style=flat-square&color=blue)](https://github.com/bjia56/cosmotop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Multiplatform system monitoring tool using Cosmopolitan Libc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bjia56/cosmotop：bjia56/cosmotop helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 30/100 |
 | stars | 39/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

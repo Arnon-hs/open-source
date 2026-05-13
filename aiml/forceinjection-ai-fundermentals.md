@@ -1,6 +1,6 @@
 # ForceInjection/AI-fundermentals
 
-[![Stars](https://img.shields.io/github/stars/ForceInjection/AI-fundermentals?style=flat-square&color=yellow)](https://github.com/ForceInjection/AI-fundermentals/stargazers) [![Forks](https://img.shields.io/github/forks/ForceInjection/AI-fundermentals?style=flat-square&color=blue)](https://github.com/ForceInjection/AI-fundermentals/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ForceInjection/AI-fundermentals?style=flat-square&color=yellow)](https://github.com/ForceInjection/AI-fundermentals/stargazers) [![Forks](https://img.shields.io/github/forks/ForceInjection/AI-fundermentals?style=flat-square&color=blue)](https://github.com/ForceInjection/AI-fundermentals/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识（https://forceinjection.github.io/）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ForceInjection/AI-fundermentals：ForceInjection/AI-fundermentals helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 65/100 |
+| outlook | 69/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ProbiusOfficial/Hello-CTF
 
-[![Stars](https://img.shields.io/github/stars/ProbiusOfficial/Hello-CTF?style=flat-square&color=yellow)](https://github.com/ProbiusOfficial/Hello-CTF/stargazers) [![Forks](https://img.shields.io/github/forks/ProbiusOfficial/Hello-CTF?style=flat-square&color=blue)](https://github.com/ProbiusOfficial/Hello-CTF/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProbiusOfficial/Hello-CTF?style=flat-square&color=yellow)](https://github.com/ProbiusOfficial/Hello-CTF/stargazers) [![Forks](https://img.shields.io/github/forks/ProbiusOfficial/Hello-CTF?style=flat-square&color=blue)](https://github.com/ProbiusOfficial/Hello-CTF/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ProbiusOfficial/Hello-CTF：ProbiusOfficial/Hello-CTF helps ship user-facing int
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

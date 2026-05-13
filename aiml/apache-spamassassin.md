@@ -1,6 +1,6 @@
 # apache/spamassassin
 
-[![Stars](https://img.shields.io/github/stars/apache/spamassassin?style=flat-square&color=yellow)](https://github.com/apache/spamassassin/stargazers) [![Forks](https://img.shields.io/github/forks/apache/spamassassin?style=flat-square&color=blue)](https://github.com/apache/spamassassin/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/spamassassin?style=flat-square&color=yellow)](https://github.com/apache/spamassassin/stargazers) [![Forks](https://img.shields.io/github/forks/apache/spamassassin?style=flat-square&color=blue)](https://github.com/apache/spamassassin/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only mirror of Apache SpamAssassin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/spamassassin：apache/spamassassin helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

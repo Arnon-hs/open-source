@@ -1,6 +1,6 @@
 # rainbowpigeon/sublime-text-4-patcher
 
-[![Stars](https://img.shields.io/github/stars/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=yellow)](https://github.com/rainbowpigeon/sublime-text-4-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=blue)](https://github.com/rainbowpigeon/sublime-text-4-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=yellow)](https://github.com/rainbowpigeon/sublime-text-4-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=blue)](https://github.com/rainbowpigeon/sublime-text-4-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Python 3 patcher for Sublime Text v4107-4205 Windows x64
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rainbowpigeon/sublime-text-4-patcher：rainbowpigeon/sublime-text-4-patcher help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 71/100 |
+| production | 66/100 |
+| outlook | 64/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

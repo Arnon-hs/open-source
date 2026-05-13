@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**59 projects** in this category.
+**60 projects** in this category.
 
 ## Projects
 
@@ -45,28 +45,29 @@
 | 35 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 60/100 |
 | 36 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 59/100 |
 | 37 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 59/100 |
-| 38 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 58/100 |
-| 39 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
-| 40 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
-| 41 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
-| 42 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
-| 43 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 57/100 |
-| 44 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
-| 45 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
-| 46 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
-| 47 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
-| 48 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
-| 49 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
-| 50 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 55/100 |
-| 51 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
-| 52 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
-| 53 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
-| 54 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
-| 55 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
-| 56 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
-| 57 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
-| 58 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
-| 59 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 38 | [jwt-dotnet/jwt](./jwt-dotnet-jwt.md) | ⭐ 2.2k | C# | 59/100 |
+| 39 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 58/100 |
+| 40 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
+| 41 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
+| 42 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
+| 43 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
+| 44 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 57/100 |
+| 45 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
+| 46 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
+| 47 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
+| 48 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
+| 49 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
+| 50 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
+| 51 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 55/100 |
+| 52 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
+| 53 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
+| 54 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
+| 55 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
+| 56 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
+| 57 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
+| 58 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
+| 59 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
+| 60 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
 
 ---
 

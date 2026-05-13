@@ -22,7 +22,7 @@
 | 12 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 54/100 |
 | 13 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 49/100 |
 | 14 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 49/100 |
-| 15 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 44/100 |
+| 15 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 41/100 |
 
 ---
 

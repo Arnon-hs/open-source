@@ -1,6 +1,6 @@
 # GuillaumeGomez/sysinfo
 
-[![Stars](https://img.shields.io/github/stars/GuillaumeGomez/sysinfo?style=flat-square&color=yellow)](https://github.com/GuillaumeGomez/sysinfo/stargazers) [![Forks](https://img.shields.io/github/forks/GuillaumeGomez/sysinfo?style=flat-square&color=blue)](https://github.com/GuillaumeGomez/sysinfo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GuillaumeGomez/sysinfo?style=flat-square&color=yellow)](https://github.com/GuillaumeGomez/sysinfo/stargazers) [![Forks](https://img.shields.io/github/forks/GuillaumeGomez/sysinfo?style=flat-square&color=blue)](https://github.com/GuillaumeGomez/sysinfo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform library to fetch system information
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GuillaumeGomez/sysinfo — это кроссплатформенная open‑
 
 ### 中文
 
-GuillaumeGomez/sysinfo：GuillaumeGomez/sysinfo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GuillaumeGomez/sysinfo：GuillaumeGomez/sysinfo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GuillaumeGomez/sysinfo：GuillaumeGomez/sysinfo helps ship user-facing interface
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GuillaumeGomez/sysinfo：GuillaumeGomez/sysinfo helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 71/100 |
 | stars | 73/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # missdeer/coredns_custom_build
 
-[![Stars](https://img.shields.io/github/stars/missdeer/coredns_custom_build?style=flat-square&color=yellow)](https://github.com/missdeer/coredns_custom_build/stargazers) [![Forks](https://img.shields.io/github/forks/missdeer/coredns_custom_build?style=flat-square&color=blue)](https://github.com/missdeer/coredns_custom_build/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/missdeer/coredns_custom_build?style=flat-square&color=yellow)](https://github.com/missdeer/coredns_custom_build/stargazers) [![Forks](https://img.shields.io/github/forks/missdeer/coredns_custom_build?style=flat-square&color=blue)](https://github.com/missdeer/coredns_custom_build/network) [![Language](https://img.shields.io/badge/lang-Go%20Template-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > CoreDNS custom build
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go Template |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ missdeer/coredns_custom_build：missdeer/coredns_custom_build helps ship user-fa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 66/100 |
+| production | 66/100 |
+| outlook | 59/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 
