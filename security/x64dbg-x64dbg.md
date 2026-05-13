@@ -1,6 +1,6 @@
 # x64dbg/x64dbg
 
-[![Stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=flat-square&color=yellow)](https://github.com/x64dbg/x64dbg/stargazers) [![Forks](https://img.shields.io/github/forks/x64dbg/x64dbg?style=flat-square&color=blue)](https://github.com/x64dbg/x64dbg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=flat-square&color=yellow)](https://github.com/x64dbg/x64dbg/stargazers) [![Forks](https://img.shields.io/github/forks/x64dbg/x64dbg?style=flat-square&color=blue)](https://github.com/x64dbg/x64dbg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48.3k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ x64dbg — это бесплатный отладчик пользовател
 
 ### 中文
 
-x64dbg/x64dbg：x64dbg/x64dbg helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+x64dbg/x64dbg：x64dbg/x64dbg helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ x64dbg/x64dbg：x64dbg/x64dbg helps catch security and privacy issues earlier in
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ x64dbg/x64dbg：x64dbg/x64dbg helps catch security and privacy issues earlier in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 98/100 |
+| quality | 93/100 |
 | integration | 30/100 |
-| production | 81/100 |
-| outlook | 91/100 |
+| production | 74/100 |
+| outlook | 84/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

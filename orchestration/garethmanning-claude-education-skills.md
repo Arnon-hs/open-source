@@ -1,6 +1,6 @@
 # GarethManning/claude-education-skills
 
-[![Stars](https://img.shields.io/github/stars/GarethManning/claude-education-skills?style=flat-square&color=yellow)](https://github.com/GarethManning/claude-education-skills/stargazers) [![Forks](https://img.shields.io/github/forks/GarethManning/claude-education-skills?style=flat-square&color=blue)](https://github.com/GarethManning/claude-education-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GarethManning/claude-education-skills?style=flat-square&color=yellow)](https://github.com/GarethManning/claude-education-skills/stargazers) [![Forks](https://img.shields.io/github/forks/GarethManning/claude-education-skills?style=flat-square&color=blue)](https://github.com/GarethManning/claude-education-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source library of evidence-based Claude skills for educators — designed for teacher use and agent orchestration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GarethManning/claude-education-skills — это открытая библио
 
 ### 中文
 
-GarethManning/claude-education-skills：GarethManning/claude-education-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+GarethManning/claude-education-skills：GarethManning/claude-education-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GarethManning/claude-education-skills：GarethManning/claude-education-skills he
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GarethManning/claude-education-skills：GarethManning/claude-education-skills he
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 47/100 |
 | stars | 50/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

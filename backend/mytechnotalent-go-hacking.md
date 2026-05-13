@@ -1,6 +1,6 @@
 # mytechnotalent/Go-Hacking
 
-[![Stars](https://img.shields.io/github/stars/mytechnotalent/Go-Hacking?style=flat-square&color=yellow)](https://github.com/mytechnotalent/Go-Hacking/stargazers) [![Forks](https://img.shields.io/github/forks/mytechnotalent/Go-Hacking?style=flat-square&color=blue)](https://github.com/mytechnotalent/Go-Hacking/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mytechnotalent/Go-Hacking?style=flat-square&color=yellow)](https://github.com/mytechnotalent/Go-Hacking/stargazers) [![Forks](https://img.shields.io/github/forks/mytechnotalent/Go-Hacking?style=flat-square&color=blue)](https://github.com/mytechnotalent/Go-Hacking/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A FREE comprehensive online Go hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Golang from scratch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ A free, open‑source tutorial that walks you through reverse‑engineering Go b
 
 ### 中文
 
-mytechnotalent/Go-Hacking：mytechnotalent/Go-Hacking helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mytechnotalent/Go-Hacking：mytechnotalent/Go-Hacking helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ mytechnotalent/Go-Hacking：mytechnotalent/Go-Hacking helps teams reuse service 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ mytechnotalent/Go-Hacking：mytechnotalent/Go-Hacking helps teams reuse service 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

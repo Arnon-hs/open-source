@@ -1,6 +1,6 @@
 # Kamalnrf/claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/Kamalnrf/claude-plugins?style=flat-square&color=yellow)](https://github.com/Kamalnrf/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Kamalnrf/claude-plugins?style=flat-square&color=blue)](https://github.com/Kamalnrf/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kamalnrf/claude-plugins?style=flat-square&color=yellow)](https://github.com/Kamalnrf/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Kamalnrf/claude-plugins?style=flat-square&color=blue)](https://github.com/Kamalnrf/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Kamalnrf/claude-plugins：Kamalnrf/claude-plugins helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 73/100 |
+| production | 68/100 |
+| outlook | 66/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

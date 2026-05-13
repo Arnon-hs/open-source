@@ -1,6 +1,6 @@
 # quic-go/quic-go
 
-[![Stars](https://img.shields.io/github/stars/quic-go/quic-go?style=flat-square&color=yellow)](https://github.com/quic-go/quic-go/stargazers) [![Forks](https://img.shields.io/github/forks/quic-go/quic-go?style=flat-square&color=blue)](https://github.com/quic-go/quic-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quic-go/quic-go?style=flat-square&color=yellow)](https://github.com/quic-go/quic-go/stargazers) [![Forks](https://img.shields.io/github/forks/quic-go/quic-go?style=flat-square&color=blue)](https://github.com/quic-go/quic-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A production-ready QUIC implementation in pure Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.6k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ quic-go/quic-go：quic-go/quic-go helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 93/100 |
+| quality | 88/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 88/100 |
+| production | 77/100 |
+| outlook | 81/100 |
 | adoption | 85/100 |
 | stars | 86/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

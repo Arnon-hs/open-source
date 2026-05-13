@@ -1,6 +1,6 @@
 # vava-nessa/free-coding-models
 
-[![Stars](https://img.shields.io/github/stars/vava-nessa/free-coding-models?style=flat-square&color=yellow)](https://github.com/vava-nessa/free-coding-models/stargazers) [![Forks](https://img.shields.io/github/forks/vava-nessa/free-coding-models?style=flat-square&color=blue)](https://github.com/vava-nessa/free-coding-models/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vava-nessa/free-coding-models?style=flat-square&color=yellow)](https://github.com/vava-nessa/free-coding-models/stargazers) [![Forks](https://img.shields.io/github/forks/vava-nessa/free-coding-models?style=flat-square&color=blue)](https://github.com/vava-nessa/free-coding-models/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ vava-nessa/free-coding-models — это CLI‑утилита, позволяю�
 
 ### 中文
 
-vava-nessa/free-coding-models：vava-nessa/free-coding-models helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+vava-nessa/free-coding-models：vava-nessa/free-coding-models helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vava-nessa/free-coding-models：vava-nessa/free-coding-models helps add AI capab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vava-nessa/free-coding-models：vava-nessa/free-coding-models helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 86/100 |
+| production | 74/100 |
+| outlook | 79/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 58/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

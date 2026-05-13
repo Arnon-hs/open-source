@@ -1,6 +1,6 @@
 # i2p/i2p.i2p
 
-[![Stars](https://img.shields.io/github/stars/i2p/i2p.i2p?style=flat-square&color=yellow)](https://github.com/i2p/i2p.i2p/stargazers) [![Forks](https://img.shields.io/github/forks/i2p/i2p.i2p?style=flat-square&color=blue)](https://github.com/i2p/i2p.i2p/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i2p/i2p.i2p?style=flat-square&color=yellow)](https://github.com/i2p/i2p.i2p/stargazers) [![Forks](https://img.shields.io/github/forks/i2p/i2p.i2p?style=flat-square&color=blue)](https://github.com/i2p/i2p.i2p/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ i2p — это децентрализованная анонимизирующ
 
 ### 中文
 
-i2p/i2p.i2p：i2p/i2p.i2p helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+i2p/i2p.i2p：i2p/i2p.i2p helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ i2p/i2p.i2p：i2p/i2p.i2p helps prototype or inspect blockchain workflows with o
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ i2p/i2p.i2p：i2p/i2p.i2p helps prototype or inspect blockchain workflows with o
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 30/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 70/100 |
 | stars | 72/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # magiblot/turbo
 
-[![Stars](https://img.shields.io/github/stars/magiblot/turbo?style=flat-square&color=yellow)](https://github.com/magiblot/turbo/stargazers) [![Forks](https://img.shields.io/github/forks/magiblot/turbo?style=flat-square&color=blue)](https://github.com/magiblot/turbo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magiblot/turbo?style=flat-square&color=yellow)](https://github.com/magiblot/turbo/stargazers) [![Forks](https://img.shields.io/github/forks/magiblot/turbo?style=flat-square&color=blue)](https://github.com/magiblot/turbo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An experimental text editor based on Scintilla and Turbo Vision.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 650 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ magiblot/turbo：magiblot/turbo helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

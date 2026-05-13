@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/k8s-config-connector
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/k8s-config-connector/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/k8s-config-connector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/k8s-config-connector/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/k8s-config-connector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > GCP Config Connector, a Kubernetes add-on for managing GCP resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ GoogleCloudPlatform/k8s-config-connector：GoogleCloudPlatform/k8s-config-connec
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 69/100 |
+| production | 68/100 |
+| outlook | 62/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

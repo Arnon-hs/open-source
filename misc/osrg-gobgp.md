@@ -1,6 +1,6 @@
 # osrg/gobgp
 
-[![Stars](https://img.shields.io/github/stars/osrg/gobgp?style=flat-square&color=yellow)](https://github.com/osrg/gobgp/stargazers) [![Forks](https://img.shields.io/github/forks/osrg/gobgp?style=flat-square&color=blue)](https://github.com/osrg/gobgp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osrg/gobgp?style=flat-square&color=yellow)](https://github.com/osrg/gobgp/stargazers) [![Forks](https://img.shields.io/github/forks/osrg/gobgp?style=flat-square&color=blue)](https://github.com/osrg/gobgp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > BGP implemented in the Go Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 781 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ osrg/gobgp：osrg/gobgp may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 68/100 |
+| outlook | 65/100 |
 | adoption | 76/100 |
 | stars | 77/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

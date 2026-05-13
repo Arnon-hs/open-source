@@ -1,6 +1,6 @@
 # bansalkanav/GenAI-AgenticAI-From-Zero-to-Production
 
-[![Stars](https://img.shields.io/github/stars/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=yellow)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/stargazers) [![Forks](https://img.shields.io/github/forks/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=blue)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=yellow)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/stargazers) [![Forks](https://img.shields.io/github/forks/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production?style=flat-square&color=blue)](https://github.com/bansalkanav/GenAI-AgenticAI-From-Zero-to-Production/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Learn GenAI and Agentic AI from Zero to Production
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **GenAI‑AgenticAI‑From‑Zero‑to‑Production** repository provides a 
 
 ### 中文
 
-bansalkanav/GenAI-AgenticAI-From-Zero-to-Production：bansalkanav/GenAI-AgenticAI-From-Zero-to-Production helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+bansalkanav/GenAI-AgenticAI-From-Zero-to-Production：bansalkanav/GenAI-AgenticAI-From-Zero-to-Production helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bansalkanav/GenAI-AgenticAI-From-Zero-to-Production：bansalkanav/GenAI-AgenticA
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bansalkanav/GenAI-AgenticAI-From-Zero-to-Production：bansalkanav/GenAI-AgenticA
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 100/100 |
-| production | 82/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 41/100 |
 | stars | 43/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

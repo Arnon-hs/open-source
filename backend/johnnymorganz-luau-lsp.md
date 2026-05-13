@@ -1,6 +1,6 @@
 # JohnnyMorganz/luau-lsp
 
-[![Stars](https://img.shields.io/github/stars/JohnnyMorganz/luau-lsp?style=flat-square&color=yellow)](https://github.com/JohnnyMorganz/luau-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/JohnnyMorganz/luau-lsp?style=flat-square&color=blue)](https://github.com/JohnnyMorganz/luau-lsp/network) [![Language](https://img.shields.io/badge/lang-Luau-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JohnnyMorganz/luau-lsp?style=flat-square&color=yellow)](https://github.com/JohnnyMorganz/luau-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/JohnnyMorganz/luau-lsp?style=flat-square&color=blue)](https://github.com/JohnnyMorganz/luau-lsp/network) [![Language](https://img.shields.io/badge/lang-Luau-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Language Server Implementation for Luau
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Luau |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JohnnyMorganz/luau-lsp：JohnnyMorganz/luau-lsp helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 56/100 |
 | stars | 57/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

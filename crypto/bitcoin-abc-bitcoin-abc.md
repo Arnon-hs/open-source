@@ -1,6 +1,6 @@
 # Bitcoin-ABC/bitcoin-abc
 
-[![Stars](https://img.shields.io/github/stars/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=yellow)](https://github.com/Bitcoin-ABC/bitcoin-abc/stargazers) [![Forks](https://img.shields.io/github/forks/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=blue)](https://github.com/Bitcoin-ABC/bitcoin-abc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=yellow)](https://github.com/Bitcoin-ABC/bitcoin-abc/stargazers) [![Forks](https://img.shields.io/github/forks/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=blue)](https://github.com/Bitcoin-ABC/bitcoin-abc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin ABC develops node software and infrastructure for the eCash project. This a mirror of the official Bitcoin-ABC repository.  Please see README.md
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 782 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Bitcoin-ABC/bitcoin-abc：Bitcoin-ABC/bitcoin-abc helps prototype or inspect blo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 68/100 |
 | stars | 66/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

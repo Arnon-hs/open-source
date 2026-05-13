@@ -1,6 +1,6 @@
 # gofiber/fiber
 
-[![Stars](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&color=yellow)](https://github.com/gofiber/fiber/stargazers) [![Forks](https://img.shields.io/github/forks/gofiber/fiber?style=flat-square&color=blue)](https://github.com/gofiber/fiber/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&color=yellow)](https://github.com/gofiber/fiber/stargazers) [![Forks](https://img.shields.io/github/forks/gofiber/fiber?style=flat-square&color=blue)](https://github.com/gofiber/fiber/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️ Express inspired web framework written in Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39.7k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gofiber/fiber：gofiber/fiber helps teams reuse service infrastructure instead o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 97/100 |
+| quality | 92/100 |
 | integration | 62/100 |
-| production | 85/100 |
-| outlook | 93/100 |
+| production | 78/100 |
+| outlook | 86/100 |
 | adoption | 94/100 |
 | stars | 98/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # openpredictionmarkets/socialpredict
 
-[![Stars](https://img.shields.io/github/stars/openpredictionmarkets/socialpredict?style=flat-square&color=yellow)](https://github.com/openpredictionmarkets/socialpredict/stargazers) [![Forks](https://img.shields.io/github/forks/openpredictionmarkets/socialpredict?style=flat-square&color=blue)](https://github.com/openpredictionmarkets/socialpredict/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openpredictionmarkets/socialpredict?style=flat-square&color=yellow)](https://github.com/openpredictionmarkets/socialpredict/stargazers) [![Forks](https://img.shields.io/github/forks/openpredictionmarkets/socialpredict?style=flat-square&color=blue)](https://github.com/openpredictionmarkets/socialpredict/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Easy to Deploy Prediction Market Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenPredictionMarkets/socialpredict — это простая в развер�
 
 ### 中文
 
-openpredictionmarkets/socialpredict：openpredictionmarkets/socialpredict helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+openpredictionmarkets/socialpredict：openpredictionmarkets/socialpredict helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openpredictionmarkets/socialpredict：openpredictionmarkets/socialpredict helps 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ openpredictionmarkets/socialpredict：openpredictionmarkets/socialpredict helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 48/100 |
 | stars | 49/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

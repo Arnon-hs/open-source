@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7844** |
+| 🗂️ **Total projects** | **7884** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2784 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1403 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 765 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 665 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 417 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 2793 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1407 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 768 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 671 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 421 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 376 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 276 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 196 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 203 | [Browse →](./mcp/) |
 | 📊 **Data** | 181 | [Browse →](./data/) |
 | 💳 **Payments** | 130 | [Browse →](./payments/) |
-| 🏷️ **Automation** | 128 | [Browse →](./automation/) |
-| 🏷️ **Knowledgerag** | 91 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 130 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 92 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 90 | [Browse →](./mobile/) |
-| 📈 **Trading** | 88 | [Browse →](./trading/) |
+| 📈 **Trading** | 90 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 76 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 63 | [Browse →](./security/) |
-| 🏷️ **Database** | 51 | [Browse →](./database/) |
+| 🏷️ **Database** | 52 | [Browse →](./database/) |
 | ✨ **Design** | 25 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
 | 🏷️ **Observability** | 12 | [Browse →](./observability/) |
-| 🏷️ **Marketing** | 9 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 3 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
-| 2 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
-| 3 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
-| 4 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 1 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
+| 2 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
+| 3 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
+| 4 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
 | 5 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
 | 6 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
 | 7 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |

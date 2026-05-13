@@ -1,6 +1,6 @@
 # PuddinCat/BestClash
 
-[![Stars](https://img.shields.io/github/stars/PuddinCat/BestClash?style=flat-square&color=yellow)](https://github.com/PuddinCat/BestClash/stargazers) [![Forks](https://img.shields.io/github/forks/PuddinCat/BestClash?style=flat-square&color=blue)](https://github.com/PuddinCat/BestClash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PuddinCat/BestClash?style=flat-square&color=yellow)](https://github.com/PuddinCat/BestClash/stargazers) [![Forks](https://img.shields.io/github/forks/PuddinCat/BestClash?style=flat-square&color=blue)](https://github.com/PuddinCat/BestClash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 每30分钟更新！免费Clash翻墙订阅，自动从网上爬取并测速 | 免费代理 | VPN | 订阅 | 节点 | clash meta | mihomo | 翻墙 | 科学上网 | 梯子 |
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ PuddinCat/BestClash：PuddinCat/BestClash may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

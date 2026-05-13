@@ -9,14 +9,14 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 33.1k | TypeScript | 73/100 |
-| 2 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.3k | C++ | 72/100 |
-| 3 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.7k | C | 72/100 |
-| 4 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 72/100 |
-| 5 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.5k | C | 71/100 |
-| 6 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 71/100 |
-| 7 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.8k | TypeScript | 70/100 |
-| 8 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 70/100 |
-| 9 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 13.8k | Python | 70/100 |
+| 2 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 23.7k | C | 72/100 |
+| 3 | [hahwul/dalfox](./hahwul-dalfox.md) | ⭐ 5k | Rust | 72/100 |
+| 4 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.5k | C | 71/100 |
+| 5 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 71/100 |
+| 6 | [documenso/documenso](./documenso-documenso.md) | ⭐ 12.8k | TypeScript | 70/100 |
+| 7 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 70/100 |
+| 8 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 13.8k | Python | 70/100 |
+| 9 | [x64dbg/x64dbg](./x64dbg-x64dbg.md) | ⭐ 48.3k | C++ | 69/100 |
 | 10 | [hashicorp/vault](./hashicorp-vault.md) | ⭐ 35.6k | Go | 69/100 |
 | 11 | [Lissy93/awesome-privacy](./lissy93-awesome-privacy.md) | ⭐ 9.4k | Astro | 67/100 |
 | 12 | [google/timesketch](./google-timesketch.md) | ⭐ 3.3k | Python | 67/100 |

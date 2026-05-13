@@ -1,6 +1,6 @@
 # shivasurya/code-pathfinder
 
-[![Stars](https://img.shields.io/github/stars/shivasurya/code-pathfinder?style=flat-square&color=yellow)](https://github.com/shivasurya/code-pathfinder/stargazers) [![Forks](https://img.shields.io/github/forks/shivasurya/code-pathfinder?style=flat-square&color=blue)](https://github.com/shivasurya/code-pathfinder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shivasurya/code-pathfinder?style=flat-square&color=yellow)](https://github.com/shivasurya/code-pathfinder/stargazers) [![Forks](https://img.shields.io/github/forks/shivasurya/code-pathfinder?style=flat-square&color=blue)](https://github.com/shivasurya/code-pathfinder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Static Code Analysis for security teams with Inter file taint analysis. Built for finding vulnerabilities, advanced structural search, derive insights and supports MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ shivasurya/code-pathfinder — open‑source платформа статич
 
 ### 中文
 
-shivasurya/code-pathfinder：shivasurya/code-pathfinder helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+shivasurya/code-pathfinder：shivasurya/code-pathfinder helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shivasurya/code-pathfinder：shivasurya/code-pathfinder helps add AI capability 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shivasurya/code-pathfinder：shivasurya/code-pathfinder helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 70/100 |
+| outlook | 76/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

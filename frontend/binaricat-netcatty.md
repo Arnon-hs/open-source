@@ -1,6 +1,6 @@
 # binaricat/Netcatty
 
-[![Stars](https://img.shields.io/github/stars/binaricat/Netcatty?style=flat-square&color=yellow)](https://github.com/binaricat/Netcatty/stargazers) [![Forks](https://img.shields.io/github/forks/binaricat/Netcatty?style=flat-square&color=blue)](https://github.com/binaricat/Netcatty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/binaricat/Netcatty?style=flat-square&color=yellow)](https://github.com/binaricat/Netcatty/stargazers) [![Forks](https://img.shields.io/github/forks/binaricat/Netcatty?style=flat-square&color=blue)](https://github.com/binaricat/Netcatty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > SSH workspace, SFTP, and terminals in one
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Binaricat/Netcatty is an open‑source web‑based development tool that consoli
 
 ### 中文
 
-binaricat/Netcatty：binaricat/Netcatty helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+binaricat/Netcatty：binaricat/Netcatty helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ binaricat/Netcatty：binaricat/Netcatty helps ship user-facing interfaces with l
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ binaricat/Netcatty：binaricat/Netcatty helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 80/100 |
-| outlook | 83/100 |
+| production | 73/100 |
+| outlook | 76/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
