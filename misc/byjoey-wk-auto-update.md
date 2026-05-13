@@ -1,6 +1,6 @@
 # byJoey/wk-Auto-update
 
-[![Stars](https://img.shields.io/github/stars/byJoey/wk-Auto-update?style=flat-square&color=yellow)](https://github.com/byJoey/wk-Auto-update/stargazers) [![Forks](https://img.shields.io/github/forks/byJoey/wk-Auto-update?style=flat-square&color=blue)](https://github.com/byJoey/wk-Auto-update/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/byJoey/wk-Auto-update?style=flat-square&color=yellow)](https://github.com/byJoey/wk-Auto-update/stargazers) [![Forks](https://img.shields.io/github/forks/byJoey/wk-Auto-update?style=flat-square&color=blue)](https://github.com/byJoey/wk-Auto-update/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 视频教程
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ byJoey/wk-Auto-update：byJoey/wk-Auto-update may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 66/100 |
 | stars | 61/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

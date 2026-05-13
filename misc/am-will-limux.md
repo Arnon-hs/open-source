@@ -1,6 +1,6 @@
 # am-will/limux
 
-[![Stars](https://img.shields.io/github/stars/am-will/limux?style=flat-square&color=yellow)](https://github.com/am-will/limux/stargazers) [![Forks](https://img.shields.io/github/forks/am-will/limux?style=flat-square&color=blue)](https://github.com/am-will/limux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/am-will/limux?style=flat-square&color=yellow)](https://github.com/am-will/limux/stargazers) [![Forks](https://img.shields.io/github/forks/am-will/limux?style=flat-square&color=blue)](https://github.com/am-will/limux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > GPU-accelerated terminal multiplexer for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ am-will/limux：am-will/limux may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

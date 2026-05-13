@@ -1,6 +1,6 @@
 # ekmas/neobrutalism-components
 
-[![Stars](https://img.shields.io/github/stars/ekmas/neobrutalism-components?style=flat-square&color=yellow)](https://github.com/ekmas/neobrutalism-components/stargazers) [![Forks](https://img.shields.io/github/forks/ekmas/neobrutalism-components?style=flat-square&color=blue)](https://github.com/ekmas/neobrutalism-components/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekmas/neobrutalism-components?style=flat-square&color=yellow)](https://github.com/ekmas/neobrutalism-components/stargazers) [![Forks](https://img.shields.io/github/forks/ekmas/neobrutalism-components?style=flat-square&color=blue)](https://github.com/ekmas/neobrutalism-components/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of neobrutalism-styled Tailwind components.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Neobrutalism‑Components is an open‑source library that provides ready‑made
 
 ### 中文
 
-ekmas/neobrutalism-components：ekmas/neobrutalism-components helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ekmas/neobrutalism-components：ekmas/neobrutalism-components helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ekmas/neobrutalism-components：ekmas/neobrutalism-components helps add AI capab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ekmas/neobrutalism-components：ekmas/neobrutalism-components helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 82/100 |
+| production | 73/100 |
+| outlook | 75/100 |
 | adoption | 73/100 |
 | stars | 79/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # heshengtao/super-agent-party
 
-[![Stars](https://img.shields.io/github/stars/heshengtao/super-agent-party?style=flat-square&color=yellow)](https://github.com/heshengtao/super-agent-party/stargazers) [![Forks](https://img.shields.io/github/forks/heshengtao/super-agent-party?style=flat-square&color=blue)](https://github.com/heshengtao/super-agent-party/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heshengtao/super-agent-party?style=flat-square&color=yellow)](https://github.com/heshengtao/super-agent-party/stargazers) [![Forks](https://img.shields.io/github/forks/heshengtao/super-agent-party?style=flat-square&color=blue)](https://github.com/heshengtao/super-agent-party/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Super Agent Party is an open‑source, self‑hosted AI companion that combines 
 
 ### 中文
 
-heshengtao/super-agent-party：heshengtao/super-agent-party helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+heshengtao/super-agent-party：heshengtao/super-agent-party helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ heshengtao/super-agent-party：heshengtao/super-agent-party helps turn isolated 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ heshengtao/super-agent-party：heshengtao/super-agent-party helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| production | 72/100 |
+| outlook | 80/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

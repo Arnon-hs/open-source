@@ -1,6 +1,6 @@
 # janekbaraniewski/openusage
 
-[![Stars](https://img.shields.io/github/stars/janekbaraniewski/openusage?style=flat-square&color=yellow)](https://github.com/janekbaraniewski/openusage/stargazers) [![Forks](https://img.shields.io/github/forks/janekbaraniewski/openusage?style=flat-square&color=blue)](https://github.com/janekbaraniewski/openusage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janekbaraniewski/openusage?style=flat-square&color=yellow)](https://github.com/janekbaraniewski/openusage/stargazers) [![Forks](https://img.shields.io/github/forks/janekbaraniewski/openusage?style=flat-square&color=blue)](https://github.com/janekbaraniewski/openusage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The one dashboard you’ve been looking for — track spend and usage across Claude, Cursor, OpenRouter, Copilot, Gemini, Codex, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ janekbaraniewski/openusage：janekbaraniewski/openusage helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 28/100 |
 | stars | 34/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

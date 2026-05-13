@@ -1,6 +1,6 @@
 # getstackit/stackit
 
-[![Stars](https://img.shields.io/github/stars/getstackit/stackit?style=flat-square&color=yellow)](https://github.com/getstackit/stackit/stargazers) [![Forks](https://img.shields.io/github/forks/getstackit/stackit?style=flat-square&color=blue)](https://github.com/getstackit/stackit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getstackit/stackit?style=flat-square&color=yellow)](https://github.com/getstackit/stackit/stargazers) [![Forks](https://img.shields.io/github/forks/getstackit/stackit?style=flat-square&color=blue)](https://github.com/getstackit/stackit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Stackit is a Go-based CLI tool for managing stacked changes in Git repositories. It helps developers work with dependent branches (a "stack") by tracking branch relationships, automating rebases across the stack, and submitting connected pull requests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ getstackit/stackit：getstackit/stackit helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 25/100 |
 | stars | 31/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

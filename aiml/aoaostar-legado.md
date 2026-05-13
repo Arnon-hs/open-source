@@ -1,6 +1,6 @@
 # aoaostar/legado
 
-[![Stars](https://img.shields.io/github/stars/aoaostar/legado?style=flat-square&color=yellow)](https://github.com/aoaostar/legado/stargazers) [![Forks](https://img.shields.io/github/forks/aoaostar/legado?style=flat-square&color=blue)](https://github.com/aoaostar/legado/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aoaostar/legado?style=flat-square&color=yellow)](https://github.com/aoaostar/legado/stargazers) [![Forks](https://img.shields.io/github/forks/aoaostar/legado?style=flat-square&color=blue)](https://github.com/aoaostar/legado/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 阅读APP书源
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aoaostar/legado：aoaostar/legado helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 73/100 |
 | stars | 79/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Flintcore/FlintStudio
 
-[![Stars](https://img.shields.io/github/stars/Flintcore/FlintStudio?style=flat-square&color=yellow)](https://github.com/Flintcore/FlintStudio/stargazers) [![Forks](https://img.shields.io/github/forks/Flintcore/FlintStudio?style=flat-square&color=blue)](https://github.com/Flintcore/FlintStudio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flintcore/FlintStudio?style=flat-square&color=yellow)](https://github.com/Flintcore/FlintStudio/stargazers) [![Forks](https://img.shields.io/github/forks/Flintcore/FlintStudio?style=flat-square&color=blue)](https://github.com/Flintcore/FlintStudio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI film automation: novel → script → storyboard → images → voiceover → video. All APIs configurable.开源 AI 影视自动化：小说→剧本→分镜→出图→配音→成片，全 API 可配置
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 245 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FlintStudio — это открытая платформа для полно
 
 ### 中文
 
-Flintcore/FlintStudio：Flintcore/FlintStudio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Flintcore/FlintStudio：Flintcore/FlintStudio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Flintcore/FlintStudio：Flintcore/FlintStudio helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Flintcore/FlintStudio：Flintcore/FlintStudio helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 86/100 |
+| production | 70/100 |
+| outlook | 79/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

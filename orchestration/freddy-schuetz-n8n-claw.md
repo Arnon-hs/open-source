@@ -1,6 +1,6 @@
 # freddy-schuetz/n8n-claw
 
-[![Stars](https://img.shields.io/github/stars/freddy-schuetz/n8n-claw?style=flat-square&color=yellow)](https://github.com/freddy-schuetz/n8n-claw/stargazers) [![Forks](https://img.shields.io/github/forks/freddy-schuetz/n8n-claw?style=flat-square&color=blue)](https://github.com/freddy-schuetz/n8n-claw/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freddy-schuetz/n8n-claw?style=flat-square&color=yellow)](https://github.com/freddy-schuetz/n8n-claw/stargazers) [![Forks](https://img.shields.io/github/forks/freddy-schuetz/n8n-claw?style=flat-square&color=blue)](https://github.com/freddy-schuetz/n8n-claw/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Freddy‑Schuetz / n8n‑claw — это полностью автоном
 
 ### 中文
 
-freddy-schuetz/n8n-claw：freddy-schuetz/n8n-claw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+freddy-schuetz/n8n-claw：freddy-schuetz/n8n-claw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ freddy-schuetz/n8n-claw：freddy-schuetz/n8n-claw helps turn isolated prompts an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ freddy-schuetz/n8n-claw：freddy-schuetz/n8n-claw helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 88/100 |
+| production | 72/100 |
+| outlook | 81/100 |
 | adoption | 54/100 |
 | stars | 56/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

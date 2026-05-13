@@ -1,6 +1,6 @@
 # ruvnet/agentic-flow
 
-[![Stars](https://img.shields.io/github/stars/ruvnet/agentic-flow?style=flat-square&color=yellow)](https://github.com/ruvnet/agentic-flow/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/agentic-flow?style=flat-square&color=blue)](https://github.com/ruvnet/agentic-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruvnet/agentic-flow?style=flat-square&color=yellow)](https://github.com/ruvnet/agentic-flow/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/agentic-flow?style=flat-square&color=blue)](https://github.com/ruvnet/agentic-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ r​uvnet/agentic‑flow is an open‑source toolkit that lets developers seamle
 
 ### 中文
 
-ruvnet/agentic-flow：ruvnet/agentic-flow helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ruvnet/agentic-flow：ruvnet/agentic-flow helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ruvnet/agentic-flow：ruvnet/agentic-flow helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ruvnet/agentic-flow：ruvnet/agentic-flow helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

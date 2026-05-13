@@ -1,6 +1,6 @@
 # NiceVPN123/NiceVPN
 
-[![Stars](https://img.shields.io/github/stars/NiceVPN123/NiceVPN?style=flat-square&color=yellow)](https://github.com/NiceVPN123/NiceVPN/stargazers) [![Forks](https://img.shields.io/github/forks/NiceVPN123/NiceVPN?style=flat-square&color=blue)](https://github.com/NiceVPN123/NiceVPN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NiceVPN123/NiceVPN?style=flat-square&color=yellow)](https://github.com/NiceVPN123/NiceVPN/stargazers) [![Forks](https://img.shields.io/github/forks/NiceVPN123/NiceVPN?style=flat-square&color=blue)](https://github.com/NiceVPN123/NiceVPN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 一个开放的节点库，为了自由的隐私
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 625 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ NiceVPN123/NiceVPN：NiceVPN123/NiceVPN may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 67/100 |
+| production | 64/100 |
+| outlook | 60/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

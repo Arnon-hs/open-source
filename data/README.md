@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**175 projects** in this category.
+**176 projects** in this category.
 
 ## Projects
 
@@ -168,21 +168,22 @@
 | 158 | [estuary/flow](./estuary-flow.md) | ⭐ 919 | Rust | 51/100 |
 | 159 | [RetroAchievements/RAWeb](./retroachievements-raweb.md) | ⭐ 395 | PHP | 51/100 |
 | 160 | [FelixKrueger/TrimGalore](./felixkrueger-trimgalore.md) | ⭐ 552 | Rust | 51/100 |
-| 161 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 51/100 |
-| 162 | [rudof-project/rudof](./rudof-project-rudof.md) | ⭐ 105 | Rust | 50/100 |
-| 163 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
-| 164 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 50/100 |
-| 165 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 50/100 |
-| 166 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 50/100 |
-| 167 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
-| 168 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 49/100 |
-| 169 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 48/100 |
+| 161 | [rudof-project/rudof](./rudof-project-rudof.md) | ⭐ 105 | Rust | 50/100 |
+| 162 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 50/100 |
+| 163 | [pcodec/pcodec](./pcodec-pcodec.md) | ⭐ 478 | Rust | 50/100 |
+| 164 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 50/100 |
+| 165 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 50/100 |
+| 166 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 50/100 |
+| 167 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 49/100 |
+| 168 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 48/100 |
+| 169 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 48/100 |
 | 170 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ — | — | 45/100 |
-| 171 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 172 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
-| 173 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
-| 174 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
-| 175 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 171 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
+| 172 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 173 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 41/100 |
+| 174 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
+| 175 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
+| 176 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cosmic-utils/tweaks
 
-[![Stars](https://img.shields.io/github/stars/cosmic-utils/tweaks?style=flat-square&color=yellow)](https://github.com/cosmic-utils/tweaks/stargazers) [![Forks](https://img.shields.io/github/forks/cosmic-utils/tweaks?style=flat-square&color=blue)](https://github.com/cosmic-utils/tweaks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cosmic-utils/tweaks?style=flat-square&color=yellow)](https://github.com/cosmic-utils/tweaks/stargazers) [![Forks](https://img.shields.io/github/forks/cosmic-utils/tweaks?style=flat-square&color=blue)](https://github.com/cosmic-utils/tweaks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A tweaking tool for the COSMIC desktop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ cosmic-utils/tweaks：cosmic-utils/tweaks may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

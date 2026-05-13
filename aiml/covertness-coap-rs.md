@@ -1,6 +1,6 @@
 # Covertness/coap-rs
 
-[![Stars](https://img.shields.io/github/stars/Covertness/coap-rs?style=flat-square&color=yellow)](https://github.com/Covertness/coap-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Covertness/coap-rs?style=flat-square&color=blue)](https://github.com/Covertness/coap-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Covertness/coap-rs?style=flat-square&color=yellow)](https://github.com/Covertness/coap-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Covertness/coap-rs?style=flat-square&color=blue)](https://github.com/Covertness/coap-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Constrained Application Protocol(CoAP) library implemented in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 231 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Covertness/coap-rs：Covertness/coap-rs helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 49/100 |
 | stars | 50/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

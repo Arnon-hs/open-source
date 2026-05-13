@@ -1,6 +1,6 @@
 # Anuken/MindustryMods
 
-[![Stars](https://img.shields.io/github/stars/Anuken/MindustryMods?style=flat-square&color=yellow)](https://github.com/Anuken/MindustryMods/stargazers) [![Forks](https://img.shields.io/github/forks/Anuken/MindustryMods?style=flat-square&color=blue)](https://github.com/Anuken/MindustryMods/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anuken/MindustryMods?style=flat-square&color=yellow)](https://github.com/Anuken/MindustryMods/stargazers) [![Forks](https://img.shields.io/github/forks/Anuken/MindustryMods?style=flat-square&color=blue)](https://github.com/Anuken/MindustryMods/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A public auto-generated list of mods used in Mindustry. Updates every 2 hours.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Anuken/MindustryMods：Anuken/MindustryMods may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sigcli/sigcli
 
-[![Stars](https://img.shields.io/github/stars/sigcli/sigcli?style=flat-square&color=yellow)](https://github.com/sigcli/sigcli/stargazers) [![Forks](https://img.shields.io/github/forks/sigcli/sigcli?style=flat-square&color=blue)](https://github.com/sigcli/sigcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigcli/sigcli?style=flat-square&color=yellow)](https://github.com/sigcli/sigcli/stargazers) [![Forks](https://img.shields.io/github/forks/sigcli/sigcli?style=flat-square&color=blue)](https://github.com/sigcli/sigcli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The authentication CLI & Proxy for AI agents. Give agents access, not your credentials.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ sigcli/sigcli：sigcli/sigcli helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 65/100 |
+| outlook | 64/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

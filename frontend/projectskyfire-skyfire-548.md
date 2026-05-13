@@ -1,6 +1,6 @@
 # ProjectSkyfire/SkyFire_548
 
-[![Stars](https://img.shields.io/github/stars/ProjectSkyfire/SkyFire_548?style=flat-square&color=yellow)](https://github.com/ProjectSkyfire/SkyFire_548/stargazers) [![Forks](https://img.shields.io/github/forks/ProjectSkyfire/SkyFire_548?style=flat-square&color=blue)](https://github.com/ProjectSkyfire/SkyFire_548/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProjectSkyfire/SkyFire_548?style=flat-square&color=yellow)](https://github.com/ProjectSkyfire/SkyFire_548/stargazers) [![Forks](https://img.shields.io/github/forks/ProjectSkyfire/SkyFire_548?style=flat-square&color=blue)](https://github.com/ProjectSkyfire/SkyFire_548/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > SkyFireEMU is a full featured World of Warcraft: Mists of Pandaria emulator written in C++. || Compatible with World of Warcraft client 5.4.8 (Build: 18414) Project Established in 2011 || Support on Discord https://discord.gg/DnKZycD
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 549 |
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SkyFire_548 — это полностью функциональный эму�
 
 ### 中文
 
-ProjectSkyfire/SkyFire_548：ProjectSkyfire/SkyFire_548 helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ProjectSkyfire/SkyFire_548：ProjectSkyfire/SkyFire_548 helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ProjectSkyfire/SkyFire_548：ProjectSkyfire/SkyFire_548 helps ship user-facing i
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ProjectSkyfire/SkyFire_548：ProjectSkyfire/SkyFire_548 helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 77/100 |
-| outlook | 82/100 |
+| production | 71/100 |
+| outlook | 75/100 |
 | adoption | 60/100 |
 | stars | 58/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jgravelle/jdocmunch-mcp
 
-[![Stars](https://img.shields.io/github/stars/jgravelle/jdocmunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jdocmunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jdocmunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jdocmunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jgravelle/jdocmunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jdocmunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jdocmunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jdocmunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The leading, most token-efficient MCP server for documentation exploration and retrieval via structured section indexing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jDocMunch‑MCP is an open‑source, token‑efficient MCP (Model‑Centric Prom
 
 ### 中文
 
-jgravelle/jdocmunch-mcp：jgravelle/jdocmunch-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jgravelle/jdocmunch-mcp：jgravelle/jdocmunch-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jgravelle/jdocmunch-mcp：jgravelle/jdocmunch-mcp helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jgravelle/jdocmunch-mcp：jgravelle/jdocmunch-mcp helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 78/100 |
+| production | 70/100 |
+| outlook | 71/100 |
 | adoption | 45/100 |
 | stars | 47/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

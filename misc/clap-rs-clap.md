@@ -1,6 +1,6 @@
 # clap-rs/clap
 
-[![Stars](https://img.shields.io/github/stars/clap-rs/clap?style=flat-square&color=yellow)](https://github.com/clap-rs/clap/stargazers) [![Forks](https://img.shields.io/github/forks/clap-rs/clap?style=flat-square&color=blue)](https://github.com/clap-rs/clap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clap-rs/clap?style=flat-square&color=yellow)](https://github.com/clap-rs/clap/stargazers) [![Forks](https://img.shields.io/github/forks/clap-rs/clap?style=flat-square&color=blue)](https://github.com/clap-rs/clap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured, fast Command Line Argument Parser for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ clap (Command Line Argument Parser) is a robust, high‑performance library for 
 
 ### 中文
 
-clap-rs/clap：clap-rs/clap may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+clap-rs/clap：clap-rs/clap may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ clap-rs/clap：clap-rs/clap may be useful when its README and activity match a c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ clap-rs/clap：clap-rs/clap may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| production | 73/100 |
+| outlook | 78/100 |
 | adoption | 86/100 |
 | stars | 90/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

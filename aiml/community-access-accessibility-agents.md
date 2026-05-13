@@ -1,6 +1,6 @@
 # Community-Access/accessibility-agents
 
-[![Stars](https://img.shields.io/github/stars/Community-Access/accessibility-agents?style=flat-square&color=yellow)](https://github.com/Community-Access/accessibility-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Community-Access/accessibility-agents?style=flat-square&color=blue)](https://github.com/Community-Access/accessibility-agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Community-Access/accessibility-agents?style=flat-square&color=yellow)](https://github.com/Community-Access/accessibility-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Community-Access/accessibility-agents?style=flat-square&color=blue)](https://github.com/Community-Access/accessibility-agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Community-Access/accessibility-agents：Community-Access/accessibility-agents he
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 82/100 |
+| production | 66/100 |
+| outlook | 75/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

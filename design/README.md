@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25.1k | JavaScript | 70/100 |
+| 1 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 25.1k | JavaScript | 67/100 |
 | 2 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 815 | C# | 63/100 |
 | 3 | [murtaza-nasir/speakr](./murtaza-nasir-speakr.md) | ⭐ 3.1k | Python | 61/100 |
 | 4 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 937 | Astro | 61/100 |

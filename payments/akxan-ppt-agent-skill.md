@@ -1,6 +1,6 @@
 # Akxan/ppt-agent-skill
 
-[![Stars](https://img.shields.io/github/stars/Akxan/ppt-agent-skill?style=flat-square&color=yellow)](https://github.com/Akxan/ppt-agent-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Akxan/ppt-agent-skill?style=flat-square&color=blue)](https://github.com/Akxan/ppt-agent-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Akxan/ppt-agent-skill?style=flat-square&color=yellow)](https://github.com/Akxan/ppt-agent-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Akxan/ppt-agent-skill?style=flat-square&color=blue)](https://github.com/Akxan/ppt-agent-skill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🎨 World-class AI presentation generator · 26 styles · 18 charts · benchmarked against Linear/Anthropic/Stripe/Apple/NYT — a Claude Code Skill that turns one sentence into design-agency-quality decks (HTML + editable PPTX)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Akxan/ppt-agent-skill：Akxan/ppt-agent-skill helps integrate monetization, bill
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 34/100 |
 | stars | 32/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
