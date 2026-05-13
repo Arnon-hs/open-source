@@ -1,6 +1,6 @@
 # AgenticHealthAI/Awesome-AI-Agents-for-Healthcare
 
-[![Stars](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square&color=yellow)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/stargazers) [![Forks](https://img.shields.io/github/forks/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square&color=blue)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square&color=yellow)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/stargazers) [![Forks](https://img.shields.io/github/forks/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare?style=flat-square&color=blue)](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Latest Advances on Agentic AI & AI Agents for Healthcare
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 924 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ AgenticHealthAI/Awesome-AI-Agents-for-Healthcare：AgenticHealthAI/Awesome-AI-Ag
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**75 projects** in this category.
+**76 projects** in this category.
 
 ## Projects
 
@@ -67,22 +67,23 @@
 | 57 | [Mintplex-Labs/anythingllm-embed](./mintplex-labs-anythingllm-embed.md) | ⭐ 159 | JavaScript | 61/100 |
 | 58 | [libyal/libesedb](./libyal-libesedb.md) | ⭐ 372 | C | 61/100 |
 | 59 | [dalathegreat/Battery-Emulator](./dalathegreat-battery-emulator.md) | ⭐ 2.4k | C++ | 61/100 |
-| 60 | [ChuckHend/pg_vectorize](./chuckhend-pg-vectorize.md) | ⭐ 831 | Rust | 60/100 |
-| 61 | [crawlchat/crawlchat](./crawlchat-crawlchat.md) | ⭐ 119 | TypeScript | 60/100 |
-| 62 | [ferranpons/Llamatik](./ferranpons-llamatik.md) | ⭐ 116 | HTML | 60/100 |
-| 63 | [spupuz/VibeNVR](./spupuz-vibenvr.md) | ⭐ 205 | JavaScript | 59/100 |
-| 64 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 59/100 |
-| 65 | [MantisAI/sieves](./mantisai-sieves.md) | ⭐ 125 | Python | 58/100 |
-| 66 | [therealarthur/myrlin-workbook](./therealarthur-myrlin-workbook.md) | ⭐ 337 | JavaScript | 56/100 |
-| 67 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 261 | Rust | 56/100 |
-| 68 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 22 | TypeScript | 55/100 |
-| 69 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
-| 70 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
-| 71 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
-| 72 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
-| 73 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
-| 74 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
-| 75 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
+| 60 | [fractalbits-labs/fractalbits](./fractalbits-labs-fractalbits.md) | ⭐ 267 | Rust | 60/100 |
+| 61 | [ChuckHend/pg_vectorize](./chuckhend-pg-vectorize.md) | ⭐ 831 | Rust | 60/100 |
+| 62 | [crawlchat/crawlchat](./crawlchat-crawlchat.md) | ⭐ 119 | TypeScript | 60/100 |
+| 63 | [ferranpons/Llamatik](./ferranpons-llamatik.md) | ⭐ 116 | HTML | 60/100 |
+| 64 | [spupuz/VibeNVR](./spupuz-vibenvr.md) | ⭐ 205 | JavaScript | 59/100 |
+| 65 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 59/100 |
+| 66 | [MantisAI/sieves](./mantisai-sieves.md) | ⭐ 125 | Python | 58/100 |
+| 67 | [therealarthur/myrlin-workbook](./therealarthur-myrlin-workbook.md) | ⭐ 337 | JavaScript | 56/100 |
+| 68 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 261 | Rust | 56/100 |
+| 69 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 22 | TypeScript | 55/100 |
+| 70 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
+| 71 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
+| 72 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
+| 73 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
+| 74 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
+| 75 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
+| 76 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
 
 ---
 

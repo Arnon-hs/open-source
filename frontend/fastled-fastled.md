@@ -1,6 +1,6 @@
 # FastLED/FastLED
 
-[![Stars](https://img.shields.io/github/stars/FastLED/FastLED?style=flat-square&color=yellow)](https://github.com/FastLED/FastLED/stargazers) [![Forks](https://img.shields.io/github/forks/FastLED/FastLED?style=flat-square&color=blue)](https://github.com/FastLED/FastLED/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FastLED/FastLED?style=flat-square&color=yellow)](https://github.com/FastLED/FastLED/stargazers) [![Forks](https://img.shields.io/github/forks/FastLED/FastLED?style=flat-square&color=blue)](https://github.com/FastLED/FastLED/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tracking library bugs / enhancements.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ FastLED/FastLED：FastLED/FastLED helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 82/100 |
 | stars | 82/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

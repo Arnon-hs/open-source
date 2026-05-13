@@ -1,6 +1,6 @@
 # GlassHaven/Haven
 
-[![Stars](https://img.shields.io/github/stars/GlassHaven/Haven?style=flat-square&color=yellow)](https://github.com/GlassHaven/Haven/stargazers) [![Forks](https://img.shields.io/github/forks/GlassHaven/Haven?style=flat-square&color=blue)](https://github.com/GlassHaven/Haven/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GlassHaven/Haven?style=flat-square&color=yellow)](https://github.com/GlassHaven/Haven/stargazers) [![Forks](https://img.shields.io/github/forks/GlassHaven/Haven?style=flat-square&color=blue)](https://github.com/GlassHaven/Haven/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Free SSH, VNC, RDP & SFTP client for Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 465 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ GlassHaven/Haven：GlassHaven/Haven helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

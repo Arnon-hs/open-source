@@ -1,6 +1,6 @@
 # tauri-apps/tauri-docs
 
-[![Stars](https://img.shields.io/github/stars/tauri-apps/tauri-docs?style=flat-square&color=yellow)](https://github.com/tauri-apps/tauri-docs/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/tauri-docs?style=flat-square&color=blue)](https://github.com/tauri-apps/tauri-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tauri-apps/tauri-docs?style=flat-square&color=yellow)](https://github.com/tauri-apps/tauri-docs/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/tauri-docs?style=flat-square&color=blue)](https://github.com/tauri-apps/tauri-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The source for all Tauri project documentation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 868 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tauri-apps/tauri-docs：tauri-apps/tauri-docs may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 67/100 |
 | stars | 65/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

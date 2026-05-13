@@ -1,6 +1,6 @@
 # ChrisBuilds/terminaltexteffects
 
-[![Stars](https://img.shields.io/github/stars/ChrisBuilds/terminaltexteffects?style=flat-square&color=yellow)](https://github.com/ChrisBuilds/terminaltexteffects/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisBuilds/terminaltexteffects?style=flat-square&color=blue)](https://github.com/ChrisBuilds/terminaltexteffects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisBuilds/terminaltexteffects?style=flat-square&color=yellow)](https://github.com/ChrisBuilds/terminaltexteffects/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisBuilds/terminaltexteffects?style=flat-square&color=blue)](https://github.com/ChrisBuilds/terminaltexteffects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TerminalTextEffects (TTE) — это открытый движок визуа�
 
 ### 中文
 
-ChrisBuilds/terminaltexteffects：ChrisBuilds/terminaltexteffects helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ChrisBuilds/terminaltexteffects：ChrisBuilds/terminaltexteffects helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ChrisBuilds/terminaltexteffects：ChrisBuilds/terminaltexteffects helps ship use
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ChrisBuilds/terminaltexteffects：ChrisBuilds/terminaltexteffects helps ship use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 76/100 |
+| production | 69/100 |
+| outlook | 69/100 |
 | adoption | 69/100 |
 | stars | 77/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

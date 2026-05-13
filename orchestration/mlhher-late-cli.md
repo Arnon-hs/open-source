@@ -1,6 +1,6 @@
 # mlhher/late-cli
 
-[![Stars](https://img.shields.io/github/stars/mlhher/late-cli?style=flat-square&color=yellow)](https://github.com/mlhher/late-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mlhher/late-cli?style=flat-square&color=blue)](https://github.com/mlhher/late-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlhher/late-cli?style=flat-square&color=yellow)](https://github.com/mlhher/late-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mlhher/late-cli?style=flat-square&color=blue)](https://github.com/mlhher/late-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mlhher/late-cli — это лёгкий статический бинарни�
 
 ### 中文
 
-mlhher/late-cli：mlhher/late-cli helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mlhher/late-cli：mlhher/late-cli helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mlhher/late-cli：mlhher/late-cli helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mlhher/late-cli：mlhher/late-cli helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 80/100 |
-| outlook | 87/100 |
+| production | 73/100 |
+| outlook | 80/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # oxbshw/LLM-Agents-Ecosystem-Handbook
 
-[![Stars](https://img.shields.io/github/stars/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=yellow)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=blue)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=yellow)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=blue)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **LLM‑Agents‑Ecosystem‑Handbook** is an open‑source, all‑in‑one 
 
 ### 中文
 
-oxbshw/LLM-Agents-Ecosystem-Handbook：oxbshw/LLM-Agents-Ecosystem-Handbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+oxbshw/LLM-Agents-Ecosystem-Handbook：oxbshw/LLM-Agents-Ecosystem-Handbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oxbshw/LLM-Agents-Ecosystem-Handbook：oxbshw/LLM-Agents-Ecosystem-Handbook help
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ oxbshw/LLM-Agents-Ecosystem-Handbook：oxbshw/LLM-Agents-Ecosystem-Handbook help
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 89/100 |
+| production | 72/100 |
+| outlook | 82/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

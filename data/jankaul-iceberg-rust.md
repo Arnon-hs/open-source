@@ -1,6 +1,6 @@
 # JanKaul/iceberg-rust
 
-[![Stars](https://img.shields.io/github/stars/JanKaul/iceberg-rust?style=flat-square&color=yellow)](https://github.com/JanKaul/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/JanKaul/iceberg-rust?style=flat-square&color=blue)](https://github.com/JanKaul/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JanKaul/iceberg-rust?style=flat-square&color=yellow)](https://github.com/JanKaul/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/JanKaul/iceberg-rust?style=flat-square&color=blue)](https://github.com/JanKaul/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial rust implementation of Apache Iceberg with integration for Datafusion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JanKaul/iceberg-rust：JanKaul/iceberg-rust helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 41/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

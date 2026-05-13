@@ -1,6 +1,6 @@
 # siddharthvaddem/openscreen
 
-[![Stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat-square&color=yellow)](https://github.com/siddharthvaddem/openscreen/stargazers) [![Forks](https://img.shields.io/github/forks/siddharthvaddem/openscreen?style=flat-square&color=blue)](https://github.com/siddharthvaddem/openscreen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat-square&color=yellow)](https://github.com/siddharthvaddem/openscreen/stargazers) [![Forks](https://img.shields.io/github/forks/siddharthvaddem/openscreen?style=flat-square&color=blue)](https://github.com/siddharthvaddem/openscreen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ siddharthvaddem/openscreen is an open‑source tool for creating high‑quality 
 
 ### 中文
 
-siddharthvaddem/openscreen：siddharthvaddem/openscreen helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+siddharthvaddem/openscreen：siddharthvaddem/openscreen helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ siddharthvaddem/openscreen：siddharthvaddem/openscreen helps integrate monetiza
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ siddharthvaddem/openscreen：siddharthvaddem/openscreen helps integrate monetiza
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 91/100 |
+| quality | 86/100 |
 | integration | 46/100 |
-| production | 81/100 |
-| outlook | 83/100 |
+| production | 74/100 |
+| outlook | 76/100 |
 | adoption | 93/100 |
 | stars | 97/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

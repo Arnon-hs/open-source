@@ -1,6 +1,6 @@
 # BenedictKing/ccx
 
-[![Stars](https://img.shields.io/github/stars/BenedictKing/ccx?style=flat-square&color=yellow)](https://github.com/BenedictKing/ccx/stargazers) [![Forks](https://img.shields.io/github/forks/BenedictKing/ccx?style=flat-square&color=blue)](https://github.com/BenedictKing/ccx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BenedictKing/ccx?style=flat-square&color=yellow)](https://github.com/BenedictKing/ccx/stargazers) [![Forks](https://img.shields.io/github/forks/BenedictKing/ccx?style=flat-square&color=blue)](https://github.com/BenedictKing/ccx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Claude / Codex / Gemini API Proxy - CCX
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ BenedictKing/ccx：BenedictKing/ccx helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 72/100 |
+| production | 67/100 |
+| outlook | 65/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 38/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

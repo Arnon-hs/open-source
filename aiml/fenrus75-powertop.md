@@ -1,6 +1,6 @@
 # fenrus75/powertop
 
-[![Stars](https://img.shields.io/github/stars/fenrus75/powertop?style=flat-square&color=yellow)](https://github.com/fenrus75/powertop/stargazers) [![Forks](https://img.shields.io/github/forks/fenrus75/powertop?style=flat-square&color=blue)](https://github.com/fenrus75/powertop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fenrus75/powertop?style=flat-square&color=yellow)](https://github.com/fenrus75/powertop/stargazers) [![Forks](https://img.shields.io/github/forks/fenrus75/powertop?style=flat-square&color=blue)](https://github.com/fenrus75/powertop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fenrus75/powertop：fenrus75/powertop helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # LearnPrompt/ai-news-radar
 
-[![Stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=yellow)](https://github.com/LearnPrompt/ai-news-radar/stargazers) [![Forks](https://img.shields.io/github/forks/LearnPrompt/ai-news-radar?style=flat-square&color=blue)](https://github.com/LearnPrompt/ai-news-radar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LearnPrompt/ai-news-radar?style=flat-square&color=yellow)](https://github.com/LearnPrompt/ai-news-radar/stargazers) [![Forks](https://img.shields.io/github/forks/LearnPrompt/ai-news-radar?style=flat-square&color=blue)](https://github.com/LearnPrompt/ai-news-radar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 24h AI/tech news radar with GitHub Actions, live web UI, and Scout Skill for AI sources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ LearnPrompt/ai-news-radar：LearnPrompt/ai-news-radar helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 67/100 |
+| production | 64/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | stars | 53/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 
