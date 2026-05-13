@@ -1,6 +1,6 @@
 # ZeroDeng01/sublinkPro
 
-[![Stars](https://img.shields.io/github/stars/ZeroDeng01/sublinkPro?style=flat-square&color=yellow)](https://github.com/ZeroDeng01/sublinkPro/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroDeng01/sublinkPro?style=flat-square&color=blue)](https://github.com/ZeroDeng01/sublinkPro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZeroDeng01/sublinkPro?style=flat-square&color=yellow)](https://github.com/ZeroDeng01/sublinkPro/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroDeng01/sublinkPro?style=flat-square&color=blue)](https://github.com/ZeroDeng01/sublinkPro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ ZeroDeng01/sublinkPro：ZeroDeng01/sublinkPro helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 69/100 |
+| production | 66/100 |
+| outlook | 62/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

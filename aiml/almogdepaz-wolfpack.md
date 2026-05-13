@@ -1,6 +1,6 @@
 # almogdepaz/wolfpack
 
-[![Stars](https://img.shields.io/github/stars/almogdepaz/wolfpack?style=flat-square&color=yellow)](https://github.com/almogdepaz/wolfpack/stargazers) [![Forks](https://img.shields.io/github/forks/almogdepaz/wolfpack?style=flat-square&color=blue)](https://github.com/almogdepaz/wolfpack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/almogdepaz/wolfpack?style=flat-square&color=yellow)](https://github.com/almogdepaz/wolfpack/stargazers) [![Forks](https://img.shields.io/github/forks/almogdepaz/wolfpack?style=flat-square&color=blue)](https://github.com/almogdepaz/wolfpack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile & desktop command center for AI coding agents. Control Claude, Codex, Gemini sessions across machines from your phone — secured by Tailscale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ almogdepaz/wolfpack：almogdepaz/wolfpack helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 65/100 |
+| outlook | 73/100 |
 | adoption | 29/100 |
 | stars | 31/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

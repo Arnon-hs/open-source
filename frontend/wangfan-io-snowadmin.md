@@ -1,6 +1,6 @@
 # WangFan-io/SnowAdmin
 
-[![Stars](https://img.shields.io/github/stars/WangFan-io/SnowAdmin?style=flat-square&color=yellow)](https://github.com/WangFan-io/SnowAdmin/stargazers) [![Forks](https://img.shields.io/github/forks/WangFan-io/SnowAdmin?style=flat-square&color=blue)](https://github.com/WangFan-io/SnowAdmin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WangFan-io/SnowAdmin?style=flat-square&color=yellow)](https://github.com/WangFan-io/SnowAdmin/stargazers) [![Forks](https://img.shields.io/github/forks/WangFan-io/SnowAdmin?style=flat-square&color=blue)](https://github.com/WangFan-io/SnowAdmin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ WangFan-io/SnowAdmin：WangFan-io/SnowAdmin helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 69/100 |
+| production | 65/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

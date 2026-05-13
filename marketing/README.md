@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tafia/calamine](./tafia-calamine.md) | ⭐ 2.3k | Rust | 61/100 |
-| 2 | [lalinsky/zio](./lalinsky-zio.md) | ⭐ 445 | Zig | 61/100 |
-| 3 | [openstudiocoalition/OpenStudioApplication](./openstudiocoalition-openstudioapplication.md) | ⭐ 168 | C++ | 60/100 |
+| 1 | [lalinsky/zio](./lalinsky-zio.md) | ⭐ 445 | Zig | 61/100 |
+| 2 | [openstudiocoalition/OpenStudioApplication](./openstudiocoalition-openstudioapplication.md) | ⭐ 168 | C++ | 60/100 |
+| 3 | [tafia/calamine](./tafia-calamine.md) | ⭐ 2.3k | Rust | 58/100 |
 | 4 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 56/100 |
 | 5 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 56/100 |
 | 6 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 56/100 |

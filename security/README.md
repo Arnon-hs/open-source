@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**62 projects** in this category.
+**63 projects** in this category.
 
 ## Projects
 
@@ -63,13 +63,14 @@
 | 53 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
 | 54 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
 | 55 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
-| 56 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
-| 57 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
-| 58 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
-| 59 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
-| 60 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
-| 61 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 47/100 |
-| 62 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 56 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 53/100 |
+| 57 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
+| 58 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
+| 59 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
+| 60 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
+| 61 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
+| 62 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 47/100 |
+| 63 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
 
 ---
 

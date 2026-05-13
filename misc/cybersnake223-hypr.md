@@ -1,6 +1,6 @@
 # Cybersnake223/Hypr
 
-[![Stars](https://img.shields.io/github/stars/Cybersnake223/Hypr?style=flat-square&color=yellow)](https://github.com/Cybersnake223/Hypr/stargazers) [![Forks](https://img.shields.io/github/forks/Cybersnake223/Hypr?style=flat-square&color=blue)](https://github.com/Cybersnake223/Hypr/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cybersnake223/Hypr?style=flat-square&color=yellow)](https://github.com/Cybersnake223/Hypr/stargazers) [![Forks](https://img.shields.io/github/forks/Cybersnake223/Hypr?style=flat-square&color=blue)](https://github.com/Cybersnake223/Hypr/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Vicious Viper Dotfiles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Cybersnake223/Hypr：Cybersnake223/Hypr may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 48/100 |
 | stars | 56/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

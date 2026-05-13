@@ -1,6 +1,6 @@
 # lassik/emacs-format-all-the-code
 
-[![Stars](https://img.shields.io/github/stars/lassik/emacs-format-all-the-code?style=flat-square&color=yellow)](https://github.com/lassik/emacs-format-all-the-code/stargazers) [![Forks](https://img.shields.io/github/forks/lassik/emacs-format-all-the-code?style=flat-square&color=blue)](https://github.com/lassik/emacs-format-all-the-code/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lassik/emacs-format-all-the-code?style=flat-square&color=yellow)](https://github.com/lassik/emacs-format-all-the-code/stargazers) [![Forks](https://img.shields.io/github/forks/lassik/emacs-format-all-the-code?style=flat-square&color=blue)](https://github.com/lassik/emacs-format-all-the-code/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-format source code in many languages with one command
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ lassik/emacs-format-all-the-code：lassik/emacs-format-all-the-code may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 63/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

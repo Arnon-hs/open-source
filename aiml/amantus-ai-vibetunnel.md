@@ -1,6 +1,6 @@
 # amantus-ai/vibetunnel
 
-[![Stars](https://img.shields.io/github/stars/amantus-ai/vibetunnel?style=flat-square&color=yellow)](https://github.com/amantus-ai/vibetunnel/stargazers) [![Forks](https://img.shields.io/github/forks/amantus-ai/vibetunnel?style=flat-square&color=blue)](https://github.com/amantus-ai/vibetunnel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amantus-ai/vibetunnel?style=flat-square&color=yellow)](https://github.com/amantus-ai/vibetunnel/stargazers) [![Forks](https://img.shields.io/github/forks/amantus-ai/vibetunnel?style=flat-square&color=blue)](https://github.com/amantus-ai/vibetunnel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any browser into your terminal & command your agents on the go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 323 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ VibeTunnel (amantus‑ai/vibetunnel) transforms a web browser into an interactiv
 
 ### 中文
 
-amantus-ai/vibetunnel：amantus-ai/vibetunnel helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+amantus-ai/vibetunnel：amantus-ai/vibetunnel helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ amantus-ai/vibetunnel：amantus-ai/vibetunnel helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ amantus-ai/vibetunnel：amantus-ai/vibetunnel helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 72/100 |
+| outlook | 72/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

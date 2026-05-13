@@ -39,8 +39,8 @@
 | 29 | [huggingface/transformers](./huggingface-transformers.md) | ⭐ 160.3k | Python | 73/100 |
 | 30 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 73/100 |
 | 31 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 73/100 |
-| 32 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 72/100 |
-| 33 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 72/100 |
+| 32 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 72/100 |
+| 33 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 72/100 |
 | 34 | [NVIDIA/TensorRT-LLM](./nvidia-tensorrt-llm.md) | ⭐ 13.6k | Python | 72/100 |
 | 35 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 72/100 |
 | 36 | [qntx/x402-openai-python](./qntx-x402-openai-python.md) | ⭐ 260 | Python | 72/100 |

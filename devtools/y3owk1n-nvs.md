@@ -1,6 +1,6 @@
 # y3owk1n/nvs
 
-[![Stars](https://img.shields.io/github/stars/y3owk1n/nvs?style=flat-square&color=yellow)](https://github.com/y3owk1n/nvs/stargazers) [![Forks](https://img.shields.io/github/forks/y3owk1n/nvs?style=flat-square&color=blue)](https://github.com/y3owk1n/nvs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/y3owk1n/nvs?style=flat-square&color=yellow)](https://github.com/y3owk1n/nvs/stargazers) [![Forks](https://img.shields.io/github/forks/y3owk1n/nvs?style=flat-square&color=blue)](https://github.com/y3owk1n/nvs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Neovim Version & Config Manager CLI tool to install, switch, list, uninstall, and reset Neovim versions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ y3owk1n/nvs：y3owk1n/nvs helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 25/100 |
 | stars | 32/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

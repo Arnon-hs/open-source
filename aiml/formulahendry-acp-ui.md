@@ -1,6 +1,6 @@
 # formulahendry/acp-ui
 
-[![Stars](https://img.shields.io/github/stars/formulahendry/acp-ui?style=flat-square&color=yellow)](https://github.com/formulahendry/acp-ui/stargazers) [![Forks](https://img.shields.io/github/forks/formulahendry/acp-ui?style=flat-square&color=blue)](https://github.com/formulahendry/acp-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/formulahendry/acp-ui?style=flat-square&color=yellow)](https://github.com/formulahendry/acp-ui/stargazers) [![Forks](https://img.shields.io/github/forks/formulahendry/acp-ui?style=flat-square&color=blue)](https://github.com/formulahendry/acp-ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, cross-platform client for the Agent Client Protocol (ACP) on desktop, mobile, and the web — connect to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode, OpenClaw and more)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ formulahendry/acp-ui：formulahendry/acp-ui helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # gaoyangz77/rivonclaw
 
-[![Stars](https://img.shields.io/github/stars/gaoyangz77/rivonclaw?style=flat-square&color=yellow)](https://github.com/gaoyangz77/rivonclaw/stargazers) [![Forks](https://img.shields.io/github/forks/gaoyangz77/rivonclaw?style=flat-square&color=blue)](https://github.com/gaoyangz77/rivonclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaoyangz77/rivonclaw?style=flat-square&color=yellow)](https://github.com/gaoyangz77/rivonclaw/stargazers) [![Forks](https://img.shields.io/github/forks/gaoyangz77/rivonclaw?style=flat-square&color=blue)](https://github.com/gaoyangz77/rivonclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ gaoyangz77/rivonclaw：gaoyangz77/rivonclaw helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 50/100 |
 | stars | 51/100 |
 | forks | 45/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

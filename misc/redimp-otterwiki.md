@@ -1,6 +1,6 @@
 # redimp/otterwiki
 
-[![Stars](https://img.shields.io/github/stars/redimp/otterwiki?style=flat-square&color=yellow)](https://github.com/redimp/otterwiki/stargazers) [![Forks](https://img.shields.io/github/forks/redimp/otterwiki?style=flat-square&color=blue)](https://github.com/redimp/otterwiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redimp/otterwiki?style=flat-square&color=yellow)](https://github.com/redimp/otterwiki/stargazers) [![Forks](https://img.shields.io/github/forks/redimp/otterwiki?style=flat-square&color=blue)](https://github.com/redimp/otterwiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A minimalistic wiki powered by python, markdown and git.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ redimp/otterwiki：redimp/otterwiki may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 73/100 |
+| production | 68/100 |
+| outlook | 66/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ParadiseSS13/Paradise
 
-[![Stars](https://img.shields.io/github/stars/ParadiseSS13/Paradise?style=flat-square&color=yellow)](https://github.com/ParadiseSS13/Paradise/stargazers) [![Forks](https://img.shields.io/github/forks/ParadiseSS13/Paradise?style=flat-square&color=blue)](https://github.com/ParadiseSS13/Paradise/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ParadiseSS13/Paradise?style=flat-square&color=yellow)](https://github.com/ParadiseSS13/Paradise/stargazers) [![Forks](https://img.shields.io/github/forks/ParadiseSS13/Paradise?style=flat-square&color=blue)](https://github.com/ParadiseSS13/Paradise/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Paradise Station's GitHub main repository.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | DM |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ParadiseSS13/Paradise：ParadiseSS13/Paradise helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 62/100 |
 | stars | 56/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

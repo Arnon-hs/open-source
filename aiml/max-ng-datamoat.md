@@ -1,6 +1,6 @@
 # max-ng/datamoat
 
-[![Stars](https://img.shields.io/github/stars/max-ng/datamoat?style=flat-square&color=yellow)](https://github.com/max-ng/datamoat/stargazers) [![Forks](https://img.shields.io/github/forks/max-ng/datamoat?style=flat-square&color=blue)](https://github.com/max-ng/datamoat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max-ng/datamoat?style=flat-square&color=yellow)](https://github.com/max-ng/datamoat/stargazers) [![Forks](https://img.shields.io/github/forks/max-ng/datamoat?style=flat-square&color=blue)](https://github.com/max-ng/datamoat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Capture everything you build with Claude, Codex, Cursor, and OpenClaw, and turn it into the most valuable private data asset of your life.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ max-ng/datamoat：max-ng/datamoat helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 25/100 |
 | stars | 29/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

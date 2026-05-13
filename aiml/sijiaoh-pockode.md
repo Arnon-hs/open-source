@@ -1,6 +1,6 @@
 # sijiaoh/pockode
 
-[![Stars](https://img.shields.io/github/stars/sijiaoh/pockode?style=flat-square&color=yellow)](https://github.com/sijiaoh/pockode/stargazers) [![Forks](https://img.shields.io/github/forks/sijiaoh/pockode?style=flat-square&color=blue)](https://github.com/sijiaoh/pockode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sijiaoh/pockode?style=flat-square&color=yellow)](https://github.com/sijiaoh/pockode/stargazers) [![Forks](https://img.shields.io/github/forks/sijiaoh/pockode?style=flat-square&color=blue)](https://github.com/sijiaoh/pockode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile interface for Claude Code and Codex — control your local AI coding agent from anywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sijiaoh/pockode：sijiaoh/pockode helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 33/100 |
 | stars | 37/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

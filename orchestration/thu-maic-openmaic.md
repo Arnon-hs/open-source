@@ -1,6 +1,6 @@
 # THU-MAIC/OpenMAIC
 
-[![Stars](https://img.shields.io/github/stars/THU-MAIC/OpenMAIC?style=flat-square&color=yellow)](https://github.com/THU-MAIC/OpenMAIC/stargazers) [![Forks](https://img.shields.io/github/forks/THU-MAIC/OpenMAIC?style=flat-square&color=blue)](https://github.com/THU-MAIC/OpenMAIC/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/THU-MAIC/OpenMAIC?style=flat-square&color=yellow)](https://github.com/THU-MAIC/OpenMAIC/stargazers) [![Forks](https://img.shields.io/github/forks/THU-MAIC/OpenMAIC?style=flat-square&color=blue)](https://github.com/THU-MAIC/OpenMAIC/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.2k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenMAIC — это открытая платформа для организ�
 
 ### 中文
 
-THU-MAIC/OpenMAIC：THU-MAIC/OpenMAIC helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+THU-MAIC/OpenMAIC：THU-MAIC/OpenMAIC helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ THU-MAIC/OpenMAIC：THU-MAIC/OpenMAIC helps turn isolated prompts and tools into
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ THU-MAIC/OpenMAIC：THU-MAIC/OpenMAIC helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 79/100 |
-| outlook | 82/100 |
+| production | 72/100 |
+| outlook | 75/100 |
 | adoption | 89/100 |
 | stars | 90/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

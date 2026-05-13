@@ -1,6 +1,6 @@
 # RSDKModding/RSDKv4-Decompilation
 
-[![Stars](https://img.shields.io/github/stars/RSDKModding/RSDKv4-Decompilation?style=flat-square&color=yellow)](https://github.com/RSDKModding/RSDKv4-Decompilation/stargazers) [![Forks](https://img.shields.io/github/forks/RSDKModding/RSDKv4-Decompilation?style=flat-square&color=blue)](https://github.com/RSDKModding/RSDKv4-Decompilation/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RSDKModding/RSDKv4-Decompilation?style=flat-square&color=yellow)](https://github.com/RSDKModding/RSDKv4-Decompilation/stargazers) [![Forks](https://img.shields.io/github/forks/RSDKModding/RSDKv4-Decompilation?style=flat-square&color=blue)](https://github.com/RSDKModding/RSDKv4-Decompilation/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine (v4)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ RSDKModding/RSDKv4-Decompilation：RSDKModding/RSDKv4-Decompilation may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 66/100 |
+| outlook | 65/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

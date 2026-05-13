@@ -1,6 +1,6 @@
 # hyperlane-dev/hyperlane
 
-[![Stars](https://img.shields.io/github/stars/hyperlane-dev/hyperlane?style=flat-square&color=yellow)](https://github.com/hyperlane-dev/hyperlane/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlane-dev/hyperlane?style=flat-square&color=blue)](https://github.com/hyperlane-dev/hyperlane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperlane-dev/hyperlane?style=flat-square&color=yellow)](https://github.com/hyperlane-dev/hyperlane/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlane-dev/hyperlane?style=flat-square&color=blue)](https://github.com/hyperlane-dev/hyperlane/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, high-performance, and cross-platform Rust HTTP server library built on Tokio. It simplifies modern web service development by providing built-in support for middleware, WebSocket, Server-Sent Events (SSE), and raw TCP communication.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ hyperlane-dev/hyperlane：hyperlane-dev/hyperlane helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 63/100 |
+| production | 59/100 |
+| outlook | 56/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 
