@@ -1,6 +1,6 @@
 # PradeepaRW/project-nova
 
-[![Stars](https://img.shields.io/github/stars/PradeepaRW/project-nova?style=flat-square&color=yellow)](https://github.com/PradeepaRW/project-nova/stargazers) [![Forks](https://img.shields.io/github/forks/PradeepaRW/project-nova?style=flat-square&color=blue)](https://github.com/PradeepaRW/project-nova/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PradeepaRW/project-nova?style=flat-square&color=yellow)](https://github.com/PradeepaRW/project-nova/stargazers) [![Forks](https://img.shields.io/github/forks/PradeepaRW/project-nova?style=flat-square&color=blue)](https://github.com/PradeepaRW/project-nova/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PradeepaRW’s **project‑nova** is a modular, multi‑agent AI platform that l
 
 ### 中文
 
-PradeepaRW/project-nova：PradeepaRW/project-nova helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PradeepaRW/project-nova：PradeepaRW/project-nova helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ PradeepaRW/project-nova：PradeepaRW/project-nova helps turn isolated prompts an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ PradeepaRW/project-nova：PradeepaRW/project-nova helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 82/100 |
+| production | 72/100 |
+| outlook | 75/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # xremap/xremap
 
-[![Stars](https://img.shields.io/github/stars/xremap/xremap?style=flat-square&color=yellow)](https://github.com/xremap/xremap/stargazers) [![Forks](https://img.shields.io/github/forks/xremap/xremap?style=flat-square&color=blue)](https://github.com/xremap/xremap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xremap/xremap?style=flat-square&color=yellow)](https://github.com/xremap/xremap/stargazers) [![Forks](https://img.shields.io/github/forks/xremap/xremap?style=flat-square&color=blue)](https://github.com/xremap/xremap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Key remapper for X11 and Wayland
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ xremap/xremap：xremap/xremap may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 67/100 |
+| outlook | 68/100 |
 | adoption | 65/100 |
 | stars | 71/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

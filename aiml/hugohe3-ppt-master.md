@@ -1,6 +1,6 @@
 # hugohe3/ppt-master
 
-[![Stars](https://img.shields.io/github/stars/hugohe3/ppt-master?style=flat-square&color=yellow)](https://github.com/hugohe3/ppt-master/stargazers) [![Forks](https://img.shields.io/github/forks/hugohe3/ppt-master?style=flat-square&color=blue)](https://github.com/hugohe3/ppt-master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hugohe3/ppt-master?style=flat-square&color=yellow)](https://github.com/hugohe3/ppt-master/stargazers) [![Forks](https://img.shields.io/github/forks/hugohe3/ppt-master?style=flat-square&color=blue)](https://github.com/hugohe3/ppt-master/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hugohe3/ppt-master：hugohe3/ppt-master helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 88/100 |
+| production | 77/100 |
+| outlook | 81/100 |
 | adoption | 86/100 |
 | stars | 88/100 |
 | forks | 79/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

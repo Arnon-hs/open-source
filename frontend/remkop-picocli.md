@@ -1,6 +1,6 @@
 # remkop/picocli
 
-[![Stars](https://img.shields.io/github/stars/remkop/picocli?style=flat-square&color=yellow)](https://github.com/remkop/picocli/stargazers) [![Forks](https://img.shields.io/github/forks/remkop/picocli?style=flat-square&color=blue)](https://github.com/remkop/picocli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remkop/picocli?style=flat-square&color=yellow)](https://github.com/remkop/picocli/stargazers) [![Forks](https://img.shields.io/github/forks/remkop/picocli?style=flat-square&color=blue)](https://github.com/remkop/picocli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 462 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Picocli — это современный фреймворк для созда
 
 ### 中文
 
-remkop/picocli：remkop/picocli helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+remkop/picocli：remkop/picocli helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ remkop/picocli：remkop/picocli helps ship user-facing interfaces with less cust
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ remkop/picocli：remkop/picocli helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 89/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 80/100 |
-| outlook | 89/100 |
+| production | 73/100 |
+| outlook | 82/100 |
 | adoption | 76/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

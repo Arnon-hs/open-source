@@ -1,6 +1,6 @@
 # shishkin/astro-pagefind
 
-[![Stars](https://img.shields.io/github/stars/shishkin/astro-pagefind?style=flat-square&color=yellow)](https://github.com/shishkin/astro-pagefind/stargazers) [![Forks](https://img.shields.io/github/forks/shishkin/astro-pagefind?style=flat-square&color=blue)](https://github.com/shishkin/astro-pagefind/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shishkin/astro-pagefind?style=flat-square&color=yellow)](https://github.com/shishkin/astro-pagefind/stargazers) [![Forks](https://img.shields.io/github/forks/shishkin/astro-pagefind?style=flat-square&color=blue)](https://github.com/shishkin/astro-pagefind/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Astro integration for Pagefind static site search.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ shishkin/astro-pagefind：shishkin/astro-pagefind may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # PsychQuant/che-ical-mcp
 
-[![Stars](https://img.shields.io/github/stars/PsychQuant/che-ical-mcp?style=flat-square&color=yellow)](https://github.com/PsychQuant/che-ical-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PsychQuant/che-ical-mcp?style=flat-square&color=blue)](https://github.com/PsychQuant/che-ical-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PsychQuant/che-ical-mcp?style=flat-square&color=yellow)](https://github.com/PsychQuant/che-ical-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PsychQuant/che-ical-mcp?style=flat-square&color=blue)](https://github.com/PsychQuant/che-ical-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > macOS Calendar & Reminders MCP server with 29 tools — Native Swift EventKit integration for Claude. Attendees/organizer, per-event timezone, undo/redo, --cli mode, --setup TCC, --self-update, signed + notarized binary for macOS 26. Supports iCloud, Google, Exchange.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PsychQuant/che-ical-mcp is a macOS‑only MCP server that bridges native Swift E
 
 ### 中文
 
-PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate ma
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 94/100 |
-| production | 79/100 |
-| outlook | 82/100 |
+| production | 72/100 |
+| outlook | 75/100 |
 | adoption | 28/100 |
 | stars | 31/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

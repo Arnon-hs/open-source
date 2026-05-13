@@ -1,6 +1,6 @@
 # WildKernels/GKI_KernelSU_SUSFS
 
-[![Stars](https://img.shields.io/github/stars/WildKernels/GKI_KernelSU_SUSFS?style=flat-square&color=yellow)](https://github.com/WildKernels/GKI_KernelSU_SUSFS/stargazers) [![Forks](https://img.shields.io/github/forks/WildKernels/GKI_KernelSU_SUSFS?style=flat-square&color=blue)](https://github.com/WildKernels/GKI_KernelSU_SUSFS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WildKernels/GKI_KernelSU_SUSFS?style=flat-square&color=yellow)](https://github.com/WildKernels/GKI_KernelSU_SUSFS/stargazers) [![Forks](https://img.shields.io/github/forks/WildKernels/GKI_KernelSU_SUSFS?style=flat-square&color=blue)](https://github.com/WildKernels/GKI_KernelSU_SUSFS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > GKI2 5.10+ Kernels with Wild KSU & SUSFS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,14 +62,14 @@ WildKernels/GKI_KernelSU_SUSFS：WildKernels/GKI_KernelSU_SUSFS may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 73/100 |
 | stars | 66/100 |
 | forks | 91/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

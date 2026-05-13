@@ -1,6 +1,6 @@
 # mahendrapaipuri/grafana-dashboard-reporter-app
 
-[![Stars](https://img.shields.io/github/stars/mahendrapaipuri/grafana-dashboard-reporter-app?style=flat-square&color=yellow)](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/stargazers) [![Forks](https://img.shields.io/github/forks/mahendrapaipuri/grafana-dashboard-reporter-app?style=flat-square&color=blue)](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahendrapaipuri/grafana-dashboard-reporter-app?style=flat-square&color=yellow)](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/stargazers) [![Forks](https://img.shields.io/github/forks/mahendrapaipuri/grafana-dashboard-reporter-app?style=flat-square&color=blue)](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A Grafana plugin app to create PDF reports of dashboards
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mahendrapaipuri/grafana-dashboard-reporter-app — это открытый п�
 
 ### 中文
 
-mahendrapaipuri/grafana-dashboard-reporter-app：mahendrapaipuri/grafana-dashboard-reporter-app helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mahendrapaipuri/grafana-dashboard-reporter-app：mahendrapaipuri/grafana-dashboard-reporter-app helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mahendrapaipuri/grafana-dashboard-reporter-app：mahendrapaipuri/grafana-dashboa
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mahendrapaipuri/grafana-dashboard-reporter-app：mahendrapaipuri/grafana-dashboa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 80/100 |
+| production | 72/100 |
+| outlook | 73/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 30/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

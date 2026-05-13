@@ -1,6 +1,6 @@
 # DmitryTsepelev/ar_lazy_preload
 
-[![Stars](https://img.shields.io/github/stars/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=yellow)](https://github.com/DmitryTsepelev/ar_lazy_preload/stargazers) [![Forks](https://img.shields.io/github/forks/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=blue)](https://github.com/DmitryTsepelev/ar_lazy_preload/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=yellow)](https://github.com/DmitryTsepelev/ar_lazy_preload/stargazers) [![Forks](https://img.shields.io/github/forks/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=blue)](https://github.com/DmitryTsepelev/ar_lazy_preload/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Lazy loading associations for the ActiveRecord models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 737 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DmitryTsepelev/ar_lazy_preload：DmitryTsepelev/ar_lazy_preload helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 65/100 |
+| outlook | 65/100 |
 | adoption | 54/100 |
 | stars | 61/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

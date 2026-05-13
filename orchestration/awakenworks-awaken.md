@@ -1,6 +1,6 @@
 # awakenworks/awaken
 
-[![Stars](https://img.shields.io/github/stars/awakenworks/awaken?style=flat-square&color=yellow)](https://github.com/awakenworks/awaken/stargazers) [![Forks](https://img.shields.io/github/forks/awakenworks/awaken?style=flat-square&color=blue)](https://github.com/awakenworks/awaken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awakenworks/awaken?style=flat-square&color=yellow)](https://github.com/awakenworks/awaken/stargazers) [![Forks](https://img.shields.io/github/forks/awakenworks/awaken?style=flat-square&color=blue)](https://github.com/awakenworks/awaken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Awaken — это open‑source runtime для AI‑агентов на Rust, 
 
 ### 中文
 
-awakenworks/awaken：awakenworks/awaken helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+awakenworks/awaken：awakenworks/awaken helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awakenworks/awaken：awakenworks/awaken helps turn isolated prompts and tools in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ awakenworks/awaken：awakenworks/awaken helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 78/100 |
-| outlook | 84/100 |
+| production | 71/100 |
+| outlook | 77/100 |
 | adoption | 34/100 |
 | stars | 40/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

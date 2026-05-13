@@ -1,6 +1,6 @@
 # MxIris-Reverse-Engineering/RuntimeViewer
 
-[![Stars](https://img.shields.io/github/stars/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=yellow)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/stargazers) [![Forks](https://img.shields.io/github/forks/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=blue)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=yellow)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/stargazers) [![Forks](https://img.shields.io/github/forks/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=blue)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Objective-C & Swift Runtime Viewer for macOS and iOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ MxIris-Reverse-Engineering/RuntimeViewer：MxIris-Reverse-Engineering/RuntimeVie
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 49/100 |
 | stars | 56/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

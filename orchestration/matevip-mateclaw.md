@@ -1,6 +1,6 @@
 # matevip/mateclaw
 
-[![Stars](https://img.shields.io/github/stars/matevip/mateclaw?style=flat-square&color=yellow)](https://github.com/matevip/mateclaw/stargazers) [![Forks](https://img.shields.io/github/forks/matevip/mateclaw?style=flat-square&color=blue)](https://github.com/matevip/mateclaw/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matevip/mateclaw?style=flat-square&color=yellow)](https://github.com/matevip/mateclaw/stargazers) [![Forks](https://img.shields.io/github/forks/matevip/mateclaw?style=flat-square&color=blue)](https://github.com/matevip/mateclaw/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MateClaw — это open‑source платформа‑второй мозг, 
 
 ### 中文
 
-matevip/mateclaw：matevip/mateclaw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+matevip/mateclaw：matevip/mateclaw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ matevip/mateclaw：matevip/mateclaw helps turn isolated prompts and tools into r
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ matevip/mateclaw：matevip/mateclaw helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 87/100 |
+| production | 70/100 |
+| outlook | 80/100 |
 | adoption | 56/100 |
 | stars | 56/100 |
 | forks | 54/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
