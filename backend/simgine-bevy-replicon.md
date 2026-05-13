@@ -1,6 +1,6 @@
 # simgine/bevy_replicon
 
-[![Stars](https://img.shields.io/github/stars/simgine/bevy_replicon?style=flat-square&color=yellow)](https://github.com/simgine/bevy_replicon/stargazers) [![Forks](https://img.shields.io/github/forks/simgine/bevy_replicon?style=flat-square&color=blue)](https://github.com/simgine/bevy_replicon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simgine/bevy_replicon?style=flat-square&color=yellow)](https://github.com/simgine/bevy_replicon/stargazers) [![Forks](https://img.shields.io/github/forks/simgine/bevy_replicon?style=flat-square&color=blue)](https://github.com/simgine/bevy_replicon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A server-authoritative replication crate for Bevy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 595 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ simgine / bevy_replicon is an open‑source Rust crate that provides server�
 
 ### 中文
 
-simgine/bevy_replicon：simgine/bevy_replicon helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+simgine/bevy_replicon：simgine/bevy_replicon helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ simgine/bevy_replicon：simgine/bevy_replicon helps teams reuse service infrastr
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ simgine/bevy_replicon：simgine/bevy_replicon helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 79/100 |
+| production | 69/100 |
+| outlook | 72/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

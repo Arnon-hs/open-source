@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **7964** |
+| 🗂️ **Total projects** | **8004** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,26 +18,26 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2824 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1425 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 771 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 674 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 2835 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1426 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 775 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 680 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 424 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 379 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 280 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 208 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 380 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 281 | [Browse →](./crypto/) |
+| 🏷️ **Mcp** | 212 | [Browse →](./mcp/) |
 | 📊 **Data** | 182 | [Browse →](./data/) |
-| 🏷️ **Automation** | 134 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 140 | [Browse →](./automation/) |
 | 💳 **Payments** | 130 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 96 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 99 | [Browse →](./knowledgerag/) |
 | 📱 **Mobile** | 90 | [Browse →](./mobile/) |
 | 📈 **Trading** | 90 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 76 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 77 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 63 | [Browse →](./security/) |
-| 🏷️ **Database** | 53 | [Browse →](./database/) |
+| 🏷️ **Database** | 54 | [Browse →](./database/) |
 | ✨ **Design** | 25 | [Browse →](./design/) |
 | 🎯 **Product** | 15 | [Browse →](./product/) |
-| 🏷️ **Observability** | 12 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 13 | [Browse →](./observability/) |
 | 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 3 | [Browse →](./education/) |
 

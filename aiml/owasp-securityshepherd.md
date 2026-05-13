@@ -1,6 +1,6 @@
 # OWASP/SecurityShepherd
 
-[![Stars](https://img.shields.io/github/stars/OWASP/SecurityShepherd?style=flat-square&color=yellow)](https://github.com/OWASP/SecurityShepherd/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/SecurityShepherd?style=flat-square&color=blue)](https://github.com/OWASP/SecurityShepherd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OWASP/SecurityShepherd?style=flat-square&color=yellow)](https://github.com/OWASP/SecurityShepherd/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/SecurityShepherd?style=flat-square&color=blue)](https://github.com/OWASP/SecurityShepherd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Web and mobile application security training platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ OWASP/SecurityShepherd：OWASP/SecurityShepherd helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 70/100 |
+| production | 64/100 |
+| outlook | 63/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

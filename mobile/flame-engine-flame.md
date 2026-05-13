@@ -1,6 +1,6 @@
 # flame-engine/flame
 
-[![Stars](https://img.shields.io/github/stars/flame-engine/flame?style=flat-square&color=yellow)](https://github.com/flame-engine/flame/stargazers) [![Forks](https://img.shields.io/github/forks/flame-engine/flame?style=flat-square&color=blue)](https://github.com/flame-engine/flame/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flame-engine/flame?style=flat-square&color=yellow)](https://github.com/flame-engine/flame/stargazers) [![Forks](https://img.shields.io/github/forks/flame-engine/flame?style=flat-square&color=blue)](https://github.com/flame-engine/flame/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Flutter based game engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Flame — это легковесный, полностью открытый �
 
 ### 中文
 
-flame-engine/flame：flame-engine/flame may be useful when its README and activity match a concrete workflow.。适合用于Mobile。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+flame-engine/flame：flame-engine/flame may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ flame-engine/flame：flame-engine/flame may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ flame-engine/flame：flame-engine/flame may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 92/100 |
+| quality | 87/100 |
 | integration | 30/100 |
-| production | 79/100 |
-| outlook | 84/100 |
+| production | 72/100 |
+| outlook | 77/100 |
 | adoption | 83/100 |
 | stars | 86/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # PriorLabs/TabPFN
 
-[![Stars](https://img.shields.io/github/stars/PriorLabs/TabPFN?style=flat-square&color=yellow)](https://github.com/PriorLabs/TabPFN/stargazers) [![Forks](https://img.shields.io/github/forks/PriorLabs/TabPFN?style=flat-square&color=blue)](https://github.com/PriorLabs/TabPFN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PriorLabs/TabPFN?style=flat-square&color=yellow)](https://github.com/PriorLabs/TabPFN/stargazers) [![Forks](https://img.shields.io/github/forks/PriorLabs/TabPFN?style=flat-square&color=blue)](https://github.com/PriorLabs/TabPFN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 679 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TabPFN (PriorLabs/TabPFN) is an open‑source foundation model designed specific
 
 ### 中文
 
-PriorLabs/TabPFN：PriorLabs/TabPFN helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+PriorLabs/TabPFN：PriorLabs/TabPFN helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ PriorLabs/TabPFN：PriorLabs/TabPFN helps convert raw data into searchable, anal
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ PriorLabs/TabPFN：PriorLabs/TabPFN helps convert raw data into searchable, anal
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 79/100 |
+| production | 72/100 |
+| outlook | 72/100 |
 | adoption | 79/100 |
 | stars | 82/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

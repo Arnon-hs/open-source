@@ -1,6 +1,6 @@
 # trailofbits/dylint
 
-[![Stars](https://img.shields.io/github/stars/trailofbits/dylint?style=flat-square&color=yellow)](https://github.com/trailofbits/dylint/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/dylint?style=flat-square&color=blue)](https://github.com/trailofbits/dylint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trailofbits/dylint?style=flat-square&color=yellow)](https://github.com/trailofbits/dylint/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/dylint?style=flat-square&color=blue)](https://github.com/trailofbits/dylint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Run Rust lints from dynamic libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ trailofbits/dylint：trailofbits/dylint helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 69/100 |
+| production | 63/100 |
+| outlook | 62/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

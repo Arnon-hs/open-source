@@ -1,6 +1,6 @@
 # BiglySoftware/BiglyBT
 
-[![Stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT?style=flat-square&color=yellow)](https://github.com/BiglySoftware/BiglyBT/stargazers) [![Forks](https://img.shields.io/github/forks/BiglySoftware/BiglyBT?style=flat-square&color=blue)](https://github.com/BiglySoftware/BiglyBT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BiglySoftware/BiglyBT?style=flat-square&color=yellow)](https://github.com/BiglySoftware/BiglyBT/stargazers) [![Forks](https://img.shields.io/github/forks/BiglySoftware/BiglyBT?style=flat-square&color=blue)](https://github.com/BiglySoftware/BiglyBT/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Feature-filled Bittorrent client based on the Azureus open source project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BiglyBT — это полностью открытый и бесплатный 
 
 ### 中文
 
-BiglySoftware/BiglyBT：BiglySoftware/BiglyBT helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+BiglySoftware/BiglyBT：BiglySoftware/BiglyBT helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BiglySoftware/BiglyBT：BiglySoftware/BiglyBT helps engineers save time in daily
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ BiglySoftware/BiglyBT：BiglySoftware/BiglyBT helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

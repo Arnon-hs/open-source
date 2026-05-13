@@ -1,6 +1,6 @@
 # kimdre/doco-cd
 
-[![Stars](https://img.shields.io/github/stars/kimdre/doco-cd?style=flat-square&color=yellow)](https://github.com/kimdre/doco-cd/stargazers) [![Forks](https://img.shields.io/github/forks/kimdre/doco-cd?style=flat-square&color=blue)](https://github.com/kimdre/doco-cd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimdre/doco-cd?style=flat-square&color=yellow)](https://github.com/kimdre/doco-cd/stargazers) [![Forks](https://img.shields.io/github/forks/kimdre/doco-cd?style=flat-square&color=blue)](https://github.com/kimdre/doco-cd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Docker Compose Continuous Deployment
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kimdre/doco-cd：kimdre/doco-cd helps make deployment and operations more repeat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 78/100 |
-| production | 82/100 |
-| outlook | 78/100 |
+| production | 75/100 |
+| outlook | 71/100 |
 | adoption | 60/100 |
 | stars | 67/100 |
 | forks | 42/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
