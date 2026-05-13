@@ -1,6 +1,6 @@
 # lessweb/deepcode-cli
 
-[![Stars](https://img.shields.io/github/stars/lessweb/deepcode-cli?style=flat-square&color=yellow)](https://github.com/lessweb/deepcode-cli/stargazers) [![Forks](https://img.shields.io/github/forks/lessweb/deepcode-cli?style=flat-square&color=blue)](https://github.com/lessweb/deepcode-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lessweb/deepcode-cli?style=flat-square&color=yellow)](https://github.com/lessweb/deepcode-cli/stargazers) [![Forks](https://img.shields.io/github/forks/lessweb/deepcode-cli?style=flat-square&color=blue)](https://github.com/lessweb/deepcode-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ lessweb/deepcode-cli：lessweb/deepcode-cli helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 50/100 |
-| production | 71/100 |
-| outlook | 69/100 |
+| production | 64/100 |
+| outlook | 62/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # triwinds/ns-emu-tools
 
-[![Stars](https://img.shields.io/github/stars/triwinds/ns-emu-tools?style=flat-square&color=yellow)](https://github.com/triwinds/ns-emu-tools/stargazers) [![Forks](https://img.shields.io/github/forks/triwinds/ns-emu-tools?style=flat-square&color=blue)](https://github.com/triwinds/ns-emu-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/triwinds/ns-emu-tools?style=flat-square&color=yellow)](https://github.com/triwinds/ns-emu-tools/stargazers) [![Forks](https://img.shields.io/github/forks/triwinds/ns-emu-tools?style=flat-square&color=blue)](https://github.com/triwinds/ns-emu-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 一个用于安装/更新 NS 模拟器的工具
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ triwinds/ns-emu-tools：triwinds/ns-emu-tools may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

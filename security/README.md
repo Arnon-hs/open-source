@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**60 projects** in this category.
+**62 projects** in this category.
 
 ## Projects
 
@@ -49,25 +49,27 @@
 | 39 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 58/100 |
 | 40 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
 | 41 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
-| 42 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
-| 43 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
-| 44 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 57/100 |
-| 45 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
-| 46 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
-| 47 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
-| 48 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
-| 49 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
-| 50 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
-| 51 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 55/100 |
-| 52 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
-| 53 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
-| 54 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
-| 55 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
-| 56 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
-| 57 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
-| 58 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
-| 59 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
-| 60 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 42 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 771 | — | 57/100 |
+| 43 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
+| 44 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
+| 45 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 57/100 |
+| 46 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
+| 47 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
+| 48 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
+| 49 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
+| 50 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
+| 51 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
+| 52 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 55/100 |
+| 53 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
+| 54 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
+| 55 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
+| 56 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
+| 57 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
+| 58 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
+| 59 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 50/100 |
+| 60 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
+| 61 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
+| 62 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # orgs/community
 
-[![Stars](https://img.shields.io/github/stars/orgs/community?style=flat-square&color=yellow)](https://github.com/orgs/community/stargazers) [![Forks](https://img.shields.io/github/forks/orgs/community?style=flat-square&color=blue)](https://github.com/orgs/community/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orgs/community?style=flat-square&color=yellow)](https://github.com/orgs/community/stargazers) [![Forks](https://img.shields.io/github/forks/orgs/community?style=flat-square&color=blue)](https://github.com/orgs/community/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and How to Catch the Next One
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ GitHub Silently Removed payload.commits From PushEvent — Here's What Broke and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

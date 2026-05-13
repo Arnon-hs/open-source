@@ -1,6 +1,6 @@
 # jaywcjlove/reference
 
-[![Stars](https://img.shields.io/github/stars/jaywcjlove/reference?style=flat-square&color=yellow)](https://github.com/jaywcjlove/reference/stargazers) [![Forks](https://img.shields.io/github/forks/jaywcjlove/reference?style=flat-square&color=blue)](https://github.com/jaywcjlove/reference/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaywcjlove/reference?style=flat-square&color=yellow)](https://github.com/jaywcjlove/reference/stargazers) [![Forks](https://img.shields.io/github/forks/jaywcjlove/reference?style=flat-square&color=blue)](https://github.com/jaywcjlove/reference/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jaywcjlove/reference：jaywcjlove/reference helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 94/100 |
+| quality | 89/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 85/100 |
+| production | 77/100 |
+| outlook | 78/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 84/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

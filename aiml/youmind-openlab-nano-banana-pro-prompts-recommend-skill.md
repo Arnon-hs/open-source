@@ -1,6 +1,6 @@
 # YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ YouMind‑OpenLab/nano-banana-pro-prompts-recommend-skill — это откр�
 
 ### 中文
 
-YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill：YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill：YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill：YouMind-OpenLab/nano-b
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill：YouMind-OpenLab/nano-b
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 78/100 |
-| outlook | 83/100 |
+| production | 71/100 |
+| outlook | 76/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # raffis/gitops-zombies
 
-[![Stars](https://img.shields.io/github/stars/raffis/gitops-zombies?style=flat-square&color=yellow)](https://github.com/raffis/gitops-zombies/stargazers) [![Forks](https://img.shields.io/github/forks/raffis/gitops-zombies?style=flat-square&color=blue)](https://github.com/raffis/gitops-zombies/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raffis/gitops-zombies?style=flat-square&color=yellow)](https://github.com/raffis/gitops-zombies/stargazers) [![Forks](https://img.shields.io/github/forks/raffis/gitops-zombies?style=flat-square&color=blue)](https://github.com/raffis/gitops-zombies/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Identify kubernetes resources which are not managed by GitOps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Raffis/gitops‑zombies is an open‑source utility that scans a Kubernetes clus
 
 ### 中文
 
-raffis/gitops-zombies：raffis/gitops-zombies helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+raffis/gitops-zombies：raffis/gitops-zombies helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ raffis/gitops-zombies：raffis/gitops-zombies helps engineers save time in daily
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ raffis/gitops-zombies：raffis/gitops-zombies helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 76/100 |
-| outlook | 73/100 |
+| production | 70/100 |
+| outlook | 66/100 |
 | adoption | 36/100 |
 | stars | 44/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # manpoai/AgentOfficeSuite
 
-[![Stars](https://img.shields.io/github/stars/manpoai/AgentOfficeSuite?style=flat-square&color=yellow)](https://github.com/manpoai/AgentOfficeSuite/stargazers) [![Forks](https://img.shields.io/github/forks/manpoai/AgentOfficeSuite?style=flat-square&color=blue)](https://github.com/manpoai/AgentOfficeSuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manpoai/AgentOfficeSuite?style=flat-square&color=yellow)](https://github.com/manpoai/AgentOfficeSuite/stargazers) [![Forks](https://img.shields.io/github/forks/manpoai/AgentOfficeSuite?style=flat-square&color=blue)](https://github.com/manpoai/AgentOfficeSuite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AOSE — An Office Suite Built for Agent Collaboration. Docs, tables, slides, flowcharts, canvas, and video — all editable by both humans and AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ manpoai/AgentOfficeSuite：manpoai/AgentOfficeSuite helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 67/100 |
+| production | 62/100 |
+| outlook | 60/100 |
 | adoption | 42/100 |
 | stars | 44/100 |
 | forks | 36/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

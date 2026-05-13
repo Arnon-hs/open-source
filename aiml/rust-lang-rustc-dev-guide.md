@@ -1,6 +1,6 @@
 # rust-lang/rustc-dev-guide
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustc-dev-guide?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc-dev-guide/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc-dev-guide?style=flat-square&color=blue)](https://github.com/rust-lang/rustc-dev-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustc-dev-guide?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc-dev-guide/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc-dev-guide?style=flat-square&color=blue)](https://github.com/rust-lang/rustc-dev-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A guide to how rustc works and how to contribute to it.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rust-lang/rustc-dev-guide：rust-lang/rustc-dev-guide helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

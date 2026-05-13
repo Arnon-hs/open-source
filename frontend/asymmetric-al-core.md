@@ -1,6 +1,6 @@
 # Asymmetric-al/core
 
-[![Stars](https://img.shields.io/github/stars/Asymmetric-al/core?style=flat-square&color=yellow)](https://github.com/Asymmetric-al/core/stargazers) [![Forks](https://img.shields.io/github/forks/Asymmetric-al/core?style=flat-square&color=blue)](https://github.com/Asymmetric-al/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Asymmetric-al/core?style=flat-square&color=yellow)](https://github.com/Asymmetric-al/core/stargazers) [![Forks](https://img.shields.io/github/forks/Asymmetric-al/core?style=flat-square&color=blue)](https://github.com/Asymmetric-al/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, enterprise-grade Next.js 16 application for mission-focused non-profit organizations. Built for high impact teams.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Asymmetric-al/core：Asymmetric-al/core helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 65/100 |
+| production | 63/100 |
+| outlook | 58/100 |
 | adoption | 46/100 |
 | stars | 56/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

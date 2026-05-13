@@ -1,6 +1,6 @@
 # qt/qtbase
 
-[![Stars](https://img.shields.io/github/stars/qt/qtbase?style=flat-square&color=yellow)](https://github.com/qt/qtbase/stargazers) [![Forks](https://img.shields.io/github/forks/qt/qtbase?style=flat-square&color=blue)](https://github.com/qt/qtbase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qt/qtbase?style=flat-square&color=yellow)](https://github.com/qt/qtbase/stargazers) [![Forks](https://img.shields.io/github/forks/qt/qtbase?style=flat-square&color=blue)](https://github.com/qt/qtbase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Qt Base (Core, Gui, Widgets, Network, ...)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ qt/qtbase：qt/qtbase helps ship user-facing interfaces with less custom UI work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 75/100 |
 | stars | 74/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

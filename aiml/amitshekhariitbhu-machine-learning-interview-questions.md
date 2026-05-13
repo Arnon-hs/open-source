@@ -1,6 +1,6 @@
 # amitshekhariitbhu/machine-learning-interview-questions
 
-[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/machine-learning-interview-questions?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/machine-learning-interview-questions/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/machine-learning-interview-questions?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/machine-learning-interview-questions/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/machine-learning-interview-questions?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/machine-learning-interview-questions/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/machine-learning-interview-questions?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/machine-learning-interview-questions/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Your Cheat Sheet for Machine Learning Interview – Questions and Answers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ amitshekhariitbhu/machine-learning-interview-questions：amitshekhariitbhu/machi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

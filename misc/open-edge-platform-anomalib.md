@@ -1,6 +1,6 @@
 # open-edge-platform/anomalib
 
-[![Stars](https://img.shields.io/github/stars/open-edge-platform/anomalib?style=flat-square&color=yellow)](https://github.com/open-edge-platform/anomalib/stargazers) [![Forks](https://img.shields.io/github/forks/open-edge-platform/anomalib?style=flat-square&color=blue)](https://github.com/open-edge-platform/anomalib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-edge-platform/anomalib?style=flat-square&color=yellow)](https://github.com/open-edge-platform/anomalib/stargazers) [![Forks](https://img.shields.io/github/forks/open-edge-platform/anomalib?style=flat-square&color=blue)](https://github.com/open-edge-platform/anomalib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 927 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ open-edge-platform/anomalib：open-edge-platform/anomalib may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 82/100 |
+| production | 75/100 |
+| outlook | 75/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 
