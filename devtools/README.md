@@ -147,8 +147,8 @@
 | 137 | [pdm-project/pdm](./pdm-project-pdm.md) | ⭐ 8.6k | Python | 68/100 |
 | 138 | [nextcloud/desktop](./nextcloud-desktop.md) | ⭐ 3.7k | C++ | 68/100 |
 | 139 | [dundee/gdu](./dundee-gdu.md) | ⭐ 5.6k | Go | 68/100 |
-| 140 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
-| 141 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
+| 140 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
+| 141 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
 | 142 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 143 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 144 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -406,8 +406,8 @@
 | 396 | [SonarSource/sonar-java](./sonarsource-sonar-java.md) | ⭐ 1.2k | Java | 58/100 |
 | 397 | [gazebosim/gz-sim](./gazebosim-gz-sim.md) | ⭐ 1.3k | C++ | 58/100 |
 | 398 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 399 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
-| 400 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 399 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 400 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
 | 401 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 402 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 58/100 |
 | 403 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 123 | Kotlin | 58/100 |

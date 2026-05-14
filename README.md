@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8411** |
+| 🗂️ **Total projects** | **8445** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2943 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1500 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 811 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 710 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 2952 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1504 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 815 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 713 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 458 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 396 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 292 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 244 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 398 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 294 | [Browse →](./crypto/) |
+| 🏷️ **Mcp** | 247 | [Browse →](./mcp/) |
 | 📊 **Data** | 194 | [Browse →](./data/) |
-| 🏷️ **Automation** | 157 | [Browse →](./automation/) |
-| 💳 **Payments** | 135 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 106 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 160 | [Browse →](./automation/) |
+| 💳 **Payments** | 136 | [Browse →](./payments/) |
+| 🏷️ **Knowledgerag** | 107 | [Browse →](./knowledgerag/) |
+| 📱 **Mobile** | 94 | [Browse →](./mobile/) |
 | 📈 **Trading** | 94 | [Browse →](./trading/) |
-| 📱 **Mobile** | 93 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 78 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 65 | [Browse →](./security/) |
 | 🏷️ **Database** | 64 | [Browse →](./database/) |
@@ -39,7 +39,7 @@
 | 🎯 **Product** | 15 | [Browse →](./product/) |
 | 🏷️ **Observability** | 15 | [Browse →](./observability/) |
 | 🏷️ **Marketing** | 10 | [Browse →](./marketing/) |
-| 🏷️ **Education** | 4 | [Browse →](./education/) |
+| 🏷️ **Education** | 5 | [Browse →](./education/) |
 
 ## 🔥 Top 10 by score
 

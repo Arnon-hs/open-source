@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**292 projects** in this category.
+**294 projects** in this category.
 
 ## Projects
 
@@ -40,8 +40,8 @@
 | 30 | [huggingface/transformers](./huggingface-transformers.md) | ⭐ 160.3k | Python | 73/100 |
 | 31 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 73/100 |
 | 32 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 73/100 |
-| 33 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 72/100 |
-| 34 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 72/100 |
+| 33 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 72/100 |
+| 34 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 72/100 |
 | 35 | [NVIDIA/TensorRT-LLM](./nvidia-tensorrt-llm.md) | ⭐ 13.6k | Python | 72/100 |
 | 36 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 72/100 |
 | 37 | [qntx/x402-openai-python](./qntx-x402-openai-python.md) | ⭐ 260 | Python | 72/100 |
@@ -260,46 +260,48 @@
 | 250 | [alloy-rs/alloy](./alloy-rs-alloy.md) | ⭐ 1.3k | Rust | 54/100 |
 | 251 | [lightningdevkit/rust-lightning](./lightningdevkit-rust-lightning.md) | ⭐ 1.4k | Rust | 54/100 |
 | 252 | [0xMiden/miden-vm](./0xmiden-miden-vm.md) | ⭐ 738 | Rust | 54/100 |
-| 253 | [hoprnet/hoprnet](./hoprnet-hoprnet.md) | ⭐ 251 | Rust | 54/100 |
-| 254 | [PolymeshAssociation/Polymesh](./polymeshassociation-polymesh.md) | ⭐ 169 | Rust | 54/100 |
-| 255 | [commonwarexyz/monorepo](./commonwarexyz-monorepo.md) | ⭐ 561 | Rust | 54/100 |
-| 256 | [OpenLightingProject/open-fixture-library](./openlightingproject-open-fixture-library.md) | ⭐ 244 | JSON | 54/100 |
-| 257 | [ChainSafe/forest](./chainsafe-forest.md) | ⭐ 695 | Rust | 54/100 |
-| 258 | [MystenLabs/fastcrypto](./mystenlabs-fastcrypto.md) | ⭐ 307 | Rust | 54/100 |
-| 259 | [MostroP2P/mostro](./mostrop2p-mostro.md) | ⭐ 292 | Rust | 54/100 |
-| 260 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 54/100 |
-| 261 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 62 | Python | 54/100 |
-| 262 | [Bonasa-Tech/manifest](./bonasa-tech-manifest.md) | ⭐ 138 | Rust | 53/100 |
-| 263 | [aurora-is-near/aurora-engine](./aurora-is-near-aurora-engine.md) | ⭐ 362 | Rust | 53/100 |
-| 264 | [trick77/nftables-blacklist](./trick77-nftables-blacklist.md) | ⭐ 735 | Shell | 53/100 |
-| 265 | [flashbots/contender](./flashbots-contender.md) | ⭐ 133 | Rust | 53/100 |
-| 266 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 160 | PHP | 53/100 |
-| 267 | [edb-rs/edb](./edb-rs-edb.md) | ⭐ 360 | Rust | 53/100 |
-| 268 | [bitcoin-s/bitcoin-s](./bitcoin-s-bitcoin-s.md) | ⭐ 381 | Scala | 53/100 |
-| 269 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 516 | Rust | 53/100 |
-| 270 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 53/100 |
-| 271 | [rpcpool/yellowstone-vixen](./rpcpool-yellowstone-vixen.md) | ⭐ 241 | Rust | 53/100 |
-| 272 | [polkadot-evm/frontier](./polkadot-evm-frontier.md) | ⭐ 617 | Rust | 52/100 |
-| 273 | [RustCrypto/crypto-bigint](./rustcrypto-crypto-bigint.md) | ⭐ 296 | Rust | 52/100 |
-| 274 | [propeller-heads/tycho-indexer](./propeller-heads-tycho-indexer.md) | ⭐ 159 | Rust | 52/100 |
-| 275 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 52/100 |
-| 276 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 142 | Rust | 52/100 |
-| 277 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 52/100 |
-| 278 | [block-mesh/block-mesh-monorepo](./block-mesh-block-mesh-monorepo.md) | ⭐ 163 | Rust | 51/100 |
-| 279 | [qkniep/alpenglow](./qkniep-alpenglow.md) | ⭐ 139 | Rust | 51/100 |
-| 280 | [iotaledger/iota](./iotaledger-iota.md) | ⭐ 101 | Rust | 51/100 |
-| 281 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 102 | Rust | 51/100 |
-| 282 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 51/100 |
-| 283 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 51/100 |
-| 284 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 50/100 |
-| 285 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 50/100 |
-| 286 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 50/100 |
-| 287 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 288 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 49/100 |
-| 289 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 49/100 |
-| 290 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 48/100 |
-| 291 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 47/100 |
-| 292 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
+| 253 | [logos-blockchain/logos-blockchain](./logos-blockchain-logos-blockchain.md) | ⭐ 127 | Rust | 54/100 |
+| 254 | [hoprnet/hoprnet](./hoprnet-hoprnet.md) | ⭐ 251 | Rust | 54/100 |
+| 255 | [PolymeshAssociation/Polymesh](./polymeshassociation-polymesh.md) | ⭐ 169 | Rust | 54/100 |
+| 256 | [commonwarexyz/monorepo](./commonwarexyz-monorepo.md) | ⭐ 561 | Rust | 54/100 |
+| 257 | [OpenLightingProject/open-fixture-library](./openlightingproject-open-fixture-library.md) | ⭐ 244 | JSON | 54/100 |
+| 258 | [ChainSafe/forest](./chainsafe-forest.md) | ⭐ 695 | Rust | 54/100 |
+| 259 | [MystenLabs/fastcrypto](./mystenlabs-fastcrypto.md) | ⭐ 307 | Rust | 54/100 |
+| 260 | [MostroP2P/mostro](./mostrop2p-mostro.md) | ⭐ 292 | Rust | 54/100 |
+| 261 | [renegade-fi/renegade](./renegade-fi-renegade.md) | ⭐ 250 | Rust | 54/100 |
+| 262 | [Scottcjn/bounty-concierge](./scottcjn-bounty-concierge.md) | ⭐ 62 | Python | 54/100 |
+| 263 | [Bonasa-Tech/manifest](./bonasa-tech-manifest.md) | ⭐ 138 | Rust | 53/100 |
+| 264 | [aurora-is-near/aurora-engine](./aurora-is-near-aurora-engine.md) | ⭐ 362 | Rust | 53/100 |
+| 265 | [trick77/nftables-blacklist](./trick77-nftables-blacklist.md) | ⭐ 735 | Shell | 53/100 |
+| 266 | [flashbots/contender](./flashbots-contender.md) | ⭐ 133 | Rust | 53/100 |
+| 267 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 160 | PHP | 53/100 |
+| 268 | [edb-rs/edb](./edb-rs-edb.md) | ⭐ 360 | Rust | 53/100 |
+| 269 | [bitcoin-s/bitcoin-s](./bitcoin-s-bitcoin-s.md) | ⭐ 381 | Scala | 53/100 |
+| 270 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 516 | Rust | 53/100 |
+| 271 | [pactus-project/pactus](./pactus-project-pactus.md) | ⭐ 237 | Go | 53/100 |
+| 272 | [rpcpool/yellowstone-vixen](./rpcpool-yellowstone-vixen.md) | ⭐ 241 | Rust | 53/100 |
+| 273 | [polkadot-evm/frontier](./polkadot-evm-frontier.md) | ⭐ 617 | Rust | 52/100 |
+| 274 | [Chronolapse411/sicarius-guard](./chronolapse411-sicarius-guard.md) | ⭐ — | — | 52/100 |
+| 275 | [RustCrypto/crypto-bigint](./rustcrypto-crypto-bigint.md) | ⭐ 296 | Rust | 52/100 |
+| 276 | [propeller-heads/tycho-indexer](./propeller-heads-tycho-indexer.md) | ⭐ 159 | Rust | 52/100 |
+| 277 | [tempoxyz/tempo](./tempoxyz-tempo.md) | ⭐ 930 | Rust | 52/100 |
+| 278 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 142 | Rust | 52/100 |
+| 279 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 133 | Rust | 52/100 |
+| 280 | [block-mesh/block-mesh-monorepo](./block-mesh-block-mesh-monorepo.md) | ⭐ 163 | Rust | 51/100 |
+| 281 | [qkniep/alpenglow](./qkniep-alpenglow.md) | ⭐ 139 | Rust | 51/100 |
+| 282 | [iotaledger/iota](./iotaledger-iota.md) | ⭐ 101 | Rust | 51/100 |
+| 283 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 102 | Rust | 51/100 |
+| 284 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 51/100 |
+| 285 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 51/100 |
+| 286 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 50/100 |
+| 287 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 50/100 |
+| 288 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 50/100 |
+| 289 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 290 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 49/100 |
+| 291 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 49/100 |
+| 292 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 48/100 |
+| 293 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 47/100 |
+| 294 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
 
 ---
 
