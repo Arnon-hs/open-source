@@ -102,8 +102,8 @@
 | 92 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 60/100 |
 | 93 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 59/100 |
 | 94 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 59/100 |
-| 95 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
-| 96 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 95 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 96 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 59/100 |
 | 97 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 59/100 |
 | 98 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 168 | TypeScript | 59/100 |
 | 99 | [killbill/killbill](./killbill-killbill.md) | ⭐ 5.5k | Java | 58/100 |

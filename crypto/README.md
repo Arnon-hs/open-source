@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**289 projects** in this category.
+**290 projects** in this category.
 
 ## Projects
 
@@ -40,8 +40,8 @@
 | 30 | [huggingface/transformers](./huggingface-transformers.md) | ⭐ 160.3k | Python | 73/100 |
 | 31 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 73/100 |
 | 32 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 73/100 |
-| 33 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 72/100 |
-| 34 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 72/100 |
+| 33 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 72/100 |
+| 34 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 72/100 |
 | 35 | [NVIDIA/TensorRT-LLM](./nvidia-tensorrt-llm.md) | ⭐ 13.6k | Python | 72/100 |
 | 36 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 72/100 |
 | 37 | [qntx/x402-openai-python](./qntx-x402-openai-python.md) | ⭐ 260 | Python | 72/100 |
@@ -289,14 +289,15 @@
 | 279 | [cosmos/solidity-ibc-eureka](./cosmos-solidity-ibc-eureka.md) | ⭐ 102 | Rust | 51/100 |
 | 280 | [txpipe/pallas](./txpipe-pallas.md) | ⭐ 199 | Rust | 51/100 |
 | 281 | [hiero-ledger/hiero-consensus-node](./hiero-ledger-hiero-consensus-node.md) | ⭐ 392 | Java | 51/100 |
-| 282 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 50/100 |
-| 283 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 50/100 |
-| 284 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
-| 285 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 49/100 |
-| 286 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 49/100 |
-| 287 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 48/100 |
-| 288 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 47/100 |
-| 289 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
+| 282 | [privacy-ethereum/halo2curves](./privacy-ethereum-halo2curves.md) | ⭐ 224 | Rust | 50/100 |
+| 283 | [frostsnap/frostsnap](./frostsnap-frostsnap.md) | ⭐ 141 | Rust | 50/100 |
+| 284 | [toneloc/stable-channels](./toneloc-stable-channels.md) | ⭐ 117 | Rust | 50/100 |
+| 285 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 49/100 |
+| 286 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 49/100 |
+| 287 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 49/100 |
+| 288 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 48/100 |
+| 289 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 47/100 |
+| 290 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
 
 ---
 

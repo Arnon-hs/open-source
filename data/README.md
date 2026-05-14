@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**192 projects** in this category.
+**193 projects** in this category.
 
 ## Projects
 
@@ -193,13 +193,14 @@
 | 183 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 47/100 |
 | 184 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 45/100 |
 | 185 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ — | — | 45/100 |
-| 186 | [duckdb/pg_duckdb](./duckdb-pg-duckdb.md) | ⭐ — | — | 41/100 |
-| 187 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
-| 188 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 189 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 38/100 |
-| 190 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
-| 191 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
-| 192 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 186 | [rybbit-io/rybbit](./rybbit-io-rybbit.md) | ⭐ — | — | 44/100 |
+| 187 | [duckdb/pg_duckdb](./duckdb-pg-duckdb.md) | ⭐ — | — | 41/100 |
+| 188 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
+| 189 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 190 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 38/100 |
+| 191 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
+| 192 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
+| 193 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 
