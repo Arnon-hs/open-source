@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**26 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -25,15 +25,16 @@
 | 15 | [maddisondesigns/customizer-custom-controls](./maddisondesigns-customizer-custom-controls.md) | ⭐ 408 | JavaScript | 56/100 |
 | 16 | [SideCloudGroup/BetterForward](./sidecloudgroup-betterforward.md) | ⭐ 648 | Python | 56/100 |
 | 17 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 56/100 |
-| 18 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 55/100 |
-| 19 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 55/100 |
-| 20 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 54/100 |
-| 21 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 54/100 |
-| 22 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 54/100 |
-| 23 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 53/100 |
-| 24 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
-| 25 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
-| 26 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 38/100 |
+| 18 | [graelo/pumas](./graelo-pumas.md) | ⭐ 216 | Rust | 55/100 |
+| 19 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 55/100 |
+| 20 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 55/100 |
+| 21 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 54/100 |
+| 22 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 54/100 |
+| 23 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 54/100 |
+| 24 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 53/100 |
+| 25 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
+| 26 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
+| 27 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 38/100 |
 
 ---
 
