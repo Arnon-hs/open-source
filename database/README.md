@@ -2,7 +2,7 @@
 
 > 
 
-**69 projects** in this category.
+**70 projects** in this category.
 
 ## Projects
 
@@ -23,8 +23,8 @@
 | 13 | [libuv/libuv](./libuv-libuv.md) | ⭐ 26.8k | C | 67/100 |
 | 14 | [smittix/intercept](./smittix-intercept.md) | ⭐ 1.8k | Python | 67/100 |
 | 15 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 16 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 17 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 16 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 17 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 18 | [FriesI23/mhabit](./friesi23-mhabit.md) | ⭐ 1.4k | Dart | 64/100 |
 | 19 | [audacity/audacity](./audacity-audacity.md) | ⭐ 17k | C++ | 64/100 |
 | 20 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 1.9k | C++ | 64/100 |
@@ -45,8 +45,8 @@
 | 35 | [google/mozc](./google-mozc.md) | ⭐ 2.9k | C++ | 60/100 |
 | 36 | [OpenAEV-Platform/openaev](./openaev-platform-openaev.md) | ⭐ 1.7k | Java | 60/100 |
 | 37 | [hydro-project/hydro](./hydro-project-hydro.md) | ⭐ 1.2k | Rust | 60/100 |
-| 38 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
-| 39 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 38 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 39 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
 | 40 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 41 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 42 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -69,14 +69,15 @@
 | 59 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
 | 60 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
 | 61 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
-| 62 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
-| 63 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 64 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
-| 65 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
-| 66 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
-| 67 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
-| 68 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
-| 69 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
+| 62 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
+| 63 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
+| 64 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
+| 65 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
+| 66 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
+| 67 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
+| 68 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
+| 69 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
+| 70 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
 
 ---
 

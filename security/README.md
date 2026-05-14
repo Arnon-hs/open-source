@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**65 projects** in this category.
+**66 projects** in this category.
 
 ## Projects
 
@@ -44,35 +44,36 @@
 | 34 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 59/100 |
 | 35 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 59/100 |
 | 36 | [numberwolf/h265web.js](./numberwolf-h265web.js.md) | ⭐ 2.3k | JavaScript | 59/100 |
-| 37 | [jwt-dotnet/jwt](./jwt-dotnet-jwt.md) | ⭐ 2.2k | C# | 59/100 |
-| 38 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 58/100 |
-| 39 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
-| 40 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
-| 41 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 771 | — | 57/100 |
-| 42 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
-| 43 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 57/100 |
-| 44 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
-| 45 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 57/100 |
-| 46 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
-| 47 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
-| 48 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
-| 49 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
-| 50 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
-| 51 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
-| 52 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 55/100 |
-| 53 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
-| 54 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
-| 55 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
-| 56 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 53/100 |
-| 57 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
-| 58 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
-| 59 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 250 | Rust | 50/100 |
-| 60 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
-| 61 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
-| 62 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
-| 63 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 47/100 |
-| 64 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
-| 65 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 37 | [dogtagpki/pki](./dogtagpki-pki.md) | ⭐ 490 | Java | 59/100 |
+| 38 | [jwt-dotnet/jwt](./jwt-dotnet-jwt.md) | ⭐ 2.2k | C# | 59/100 |
+| 39 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 58/100 |
+| 40 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
+| 41 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 58/100 |
+| 42 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 771 | — | 57/100 |
+| 43 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
+| 44 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 57/100 |
+| 45 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 57/100 |
+| 46 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 57/100 |
+| 47 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 57/100 |
+| 48 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 57/100 |
+| 49 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
+| 50 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
+| 51 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
+| 52 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 55/100 |
+| 53 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 55/100 |
+| 54 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 54/100 |
+| 55 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 54/100 |
+| 56 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 53/100 |
+| 57 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 53/100 |
+| 58 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 53/100 |
+| 59 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 53/100 |
+| 60 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 250 | Rust | 50/100 |
+| 61 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 50/100 |
+| 62 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 49/100 |
+| 63 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
+| 64 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 47/100 |
+| 65 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 66 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
 
 ---
 
