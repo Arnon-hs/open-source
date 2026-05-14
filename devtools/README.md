@@ -406,8 +406,8 @@
 | 396 | [SonarSource/sonar-java](./sonarsource-sonar-java.md) | ⭐ 1.2k | Java | 58/100 |
 | 397 | [gazebosim/gz-sim](./gazebosim-gz-sim.md) | ⭐ 1.3k | C++ | 58/100 |
 | 398 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 399 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
-| 400 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 399 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 400 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
 | 401 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 402 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 58/100 |
 | 403 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 123 | Kotlin | 58/100 |

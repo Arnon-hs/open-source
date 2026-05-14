@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **8381** |
+| 🗂️ **Total projects** | **8411** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · Ollama · Claude · OpenAI) |
@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 2938 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1492 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 810 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 705 | [Browse →](./orchestration/) |
+| 🤖 **AI/ML** | 2943 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1500 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 811 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 710 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 458 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 395 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 291 | [Browse →](./crypto/) |
-| 🏷️ **Mcp** | 242 | [Browse →](./mcp/) |
-| 📊 **Data** | 193 | [Browse →](./data/) |
-| 🏷️ **Automation** | 156 | [Browse →](./automation/) |
-| 💳 **Payments** | 132 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 105 | [Browse →](./knowledgerag/) |
+| ⚙️ **Backend** | 396 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 292 | [Browse →](./crypto/) |
+| 🏷️ **Mcp** | 244 | [Browse →](./mcp/) |
+| 📊 **Data** | 194 | [Browse →](./data/) |
+| 🏷️ **Automation** | 157 | [Browse →](./automation/) |
+| 💳 **Payments** | 135 | [Browse →](./payments/) |
+| 🏷️ **Knowledgerag** | 106 | [Browse →](./knowledgerag/) |
 | 📈 **Trading** | 94 | [Browse →](./trading/) |
-| 📱 **Mobile** | 92 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 93 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 78 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 65 | [Browse →](./security/) |
 | 🏷️ **Database** | 64 | [Browse →](./database/) |
@@ -48,13 +48,13 @@
 | 1 | [google-gemini/gemini-cli](./aiml/google-gemini-gemini-cli.md) | ⭐ 103.3k | AI/ML |
 | 2 | [n8n-io/n8n](./aiml/n8n-io-n8n.md) | ⭐ 186.9k | AI/ML |
 | 3 | [PipedreamHQ/pipedream](./backend/pipedreamhq-pipedream.md) | ⭐ 11.3k | Backend |
-| 4 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
-| 5 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
-| 6 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
-| 7 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
-| 8 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 15k | AI/ML |
-| 9 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.7k | Orchestration |
-| 10 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 46k | Orchestration |
+| 4 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 5 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 186.9k | AI/ML |
+| 6 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 12.9k | AI/ML |
+| 7 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
+| 8 | [open-webui/open-webui](./aiml/open-webui-open-webui.md) | ⭐ 136.1k | AI/ML |
+| 9 | [googleapis/mcp-toolbox](./aiml/googleapis-mcp-toolbox.md) | ⭐ 15k | AI/ML |
+| 10 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 36.7k | Orchestration |
 
 ## 🚀 How it works
 
