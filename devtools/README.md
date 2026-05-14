@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**458 projects** in this category.
+**459 projects** in this category.
 
 ## Projects
 
@@ -462,10 +462,11 @@
 | 452 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 45/100 |
 | 453 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 45/100 |
 | 454 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
-| 455 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
-| 456 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
-| 457 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
-| 458 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 38/100 |
+| 455 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
+| 456 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
+| 457 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
+| 458 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
+| 459 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 38/100 |
 
 ---
 
