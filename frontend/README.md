@@ -93,8 +93,8 @@
 | 83 | [Automattic/wp-calypso](./automattic-wp-calypso.md) | ⭐ 12.6k | TypeScript | 73/100 |
 | 84 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 73/100 |
 | 85 | [webpack/webpack](./webpack-webpack.md) | ⭐ 65.8k | JavaScript | 73/100 |
-| 86 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 60.2k | TypeScript | 73/100 |
-| 87 | [nestjs/nest](./nestjs-nest.md) | ⭐ 75.4k | TypeScript | 73/100 |
+| 86 | [nestjs/nest](./nestjs-nest.md) | ⭐ 75.4k | TypeScript | 73/100 |
+| 87 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 60.2k | TypeScript | 73/100 |
 | 88 | [expo/expo](./expo-expo.md) | ⭐ 49.3k | TypeScript | 73/100 |
 | 89 | [bytebase/bytebase](./bytebase-bytebase.md) | ⭐ 14k | Go | 73/100 |
 | 90 | [ClementTsang/bottom](./clementtsang-bottom.md) | ⭐ 13.3k | Rust | 73/100 |
@@ -695,8 +695,8 @@
 | 685 | [ifd3f/caligula](./ifd3f-caligula.md) | ⭐ 2k | Rust | 54/100 |
 | 686 | [yassinebridi/serpl](./yassinebridi-serpl.md) | ⭐ 827 | Rust | 54/100 |
 | 687 | [mendrik-private/sqv](./mendrik-private-sqv.md) | ⭐ 151 | Rust | 54/100 |
-| 688 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
-| 689 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
+| 688 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
+| 689 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
 | 690 | [Gaok1/Raven-RiscV](./gaok1-raven-riscv.md) | ⭐ 101 | Rust | 54/100 |
 | 691 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 915 | Rust | 54/100 |
 | 692 | [SofusA/qobine](./sofusa-qobine.md) | ⭐ 216 | Rust | 54/100 |
@@ -802,8 +802,8 @@
 | 792 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 38/100 |
 | 793 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 38/100 |
 | 794 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 38/100 |
-| 795 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
-| 796 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 795 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 796 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
 
 ---
 
