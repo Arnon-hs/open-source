@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**79 projects** in this category.
+**80 projects** in this category.
 
 ## Projects
 
@@ -86,7 +86,8 @@
 | 76 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
 | 77 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 53/100 |
 | 78 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 48/100 |
-| 79 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
+| 79 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
+| 80 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
 
 ---
 

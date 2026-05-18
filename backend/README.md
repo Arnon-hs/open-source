@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**407 projects** in this category.
+**408 projects** in this category.
 
 ## Projects
 
@@ -387,34 +387,35 @@
 | 377 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 308 | C++ | 54/100 |
 | 378 | [JohnnyMorganz/luau-lsp](./johnnymorganz-luau-lsp.md) | ⭐ 479 | Luau | 54/100 |
 | 379 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 943 | Python | 54/100 |
-| 380 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
-| 381 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 380 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 381 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
 | 382 | [Epix-Incorporated/Adonis](./epix-incorporated-adonis.md) | ⭐ 463 | Luau | 53/100 |
 | 383 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 53/100 |
 | 384 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 53/100 |
 | 385 | [linuxserver/docker-jackett](./linuxserver-docker-jackett.md) | ⭐ 481 | Dockerfile | 52/100 |
-| 386 | [terror/just-lsp](./terror-just-lsp.md) | ⭐ 289 | Rust | 51/100 |
-| 387 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 51/100 |
-| 388 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 51/100 |
-| 389 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 51/100 |
-| 390 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 51/100 |
-| 391 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 50/100 |
-| 392 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 50/100 |
-| 393 | [aep-dev/aeps](./aep-dev-aeps.md) | ⭐ — | — | 48/100 |
-| 394 | [VenturFlow/vc-statement-parser](./venturflow-vc-statement-parser.md) | ⭐ — | — | 48/100 |
-| 395 | [Vibeaxis/vibeaxis-analyzer](./vibeaxis-vibeaxis-analyzer.md) | ⭐ — | — | 48/100 |
-| 396 | [aryarahimi1/glnc](./aryarahimi1-glnc.md) | ⭐ — | — | 48/100 |
-| 397 | [ruidasilva/merkleworks-x402-spec](./ruidasilva-merkleworks-x402-spec.md) | ⭐ — | — | 48/100 |
-| 398 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 48/100 |
-| 399 | [orgs/community](./orgs-community.md) | ⭐ — | — | 46/100 |
-| 400 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 45/100 |
-| 401 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 45/100 |
-| 402 | [irfanhakim-as/homelab-wiki](./irfanhakim-as-homelab-wiki.md) | ⭐ — | — | 44/100 |
-| 403 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
-| 404 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
-| 405 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 38/100 |
-| 406 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 38/100 |
-| 407 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 38/100 |
+| 386 | [andy-takker/catfact-demo-service](./andy-takker-catfact-demo-service.md) | ⭐ — | — | 51/100 |
+| 387 | [terror/just-lsp](./terror-just-lsp.md) | ⭐ 289 | Rust | 51/100 |
+| 388 | [jolars/panache](./jolars-panache.md) | ⭐ 104 | Rust | 51/100 |
+| 389 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 51/100 |
+| 390 | [zanfranceschi/rinha-de-backend-2026](./zanfranceschi-rinha-de-backend-2026.md) | ⭐ 578 | C | 51/100 |
+| 391 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 51/100 |
+| 392 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 50/100 |
+| 393 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 50/100 |
+| 394 | [aep-dev/aeps](./aep-dev-aeps.md) | ⭐ — | — | 48/100 |
+| 395 | [VenturFlow/vc-statement-parser](./venturflow-vc-statement-parser.md) | ⭐ — | — | 48/100 |
+| 396 | [Vibeaxis/vibeaxis-analyzer](./vibeaxis-vibeaxis-analyzer.md) | ⭐ — | — | 48/100 |
+| 397 | [aryarahimi1/glnc](./aryarahimi1-glnc.md) | ⭐ — | — | 48/100 |
+| 398 | [ruidasilva/merkleworks-x402-spec](./ruidasilva-merkleworks-x402-spec.md) | ⭐ — | — | 48/100 |
+| 399 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 48/100 |
+| 400 | [orgs/community](./orgs-community.md) | ⭐ — | — | 46/100 |
+| 401 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 45/100 |
+| 402 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 45/100 |
+| 403 | [irfanhakim-as/homelab-wiki](./irfanhakim-as-homelab-wiki.md) | ⭐ — | — | 44/100 |
+| 404 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
+| 405 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
+| 406 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 38/100 |
+| 407 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 38/100 |
+| 408 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 38/100 |
 
 ---
 

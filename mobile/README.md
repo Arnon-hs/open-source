@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**97 projects** in this category.
+**98 projects** in this category.
 
 ## Projects
 
@@ -104,7 +104,8 @@
 | 94 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 49/100 |
 | 95 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 49/100 |
 | 96 | [paralevel/extract-ios-backups-from-terminal](./paralevel-extract-ios-backups-from-terminal.md) | ⭐ — | — | 45/100 |
-| 97 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 38/100 |
+| 97 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
+| 98 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 38/100 |
 
 ---
 

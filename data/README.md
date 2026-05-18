@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**199 projects** in this category.
+**200 projects** in this category.
 
 ## Projects
 
@@ -200,13 +200,14 @@
 | 190 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 45/100 |
 | 191 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ — | — | 45/100 |
 | 192 | [rybbit-io/rybbit](./rybbit-io-rybbit.md) | ⭐ — | — | 44/100 |
-| 193 | [duckdb/pg_duckdb](./duckdb-pg-duckdb.md) | ⭐ — | — | 41/100 |
-| 194 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
-| 195 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 196 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 38/100 |
-| 197 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
-| 198 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
-| 199 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
+| 193 | [stephenlthorn/auto-identity-remove](./stephenlthorn-auto-identity-remove.md) | ⭐ — | — | 41/100 |
+| 194 | [duckdb/pg_duckdb](./duckdb-pg-duckdb.md) | ⭐ — | — | 41/100 |
+| 195 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
+| 196 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 197 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 38/100 |
+| 198 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 38/100 |
+| 199 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 38/100 |
+| 200 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 38/100 |
 
 ---
 

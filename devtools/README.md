@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**466 projects** in this category.
+**467 projects** in this category.
 
 ## Projects
 
@@ -129,8 +129,8 @@
 | 119 | [eclipse-sumo/sumo](./eclipse-sumo-sumo.md) | ⭐ 4k | C++ | 69/100 |
 | 120 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 121 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 122 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
-| 123 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 122 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 123 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
 | 124 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 125 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 126 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |
@@ -149,8 +149,8 @@
 | 139 | [pdm-project/pdm](./pdm-project-pdm.md) | ⭐ 8.6k | Python | 68/100 |
 | 140 | [nextcloud/desktop](./nextcloud-desktop.md) | ⭐ 3.7k | C++ | 68/100 |
 | 141 | [dundee/gdu](./dundee-gdu.md) | ⭐ 5.6k | Go | 68/100 |
-| 142 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
-| 143 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 142 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 143 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
 | 144 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 145 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 146 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -462,18 +462,19 @@
 | 452 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 51/100 |
 | 453 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 51/100 |
 | 454 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 51/100 |
-| 455 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 50/100 |
-| 456 | [bergholt/triptych](./bergholt-triptych.md) | ⭐ — | — | 48/100 |
-| 457 | [madhugb/FixMyNPM](./madhugb-fixmynpm.md) | ⭐ — | — | 48/100 |
+| 455 | [bergholt/triptych](./bergholt-triptych.md) | ⭐ — | — | 48/100 |
+| 456 | [madhugb/FixMyNPM](./madhugb-fixmynpm.md) | ⭐ — | — | 48/100 |
+| 457 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 47/100 |
 | 458 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 45/100 |
 | 459 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 45/100 |
 | 460 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
-| 461 | [akiomik/mado](./akiomik-mado.md) | ⭐ — | — | 41/100 |
-| 462 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
-| 463 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
-| 464 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
-| 465 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
-| 466 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 38/100 |
+| 461 | [asatarin/testing-distributed-systems](./asatarin-testing-distributed-systems.md) | ⭐ — | — | 41/100 |
+| 462 | [akiomik/mado](./akiomik-mado.md) | ⭐ — | — | 41/100 |
+| 463 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
+| 464 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
+| 465 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
+| 466 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
+| 467 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 38/100 |
 
 ---
 

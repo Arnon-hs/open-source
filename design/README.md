@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**28 projects** in this category.
+**30 projects** in this category.
 
 ## Projects
 
@@ -34,8 +34,10 @@
 | 24 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 54/100 |
 | 25 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 53/100 |
 | 26 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
-| 27 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
-| 28 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 38/100 |
+| 27 | [maecer/silimon](./maecer-silimon.md) | ⭐ — | — | 45/100 |
+| 28 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 41/100 |
+| 29 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
+| 30 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 38/100 |
 
 ---
 
