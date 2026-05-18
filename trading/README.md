@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**97 projects** in this category.
+**98 projects** in this category.
 
 ## Projects
 
@@ -104,7 +104,8 @@
 | 94 | [Julian-dev28/hermes-trader](./julian-dev28-hermes-trader.md) | ⭐ — | — | 50/100 |
 | 95 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 50/100 |
 | 96 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 45/100 |
-| 97 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 38/100 |
+| 97 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
+| 98 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 38/100 |
 
 ---
 

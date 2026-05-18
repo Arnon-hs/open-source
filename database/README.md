@@ -2,7 +2,7 @@
 
 > 
 
-**72 projects** in this category.
+**73 projects** in this category.
 
 ## Projects
 
@@ -23,8 +23,8 @@
 | 13 | [libuv/libuv](./libuv-libuv.md) | ⭐ 26.8k | C | 67/100 |
 | 14 | [smittix/intercept](./smittix-intercept.md) | ⭐ 1.8k | Python | 67/100 |
 | 15 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 16 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
-| 17 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 16 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 17 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
 | 18 | [FriesI23/mhabit](./friesi23-mhabit.md) | ⭐ 1.4k | Dart | 64/100 |
 | 19 | [audacity/audacity](./audacity-audacity.md) | ⭐ 17k | C++ | 64/100 |
 | 20 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 1.9k | C++ | 64/100 |
@@ -73,13 +73,14 @@
 | 63 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 64 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 65 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 66 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
-| 67 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
-| 68 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
-| 69 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
-| 70 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
-| 71 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
-| 72 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
+| 66 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
+| 67 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
+| 68 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
+| 69 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
+| 70 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
+| 71 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
+| 72 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
+| 73 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
 
 ---
 

@@ -69,8 +69,8 @@
 | 59 | [TheLunarCompany/lunar](./thelunarcompany-lunar.md) | ⭐ 424 | TypeScript | 84/100 |
 | 60 | [1Panel-dev/MaxKB](./1panel-dev-maxkb.md) | ⭐ 20.9k | Python | 83/100 |
 | 61 | [MervinPraison/PraisonAI](./mervinpraison-praisonai.md) | ⭐ 7.1k | Python | 83/100 |
-| 62 | [simstudioai/sim](./simstudioai-sim.md) | ⭐ 28.4k | TypeScript | 83/100 |
-| 63 | [deepset-ai/haystack](./deepset-ai-haystack.md) | ⭐ 25.1k | MDX | 83/100 |
+| 62 | [deepset-ai/haystack](./deepset-ai-haystack.md) | ⭐ 25.1k | MDX | 83/100 |
+| 63 | [simstudioai/sim](./simstudioai-sim.md) | ⭐ 28.4k | TypeScript | 83/100 |
 | 64 | [kyegomez/swarms](./kyegomez-swarms.md) | ⭐ 6.6k | Python | 83/100 |
 | 65 | [iflytek/astron-agent](./iflytek-astron-agent.md) | ⭐ 8.3k | Java | 83/100 |
 | 66 | [strands-agents/sdk-python](./strands-agents-sdk-python.md) | ⭐ 5.8k | Python | 83/100 |
@@ -227,8 +227,8 @@
 | 217 | [standardagents/dmux](./standardagents-dmux.md) | ⭐ 1.6k | HTML | 76/100 |
 | 218 | [alexgreensh/repo-forensics](./alexgreensh-repo-forensics.md) | ⭐ 63 | Python | 76/100 |
 | 219 | [svd-ai-lab/sim-cli](./svd-ai-lab-sim-cli.md) | ⭐ 63 | Python | 76/100 |
-| 220 | [denizgursoy/gotouch](./denizgursoy-gotouch.md) | ⭐ 142 | Go | 76/100 |
-| 221 | [roampal-ai/roampal-core](./roampal-ai-roampal-core.md) | ⭐ 45 | Python | 76/100 |
+| 220 | [roampal-ai/roampal-core](./roampal-ai-roampal-core.md) | ⭐ 45 | Python | 76/100 |
+| 221 | [denizgursoy/gotouch](./denizgursoy-gotouch.md) | ⭐ 142 | Go | 76/100 |
 | 222 | [saltbo/agent-kanban](./saltbo-agent-kanban.md) | ⭐ 260 | TypeScript | 76/100 |
 | 223 | [kagan-sh/kagan](./kagan-sh-kagan.md) | ⭐ 77 | Python | 76/100 |
 | 224 | [eval-sys/mcpmark](./eval-sys-mcpmark.md) | ⭐ 416 | Python | 76/100 |
@@ -464,8 +464,8 @@
 | 454 | [yanhua1010/zero-to-ai-fullstack](./yanhua1010-zero-to-ai-fullstack.md) | ⭐ 149 | Python | 69/100 |
 | 455 | [rnett/gradle-mcp](./rnett-gradle-mcp.md) | ⭐ 47 | Kotlin | 69/100 |
 | 456 | [samber/cc-skills](./samber-cc-skills.md) | ⭐ 87 | Shell | 69/100 |
-| 457 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 43 | — | 69/100 |
-| 458 | [AlekseiUL/openclaw-superagent](./alekseiul-openclaw-superagent.md) | ⭐ 39 | Shell | 69/100 |
+| 457 | [AlekseiUL/openclaw-superagent](./alekseiul-openclaw-superagent.md) | ⭐ 39 | Shell | 69/100 |
+| 458 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 43 | — | 69/100 |
 | 459 | [regenrek/peky](./regenrek-peky.md) | ⭐ 144 | Go | 69/100 |
 | 460 | [brainlid/langchain](./brainlid-langchain.md) | ⭐ 1.2k | Elixir | 69/100 |
 | 461 | [4thfever/cultivation-world-simulator](./4thfever-cultivation-world-simulator.md) | ⭐ 1.6k | Python | 69/100 |
@@ -725,8 +725,8 @@
 | 715 | [zendev-sh/zenflow](./zendev-sh-zenflow.md) | ⭐ — | — | 49/100 |
 | 716 | [ninjahawk/hollow-agentOS](./ninjahawk-hollow-agentos.md) | ⭐ — | — | 49/100 |
 | 717 | [matthart1983/syswatch](./matthart1983-syswatch.md) | ⭐ 399 | Rust | 49/100 |
-| 718 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
-| 719 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
+| 718 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
+| 719 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
 | 720 | [diegoscarabelli/system2](./diegoscarabelli-system2.md) | ⭐ — | — | 45/100 |
 | 721 | [aegis-dq/aegis-dq](./aegis-dq-aegis-dq.md) | ⭐ — | — | 45/100 |
 | 722 | [adamjgmiller/adamsreview](./adamjgmiller-adamsreview.md) | ⭐ — | — | 45/100 |

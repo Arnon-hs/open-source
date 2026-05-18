@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**845 projects** in this category.
+**846 projects** in this category.
 
 ## Projects
 
@@ -541,8 +541,8 @@
 | 531 | [vivliostyle/vivliostyle.js](./vivliostyle-vivliostyle.js.md) | ⭐ 751 | TypeScript | 60/100 |
 | 532 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 434 | Dockerfile | 60/100 |
 | 533 | [walkinglabs/awesome-harness-engineering](./walkinglabs-awesome-harness-engineering.md) | ⭐ 2.4k | — | 60/100 |
-| 534 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 369 | Kotlin | 60/100 |
-| 535 | [aspect-build/aspect-cli](./aspect-build-aspect-cli.md) | ⭐ 156 | Rust | 60/100 |
+| 534 | [aspect-build/aspect-cli](./aspect-build-aspect-cli.md) | ⭐ 156 | Rust | 60/100 |
+| 535 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 369 | Kotlin | 60/100 |
 | 536 | [alienator88/Sentinel](./alienator88-sentinel.md) | ⭐ 1.6k | Swift | 60/100 |
 | 537 | [jrsoftware/issrc](./jrsoftware-issrc.md) | ⭐ 5.3k | Pascal | 60/100 |
 | 538 | [opengovsg/FormSG](./opengovsg-formsg.md) | ⭐ 346 | TypeScript | 60/100 |
@@ -752,8 +752,8 @@
 | 742 | [plone/volto](./plone-volto.md) | ⭐ 612 | JavaScript | 53/100 |
 | 743 | [archlinuxarm/PKGBUILDs](./archlinuxarm-pkgbuilds.md) | ⭐ 1k | Shell | 53/100 |
 | 744 | [open-webui/docs](./open-webui-docs.md) | ⭐ 738 | CSS | 53/100 |
-| 745 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
-| 746 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
+| 745 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
+| 746 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
 | 747 | [rikhuijzer/fx](./rikhuijzer-fx.md) | ⭐ 310 | Rust | 53/100 |
 | 748 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 768 | Rust | 53/100 |
 | 749 | [micro-manager/micro-manager](./micro-manager-micro-manager.md) | ⭐ 303 | Java | 53/100 |
@@ -819,30 +819,30 @@
 | 809 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 47/100 |
 | 810 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 116 | Rust | 46/100 |
 | 811 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 46/100 |
-| 812 | [Knuspii/CrunchyCleaner](./knuspii-crunchycleaner.md) | ⭐ — | — | 45/100 |
-| 813 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 45/100 |
-| 814 | [unknwon/kargo-tui](./unknwon-kargo-tui.md) | ⭐ — | — | 44/100 |
-| 815 | [SalzDevs/groxy](./salzdevs-groxy.md) | ⭐ — | — | 44/100 |
-| 816 | [Ademking/SkillPrompts](./ademking-skillprompts.md) | ⭐ — | — | 44/100 |
-| 817 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
-| 818 | [cbms26/asl-interpreter](./cbms26-asl-interpreter.md) | ⭐ — | — | 42/100 |
-| 819 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ — | — | 42/100 |
-| 820 | [victormasson/QuickAccent](./victormasson-quickaccent.md) | ⭐ — | — | 41/100 |
-| 821 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 41/100 |
-| 822 | [microsoft/microsoft-ui-xaml](./microsoft-microsoft-ui-xaml.md) | ⭐ — | — | 41/100 |
-| 823 | [hbbio/nodiff](./hbbio-nodiff.md) | ⭐ — | — | 41/100 |
-| 824 | [Raathigesh/majestic](./raathigesh-majestic.md) | ⭐ — | — | 41/100 |
-| 825 | [apernet/hysteria](./apernet-hysteria.md) | ⭐ — | — | 41/100 |
-| 826 | [thesysdev/openclaw-os](./thesysdev-openclaw-os.md) | ⭐ — | — | 41/100 |
-| 827 | [reubenlavin08/bullseye-app](./reubenlavin08-bullseye-app.md) | ⭐ — | — | 41/100 |
-| 828 | [mathix420/alacritree](./mathix420-alacritree.md) | ⭐ — | — | 41/100 |
-| 829 | [adembudak/CMakeForImGui](./adembudak-cmakeforimgui.md) | ⭐ — | — | 41/100 |
-| 830 | [polyphilz/glance](./polyphilz-glance.md) | ⭐ — | — | 41/100 |
-| 831 | [sslboard/pushover-cloudflare-build-notifications](./sslboard-pushover-cloudflare-build-notifications.md) | ⭐ — | — | 41/100 |
-| 832 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 41/100 |
-| 833 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 40/100 |
-| 834 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 39/100 |
-| 835 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 39/100 |
+| 812 | [abuseofnotation/vanilla-fp](./abuseofnotation-vanilla-fp.md) | ⭐ — | — | 45/100 |
+| 813 | [Knuspii/CrunchyCleaner](./knuspii-crunchycleaner.md) | ⭐ — | — | 45/100 |
+| 814 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 45/100 |
+| 815 | [unknwon/kargo-tui](./unknwon-kargo-tui.md) | ⭐ — | — | 44/100 |
+| 816 | [SalzDevs/groxy](./salzdevs-groxy.md) | ⭐ — | — | 44/100 |
+| 817 | [Ademking/SkillPrompts](./ademking-skillprompts.md) | ⭐ — | — | 44/100 |
+| 818 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
+| 819 | [cbms26/asl-interpreter](./cbms26-asl-interpreter.md) | ⭐ — | — | 42/100 |
+| 820 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ — | — | 42/100 |
+| 821 | [victormasson/QuickAccent](./victormasson-quickaccent.md) | ⭐ — | — | 41/100 |
+| 822 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 41/100 |
+| 823 | [microsoft/microsoft-ui-xaml](./microsoft-microsoft-ui-xaml.md) | ⭐ — | — | 41/100 |
+| 824 | [hbbio/nodiff](./hbbio-nodiff.md) | ⭐ — | — | 41/100 |
+| 825 | [Raathigesh/majestic](./raathigesh-majestic.md) | ⭐ — | — | 41/100 |
+| 826 | [apernet/hysteria](./apernet-hysteria.md) | ⭐ — | — | 41/100 |
+| 827 | [thesysdev/openclaw-os](./thesysdev-openclaw-os.md) | ⭐ — | — | 41/100 |
+| 828 | [reubenlavin08/bullseye-app](./reubenlavin08-bullseye-app.md) | ⭐ — | — | 41/100 |
+| 829 | [mathix420/alacritree](./mathix420-alacritree.md) | ⭐ — | — | 41/100 |
+| 830 | [adembudak/CMakeForImGui](./adembudak-cmakeforimgui.md) | ⭐ — | — | 41/100 |
+| 831 | [polyphilz/glance](./polyphilz-glance.md) | ⭐ — | — | 41/100 |
+| 832 | [sslboard/pushover-cloudflare-build-notifications](./sslboard-pushover-cloudflare-build-notifications.md) | ⭐ — | — | 41/100 |
+| 833 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 41/100 |
+| 834 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 40/100 |
+| 835 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 39/100 |
 | 836 | [DenisSergeevitch/chatgpt-portal](./denissergeevitch-chatgpt-portal.md) | ⭐ — | — | 38/100 |
 | 837 | [wtbates99/pomotuimer](./wtbates99-pomotuimer.md) | ⭐ — | — | 38/100 |
 | 838 | [o11ylite/o11ylite](./o11ylite-o11ylite.md) | ⭐ — | — | 38/100 |
@@ -851,8 +851,9 @@
 | 841 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 38/100 |
 | 842 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 38/100 |
 | 843 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 38/100 |
-| 844 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
-| 845 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 844 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 36/100 |
+| 845 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
+| 846 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**408 projects** in this category.
+**409 projects** in this category.
 
 ## Projects
 
@@ -411,11 +411,12 @@
 | 401 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 45/100 |
 | 402 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 45/100 |
 | 403 | [irfanhakim-as/homelab-wiki](./irfanhakim-as-homelab-wiki.md) | ⭐ — | — | 44/100 |
-| 404 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
-| 405 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
-| 406 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 38/100 |
-| 407 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 38/100 |
-| 408 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 38/100 |
+| 404 | [2b2tplace/1m_release](./2b2tplace-1m-release.md) | ⭐ — | — | 41/100 |
+| 405 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
+| 406 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
+| 407 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 38/100 |
+| 408 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 38/100 |
+| 409 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 38/100 |
 
 ---
 

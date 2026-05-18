@@ -2,7 +2,7 @@
 
 > 
 
-**174 projects** in this category.
+**176 projects** in this category.
 
 ## Projects
 
@@ -179,9 +179,11 @@
 | 169 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
 | 170 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
 | 171 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 172 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
-| 173 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 174 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 172 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
+| 173 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
+| 174 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 175 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
+| 176 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 
