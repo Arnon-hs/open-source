@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15278** |
+| 🗂️ **Total projects** | **15301** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4679 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2754 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1402 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 4683 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2761 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1404 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1259 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 835 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 775 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 655 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 546 | [Browse →](./automation/) |
+| 🏷️ **Mcp** | 838 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 776 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 657 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 547 | [Browse →](./automation/) |
 | ⛓️ **Crypto** | 512 | [Browse →](./crypto/) |
 | 🏷️ **Knowledgerag** | 338 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 320 | [Browse →](./data/) |
+| 📊 **Data** | 323 | [Browse →](./data/) |
 | 🏷️ **Database** | 252 | [Browse →](./database/) |
 | 💳 **Payments** | 203 | [Browse →](./payments/) |
 | 📱 **Mobile** | 183 | [Browse →](./mobile/) |
