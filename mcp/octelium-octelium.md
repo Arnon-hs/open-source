@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ octelium/octelium：octelium/octelium helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 3908 GitHub stars
+- 3915 GitHub stars
 - 146 forks
-- updated 2026-06-27
+- updated 2026-07-03
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ octelium/octelium：octelium/octelium helps connect AI assistants to real tools 
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/octelium/octelium) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/octelium/octelium) · [← Back to Mcp](./README.md)</sub>
