@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 164 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 170 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Mnexa-AI/e2a：Mnexa-AI/e2a helps remove repetitive manual operations from a wor
 
 **Quality signals**
 
-- 164 GitHub stars
-- 9 forks
-- updated 2026-06-28
+- 170 GitHub stars
+- 11 forks
+- updated 2026-07-03
 - primary language: Go
 - 9 topics
 
@@ -66,17 +66,17 @@ Mnexa-AI/e2a：Mnexa-AI/e2a helps remove repetitive manual operations from a wor
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 74/100 |
 | integration | 94/100 |
 | production | 81/100 |
 | outlook | 85/100 |
-| adoption | 41/100 |
-| stars | 47/100 |
-| forks | 25/100 |
+| adoption | 42/100 |
+| stars | 48/100 |
+| forks | 27/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/Mnexa-AI/e2a) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/Mnexa-AI/e2a) · [← Back to Automation](./README.md)</sub>

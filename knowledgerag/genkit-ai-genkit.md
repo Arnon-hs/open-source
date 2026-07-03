@@ -53,7 +53,7 @@ genkit-ai/genkit：genkit-ai/genkit helps make internal knowledge searchable and
 
 **Quality signals**
 
-- 6180 GitHub stars
+- 6181 GitHub stars
 - 777 forks
 - updated 2026-07-03
 - primary language: TypeScript

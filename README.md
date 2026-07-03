@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15328** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4688 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2768 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1405 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1263 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 840 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 776 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 659 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 549 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 513 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 339 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 323 | [Browse →](./data/) |
-| 🏷️ **Database** | 252 | [Browse →](./database/) |
-| 💳 **Payments** | 203 | [Browse →](./payments/) |
-| 📱 **Mobile** | 183 | [Browse →](./mobile/) |
-| 📈 **Trading** | 180 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 112 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 96 | [Browse →](./security/) |
-| 🏷️ **Education** | 45 | [Browse →](./education/) |
-| 🏷️ **Observability** | 44 | [Browse →](./observability/) |
-| ✨ **Design** | 42 | [Browse →](./design/) |
-| 🎯 **Product** | 26 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 18 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 10 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 56.2k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.1k | Mcp |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 10.8k | Mcp |
+| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52.5k | Orchestration |
+| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.8k | Mcp |
+| 6 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.8k | Orchestration |
+| 7 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.4k | Orchestration |
+| 8 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 62.9k | Orchestration |
+| 9 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.2k | Orchestration |
+| 10 | [skyhook-io/radar](./mcp/skyhook-io-radar.md) | ⭐ 2.5k | Mcp |
 
 ## 🚀 How it works
 
