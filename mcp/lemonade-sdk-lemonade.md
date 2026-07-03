@@ -1,6 +1,6 @@
 # lemonade-sdk/lemonade
 
-[![Stars](https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=flat-square&color=yellow)](https://github.com/lemonade-sdk/lemonade/stargazers) [![Forks](https://img.shields.io/github/forks/lemonade-sdk/lemonade?style=flat-square&color=blue)](https://github.com/lemonade-sdk/lemonade/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=flat-square&color=yellow)](https://github.com/lemonade-sdk/lemonade/stargazers) [![Forks](https://img.shields.io/github/forks/lemonade-sdk/lemonade?style=flat-square&color=blue)](https://github.com/lemonade-sdk/lemonade/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 371 |
+| ⭐ **Stars** | 4.8k |
+| 🍴 **Forks** | 379 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 **Quality signals**
 
-- 4677 GitHub stars
-- 371 forks
-- updated 2026-06-28
+- 4753 GitHub stars
+- 379 forks
+- updated 2026-07-03
 - primary language: C++
 - 19 topics
 
@@ -79,4 +79,4 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>

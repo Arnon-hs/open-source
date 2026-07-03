@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ mock-server/mockserver-monorepo：mock-server/mockserver-monorepo helps connect 
 
 - 4905 GitHub stars
 - 1110 forks
-- updated 2026-07-02
+- updated 2026-07-03
 - primary language: Java
 - 15 topics
 
@@ -79,4 +79,4 @@ mock-server/mockserver-monorepo：mock-server/mockserver-monorepo helps connect 
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/mock-server/mockserver-monorepo) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/mock-server/mockserver-monorepo) · [← Back to Mcp](./README.md)</sub>
