@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.3k |
+| ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ gptme/gptme：gptme/gptme helps make internal knowledge searchable and usable by
 
 **Quality signals**
 
-- 4350 GitHub stars
+- 4351 GitHub stars
 - 394 forks
-- updated 2026-07-03
+- updated 2026-07-04
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ gptme/gptme：gptme/gptme helps make internal knowledge searchable and usable by
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/gptme/gptme) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/gptme/gptme) · [← Back to Knowledgerag](./README.md)</sub>
