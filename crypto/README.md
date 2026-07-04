@@ -74,8 +74,8 @@
 | 64 | [aws/aws-cdk](./aws-aws-cdk.md) | ⭐ 12.8k | TypeScript | 72/100 |
 | 65 | [Lumiwealth/lumibot](./lumiwealth-lumibot.md) | ⭐ 1.7k | Python | 72/100 |
 | 66 | [BlockRunAI/blockrun-mcp](./blockrunai-blockrun-mcp.md) | ⭐ 466 | TypeScript | 72/100 |
-| 67 | [dante-gpu/dantegpu-core](./dante-gpu-dantegpu-core.md) | ⭐ 75 | Go | 72/100 |
-| 68 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 53 | TypeScript | 72/100 |
+| 67 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 53 | TypeScript | 72/100 |
+| 68 | [dante-gpu/dantegpu-core](./dante-gpu-dantegpu-core.md) | ⭐ 75 | Go | 72/100 |
 | 69 | [Justin0504/Aegis](./justin0504-aegis.md) | ⭐ 358 | TypeScript | 72/100 |
 | 70 | [qntx/x402-openai-python](./qntx-x402-openai-python.md) | ⭐ 260 | Python | 72/100 |
 | 71 | [zonelessdev/zoneless](./zonelessdev-zoneless.md) | ⭐ 290 | TypeScript | 72/100 |
@@ -86,8 +86,8 @@
 | 76 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 61 | JavaScript | 71/100 |
 | 77 | [argotorg/solidity](./argotorg-solidity.md) | ⭐ 25.7k | C++ | 71/100 |
 | 78 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
-| 79 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
-| 80 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
+| 79 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
+| 80 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
 | 81 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 82 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |
 | 83 | [besoeasy/yantr](./besoeasy-yantr.md) | ⭐ 127 | Vue | 71/100 |
@@ -429,8 +429,8 @@
 | 419 | [esbmc/esbmc](./esbmc-esbmc.md) | ⭐ 481 | C | 53/100 |
 | 420 | [OnChainMee/blockchain-projects](./onchainmee-blockchain-projects.md) | ⭐ 309 | — | 53/100 |
 | 421 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 560 | Rust | 53/100 |
-| 422 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
-| 423 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
+| 422 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
+| 423 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
 | 424 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 94 | — | 53/100 |
 | 425 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 173 | Rust | 53/100 |
 | 426 | [binius-zk/binius64](./binius-zk-binius64.md) | ⭐ 143 | Rust | 53/100 |

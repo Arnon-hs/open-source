@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15498** |
+| 🗂️ **Total projects** | **15529** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4730 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2817 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1418 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1275 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 846 | [Browse →](./mcp/) |
+| 🤖 **AI/ML** | 4738 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2824 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1419 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1277 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 851 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 789 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 662 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 663 | [Browse →](./backend/) |
 | 🏷️ **Automation** | 555 | [Browse →](./automation/) |
 | ⛓️ **Crypto** | 519 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 347 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 348 | [Browse →](./knowledgerag/) |
 | 📊 **Data** | 326 | [Browse →](./data/) |
-| 🏷️ **Database** | 254 | [Browse →](./database/) |
-| 💳 **Payments** | 204 | [Browse →](./payments/) |
-| 📱 **Mobile** | 184 | [Browse →](./mobile/) |
-| 📈 **Trading** | 182 | [Browse →](./trading/) |
+| 🏷️ **Database** | 255 | [Browse →](./database/) |
+| 💳 **Payments** | 206 | [Browse →](./payments/) |
+| 📱 **Mobile** | 185 | [Browse →](./mobile/) |
+| 📈 **Trading** | 184 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 112 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 96 | [Browse →](./security/) |
 | 🏷️ **Education** | 46 | [Browse →](./education/) |
@@ -53,8 +53,8 @@
 | 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
 | 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
 | 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
 
 ## 🚀 How it works
 

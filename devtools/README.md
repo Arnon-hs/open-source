@@ -166,8 +166,8 @@
 | 156 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 69/100 |
 | 157 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 158 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 159 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
-| 160 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 159 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 160 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
 | 161 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 162 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 163 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |

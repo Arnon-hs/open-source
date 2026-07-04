@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**184 projects** in this category.
+**185 projects** in this category.
 
 ## Projects
 
@@ -34,8 +34,8 @@
 | 24 | [Delta-Icons/android](./delta-icons-android.md) | ⭐ 840 | Python | 63/100 |
 | 25 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 4.2k | Kotlin | 62/100 |
 | 26 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.4k | Kotlin | 62/100 |
-| 27 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
-| 28 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
+| 27 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
+| 28 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
 | 29 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 8.4k | Java | 62/100 |
 | 30 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 62/100 |
 | 31 | [gorules/zen](./gorules-zen.md) | ⭐ 1.8k | Rust | 62/100 |
@@ -183,15 +183,16 @@
 | 173 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 43/100 |
 | 174 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
 | 175 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
-| 176 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 41/100 |
-| 177 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 41/100 |
-| 178 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 41/100 |
-| 179 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 41/100 |
-| 180 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 41/100 |
-| 181 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 41/100 |
-| 182 | [ahatem/IoskeleyMono](./ahatem-ioskeleymono.md) | ⭐ — | — | 41/100 |
-| 183 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
-| 184 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 31/100 |
+| 176 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 41/100 |
+| 177 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 41/100 |
+| 178 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 41/100 |
+| 179 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 41/100 |
+| 180 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 41/100 |
+| 181 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 41/100 |
+| 182 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 41/100 |
+| 183 | [ahatem/IoskeleyMono](./ahatem-ioskeleymono.md) | ⭐ — | — | 41/100 |
+| 184 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
+| 185 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 31/100 |
 
 ---
 
