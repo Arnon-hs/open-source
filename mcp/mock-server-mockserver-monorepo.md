@@ -53,7 +53,7 @@ mock-server/mockserver-monorepo：mock-server/mockserver-monorepo helps connect 
 
 **Quality signals**
 
-- 4908 GitHub stars
+- 4909 GitHub stars
 - 1110 forks
 - updated 2026-07-04
 - primary language: Java

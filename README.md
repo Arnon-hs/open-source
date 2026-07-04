@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15709** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4790 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2861 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1439 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1289 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 857 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 799 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 668 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 565 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 521 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 354 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 328 | [Browse →](./data/) |
-| 🏷️ **Database** | 261 | [Browse →](./database/) |
-| 💳 **Payments** | 208 | [Browse →](./payments/) |
-| 📱 **Mobile** | 187 | [Browse →](./mobile/) |
-| 📈 **Trading** | 184 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 114 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 98 | [Browse →](./security/) |
-| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
-| 🏷️ **Education** | 46 | [Browse →](./education/) |
-| ✨ **Design** | 45 | [Browse →](./design/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
-| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.2k | Mcp |
+| 2 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.2k | AI/ML |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16k | Mcp |
+| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.9k | Orchestration |
+| 6 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 58.5k | Automation |
+| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63k | Orchestration |
+| 8 | [mock-server/mockserver-monorepo](./mcp/mock-server-mockserver-monorepo.md) | ⭐ 4.9k | Mcp |
+| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.1k | Orchestration |
+| 10 | [DeusData/codebase-memory-mcp](./mcp/deusdata-codebase-memory-mcp.md) | ⭐ 26.1k | Mcp |
 
 ## 🚀 How it works
 

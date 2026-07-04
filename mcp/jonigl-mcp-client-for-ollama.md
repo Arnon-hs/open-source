@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 765 |
-| 🍴 **Forks** | 107 |
+| ⭐ **Stars** | 766 |
+| 🍴 **Forks** | 108 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-07-04 |
@@ -53,8 +53,8 @@ jonigl/mcp-client-for-ollama：jonigl/mcp-client-for-ollama helps connect AI ass
 
 **Quality signals**
 
-- 765 GitHub stars
-- 107 forks
+- 766 GitHub stars
+- 108 forks
 - updated 2026-07-04
 - primary language: Python
 - 20 topics
