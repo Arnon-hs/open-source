@@ -2,7 +2,7 @@
 
 > 
 
-**551 projects** in this category.
+**552 projects** in this category.
 
 ## Projects
 
@@ -536,29 +536,30 @@
 | 526 | [HoraDomu/Vypl](./horadomu-vypl.md) | ⭐ — | — | 48/100 |
 | 527 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
 | 528 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 529 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ — | — | 45/100 |
-| 530 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ — | — | 45/100 |
-| 531 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ — | — | 45/100 |
-| 532 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ — | — | 45/100 |
-| 533 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ — | — | 45/100 |
-| 534 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
-| 535 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
-| 536 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
-| 537 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
-| 538 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
-| 539 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
-| 540 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
-| 541 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 542 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
-| 543 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
-| 544 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
-| 545 | [MSkill1/zynkbot](./mskill1-zynkbot.md) | ⭐ — | — | 41/100 |
-| 546 | [joneslloyd/agent-skills](./joneslloyd-agent-skills.md) | ⭐ — | — | 41/100 |
-| 547 | [openmoq/moq5](./openmoq-moq5.md) | ⭐ — | — | 41/100 |
-| 548 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 41/100 |
-| 549 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
-| 550 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
-| 551 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 529 | [a92070888-dev/mcp-os-native-automation](./a92070888-dev-mcp-os-native-automation.md) | ⭐ — | — | 45/100 |
+| 530 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ — | — | 45/100 |
+| 531 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ — | — | 45/100 |
+| 532 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ — | — | 45/100 |
+| 533 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ — | — | 45/100 |
+| 534 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ — | — | 45/100 |
+| 535 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
+| 536 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
+| 537 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
+| 538 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
+| 539 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
+| 540 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
+| 541 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
+| 542 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 543 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
+| 544 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
+| 545 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
+| 546 | [MSkill1/zynkbot](./mskill1-zynkbot.md) | ⭐ — | — | 41/100 |
+| 547 | [joneslloyd/agent-skills](./joneslloyd-agent-skills.md) | ⭐ — | — | 41/100 |
+| 548 | [openmoq/moq5](./openmoq-moq5.md) | ⭐ — | — | 41/100 |
+| 549 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 41/100 |
+| 550 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
+| 551 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
+| 552 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 
