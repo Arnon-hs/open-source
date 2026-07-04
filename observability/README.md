@@ -2,7 +2,7 @@
 
 > 
 
-**45 projects** in this category.
+**46 projects** in this category.
 
 ## Projects
 
@@ -50,9 +50,10 @@
 | 40 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 412 | TypeScript | 55/100 |
 | 41 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
 | 42 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 43 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 44 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 45 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 43 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
+| 44 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 45 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 46 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

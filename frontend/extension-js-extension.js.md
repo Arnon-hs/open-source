@@ -1,6 +1,6 @@
 # extension-js/extension.js
 
-[![Stars](https://img.shields.io/github/stars/extension-js/extension.js?style=flat-square&color=yellow)](https://github.com/extension-js/extension.js/stargazers) [![Forks](https://img.shields.io/github/forks/extension-js/extension.js?style=flat-square&color=blue)](https://github.com/extension-js/extension.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/extension-js/extension.js?style=flat-square&color=yellow)](https://github.com/extension-js/extension.js/stargazers) [![Forks](https://img.shields.io/github/forks/extension-js/extension.js?style=flat-square&color=blue)](https://github.com/extension-js/extension.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The cross-browser extension framework.
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 130 |
+| 🍴 **Forks** | 128 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Education
+Frontend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-extension-js/extension.js: extension-js/extension.js helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+extension-js/extension.js: extension-js/extension.js helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-extension-js/extension.js: open-source проект в категориях Frontend, DevTools, Education. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+extension-js/extension.js: open-source проект в категориях Frontend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-extension-js/extension.js：extension-js/extension.js helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+extension-js/extension.js：extension-js/extension.js helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ extension-js/extension.js：extension-js/extension.js helps ship user-facing int
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 5024 GitHub stars
-- 130 forks
-- updated 2026-07-04
+- 4981 GitHub stars
+- 128 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 20 topics
 
@@ -66,17 +66,17 @@ extension-js/extension.js：extension-js/extension.js helps ship user-facing int
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 87/100 |
+| quality | 72/100 |
 | integration | 94/100 |
-| production | 86/100 |
-| outlook | 88/100 |
-| adoption | 72/100 |
+| production | 66/100 |
+| outlook | 67/100 |
+| adoption | 71/100 |
 | stars | 79/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/extension-js/extension.js) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/extension-js/extension.js) · [← Back to Frontend](./README.md)</sub>
