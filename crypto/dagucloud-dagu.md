@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 289 |
+| 🍴 **Forks** | 292 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ dagucloud/dagu：dagucloud/dagu helps prototype or inspect blockchain workflows 
 
 **Quality signals**
 
-- 3571 GitHub stars
-- 289 forks
-- updated 2026-07-02
+- 3598 GitHub stars
+- 292 forks
+- updated 2026-07-04
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ dagucloud/dagu：dagucloud/dagu helps prototype or inspect blockchain workflows 
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/dagucloud/dagu) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/dagucloud/dagu) · [← Back to Crypto](./README.md)</sub>

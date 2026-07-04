@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.6k |
-| 🍴 **Forks** | 759 |
+| ⭐ **Stars** | 8.7k |
+| 🍴 **Forks** | 763 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 
 **Quality signals**
 
-- 8611 GitHub stars
-- 759 forks
-- updated 2026-06-28
+- 8655 GitHub stars
+- 763 forks
+- updated 2026-07-04
 - primary language: Python
 - 20 topics
 
@@ -70,7 +70,7 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 | integration | 62/100 |
 | production | 83/100 |
 | outlook | 93/100 |
-| adoption | 80/100 |
+| adoption | 81/100 |
 | stars | 84/100 |
 | forks | 72/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/LearningCircuit/local-deep-research) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/LearningCircuit/local-deep-research) · [← Back to Knowledgerag](./README.md)</sub>

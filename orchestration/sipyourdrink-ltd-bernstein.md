@@ -1,41 +1,41 @@
 # sipyourdrink-ltd/bernstein
 
-[![Stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square&color=yellow)](https://github.com/sipyourdrink-ltd/bernstein/stargazers) [![Forks](https://img.shields.io/github/forks/sipyourdrink-ltd/bernstein?style=flat-square&color=blue)](https://github.com/sipyourdrink-ltd/bernstein/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square&color=yellow)](https://github.com/sipyourdrink-ltd/bernstein/stargazers) [![Forks](https://img.shields.io/github/forks/sipyourdrink-ltd/bernstein?style=flat-square&color=blue)](https://github.com/sipyourdrink-ltd/bernstein/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
-> Deterministic orchestrator for 40+ CLI AI agents. Git worktree isolation, HMAC audit trail, MCP server mode. https://bernstein.run
+> Audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, air-gap deploy. The orchestrator your compliance team will sign off on. https://bernstein.run
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 287 |
-| 🍴 **Forks** | 34 |
+| ⭐ **Stars** | 630 |
+| 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`a2a-protocol` `agent-framework` `agent-orchestration` `agentic-ai` `agentic-workflow` `ai-agents` `ai-coding` `autonomous-agents` `claude-code` `cli-tool` `code-generation` `coding-agent`
+`agent-framework` `agent-orchestrator` `agentic-ai` `ai-agents` `ai-coding` `aider` `anthropic` `claude-code` `cli-tool` `codex-cli` `coding-agent` `deterministic-scheduler`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-sipyourdrink-ltd/bernstein: sipyourdrink-ltd/bernstein helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sipyourdrink-ltd/bernstein: sipyourdrink-ltd/bernstein helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-sipyourdrink-ltd/bernstein: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sipyourdrink-ltd/bernstein: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 287 GitHub stars
-- 34 forks
-- updated 2026-05-07
+- 630 GitHub stars
+- 56 forks
+- updated 2026-07-04
 - primary language: Python
 - 20 topics
 
@@ -66,17 +66,17 @@ sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 80/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 66/100 |
-| adoption | 48/100 |
-| stars | 52/100 |
-| forks | 39/100 |
-| recency | 40/100 |
+| production | 81/100 |
+| outlook | 89/100 |
+| adoption | 55/100 |
+| stars | 60/100 |
+| forks | 44/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/sipyourdrink-ltd/bernstein) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/sipyourdrink-ltd/bernstein) · [← Back to Orchestration](./README.md)</sub>

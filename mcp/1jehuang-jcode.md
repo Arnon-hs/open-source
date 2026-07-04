@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.1k |
-| 🍴 **Forks** | 908 |
+| 🍴 **Forks** | 910 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `claude` `cli` `coding-agent` `llm` `mcp` `openai` `rust` `terminal` `tui`
+`ai` `ai-agent` `ai-coding-agent` `claude` `cli` `coding-agent` `llm` `mcp` `openai` `rust` `terminal` `tui`
 
 ## 🎯 Categories
 
@@ -53,11 +53,11 @@ MCP · AI/ML · Frontend · DevTools
 
 **Quality signals**
 
-- 8104 GitHub stars
-- 908 forks
-- updated 2026-07-03
+- 8124 GitHub stars
+- 910 forks
+- updated 2026-07-04
 - primary language: Rust
-- 10 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -79,4 +79,4 @@ MCP · AI/ML · Frontend · DevTools
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/1jehuang/jcode) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/1jehuang/jcode) · [← Back to Mcp](./README.md)</sub>

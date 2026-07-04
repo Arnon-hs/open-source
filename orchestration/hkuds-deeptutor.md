@@ -1,18 +1,18 @@
 # HKUDS/DeepTutor
 
-[![Stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&color=yellow)](https://github.com/HKUDS/DeepTutor/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/DeepTutor?style=flat-square&color=blue)](https://github.com/HKUDS/DeepTutor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HKUDS/DeepTutor?style=flat-square&color=yellow)](https://github.com/HKUDS/DeepTutor/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/DeepTutor?style=flat-square&color=blue)](https://github.com/HKUDS/DeepTutor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
-> "DeepTutor: Agent-Native Personalized Learning Assistant"
+> DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.6k |
-| 🍴 **Forks** | 3.1k |
+| ⭐ **Stars** | 25.2k |
+| 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 89/100 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Knowledge/RAG · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-HKUDS/DeepTutor: HKUDS/DeepTutor helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+HKUDS/DeepTutor: HKUDS/DeepTutor helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-HKUDS/DeepTutor: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+HKUDS/DeepTutor: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-HKUDS/DeepTutor：HKUDS/DeepTutor helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+HKUDS/DeepTutor：HKUDS/DeepTutor helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ HKUDS/DeepTutor：HKUDS/DeepTutor helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 23555 GitHub stars
-- 3125 forks
-- updated 2026-05-07
+- 25186 GitHub stars
+- 3439 forks
+- updated 2026-07-04
 - primary language: Python
 - 9 topics
 
@@ -66,17 +66,17 @@ HKUDS/DeepTutor：HKUDS/DeepTutor helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 81/100 |
+| quality | 96/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 77/100 |
-| adoption | 91/100 |
-| stars | 93/100 |
-| forks | 87/100 |
-| recency | 40/100 |
+| production | 85/100 |
+| outlook | 98/100 |
+| adoption | 92/100 |
+| stars | 94/100 |
+| forks | 88/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/HKUDS/DeepTutor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/HKUDS/DeepTutor) · [← Back to Orchestration](./README.md)</sub>

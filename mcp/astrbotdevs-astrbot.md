@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ AstrBotDevs/AstrBot：AstrBotDevs/AstrBot helps connect AI assistants to real to
 
 **Quality signals**
 
-- 35772 GitHub stars
-- 2468 forks
-- updated 2026-07-03
+- 35796 GitHub stars
+- 2472 forks
+- updated 2026-07-04
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ AstrBotDevs/AstrBot：AstrBotDevs/AstrBot helps connect AI assistants to real to
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/AstrBotDevs/AstrBot) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/AstrBotDevs/AstrBot) · [← Back to Mcp](./README.md)</sub>
