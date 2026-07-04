@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **15569** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 12 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
-| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 4752 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2829 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1425 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1281 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 853 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 790 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 664 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 558 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 521 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 349 | [Browse →](./knowledgerag/) |
+| 📊 **Data** | 326 | [Browse →](./data/) |
+| 🏷️ **Database** | 255 | [Browse →](./database/) |
+| 💳 **Payments** | 206 | [Browse →](./payments/) |
+| 📱 **Mobile** | 185 | [Browse →](./mobile/) |
+| 📈 **Trading** | 184 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 113 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 96 | [Browse →](./security/) |
+| 🏷️ **Education** | 46 | [Browse →](./education/) |
+| ✨ **Design** | 44 | [Browse →](./design/) |
+| 🏷️ **Observability** | 44 | [Browse →](./observability/) |
+| 🎯 **Product** | 26 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.1k | Mcp |
-| 2 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16k | Mcp |
-| 3 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.9k | Orchestration |
-| 4 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 5 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 58.5k | Automation |
-| 6 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 74.9k | Orchestration |
-| 7 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.1k | Orchestration |
-| 8 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 62.9k | Orchestration |
-| 9 | [ccxt/ccxt](./crypto/ccxt-ccxt.md) | ⭐ 43.2k | Crypto |
-| 10 | [HKUDS/nanobot](./automation/hkuds-nanobot.md) | ⭐ 45k | Automation |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
 
 ## 🚀 How it works
 
