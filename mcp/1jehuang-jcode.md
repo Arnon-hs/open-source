@@ -53,7 +53,7 @@ MCP · AI/ML · Frontend · DevTools
 
 **Quality signals**
 
-- 8130 GitHub stars
+- 8131 GitHub stars
 - 912 forks
 - updated 2026-07-04
 - primary language: Rust

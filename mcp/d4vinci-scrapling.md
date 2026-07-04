@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 67.1k |
-| 🍴 **Forks** | 6.6k |
+| ⭐ **Stars** | 68k |
+| 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ D4Vinci/Scrapling：D4Vinci/Scrapling helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 67134 GitHub stars
-- 6631 forks
-- updated 2026-06-29
+- 68050 GitHub stars
+- 6733 forks
+- updated 2026-07-04
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ D4Vinci/Scrapling：D4Vinci/Scrapling helps connect AI assistants to real tools 
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/D4Vinci/Scrapling) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/D4Vinci/Scrapling) · [← Back to Mcp](./README.md)</sub>
