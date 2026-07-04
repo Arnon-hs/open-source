@@ -113,8 +113,8 @@
 | 103 | [jellyfin/jellyfin](./jellyfin-jellyfin.md) | ⭐ 51.6k | C# | 73/100 |
 | 104 | [damienbod/AspNetCoreOpenIddict](./damienbod-aspnetcoreopeniddict.md) | ⭐ 389 | C# | 73/100 |
 | 105 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 73/100 |
-| 106 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 73/100 |
-| 107 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 73/100 |
+| 106 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 73/100 |
+| 107 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 73/100 |
 | 108 | [lingrino/vaku](./lingrino-vaku.md) | ⭐ 159 | Go | 73/100 |
 | 109 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 736 | Go | 73/100 |
 | 110 | [open-telemetry/opentelemetry-cpp](./open-telemetry-opentelemetry-cpp.md) | ⭐ 1.3k | C++ | 73/100 |
@@ -418,8 +418,8 @@
 | 408 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 440 | Rust | 60/100 |
 | 409 | [Brooooooklyn/simple-git](./brooooooklyn-simple-git.md) | ⭐ 183 | Rust | 60/100 |
 | 410 | [clojure-lsp/clojure-lsp](./clojure-lsp-clojure-lsp.md) | ⭐ 1.3k | Clojure | 60/100 |
-| 411 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
-| 412 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
+| 411 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
+| 412 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
 | 413 | [cokemine/nodestatus](./cokemine-nodestatus.md) | ⭐ 359 | TypeScript | 60/100 |
 | 414 | [ayaka-notes/overleaf-pro](./ayaka-notes-overleaf-pro.md) | ⭐ 412 | JavaScript | 60/100 |
 | 415 | [h2o/h2o](./h2o-h2o.md) | ⭐ 11.5k | C | 60/100 |
