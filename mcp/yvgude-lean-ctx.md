@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 287 |
+| ⭐ **Stars** | 3.1k |
+| 🍴 **Forks** | 292 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ yvgude/lean-ctx：yvgude/lean-ctx helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 2992 GitHub stars
-- 287 forks
-- updated 2026-06-28
+- 3082 GitHub stars
+- 292 forks
+- updated 2026-07-04
 - primary language: Rust
 - 19 topics
 
@@ -70,13 +70,13 @@ yvgude/lean-ctx：yvgude/lean-ctx helps connect AI assistants to real tools and 
 | integration | 62/100 |
 | production | 81/100 |
 | outlook | 93/100 |
-| adoption | 70/100 |
+| adoption | 71/100 |
 | stars | 74/100 |
-| forks | 61/100 |
+| forks | 62/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/yvgude/lean-ctx) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/yvgude/lean-ctx) · [← Back to Mcp](./README.md)</sub>
