@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ appsmithorg/appsmith：appsmithorg/appsmith helps remove repetitive manual opera
 
 **Quality signals**
 
-- 40226 GitHub stars
-- 4630 forks
-- updated 2026-07-03
+- 40239 GitHub stars
+- 4633 forks
+- updated 2026-07-04
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ appsmithorg/appsmith：appsmithorg/appsmith helps remove repetitive manual opera
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/appsmithorg/appsmith) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/appsmithorg/appsmith) · [← Back to Automation](./README.md)</sub>

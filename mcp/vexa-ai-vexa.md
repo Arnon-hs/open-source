@@ -53,7 +53,7 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 2255 GitHub stars
+- 2256 GitHub stars
 - 345 forks
 - updated 2026-07-04
 - primary language: TypeScript
