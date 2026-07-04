@@ -53,8 +53,8 @@ open-metadata/OpenMetadata：open-metadata/OpenMetadata helps connect AI assista
 
 **Quality signals**
 
-- 14379 GitHub stars
-- 2203 forks
+- 14384 GitHub stars
+- 2205 forks
 - updated 2026-07-04
 - primary language: TypeScript
 - 20 topics
