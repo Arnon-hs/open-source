@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 765 |
+| ⭐ **Stars** | 766 |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
@@ -53,7 +53,7 @@ agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry 
 
 **Quality signals**
 
-- 765 GitHub stars
+- 766 GitHub stars
 - 201 forks
 - updated 2026-07-04
 - primary language: Python

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.8k |
+| ⭐ **Stars** | 13k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 🗓️ **Last push** | 2026-07-04 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 
 **Quality signals**
 
-- 12824 GitHub stars
-- 1171 forks
-- updated 2026-06-30
+- 12980 GitHub stars
+- 1176 forks
+- updated 2026-07-04
 - primary language: Python
 - 20 topics
 
@@ -70,8 +70,8 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 | integration | 62/100 |
 | production | 83/100 |
 | outlook | 96/100 |
-| adoption | 84/100 |
-| stars | 87/100 |
+| adoption | 85/100 |
+| stars | 88/100 |
 | forks | 77/100 |
 | recency | 100/100 |
 | topics | 100/100 |
@@ -79,4 +79,4 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 
 ---
 
-<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · [← Back to Mcp](./README.md)</sub>

@@ -53,7 +53,7 @@ gptme/gptme：gptme/gptme helps make internal knowledge searchable and usable by
 
 **Quality signals**
 
-- 4352 GitHub stars
+- 4351 GitHub stars
 - 395 forks
 - updated 2026-07-04
 - primary language: Python

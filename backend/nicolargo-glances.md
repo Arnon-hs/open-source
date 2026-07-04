@@ -53,7 +53,7 @@ nicolargo/glances：nicolargo/glances helps teams reuse service infrastructure i
 
 **Quality signals**
 
-- 33037 GitHub stars
+- 33039 GitHub stars
 - 1763 forks
 - updated 2026-07-04
 - primary language: Python
