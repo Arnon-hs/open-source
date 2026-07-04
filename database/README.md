@@ -2,7 +2,7 @@
 
 > 
 
-**253 projects** in this category.
+**254 projects** in this category.
 
 ## Projects
 
@@ -140,8 +140,8 @@
 | 130 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 131 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 132 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 133 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
-| 134 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 133 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 134 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
 | 135 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 136 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 137 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -227,40 +227,41 @@
 | 217 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 218 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 219 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 220 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 221 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 222 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 223 | [SunrisesIllNeverSee/sigrank-app](./sunrisesillneversee-sigrank-app.md) | ⭐ — | — | 41/100 |
-| 224 | [ftaisdeal/cross-platform-slideshow](./ftaisdeal-cross-platform-slideshow.md) | ⭐ — | — | 41/100 |
-| 225 | [Blackcat-Informatics/purrdf](./blackcat-informatics-purrdf.md) | ⭐ — | — | 41/100 |
-| 226 | [Agrineuro/sentinel](./agrineuro-sentinel.md) | ⭐ — | — | 41/100 |
-| 227 | [Chocobozzz/PeerTube](./chocobozzz-peertube.md) | ⭐ — | — | 41/100 |
-| 228 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 41/100 |
-| 229 | [CoderScreen/coderscreen](./coderscreen-coderscreen.md) | ⭐ — | — | 41/100 |
-| 230 | [thedevilhimselfcodes/CertAlloc](./thedevilhimselfcodes-certalloc.md) | ⭐ — | — | 41/100 |
-| 231 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 41/100 |
-| 232 | [cloudcell/om-core](./cloudcell-om-core.md) | ⭐ — | — | 41/100 |
-| 233 | [henryrobbins/open-atp](./henryrobbins-open-atp.md) | ⭐ — | — | 41/100 |
-| 234 | [leandromoreira/linux-network-performance-parameters](./leandromoreira-linux-network-performance-parameters.md) | ⭐ — | — | 41/100 |
-| 235 | [raphaelrrcoelho/formal-mathfin](./raphaelrrcoelho-formal-mathfin.md) | ⭐ — | — | 41/100 |
-| 236 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 41/100 |
-| 237 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
-| 238 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
-| 239 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |
-| 240 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 41/100 |
-| 241 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 41/100 |
-| 242 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
-| 243 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |
-| 244 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 41/100 |
-| 245 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
-| 246 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
-| 247 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
-| 248 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
-| 249 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
-| 250 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
-| 251 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
-| 252 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
-| 253 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
+| 220 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 221 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 222 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 223 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 41/100 |
+| 224 | [SunrisesIllNeverSee/sigrank-app](./sunrisesillneversee-sigrank-app.md) | ⭐ — | — | 41/100 |
+| 225 | [ftaisdeal/cross-platform-slideshow](./ftaisdeal-cross-platform-slideshow.md) | ⭐ — | — | 41/100 |
+| 226 | [Blackcat-Informatics/purrdf](./blackcat-informatics-purrdf.md) | ⭐ — | — | 41/100 |
+| 227 | [Agrineuro/sentinel](./agrineuro-sentinel.md) | ⭐ — | — | 41/100 |
+| 228 | [Chocobozzz/PeerTube](./chocobozzz-peertube.md) | ⭐ — | — | 41/100 |
+| 229 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 41/100 |
+| 230 | [CoderScreen/coderscreen](./coderscreen-coderscreen.md) | ⭐ — | — | 41/100 |
+| 231 | [thedevilhimselfcodes/CertAlloc](./thedevilhimselfcodes-certalloc.md) | ⭐ — | — | 41/100 |
+| 232 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 41/100 |
+| 233 | [cloudcell/om-core](./cloudcell-om-core.md) | ⭐ — | — | 41/100 |
+| 234 | [henryrobbins/open-atp](./henryrobbins-open-atp.md) | ⭐ — | — | 41/100 |
+| 235 | [leandromoreira/linux-network-performance-parameters](./leandromoreira-linux-network-performance-parameters.md) | ⭐ — | — | 41/100 |
+| 236 | [raphaelrrcoelho/formal-mathfin](./raphaelrrcoelho-formal-mathfin.md) | ⭐ — | — | 41/100 |
+| 237 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 41/100 |
+| 238 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
+| 239 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
+| 240 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |
+| 241 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 41/100 |
+| 242 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 41/100 |
+| 243 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
+| 244 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |
+| 245 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 41/100 |
+| 246 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
+| 247 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
+| 248 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
+| 249 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
+| 250 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
+| 251 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
+| 252 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
+| 253 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
+| 254 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
 
 ---
 
