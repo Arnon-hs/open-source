@@ -227,9 +227,9 @@
 | 217 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 218 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 219 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 220 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 221 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 222 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 220 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 221 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 222 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 223 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 41/100 |
 | 224 | [SunrisesIllNeverSee/sigrank-app](./sunrisesillneversee-sigrank-app.md) | ⭐ — | — | 41/100 |
 | 225 | [ftaisdeal/cross-platform-slideshow](./ftaisdeal-cross-platform-slideshow.md) | ⭐ — | — | 41/100 |

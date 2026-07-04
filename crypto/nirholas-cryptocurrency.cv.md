@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 251 |
+| ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-06-22 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ nirholas/cryptocurrency.cv：nirholas/cryptocurrency.cv helps prototype or inspe
 
 **Quality signals**
 
-- 251 GitHub stars
+- 242 GitHub stars
 - 35 forks
-- updated 2026-07-04
+- updated 2026-06-22
 - primary language: TypeScript
 - 20 topics
 
@@ -65,18 +65,18 @@ nirholas/cryptocurrency.cv：nirholas/cryptocurrency.cv helps prototype or inspe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 100/100 |
-| production | 83/100 |
-| outlook | 87/100 |
-| adoption | 48/100 |
-| stars | 51/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 87/100 |
+| quality | 76/100 |
+| recency | 100/100 |
+| adoption | 47/100 |
+| production | 83/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/nirholas/cryptocurrency.cv) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/nirholas/cryptocurrency.cv) · [← Back to Crypto](./README.md)</sub>

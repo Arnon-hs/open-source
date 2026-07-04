@@ -1,6 +1,6 @@
 # HKUDS/Vibe-Trading
 
-[![Stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&color=yellow)](https://github.com/HKUDS/Vibe-Trading/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/Vibe-Trading?style=flat-square&color=blue)](https://github.com/HKUDS/Vibe-Trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&color=yellow)](https://github.com/HKUDS/Vibe-Trading/stargazers) [![Forks](https://img.shields.io/github/forks/HKUDS/Vibe-Trading?style=flat-square&color=blue)](https://github.com/HKUDS/Vibe-Trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > "Vibe-Trading: Your Personal Trading Agent"
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.7k |
-| 🍴 **Forks** | 2.9k |
+| ⭐ **Stars** | 5.6k |
+| 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Trading · Orchestration · MCP · AI/ML · DevTools
+Trading · Orchestration · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-HKUDS/Vibe-Trading: HKUDS/Vibe-Trading helps research and automate market workflows.. Use it for research trading systems; backtest strategies. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+HKUDS/Vibe‑Trading is an open‑source, AI‑powered personal trading agent that automates strategy execution, risk management, and order orchestration across multiple markets. By integrating machine‑learning models with a modular orchestration framework, it enables users to design, test, and deploy custom trading algorithms with real‑time monitoring and adaptive decision‑making. The project targets developers and quantitative traders who want a flexible, extensible platform for building intelligent, automated trading solutions.
 
 ### Русский
 
-HKUDS/Vibe-Trading: open-source проект в категориях Trading, Orchestration, MCP, AI/ML, DevTools. Практическое применение: research trading systems; backtest strategies. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+HKUDS/Vibe‑Trading — это открытая платформа, превращающая ваш компьютер в персонального торгового агента: с помощью встроенных AI/ML‑моделей система анализирует рыночные данные, генерирует сигналы и автоматически исполняет сделки. Интегрированный оркестратор упрощает настройку стратегий, управление рисками и подключение к различным брокерским API, делая процесс торговли гибким и масштабируемым. Проект ориентирован как на опытных трейдеров, так и на новичков, желающих автоматизировать свои инвестиционные решения.
 
 ### 中文
 
-HKUDS/Vibe-Trading：HKUDS/Vibe-Trading helps research and automate market workflows.。适合用于research trading systems、backtest strategies。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+HKUDS/Vibe-Trading：HKUDS/Vibe-Trading helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ HKUDS/Vibe-Trading：HKUDS/Vibe-Trading helps research and automate market workf
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 17708 GitHub stars
-- 2921 forks
-- updated 2026-07-04
+- 5597 GitHub stars
+- 1139 forks
+- updated 2026-05-08
 - primary language: Python
 - 10 topics
 
@@ -66,17 +66,17 @@ HKUDS/Vibe-Trading：HKUDS/Vibe-Trading helps research and automate market workf
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 95/100 |
+| quality | 75/100 |
 | integration | 78/100 |
-| production | 86/100 |
-| outlook | 92/100 |
-| adoption | 89/100 |
-| stars | 90/100 |
-| forks | 87/100 |
-| recency | 100/100 |
+| production | 65/100 |
+| outlook | 69/100 |
+| adoption | 79/100 |
+| stars | 80/100 |
+| forks | 76/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/HKUDS/Vibe-Trading) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/HKUDS/Vibe-Trading) · [← Back to Trading](./README.md)</sub>
