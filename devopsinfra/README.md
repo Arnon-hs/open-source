@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**112 projects** in this category.
+**113 projects** in this category.
 
 ## Projects
 
@@ -114,12 +114,13 @@
 | 104 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 47/100 |
 | 105 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 47/100 |
 | 106 | [bytestrix/InfraCanvas](./bytestrix-infracanvas.md) | ⭐ — | — | 47/100 |
-| 107 | [documentdb/documentdb-kubernetes-operator](./documentdb-documentdb-kubernetes-operator.md) | ⭐ — | — | 44/100 |
-| 108 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 44/100 |
-| 109 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 44/100 |
-| 110 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
-| 111 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
-| 112 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
+| 107 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 44/100 |
+| 108 | [documentdb/documentdb-kubernetes-operator](./documentdb-documentdb-kubernetes-operator.md) | ⭐ — | — | 44/100 |
+| 109 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 44/100 |
+| 110 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 44/100 |
+| 111 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
+| 112 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
+| 113 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
 
 ---
 
