@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**806 projects** in this category.
+**807 projects** in this category.
 
 ## Projects
 
@@ -202,8 +202,8 @@
 | 192 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 562 | Makefile | 68/100 |
 | 193 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 68/100 |
 | 194 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 68/100 |
-| 195 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
-| 196 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
+| 195 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
+| 196 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
 | 197 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 198 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 199 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -582,8 +582,8 @@
 | 572 | [0x61nas/aarty](./0x61nas-aarty.md) | ⭐ 84 | Rust | 58/100 |
 | 573 | [kloudkit/ws-meta](./kloudkit-ws-meta.md) | ⭐ 149 | Shell | 58/100 |
 | 574 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 575 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
-| 576 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 575 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 576 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
 | 577 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 578 | [codemod/codemod](./codemod-codemod.md) | ⭐ 993 | Rust | 58/100 |
 | 579 | [d-kimuson/claude-code-viewer](./d-kimuson-claude-code-viewer.md) | ⭐ 1.2k | TypeScript | 58/100 |
@@ -764,56 +764,57 @@
 | 754 | [steipete/RepoBar](./steipete-repobar.md) | ⭐ 1.9k | Swift | 48/100 |
 | 755 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 48/100 |
 | 756 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 356 | — | 48/100 |
-| 757 | [ClickHouse/pg_stat_ch](./clickhouse-pg-stat-ch.md) | ⭐ — | — | 48/100 |
-| 758 | [dbcli/mycli](./dbcli-mycli.md) | ⭐ — | — | 48/100 |
-| 759 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 48/100 |
-| 760 | [getplumber/plumber](./getplumber-plumber.md) | ⭐ — | — | 48/100 |
-| 761 | [foxtrotdev/codex-butler-bell](./foxtrotdev-codex-butler-bell.md) | ⭐ — | — | 48/100 |
-| 762 | [cgallic/video-review-os](./cgallic-video-review-os.md) | ⭐ — | — | 48/100 |
-| 763 | [olzhasar/mess](./olzhasar-mess.md) | ⭐ — | — | 48/100 |
-| 764 | [ClickHouse/RayTracer](./clickhouse-raytracer.md) | ⭐ — | — | 48/100 |
-| 765 | [gelkao/cloud-inefficiency-audit](./gelkao-cloud-inefficiency-audit.md) | ⭐ — | — | 48/100 |
-| 766 | [Tophatguard/KRSH](./tophatguard-krsh.md) | ⭐ — | — | 48/100 |
-| 767 | [linux-nvme/nvme-cli](./linux-nvme-nvme-cli.md) | ⭐ — | — | 48/100 |
-| 768 | [Humblemonk/shurectl](./humblemonk-shurectl.md) | ⭐ — | — | 48/100 |
-| 769 | [maxbolgarin/unread](./maxbolgarin-unread.md) | ⭐ — | — | 48/100 |
-| 770 | [3kh0/slick](./3kh0-slick.md) | ⭐ — | — | 48/100 |
-| 771 | [mdourmouch/aws-cloudshell-cli](./mdourmouch-aws-cloudshell-cli.md) | ⭐ — | — | 48/100 |
-| 772 | [sachahjkl/jav](./sachahjkl-jav.md) | ⭐ — | — | 48/100 |
-| 773 | [bergholt/triptych](./bergholt-triptych.md) | ⭐ — | — | 48/100 |
-| 774 | [madhugb/FixMyNPM](./madhugb-fixmynpm.md) | ⭐ — | — | 48/100 |
-| 775 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 48/100 |
-| 776 | [frednora/gramado](./frednora-gramado.md) | ⭐ 650 | C | 47/100 |
-| 777 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 47/100 |
-| 778 | [petdance/altbox](./petdance-altbox.md) | ⭐ 52 | Astro | 46/100 |
-| 779 | [omegaup/omegaup](./omegaup-omegaup.md) | ⭐ 343 | PHP | 45/100 |
-| 780 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 45/100 |
-| 781 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 45/100 |
-| 782 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 45/100 |
-| 783 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 45/100 |
-| 784 | [oxc-project/oxc-css-parser](./oxc-project-oxc-css-parser.md) | ⭐ — | — | 45/100 |
-| 785 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 45/100 |
-| 786 | [usetraces/traces](./usetraces-traces.md) | ⭐ — | — | 45/100 |
-| 787 | [mhmmuneef/PenTest-Toolkit-V2](./mhmmuneef-pentest-toolkit-v2.md) | ⭐ — | — | 45/100 |
-| 788 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
-| 789 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 44/100 |
-| 790 | [vanshitahujaa/archaeo](./vanshitahujaa-archaeo.md) | ⭐ — | — | 42/100 |
-| 791 | [bharadwaj-pendyala/papa](./bharadwaj-pendyala-papa.md) | ⭐ — | — | 41/100 |
-| 792 | [pyjeebz/prescale](./pyjeebz-prescale.md) | ⭐ — | — | 41/100 |
-| 793 | [NaiaLorente/data-analyst](./naialorente-data-analyst.md) | ⭐ — | — | 41/100 |
-| 794 | [mooman219/fontdue](./mooman219-fontdue.md) | ⭐ — | — | 41/100 |
-| 795 | [ripienaar/free-for-dev](./ripienaar-free-for-dev.md) | ⭐ — | — | 41/100 |
-| 796 | [AnthonyBeeblebrox/pybench](./anthonybeeblebrox-pybench.md) | ⭐ — | — | 41/100 |
-| 797 | [rsub122/tabsmith-lint](./rsub122-tabsmith-lint.md) | ⭐ — | — | 41/100 |
-| 798 | [asatarin/testing-distributed-systems](./asatarin-testing-distributed-systems.md) | ⭐ — | — | 41/100 |
-| 799 | [akiomik/mado](./akiomik-mado.md) | ⭐ — | — | 41/100 |
-| 800 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
-| 801 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
-| 802 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
-| 803 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
-| 804 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 39/100 |
-| 805 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
-| 806 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 31/100 |
+| 757 | [s-bose/arrest](./s-bose-arrest.md) | ⭐ — | — | 48/100 |
+| 758 | [ClickHouse/pg_stat_ch](./clickhouse-pg-stat-ch.md) | ⭐ — | — | 48/100 |
+| 759 | [dbcli/mycli](./dbcli-mycli.md) | ⭐ — | — | 48/100 |
+| 760 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 48/100 |
+| 761 | [getplumber/plumber](./getplumber-plumber.md) | ⭐ — | — | 48/100 |
+| 762 | [foxtrotdev/codex-butler-bell](./foxtrotdev-codex-butler-bell.md) | ⭐ — | — | 48/100 |
+| 763 | [cgallic/video-review-os](./cgallic-video-review-os.md) | ⭐ — | — | 48/100 |
+| 764 | [olzhasar/mess](./olzhasar-mess.md) | ⭐ — | — | 48/100 |
+| 765 | [ClickHouse/RayTracer](./clickhouse-raytracer.md) | ⭐ — | — | 48/100 |
+| 766 | [gelkao/cloud-inefficiency-audit](./gelkao-cloud-inefficiency-audit.md) | ⭐ — | — | 48/100 |
+| 767 | [Tophatguard/KRSH](./tophatguard-krsh.md) | ⭐ — | — | 48/100 |
+| 768 | [linux-nvme/nvme-cli](./linux-nvme-nvme-cli.md) | ⭐ — | — | 48/100 |
+| 769 | [Humblemonk/shurectl](./humblemonk-shurectl.md) | ⭐ — | — | 48/100 |
+| 770 | [maxbolgarin/unread](./maxbolgarin-unread.md) | ⭐ — | — | 48/100 |
+| 771 | [3kh0/slick](./3kh0-slick.md) | ⭐ — | — | 48/100 |
+| 772 | [mdourmouch/aws-cloudshell-cli](./mdourmouch-aws-cloudshell-cli.md) | ⭐ — | — | 48/100 |
+| 773 | [sachahjkl/jav](./sachahjkl-jav.md) | ⭐ — | — | 48/100 |
+| 774 | [bergholt/triptych](./bergholt-triptych.md) | ⭐ — | — | 48/100 |
+| 775 | [madhugb/FixMyNPM](./madhugb-fixmynpm.md) | ⭐ — | — | 48/100 |
+| 776 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 48/100 |
+| 777 | [frednora/gramado](./frednora-gramado.md) | ⭐ 650 | C | 47/100 |
+| 778 | [diodeinc/pcb](./diodeinc-pcb.md) | ⭐ 229 | Rust | 47/100 |
+| 779 | [petdance/altbox](./petdance-altbox.md) | ⭐ 52 | Astro | 46/100 |
+| 780 | [omegaup/omegaup](./omegaup-omegaup.md) | ⭐ 343 | PHP | 45/100 |
+| 781 | [rust-lang/portable-simd](./rust-lang-portable-simd.md) | ⭐ 1k | Rust | 45/100 |
+| 782 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 45/100 |
+| 783 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 45/100 |
+| 784 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 45/100 |
+| 785 | [oxc-project/oxc-css-parser](./oxc-project-oxc-css-parser.md) | ⭐ — | — | 45/100 |
+| 786 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 45/100 |
+| 787 | [usetraces/traces](./usetraces-traces.md) | ⭐ — | — | 45/100 |
+| 788 | [mhmmuneef/PenTest-Toolkit-V2](./mhmmuneef-pentest-toolkit-v2.md) | ⭐ — | — | 45/100 |
+| 789 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
+| 790 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 44/100 |
+| 791 | [vanshitahujaa/archaeo](./vanshitahujaa-archaeo.md) | ⭐ — | — | 42/100 |
+| 792 | [bharadwaj-pendyala/papa](./bharadwaj-pendyala-papa.md) | ⭐ — | — | 41/100 |
+| 793 | [pyjeebz/prescale](./pyjeebz-prescale.md) | ⭐ — | — | 41/100 |
+| 794 | [NaiaLorente/data-analyst](./naialorente-data-analyst.md) | ⭐ — | — | 41/100 |
+| 795 | [mooman219/fontdue](./mooman219-fontdue.md) | ⭐ — | — | 41/100 |
+| 796 | [ripienaar/free-for-dev](./ripienaar-free-for-dev.md) | ⭐ — | — | 41/100 |
+| 797 | [AnthonyBeeblebrox/pybench](./anthonybeeblebrox-pybench.md) | ⭐ — | — | 41/100 |
+| 798 | [rsub122/tabsmith-lint](./rsub122-tabsmith-lint.md) | ⭐ — | — | 41/100 |
+| 799 | [asatarin/testing-distributed-systems](./asatarin-testing-distributed-systems.md) | ⭐ — | — | 41/100 |
+| 800 | [akiomik/mado](./akiomik-mado.md) | ⭐ — | — | 41/100 |
+| 801 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
+| 802 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
+| 803 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
+| 804 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
+| 805 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 39/100 |
+| 806 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
+| 807 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 31/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 
 
-**357 projects** in this category.
+**358 projects** in this category.
 
 ## Projects
 
@@ -305,66 +305,67 @@
 | 295 | [ChuckHend/pg_vectorize](./chuckhend-pg-vectorize.md) | ⭐ 831 | Rust | 60/100 |
 | 296 | [crawlchat/crawlchat](./crawlchat-crawlchat.md) | ⭐ 119 | TypeScript | 60/100 |
 | 297 | [ferranpons/Llamatik](./ferranpons-llamatik.md) | ⭐ 116 | HTML | 60/100 |
-| 298 | [nmeylan/rust-ro](./nmeylan-rust-ro.md) | ⭐ 182 | Rust | 59/100 |
-| 299 | [ibrahimqureshae/mdflux](./ibrahimqureshae-mdflux.md) | ⭐ 128 | Svelte | 59/100 |
-| 300 | [john-rocky/coreai-model-zoo](./john-rocky-coreai-model-zoo.md) | ⭐ 189 | Swift | 59/100 |
-| 301 | [spupuz/VibeNVR](./spupuz-vibenvr.md) | ⭐ 205 | JavaScript | 59/100 |
-| 302 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 59/100 |
-| 303 | [ad-freiburg/qlever](./ad-freiburg-qlever.md) | ⭐ 857 | C++ | 58/100 |
-| 304 | [bragefuglseth/fretboard](./bragefuglseth-fretboard.md) | ⭐ 104 | Rust | 58/100 |
-| 305 | [rryam/VecturaKit](./rryam-vecturakit.md) | ⭐ 307 | Swift | 58/100 |
-| 306 | [crownleo/ClaudeViewer](./crownleo-claudeviewer.md) | ⭐ 93 | HTML | 58/100 |
-| 307 | [CESNET/UltraGrid](./cesnet-ultragrid.md) | ⭐ 597 | C | 58/100 |
-| 308 | [trailofbits/mquire](./trailofbits-mquire.md) | ⭐ 162 | Rust | 58/100 |
-| 309 | [AllenDang/wxDragon](./allendang-wxdragon.md) | ⭐ 194 | Rust | 58/100 |
-| 310 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1k | Rust | 58/100 |
-| 311 | [MantisAI/sieves](./mantisai-sieves.md) | ⭐ 125 | Python | 58/100 |
-| 312 | [RagnarGrootKoerkamp/sassy](./ragnargrootkoerkamp-sassy.md) | ⭐ 154 | Rust | 57/100 |
-| 313 | [novitalabs/pegaflow](./novitalabs-pegaflow.md) | ⭐ 154 | Rust | 57/100 |
-| 314 | [bragefuglseth/keypunch](./bragefuglseth-keypunch.md) | ⭐ 275 | Rust | 57/100 |
-| 315 | [RainyGao-GitHub/DocSys](./rainygao-github-docsys.md) | ⭐ 358 | JavaScript | 57/100 |
-| 316 | [xoai/sage-wiki](./xoai-sage-wiki.md) | ⭐ 544 | Go | 57/100 |
-| 317 | [rryam/LumoKit](./rryam-lumokit.md) | ⭐ 125 | Swift | 56/100 |
-| 318 | [antoniolupetti/algebrica](./antoniolupetti-algebrica.md) | ⭐ 836 | — | 56/100 |
-| 319 | [agamm/semantic-split](./agamm-semantic-split.md) | ⭐ 106 | Python | 56/100 |
-| 320 | [Kindness-Kismet/Storage-redirection-X-Public](./kindness-kismet-storage-redirection-x-public.md) | ⭐ 422 | Rust | 56/100 |
-| 321 | [parsehawk/parsehawk](./parsehawk-parsehawk.md) | ⭐ — | — | 56/100 |
-| 322 | [therealarthur/myrlin-workbook](./therealarthur-myrlin-workbook.md) | ⭐ 337 | JavaScript | 56/100 |
-| 323 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 261 | Rust | 56/100 |
-| 324 | [tiylabs/tiygate](./tiylabs-tiygate.md) | ⭐ 112 | Rust | 55/100 |
-| 325 | [pieterdd/RcloneShuttle](./pieterdd-rcloneshuttle.md) | ⭐ 151 | Rust | 55/100 |
-| 326 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 22 | TypeScript | 55/100 |
-| 327 | [this-rs/project-orchestrator](./this-rs-project-orchestrator.md) | ⭐ 124 | Rust | 54/100 |
-| 328 | [PageDen/pageden](./pageden-pageden.md) | ⭐ 36 | TypeScript | 54/100 |
-| 329 | [bitmask-stack/carbonado](./bitmask-stack-carbonado.md) | ⭐ 117 | Rust | 54/100 |
-| 330 | [uutils/platform-info](./uutils-platform-info.md) | ⭐ 130 | Rust | 53/100 |
-| 331 | [rafal-qa/slopo](./rafal-qa-slopo.md) | ⭐ — | — | 52/100 |
-| 332 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
-| 333 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
-| 334 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
-| 335 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
-| 336 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 337 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
-| 338 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
-| 339 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
-| 340 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
-| 341 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 342 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
-| 343 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 344 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
-| 345 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
-| 346 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
-| 347 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
-| 348 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
-| 349 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
-| 350 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
-| 351 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
-| 352 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
-| 353 | [williamliu-ai/fidx](./williamliu-ai-fidx.md) | ⭐ — | — | 41/100 |
-| 354 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 41/100 |
-| 355 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
-| 356 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
-| 357 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
+| 298 | [abyo-software/s4](./abyo-software-s4.md) | ⭐ 145 | Rust | 59/100 |
+| 299 | [nmeylan/rust-ro](./nmeylan-rust-ro.md) | ⭐ 182 | Rust | 59/100 |
+| 300 | [ibrahimqureshae/mdflux](./ibrahimqureshae-mdflux.md) | ⭐ 128 | Svelte | 59/100 |
+| 301 | [john-rocky/coreai-model-zoo](./john-rocky-coreai-model-zoo.md) | ⭐ 189 | Swift | 59/100 |
+| 302 | [spupuz/VibeNVR](./spupuz-vibenvr.md) | ⭐ 205 | JavaScript | 59/100 |
+| 303 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 59/100 |
+| 304 | [ad-freiburg/qlever](./ad-freiburg-qlever.md) | ⭐ 857 | C++ | 58/100 |
+| 305 | [bragefuglseth/fretboard](./bragefuglseth-fretboard.md) | ⭐ 104 | Rust | 58/100 |
+| 306 | [rryam/VecturaKit](./rryam-vecturakit.md) | ⭐ 307 | Swift | 58/100 |
+| 307 | [crownleo/ClaudeViewer](./crownleo-claudeviewer.md) | ⭐ 93 | HTML | 58/100 |
+| 308 | [CESNET/UltraGrid](./cesnet-ultragrid.md) | ⭐ 597 | C | 58/100 |
+| 309 | [trailofbits/mquire](./trailofbits-mquire.md) | ⭐ 162 | Rust | 58/100 |
+| 310 | [AllenDang/wxDragon](./allendang-wxdragon.md) | ⭐ 194 | Rust | 58/100 |
+| 311 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1k | Rust | 58/100 |
+| 312 | [MantisAI/sieves](./mantisai-sieves.md) | ⭐ 125 | Python | 58/100 |
+| 313 | [RagnarGrootKoerkamp/sassy](./ragnargrootkoerkamp-sassy.md) | ⭐ 154 | Rust | 57/100 |
+| 314 | [novitalabs/pegaflow](./novitalabs-pegaflow.md) | ⭐ 154 | Rust | 57/100 |
+| 315 | [bragefuglseth/keypunch](./bragefuglseth-keypunch.md) | ⭐ 275 | Rust | 57/100 |
+| 316 | [RainyGao-GitHub/DocSys](./rainygao-github-docsys.md) | ⭐ 358 | JavaScript | 57/100 |
+| 317 | [xoai/sage-wiki](./xoai-sage-wiki.md) | ⭐ 544 | Go | 57/100 |
+| 318 | [rryam/LumoKit](./rryam-lumokit.md) | ⭐ 125 | Swift | 56/100 |
+| 319 | [antoniolupetti/algebrica](./antoniolupetti-algebrica.md) | ⭐ 836 | — | 56/100 |
+| 320 | [agamm/semantic-split](./agamm-semantic-split.md) | ⭐ 106 | Python | 56/100 |
+| 321 | [Kindness-Kismet/Storage-redirection-X-Public](./kindness-kismet-storage-redirection-x-public.md) | ⭐ 422 | Rust | 56/100 |
+| 322 | [parsehawk/parsehawk](./parsehawk-parsehawk.md) | ⭐ — | — | 56/100 |
+| 323 | [therealarthur/myrlin-workbook](./therealarthur-myrlin-workbook.md) | ⭐ 337 | JavaScript | 56/100 |
+| 324 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 261 | Rust | 56/100 |
+| 325 | [tiylabs/tiygate](./tiylabs-tiygate.md) | ⭐ 112 | Rust | 55/100 |
+| 326 | [pieterdd/RcloneShuttle](./pieterdd-rcloneshuttle.md) | ⭐ 151 | Rust | 55/100 |
+| 327 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 22 | TypeScript | 55/100 |
+| 328 | [this-rs/project-orchestrator](./this-rs-project-orchestrator.md) | ⭐ 124 | Rust | 54/100 |
+| 329 | [PageDen/pageden](./pageden-pageden.md) | ⭐ 36 | TypeScript | 54/100 |
+| 330 | [bitmask-stack/carbonado](./bitmask-stack-carbonado.md) | ⭐ 117 | Rust | 54/100 |
+| 331 | [uutils/platform-info](./uutils-platform-info.md) | ⭐ 130 | Rust | 53/100 |
+| 332 | [rafal-qa/slopo](./rafal-qa-slopo.md) | ⭐ — | — | 52/100 |
+| 333 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
+| 334 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
+| 335 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
+| 336 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
+| 337 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 338 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 339 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
+| 340 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
+| 341 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
+| 342 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
+| 343 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 344 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 345 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
+| 346 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
+| 347 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
+| 348 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
+| 349 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
+| 350 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
+| 351 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
+| 352 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
+| 353 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
+| 354 | [williamliu-ai/fidx](./williamliu-ai-fidx.md) | ⭐ — | — | 41/100 |
+| 355 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 41/100 |
+| 356 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
+| 357 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
+| 358 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
 
 ---
 

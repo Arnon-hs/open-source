@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**47 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
@@ -50,11 +50,12 @@
 | 40 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 48/100 |
 | 41 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 47/100 |
 | 42 | [maecer/silimon](./maecer-silimon.md) | ⭐ — | — | 45/100 |
-| 43 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 41/100 |
-| 44 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 41/100 |
-| 45 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
-| 46 | [dougallj/a14d3f72b57ee58a81d487b43ff2a05b](./dougallj-a14d3f72b57ee58a81d487b43ff2a05b.md) | ⭐ — | — | 39/100 |
-| 47 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 31/100 |
+| 43 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 41/100 |
+| 44 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 41/100 |
+| 45 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 41/100 |
+| 46 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
+| 47 | [dougallj/a14d3f72b57ee58a81d487b43ff2a05b](./dougallj-a14d3f72b57ee58a81d487b43ff2a05b.md) | ⭐ — | — | 39/100 |
+| 48 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 31/100 |
 
 ---
 
