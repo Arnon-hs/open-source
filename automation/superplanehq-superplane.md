@@ -53,7 +53,7 @@ superplanehq/superplane：superplanehq/superplane helps remove repetitive manual
 
 **Quality signals**
 
-- 3520 GitHub stars
+- 3535 GitHub stars
 - 347 forks
 - updated 2026-07-05
 - primary language: Go
@@ -71,7 +71,7 @@ superplanehq/superplane：superplanehq/superplane helps remove repetitive manual
 | production | 84/100 |
 | outlook | 93/100 |
 | adoption | 72/100 |
-| stars | 75/100 |
+| stars | 76/100 |
 | forks | 64/100 |
 | recency | 100/100 |
 | topics | 100/100 |
