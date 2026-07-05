@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **15967** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 17 | [Browse →](./mcp/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| 🏷️ **Automation** | 1 | [Browse →](./automation/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| 🤖 **AI/ML** | 4865 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2911 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1463 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1305 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 870 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 811 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 678 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 582 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 527 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 361 | [Browse →](./knowledgerag/) |
+| 📊 **Data** | 332 | [Browse →](./data/) |
+| 🏷️ **Database** | 271 | [Browse →](./database/) |
+| 💳 **Payments** | 209 | [Browse →](./payments/) |
+| 📱 **Mobile** | 191 | [Browse →](./mobile/) |
+| 📈 **Trading** | 186 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 100 | [Browse →](./security/) |
+| ✨ **Design** | 48 | [Browse →](./design/) |
+| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
+| 🏷️ **Education** | 46 | [Browse →](./education/) |
+| 🎯 **Product** | 27 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 11.6k | Mcp |
-| 2 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.1k | Mcp |
-| 3 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26k | Orchestration |
-| 4 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75.1k | Orchestration |
-| 5 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.1k | Orchestration |
-| 6 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.1k | Orchestration |
-| 7 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.3k | Orchestration |
-| 8 | [siyuan-note/siyuan](./mcp/siyuan-note-siyuan.md) | ⭐ 44.9k | Mcp |
-| 9 | [DeusData/codebase-memory-mcp](./mcp/deusdata-codebase-memory-mcp.md) | ⭐ 26.5k | Mcp |
-| 10 | [rcourtman/Pulse](./automation/rcourtman-pulse.md) | ⭐ 6.1k | Automation |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
 
 ## 🚀 How it works
 

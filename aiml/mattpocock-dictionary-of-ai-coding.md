@@ -1,23 +1,23 @@
 # mattpocock/dictionary-of-ai-coding
 
-[![Stars](https://img.shields.io/github/stars/mattpocock/dictionary-of-ai-coding?style=flat-square&color=yellow)](https://github.com/mattpocock/dictionary-of-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/mattpocock/dictionary-of-ai-coding?style=flat-square&color=blue)](https://github.com/mattpocock/dictionary-of-ai-coding/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattpocock/dictionary-of-ai-coding?style=flat-square&color=yellow)](https://github.com/mattpocock/dictionary-of-ai-coding/stargazers) [![Forks](https://img.shields.io/github/forks/mattpocock/dictionary-of-ai-coding?style=flat-square&color=blue)](https://github.com/mattpocock/dictionary-of-ai-coding/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
-> AI coding jargon, explained in plain English.
+> Discovered from Hacker News (github-mentions)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 123 |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-07-05 |
+| 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
 
-_no topics_
+`hn` `github-mentions`
 
 ## 🎯 Categories
 
@@ -25,8 +25,55 @@ AI/ML
 
 ## 📝 Summary
 
-The "Dictionary of AI Coding" is an open-source project that aims to demystify complex AI and machine learning concepts by explaining them in simple, easy-to-understand terms. This project provides a valuable resource for developers and non-technical individuals looking to gain a deeper understanding of AI coding terminology. By breaking down technical jargon into plain English, it fosters a more inclusive and accessible AI community.
+### English
+
+AI coding jargon, explained in plain English: AI coding jargon, explained in plain English helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+AI coding jargon, explained in plain English: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+AI coding jargon, explained in plain English：AI coding jargon, explained in plain English helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** AI coding jargon, explained in plain English helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-07-05
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 54/100 |
+| quality | 41/100 |
+| recency | 100/100 |
+| adoption | 0/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 80/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/mattpocock/dictionary-of-ai-coding) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/mattpocock/dictionary-of-ai-coding) · [← Back to AI/ML](./README.md)</sub>
