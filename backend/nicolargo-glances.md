@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ nicolargo/glances：nicolargo/glances helps teams reuse service infrastructure i
 
 **Quality signals**
 
-- 33039 GitHub stars
+- 33040 GitHub stars
 - 1763 forks
-- updated 2026-07-04
+- updated 2026-07-05
 - primary language: Python
 - 8 topics
 
@@ -79,4 +79,4 @@ nicolargo/glances：nicolargo/glances helps teams reuse service infrastructure i
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/nicolargo/glances) · [← Back to Backend](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/nicolargo/glances) · [← Back to Backend](./README.md)</sub>

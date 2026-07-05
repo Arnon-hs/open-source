@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 64 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ LetsFG/LetsFG：LetsFG/LetsFG helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 1219 GitHub stars
-- 64 forks
-- updated 2026-06-28
+- 1251 GitHub stars
+- 65 forks
+- updated 2026-07-05
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ LetsFG/LetsFG：LetsFG/LetsFG helps connect AI assistants to real tools and data
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/LetsFG/LetsFG) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/LetsFG/LetsFG) · [← Back to Mcp](./README.md)</sub>

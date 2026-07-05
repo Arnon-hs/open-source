@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15863** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4832 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2897 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1449 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1297 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 866 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 807 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 673 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 574 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 524 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 358 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 331 | [Browse →](./data/) |
-| 🏷️ **Database** | 266 | [Browse →](./database/) |
-| 💳 **Payments** | 209 | [Browse →](./payments/) |
-| 📱 **Mobile** | 189 | [Browse →](./mobile/) |
-| 📈 **Trading** | 186 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 100 | [Browse →](./security/) |
-| ✨ **Design** | 48 | [Browse →](./design/) |
-| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
-| 🏷️ **Education** | 46 | [Browse →](./education/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
-| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 1 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 188.4k | AI/ML |
+| 2 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.1k | Mcp |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 4 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 6k | Orchestration |
+| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26k | Orchestration |
+| 6 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75.1k | Orchestration |
+| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.1k | Orchestration |
+| 8 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 58.6k | Automation |
+| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.1k | Orchestration |
+| 10 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.3k | Orchestration |
 
 ## 🚀 How it works
 
