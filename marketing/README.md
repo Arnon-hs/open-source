@@ -2,7 +2,7 @@
 
 > 
 
-**22 projects** in this category.
+**23 projects** in this category.
 
 ## Projects
 
@@ -28,8 +28,9 @@
 | 18 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 46/100 |
 | 19 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
 | 20 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
-| 21 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
-| 22 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
+| 21 | [kcosr/codex-threads](./kcosr-codex-threads.md) | ⭐ — | — | 41/100 |
+| 22 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
+| 23 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
 
 ---
 
