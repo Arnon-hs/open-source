@@ -53,7 +53,7 @@ superradcompany/microsandbox：superradcompany/microsandbox helps add AI capabil
 
 **Quality signals**
 
-- 6832 GitHub stars
+- 6836 GitHub stars
 - 339 forks
 - updated 2026-07-05
 - primary language: Rust

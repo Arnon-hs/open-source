@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 195.2k |
+| ⭐ **Stars** | 195.3k |
 | 🍴 **Forks** | 59.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ n8n-io/n8n：n8n-io/n8n helps connect AI assistants to real tools and data throu
 
 **Quality signals**
 
-- 195179 GitHub stars
-- 59062 forks
-- updated 2026-07-04
+- 195299 GitHub stars
+- 59080 forks
+- updated 2026-07-05
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ n8n-io/n8n：n8n-io/n8n helps connect AI assistants to real tools and data throu
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/n8n-io/n8n) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/n8n-io/n8n) · [← Back to Mcp](./README.md)</sub>
