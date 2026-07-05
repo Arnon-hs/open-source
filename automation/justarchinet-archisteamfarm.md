@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ JustArchiNET/ArchiSteamFarm：JustArchiNET/ArchiSteamFarm helps remove repetitiv
 
 **Quality signals**
 
-- 13477 GitHub stars
-- 1105 forks
-- updated 2026-07-02
+- 13489 GitHub stars
+- 1104 forks
+- updated 2026-07-05
 - primary language: C#
 - 20 topics
 
@@ -79,4 +79,4 @@ JustArchiNET/ArchiSteamFarm：JustArchiNET/ArchiSteamFarm helps remove repetitiv
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/JustArchiNET/ArchiSteamFarm) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/JustArchiNET/ArchiSteamFarm) · [← Back to Automation](./README.md)</sub>

@@ -53,8 +53,8 @@ nexu-io/open-design：nexu-io/open-design helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 75061 GitHub stars
-- 8575 forks
+- 75104 GitHub stars
+- 8585 forks
 - updated 2026-07-05
 - primary language: TypeScript
 - 20 topics

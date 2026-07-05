@@ -53,8 +53,8 @@ ohmyzsh/ohmyzsh：ohmyzsh/ohmyzsh helps add AI capability without starting from 
 
 **Quality signals**
 
-- 188363 GitHub stars
-- 26382 forks
+- 188370 GitHub stars
+- 26383 forks
 - updated 2026-07-05
 - primary language: Shell
 - 15 topics

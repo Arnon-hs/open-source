@@ -2,16 +2,15 @@
 
 > 
 
-**4 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [santifer/career-ops](./santifer-career-ops.md) | ⭐ 58.6k | JavaScript | 91/100 |
-| 2 | [YaoApp/yao](./yaoapp-yao.md) | ⭐ 7.5k | Go | 89/100 |
-| 3 | [superplanehq/superplane](./superplanehq-superplane.md) | ⭐ 3.5k | Go | 88/100 |
-| 4 | [teslamate-org/teslamate](./teslamate-org-teslamate.md) | ⭐ 8.7k | Elixir | 86/100 |
+| 1 | [2FastLabs/agent-squad](./2fastlabs-agent-squad.md) | ⭐ 7.7k | Python | 87/100 |
+| 2 | [nocobase/nocobase](./nocobase-nocobase.md) | ⭐ 23.2k | TypeScript | 85/100 |
+| 3 | [JustArchiNET/ArchiSteamFarm](./justarchinet-archisteamfarm.md) | ⭐ 13.5k | C# | 85/100 |
 
 ---
 

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 177 |
-| 🍴 **Forks** | 28 |
+| ⭐ **Stars** | 180 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-07-05 |
@@ -53,8 +53,8 @@ DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 177 GitHub stars
-- 28 forks
+- 180 GitHub stars
+- 31 forks
 - updated 2026-07-05
 - primary language: Python
 - 15 topics
@@ -72,7 +72,7 @@ DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools 
 | outlook | 86/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
-| forks | 37/100 |
+| forks | 38/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

@@ -21,34 +21,34 @@
 | 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
+| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 12 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
+| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 188.4k | AI/ML |
-| 2 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.1k | Mcp |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 4 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 6k | Orchestration |
-| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26k | Orchestration |
-| 6 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75.1k | Orchestration |
-| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.1k | Orchestration |
-| 8 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 58.6k | Automation |
+| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 3 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 40.3k | Orchestration |
+| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.1k | Mcp |
+| 5 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 6 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26k | Orchestration |
+| 7 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75.1k | Orchestration |
+| 8 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.1k | Orchestration |
 | 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.1k | Orchestration |
-| 10 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.3k | Orchestration |
+| 10 | [netdata/netdata](./mcp/netdata-netdata.md) | ⭐ 79.5k | Mcp |
 
 ## 🚀 How it works
 

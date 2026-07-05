@@ -53,8 +53,8 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 
 **Quality signals**
 
-- 15566 GitHub stars
-- 1338 forks
+- 15571 GitHub stars
+- 1339 forks
 - updated 2026-07-05
 - primary language: TypeScript
 - 13 topics

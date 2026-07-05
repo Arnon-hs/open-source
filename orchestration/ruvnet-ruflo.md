@@ -53,8 +53,8 @@ ruvnet/ruflo：ruvnet/ruflo helps turn isolated prompts and tools into repeatabl
 
 **Quality signals**
 
-- 63057 GitHub stars
-- 7425 forks
+- 63085 GitHub stars
+- 7430 forks
 - updated 2026-07-05
 - primary language: TypeScript
 - 20 topics
