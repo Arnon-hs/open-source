@@ -53,8 +53,8 @@ apache/camel：apache/camel helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 6253 GitHub stars
-- 5128 forks
+- 6254 GitHub stars
+- 5129 forks
 - updated 2026-07-05
 - primary language: Java
 - 16 topics

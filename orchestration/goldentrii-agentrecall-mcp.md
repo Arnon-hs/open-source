@@ -1,41 +1,41 @@
 # Goldentrii/AgentRecall-MCP
 
-[![Stars](https://img.shields.io/github/stars/Goldentrii/AgentRecall-MCP?style=flat-square&color=yellow)](https://github.com/Goldentrii/AgentRecall-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Goldentrii/AgentRecall-MCP?style=flat-square&color=blue)](https://github.com/Goldentrii/AgentRecall-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldentrii/AgentRecall-MCP?style=flat-square&color=yellow)](https://github.com/Goldentrii/AgentRecall-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Goldentrii/AgentRecall-MCP?style=flat-square&color=blue)](https://github.com/Goldentrii/AgentRecall-MCP/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
-> AI Session Memory with Think-Execute-Reflect Quality Loops — give your agent a brain that survives every session. Built on the Intelligent Distance principle.
+> Correction-first persistent memory for AI agents. MCP server + SDK + CLI. Compounds across sessions.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 252 |
-| 🍴 **Forks** | 23 |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| ⭐ **Stars** | 307 |
+| 🍴 **Forks** | 52 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent-memory` `ai-agents` `claude-code` `intelligent-distance` `mcp` `mcp-server` `quality-loop` `session-memory`
+`agent-learning` `agent-memory` `ai-memory-systems` `claude-code` `claude-mcp` `correction-tracking` `mcp-server` `memory-palace` `persistent-memory` `typescript`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-Goldentrii/AgentRecall‑MCP is an open‑source framework that equips AI agents with persistent, session‑spanning memory through a Think‑Execute‑Reflect loop, enabling them to retain knowledge and context across interactions. Leveraging the “Intelligent Distance” principle, it orchestrates memory retrieval, reasoning, and action execution in a modular, front‑end‑friendly architecture. Ideal for developers building conversational or autonomous agents that require long‑term continuity and adaptive learning.
+Goldentrii/AgentRecall-MCP: Goldentrii/AgentRecall-MCP helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Goldentrii/AgentRecall-MCP — это open‑source решение, которое обеспечивает долговременную память для AI‑агентов с помощью механизмов Think‑Execute‑Reflect и принципа Intelligent Distance, позволяя сохранять контекст и опыт между сессиями. Проект объединяет оркестрацию, машинное обучение и интерактивный фронтенд, делая взаимодействие с агентами более осмысленным и адаптивным.
+Goldentrii/AgentRecall-MCP: open-source проект в категориях Orchestration, MCP, AI/ML, Backend, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-Goldentrii/AgentRecall-MCP：Goldentrii/AgentRecall-MCP helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Goldentrii/AgentRecall-MCP：Goldentrii/AgentRecall-MCP helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ Goldentrii/AgentRecall-MCP：Goldentrii/AgentRecall-MCP helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 252 GitHub stars
-- 23 forks
-- updated 2026-05-08
-- primary language: TypeScript
-- 8 topics
+- 307 GitHub stars
+- 52 forks
+- updated 2026-07-05
+- primary language: JavaScript
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ Goldentrii/AgentRecall-MCP：Goldentrii/AgentRecall-MCP helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 60/100 |
-| adoption | 46/100 |
-| stars | 51/100 |
-| forks | 35/100 |
-| recency | 40/100 |
+| usefulness | 100/100 |
+| quality | 78/100 |
+| integration | 100/100 |
+| production | 83/100 |
+| outlook | 88/100 |
+| adoption | 50/100 |
+| stars | 53/100 |
+| forks | 43/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Goldentrii/AgentRecall-MCP) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/Goldentrii/AgentRecall-MCP) · [← Back to Orchestration](./README.md)</sub>
