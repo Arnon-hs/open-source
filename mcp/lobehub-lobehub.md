@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 79.4k |
+| ⭐ **Stars** | 79.5k |
 | 🍴 **Forks** | 15.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ lobehub/lobehub：lobehub/lobehub helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 79445 GitHub stars
-- 15550 forks
-- updated 2026-07-04
+- 79460 GitHub stars
+- 15551 forks
+- updated 2026-07-05
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ lobehub/lobehub：lobehub/lobehub helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/lobehub/lobehub) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/lobehub/lobehub) · [← Back to Mcp](./README.md)</sub>

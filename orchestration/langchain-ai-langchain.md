@@ -1,18 +1,18 @@
 # langchain-ai/langchain
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
-> The agent engineering platform. Available in TypeScript!
+> The agent engineering platform.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 136k |
-| 🍴 **Forks** | 22.5k |
+| ⭐ **Stars** | 140.9k |
+| 🍴 **Forks** | 23.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
 ### English
 
-langchain-ai/langchain: langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+langchain-ai/langchain: langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-langchain-ai/langchain: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+langchain-ai/langchain: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 136012 GitHub stars
-- 22482 forks
-- updated 2026-05-07
+- 140932 GitHub stars
+- 23407 forks
+- updated 2026-07-05
 - primary language: Python
 - 20 topics
 
@@ -66,17 +66,17 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 100/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 77/100 |
+| production | 86/100 |
+| outlook | 98/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/langchain-ai/langchain) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/langchain-ai/langchain) · [← Back to Orchestration](./README.md)</sub>

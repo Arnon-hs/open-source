@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ dropbox/dbxcli：dropbox/dbxcli helps remove repetitive manual operations from a
 
 **Quality signals**
 
-- 1125 GitHub stars
+- 1126 GitHub stars
 - 107 forks
-- updated 2026-07-04
+- updated 2026-07-05
 - primary language: Go
 - 7 topics
 
@@ -79,4 +79,4 @@ dropbox/dbxcli：dropbox/dbxcli helps remove repetitive manual operations from a
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/dropbox/dbxcli) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/dropbox/dbxcli) · [← Back to Automation](./README.md)</sub>

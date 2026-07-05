@@ -79,4 +79,4 @@ apify/mcpc：apify/mcpc helps connect AI assistants to real tools and data throu
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/apify/mcpc) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/apify/mcpc) · [← Back to Mcp](./README.md)</sub>
