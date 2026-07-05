@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15825** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4820 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2892 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1448 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1293 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 864 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 805 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 670 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 570 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 524 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 357 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 330 | [Browse →](./data/) |
-| 🏷️ **Database** | 265 | [Browse →](./database/) |
-| 💳 **Payments** | 209 | [Browse →](./payments/) |
-| 📱 **Mobile** | 189 | [Browse →](./mobile/) |
-| 📈 **Trading** | 186 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 100 | [Browse →](./security/) |
-| ✨ **Design** | 47 | [Browse →](./design/) |
-| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
-| 🏷️ **Education** | 46 | [Browse →](./education/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 22 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 17 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
-| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 1 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 42.4k | Orchestration |
+| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 11.4k | Mcp |
+| 3 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 188.4k | AI/ML |
+| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.1k | Mcp |
+| 6 | [mksglu/context-mode](./orchestration/mksglu-context-mode.md) | ⭐ 18.6k | Orchestration |
+| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26k | Orchestration |
+| 8 | [mudler/LocalAI](./mcp/mudler-localai.md) | ⭐ 47.3k | Mcp |
+| 9 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75k | Orchestration |
+| 10 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 58.6k | Automation |
 
 ## 🚀 How it works
 
