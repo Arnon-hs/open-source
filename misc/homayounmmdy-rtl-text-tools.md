@@ -1,6 +1,6 @@
 # homayounmmdy/rtl-text-tools
 
-[![Stars](https://img.shields.io/github/stars/homayounmmdy/rtl-text-tools?style=flat-square&color=yellow)](https://github.com/homayounmmdy/rtl-text-tools/stargazers) [![Forks](https://img.shields.io/github/forks/homayounmmdy/rtl-text-tools?style=flat-square&color=blue)](https://github.com/homayounmmdy/rtl-text-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/homayounmmdy/rtl-text-tools?style=flat-square&color=yellow)](https://github.com/homayounmmdy/rtl-text-tools/stargazers) [![Forks](https://img.shields.io/github/forks/homayounmmdy/rtl-text-tools?style=flat-square&color=blue)](https://github.com/homayounmmdy/rtl-text-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
+| ⭐ **Stars** | 3 |
+| 🍴 **Forks** | 0 |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | hackernews |
@@ -21,71 +21,81 @@
 
 ## 🎯 Categories
 
-Misc
+Text Processing / Utilities / Localization
 
 ## 📝 Summary
 
 ### English
 
 **Brief Summary (2‑3 sentences)**  
-RTL Text Tools is a lightweight, zero‑dependency toolkit for processing right‑to‑left (RTL) scripts such as Arabic, Hebrew, and Persian. It provides a handful of command‑line utilities and a small library for common tasks (e.g., bidirectional reordering, normalization, and simple shaping) without pulling in external crates or packages. The project is actively maintained (last commit 2026‑07‑02) but its ecosystem signals are sparse, so a quick manual review is recommended before integrating it into production pipelines.  
+RTL Text Tools is a zero-dependency TypeScript/JavaScript toolkit for processing right-to-left (RTL) scripts like Arabic, Hebrew, and Persian. It provides utilities for fixing ellipses, converting digits and punctuation, normalizing bidirectional text, and managing DOM/CSS attributes, all compiled to ES5 for maximum legacy browser compatibility (down to IE11). The project is fully tested and MIT-licensed, though its public ecosystem signals remain modest.
 
-**Value**  
-- **Zero‑dependency footprint** keeps binary size low and eliminates transitive‑dependency security concerns—ideal for embedded or constrained environments.  
-- **Focused on RTL quirks** (bidirectional algorithm, Unicode normalization, basic shaping) that are often missing or cumbersome in general‑purpose text libraries.  
-- **Simple CLI & library API** make it easy to slot into existing scripts, CI jobs, or data‑processing pipelines without heavy refactoring.  
+**Value**
+- **Zero-dependency footprint** keeps bundle size minimal and eliminates transitive-dependency security concerns.
+- **Comprehensive RTL fixes** handle nuanced typography issues (brackets, ellipses, bidi markers, locale-specific digits) often missing in general-purpose libraries.
+- **Maximum legacy compatibility** (ES5 output, no modern JS features) guarantees it works seamlessly in older environments like IE11.
 
-**Practical Adoption Path**  
-1. **Initial vetting** – Clone the repo, run the test suite, and inspect the license (ensure it matches your project’s compliance requirements).  
-2. **Prototype** – Replace an existing ad‑hoc RTL handling script with the toolkit’s CLI (e.g., `rtl-reorder`, `rtl-normalize`) in a sandbox branch. Verify output against known good samples.  
-3. **Library integration** – Import the small Rust/Python/JS module (depending on the language bindings provided) into your codebase, add a thin wrapper if needed, and run integration tests.  
-4. **Operational checks** – Monitor for performance regressions, confirm that the toolkit handles your specific script variants (e.g., Arabic ligatures, Hebrew niqqud), and set up a periodic “dependabot” or manual check for upstream updates.  
+**Practical Adoption Path**
+1. **Install via NPM** – Add the package to your project using `npm install rtl-text-tools`.
+2. **Quick Processing** – Use the primary `fixRTL(text, options)` function to automatically normalize mixed strings in your UI or data pipelines.
+3. **Component Integration** – Utilize helper functions like `getRTLStyles()` for React inline styles or `setDirAttribute()` for raw DOM manipulation.
+4. **Granular Control** – Import individual functions like `moveEllipsis` or `toPersianDigits` if you only need specific transformations.
 
-**Production Readiness**  
-- **Readiness level:** *Medium* – the project is actively updated and functional for prototypes or internal tooling, but the limited metadata (few topics, no explicit CI badge, modest issue activity) means you should perform a short due‑diligence cycle.  
-- **What to verify before production:** licensing, release cadence, issue backlog, documentation depth, and compatibility with your target runtime. Once these checks pass, the toolkit can be safely promoted to internal services; for customer‑facing or high‑availability systems, consider adding a fallback or wrapper that can gracefully handle any future upstream breaking changes.
+**Production Readiness**
+- **Readiness level:** *Medium* – the project is fully tested, strictly typed, and MIT-licensed, but limited metadata and modest issue activity mean you should perform a short due-diligence cycle.
+- **What to verify before production:** Ensure the specific RTL languages you are targeting behave as expected with the default options. Once verified, the toolkit can be safely promoted to internal services or customer-facing web applications.
 
 ### Русский
 
-Резюме проекта RTL Text Tools:
+**Краткое описание (2-3 предложения)**
+RTL Text Tools — это независимый набор инструментов на TypeScript/JavaScript для обработки текста на языках с письмом справа налево (арабский, иврит, персидский и др.). Он предоставляет функции для исправления многоточий, конвертации цифр и пунктуации, нормализации смешанного текста и работы с DOM/CSS, сохраняя при этом совместимость вплоть до IE11 (компиляция в ES5). Проект полностью покрыт тестами и распространяется под лицензией MIT.
 
-RTL Text Tools представляет собой независимый набор инструментов для обработки текста, предназначенный для языков с правым-левым письмом. Этот набор инструментов может быть полезен в конкретном сценарии, когда его README и активность соответствуют конкретному рабочему процессу. Проект готов к внедрению в прототипах или внутренних рабочих процессах, но требует тщательного проверки зависимостей и поддержки перед использованием в производственном окружении.
+**Ценность**
+- **Нулевые зависимости** во время выполнения гарантирует минимальный размер бандла и отсутствие рисков безопасности.
+- **Глубокая поддержка RTL** решает специфические типографские проблемы, такие как позиционирование многоточий, исправление скобок и локализация знаков препинания.
+- **Совместимость со старыми браузерами** (компиляция в ES5) позволяет использовать библиотеку даже в IE11 без полифилов.
+
+**Путь внедрения**
+1. **Установка** – Добавьте пакет через `npm install rtl-text-tools`.
+2. **Базовая обработка** – Используйте функцию `fixRTL()` для автоматического форматирования строк в ваших React-компонентах или бэкенд-процессах.
+3. **Интеграция** – Применяйте хелперы `getRTLStyles()` или `setDirAttribute()` для корректного отображения интерфейса.
+4. **Точечное использование** – Импортируйте отдельные функции (например, `toPersianDigits`), если вам не нужен полный цикл обработки.
+
+**Готовность к продакшену**
+- **Уровень готовности:** *Средний* — наличие полных тестов и лицензии MIT делает библиотеку надежной, но ограниченная публичная активность требует краткой проверки.
+- **Что проверить:** Убедитесь, что параметры по умолчанию (например, персидские или арабские цифры) соответствуют требованиям вашего проекта. После проверки библиотека отлично подходит для клиентских веб-приложений.
 
 ### 中文
 
 **项目简介**  
-RTL Text Tools 是一个零依赖的文本处理工具集，专为从右到左（RTL）语言（如阿拉伯语、希伯来语）设计，提供字符方向、字形连接、标点规范化等常用功能。  
+RTL Text Tools 是一个零运行时依赖的 TypeScript/JavaScript 文本处理工具集，专为从右到左（RTL）语言（如阿拉伯语、希伯来语、波斯语等）设计。它提供了一套全面的 API，用于修复省略号、转换数字和标点符号、规范化双向文本以及处理 DOM/CSS 属性，同时向下兼容至 IE11（编译目标为 ES5）。
 
-**价值**  
-- **轻量无依赖**：无需额外库即可直接在任何 Node.js、Python 或纯脚本环境中使用，降低部署成本。  
-- **专注 RTL**：填补了主流文本库对 RTL 处理不完整的空白，帮助开发者快速实现正确的显示与存储。  
+**价值**
+- **零运行时依赖**：极小的打包体积，无供应链安全风险。
+- **深度的 RTL 支持**：不仅限于方向检测，还能处理括号修复、省略号位置调整和特定语言的标点转换等复杂排版问题。
+- **极致的旧版兼容性**：编译目标为 ES5，不使用现代 API，确保在 IE11 等老旧浏览器中完美运行。
 
-**典型接入方式**  
-1. **克隆仓库或直接下载单文件**：`git clone https://github.com/…/rtl-text-tools`，或将 `rtl.js`/`rtl.py` 放入项目代码目录。  
-2. **在代码中引用**：  
-   - JavaScript 示例：`const rtl = require('./rtl'); const out = rtl.normalize(input);`  
-   - Python 示例：`from rtl import normalize; out = normalize(input)`  
-3. **在构建/CI 流程中加入测试**：将工具作为预处理步骤，对输入文本进行 RTL 正规化后再交给后端或前端渲染。  
+**典型接入方式**
+1. **NPM 安装**：通过 `npm install rtl-text-tools` 引入项目。
+2. **核心处理**：在数据流或 UI 渲染前，调用 `fixRTL()` 函数一键修复文本的排版和标点问题。
+3. **框架集成**：使用 `getRTLStyles()` 生成 React 行内样式，或使用 `setDirAttribute()` 直接操作 DOM 节点的 `dir` 属性。
+4. **按需引入**：若仅需单一功能（如仅转换波斯数字），可直接导入 `toPersianDigits` 等独立函数以减小体积。
 
-**生产可用性**  
-- **成熟度**：目前标记为 **Medium**，适合原型、内部工具或对 RTL 需求不高的生产环境。  
-- **风险与检查点**：项目最近一次更新在 2026‑07‑02，元数据较少；在正式上线前需确认以下事项：  
-  - 许可证兼容性（是否为 MIT/Apache 等宽松许可）  
-  - 维护者活跃度及 issue 响应速度  
-  - 文档完整性与示例代码是否覆盖关键场景  
-  - 是否有自动化测试或发布标签，确保版本可追溯  
-
-在完成上述审查并加入自己的单元测试后，RTL Text Tools 可安全用于内部服务或面向用户的原型系统。若需要更高的 SLA，建议在项目上层再封装一层监控与回退机制，或考虑采用商业 RTL 库作为备选。
+**生产可用性**
+- **成熟度**：**中等**。项目包含完整的测试覆盖率并采用 MIT 开源协议，但公开的生态信号较少，建议在正式集成前进行快速审查。
+- **风险与检查点**：代码已针对浏览器兼容性进行极致优化。在正式上线前，只需根据目标受众确认 `lang` 选项（`'arabic'` 或 `'persian'`）是否符合业务需求即可。
 
 ## 🧭 Practical evaluation
 
-**Value:** RTL Text Tools – A zero-dependency text processing toolkit for RTL languages may be useful when its README and activity match a concrete workflow.
+**Value:** RTL Text Tools – A zero-dependency TypeScript/JavaScript text processing toolkit for RTL languages with legacy browser support (IE11+).
 
 **Best use cases**
 
-- Not enough metadata yet.
+- Frontend web applications requiring RTL text normalization.
+- Legacy system modernization where IE11 support is still required.
+- React/Vanilla JS components needing dynamic RTL styling and DOM attribute management.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Easy to install via npm. Offers both a main `fixRTL` function for quick processing and granular utilities for specific tasks.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
