@@ -222,8 +222,8 @@
 | 212 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 600 | Go | 69/100 |
 | 213 | [mantinedev/mantine](./mantinedev-mantine.md) | ⭐ 31.3k | TypeScript | 69/100 |
 | 214 | [NG-ZORRO/ng-zorro-antd](./ng-zorro-ng-zorro-antd.md) | ⭐ 9.2k | TypeScript | 69/100 |
-| 215 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 69/100 |
-| 216 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 69/100 |
+| 215 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 69/100 |
+| 216 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 69/100 |
 | 217 | [playcanvas/engine](./playcanvas-engine.md) | ⭐ 16.1k | JavaScript | 69/100 |
 | 218 | [iPlug2/iPlug2](./iplug2-iplug2.md) | ⭐ 2.3k | C | 69/100 |
 | 219 | [gtema/openstack](./gtema-openstack.md) | ⭐ 104 | Rust | 69/100 |
@@ -1138,8 +1138,8 @@
 | 1128 | [wuxiran/cc-pane](./wuxiran-cc-pane.md) | ⭐ 472 | Rust | 53/100 |
 | 1129 | [craftercms/craftercms](./craftercms-craftercms.md) | ⭐ 335 | Shell | 53/100 |
 | 1130 | [Fausto-Korpsvart/Catppuccin-GTK-Theme](./fausto-korpsvart-catppuccin-gtk-theme.md) | ⭐ 746 | SCSS | 53/100 |
-| 1131 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
-| 1132 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
+| 1131 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
+| 1132 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
 | 1133 | [rikhuijzer/fx](./rikhuijzer-fx.md) | ⭐ 310 | Rust | 53/100 |
 | 1134 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 768 | Rust | 53/100 |
 | 1135 | [micro-manager/micro-manager](./micro-manager-micro-manager.md) | ⭐ 303 | Java | 53/100 |
@@ -1244,8 +1244,8 @@
 | 1234 | [compio-rs/winio](./compio-rs-winio.md) | ⭐ 117 | Rust | 50/100 |
 | 1235 | [buildcores/buildcores-open-db](./buildcores-buildcores-open-db.md) | ⭐ 320 | Shell | 50/100 |
 | 1236 | [facebookincubator/antlir](./facebookincubator-antlir.md) | ⭐ 111 | Rust | 50/100 |
-| 1237 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 1238 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1237 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1238 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 1239 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 1240 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 1241 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
@@ -1375,8 +1375,8 @@
 | 1365 | [InioX/matugen-themes](./iniox-matugen-themes.md) | ⭐ 369 | CSS | 41/100 |
 | 1366 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 41/100 |
 | 1367 | [Braffolk/fable5-world-demo](./braffolk-fable5-world-demo.md) | ⭐ — | — | 41/100 |
-| 1368 | [varadTheDeveloper/forge-runtime](./varadthedeveloper-forge-runtime.md) | ⭐ — | — | 41/100 |
-| 1369 | [LibreYOLO/libreyolo](./libreyolo-libreyolo.md) | ⭐ — | — | 41/100 |
+| 1368 | [LibreYOLO/libreyolo](./libreyolo-libreyolo.md) | ⭐ — | — | 41/100 |
+| 1369 | [varadTheDeveloper/forge-runtime](./varadthedeveloper-forge-runtime.md) | ⭐ — | — | 41/100 |
 | 1370 | [dmatth1/quicktok](./dmatth1-quicktok.md) | ⭐ — | — | 41/100 |
 | 1371 | [itprogresscorp/Mini-Bucket](./itprogresscorp-mini-bucket.md) | ⭐ — | — | 41/100 |
 | 1372 | [carnworkstudios/boxwood](./carnworkstudios-boxwood.md) | ⭐ — | — | 41/100 |
@@ -1384,8 +1384,8 @@
 | 1374 | [greysonbowser/arxiv-red](./greysonbowser-arxiv-red.md) | ⭐ — | — | 41/100 |
 | 1375 | [jialinhuang00/kubelens](./jialinhuang00-kubelens.md) | ⭐ — | — | 41/100 |
 | 1376 | [harshal2030/Grizzly](./harshal2030-grizzly.md) | ⭐ — | — | 41/100 |
-| 1377 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 41/100 |
-| 1378 | [valmishq/valmis](./valmishq-valmis.md) | ⭐ — | — | 41/100 |
+| 1377 | [valmishq/valmis](./valmishq-valmis.md) | ⭐ — | — | 41/100 |
+| 1378 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 41/100 |
 | 1379 | [sermuns/ratatuefi](./sermuns-ratatuefi.md) | ⭐ — | — | 41/100 |
 | 1380 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 41/100 |
 | 1381 | [iProgramMC/NanoShellOS](./iprogrammc-nanoshellos.md) | ⭐ — | — | 41/100 |

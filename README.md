@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **15746** |
+| 🗂️ **Total projects** | **15762** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,18 +18,18 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4798 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2869 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4804 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2873 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 1442 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1290 | [Browse →](./orchestration/) |
 | 🏷️ **Mcp** | 861 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 800 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 669 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 566 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 521 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 354 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 568 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 523 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 355 | [Browse →](./knowledgerag/) |
 | 📊 **Data** | 329 | [Browse →](./data/) |
-| 🏷️ **Database** | 262 | [Browse →](./database/) |
+| 🏷️ **Database** | 263 | [Browse →](./database/) |
 | 💳 **Payments** | 209 | [Browse →](./payments/) |
 | 📱 **Mobile** | 189 | [Browse →](./mobile/) |
 | 📈 **Trading** | 186 | [Browse →](./trading/) |
