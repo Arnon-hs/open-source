@@ -2,7 +2,7 @@
 
 > 
 
-**47 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
@@ -53,8 +53,9 @@
 | 43 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
 | 44 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
 | 45 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 46 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 47 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 46 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
+| 47 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
+| 48 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 
