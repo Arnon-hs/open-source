@@ -53,7 +53,7 @@ yvgude/lean-ctx：yvgude/lean-ctx helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 3095 GitHub stars
+- 3096 GitHub stars
 - 294 forks
 - updated 2026-07-05
 - primary language: Rust

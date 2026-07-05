@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 350 |
+| ⭐ **Stars** | 3k |
+| 🍴 **Forks** | 357 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Quality signals**
 
-- 2934 GitHub stars
-- 350 forks
-- updated 2026-07-03
+- 2974 GitHub stars
+- 357 forks
+- updated 2026-07-05
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Knowledgerag](./README.md)</sub>

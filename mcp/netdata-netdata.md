@@ -53,8 +53,8 @@ netdata/netdata：netdata/netdata helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 79503 GitHub stars
-- 6501 forks
+- 79504 GitHub stars
+- 6502 forks
 - updated 2026-07-05
 - primary language: Go
 - 20 topics
