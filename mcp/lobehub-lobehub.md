@@ -53,8 +53,8 @@ lobehub/lobehub：lobehub/lobehub helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 79460 GitHub stars
-- 15551 forks
+- 79481 GitHub stars
+- 15555 forks
 - updated 2026-07-05
 - primary language: TypeScript
 - 18 topics

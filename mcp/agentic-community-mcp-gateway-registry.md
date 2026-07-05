@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 766 |
-| 🍴 **Forks** | 202 |
+| 🍴 **Forks** | 203 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry 
 **Quality signals**
 
 - 766 GitHub stars
-- 202 forks
-- updated 2026-07-04
+- 203 forks
+- updated 2026-07-05
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry 
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/agentic-community/mcp-gateway-registry) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/agentic-community/mcp-gateway-registry) · [← Back to Mcp](./README.md)</sub>

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 850 |
+| ⭐ **Stars** | 851 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
@@ -53,7 +53,7 @@ cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to
 
 **Quality signals**
 
-- 850 GitHub stars
+- 851 GitHub stars
 - 140 forks
 - updated 2026-07-05
 - primary language: Python

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-05 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ open-metadata/OpenMetadata：open-metadata/OpenMetadata helps connect AI assista
 
 **Quality signals**
 
-- 14384 GitHub stars
-- 2205 forks
-- updated 2026-07-04
+- 14391 GitHub stars
+- 2207 forks
+- updated 2026-07-05
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ open-metadata/OpenMetadata：open-metadata/OpenMetadata helps connect AI assista
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/open-metadata/OpenMetadata) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/open-metadata/OpenMetadata) · [← Back to Mcp](./README.md)</sub>
