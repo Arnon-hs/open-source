@@ -1,6 +1,6 @@
 # SigNoz/signoz
 
-[![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=flat-square&color=yellow)](https://github.com/SigNoz/signoz/stargazers) [![Forks](https://img.shields.io/github/forks/SigNoz/signoz?style=flat-square&color=blue)](https://github.com/SigNoz/signoz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=flat-square&color=yellow)](https://github.com/SigNoz/signoz/stargazers) [![Forks](https://img.shields.io/github/forks/SigNoz/signoz?style=flat-square&color=blue)](https://github.com/SigNoz/signoz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.2k |
-| 🍴 **Forks** | 2.3k |
+| ⭐ **Stars** | 26.8k |
+| 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Frontend · Data · Database · Observability
+Frontend · Data
 
 ## 📝 Summary
 
 ### English
 
-SigNoz/signoz: SigNoz/signoz helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SigNoz/signoz: SigNoz/signoz helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-SigNoz/signoz: open-source проект в категориях Frontend, Data, Database, Observability. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+SigNoz/signoz: open-source проект в категориях Frontend, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 28193 GitHub stars
-- 2281 forks
-- updated 2026-07-06
+- 26811 GitHub stars
+- 2147 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 20 topics
 
@@ -66,17 +66,17 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 85/100 |
-| outlook | 96/100 |
-| adoption | 92/100 |
-| stars | 95/100 |
-| forks | 84/100 |
-| recency | 100/100 |
+| production | 65/100 |
+| outlook | 75/100 |
+| adoption | 91/100 |
+| stars | 94/100 |
+| forks | 83/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>
