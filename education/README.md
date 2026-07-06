@@ -2,7 +2,7 @@
 
 > 
 
-**50 projects** in this category.
+**51 projects** in this category.
 
 ## Projects
 
@@ -55,9 +55,10 @@
 | 45 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
 | 46 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
 | 47 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 48 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
-| 49 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 50 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 48 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
+| 49 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
+| 50 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
+| 51 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 
