@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.3k |
+| ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
@@ -53,7 +53,7 @@ gptme/gptme：gptme/gptme helps make internal knowledge searchable and usable by
 
 **Quality signals**
 
-- 4350 GitHub stars
+- 4351 GitHub stars
 - 395 forks
 - updated 2026-07-06
 - primary language: Python

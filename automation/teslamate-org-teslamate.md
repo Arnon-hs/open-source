@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 982 |
+| 🍴 **Forks** | 981 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ teslamate-org/teslamate：teslamate-org/teslamate helps remove repetitive manual
 
 **Quality signals**
 
-- 8686 GitHub stars
-- 982 forks
-- updated 2026-07-05
+- 8691 GitHub stars
+- 981 forks
+- updated 2026-07-06
 - primary language: Elixir
 - 17 topics
 
@@ -79,4 +79,4 @@ teslamate-org/teslamate：teslamate-org/teslamate helps remove repetitive manual
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/teslamate-org/teslamate) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/teslamate-org/teslamate) · [← Back to Automation](./README.md)</sub>
