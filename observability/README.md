@@ -2,7 +2,7 @@
 
 > 
 
-**49 projects** in this category.
+**50 projects** in this category.
 
 ## Projects
 
@@ -51,12 +51,13 @@
 | 41 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 56/100 |
 | 42 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 412 | TypeScript | 55/100 |
 | 43 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
-| 44 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 45 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
-| 46 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
-| 47 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 48 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 49 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 44 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 501 | C | 51/100 |
+| 45 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
+| 46 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
+| 47 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
+| 48 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 49 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 50 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 
