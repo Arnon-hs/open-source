@@ -2,7 +2,7 @@
 
 > 
 
-**47 projects** in this category.
+**48 projects** in this category.
 
 ## Projects
 
@@ -51,10 +51,11 @@
 | 41 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 412 | TypeScript | 55/100 |
 | 42 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
 | 43 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 44 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
-| 45 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 46 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 47 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 44 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
+| 45 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
+| 46 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 47 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 48 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 
