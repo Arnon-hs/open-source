@@ -242,9 +242,9 @@
 | 232 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 233 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 234 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 235 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 235 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 236 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 237 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 237 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 238 | [rakibtg/okf-skill](./rakibtg-okf-skill.md) | ⭐ — | — | 41/100 |
 | 239 | [benjaminjaklic/NAS_readme](./benjaminjaklic-nas-readme.md) | ⭐ — | — | 41/100 |
 | 240 | [laixintao/iredis](./laixintao-iredis.md) | ⭐ — | — | 41/100 |

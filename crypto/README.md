@@ -85,8 +85,8 @@
 | 75 | [mempool/mempool](./mempool-mempool.md) | ⭐ 2.8k | TypeScript | 71/100 |
 | 76 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 61 | JavaScript | 71/100 |
 | 77 | [argotorg/solidity](./argotorg-solidity.md) | ⭐ 25.7k | C++ | 71/100 |
-| 78 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
-| 79 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
+| 78 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
+| 79 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
 | 80 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
 | 81 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 82 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |
