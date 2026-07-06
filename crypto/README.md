@@ -87,8 +87,8 @@
 | 77 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 61 | JavaScript | 71/100 |
 | 78 | [argotorg/solidity](./argotorg-solidity.md) | ⭐ 25.7k | C++ | 71/100 |
 | 79 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
-| 80 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
-| 81 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 80 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 81 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
 | 82 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 83 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |
 | 84 | [besoeasy/yantr](./besoeasy-yantr.md) | ⭐ 127 | Vue | 71/100 |
@@ -148,8 +148,8 @@
 | 138 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 139 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 140 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 141 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
-| 142 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
+| 141 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
+| 142 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
 | 143 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 144 | [rotki/rotki](./rotki-rotki.md) | ⭐ 3.9k | Python | 66/100 |
 | 145 | [unicity-sphere/sphere](./unicity-sphere-sphere.md) | ⭐ 8k | TypeScript | 66/100 |

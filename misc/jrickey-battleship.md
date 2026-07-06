@@ -27,15 +27,41 @@ Misc
 
 ### English
 
-JRickey/BattleShip: JRickey/BattleShip may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**JRickey/BattleShip: A Cross-Platform Porting Project**
+
+JRickey/BattleShip is an open-source project that provides a port for PC, Mac, and Linux, allowing developers to create and deploy applications across multiple platforms. The project's value lies in its potential to streamline workflows, particularly when its README and activity align with specific development needs. However, adoption requires manual inspection and validation to ensure a smooth integration process.
+
+**Practical Adoption Path:**
+
+1. Review the project's README and activity to determine its relevance to your workflow.
+2. Inspect the integration signals in the discovered metadata to understand the project's compatibility with your existing infrastructure.
+3. Perform manual validation to ensure a smooth setup and minimize potential risks.
+
+**Production Readiness:**
+
+JRickey/BattleShip is considered production-ready with medium readiness. It is suitable for prototypes or internal workflows, but further dependency and maintenance checks are necessary before deploying it in a production environment.
 
 ### Русский
 
-JRickey/BattleShip: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+JRickey/BattleShip — это открытый кроссплатформенный порт морской битвы, написанный на C++ и готовый к запуску на PC, macOS и Linux; он подходит для быстрого прототипирования игровых механик или внутренних демонстраций, когда требуется простая, но полностью функциональная реализация классической аркадной игры. При интеграции проект требует ручного анализа и настройки (в метаданных мало информации о зависимостях), поэтому рекомендуется сначала проверить совместимость и затраты на поддержку, после чего можно использовать его в ограниченных production‑сценариях. Уровень готовности — средний: достаточный для прототипов и внутренних воркфлоу, но требует дополнительного контроля качества и мониторинга зависимостей перед масштабным внедрением.
 
 ### 中文
 
-JRickey/BattleShip：JRickey/BattleShip may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**JRickey/BattleShip 项目简介**
+
+JRickey/BattleShip 是一款开源项目，支持 PC、Mac 和 Linux 平台。它的价值在于可能有助于某些特定的工作流程，特别是在 README 和活动匹配时。
+
+**价值**
+
+JRickey/BattleShip 的价值在于它可能有助于某些特定的工作流程。然而，需要注意的是，README 和活动的匹配非常重要。
+
+**典型接入方式**
+
+由于 JRickey/BattleShip 的元数据中整合信号较少，因此需要手动检查和验收后才能完成接入。
+
+**生产可用性**
+
+JRickey/BattleShip 的生产可用性为中等（Medium），适合用于原型或内部工作流程。然而，需要注意的是，依赖项和维护检查在生产环境中非常重要。
 
 ## 🧭 Practical evaluation
 
