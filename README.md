@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **16098** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 2 | [Browse →](./payments/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 1 | [Browse →](./automation/) |
+| 🤖 **AI/ML** | 4896 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2946 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1481 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1312 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 875 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 814 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 685 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 589 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 528 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 363 | [Browse →](./knowledgerag/) |
+| 📊 **Data** | 333 | [Browse →](./data/) |
+| 🏷️ **Database** | 273 | [Browse →](./database/) |
+| 💳 **Payments** | 212 | [Browse →](./payments/) |
+| 📱 **Mobile** | 193 | [Browse →](./mobile/) |
+| 📈 **Trading** | 188 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 103 | [Browse →](./security/) |
+| ✨ **Design** | 48 | [Browse →](./design/) |
+| 🏷️ **Education** | 48 | [Browse →](./education/) |
+| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
+| 🎯 **Product** | 27 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 56.8k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.3k | Mcp |
-| 3 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.2k | AI/ML |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 11.8k | Mcp |
-| 5 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52.7k | Orchestration |
-| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.2k | Mcp |
-| 7 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
-| 8 | [PrefectHQ/fastmcp](./mcp/prefecthq-fastmcp.md) | ⭐ 26k | Mcp |
-| 9 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26k | Orchestration |
-| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.2k | Orchestration |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
 
 ## 🚀 How it works
 
