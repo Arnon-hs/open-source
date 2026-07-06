@@ -1,41 +1,41 @@
 # evalstate/fast-agent
 
-[![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&color=yellow)](https://github.com/evalstate/fast-agent/stargazers) [![Forks](https://img.shields.io/github/forks/evalstate/fast-agent?style=flat-square&color=blue)](https://github.com/evalstate/fast-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square&color=yellow)](https://github.com/evalstate/fast-agent/stargazers) [![Forks](https://img.shields.io/github/forks/evalstate/fast-agent?style=flat-square&color=blue)](https://github.com/evalstate/fast-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
-> Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
+> Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 403 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 413 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`acp` `agent` `agent-framework` `agent-skills` `cli` `mcp` `mcp-client` `mcp-server` `python` `skills` `tui`
+`a2a` `acp` `agent` `agent-framework` `agent-skills` `cli` `mcp` `mcp-client` `mcp-server` `python` `skills` `tui`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
 ### English
 
-**Fast‑Agent** is an open‑source framework for building, orchestrating, and evaluating AI agents, offering robust support for model integration, skill libraries, and advanced control‑plane protocols such as MCP and ACP. It provides a unified workflow that combines backend orchestration with a friendly frontend UI, enabling developers to quickly prototype, test, and benchmark agent behavior across diverse use cases.
+evalstate/fast-agent: evalstate/fast-agent helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-**fast-agent** — это open‑source платформа для быстрой разработки, сборки и оценки интеллектуальных агентов с поддержкой современных моделей, навыков (Skills), MCP и ACP. Проект объединяет оркестрацию, машинное обучение и удобный фронтенд, позволяя создавать масштабируемые AI‑решения без лишних усилий. Он идеален для команд, которым нужен гибкий и полностью открытый инструмент для управления жизненным циклом агентов.
+evalstate/fast-agent: open-source проект в категориях Orchestration, MCP, AI/ML, Frontend, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tool
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 3769 GitHub stars
-- 403 forks
-- updated 2026-05-08
+- 3851 GitHub stars
+- 413 forks
+- updated 2026-07-06
 - primary language: Python
-- 11 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -66,17 +66,17 @@ evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 88/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 72/100 |
+| production | 84/100 |
+| outlook | 93/100 |
 | adoption | 73/100 |
 | stars | 76/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/evalstate/fast-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/evalstate/fast-agent) · [← Back to Orchestration](./README.md)</sub>

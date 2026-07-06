@@ -53,7 +53,7 @@ beclab/Olares：beclab/Olares helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 5017 GitHub stars
+- 5018 GitHub stars
 - 305 forks
 - updated 2026-07-06
 - primary language: Go

@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16252** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4938 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2971 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1497 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1323 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 890 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 821 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 692 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 595 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 532 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 370 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 334 | [Browse →](./data/) |
-| 🏷️ **Database** | 279 | [Browse →](./database/) |
-| 💳 **Payments** | 213 | [Browse →](./payments/) |
-| 📱 **Mobile** | 197 | [Browse →](./mobile/) |
-| 📈 **Trading** | 188 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 104 | [Browse →](./security/) |
-| 🏷️ **Education** | 49 | [Browse →](./education/) |
-| ✨ **Design** | 48 | [Browse →](./design/) |
-| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🏷️ **Mcp** | 19 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
-| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 1 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 42.4k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.4k | Mcp |
+| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.3k | Mcp |
+| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 5 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 6 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.1k | Orchestration |
+| 7 | [davepoon/buildwithclaude](./mcp/davepoon-buildwithclaude.md) | ⭐ 3.1k | Mcp |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.5k | Orchestration |
+| 10 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75.3k | Orchestration |
 
 ## 🚀 How it works
 
