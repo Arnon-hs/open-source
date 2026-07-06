@@ -2,7 +2,7 @@
 
 > 
 
-**612 projects** in this category.
+**613 projects** in this category.
 
 ## Projects
 
@@ -374,8 +374,8 @@
 | 364 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 365 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 366 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 367 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
-| 368 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 367 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 368 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
 | 369 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 370 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 371 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |
@@ -567,59 +567,60 @@
 | 557 | [focus-trap/focus-trap-react](./focus-trap-focus-trap-react.md) | ⭐ 779 | JavaScript | 56/100 |
 | 558 | [testomatio/explorbot](./testomatio-explorbot.md) | ⭐ 46 | TypeScript | 56/100 |
 | 559 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
-| 560 | [katelya77/K-Vault](./katelya77-k-vault.md) | ⭐ 685 | JavaScript | 55/100 |
-| 561 | [allenai/molmospaces](./allenai-molmospaces.md) | ⭐ 323 | Python | 55/100 |
-| 562 | [ModernRelay/omnigraph](./modernrelay-omnigraph.md) | ⭐ 199 | Rust | 55/100 |
-| 563 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
-| 564 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
-| 565 | [Omicron-Industries/Monifactory](./omicron-industries-monifactory.md) | ⭐ 439 | JavaScript | 54/100 |
-| 566 | [Bessouat40/chainything](./bessouat40-chainything.md) | ⭐ — | — | 54/100 |
-| 567 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
-| 568 | [IR-NETLIFY/zeus](./ir-netlify-zeus.md) | ⭐ 432 | JavaScript | 53/100 |
-| 569 | [rfresh2/ZenithProxy](./rfresh2-zenithproxy.md) | ⭐ 396 | Java | 53/100 |
-| 570 | [PedroL3m0z/Flux-Api](./pedrol3m0z-flux-api.md) | ⭐ — | — | 52/100 |
-| 571 | [calcmogul/controls-engineering-in-frc](./calcmogul-controls-engineering-in-frc.md) | ⭐ 344 | TeX | 52/100 |
-| 572 | [sly-codechum/chum-mem](./sly-codechum-chum-mem.md) | ⭐ 35 | Rust | 52/100 |
-| 573 | [atomgit-atomcode/atomcode](./atomgit-atomcode-atomcode.md) | ⭐ 144 | Rust | 51/100 |
-| 574 | [YuanpingSong/ultracodex](./yuanpingsong-ultracodex.md) | ⭐ — | — | 49/100 |
-| 575 | [ohad6k/VibeRaven](./ohad6k-viberaven.md) | ⭐ — | — | 49/100 |
-| 576 | [stepfun-ai/gelab-zero](./stepfun-ai-gelab-zero.md) | ⭐ — | — | 49/100 |
-| 577 | [Alfredvc/aharness](./alfredvc-aharness.md) | ⭐ — | — | 49/100 |
-| 578 | [swenyai/sweny](./swenyai-sweny.md) | ⭐ — | — | 49/100 |
-| 579 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
-| 580 | [xalgord/xalgorix](./xalgord-xalgorix.md) | ⭐ — | — | 48/100 |
-| 581 | [HoraDomu/Vypl](./horadomu-vypl.md) | ⭐ — | — | 48/100 |
-| 582 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
-| 583 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 584 | [mihailDamchevski/win-auto](./mihaildamchevski-win-auto.md) | ⭐ — | — | 45/100 |
-| 585 | [keplertech/kepler-formal](./keplertech-kepler-formal.md) | ⭐ — | — | 45/100 |
-| 586 | [a92070888-dev/mcp-os-native-automation](./a92070888-dev-mcp-os-native-automation.md) | ⭐ — | — | 45/100 |
-| 587 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ — | — | 45/100 |
-| 588 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ — | — | 45/100 |
-| 589 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ — | — | 45/100 |
-| 590 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ — | — | 45/100 |
-| 591 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ — | — | 45/100 |
-| 592 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
-| 593 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
-| 594 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
-| 595 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
-| 596 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
-| 597 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
-| 598 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
-| 599 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 600 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
-| 601 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
-| 602 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
-| 603 | [prahladyeri/gubbi](./prahladyeri-gubbi.md) | ⭐ — | — | 41/100 |
-| 604 | [haltakov/chatbot-page](./haltakov-chatbot-page.md) | ⭐ — | — | 41/100 |
-| 605 | [MSkill1/zynkbot](./mskill1-zynkbot.md) | ⭐ — | — | 41/100 |
-| 606 | [joneslloyd/agent-skills](./joneslloyd-agent-skills.md) | ⭐ — | — | 41/100 |
-| 607 | [openmoq/moq5](./openmoq-moq5.md) | ⭐ — | — | 41/100 |
-| 608 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 41/100 |
-| 609 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
-| 610 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
-| 611 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
-| 612 | [AutoPackAI/beebot](./autopackai-beebot.md) | ⭐ — | — | 32/100 |
+| 560 | [NiceneNerd/UKMM](./nicenenerd-ukmm.md) | ⭐ 249 | Rust | 55/100 |
+| 561 | [katelya77/K-Vault](./katelya77-k-vault.md) | ⭐ 685 | JavaScript | 55/100 |
+| 562 | [allenai/molmospaces](./allenai-molmospaces.md) | ⭐ 323 | Python | 55/100 |
+| 563 | [ModernRelay/omnigraph](./modernrelay-omnigraph.md) | ⭐ 199 | Rust | 55/100 |
+| 564 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
+| 565 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
+| 566 | [Omicron-Industries/Monifactory](./omicron-industries-monifactory.md) | ⭐ 439 | JavaScript | 54/100 |
+| 567 | [Bessouat40/chainything](./bessouat40-chainything.md) | ⭐ — | — | 54/100 |
+| 568 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
+| 569 | [IR-NETLIFY/zeus](./ir-netlify-zeus.md) | ⭐ 432 | JavaScript | 53/100 |
+| 570 | [rfresh2/ZenithProxy](./rfresh2-zenithproxy.md) | ⭐ 396 | Java | 53/100 |
+| 571 | [PedroL3m0z/Flux-Api](./pedrol3m0z-flux-api.md) | ⭐ — | — | 52/100 |
+| 572 | [calcmogul/controls-engineering-in-frc](./calcmogul-controls-engineering-in-frc.md) | ⭐ 344 | TeX | 52/100 |
+| 573 | [sly-codechum/chum-mem](./sly-codechum-chum-mem.md) | ⭐ 35 | Rust | 52/100 |
+| 574 | [atomgit-atomcode/atomcode](./atomgit-atomcode-atomcode.md) | ⭐ 144 | Rust | 51/100 |
+| 575 | [YuanpingSong/ultracodex](./yuanpingsong-ultracodex.md) | ⭐ — | — | 49/100 |
+| 576 | [ohad6k/VibeRaven](./ohad6k-viberaven.md) | ⭐ — | — | 49/100 |
+| 577 | [stepfun-ai/gelab-zero](./stepfun-ai-gelab-zero.md) | ⭐ — | — | 49/100 |
+| 578 | [Alfredvc/aharness](./alfredvc-aharness.md) | ⭐ — | — | 49/100 |
+| 579 | [swenyai/sweny](./swenyai-sweny.md) | ⭐ — | — | 49/100 |
+| 580 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
+| 581 | [xalgord/xalgorix](./xalgord-xalgorix.md) | ⭐ — | — | 48/100 |
+| 582 | [HoraDomu/Vypl](./horadomu-vypl.md) | ⭐ — | — | 48/100 |
+| 583 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
+| 584 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
+| 585 | [mihailDamchevski/win-auto](./mihaildamchevski-win-auto.md) | ⭐ — | — | 45/100 |
+| 586 | [keplertech/kepler-formal](./keplertech-kepler-formal.md) | ⭐ — | — | 45/100 |
+| 587 | [a92070888-dev/mcp-os-native-automation](./a92070888-dev-mcp-os-native-automation.md) | ⭐ — | — | 45/100 |
+| 588 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ — | — | 45/100 |
+| 589 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ — | — | 45/100 |
+| 590 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ — | — | 45/100 |
+| 591 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ — | — | 45/100 |
+| 592 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ — | — | 45/100 |
+| 593 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
+| 594 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
+| 595 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
+| 596 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
+| 597 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
+| 598 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
+| 599 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
+| 600 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 601 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
+| 602 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
+| 603 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
+| 604 | [prahladyeri/gubbi](./prahladyeri-gubbi.md) | ⭐ — | — | 41/100 |
+| 605 | [haltakov/chatbot-page](./haltakov-chatbot-page.md) | ⭐ — | — | 41/100 |
+| 606 | [MSkill1/zynkbot](./mskill1-zynkbot.md) | ⭐ — | — | 41/100 |
+| 607 | [joneslloyd/agent-skills](./joneslloyd-agent-skills.md) | ⭐ — | — | 41/100 |
+| 608 | [openmoq/moq5](./openmoq-moq5.md) | ⭐ — | — | 41/100 |
+| 609 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 41/100 |
+| 610 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
+| 611 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
+| 612 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 613 | [AutoPackAI/beebot](./autopackai-beebot.md) | ⭐ — | — | 32/100 |
 
 ---
 
