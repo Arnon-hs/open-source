@@ -1,27 +1,27 @@
 # santifer/career-ops
 
-[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
-> AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+> Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58.7k |
-| 🍴 **Forks** | 11.5k |
+| ⭐ **Stars** | 58.8k |
+| 🍴 **Forks** | 11.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agent` `anthropic` `automation` `beginner-friendly` `career` `careerops` `claude` `claude-code` `cli` `first-timers-only` `golang` `good-first-issue`
+`ai` `ai-agent` `anthropic` `ats` `automation` `beginner-friendly` `career` `careerops` `claude` `claude-code` `cli` `first-timers-only`
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ santifer/career-ops: santifer/career-ops helps remove repetitive manual operatio
 
 ### Русский
 
-santifer/career-ops: open-source проект в категориях Automation, AI/ML, Frontend, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+santifer/career-ops: open-source проект в категориях Automation, AI/ML, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
@@ -53,11 +53,11 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 **Quality signals**
 
-- 58698 GitHub stars
-- 11518 forks
+- 58849 GitHub stars
+- 11554 forks
 - updated 2026-07-06
 - primary language: JavaScript
-- 16 topics
+- 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
+| usefulness | 90/100 |
 | quality | 100/100 |
 | integration | 62/100 |
 | production | 86/100 |
-| outlook | 100/100 |
+| outlook | 98/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
