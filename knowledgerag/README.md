@@ -247,8 +247,8 @@
 | 237 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 64/100 |
 | 238 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 64/100 |
 | 239 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 64/100 |
-| 240 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 64/100 |
-| 241 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 64/100 |
+| 240 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 64/100 |
+| 241 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 64/100 |
 | 242 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 64/100 |
 | 243 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 64/100 |
 | 244 | [sockmaster27/svader](./sockmaster27-svader.md) | ⭐ 458 | Svelte | 64/100 |
