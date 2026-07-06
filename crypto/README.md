@@ -75,8 +75,8 @@
 | 65 | [aws/aws-cdk](./aws-aws-cdk.md) | ⭐ 12.8k | TypeScript | 72/100 |
 | 66 | [Lumiwealth/lumibot](./lumiwealth-lumibot.md) | ⭐ 1.7k | Python | 72/100 |
 | 67 | [BlockRunAI/blockrun-mcp](./blockrunai-blockrun-mcp.md) | ⭐ 466 | TypeScript | 72/100 |
-| 68 | [dante-gpu/dantegpu-core](./dante-gpu-dantegpu-core.md) | ⭐ 75 | Go | 72/100 |
-| 69 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 53 | TypeScript | 72/100 |
+| 68 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 53 | TypeScript | 72/100 |
+| 69 | [dante-gpu/dantegpu-core](./dante-gpu-dantegpu-core.md) | ⭐ 75 | Go | 72/100 |
 | 70 | [Justin0504/Aegis](./justin0504-aegis.md) | ⭐ 358 | TypeScript | 72/100 |
 | 71 | [qntx/x402-openai-python](./qntx-x402-openai-python.md) | ⭐ 260 | Python | 72/100 |
 | 72 | [zonelessdev/zoneless](./zonelessdev-zoneless.md) | ⭐ 290 | TypeScript | 72/100 |
@@ -443,8 +443,8 @@
 | 433 | [esbmc/esbmc](./esbmc-esbmc.md) | ⭐ 481 | C | 53/100 |
 | 434 | [OnChainMee/blockchain-projects](./onchainmee-blockchain-projects.md) | ⭐ 309 | — | 53/100 |
 | 435 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 560 | Rust | 53/100 |
-| 436 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
-| 437 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
+| 436 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
+| 437 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
 | 438 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 94 | — | 53/100 |
 | 439 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 173 | Rust | 53/100 |
 | 440 | [binius-zk/binius64](./binius-zk-binius64.md) | ⭐ 143 | Rust | 53/100 |

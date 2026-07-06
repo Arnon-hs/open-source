@@ -2,7 +2,7 @@
 
 > 
 
-**600 projects** in this category.
+**601 projects** in this category.
 
 ## Projects
 
@@ -369,8 +369,8 @@
 | 359 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 360 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 361 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 362 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
-| 363 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 362 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 363 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
 | 364 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 365 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 366 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |
@@ -580,34 +580,35 @@
 | 570 | [HoraDomu/Vypl](./horadomu-vypl.md) | ⭐ — | — | 48/100 |
 | 571 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
 | 572 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 573 | [keplertech/kepler-formal](./keplertech-kepler-formal.md) | ⭐ — | — | 45/100 |
-| 574 | [a92070888-dev/mcp-os-native-automation](./a92070888-dev-mcp-os-native-automation.md) | ⭐ — | — | 45/100 |
-| 575 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ — | — | 45/100 |
-| 576 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ — | — | 45/100 |
-| 577 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ — | — | 45/100 |
-| 578 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ — | — | 45/100 |
-| 579 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ — | — | 45/100 |
-| 580 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
-| 581 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
-| 582 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
-| 583 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
-| 584 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
-| 585 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
-| 586 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
-| 587 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 588 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
-| 589 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
-| 590 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
-| 591 | [prahladyeri/gubbi](./prahladyeri-gubbi.md) | ⭐ — | — | 41/100 |
-| 592 | [haltakov/chatbot-page](./haltakov-chatbot-page.md) | ⭐ — | — | 41/100 |
-| 593 | [MSkill1/zynkbot](./mskill1-zynkbot.md) | ⭐ — | — | 41/100 |
-| 594 | [joneslloyd/agent-skills](./joneslloyd-agent-skills.md) | ⭐ — | — | 41/100 |
-| 595 | [openmoq/moq5](./openmoq-moq5.md) | ⭐ — | — | 41/100 |
-| 596 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 41/100 |
-| 597 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
-| 598 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
-| 599 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
-| 600 | [AutoPackAI/beebot](./autopackai-beebot.md) | ⭐ — | — | 32/100 |
+| 573 | [mihailDamchevski/win-auto](./mihaildamchevski-win-auto.md) | ⭐ — | — | 45/100 |
+| 574 | [keplertech/kepler-formal](./keplertech-kepler-formal.md) | ⭐ — | — | 45/100 |
+| 575 | [a92070888-dev/mcp-os-native-automation](./a92070888-dev-mcp-os-native-automation.md) | ⭐ — | — | 45/100 |
+| 576 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ — | — | 45/100 |
+| 577 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ — | — | 45/100 |
+| 578 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ — | — | 45/100 |
+| 579 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ — | — | 45/100 |
+| 580 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ — | — | 45/100 |
+| 581 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
+| 582 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
+| 583 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
+| 584 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
+| 585 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
+| 586 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
+| 587 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
+| 588 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 589 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
+| 590 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
+| 591 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
+| 592 | [prahladyeri/gubbi](./prahladyeri-gubbi.md) | ⭐ — | — | 41/100 |
+| 593 | [haltakov/chatbot-page](./haltakov-chatbot-page.md) | ⭐ — | — | 41/100 |
+| 594 | [MSkill1/zynkbot](./mskill1-zynkbot.md) | ⭐ — | — | 41/100 |
+| 595 | [joneslloyd/agent-skills](./joneslloyd-agent-skills.md) | ⭐ — | — | 41/100 |
+| 596 | [openmoq/moq5](./openmoq-moq5.md) | ⭐ — | — | 41/100 |
+| 597 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 41/100 |
+| 598 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
+| 599 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
+| 600 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 601 | [AutoPackAI/beebot](./autopackai-beebot.md) | ⭐ — | — | 32/100 |
 
 ---
 

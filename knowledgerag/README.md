@@ -357,8 +357,8 @@
 | 347 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 348 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
 | 349 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
-| 350 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
-| 351 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 350 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 351 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
 | 352 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
 | 353 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
 | 354 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |

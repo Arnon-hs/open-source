@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**188 projects** in this category.
+**189 projects** in this category.
 
 ## Projects
 
@@ -189,13 +189,14 @@
 | 179 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 46/100 |
 | 180 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 45/100 |
 | 181 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 43/100 |
-| 182 | [ynnk-research/Modular-Assembly-of-High-Performance-Logical-Blocks](./ynnk-research-modular-assembly-of-high-performance-logical-blocks.md) | ⭐ — | — | 41/100 |
-| 183 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
-| 184 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
-| 185 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
-| 186 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
-| 187 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
-| 188 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
+| 182 | [theadamdanielsson/ggufpacker](./theadamdanielsson-ggufpacker.md) | ⭐ — | — | 41/100 |
+| 183 | [ynnk-research/Modular-Assembly-of-High-Performance-Logical-Blocks](./ynnk-research-modular-assembly-of-high-performance-logical-blocks.md) | ⭐ — | — | 41/100 |
+| 184 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
+| 185 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
+| 186 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
+| 187 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
+| 188 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
+| 189 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
 
 ---
 
