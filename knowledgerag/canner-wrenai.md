@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usabl
 
 **Quality signals**
 
-- 15727 GitHub stars
-- 1795 forks
-- updated 2026-07-03
+- 15743 GitHub stars
+- 1798 forks
+- updated 2026-07-06
 - primary language: Python
 - 17 topics
 
@@ -79,4 +79,4 @@ Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usabl
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/Canner/WrenAI) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/Canner/WrenAI) · [← Back to Knowledgerag](./README.md)</sub>

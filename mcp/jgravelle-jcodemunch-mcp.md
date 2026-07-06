@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 300 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps connect AI assistants 
 
 **Quality signals**
 
-- 1975 GitHub stars
+- 1977 GitHub stars
 - 300 forks
-- updated 2026-07-05
+- updated 2026-07-06
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps connect AI assistants 
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [← Back to Mcp](./README.md)</sub>
