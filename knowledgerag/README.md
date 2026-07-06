@@ -223,8 +223,8 @@
 | 213 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 2.8k | Rust | 65/100 |
 | 214 | [ghc/ghc](./ghc-ghc.md) | ⭐ 3.3k | Haskell | 65/100 |
 | 215 | [jonfairbanks/local-rag](./jonfairbanks-local-rag.md) | ⭐ 750 | Python | 65/100 |
-| 216 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
-| 217 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
+| 216 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
+| 217 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
 | 218 | [DragonFlyBSD/DragonFlyBSD](./dragonflybsd-dragonflybsd.md) | ⭐ 616 | C | 65/100 |
 | 219 | [oakreader/oakreader](./oakreader-oakreader.md) | ⭐ 31 | Swift | 65/100 |
 | 220 | [TheKevJames/coveralls-python](./thekevjames-coveralls-python.md) | ⭐ 570 | Python | 65/100 |
@@ -361,8 +361,8 @@
 | 351 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 352 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
 | 353 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
-| 354 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
-| 355 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 354 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 355 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
 | 356 | [Jott2121/graph-guard](./jott2121-graph-guard.md) | ⭐ — | — | 45/100 |
 | 357 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
 | 358 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
