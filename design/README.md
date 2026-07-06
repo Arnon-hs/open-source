@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**48 projects** in this category.
+**49 projects** in this category.
 
 ## Projects
 
@@ -28,34 +28,35 @@
 | 18 | [maddisondesigns/customizer-custom-controls](./maddisondesigns-customizer-custom-controls.md) | ⭐ 408 | JavaScript | 56/100 |
 | 19 | [murtaza-nasir/speakr](./murtaza-nasir-speakr.md) | ⭐ 3.1k | Python | 55/100 |
 | 20 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 937 | Astro | 55/100 |
-| 21 | [graelo/pumas](./graelo-pumas.md) | ⭐ 216 | Rust | 55/100 |
-| 22 | [tig-foundation/tig-monorepo](./tig-foundation-tig-monorepo.md) | ⭐ 121 | Rust | 54/100 |
-| 23 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.5k | Shell | 53/100 |
-| 24 | [wlzh/dji-4g-vohive-mac](./wlzh-dji-4g-vohive-mac.md) | ⭐ 448 | — | 53/100 |
-| 25 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
-| 26 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 53/100 |
-| 27 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 52/100 |
-| 28 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 315 | Ada | 52/100 |
-| 29 | [m1ckc3s/claude-status-bar](./m1ckc3s-claude-status-bar.md) | ⭐ 363 | Swift | 52/100 |
-| 30 | [j178/prek](./j178-prek.md) | ⭐ 7.6k | Rust | 51/100 |
-| 31 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 51/100 |
-| 32 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 51/100 |
-| 33 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 50/100 |
-| 34 | [SideCloudGroup/BetterForward](./sidecloudgroup-betterforward.md) | ⭐ 648 | Python | 50/100 |
-| 35 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 50/100 |
-| 36 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 48/100 |
-| 37 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 48/100 |
-| 38 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 48/100 |
-| 39 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 48/100 |
-| 40 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 48/100 |
-| 41 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 47/100 |
-| 42 | [maecer/silimon](./maecer-silimon.md) | ⭐ — | — | 45/100 |
-| 43 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 41/100 |
-| 44 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 41/100 |
-| 45 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 41/100 |
-| 46 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
-| 47 | [dougallj/a14d3f72b57ee58a81d487b43ff2a05b](./dougallj-a14d3f72b57ee58a81d487b43ff2a05b.md) | ⭐ — | — | 39/100 |
-| 48 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 31/100 |
+| 21 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.3k | WebAssembly | 55/100 |
+| 22 | [graelo/pumas](./graelo-pumas.md) | ⭐ 216 | Rust | 55/100 |
+| 23 | [tig-foundation/tig-monorepo](./tig-foundation-tig-monorepo.md) | ⭐ 121 | Rust | 54/100 |
+| 24 | [tw93/Waza](./tw93-waza.md) | ⭐ 4.5k | Shell | 53/100 |
+| 25 | [wlzh/dji-4g-vohive-mac](./wlzh-dji-4g-vohive-mac.md) | ⭐ 448 | — | 53/100 |
+| 26 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 53/100 |
+| 27 | [JuliaGPU/Metal.jl](./juliagpu-metal.jl.md) | ⭐ 448 | Julia | 53/100 |
+| 28 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 52/100 |
+| 29 | [AdaCore/spark2014](./adacore-spark2014.md) | ⭐ 315 | Ada | 52/100 |
+| 30 | [m1ckc3s/claude-status-bar](./m1ckc3s-claude-status-bar.md) | ⭐ 363 | Swift | 52/100 |
+| 31 | [j178/prek](./j178-prek.md) | ⭐ 7.6k | Rust | 51/100 |
+| 32 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 51/100 |
+| 33 | [ComputationalRadiationPhysics/picongpu](./computationalradiationphysics-picongpu.md) | ⭐ 779 | C++ | 51/100 |
+| 34 | [sorbet/sorbet](./sorbet-sorbet.md) | ⭐ 3.8k | C++ | 50/100 |
+| 35 | [SideCloudGroup/BetterForward](./sidecloudgroup-betterforward.md) | ⭐ 648 | Python | 50/100 |
+| 36 | [intel/systemc-compiler](./intel-systemc-compiler.md) | ⭐ 302 | C++ | 50/100 |
+| 37 | [hyperlight-dev/hyperlight](./hyperlight-dev-hyperlight.md) | ⭐ 4.2k | Rust | 48/100 |
+| 38 | [sblantipodi/firefly_luciferin](./sblantipodi-firefly-luciferin.md) | ⭐ 436 | Java | 48/100 |
+| 39 | [juspay/superposition](./juspay-superposition.md) | ⭐ 414 | Rust | 48/100 |
+| 40 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 48/100 |
+| 41 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 48/100 |
+| 42 | [agersant/polaris](./agersant-polaris.md) | ⭐ 2.6k | Rust | 47/100 |
+| 43 | [maecer/silimon](./maecer-silimon.md) | ⭐ — | — | 45/100 |
+| 44 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 41/100 |
+| 45 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ — | — | 41/100 |
+| 46 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 41/100 |
+| 47 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 41/100 |
+| 48 | [dougallj/a14d3f72b57ee58a81d487b43ff2a05b](./dougallj-a14d3f72b57ee58a81d487b43ff2a05b.md) | ⭐ — | — | 39/100 |
+| 49 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 31/100 |
 
 ---
 
