@@ -440,8 +440,8 @@
 | 430 | [esbmc/esbmc](./esbmc-esbmc.md) | ⭐ 481 | C | 53/100 |
 | 431 | [OnChainMee/blockchain-projects](./onchainmee-blockchain-projects.md) | ⭐ 309 | — | 53/100 |
 | 432 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 560 | Rust | 53/100 |
-| 433 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
-| 434 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
+| 433 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
+| 434 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
 | 435 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 94 | — | 53/100 |
 | 436 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 173 | Rust | 53/100 |
 | 437 | [binius-zk/binius64](./binius-zk-binius64.md) | ⭐ 143 | Rust | 53/100 |

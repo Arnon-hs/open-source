@@ -513,8 +513,8 @@
 | 503 | [kage-core/Kage](./kage-core-kage.md) | ⭐ 23 | TypeScript | 71/100 |
 | 504 | [NirDiamant/Agent_Memory_Techniques](./nirdiamant-agent-memory-techniques.md) | ⭐ 746 | Jupyter Notebook | 71/100 |
 | 505 | [heggria/taskflow](./heggria-taskflow.md) | ⭐ 22 | TypeScript | 71/100 |
-| 506 | [Garrus800-stack/genesis-agent](./garrus800-stack-genesis-agent.md) | ⭐ 31 | JavaScript | 71/100 |
-| 507 | [maximem-ai/maximem_synap_sdk](./maximem-ai-maximem-synap-sdk.md) | ⭐ 32 | Python | 71/100 |
+| 506 | [maximem-ai/maximem_synap_sdk](./maximem-ai-maximem-synap-sdk.md) | ⭐ 32 | Python | 71/100 |
+| 507 | [Garrus800-stack/genesis-agent](./garrus800-stack-genesis-agent.md) | ⭐ 31 | JavaScript | 71/100 |
 | 508 | [deepfates/cantrip](./deepfates-cantrip.md) | ⭐ 119 | Elixir | 71/100 |
 | 509 | [26zl/cybersec-toolkit](./26zl-cybersec-toolkit.md) | ⭐ 22 | Python | 71/100 |
 | 510 | [gma1k/podtrace](./gma1k-podtrace.md) | ⭐ 183 | Go | 71/100 |
@@ -1177,8 +1177,8 @@
 | 1167 | [swyxio/skills](./swyxio-skills.md) | ⭐ 142 | TypeScript | 57/100 |
 | 1168 | [YurunChen/repo-docs-skills](./yurunchen-repo-docs-skills.md) | ⭐ 142 | JavaScript | 57/100 |
 | 1169 | [educlopez/ui-craft](./educlopez-ui-craft.md) | ⭐ 49 | JavaScript | 57/100 |
-| 1170 | [zebinlu7-a11y/screen-flow-ai-agent](./zebinlu7-a11y-screen-flow-ai-agent.md) | ⭐ 122 | Python | 57/100 |
-| 1171 | [loulanyue/dream-xi-ai](./loulanyue-dream-xi-ai.md) | ⭐ 77 | TypeScript | 57/100 |
+| 1170 | [loulanyue/dream-xi-ai](./loulanyue-dream-xi-ai.md) | ⭐ 77 | TypeScript | 57/100 |
+| 1171 | [zebinlu7-a11y/screen-flow-ai-agent](./zebinlu7-a11y-screen-flow-ai-agent.md) | ⭐ 122 | Python | 57/100 |
 | 1172 | [7df-lab/devo](./7df-lab-devo.md) | ⭐ 277 | Rust | 57/100 |
 | 1173 | [thienanblog/awesome-ai-agent-skills](./thienanblog-awesome-ai-agent-skills.md) | ⭐ 59 | Shell | 57/100 |
 | 1174 | [wayle-rs/wayle](./wayle-rs-wayle.md) | ⭐ 322 | Rust | 57/100 |
