@@ -1278,9 +1278,9 @@
 | 1268 | [compio-rs/winio](./compio-rs-winio.md) | ⭐ 117 | Rust | 50/100 |
 | 1269 | [buildcores/buildcores-open-db](./buildcores-buildcores-open-db.md) | ⭐ 320 | Shell | 50/100 |
 | 1270 | [facebookincubator/antlir](./facebookincubator-antlir.md) | ⭐ 111 | Rust | 50/100 |
-| 1271 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 1271 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 1272 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 1273 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1273 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 1274 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 1275 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
 | 1276 | [facebook/openbmc](./facebook-openbmc.md) | ⭐ 678 | C | 50/100 |
@@ -1424,8 +1424,8 @@
 | 1414 | [greysonbowser/arxiv-red](./greysonbowser-arxiv-red.md) | ⭐ — | — | 41/100 |
 | 1415 | [jialinhuang00/kubelens](./jialinhuang00-kubelens.md) | ⭐ — | — | 41/100 |
 | 1416 | [harshal2030/Grizzly](./harshal2030-grizzly.md) | ⭐ — | — | 41/100 |
-| 1417 | [valmishq/valmis](./valmishq-valmis.md) | ⭐ — | — | 41/100 |
-| 1418 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 41/100 |
+| 1417 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 41/100 |
+| 1418 | [valmishq/valmis](./valmishq-valmis.md) | ⭐ — | — | 41/100 |
 | 1419 | [sermuns/ratatuefi](./sermuns-ratatuefi.md) | ⭐ — | — | 41/100 |
 | 1420 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 41/100 |
 | 1421 | [iProgramMC/NanoShellOS](./iprogrammc-nanoshellos.md) | ⭐ — | — | 41/100 |
@@ -1455,8 +1455,8 @@
 | 1445 | [FeroVolar/Decision-Framework-Skill](./ferovolar-decision-framework-skill.md) | ⭐ — | — | 41/100 |
 | 1446 | [larrasket/emacs-liquid-glass](./larrasket-emacs-liquid-glass.md) | ⭐ — | — | 41/100 |
 | 1447 | [DDecoene/WebBaseIII](./ddecoene-webbaseiii.md) | ⭐ — | — | 41/100 |
-| 1448 | [a-chacon/procman](./a-chacon-procman.md) | ⭐ — | — | 41/100 |
-| 1449 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
+| 1448 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
+| 1449 | [a-chacon/procman](./a-chacon-procman.md) | ⭐ — | — | 41/100 |
 | 1450 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 41/100 |
 | 1451 | [victormasson/QuickAccent](./victormasson-quickaccent.md) | ⭐ — | — | 41/100 |
 | 1452 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 41/100 |
