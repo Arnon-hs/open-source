@@ -1,6 +1,6 @@
 # TheLunarCompany/lunar
 
-[![Stars](https://img.shields.io/github/stars/TheLunarCompany/lunar?style=flat-square&color=yellow)](https://github.com/TheLunarCompany/lunar/stargazers) [![Forks](https://img.shields.io/github/forks/TheLunarCompany/lunar?style=flat-square&color=blue)](https://github.com/TheLunarCompany/lunar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheLunarCompany/lunar?style=flat-square&color=yellow)](https://github.com/TheLunarCompany/lunar/stargazers) [![Forks](https://img.shields.io/github/forks/TheLunarCompany/lunar?style=flat-square&color=blue)](https://github.com/TheLunarCompany/lunar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > lunar.dev: Agent native MCP Gateway for governance and security
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 424 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 466 |
+| 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-Lunar is an open‑source, agent‑native MCP (Message Control Protocol) gateway designed to streamline governance and security across distributed systems. It provides a unified orchestration layer that integrates AI/ML capabilities with backend services, enabling fine‑grained policy enforcement, secure communication, and automated workflow management. By acting as a central hub for agents, Lunar simplifies the deployment and monitoring of complex, security‑focused architectures.
+TheLunarCompany/lunar: TheLunarCompany/lunar helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-TheLunarCompany/lunar — это открытый проект, реализующий нативный MCP‑gateway для агентов, обеспечивая централизованное управление, мониторинг и безопасность микросервисных систем. Платформа сочетает возможности оркестрации, интеграцию AI/ML‑моделей и надёжный backend, позволяя быстро разворачивать и контролировать распределённые приложения в корпоративных средах.
+TheLunarCompany/lunar: open-source проект в категориях Orchestration, MCP, AI/ML, Backend, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-TheLunarCompany/lunar：TheLunarCompany/lunar helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+TheLunarCompany/lunar：TheLunarCompany/lunar helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ TheLunarCompany/lunar：TheLunarCompany/lunar helps turn isolated prompts and to
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 424 GitHub stars
-- 32 forks
-- updated 2026-05-08
+- 466 GitHub stars
+- 37 forks
+- updated 2026-07-06
 - primary language: TypeScript
 - 11 topics
 
@@ -66,17 +66,17 @@ TheLunarCompany/lunar：TheLunarCompany/lunar helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 78/100 |
 | integration | 100/100 |
-| production | 63/100 |
-| outlook | 67/100 |
-| adoption | 51/100 |
-| stars | 56/100 |
-| forks | 38/100 |
-| recency | 40/100 |
+| production | 83/100 |
+| outlook | 88/100 |
+| adoption | 52/100 |
+| stars | 57/100 |
+| forks | 39/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/TheLunarCompany/lunar) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/TheLunarCompany/lunar) · [← Back to Orchestration](./README.md)</sub>
