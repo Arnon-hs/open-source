@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 652 |
+| ⭐ **Stars** | 5.3k |
+| 🍴 **Forks** | 659 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ baserow/baserow：baserow/baserow helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 5222 GitHub stars
-- 652 forks
-- updated 2026-07-03
+- 5254 GitHub stars
+- 659 forks
+- updated 2026-07-06
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ baserow/baserow：baserow/baserow helps remove repetitive manual operations from
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/baserow/baserow) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/baserow/baserow) · [← Back to Automation](./README.md)</sub>

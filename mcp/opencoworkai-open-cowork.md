@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 237 |
+| 🍴 **Forks** | 239 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-07-06 |
@@ -53,8 +53,8 @@ OpenCoworkAI/open-cowork：OpenCoworkAI/open-cowork helps connect AI assistants 
 
 **Quality signals**
 
-- 1768 GitHub stars
-- 237 forks
+- 1780 GitHub stars
+- 239 forks
 - updated 2026-07-06
 - primary language: TypeScript
 - 14 topics
@@ -72,7 +72,7 @@ OpenCoworkAI/open-cowork：OpenCoworkAI/open-cowork helps connect AI assistants 
 | outlook | 92/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
-| forks | 59/100 |
+| forks | 60/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

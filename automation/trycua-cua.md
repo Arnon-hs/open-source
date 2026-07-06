@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-06 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ trycua/cua：trycua/cua helps remove repetitive manual operations from a workflo
 
 **Quality signals**
 
-- 19373 GitHub stars
-- 1273 forks
-- updated 2026-07-05
+- 19411 GitHub stars
+- 1274 forks
+- updated 2026-07-06
 - primary language: HTML
 - 18 topics
 
@@ -79,4 +79,4 @@ trycua/cua：trycua/cua helps remove repetitive manual operations from a workflo
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/trycua/cua) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/trycua/cua) · [← Back to Automation](./README.md)</sub>
