@@ -2,7 +2,7 @@
 
 > 
 
-**51 projects** in this category.
+**52 projects** in this category.
 
 ## Projects
 
@@ -45,20 +45,21 @@
 | 35 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
 | 36 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
 | 37 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
-| 38 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 39 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 40 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
-| 41 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 42 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 43 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 44 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
-| 45 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
-| 46 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 47 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 48 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
-| 49 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
-| 50 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 51 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 38 | [huggingface/hub-docs](./huggingface-hub-docs.md) | ⭐ 570 | Handlebars | 56/100 |
+| 39 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
+| 40 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 41 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
+| 42 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 43 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 44 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 45 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
+| 46 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
+| 47 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 48 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 49 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
+| 50 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
+| 51 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
+| 52 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 

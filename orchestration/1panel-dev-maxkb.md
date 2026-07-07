@@ -1,6 +1,6 @@
 # 1Panel-dev/MaxKB
 
-[![Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat-square&color=yellow)](https://github.com/1Panel-dev/MaxKB/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/MaxKB?style=flat-square&color=blue)](https://github.com/1Panel-dev/MaxKB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1Panel-dev/MaxKB?style=flat-square&color=yellow)](https://github.com/1Panel-dev/MaxKB/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/MaxKB?style=flat-square&color=blue)](https://github.com/1Panel-dev/MaxKB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.9k |
-| 🍴 **Forks** | 3k |
+| ⭐ **Stars** | 20.9k |
+| 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-1Panel-dev/MaxKB: 1Panel-dev/MaxKB helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+MaxKB is an open‑source, enterprise‑grade platform that lets developers create, manage, and orchestrate intelligent agents with a user‑friendly interface. It combines robust AI/ML orchestration capabilities with a modern frontend, enabling scalable, customizable agent solutions for business applications.
 
 ### Русский
 
-1Panel-dev/MaxKB: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+MaxKB — это открытая платформа для создания и управления корпоративными интеллектуальными агентами, объединяющая оркестрацию, машинное обучение и современный фронтенд. Она предоставляет мощный, но при этом простой в использовании набор инструментов для разработки, развертывания и масштабирования AI‑решений в бизнес‑среде. MaxKB подходит как для быстрого прототипирования, так и для построения надёжных, enterprise‑grade систем.
 
 ### 中文
 
-1Panel-dev/MaxKB：1Panel-dev/MaxKB helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+1Panel-dev/MaxKB：1Panel-dev/MaxKB helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 21946 GitHub stars
-- 2969 forks
-- updated 2026-07-07
+- 20895 GitHub stars
+- 2816 forks
+- updated 2026-05-08
 - primary language: Python
 - 14 topics
 
@@ -66,17 +66,17 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 96/100 |
-| adoption | 91/100 |
+| production | 65/100 |
+| outlook | 75/100 |
+| adoption | 90/100 |
 | stars | 92/100 |
-| forks | 87/100 |
-| recency | 100/100 |
+| forks | 86/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/1Panel-dev/MaxKB) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/1Panel-dev/MaxKB) · [← Back to Orchestration](./README.md)</sub>

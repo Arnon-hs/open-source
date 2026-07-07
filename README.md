@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **16699** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 18 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5079 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3064 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1534 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1346 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 918 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 838 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 710 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 618 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 547 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 380 | [Browse →](./knowledgerag/) |
+| 📊 **Data** | 347 | [Browse →](./data/) |
+| 🏷️ **Database** | 289 | [Browse →](./database/) |
+| 💳 **Payments** | 217 | [Browse →](./payments/) |
+| 📱 **Mobile** | 200 | [Browse →](./mobile/) |
+| 📈 **Trading** | 191 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 105 | [Browse →](./security/) |
+| 🏷️ **Education** | 52 | [Browse →](./education/) |
+| 🏷️ **Observability** | 50 | [Browse →](./observability/) |
+| ✨ **Design** | 49 | [Browse →](./design/) |
+| 🎯 **Product** | 27 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 57.2k | Orchestration |
-| 2 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
-| 3 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
-| 4 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.2k | Orchestration |
-| 5 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 6 | [PrefectHQ/fastmcp](./mcp/prefecthq-fastmcp.md) | ⭐ 26k | Mcp |
-| 7 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.5k | Orchestration |
-| 8 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 75.7k | Orchestration |
-| 9 | [Canner/WrenAI](./knowledgerag/canner-wrenai.md) | ⭐ 15.8k | Knowledgerag |
-| 10 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.3k | Orchestration |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
+| 8 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 9 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 10 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
 
 ## 🚀 How it works
 
