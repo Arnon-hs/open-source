@@ -252,8 +252,8 @@
 | 242 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 64/100 |
 | 243 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 64/100 |
 | 244 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 64/100 |
-| 245 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 64/100 |
-| 246 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 64/100 |
+| 245 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 64/100 |
+| 246 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 64/100 |
 | 247 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 64/100 |
 | 248 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 64/100 |
 | 249 | [sockmaster27/svader](./sockmaster27-svader.md) | ⭐ 458 | Svelte | 64/100 |
@@ -365,8 +365,8 @@
 | 355 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 356 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
 | 357 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
-| 358 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 359 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 358 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 359 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
 | 360 | [Jott2121/graph-guard](./jott2121-graph-guard.md) | ⭐ — | — | 45/100 |
 | 361 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
 | 362 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |

@@ -58,8 +58,8 @@
 | 48 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 49 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 50 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 51 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 52 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 51 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 52 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 53 | [kalessil/phpinspectionsea](./kalessil-phpinspectionsea.md) | ⭐ 1.5k | Java | 64/100 |
 | 54 | [gogpu/gogpu](./gogpu-gogpu.md) | ⭐ 324 | Go | 64/100 |
 | 55 | [C5H12O5/TextGO](./c5h12o5-textgo.md) | ⭐ 311 | Svelte | 64/100 |
