@@ -1,6 +1,6 @@
 # sgl-project/sglang
 
-[![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&color=yellow)](https://github.com/sgl-project/sglang/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/sglang?style=flat-square&color=blue)](https://github.com/sgl-project/sglang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&color=yellow)](https://github.com/sgl-project/sglang/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/sglang?style=flat-square&color=blue)](https://github.com/sgl-project/sglang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > SGLang is a high-performance serving framework for large language models and multimodal models.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29.5k |
-| 🍴 **Forks** | 6.7k |
+| ⭐ **Stars** | 26.2k |
+| 🍴 **Forks** | 5.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-04-21 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
 ### English
 
-sgl-project/sglang: sgl-project/sglang helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sgl-project/sglang: sgl-project/sglang helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-sgl-project/sglang: open-source проект в категориях AI/ML, Database, Education. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+sgl-project/sglang: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-sgl-project/sglang：sgl-project/sglang helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sgl-project/sglang：sgl-project/sglang helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ sgl-project/sglang：sgl-project/sglang helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 29532 GitHub stars
-- 6659 forks
-- updated 2026-06-22
+- 26195 GitHub stars
+- 5477 forks
+- updated 2026-04-21
 - primary language: Python
 - 18 topics
 
@@ -65,18 +65,18 @@ sgl-project/sglang：sgl-project/sglang helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| forks | 96/100 |
-| stars | 95/100 |
-| topics | 100/100 |
-| outlook | 90/100 |
-| quality | 98/100 |
-| recency | 100/100 |
-| adoption | 95/100 |
-| production | 83/100 |
 | usefulness | 58/100 |
+| quality | 82/100 |
 | integration | 46/100 |
+| production | 63/100 |
+| outlook | 69/100 |
+| adoption | 94/100 |
+| stars | 94/100 |
+| forks | 93/100 |
+| recency | 40/100 |
+| topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/sgl-project/sglang) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-04-21 · [View on GitHub](https://github.com/sgl-project/sglang) · [← Back to AI/ML](./README.md)</sub>
