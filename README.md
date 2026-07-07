@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16718** |
+| 🗂️ **Total projects** | **16734** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,12 +18,12 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5084 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3067 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1536 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1348 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 920 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 838 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 5091 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3071 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1537 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1350 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 921 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 839 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 711 | [Browse →](./backend/) |
 | 🏷️ **Automation** | 618 | [Browse →](./automation/) |
 | ⛓️ **Crypto** | 547 | [Browse →](./crypto/) |

@@ -260,8 +260,8 @@
 | 250 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 251 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 | 252 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 253 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 254 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 253 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 254 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 255 | [commandprompt/plruby](./commandprompt-plruby.md) | ⭐ — | — | 41/100 |
 | 256 | [rakibtg/okf-skill](./rakibtg-okf-skill.md) | ⭐ — | — | 41/100 |
 | 257 | [benjaminjaklic/NAS_readme](./benjaminjaklic-nas-readme.md) | ⭐ — | — | 41/100 |
