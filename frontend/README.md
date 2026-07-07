@@ -298,8 +298,8 @@
 | 288 | [Automattic/wp-calypso](./automattic-wp-calypso.md) | ⭐ 12.6k | TypeScript | 67/100 |
 | 289 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 67/100 |
 | 290 | [webpack/webpack](./webpack-webpack.md) | ⭐ 65.8k | JavaScript | 67/100 |
-| 291 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 60.2k | TypeScript | 67/100 |
-| 292 | [nestjs/nest](./nestjs-nest.md) | ⭐ 75.4k | TypeScript | 67/100 |
+| 291 | [nestjs/nest](./nestjs-nest.md) | ⭐ 75.4k | TypeScript | 67/100 |
+| 292 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 60.2k | TypeScript | 67/100 |
 | 293 | [expo/expo](./expo-expo.md) | ⭐ 49.3k | TypeScript | 67/100 |
 | 294 | [bytebase/bytebase](./bytebase-bytebase.md) | ⭐ 14k | Go | 67/100 |
 | 295 | [ClementTsang/bottom](./clementtsang-bottom.md) | ⭐ 13.3k | Rust | 67/100 |
@@ -796,8 +796,8 @@
 | 786 | [vivliostyle/vivliostyle.js](./vivliostyle-vivliostyle.js.md) | ⭐ 751 | TypeScript | 60/100 |
 | 787 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 434 | Dockerfile | 60/100 |
 | 788 | [walkinglabs/awesome-harness-engineering](./walkinglabs-awesome-harness-engineering.md) | ⭐ 2.4k | — | 60/100 |
-| 789 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 369 | Kotlin | 60/100 |
-| 790 | [aspect-build/aspect-cli](./aspect-build-aspect-cli.md) | ⭐ 156 | Rust | 60/100 |
+| 789 | [aspect-build/aspect-cli](./aspect-build-aspect-cli.md) | ⭐ 156 | Rust | 60/100 |
+| 790 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 369 | Kotlin | 60/100 |
 | 791 | [alienator88/Sentinel](./alienator88-sentinel.md) | ⭐ 1.6k | Swift | 60/100 |
 | 792 | [jrsoftware/issrc](./jrsoftware-issrc.md) | ⭐ 5.3k | Pascal | 60/100 |
 | 793 | [opengovsg/FormSG](./opengovsg-formsg.md) | ⭐ 346 | TypeScript | 60/100 |
@@ -1210,8 +1210,8 @@
 | 1200 | [wuxiran/cc-pane](./wuxiran-cc-pane.md) | ⭐ 472 | Rust | 53/100 |
 | 1201 | [craftercms/craftercms](./craftercms-craftercms.md) | ⭐ 335 | Shell | 53/100 |
 | 1202 | [Fausto-Korpsvart/Catppuccin-GTK-Theme](./fausto-korpsvart-catppuccin-gtk-theme.md) | ⭐ 746 | SCSS | 53/100 |
-| 1203 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
-| 1204 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
+| 1203 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
+| 1204 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
 | 1205 | [rikhuijzer/fx](./rikhuijzer-fx.md) | ⭐ 310 | Rust | 53/100 |
 | 1206 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 768 | Rust | 53/100 |
 | 1207 | [micro-manager/micro-manager](./micro-manager-micro-manager.md) | ⭐ 303 | Java | 53/100 |
@@ -1318,9 +1318,9 @@
 | 1308 | [compio-rs/winio](./compio-rs-winio.md) | ⭐ 117 | Rust | 50/100 |
 | 1309 | [buildcores/buildcores-open-db](./buildcores-buildcores-open-db.md) | ⭐ 320 | Shell | 50/100 |
 | 1310 | [facebookincubator/antlir](./facebookincubator-antlir.md) | ⭐ 111 | Rust | 50/100 |
-| 1311 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 1312 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 1313 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 1311 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1312 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 1313 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 1314 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 1315 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
 | 1316 | [facebook/openbmc](./facebook-openbmc.md) | ⭐ 678 | C | 50/100 |
@@ -1506,8 +1506,8 @@
 | 1496 | [FeroVolar/Decision-Framework-Skill](./ferovolar-decision-framework-skill.md) | ⭐ — | — | 41/100 |
 | 1497 | [larrasket/emacs-liquid-glass](./larrasket-emacs-liquid-glass.md) | ⭐ — | — | 41/100 |
 | 1498 | [DDecoene/WebBaseIII](./ddecoene-webbaseiii.md) | ⭐ — | — | 41/100 |
-| 1499 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
-| 1500 | [a-chacon/procman](./a-chacon-procman.md) | ⭐ — | — | 41/100 |
+| 1499 | [a-chacon/procman](./a-chacon-procman.md) | ⭐ — | — | 41/100 |
+| 1500 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
 | 1501 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 41/100 |
 | 1502 | [victormasson/QuickAccent](./victormasson-quickaccent.md) | ⭐ — | — | 41/100 |
 | 1503 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 41/100 |
@@ -1539,8 +1539,8 @@
 | 1529 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 31/100 |
 | 1530 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 31/100 |
 | 1531 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 31/100 |
-| 1532 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
-| 1533 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 1532 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 1533 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
 
 ---
 
