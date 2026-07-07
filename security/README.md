@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**104 projects** in this category.
+**105 projects** in this category.
 
 ## Projects
 
@@ -101,17 +101,18 @@
 | 91 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
 | 92 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 47/100 |
 | 93 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 47/100 |
-| 94 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
-| 95 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
-| 96 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 41/100 |
-| 97 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
-| 98 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
-| 99 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
-| 100 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
-| 101 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
-| 102 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
-| 103 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
-| 104 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
+| 94 | [kaifcodec/user-scanner](./kaifcodec-user-scanner.md) | ⭐ — | — | 46/100 |
+| 95 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
+| 96 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
+| 97 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 41/100 |
+| 98 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
+| 99 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
+| 100 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
+| 101 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
+| 102 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 103 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 104 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 105 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
 
 ---
 
