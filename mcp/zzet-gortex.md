@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 826 |
+| ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
@@ -53,7 +53,7 @@ zzet/gortex：zzet/gortex helps connect AI assistants to real tools and data thr
 
 **Quality signals**
 
-- 826 GitHub stars
+- 827 GitHub stars
 - 69 forks
 - updated 2026-07-07
 - primary language: Go

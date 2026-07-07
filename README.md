@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16981** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5168 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3133 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1552 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1360 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 932 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 859 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 717 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 629 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 556 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 385 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 351 | [Browse →](./data/) |
-| 🏷️ **Database** | 296 | [Browse →](./database/) |
-| 💳 **Payments** | 219 | [Browse →](./payments/) |
-| 📱 **Mobile** | 203 | [Browse →](./mobile/) |
-| 📈 **Trading** | 192 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 110 | [Browse →](./security/) |
-| 🏷️ **Education** | 52 | [Browse →](./education/) |
-| 🏷️ **Observability** | 51 | [Browse →](./observability/) |
-| ✨ **Design** | 50 | [Browse →](./design/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 24 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 17 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
-| 8 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 9 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 10 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 57.5k | Orchestration |
+| 2 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 13.1k | Mcp |
+| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52.9k | Orchestration |
+| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 6 | [D4Vinci/Scrapling](./mcp/d4vinci-scrapling.md) | ⭐ 68.5k | Mcp |
+| 7 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 8 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.5k | Orchestration |
+| 9 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.3k | Orchestration |
+| 10 | [mudler/LocalAI](./mcp/mudler-localai.md) | ⭐ 47.4k | Mcp |
 
 ## 🚀 How it works
 

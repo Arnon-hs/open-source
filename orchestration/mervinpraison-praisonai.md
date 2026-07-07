@@ -1,6 +1,6 @@
 # MervinPraison/PraisonAI
 
-[![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=flat-square&color=yellow)](https://github.com/MervinPraison/PraisonAI/stargazers) [![Forks](https://img.shields.io/github/forks/MervinPraison/PraisonAI?style=flat-square&color=blue)](https://github.com/MervinPraison/PraisonAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=flat-square&color=yellow)](https://github.com/MervinPraison/PraisonAI/stargazers) [![Forks](https://img.shields.io/github/forks/MervinPraison/PraisonAI?style=flat-square&color=blue)](https://github.com/MervinPraison/PraisonAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.1k |
-| 🍴 **Forks** | 1.1k |
+| ⭐ **Stars** | 8.4k |
+| 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-MervinPraison/PraisonAI: MervinPraison/PraisonAI helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MervinPraison/PraisonAI: MervinPraison/PraisonAI helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-MervinPraison/PraisonAI: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MervinPraison/PraisonAI: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 7079 GitHub stars
-- 1081 forks
-- updated 2026-05-07
+- 8358 GitHub stars
+- 1293 forks
+- updated 2026-07-07
 - primary language: Python
 - 20 topics
 
@@ -66,17 +66,17 @@ MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 92/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 74/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
-| forks | 76/100 |
-| recency | 40/100 |
+| production | 83/100 |
+| outlook | 95/100 |
+| adoption | 82/100 |
+| stars | 83/100 |
+| forks | 78/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>
