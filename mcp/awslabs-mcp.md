@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ awslabs/mcp：awslabs/mcp helps connect AI assistants to real tools and data thr
 
 **Quality signals**
 
-- 9399 GitHub stars
+- 9400 GitHub stars
 - 1624 forks
-- updated 2026-07-06
+- updated 2026-07-07
 - primary language: Python
 - 9 topics
 
@@ -79,4 +79,4 @@ awslabs/mcp：awslabs/mcp helps connect AI assistants to real tools and data thr
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/awslabs/mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/awslabs/mcp) · [← Back to Mcp](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ PrefectHQ/fastmcp：PrefectHQ/fastmcp helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 26000 GitHub stars
-- 2111 forks
-- updated 2026-07-06
+- 26003 GitHub stars
+- 2112 forks
+- updated 2026-07-07
 - primary language: Python
 - 9 topics
 
@@ -79,4 +79,4 @@ PrefectHQ/fastmcp：PrefectHQ/fastmcp helps connect AI assistants to real tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/PrefectHQ/fastmcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/PrefectHQ/fastmcp) · [← Back to Mcp](./README.md)</sub>

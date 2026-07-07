@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23.1k |
+| ⭐ **Stars** | 23.2k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ activepieces/activepieces：activepieces/activepieces helps connect AI assistant
 
 **Quality signals**
 
-- 23148 GitHub stars
-- 3898 forks
-- updated 2026-07-06
+- 23156 GitHub stars
+- 3899 forks
+- updated 2026-07-07
 - primary language: TypeScript
 - 13 topics
 
@@ -79,4 +79,4 @@ activepieces/activepieces：activepieces/activepieces helps connect AI assistant
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/activepieces/activepieces) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/activepieces/activepieces) · [← Back to Mcp](./README.md)</sub>

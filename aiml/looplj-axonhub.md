@@ -1,6 +1,6 @@
 # looplj/axonhub
 
-[![Stars](https://img.shields.io/github/stars/looplj/axonhub?style=flat-square&color=yellow)](https://github.com/looplj/axonhub/stargazers) [![Forks](https://img.shields.io/github/forks/looplj/axonhub?style=flat-square&color=blue)](https://github.com/looplj/axonhub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/looplj/axonhub?style=flat-square&color=yellow)](https://github.com/looplj/axonhub/stargazers) [![Forks](https://img.shields.io/github/forks/looplj/axonhub?style=flat-square&color=blue)](https://github.com/looplj/axonhub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 438 |
+| ⭐ **Stars** | 4.6k |
+| 🍴 **Forks** | 570 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · Backend · Observability
 
 ## 📝 Summary
 
 ### English
 
-LoopLJ’s **AxonHub** is an open‑source AI gateway that lets developers access more than 100 large language models through a unified SDK‑agnostic interface. It provides built‑in features such as automatic failover, load‑balancing, cost‑control policies, and end‑to‑end request tracing, making it suitable for both frontend and backend integrations in AI/ML applications.
+looplj/axonhub: looplj/axonhub helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Looplj/axonhub — это открытая AI‑шлюзовая платформа, позволяющая через любой SDK обращаться к более чем 100 крупным языковым моделям. Встроенный failover, балансировка нагрузки, контроль расходов и сквозное трассирование обеспечивают надёжную и экономичную работу как на фронтенде, так и на бэкенде. Проект ориентирован на разработчиков, которым нужен единый, масштабируемый и полностью открытый инструмент для интеграции LLM‑сервисов.
+looplj/axonhub: open-source проект в категориях AI/ML, Frontend, Backend, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-looplj/axonhub：looplj/axonhub helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+looplj/axonhub：looplj/axonhub helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ looplj/axonhub：looplj/axonhub helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 3649 GitHub stars
-- 438 forks
-- updated 2026-05-08
+- 4589 GitHub stars
+- 570 forks
+- updated 2026-07-07
 - primary language: Go
 - 15 topics
 
@@ -66,17 +66,17 @@ looplj/axonhub：looplj/axonhub helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 73/100 |
+| quality | 89/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 73/100 |
-| stars | 76/100 |
-| forks | 66/100 |
-| recency | 40/100 |
+| production | 84/100 |
+| outlook | 92/100 |
+| adoption | 75/100 |
+| stars | 78/100 |
+| forks | 69/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/looplj/axonhub) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/looplj/axonhub) · [← Back to AI/ML](./README.md)</sub>

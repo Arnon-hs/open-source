@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 128 |
+| ⭐ **Stars** | 2.5k |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ onecli/onecli：onecli/onecli helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 2426 GitHub stars
-- 128 forks
-- updated 2026-06-28
+- 2453 GitHub stars
+- 132 forks
+- updated 2026-07-07
 - primary language: TypeScript
 - 12 topics
 
@@ -79,4 +79,4 @@ onecli/onecli：onecli/onecli helps connect AI assistants to real tools and data
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/onecli/onecli) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/onecli/onecli) · [← Back to Mcp](./README.md)</sub>
