@@ -460,8 +460,8 @@
 | 450 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 440 | Rust | 60/100 |
 | 451 | [Brooooooklyn/simple-git](./brooooooklyn-simple-git.md) | ⭐ 183 | Rust | 60/100 |
 | 452 | [clojure-lsp/clojure-lsp](./clojure-lsp-clojure-lsp.md) | ⭐ 1.3k | Clojure | 60/100 |
-| 453 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
-| 454 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
+| 453 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
+| 454 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
 | 455 | [cokemine/nodestatus](./cokemine-nodestatus.md) | ⭐ 359 | TypeScript | 60/100 |
 | 456 | [ayaka-notes/overleaf-pro](./ayaka-notes-overleaf-pro.md) | ⭐ 412 | JavaScript | 60/100 |
 | 457 | [h2o/h2o](./h2o-h2o.md) | ⭐ 11.5k | C | 60/100 |

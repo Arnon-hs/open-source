@@ -238,8 +238,8 @@
 | 228 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 600 | Go | 69/100 |
 | 229 | [mantinedev/mantine](./mantinedev-mantine.md) | ⭐ 31.3k | TypeScript | 69/100 |
 | 230 | [NG-ZORRO/ng-zorro-antd](./ng-zorro-ng-zorro-antd.md) | ⭐ 9.2k | TypeScript | 69/100 |
-| 231 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 69/100 |
-| 232 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 69/100 |
+| 231 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 69/100 |
+| 232 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 69/100 |
 | 233 | [playcanvas/engine](./playcanvas-engine.md) | ⭐ 16.1k | JavaScript | 69/100 |
 | 234 | [iPlug2/iPlug2](./iplug2-iplug2.md) | ⭐ 2.3k | C | 69/100 |
 | 235 | [gtema/openstack](./gtema-openstack.md) | ⭐ 104 | Rust | 69/100 |
@@ -335,8 +335,8 @@
 | 325 | [SkidderMC/FDPClient](./skiddermc-fdpclient.md) | ⭐ 503 | Kotlin | 67/100 |
 | 326 | [MertJSX/folderhost](./mertjsx-folderhost.md) | ⭐ 227 | TypeScript | 67/100 |
 | 327 | [humblepenguinn/envio](./humblepenguinn-envio.md) | ⭐ 943 | Rust | 67/100 |
-| 328 | [phase-rs/phase](./phase-rs-phase.md) | ⭐ 142 | Rust | 67/100 |
-| 329 | [opentiny/genui-sdk](./opentiny-genui-sdk.md) | ⭐ 113 | TypeScript | 67/100 |
+| 328 | [opentiny/genui-sdk](./opentiny-genui-sdk.md) | ⭐ 113 | TypeScript | 67/100 |
+| 329 | [phase-rs/phase](./phase-rs-phase.md) | ⭐ 142 | Rust | 67/100 |
 | 330 | [mui/mui-x](./mui-mui-x.md) | ⭐ 5.8k | TypeScript | 67/100 |
 | 331 | [rancher/dashboard](./rancher-dashboard.md) | ⭐ 594 | TypeScript | 67/100 |
 | 332 | [5c0/metropolis](./5c0-metropolis.md) | ⭐ 152 | Rust | 67/100 |
@@ -1327,9 +1327,9 @@
 | 1317 | [compio-rs/winio](./compio-rs-winio.md) | ⭐ 117 | Rust | 50/100 |
 | 1318 | [buildcores/buildcores-open-db](./buildcores-buildcores-open-db.md) | ⭐ 320 | Shell | 50/100 |
 | 1319 | [facebookincubator/antlir](./facebookincubator-antlir.md) | ⭐ 111 | Rust | 50/100 |
-| 1320 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 1321 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 1322 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 1320 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 1321 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1322 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 1323 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 1324 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
 | 1325 | [facebook/openbmc](./facebook-openbmc.md) | ⭐ 678 | C | 50/100 |

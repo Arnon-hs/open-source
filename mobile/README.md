@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**202 projects** in this category.
+**203 projects** in this category.
 
 ## Projects
 
@@ -197,19 +197,20 @@
 | 187 | [synchancybersecurity/Crimson-Cloak-ISH-wrapper-iOS-](./synchancybersecurity-crimson-cloak-ish-wrapper-ios-.md) | ⭐ — | — | 45/100 |
 | 188 | [paralevel/extract-ios-backups-from-terminal](./paralevel-extract-ios-backups-from-terminal.md) | ⭐ — | — | 45/100 |
 | 189 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 44/100 |
-| 190 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 43/100 |
-| 191 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
-| 192 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
-| 193 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 41/100 |
-| 194 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 41/100 |
-| 195 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 41/100 |
-| 196 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 41/100 |
-| 197 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 41/100 |
-| 198 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 41/100 |
-| 199 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 41/100 |
-| 200 | [ahatem/IoskeleyMono](./ahatem-ioskeleymono.md) | ⭐ — | — | 41/100 |
-| 201 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
-| 202 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 31/100 |
+| 190 | [notune/TextGrab](./notune-textgrab.md) | ⭐ — | — | 44/100 |
+| 191 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 43/100 |
+| 192 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 43/100 |
+| 193 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 43/100 |
+| 194 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 41/100 |
+| 195 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 41/100 |
+| 196 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 41/100 |
+| 197 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 41/100 |
+| 198 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 41/100 |
+| 199 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 41/100 |
+| 200 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 41/100 |
+| 201 | [ahatem/IoskeleyMono](./ahatem-ioskeleymono.md) | ⭐ — | — | 41/100 |
+| 202 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
+| 203 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 31/100 |
 
 ---
 
