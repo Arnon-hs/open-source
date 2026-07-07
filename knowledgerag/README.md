@@ -377,8 +377,8 @@
 | 367 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
 | 368 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
 | 369 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 370 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
-| 371 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 370 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 371 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
 | 372 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 373 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 374 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
