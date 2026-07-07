@@ -53,7 +53,7 @@ frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations fr
 
 **Quality signals**
 
-- 2830 GitHub stars
+- 2831 GitHub stars
 - 177 forks
 - updated 2026-07-07
 - primary language: Go

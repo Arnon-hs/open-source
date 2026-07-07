@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 110 |
+| 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-07-07 |
@@ -54,7 +54,7 @@ yilewang/llm-for-zotero：yilewang/llm-for-zotero helps connect AI assistants to
 **Quality signals**
 
 - 2192 GitHub stars
-- 110 forks
+- 111 forks
 - updated 2026-07-07
 - primary language: TypeScript
 - 9 topics
