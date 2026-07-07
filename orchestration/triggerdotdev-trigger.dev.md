@@ -1,6 +1,6 @@
 # triggerdotdev/trigger.dev
 
-[![Stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&color=yellow)](https://github.com/triggerdotdev/trigger.dev/stargazers) [![Forks](https://img.shields.io/github/forks/triggerdotdev/trigger.dev?style=flat-square&color=blue)](https://github.com/triggerdotdev/trigger.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&color=yellow)](https://github.com/triggerdotdev/trigger.dev/stargazers) [![Forks](https://img.shields.io/github/forks/triggerdotdev/trigger.dev?style=flat-square&color=blue)](https://github.com/triggerdotdev/trigger.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.8k |
-| 🍴 **Forks** | 1.2k |
+| ⭐ **Stars** | 15.6k |
+| 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-triggerdotdev/trigger.dev: triggerdotdev/trigger.dev helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+triggerdotdev/trigger.dev: triggerdotdev/trigger.dev helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-triggerdotdev/trigger.dev: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+triggerdotdev/trigger.dev: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 14804 GitHub stars
-- 1197 forks
-- updated 2026-05-07
+- 15591 GitHub stars
+- 1345 forks
+- updated 2026-07-07
 - primary language: TypeScript
 - 13 topics
 
@@ -66,17 +66,17 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 78/100 |
+| quality | 94/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 75/100 |
-| adoption | 85/100 |
+| production | 84/100 |
+| outlook | 97/100 |
+| adoption | 86/100 |
 | stars | 89/100 |
-| forks | 77/100 |
-| recency | 40/100 |
+| forks | 78/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/triggerdotdev/trigger.dev) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/triggerdotdev/trigger.dev) · [← Back to Orchestration](./README.md)</sub>

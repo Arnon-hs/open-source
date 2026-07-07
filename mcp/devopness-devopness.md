@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 🗓️ **Last push** | 2026-07-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 - 434 GitHub stars
 - 155 forks
-- updated 2026-07-06
+- updated 2026-07-07
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/devopness/devopness) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/devopness/devopness) · [← Back to Mcp](./README.md)</sub>
