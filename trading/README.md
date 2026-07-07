@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**191 projects** in this category.
+**192 projects** in this category.
 
 ## Projects
 
@@ -29,8 +29,8 @@
 | 19 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 394 | C++ | 74/100 |
 | 20 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 623 | PowerShell | 74/100 |
 | 21 | [xbbg-org/xbbg](./xbbg-org-xbbg.md) | ⭐ 834 | Rust | 74/100 |
-| 22 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
-| 23 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
+| 22 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
+| 23 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
 | 24 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 105 | TypeScript | 74/100 |
 | 25 | [fasiondog/hikyuu](./fasiondog-hikyuu.md) | ⭐ 3.3k | C++ | 74/100 |
 | 26 | [HKUDS/Vibe-Trading](./hkuds-vibe-trading.md) | ⭐ 5.6k | Python | 73/100 |
@@ -191,14 +191,15 @@
 | 181 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 46/100 |
 | 182 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 45/100 |
 | 183 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 43/100 |
-| 184 | [theadamdanielsson/ggufpacker](./theadamdanielsson-ggufpacker.md) | ⭐ — | — | 41/100 |
-| 185 | [ynnk-research/Modular-Assembly-of-High-Performance-Logical-Blocks](./ynnk-research-modular-assembly-of-high-performance-logical-blocks.md) | ⭐ — | — | 41/100 |
-| 186 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
-| 187 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
-| 188 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
-| 189 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
-| 190 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
-| 191 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
+| 184 | [pythongiant/mlx_turboquant](./pythongiant-mlx-turboquant.md) | ⭐ — | — | 41/100 |
+| 185 | [theadamdanielsson/ggufpacker](./theadamdanielsson-ggufpacker.md) | ⭐ — | — | 41/100 |
+| 186 | [ynnk-research/Modular-Assembly-of-High-Performance-Logical-Blocks](./ynnk-research-modular-assembly-of-high-performance-logical-blocks.md) | ⭐ — | — | 41/100 |
+| 187 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
+| 188 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
+| 189 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
+| 190 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
+| 191 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
+| 192 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
 
 ---
 

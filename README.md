@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16823** |
+| 🗂️ **Total projects** | **16855** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,26 +18,26 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5121 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3091 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1544 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1354 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 924 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 848 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 713 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 624 | [Browse →](./automation/) |
+| 🤖 **AI/ML** | 5127 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3097 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1548 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1355 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 928 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 850 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 714 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 626 | [Browse →](./automation/) |
 | ⛓️ **Crypto** | 551 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 381 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 382 | [Browse →](./knowledgerag/) |
 | 📊 **Data** | 347 | [Browse →](./data/) |
-| 🏷️ **Database** | 291 | [Browse →](./database/) |
-| 💳 **Payments** | 217 | [Browse →](./payments/) |
+| 🏷️ **Database** | 292 | [Browse →](./database/) |
+| 💳 **Payments** | 218 | [Browse →](./payments/) |
 | 📱 **Mobile** | 203 | [Browse →](./mobile/) |
-| 📈 **Trading** | 191 | [Browse →](./trading/) |
+| 📈 **Trading** | 192 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 106 | [Browse →](./security/) |
+| 🔐 **Security** | 107 | [Browse →](./security/) |
 | 🏷️ **Education** | 52 | [Browse →](./education/) |
+| ✨ **Design** | 50 | [Browse →](./design/) |
 | 🏷️ **Observability** | 50 | [Browse →](./observability/) |
-| ✨ **Design** | 49 | [Browse →](./design/) |
 | 🎯 **Product** | 27 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 24 | [Browse →](./marketing/) |
 
