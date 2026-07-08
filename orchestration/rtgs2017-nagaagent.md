@@ -1,6 +1,6 @@
 # RTGS2017/NagaAgent
 
-[![Stars](https://img.shields.io/github/stars/RTGS2017/NagaAgent?style=flat-square&color=yellow)](https://github.com/RTGS2017/NagaAgent/stargazers) [![Forks](https://img.shields.io/github/forks/RTGS2017/NagaAgent?style=flat-square&color=blue)](https://github.com/RTGS2017/NagaAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RTGS2017/NagaAgent?style=flat-square&color=yellow)](https://github.com/RTGS2017/NagaAgent/stargazers) [![Forks](https://img.shields.io/github/forks/RTGS2017/NagaAgent?style=flat-square&color=blue)](https://github.com/RTGS2017/NagaAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
 
@@ -9,26 +9,74 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 161 |
+| 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `mcp` `mcp-client` `openai` `openclaw` `toolcall`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-Here's a brief summary of the RTGS2017/NagaAgent project:
+### English
 
-NagaAgent is an open-source framework for personal assistants that enables intelligent interaction, collaboration, and integration with various tools. This powerful agent framework allows for seamless communication and coordination between different agents, making it a valuable resource for developers and users alike. By leveraging AI and ML capabilities, NagaAgent facilitates the creation of sophisticated and user-friendly personal assistants.
+RTGS2017/NagaAgent: RTGS2017/NagaAgent helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+RTGS2017/NagaAgent: open-source проект в категориях Orchestration, MCP, AI/ML, DevTools, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+RTGS2017/NagaAgent：RTGS2017/NagaAgent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** RTGS2017/NagaAgent helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1531 GitHub stars
+- 162 forks
+- updated 2026-07-08
+- primary language: Python
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 100/100 |
+| quality | 82/100 |
+| integration | 78/100 |
+| production | 82/100 |
+| outlook | 90/100 |
+| adoption | 64/100 |
+| stars | 68/100 |
+| forks | 55/100 |
+| recency | 100/100 |
+| topics | 88/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/RTGS2017/NagaAgent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/RTGS2017/NagaAgent) · [← Back to Orchestration](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 111.4k |
-| 🍴 **Forks** | 7.4k |
+| ⭐ **Stars** | 114.5k |
+| 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ farion1231/cc-switch：farion1231/cc-switch helps connect AI assistants to real 
 
 **Quality signals**
 
-- 111391 GitHub stars
-- 7376 forks
-- updated 2026-07-01
+- 114451 GitHub stars
+- 7641 forks
+- updated 2026-07-08
 - primary language: Rust
 - 20 topics
 
@@ -79,4 +79,4 @@ farion1231/cc-switch：farion1231/cc-switch helps connect AI assistants to real 
 
 ---
 
-<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/farion1231/cc-switch) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/farion1231/cc-switch) · [← Back to Mcp](./README.md)</sub>
