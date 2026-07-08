@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.1k |
-| 🍴 **Forks** | 407 |
+| ⭐ **Stars** | 3.2k |
+| 🍴 **Forks** | 413 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ davepoon/buildwithclaude：davepoon/buildwithclaude helps connect AI assistants 
 
 **Quality signals**
 
-- 3148 GitHub stars
-- 407 forks
-- updated 2026-07-06
+- 3152 GitHub stars
+- 413 forks
+- updated 2026-07-08
 - primary language: TypeScript
 - 12 topics
 
@@ -79,4 +79,4 @@ davepoon/buildwithclaude：davepoon/buildwithclaude helps connect AI assistants 
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/davepoon/buildwithclaude) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/davepoon/buildwithclaude) · [← Back to Mcp](./README.md)</sub>
