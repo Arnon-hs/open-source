@@ -624,8 +624,8 @@
 | 614 | [0x61nas/aarty](./0x61nas-aarty.md) | ⭐ 84 | Rust | 58/100 |
 | 615 | [kloudkit/ws-meta](./kloudkit-ws-meta.md) | ⭐ 149 | Shell | 58/100 |
 | 616 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 617 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
-| 618 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 617 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 618 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
 | 619 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 620 | [codemod/codemod](./codemod-codemod.md) | ⭐ 993 | Rust | 58/100 |
 | 621 | [d-kimuson/claude-code-viewer](./d-kimuson-claude-code-viewer.md) | ⭐ 1.2k | TypeScript | 58/100 |
