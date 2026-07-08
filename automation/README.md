@@ -399,8 +399,8 @@
 | 389 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 390 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 391 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 392 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
-| 393 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 392 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 393 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
 | 394 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 395 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 396 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |

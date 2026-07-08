@@ -2,7 +2,7 @@
 
 > 
 
-**391 projects** in this category.
+**393 projects** in this category.
 
 ## Projects
 
@@ -231,8 +231,8 @@
 | 221 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 2.8k | Rust | 65/100 |
 | 222 | [ghc/ghc](./ghc-ghc.md) | ⭐ 3.3k | Haskell | 65/100 |
 | 223 | [jonfairbanks/local-rag](./jonfairbanks-local-rag.md) | ⭐ 750 | Python | 65/100 |
-| 224 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
-| 225 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
+| 224 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
+| 225 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
 | 226 | [DragonFlyBSD/DragonFlyBSD](./dragonflybsd-dragonflybsd.md) | ⭐ 616 | C | 65/100 |
 | 227 | [oakreader/oakreader](./oakreader-oakreader.md) | ⭐ 31 | Swift | 65/100 |
 | 228 | [TheKevJames/coveralls-python](./thekevjames-coveralls-python.md) | ⭐ 570 | Python | 65/100 |
@@ -364,41 +364,43 @@
 | 354 | [bitmask-stack/carbonado](./bitmask-stack-carbonado.md) | ⭐ 117 | Rust | 54/100 |
 | 355 | [TusKANNy/seismic](./tuskanny-seismic.md) | ⭐ 134 | Rust | 53/100 |
 | 356 | [uutils/platform-info](./uutils-platform-info.md) | ⭐ 130 | Rust | 53/100 |
-| 357 | [rafal-qa/slopo](./rafal-qa-slopo.md) | ⭐ — | — | 52/100 |
-| 358 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
-| 359 | [Bike4Mind/bike4mind](./bike4mind-bike4mind.md) | ⭐ — | — | 49/100 |
-| 360 | [eozsahin1993/ragpack](./eozsahin1993-ragpack.md) | ⭐ — | — | 49/100 |
-| 361 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 48/100 |
-| 362 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
-| 363 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
-| 364 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
-| 365 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
-| 366 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 367 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
-| 368 | [maxgio92/xcover](./maxgio92-xcover.md) | ⭐ — | — | 45/100 |
-| 369 | [Gusto/baerly-storage](./gusto-baerly-storage.md) | ⭐ — | — | 45/100 |
-| 370 | [Jott2121/graph-guard](./jott2121-graph-guard.md) | ⭐ — | — | 45/100 |
-| 371 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
-| 372 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
-| 373 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
-| 374 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 375 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 376 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
-| 377 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
-| 378 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
-| 379 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
-| 380 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
-| 381 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
-| 382 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
-| 383 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
-| 384 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
-| 385 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
-| 386 | [adelinamart/robrain](./adelinamart-robrain.md) | ⭐ — | — | 41/100 |
-| 387 | [williamliu-ai/fidx](./williamliu-ai-fidx.md) | ⭐ — | — | 41/100 |
-| 388 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 41/100 |
-| 389 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
-| 390 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
-| 391 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
+| 357 | [rage-rb/rage](./rage-rb-rage.md) | ⭐ — | — | 52/100 |
+| 358 | [rafal-qa/slopo](./rafal-qa-slopo.md) | ⭐ — | — | 52/100 |
+| 359 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
+| 360 | [Bike4Mind/bike4mind](./bike4mind-bike4mind.md) | ⭐ — | — | 49/100 |
+| 361 | [eozsahin1993/ragpack](./eozsahin1993-ragpack.md) | ⭐ — | — | 49/100 |
+| 362 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 48/100 |
+| 363 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
+| 364 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
+| 365 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
+| 366 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
+| 367 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 368 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 369 | [Srivatsa03/rag-redteam](./srivatsa03-rag-redteam.md) | ⭐ — | — | 45/100 |
+| 370 | [maxgio92/xcover](./maxgio92-xcover.md) | ⭐ — | — | 45/100 |
+| 371 | [Gusto/baerly-storage](./gusto-baerly-storage.md) | ⭐ — | — | 45/100 |
+| 372 | [Jott2121/graph-guard](./jott2121-graph-guard.md) | ⭐ — | — | 45/100 |
+| 373 | [PriyavKaneria/excalidraw-workspace](./priyavkaneria-excalidraw-workspace.md) | ⭐ — | — | 45/100 |
+| 374 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
+| 375 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
+| 376 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
+| 377 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 378 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 379 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
+| 380 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
+| 381 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
+| 382 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
+| 383 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
+| 384 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
+| 385 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
+| 386 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
+| 387 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
+| 388 | [adelinamart/robrain](./adelinamart-robrain.md) | ⭐ — | — | 41/100 |
+| 389 | [williamliu-ai/fidx](./williamliu-ai-fidx.md) | ⭐ — | — | 41/100 |
+| 390 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 41/100 |
+| 391 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
+| 392 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
+| 393 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
 
 ---
 
