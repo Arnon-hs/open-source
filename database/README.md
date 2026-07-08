@@ -62,8 +62,8 @@
 | 52 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 53 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 54 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 55 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
-| 56 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 55 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 56 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
 | 57 | [zws-im/zws](./zws-im-zws.md) | ⭐ 1.8k | TypeScript | 64/100 |
 | 58 | [kalessil/phpinspectionsea](./kalessil-phpinspectionsea.md) | ⭐ 1.5k | Java | 64/100 |
 | 59 | [gogpu/gogpu](./gogpu-gogpu.md) | ⭐ 324 | Go | 64/100 |
@@ -274,8 +274,8 @@
 | 264 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 265 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 266 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 267 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 268 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 267 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 268 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 269 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 270 | [NISD2/open-isms](./nisd2-open-isms.md) | ⭐ — | — | 41/100 |
 | 271 | [nikitazigman/badger](./nikitazigman-badger.md) | ⭐ — | — | 41/100 |
