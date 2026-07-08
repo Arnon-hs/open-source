@@ -268,9 +268,9 @@
 | 258 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 259 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 260 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 261 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 261 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 262 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 263 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 263 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 264 | [Fanfulla/OCR-buddy](./fanfulla-ocr-buddy.md) | ⭐ — | — | 41/100 |
 | 265 | [commandprompt/plruby](./commandprompt-plruby.md) | ⭐ — | — | 41/100 |
 | 266 | [rakibtg/okf-skill](./rakibtg-okf-skill.md) | ⭐ — | — | 41/100 |
