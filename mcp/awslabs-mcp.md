@@ -53,8 +53,8 @@ awslabs/mcp：awslabs/mcp helps connect AI assistants to real tools and data thr
 
 **Quality signals**
 
-- 9403 GitHub stars
-- 1627 forks
+- 9404 GitHub stars
+- 1630 forks
 - updated 2026-07-08
 - primary language: Python
 - 9 topics

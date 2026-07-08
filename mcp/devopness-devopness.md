@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 434 |
+| ⭐ **Stars** | 433 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
@@ -53,7 +53,7 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 **Quality signals**
 
-- 434 GitHub stars
+- 433 GitHub stars
 - 155 forks
 - updated 2026-07-08
 - primary language: TypeScript
