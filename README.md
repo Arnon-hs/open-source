@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **17217** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5223 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3181 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1577 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1377 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 948 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 868 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 727 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 645 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 562 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 388 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 359 | [Browse →](./data/) |
-| 🏷️ **Database** | 306 | [Browse →](./database/) |
-| 💳 **Payments** | 221 | [Browse →](./payments/) |
-| 📱 **Mobile** | 204 | [Browse →](./mobile/) |
-| 📈 **Trading** | 195 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 110 | [Browse →](./security/) |
-| 🏷️ **Education** | 55 | [Browse →](./education/) |
-| 🏷️ **Observability** | 52 | [Browse →](./observability/) |
-| ✨ **Design** | 51 | [Browse →](./design/) |
-| 🎯 **Product** | 28 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 25 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 19 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
-| 8 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 9 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 10 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.6k | Mcp |
+| 2 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
+| 3 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
+| 4 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.4k | Orchestration |
+| 6 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 7 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.5k | Orchestration |
+| 8 | [FlorianBruniaux/claude-code-ultimate-guide](./orchestration/florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 5.4k | Orchestration |
+| 9 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 76.2k | Orchestration |
+| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.5k | Orchestration |
 
 ## 🚀 How it works
 

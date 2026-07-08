@@ -1,6 +1,6 @@
 # devopness/devopness
 
-[![Stars](https://img.shields.io/github/stars/devopness/devopness?style=flat-square&color=yellow)](https://github.com/devopness/devopness/stargazers) [![Forks](https://img.shields.io/github/forks/devopness/devopness?style=flat-square&color=blue)](https://github.com/devopness/devopness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devopness/devopness?style=flat-square&color=yellow)](https://github.com/devopness/devopness/stargazers) [![Forks](https://img.shields.io/github/forks/devopness/devopness?style=flat-square&color=blue)](https://github.com/devopness/devopness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Devopness: AI DevOps on your cloud. Deploy apps, infra and CI/CD. Any cloud and any stack, one MCP. Deterministic API, opinionated and fully configurable. No cloud credentials in AI chats. Free plan.
 
@@ -10,9 +10,9 @@
 |---|---|
 | ⭐ **Stars** | 434 |
 | 🍴 **Forks** | 155 |
-| 💻 **Language** | Python |
+| 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,8 +55,8 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 - 434 GitHub stars
 - 155 forks
-- updated 2026-07-07
-- primary language: Python
+- updated 2026-07-08
+- primary language: TypeScript
 - 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -79,4 +79,4 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 ---
 
-<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/devopness/devopness) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/devopness/devopness) · [← Back to Mcp](./README.md)</sub>

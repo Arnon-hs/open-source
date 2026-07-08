@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 493 |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 495 |
+| 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Cranot/roam-code：Cranot/roam-code helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 493 GitHub stars
-- 48 forks
-- updated 2026-07-03
+- 495 GitHub stars
+- 47 forks
+- updated 2026-07-08
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ Cranot/roam-code：Cranot/roam-code helps connect AI assistants to real tools an
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/Cranot/roam-code) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/Cranot/roam-code) · [← Back to Mcp](./README.md)</sub>
