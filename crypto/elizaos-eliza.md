@@ -1,18 +1,18 @@
 # elizaOS/eliza
 
-[![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=flat-square&color=yellow)](https://github.com/elizaOS/eliza/stargazers) [![Forks](https://img.shields.io/github/forks/elizaOS/eliza?style=flat-square&color=blue)](https://github.com/elizaOS/eliza/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=flat-square&color=yellow)](https://github.com/elizaOS/eliza/stargazers) [![Forks](https://img.shields.io/github/forks/elizaOS/eliza?style=flat-square&color=blue)](https://github.com/elizaOS/eliza/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
-> Open source agentic operating system
+> Autonomous agents for everyone
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.7k |
-| 🍴 **Forks** | 5.6k |
+| ⭐ **Stars** | 18.3k |
+| 🍴 **Forks** | 5.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · Automation · AI/ML
+Crypto · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-elizaOS/eliza: elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+elizaOS/eliza: elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-elizaOS/eliza: open-source проект в категориях Crypto, Knowledge/RAG, Automation, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+elizaOS/eliza: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 18710 GitHub stars
-- 5578 forks
-- updated 2026-07-07
+- 18320 GitHub stars
+- 5517 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 15 topics
 
@@ -66,17 +66,17 @@ elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 81/100 |
 | integration | 62/100 |
-| production | 85/100 |
-| outlook | 96/100 |
+| production | 65/100 |
+| outlook | 75/100 |
 | adoption | 92/100 |
 | stars | 91/100 |
 | forks | 94/100 |
-| recency | 100/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/elizaOS/eliza) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/elizaOS/eliza) · [← Back to Crypto](./README.md)</sub>
