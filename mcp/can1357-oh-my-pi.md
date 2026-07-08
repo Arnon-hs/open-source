@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.5k |
+| ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 16477 GitHub stars
-- 1459 forks
-- updated 2026-07-07
+- 16736 GitHub stars
+- 1489 forks
+- updated 2026-07-08
 - primary language: TypeScript
 - 15 topics
 
@@ -79,4 +79,4 @@ can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools an
 
 ---
 
-<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/can1357/oh-my-pi) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/can1357/oh-my-pi) · [← Back to Mcp](./README.md)</sub>

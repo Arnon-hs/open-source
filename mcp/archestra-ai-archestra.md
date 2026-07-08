@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.9k |
+| ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
@@ -53,8 +53,8 @@ archestra-ai/archestra：archestra-ai/archestra helps connect AI assistants to r
 
 **Quality signals**
 
-- 3947 GitHub stars
-- 1100 forks
+- 3952 GitHub stars
+- 1102 forks
 - updated 2026-07-08
 - primary language: TypeScript
 - 20 topics

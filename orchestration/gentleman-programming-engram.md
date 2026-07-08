@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 551 |
+| ⭐ **Stars** | 5k |
+| 🍴 **Forks** | 562 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Gentleman-Programming/engram：Gentleman-Programming/engram helps turn isolated 
 
 **Quality signals**
 
-- 4885 GitHub stars
-- 551 forks
-- updated 2026-07-05
+- 4971 GitHub stars
+- 562 forks
+- updated 2026-07-08
 - primary language: Go
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -78,4 +78,4 @@ Gentleman-Programming/engram：Gentleman-Programming/engram helps turn isolated 
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/Gentleman-Programming/engram) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/Gentleman-Programming/engram) · [← Back to Orchestration](./README.md)</sub>

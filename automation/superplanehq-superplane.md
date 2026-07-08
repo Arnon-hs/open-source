@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.7k |
-| 🍴 **Forks** | 351 |
+| ⭐ **Stars** | 3.8k |
+| 🍴 **Forks** | 352 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-08 |
@@ -53,8 +53,8 @@ superplanehq/superplane：superplanehq/superplane helps remove repetitive manual
 
 **Quality signals**
 
-- 3716 GitHub stars
-- 351 forks
+- 3770 GitHub stars
+- 352 forks
 - updated 2026-07-08
 - primary language: Go
 - 12 topics
