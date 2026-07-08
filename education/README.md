@@ -2,7 +2,7 @@
 
 > 
 
-**54 projects** in this category.
+**55 projects** in this category.
 
 ## Projects
 
@@ -50,18 +50,19 @@
 | 40 | [huggingface/hub-docs](./huggingface-hub-docs.md) | ⭐ 570 | Handlebars | 56/100 |
 | 41 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
 | 42 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 43 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
-| 44 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 45 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 46 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 47 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
-| 48 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
-| 49 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 50 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 51 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
-| 52 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
-| 53 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 54 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 43 | [mattpocock/course-video-manager](./mattpocock-course-video-manager.md) | ⭐ 518 | TypeScript | 54/100 |
+| 44 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
+| 45 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 46 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 47 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 48 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
+| 49 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
+| 50 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 51 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 52 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
+| 53 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
+| 54 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
+| 55 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 
