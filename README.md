@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **17279** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5239 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3194 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1583 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1380 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 953 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 870 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 729 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 651 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 563 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 390 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 360 | [Browse →](./data/) |
-| 🏷️ **Database** | 307 | [Browse →](./database/) |
-| 💳 **Payments** | 222 | [Browse →](./payments/) |
-| 📱 **Mobile** | 204 | [Browse →](./mobile/) |
-| 📈 **Trading** | 195 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 116 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 111 | [Browse →](./security/) |
-| 🏷️ **Education** | 56 | [Browse →](./education/) |
-| 🏷️ **Observability** | 52 | [Browse →](./observability/) |
-| ✨ **Design** | 51 | [Browse →](./design/) |
-| 🎯 **Product** | 28 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 25 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 17 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 11 | [Browse →](./backend/) |
+| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
-| 8 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 9 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 10 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 57.8k | Orchestration |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 13.5k | Mcp |
+| 4 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 5 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
+| 6 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.4k | Orchestration |
+| 7 | [PrefectHQ/fastmcp](./mcp/prefecthq-fastmcp.md) | ⭐ 26k | Mcp |
+| 8 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 76.2k | Orchestration |
+| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.5k | Orchestration |
+| 10 | [appsmithorg/appsmith](./automation/appsmithorg-appsmith.md) | ⭐ 40.3k | Automation |
 
 ## 🚀 How it works
 
