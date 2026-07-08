@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**27 projects** in this category.
+**28 projects** in this category.
 
 ## Projects
 
@@ -32,9 +32,10 @@
 | 22 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 44/100 |
 | 23 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
 | 24 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
-| 25 | [B1u3B01t/design-playground](./b1u3b01t-design-playground.md) | ⭐ — | — | 41/100 |
-| 26 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 27 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
+| 25 | [gokulrajaram/ProductSpec](./gokulrajaram-productspec.md) | ⭐ — | — | 41/100 |
+| 26 | [B1u3B01t/design-playground](./b1u3b01t-design-playground.md) | ⭐ — | — | 41/100 |
+| 27 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 28 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
 
 ---
 
