@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**357 projects** in this category.
+**358 projects** in this category.
 
 ## Projects
 
@@ -213,8 +213,8 @@
 | 203 | [Snowflake-Labs/pg_lake](./snowflake-labs-pg-lake.md) | ⭐ 1.6k | C | 55/100 |
 | 204 | [mehrantsi/feoxdb](./mehrantsi-feoxdb.md) | ⭐ 191 | Rust | 55/100 |
 | 205 | [elixir-ecto/ecto_sql](./elixir-ecto-ecto-sql.md) | ⭐ 658 | Elixir | 55/100 |
-| 206 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
-| 207 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
+| 206 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
+| 207 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
 | 208 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 402 | Emacs Lisp | 55/100 |
 | 209 | [paulstothard/helpful_commands](./paulstothard-helpful-commands.md) | ⭐ 48 | — | 55/100 |
 | 210 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 55/100 |
@@ -333,38 +333,39 @@
 | 323 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 229 | Rust | 42/100 |
 | 324 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 42/100 |
 | 325 | [rewrite-bigdata-in-rust/RBIR](./rewrite-bigdata-in-rust-rbir.md) | ⭐ 322 | Rust | 42/100 |
-| 326 | [commandprompt/open_pg_tde](./commandprompt-open-pg-tde.md) | ⭐ — | — | 41/100 |
-| 327 | [vesvault/VESlocker](./vesvault-veslocker.md) | ⭐ — | — | 41/100 |
-| 328 | [BhackerJ/22a35fead8764782189c7a20c5ded0d7](./bhackerj-22a35fead8764782189c7a20c5ded0d7.md) | ⭐ — | — | 41/100 |
-| 329 | [neospe/autoops](./neospe-autoops.md) | ⭐ — | — | 41/100 |
-| 330 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 41/100 |
-| 331 | [nicholascordova01/INTELLIGENT-DATA](./nicholascordova01-intelligent-data.md) | ⭐ — | — | 41/100 |
-| 332 | [Modak-Labs/modak](./modak-labs-modak.md) | ⭐ — | — | 41/100 |
-| 333 | [Ulbjo/Spotify-Skip-tracker](./ulbjo-spotify-skip-tracker.md) | ⭐ — | — | 41/100 |
-| 334 | [Ahmad8864/autosynth](./ahmad8864-autosynth.md) | ⭐ — | — | 41/100 |
-| 335 | [noib3/cola](./noib3-cola.md) | ⭐ — | — | 41/100 |
-| 336 | [unipop-graph/unipop](./unipop-graph-unipop.md) | ⭐ — | — | 41/100 |
-| 337 | [midhunharikumar/ferroload](./midhunharikumar-ferroload.md) | ⭐ — | — | 41/100 |
-| 338 | [mishahanin/heading-os](./mishahanin-heading-os.md) | ⭐ — | — | 41/100 |
-| 339 | [ado11231/addsong](./ado11231-addsong.md) | ⭐ — | — | 41/100 |
-| 340 | [sigstore/rekor](./sigstore-rekor.md) | ⭐ — | — | 41/100 |
-| 341 | [xn0tsa/because-i-got-high](./xn0tsa-because-i-got-high.md) | ⭐ — | — | 41/100 |
-| 342 | [EtherDream/brpack](./etherdream-brpack.md) | ⭐ — | — | 41/100 |
-| 343 | [kivirnz/OpenLyfta](./kivirnz-openlyfta.md) | ⭐ — | — | 41/100 |
-| 344 | [hasaneyldrm/exercises-dataset](./hasaneyldrm-exercises-dataset.md) | ⭐ — | — | 41/100 |
-| 345 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 41/100 |
-| 346 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 41/100 |
-| 347 | [tabulator-tables/tabulator](./tabulator-tables-tabulator.md) | ⭐ — | — | 41/100 |
-| 348 | [stephenlthorn/auto-identity-remove](./stephenlthorn-auto-identity-remove.md) | ⭐ — | — | 41/100 |
-| 349 | [duckdb/pg_duckdb](./duckdb-pg-duckdb.md) | ⭐ — | — | 41/100 |
-| 350 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
-| 351 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
-| 352 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 40/100 |
-| 353 | [Amplicode/spring-skills](./amplicode-spring-skills.md) | ⭐ — | — | 40/100 |
-| 354 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 31/100 |
-| 355 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 31/100 |
-| 356 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 31/100 |
-| 357 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 31/100 |
+| 326 | [dekart-xyz/geosql](./dekart-xyz-geosql.md) | ⭐ — | — | 41/100 |
+| 327 | [commandprompt/open_pg_tde](./commandprompt-open-pg-tde.md) | ⭐ — | — | 41/100 |
+| 328 | [vesvault/VESlocker](./vesvault-veslocker.md) | ⭐ — | — | 41/100 |
+| 329 | [BhackerJ/22a35fead8764782189c7a20c5ded0d7](./bhackerj-22a35fead8764782189c7a20c5ded0d7.md) | ⭐ — | — | 41/100 |
+| 330 | [neospe/autoops](./neospe-autoops.md) | ⭐ — | — | 41/100 |
+| 331 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 41/100 |
+| 332 | [nicholascordova01/INTELLIGENT-DATA](./nicholascordova01-intelligent-data.md) | ⭐ — | — | 41/100 |
+| 333 | [Modak-Labs/modak](./modak-labs-modak.md) | ⭐ — | — | 41/100 |
+| 334 | [Ulbjo/Spotify-Skip-tracker](./ulbjo-spotify-skip-tracker.md) | ⭐ — | — | 41/100 |
+| 335 | [Ahmad8864/autosynth](./ahmad8864-autosynth.md) | ⭐ — | — | 41/100 |
+| 336 | [noib3/cola](./noib3-cola.md) | ⭐ — | — | 41/100 |
+| 337 | [unipop-graph/unipop](./unipop-graph-unipop.md) | ⭐ — | — | 41/100 |
+| 338 | [midhunharikumar/ferroload](./midhunharikumar-ferroload.md) | ⭐ — | — | 41/100 |
+| 339 | [mishahanin/heading-os](./mishahanin-heading-os.md) | ⭐ — | — | 41/100 |
+| 340 | [ado11231/addsong](./ado11231-addsong.md) | ⭐ — | — | 41/100 |
+| 341 | [sigstore/rekor](./sigstore-rekor.md) | ⭐ — | — | 41/100 |
+| 342 | [xn0tsa/because-i-got-high](./xn0tsa-because-i-got-high.md) | ⭐ — | — | 41/100 |
+| 343 | [EtherDream/brpack](./etherdream-brpack.md) | ⭐ — | — | 41/100 |
+| 344 | [kivirnz/OpenLyfta](./kivirnz-openlyfta.md) | ⭐ — | — | 41/100 |
+| 345 | [hasaneyldrm/exercises-dataset](./hasaneyldrm-exercises-dataset.md) | ⭐ — | — | 41/100 |
+| 346 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 41/100 |
+| 347 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 41/100 |
+| 348 | [tabulator-tables/tabulator](./tabulator-tables-tabulator.md) | ⭐ — | — | 41/100 |
+| 349 | [stephenlthorn/auto-identity-remove](./stephenlthorn-auto-identity-remove.md) | ⭐ — | — | 41/100 |
+| 350 | [duckdb/pg_duckdb](./duckdb-pg-duckdb.md) | ⭐ — | — | 41/100 |
+| 351 | [HeliBorg/HeliBoard](./heliborg-heliboard.md) | ⭐ — | — | 41/100 |
+| 352 | [MISP/Synthetic-Exercise-World-Format](./misp-synthetic-exercise-world-format.md) | ⭐ — | — | 41/100 |
+| 353 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 135 | Rust | 40/100 |
+| 354 | [Amplicode/spring-skills](./amplicode-spring-skills.md) | ⭐ — | — | 40/100 |
+| 355 | [lexvicacom/tinyblok](./lexvicacom-tinyblok.md) | ⭐ — | — | 31/100 |
+| 356 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 31/100 |
+| 357 | [rashidazarang/notion-to-site](./rashidazarang-notion-to-site.md) | ⭐ — | — | 31/100 |
+| 358 | [aevyraai/verdict](./aevyraai-verdict.md) | ⭐ — | — | 31/100 |
 
 ---
 
