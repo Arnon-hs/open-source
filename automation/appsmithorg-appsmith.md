@@ -53,7 +53,7 @@ appsmithorg/appsmith：appsmithorg/appsmith helps remove repetitive manual opera
 
 **Quality signals**
 
-- 40291 GitHub stars
+- 40292 GitHub stars
 - 4642 forks
 - updated 2026-07-08
 - primary language: TypeScript

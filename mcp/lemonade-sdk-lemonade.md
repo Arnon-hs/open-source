@@ -53,7 +53,7 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 **Quality signals**
 
-- 4824 GitHub stars
+- 4828 GitHub stars
 - 388 forks
 - updated 2026-07-08
 - primary language: C++
