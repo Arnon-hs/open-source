@@ -375,8 +375,8 @@
 | 365 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 366 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
 | 367 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
-| 368 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 369 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 368 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 369 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
 | 370 | [Srivatsa03/rag-redteam](./srivatsa03-rag-redteam.md) | ⭐ — | — | 45/100 |
 | 371 | [maxgio92/xcover](./maxgio92-xcover.md) | ⭐ — | — | 45/100 |
 | 372 | [Gusto/baerly-storage](./gusto-baerly-storage.md) | ⭐ — | — | 45/100 |
