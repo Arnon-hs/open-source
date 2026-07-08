@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**110 projects** in this category.
+**111 projects** in this category.
 
 ## Projects
 
@@ -58,66 +58,67 @@
 | 48 | [ovh/the-bastion](./ovh-the-bastion.md) | ⭐ 2.1k | Perl | 58/100 |
 | 49 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 390 | Rust | 58/100 |
 | 50 | [python-social-auth/social-app-django](./python-social-auth-social-app-django.md) | ⭐ 2.1k | Python | 57/100 |
-| 51 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 771 | — | 57/100 |
-| 52 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
-| 53 | [Atlas-OS/Atlas](./atlas-os-atlas.md) | ⭐ 20.5k | Batchfile | 56/100 |
-| 54 | [cloud-hypervisor/cloud-hypervisor](./cloud-hypervisor-cloud-hypervisor.md) | ⭐ 5.6k | Rust | 56/100 |
-| 55 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 56/100 |
-| 56 | [mytechnotalent/Embedded-Hacking](./mytechnotalent-embedded-hacking.md) | ⭐ 204 | Rust | 56/100 |
-| 57 | [linux-audit/audit-userspace](./linux-audit-audit-userspace.md) | ⭐ 714 | C | 56/100 |
-| 58 | [RingsNetwork/rings](./ringsnetwork-rings.md) | ⭐ 214 | Rust | 56/100 |
-| 59 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
-| 60 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
-| 61 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 55/100 |
-| 62 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.2k | AutoIt | 55/100 |
-| 63 | [LeChatP/RootAsRole](./lechatp-rootasrole.md) | ⭐ 278 | Rust | 55/100 |
-| 64 | [canonical/authd](./canonical-authd.md) | ⭐ 301 | Go | 55/100 |
-| 65 | [brycx/pasetors](./brycx-pasetors.md) | ⭐ 132 | Rust | 55/100 |
-| 66 | [KarpelesLab/teamclaude](./karpeleslab-teamclaude.md) | ⭐ 70 | JavaScript | 55/100 |
-| 67 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
-| 68 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 55/100 |
-| 69 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 548 | Go | 55/100 |
-| 70 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 4.9k | Rust | 54/100 |
-| 71 | [Orange-Cyberdefense/awesome-industrial-protocols](./orange-cyberdefense-awesome-industrial-protocols.md) | ⭐ 726 | — | 54/100 |
-| 72 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 54/100 |
-| 73 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 53/100 |
-| 74 | [numberwolf/h265web.js](./numberwolf-h265web.js.md) | ⭐ 2.3k | JavaScript | 53/100 |
-| 75 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 53/100 |
-| 76 | [linux-credentials/credentialsd](./linux-credentials-credentialsd.md) | ⭐ 226 | Rust | 53/100 |
-| 77 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 53/100 |
-| 78 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 52/100 |
-| 79 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 52/100 |
-| 80 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 52/100 |
-| 81 | [FabianLars/tauri-plugin-oauth](./fabianlars-tauri-plugin-oauth.md) | ⭐ 211 | Rust | 52/100 |
-| 82 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 51/100 |
-| 83 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 51/100 |
-| 84 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 51/100 |
-| 85 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 51/100 |
-| 86 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 51/100 |
-| 87 | [thepartly/gatehouse](./thepartly-gatehouse.md) | ⭐ 342 | Rust | 51/100 |
-| 88 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 149 | Rust | 51/100 |
-| 89 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 250 | Rust | 50/100 |
-| 90 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 49/100 |
-| 91 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 48/100 |
-| 92 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
-| 93 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
-| 94 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 47/100 |
-| 95 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
-| 96 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 47/100 |
-| 97 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 47/100 |
-| 98 | [kaifcodec/user-scanner](./kaifcodec-user-scanner.md) | ⭐ — | — | 46/100 |
-| 99 | [thecodearcher/limen](./thecodearcher-limen.md) | ⭐ — | — | 44/100 |
-| 100 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
-| 101 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
-| 102 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 41/100 |
-| 103 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
-| 104 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
-| 105 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
-| 106 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
-| 107 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
-| 108 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
-| 109 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
-| 110 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
+| 51 | [unicity-astrid/book](./unicity-astrid-book.md) | ⭐ 7.5k | Perl | 57/100 |
+| 52 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 771 | — | 57/100 |
+| 53 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 463 | Rust | 57/100 |
+| 54 | [Atlas-OS/Atlas](./atlas-os-atlas.md) | ⭐ 20.5k | Batchfile | 56/100 |
+| 55 | [cloud-hypervisor/cloud-hypervisor](./cloud-hypervisor-cloud-hypervisor.md) | ⭐ 5.6k | Rust | 56/100 |
+| 56 | [mthcht/awesome-lists](./mthcht-awesome-lists.md) | ⭐ 1.4k | YARA | 56/100 |
+| 57 | [mytechnotalent/Embedded-Hacking](./mytechnotalent-embedded-hacking.md) | ⭐ 204 | Rust | 56/100 |
+| 58 | [linux-audit/audit-userspace](./linux-audit-audit-userspace.md) | ⭐ 714 | C | 56/100 |
+| 59 | [RingsNetwork/rings](./ringsnetwork-rings.md) | ⭐ 214 | Rust | 56/100 |
+| 60 | [hahwul/urx](./hahwul-urx.md) | ⭐ 183 | Rust | 56/100 |
+| 61 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 442 | XSLT | 56/100 |
+| 62 | [zizmorcore/zizmor](./zizmorcore-zizmor.md) | ⭐ 4.5k | Rust | 55/100 |
+| 63 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.2k | AutoIt | 55/100 |
+| 64 | [LeChatP/RootAsRole](./lechatp-rootasrole.md) | ⭐ 278 | Rust | 55/100 |
+| 65 | [canonical/authd](./canonical-authd.md) | ⭐ 301 | Go | 55/100 |
+| 66 | [brycx/pasetors](./brycx-pasetors.md) | ⭐ 132 | Rust | 55/100 |
+| 67 | [KarpelesLab/teamclaude](./karpeleslab-teamclaude.md) | ⭐ 70 | JavaScript | 55/100 |
+| 68 | [aquasecurity/trivy-db](./aquasecurity-trivy-db.md) | ⭐ 330 | Go | 55/100 |
+| 69 | [gosuda/portal-tunnel](./gosuda-portal-tunnel.md) | ⭐ 256 | Go | 55/100 |
+| 70 | [yaklang/yaklang](./yaklang-yaklang.md) | ⭐ 548 | Go | 55/100 |
+| 71 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 4.9k | Rust | 54/100 |
+| 72 | [Orange-Cyberdefense/awesome-industrial-protocols](./orange-cyberdefense-awesome-industrial-protocols.md) | ⭐ 726 | — | 54/100 |
+| 73 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 224 | Rust | 54/100 |
+| 74 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 53/100 |
+| 75 | [numberwolf/h265web.js](./numberwolf-h265web.js.md) | ⭐ 2.3k | JavaScript | 53/100 |
+| 76 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 53/100 |
+| 77 | [linux-credentials/credentialsd](./linux-credentials-credentialsd.md) | ⭐ 226 | Rust | 53/100 |
+| 78 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 53/100 |
+| 79 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.7k | Rust | 52/100 |
+| 80 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 52/100 |
+| 81 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 52/100 |
+| 82 | [FabianLars/tauri-plugin-oauth](./fabianlars-tauri-plugin-oauth.md) | ⭐ 211 | Rust | 52/100 |
+| 83 | [Vu1nT0tal/yarb](./vu1nt0tal-yarb.md) | ⭐ 804 | Python | 51/100 |
+| 84 | [bitwire-it/ipblocklist](./bitwire-it-ipblocklist.md) | ⭐ 327 | Python | 51/100 |
+| 85 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 51/100 |
+| 86 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 51/100 |
+| 87 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 51/100 |
+| 88 | [thepartly/gatehouse](./thepartly-gatehouse.md) | ⭐ 342 | Rust | 51/100 |
+| 89 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 149 | Rust | 51/100 |
+| 90 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 250 | Rust | 50/100 |
+| 91 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 49/100 |
+| 92 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 48/100 |
+| 93 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
+| 94 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
+| 95 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 47/100 |
+| 96 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
+| 97 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 47/100 |
+| 98 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 47/100 |
+| 99 | [kaifcodec/user-scanner](./kaifcodec-user-scanner.md) | ⭐ — | — | 46/100 |
+| 100 | [thecodearcher/limen](./thecodearcher-limen.md) | ⭐ — | — | 44/100 |
+| 101 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
+| 102 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
+| 103 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 41/100 |
+| 104 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
+| 105 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
+| 106 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
+| 107 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
+| 108 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 109 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 110 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 111 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
 
 ---
 

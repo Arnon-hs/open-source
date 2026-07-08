@@ -272,9 +272,9 @@
 | 262 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 263 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 264 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 265 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 266 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 267 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 265 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 266 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 267 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 268 | [NISD2/open-isms](./nisd2-open-isms.md) | ⭐ — | — | 41/100 |
 | 269 | [nikitazigman/badger](./nikitazigman-badger.md) | ⭐ — | — | 41/100 |
 | 270 | [Fanfulla/OCR-buddy](./fanfulla-ocr-buddy.md) | ⭐ — | — | 41/100 |
