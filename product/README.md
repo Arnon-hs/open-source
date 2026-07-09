@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**31 projects** in this category.
+**32 projects** in this category.
 
 ## Projects
 
@@ -24,21 +24,22 @@
 | 14 | [getsentry/symbolic](./getsentry-symbolic.md) | ⭐ 536 | Rust | 55/100 |
 | 15 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 54/100 |
 | 16 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 54/100 |
-| 17 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 431 | Rust | 54/100 |
-| 18 | [getsentry/relay](./getsentry-relay.md) | ⭐ 378 | Rust | 54/100 |
-| 19 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 53/100 |
-| 20 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 52/100 |
-| 21 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 52/100 |
-| 22 | [dial9-rs/dial9](./dial9-rs-dial9.md) | ⭐ 387 | Rust | 52/100 |
-| 23 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 48/100 |
-| 24 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 44/100 |
-| 25 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
-| 26 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
-| 27 | [crisdosaygo/good.html](./crisdosaygo-good.html.md) | ⭐ — | — | 41/100 |
-| 28 | [gokulrajaram/ProductSpec](./gokulrajaram-productspec.md) | ⭐ — | — | 41/100 |
-| 29 | [B1u3B01t/design-playground](./b1u3b01t-design-playground.md) | ⭐ — | — | 41/100 |
-| 30 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 31 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
+| 17 | [maolan/maolan](./maolan-maolan.md) | ⭐ 104 | Rust | 54/100 |
+| 18 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 431 | Rust | 54/100 |
+| 19 | [getsentry/relay](./getsentry-relay.md) | ⭐ 378 | Rust | 54/100 |
+| 20 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 53/100 |
+| 21 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 52/100 |
+| 22 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 52/100 |
+| 23 | [dial9-rs/dial9](./dial9-rs-dial9.md) | ⭐ 387 | Rust | 52/100 |
+| 24 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 48/100 |
+| 25 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 44/100 |
+| 26 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
+| 27 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
+| 28 | [crisdosaygo/good.html](./crisdosaygo-good.html.md) | ⭐ — | — | 41/100 |
+| 29 | [gokulrajaram/ProductSpec](./gokulrajaram-productspec.md) | ⭐ — | — | 41/100 |
+| 30 | [B1u3B01t/design-playground](./b1u3b01t-design-playground.md) | ⭐ — | — | 41/100 |
+| 31 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 32 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
 
 ---
 
