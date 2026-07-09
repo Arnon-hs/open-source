@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**119 projects** in this category.
+**120 projects** in this category.
 
 ## Projects
 
@@ -64,69 +64,70 @@
 | 54 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.6k | Go | 60/100 |
 | 55 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 60/100 |
 | 56 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 60/100 |
-| 57 | [discourse/discourse_docker](./discourse-discourse-docker.md) | ⭐ 1.9k | Shell | 60/100 |
-| 58 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.4k | Go | 60/100 |
-| 59 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.7k | TypeScript | 60/100 |
-| 60 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 60/100 |
-| 61 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 60/100 |
-| 62 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 59/100 |
-| 63 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 59/100 |
-| 64 | [andrius/asterisk](./andrius-asterisk.md) | ⭐ 392 | Shell | 59/100 |
-| 65 | [FoundationDB/fdb-kubernetes-operator](./foundationdb-fdb-kubernetes-operator.md) | ⭐ 310 | Go | 59/100 |
-| 66 | [seaweedfs/seaweedfs-operator](./seaweedfs-seaweedfs-operator.md) | ⭐ 311 | Go | 59/100 |
-| 67 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 58/100 |
-| 68 | [anaconda/docker-images](./anaconda-docker-images.md) | ⭐ 857 | Dockerfile | 58/100 |
-| 69 | [kubewarden/adm-controller](./kubewarden-adm-controller.md) | ⭐ 230 | Rust | 58/100 |
-| 70 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 57/100 |
-| 71 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 57/100 |
-| 72 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 57/100 |
-| 73 | [lwindolf/lzone-cheat-sheets](./lwindolf-lzone-cheat-sheets.md) | ⭐ 333 | Shell | 57/100 |
-| 74 | [pando85/kaniop](./pando85-kaniop.md) | ⭐ 109 | Rust | 57/100 |
-| 75 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 56/100 |
-| 76 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 56/100 |
-| 77 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 56/100 |
-| 78 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 56/100 |
-| 79 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 56/100 |
-| 80 | [frappe/press](./frappe-press.md) | ⭐ 506 | Python | 56/100 |
-| 81 | [alchemy-run/alchemy-effect](./alchemy-run-alchemy-effect.md) | ⭐ 424 | TypeScript | 56/100 |
-| 82 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 56/100 |
-| 83 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 55/100 |
-| 84 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 55/100 |
-| 85 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 55/100 |
-| 86 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 7k | Shell | 54/100 |
-| 87 | [docker/docs](./docker-docs.md) | ⭐ 4.6k | Markdown | 54/100 |
-| 88 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 54/100 |
-| 89 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 54/100 |
-| 90 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 54/100 |
-| 91 | [kubevirt/hyperconverged-cluster-operator](./kubevirt-hyperconverged-cluster-operator.md) | ⭐ 182 | Go | 54/100 |
-| 92 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 54/100 |
-| 93 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.5k | Rust | 53/100 |
-| 94 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2k | Go | 53/100 |
-| 95 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 53/100 |
-| 96 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
-| 97 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
-| 98 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 53/100 |
-| 99 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 53/100 |
-| 100 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 52/100 |
-| 101 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 51/100 |
-| 102 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 51/100 |
-| 103 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 51/100 |
-| 104 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 50/100 |
-| 105 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 49/100 |
-| 106 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 49/100 |
-| 107 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 49/100 |
-| 108 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
-| 109 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 47/100 |
-| 110 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 47/100 |
-| 111 | [bytestrix/InfraCanvas](./bytestrix-infracanvas.md) | ⭐ — | — | 47/100 |
-| 112 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 44/100 |
-| 113 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 44/100 |
-| 114 | [documentdb/documentdb-kubernetes-operator](./documentdb-documentdb-kubernetes-operator.md) | ⭐ — | — | 44/100 |
-| 115 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 44/100 |
-| 116 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 44/100 |
-| 117 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
-| 118 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
-| 119 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
+| 57 | [docker/model-runner](./docker-model-runner.md) | ⭐ 602 | Go | 60/100 |
+| 58 | [discourse/discourse_docker](./discourse-discourse-docker.md) | ⭐ 1.9k | Shell | 60/100 |
+| 59 | [kimdre/doco-cd](./kimdre-doco-cd.md) | ⭐ 1.4k | Go | 60/100 |
+| 60 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.7k | TypeScript | 60/100 |
+| 61 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 60/100 |
+| 62 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 60/100 |
+| 63 | [kubesphere/kubekey](./kubesphere-kubekey.md) | ⭐ 2.8k | Go | 59/100 |
+| 64 | [kube-vip/kube-vip](./kube-vip-kube-vip.md) | ⭐ 2.8k | Go | 59/100 |
+| 65 | [andrius/asterisk](./andrius-asterisk.md) | ⭐ 392 | Shell | 59/100 |
+| 66 | [FoundationDB/fdb-kubernetes-operator](./foundationdb-fdb-kubernetes-operator.md) | ⭐ 310 | Go | 59/100 |
+| 67 | [seaweedfs/seaweedfs-operator](./seaweedfs-seaweedfs-operator.md) | ⭐ 311 | Go | 59/100 |
+| 68 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 58/100 |
+| 69 | [anaconda/docker-images](./anaconda-docker-images.md) | ⭐ 857 | Dockerfile | 58/100 |
+| 70 | [kubewarden/adm-controller](./kubewarden-adm-controller.md) | ⭐ 230 | Rust | 58/100 |
+| 71 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 10.9k | Go | 57/100 |
+| 72 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 2.7k | Go | 57/100 |
+| 73 | [integrations/terraform-provider-github](./integrations-terraform-provider-github.md) | ⭐ 1.1k | Go | 57/100 |
+| 74 | [lwindolf/lzone-cheat-sheets](./lwindolf-lzone-cheat-sheets.md) | ⭐ 333 | Shell | 57/100 |
+| 75 | [pando85/kaniop](./pando85-kaniop.md) | ⭐ 109 | Rust | 57/100 |
+| 76 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 56/100 |
+| 77 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 56/100 |
+| 78 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 2.5k | Go | 56/100 |
+| 79 | [hackforla/website](./hackforla-website.md) | ⭐ 364 | JavaScript | 56/100 |
+| 80 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 56/100 |
+| 81 | [frappe/press](./frappe-press.md) | ⭐ 506 | Python | 56/100 |
+| 82 | [alchemy-run/alchemy-effect](./alchemy-run-alchemy-effect.md) | ⭐ 424 | TypeScript | 56/100 |
+| 83 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 630 | PHP | 56/100 |
+| 84 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 55/100 |
+| 85 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 898 | Go | 55/100 |
+| 86 | [mondoohq/mql](./mondoohq-mql.md) | ⭐ 398 | Go | 55/100 |
+| 87 | [docker-library/official-images](./docker-library-official-images.md) | ⭐ 7k | Shell | 54/100 |
+| 88 | [docker/docs](./docker-docs.md) | ⭐ 4.6k | Markdown | 54/100 |
+| 89 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 54/100 |
+| 90 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 54/100 |
+| 91 | [deckhouse/deckhouse](./deckhouse-deckhouse.md) | ⭐ 1.3k | Go | 54/100 |
+| 92 | [kubevirt/hyperconverged-cluster-operator](./kubevirt-hyperconverged-cluster-operator.md) | ⭐ 182 | Go | 54/100 |
+| 93 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 54/100 |
+| 94 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.5k | Rust | 53/100 |
+| 95 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2k | Go | 53/100 |
+| 96 | [Gisto/Gisto](./gisto-gisto.md) | ⭐ 1.1k | TypeScript | 53/100 |
+| 97 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 111 | Rust | 53/100 |
+| 98 | [netxms/netxms](./netxms-netxms.md) | ⭐ 353 | C++ | 53/100 |
+| 99 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 53/100 |
+| 100 | [docker/docker-credential-helpers](./docker-docker-credential-helpers.md) | ⭐ 1.3k | Go | 53/100 |
+| 101 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 52/100 |
+| 102 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 951 | HCL | 51/100 |
+| 103 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 610 | HCL | 51/100 |
+| 104 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 51/100 |
+| 105 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 676 | Go | 50/100 |
+| 106 | [xcat2/xcat-core](./xcat2-xcat-core.md) | ⭐ 391 | Perl | 49/100 |
+| 107 | [terraforming-mars/terraforming-mars](./terraforming-mars-terraforming-mars.md) | ⭐ 914 | TypeScript | 49/100 |
+| 108 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 308 | Go | 49/100 |
+| 109 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 379 | Go | 49/100 |
+| 110 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 47/100 |
+| 111 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 47/100 |
+| 112 | [bytestrix/InfraCanvas](./bytestrix-infracanvas.md) | ⭐ — | — | 47/100 |
+| 113 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 44/100 |
+| 114 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 44/100 |
+| 115 | [documentdb/documentdb-kubernetes-operator](./documentdb-documentdb-kubernetes-operator.md) | ⭐ — | — | 44/100 |
+| 116 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 44/100 |
+| 117 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 44/100 |
+| 118 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
+| 119 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
+| 120 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
 
 ---
 
