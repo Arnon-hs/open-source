@@ -131,8 +131,8 @@
 | 121 | [heurist-network/heurist-agent-framework](./heurist-network-heurist-agent-framework.md) | ⭐ 809 | Python | 69/100 |
 | 122 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 69/100 |
 | 123 | [lifinance/sdk](./lifinance-sdk.md) | ⭐ 261 | TypeScript | 68/100 |
-| 124 | [ObolNetwork/charon](./obolnetwork-charon.md) | ⭐ 221 | Go | 68/100 |
-| 125 | [c9s/bbgo](./c9s-bbgo.md) | ⭐ 1.7k | Go | 68/100 |
+| 124 | [c9s/bbgo](./c9s-bbgo.md) | ⭐ 1.7k | Go | 68/100 |
+| 125 | [ObolNetwork/charon](./obolnetwork-charon.md) | ⭐ 221 | Go | 68/100 |
 | 126 | [Olanetsoft/midnight-mcp](./olanetsoft-midnight-mcp.md) | ⭐ 37 | TypeScript | 68/100 |
 | 127 | [canopy-network/canopy](./canopy-network-canopy.md) | ⭐ 12.6k | Go | 68/100 |
 | 128 | [nahuelvivas/Polymarket-Arbitrage-Trading-Bot](./nahuelvivas-polymarket-arbitrage-trading-bot.md) | ⭐ 412 | Python | 68/100 |
@@ -168,8 +168,8 @@
 | 158 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 159 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 160 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 161 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
-| 162 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 161 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 162 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
 | 163 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 164 | [vprusso/toqito](./vprusso-toqito.md) | ⭐ 283 | Python | 66/100 |
 | 165 | [rotki/rotki](./rotki-rotki.md) | ⭐ 3.9k | Python | 66/100 |
@@ -484,8 +484,8 @@
 | 474 | [axiom-crypto/halo2-lib](./axiom-crypto-halo2-lib.md) | ⭐ 312 | Rust | 53/100 |
 | 475 | [RustCrypto/formats](./rustcrypto-formats.md) | ⭐ 324 | Rust | 53/100 |
 | 476 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 560 | Rust | 53/100 |
-| 477 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
-| 478 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
+| 477 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
+| 478 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
 | 479 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 94 | — | 53/100 |
 | 480 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 173 | Rust | 53/100 |
 | 481 | [binius-zk/binius64](./binius-zk-binius64.md) | ⭐ 143 | Rust | 53/100 |
