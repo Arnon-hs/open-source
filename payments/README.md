@@ -189,8 +189,8 @@
 | 179 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 55/100 |
 | 180 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 54/100 |
 | 181 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 132 | PHP | 54/100 |
-| 182 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
-| 183 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 182 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 183 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
 | 184 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 54/100 |
 | 185 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 54/100 |
 | 186 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 53/100 |
