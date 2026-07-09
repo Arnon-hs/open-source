@@ -169,8 +169,8 @@
 | 159 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 160 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 161 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 162 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
-| 163 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 162 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 163 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
 | 164 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 165 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 166 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -278,8 +278,8 @@
 | 268 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 269 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 | 270 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 271 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 272 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 271 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 272 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 273 | [kyuuri1791/schema_ferry](./kyuuri1791-schema-ferry.md) | ⭐ — | — | 41/100 |
 | 274 | [NISD2/open-isms](./nisd2-open-isms.md) | ⭐ — | — | 41/100 |
 | 275 | [nikitazigman/badger](./nikitazigman-badger.md) | ⭐ — | — | 41/100 |
