@@ -1,18 +1,18 @@
 # thedotmack/claude-mem
 
-[![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&color=yellow)](https://github.com/thedotmack/claude-mem/stargazers) [![Forks](https://img.shields.io/github/forks/thedotmack/claude-mem?style=flat-square&color=blue)](https://github.com/thedotmack/claude-mem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&color=yellow)](https://github.com/thedotmack/claude-mem/stargazers) [![Forks](https://img.shields.io/github/forks/thedotmack/claude-mem?style=flat-square&color=blue)](https://github.com/thedotmack/claude-mem/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
-> A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+> Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 73.1k |
-| 🍴 **Forks** | 6.3k |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| ⭐ **Stars** | 86.6k |
+| 🍴 **Forks** | 7.5k |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
 ### English
 
-thedotmack/claude-mem: thedotmack/claude-mem helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+thedotmack/claude-mem: thedotmack/claude-mem helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-thedotmack/claude-mem: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+thedotmack/claude-mem: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,14 +49,14 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 73143 GitHub stars
-- 6280 forks
-- updated 2026-05-07
-- primary language: TypeScript
+- 86589 GitHub stars
+- 7483 forks
+- updated 2026-07-09
+- primary language: JavaScript
 - 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -66,17 +66,17 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
-| integration | 78/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| quality | 100/100 |
+| integration | 62/100 |
+| production | 86/100 |
+| outlook | 98/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
-| forks | 95/100 |
-| recency | 40/100 |
+| forks | 97/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thedotmack/claude-mem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/thedotmack/claude-mem) · [← Back to Orchestration](./README.md)</sub>

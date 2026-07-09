@@ -53,8 +53,8 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps connect AI ass
 
 **Quality signals**
 
-- 29059 GitHub stars
-- 2180 forks
+- 29096 GitHub stars
+- 2196 forks
 - updated 2026-07-09
 - primary language: C
 - 20 topics
@@ -72,7 +72,7 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps connect AI ass
 | outlook | 98/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
-| forks | 83/100 |
+| forks | 84/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

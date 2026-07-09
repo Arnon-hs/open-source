@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.5k |
-| 🍴 **Forks** | 752 |
+| ⭐ **Stars** | 6.6k |
+| 🍴 **Forks** | 779 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | 2026-07-09 |
@@ -53,8 +53,8 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 
 **Quality signals**
 
-- 6455 GitHub stars
-- 752 forks
+- 6551 GitHub stars
+- 779 forks
 - updated 2026-07-09
 - primary language: TypeScript
 - 9 topics
