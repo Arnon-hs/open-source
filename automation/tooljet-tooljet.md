@@ -53,7 +53,7 @@ ToolJet/ToolJet：ToolJet/ToolJet helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 38167 GitHub stars
+- 38170 GitHub stars
 - 5156 forks
 - updated 2026-07-09
 - primary language: JavaScript
