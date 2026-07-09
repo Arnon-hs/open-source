@@ -1,6 +1,6 @@
 # gethomepage/homepage
 
-[![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&color=yellow)](https://github.com/gethomepage/homepage/stargazers) [![Forks](https://img.shields.io/github/forks/gethomepage/homepage?style=flat-square&color=blue)](https://github.com/gethomepage/homepage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&color=yellow)](https://github.com/gethomepage/homepage/stargazers) [![Forks](https://img.shields.io/github/forks/gethomepage/homepage?style=flat-square&color=blue)](https://github.com/gethomepage/homepage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29.9k |
-| 🍴 **Forks** | 1.9k |
+| ⭐ **Stars** | 31.4k |
+| 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ Frontend · Backend · DevOps/Infra
 
 ### English
 
-gethomepage/homepage: gethomepage/homepage helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gethomepage/homepage: gethomepage/homepage helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-gethomepage/homepage: open-source проект в категориях Frontend, Backend, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gethomepage/homepage: open-source проект в категориях Frontend, Backend, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 29945 GitHub stars
-- 1897 forks
-- updated 2026-05-07
+- 31422 GitHub stars
+- 2024 forks
+- updated 2026-07-09
 - primary language: JavaScript
 - 7 topics
 
@@ -66,17 +66,17 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 95/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 76/100 |
+| production | 84/100 |
+| outlook | 97/100 |
 | adoption | 92/100 |
-| stars | 95/100 |
-| forks | 82/100 |
-| recency | 40/100 |
+| stars | 96/100 |
+| forks | 83/100 |
+| recency | 100/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/gethomepage/homepage) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/gethomepage/homepage) · [← Back to Frontend](./README.md)</sub>

@@ -53,8 +53,8 @@ nrwl/nx：nrwl/nx helps remove repetitive manual operations from a workflow.。�
 
 **Quality signals**
 
-- 29068 GitHub stars
-- 2764 forks
+- 29081 GitHub stars
+- 2785 forks
 - updated 2026-07-09
 - primary language: TypeScript
 - 17 topics
@@ -70,7 +70,7 @@ nrwl/nx：nrwl/nx helps remove repetitive manual operations from a workflow.。�
 | integration | 62/100 |
 | production | 85/100 |
 | outlook | 96/100 |
-| adoption | 92/100 |
+| adoption | 93/100 |
 | stars | 95/100 |
 | forks | 86/100 |
 | recency | 100/100 |
