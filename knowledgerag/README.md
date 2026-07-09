@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [samchon/nestia](./samchon-nestia.md) | ⭐ 2.2k | TypeScript | 86/100 |
+| 1 | [gptme/gptme](./gptme-gptme.md) | ⭐ 4.4k | Python | 85/100 |
 
 ---
 

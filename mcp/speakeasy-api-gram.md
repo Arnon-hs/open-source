@@ -1,6 +1,6 @@
 # speakeasy-api/gram
 
-[![Stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=flat-square&color=yellow)](https://github.com/speakeasy-api/gram/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/gram?style=flat-square&color=blue)](https://github.com/speakeasy-api/gram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=flat-square&color=yellow)](https://github.com/speakeasy-api/gram/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/gram?style=flat-square&color=blue)](https://github.com/speakeasy-api/gram/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 253 |
-| 🍴 **Forks** | 30 |
+| 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
@@ -54,7 +54,7 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 **Quality signals**
 
 - 253 GitHub stars
-- 30 forks
+- 31 forks
 - updated 2026-07-09
 - primary language: Go
 - 14 topics
@@ -72,7 +72,7 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 | outlook | 87/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
-| forks | 37/100 |
+| forks | 38/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

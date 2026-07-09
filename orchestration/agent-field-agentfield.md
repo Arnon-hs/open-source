@@ -53,7 +53,7 @@ Agent-Field/agentfield：Agent-Field/agentfield helps turn isolated prompts and 
 
 **Quality signals**
 
-- 2328 GitHub stars
+- 2329 GitHub stars
 - 369 forks
 - updated 2026-07-09
 - primary language: Go

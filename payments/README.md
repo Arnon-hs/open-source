@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 687 | TypeScript | 88/100 |
+| 1 | [stablyai/orca](./stablyai-orca.md) | ⭐ 15k | TypeScript | 85/100 |
 
 ---
 

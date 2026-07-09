@@ -2,17 +2,17 @@
 
 [![Stars](https://img.shields.io/github/stars/karust/openserp?style=flat-square&color=yellow)](https://github.com/karust/openserp/stargazers) [![Forks](https://img.shields.io/github/forks/karust/openserp?style=flat-square&color=blue)](https://github.com/karust/openserp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
+> Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 818 |
-| 🍴 **Forks** | 110 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 130 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 818 GitHub stars
-- 110 forks
-- updated 2026-07-02
+- 1041 GitHub stars
+- 130 forks
+- updated 2026-07-09
 - primary language: Go
 - 18 topics
 
@@ -68,15 +68,15 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 | usefulness | 100/100 |
 | quality | 82/100 |
 | integration | 78/100 |
-| production | 81/100 |
+| production | 82/100 |
 | outlook | 90/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
-| forks | 51/100 |
+| adoption | 61/100 |
+| stars | 64/100 |
+| forks | 53/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/karust/openserp) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/karust/openserp) · [← Back to Automation](./README.md)</sub>

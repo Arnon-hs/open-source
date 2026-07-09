@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.4k |
+| ⭐ **Stars** | 25.5k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
@@ -53,7 +53,7 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 
 **Quality signals**
 
-- 25449 GitHub stars
+- 25451 GitHub stars
 - 4745 forks
 - updated 2026-07-09
 - primary language: TypeScript

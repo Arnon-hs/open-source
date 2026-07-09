@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.7k |
-| 🍴 **Forks** | 314 |
+| ⭐ **Stars** | 4.8k |
+| 🍴 **Forks** | 316 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ openclaw/mcporter：openclaw/mcporter helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 4694 GitHub stars
-- 314 forks
-- updated 2026-06-25
+- 4772 GitHub stars
+- 316 forks
+- updated 2026-07-09
 - primary language: TypeScript
 - 3 topics
 
@@ -72,11 +72,11 @@ openclaw/mcporter：openclaw/mcporter helps connect AI assistants to real tools 
 | outlook | 85/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
-| forks | 62/100 |
+| forks | 63/100 |
 | recency | 100/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/openclaw/mcporter) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/openclaw/mcporter) · [← Back to Mcp](./README.md)</sub>
