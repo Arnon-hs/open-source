@@ -1,6 +1,6 @@
 # soxoj/maigret
 
-[![Stars](https://img.shields.io/github/stars/soxoj/maigret?style=flat-square&color=yellow)](https://github.com/soxoj/maigret/stargazers) [![Forks](https://img.shields.io/github/forks/soxoj/maigret?style=flat-square&color=blue)](https://github.com/soxoj/maigret/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soxoj/maigret?style=flat-square&color=yellow)](https://github.com/soxoj/maigret/stargazers) [![Forks](https://img.shields.io/github/forks/soxoj/maigret?style=flat-square&color=blue)](https://github.com/soxoj/maigret/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
@@ -8,34 +8,34 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35.2k |
-| 🍴 **Forks** | 2.7k |
+| ⭐ **Stars** | 26.2k |
+| 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`cli` `cybersecurity` `identification` `information-gathering` `infosec` `investigation` `open-source` `osint` `osint-framework` `osint-python` `pentesting` `python`
+`blueteam` `cli` `cybersecurity` `identification` `infosec` `investigation` `namechecker` `open-source` `osint` `osint-framework` `osint-python` `pentesting`
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Database · Security
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-soxoj/maigret: soxoj/maigret helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+soxoj/maigret: soxoj/maigret helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-soxoj/maigret: open-source проект в категориях AI/ML, Backend, DevTools, Database, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+soxoj/maigret: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-soxoj/maigret：soxoj/maigret helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+soxoj/maigret：soxoj/maigret helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ soxoj/maigret：soxoj/maigret helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 35173 GitHub stars
-- 2666 forks
-- updated 2026-07-09
+- 26210 GitHub stars
+- 1829 forks
+- updated 2026-05-07
 - primary language: Python
 - 20 topics
 
@@ -66,17 +66,17 @@ soxoj/maigret：soxoj/maigret helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 97/100 |
+| quality | 81/100 |
 | integration | 78/100 |
-| production | 87/100 |
-| outlook | 96/100 |
-| adoption | 94/100 |
-| stars | 97/100 |
-| forks | 86/100 |
-| recency | 100/100 |
+| production | 67/100 |
+| outlook | 75/100 |
+| adoption | 91/100 |
+| stars | 94/100 |
+| forks | 82/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/soxoj/maigret) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/soxoj/maigret) · [← Back to AI/ML](./README.md)</sub>

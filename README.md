@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **15** |
+| 🗂️ **Total projects** | **17835** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,36 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 5370 | [Browse →](./aiml/) |
+| 📦 **Misc** | 3314 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1624 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1417 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 991 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 896 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 753 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 683 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 585 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 403 | [Browse →](./knowledgerag/) |
+| 📊 **Data** | 370 | [Browse →](./data/) |
+| 🏷️ **Database** | 318 | [Browse →](./database/) |
+| 💳 **Payments** | 230 | [Browse →](./payments/) |
+| 📱 **Mobile** | 211 | [Browse →](./mobile/) |
+| 📈 **Trading** | 206 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 120 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 116 | [Browse →](./security/) |
+| 🏷️ **Education** | 59 | [Browse →](./education/) |
+| ✨ **Design** | 56 | [Browse →](./design/) |
+| 🏷️ **Observability** | 55 | [Browse →](./observability/) |
+| 🎯 **Product** | 32 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 26 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.9k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.1k | Orchestration |
-| 3 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.7k | Orchestration |
-| 4 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.9k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 14.2k | Mcp |
-| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17k | Mcp |
-| 7 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 40.5k | Orchestration |
-| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
-| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.5k | Orchestration |
-| 10 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.5k | Orchestration |
+| 1 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
+| 2 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 6 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 7 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 8 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
+| 9 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 10 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
 
 ## 🚀 How it works
 
