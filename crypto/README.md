@@ -97,8 +97,8 @@
 | 87 | [mempool/mempool](./mempool-mempool.md) | ⭐ 2.8k | TypeScript | 71/100 |
 | 88 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 61 | JavaScript | 71/100 |
 | 89 | [argotorg/solidity](./argotorg-solidity.md) | ⭐ 25.7k | C++ | 71/100 |
-| 90 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
-| 91 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
+| 90 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
+| 91 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
 | 92 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
 | 93 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 94 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |
@@ -171,8 +171,8 @@
 | 161 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 162 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 163 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 164 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
-| 165 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 164 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 165 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
 | 166 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 167 | [vprusso/toqito](./vprusso-toqito.md) | ⭐ 283 | Python | 66/100 |
 | 168 | [rotki/rotki](./rotki-rotki.md) | ⭐ 3.9k | Python | 66/100 |
@@ -490,8 +490,8 @@
 | 480 | [axiom-crypto/halo2-lib](./axiom-crypto-halo2-lib.md) | ⭐ 312 | Rust | 53/100 |
 | 481 | [RustCrypto/formats](./rustcrypto-formats.md) | ⭐ 324 | Rust | 53/100 |
 | 482 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 560 | Rust | 53/100 |
-| 483 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
-| 484 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
+| 483 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 287 | Rust | 53/100 |
+| 484 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 107 | Rust | 53/100 |
 | 485 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 94 | — | 53/100 |
 | 486 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 173 | Rust | 53/100 |
 | 487 | [binius-zk/binius64](./binius-zk-binius64.md) | ⭐ 143 | Rust | 53/100 |

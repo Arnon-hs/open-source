@@ -258,8 +258,8 @@
 | 248 | [madara88645/Compiler](./madara88645-compiler.md) | ⭐ 25 | Python | 77/100 |
 | 249 | [agentlas-ai/Hephaestus](./agentlas-ai-hephaestus.md) | ⭐ 99 | Python | 77/100 |
 | 250 | [kimtth/azure-openai-llm-wiki](./kimtth-azure-openai-llm-wiki.md) | ⭐ 402 | Python | 77/100 |
-| 251 | [awslabs/graphrag-toolkit](./awslabs-graphrag-toolkit.md) | ⭐ 414 | Python | 77/100 |
-| 252 | [Arize-ai/phoenix](./arize-ai-phoenix.md) | ⭐ 10.3k | Python | 77/100 |
+| 251 | [Arize-ai/phoenix](./arize-ai-phoenix.md) | ⭐ 10.3k | Python | 77/100 |
+| 252 | [awslabs/graphrag-toolkit](./awslabs-graphrag-toolkit.md) | ⭐ 414 | Python | 77/100 |
 | 253 | [ginkida/agent-dispatch](./ginkida-agent-dispatch.md) | ⭐ 28 | Python | 77/100 |
 | 254 | [tornikebolokadze1-cyber/awesome-ai-pulse-georgia](./tornikebolokadze1-cyber-awesome-ai-pulse-georgia.md) | ⭐ 125 | TypeScript | 77/100 |
 | 255 | [qinshihu/itops-agent-platform](./qinshihu-itops-agent-platform.md) | ⭐ 264 | TypeScript | 77/100 |
@@ -558,8 +558,8 @@
 | 548 | [kage-core/Kage](./kage-core-kage.md) | ⭐ 23 | TypeScript | 71/100 |
 | 549 | [NirDiamant/Agent_Memory_Techniques](./nirdiamant-agent-memory-techniques.md) | ⭐ 746 | Jupyter Notebook | 71/100 |
 | 550 | [heggria/taskflow](./heggria-taskflow.md) | ⭐ 22 | TypeScript | 71/100 |
-| 551 | [Garrus800-stack/genesis-agent](./garrus800-stack-genesis-agent.md) | ⭐ 31 | JavaScript | 71/100 |
-| 552 | [maximem-ai/maximem_synap_sdk](./maximem-ai-maximem-synap-sdk.md) | ⭐ 32 | Python | 71/100 |
+| 551 | [maximem-ai/maximem_synap_sdk](./maximem-ai-maximem-synap-sdk.md) | ⭐ 32 | Python | 71/100 |
+| 552 | [Garrus800-stack/genesis-agent](./garrus800-stack-genesis-agent.md) | ⭐ 31 | JavaScript | 71/100 |
 | 553 | [deepfates/cantrip](./deepfates-cantrip.md) | ⭐ 119 | Elixir | 71/100 |
 | 554 | [26zl/cybersec-toolkit](./26zl-cybersec-toolkit.md) | ⭐ 22 | Python | 71/100 |
 | 555 | [gma1k/podtrace](./gma1k-podtrace.md) | ⭐ 183 | Go | 71/100 |
@@ -587,14 +587,14 @@
 | 577 | [genai-io/san](./genai-io-san.md) | ⭐ 63 | Go | 71/100 |
 | 578 | [Forward-Future/loop-library](./forward-future-loop-library.md) | ⭐ 1.1k | JavaScript | 71/100 |
 | 579 | [gossipcat-ai/gossipcat-ai](./gossipcat-ai-gossipcat-ai.md) | ⭐ 37 | TypeScript | 71/100 |
-| 580 | [project-nomos/nomos](./project-nomos-nomos.md) | ⭐ 22 | TypeScript | 71/100 |
-| 581 | [KarmaDevplacer/Mythos-Claude-Orchestrator](./karmadevplacer-mythos-claude-orchestrator.md) | ⭐ 51 | HTML | 71/100 |
+| 580 | [KarmaDevplacer/Mythos-Claude-Orchestrator](./karmadevplacer-mythos-claude-orchestrator.md) | ⭐ 51 | HTML | 71/100 |
+| 581 | [project-nomos/nomos](./project-nomos-nomos.md) | ⭐ 22 | TypeScript | 71/100 |
 | 582 | [camunda/camunda](./camunda-camunda.md) | ⭐ 4.2k | Java | 71/100 |
 | 583 | [postrv/forgemax](./postrv-forgemax.md) | ⭐ 148 | Rust | 71/100 |
 | 584 | [letta-ai/letta](./letta-ai-letta.md) | ⭐ 22.7k | Python | 71/100 |
 | 585 | [officecli/officecli](./officecli-officecli.md) | ⭐ 38 | Shell | 71/100 |
-| 586 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ 33 | HTML | 71/100 |
-| 587 | [KarryViber/Orb](./karryviber-orb.md) | ⭐ 60 | JavaScript | 71/100 |
+| 586 | [KarryViber/Orb](./karryviber-orb.md) | ⭐ 60 | JavaScript | 71/100 |
+| 587 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ 33 | HTML | 71/100 |
 | 588 | [JudgmentLabs/judgeval](./judgmentlabs-judgeval.md) | ⭐ 1k | Python | 71/100 |
 | 589 | [mathomhaus/guild](./mathomhaus-guild.md) | ⭐ 188 | Go | 71/100 |
 | 590 | [prassanna-ravishankar/repowire](./prassanna-ravishankar-repowire.md) | ⭐ 87 | HTML | 71/100 |
