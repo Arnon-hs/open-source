@@ -378,8 +378,8 @@
 | 368 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 369 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
 | 370 | [megabytefisher/Dragonfruit](./megabytefisher-dragonfruit.md) | ⭐ — | — | 47/100 |
-| 371 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 372 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 371 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 372 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
 | 373 | [Srivatsa03/rag-redteam](./srivatsa03-rag-redteam.md) | ⭐ — | — | 45/100 |
 | 374 | [maxgio92/xcover](./maxgio92-xcover.md) | ⭐ — | — | 45/100 |
 | 375 | [Gusto/baerly-storage](./gusto-baerly-storage.md) | ⭐ — | — | 45/100 |
@@ -388,8 +388,8 @@
 | 378 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
 | 379 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
 | 380 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 381 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 382 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 381 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 382 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
 | 383 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 384 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 385 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
