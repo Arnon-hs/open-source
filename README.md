@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **17548** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **17** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,38 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 5292 | [Browse →](./aiml/) |
-| 📦 **Misc** | 3247 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1600 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1400 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 981 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 884 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 743 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 669 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 578 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 396 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 364 | [Browse →](./data/) |
-| 🏷️ **Database** | 313 | [Browse →](./database/) |
-| 💳 **Payments** | 225 | [Browse →](./payments/) |
-| 📱 **Mobile** | 205 | [Browse →](./mobile/) |
-| 📈 **Trading** | 202 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 119 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 114 | [Browse →](./security/) |
-| 🏷️ **Education** | 58 | [Browse →](./education/) |
-| 🏷️ **Observability** | 53 | [Browse →](./observability/) |
-| ✨ **Design** | 52 | [Browse →](./design/) |
-| 🎯 **Product** | 28 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 25 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| 📈 **Trading** | 1 | [Browse →](./trading/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
-| 2 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 6 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 7 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 8 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
-| 9 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 10 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 57.9k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.7k | Mcp |
+| 3 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.4k | AI/ML |
+| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 16.8k | Mcp |
+| 5 | [ToolJet/ToolJet](./automation/tooljet-tooljet.md) | ⭐ 38.2k | Automation |
+| 6 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16.7k | Orchestration |
+| 7 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 4k | Mcp |
+| 8 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.5k | Orchestration |
+| 9 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.5k | Orchestration |
+| 10 | [ThinkInAIXYZ/deepchat](./orchestration/thinkinaixyz-deepchat.md) | ⭐ 6.1k | Orchestration |
 
 ## 🚀 How it works
 

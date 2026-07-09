@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ archestra-ai/archestra：archestra-ai/archestra helps connect AI assistants to r
 
 **Quality signals**
 
-- 3953 GitHub stars
+- 3952 GitHub stars
 - 1104 forks
-- updated 2026-07-08
+- updated 2026-07-09
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ archestra-ai/archestra：archestra-ai/archestra helps connect AI assistants to r
 
 ---
 
-<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/archestra-ai/archestra) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/archestra-ai/archestra) · [← Back to Mcp](./README.md)</sub>

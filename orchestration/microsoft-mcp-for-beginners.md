@@ -1,6 +1,6 @@
 # microsoft/mcp-for-beginners
 
-[![Stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat-square&color=yellow)](https://github.com/microsoft/mcp-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners?style=flat-square&color=blue)](https://github.com/microsoft/mcp-for-beginners/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat-square&color=yellow)](https://github.com/microsoft/mcp-for-beginners/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp-for-beginners?style=flat-square&color=blue)](https://github.com/microsoft/mcp-for-beginners/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
 
 > This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16k |
-| 🍴 **Forks** | 5.2k |
+| ⭐ **Stars** | 16.7k |
+| 🍴 **Forks** | 5.5k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 📈 **Score** | 93/100 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-A beginner‑friendly, open‑source curriculum that teaches the core concepts of the Model Context Protocol (MCP) using hands‑on, cross‑language examples in .NET, Java, TypeScript, JavaScript, Rust, and Python. It guides developers through practical techniques for creating modular, scalable, and secure AI workflows—from session initialization to full‑service orchestration—making it a go‑to resource for AI/ML orchestration and frontend integration.
+microsoft/mcp-for-beginners: microsoft/mcp-for-beginners helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Open‑source учебный курс **microsoft/mcp-for-beginners** знакомит разработчиков с базовыми принципами Model Context Protocol (MCP) через практические, кросс‑языковые примеры на .NET, Java, TypeScript, JavaScript, Rust и Python. Он показывает, как создавать модульные, масштабируемые и безопасные AI‑конвейеры — от настройки сессии до оркестрации сервисов, охватывая оркестрацию, AI/ML и фронтенд‑аспекты. Проект ориентирован на быстрый старт и реальное применение MCP в многоплатформенной среде.
+microsoft/mcp-for-beginners: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-microsoft/mcp-for-beginners：microsoft/mcp-for-beginners helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+microsoft/mcp-for-beginners：microsoft/mcp-for-beginners helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ microsoft/mcp-for-beginners：microsoft/mcp-for-beginners helps turn isolated pr
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 16046 GitHub stars
-- 5239 forks
-- updated 2026-05-08
+- 16715 GitHub stars
+- 5453 forks
+- updated 2026-07-09
 - primary language: Jupyter Notebook
 - 14 topics
 
@@ -66,17 +66,17 @@ microsoft/mcp-for-beginners：microsoft/mcp-for-beginners helps turn isolated pr
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 81/100 |
+| quality | 96/100 |
 | integration | 94/100 |
-| production | 69/100 |
-| outlook | 75/100 |
-| adoption | 90/100 |
-| stars | 89/100 |
+| production | 89/100 |
+| outlook | 96/100 |
+| adoption | 91/100 |
+| stars | 90/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/microsoft/mcp-for-beginners) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/microsoft/mcp-for-beginners) · [← Back to Orchestration](./README.md)</sub>
