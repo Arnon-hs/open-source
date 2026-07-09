@@ -2,7 +2,7 @@
 
 > 
 
-**54 projects** in this category.
+**55 projects** in this category.
 
 ## Projects
 
@@ -54,14 +54,15 @@
 | 44 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 56/100 |
 | 45 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 412 | TypeScript | 55/100 |
 | 46 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
-| 47 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 421 | Rust | 52/100 |
-| 48 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 501 | C | 51/100 |
-| 49 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 50 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
-| 51 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
-| 52 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 53 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 54 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 47 | [open-telemetry/opentelemetry-dotnet-instrumentation](./open-telemetry-opentelemetry-dotnet-instrumentation.md) | ⭐ 459 | C++ | 53/100 |
+| 48 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 421 | Rust | 52/100 |
+| 49 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 501 | C | 51/100 |
+| 50 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
+| 51 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
+| 52 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
+| 53 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 54 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 55 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 
