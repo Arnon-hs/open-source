@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 741 |
+| 🍴 **Forks** | 742 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | 2026-07-09 |
@@ -53,8 +53,8 @@ IBM/mcp-context-forge：IBM/mcp-context-forge helps connect AI assistants to rea
 
 **Quality signals**
 
-- 4060 GitHub stars
-- 741 forks
+- 4061 GitHub stars
+- 742 forks
 - updated 2026-07-09
 - primary language: Python
 - 20 topics

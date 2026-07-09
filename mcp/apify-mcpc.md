@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ apify/mcpc：apify/mcpc helps connect AI assistants to real tools and data throu
 
 - 709 GitHub stars
 - 66 forks
-- updated 2026-07-08
+- updated 2026-07-09
 - primary language: TypeScript
 - 10 topics
 
@@ -79,4 +79,4 @@ apify/mcpc：apify/mcpc helps connect AI assistants to real tools and data throu
 
 ---
 
-<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/apify/mcpc) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/apify/mcpc) · [← Back to Mcp](./README.md)</sub>

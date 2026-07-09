@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.2k |
+| ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a
 
 **Quality signals**
 
-- 16166 GitHub stars
-- 1356 forks
-- updated 2026-07-02
+- 16389 GitHub stars
+- 1378 forks
+- updated 2026-07-09
 - primary language: TypeScript
 - 18 topics
 
@@ -70,7 +70,7 @@ getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a
 | integration | 62/100 |
 | production | 84/100 |
 | outlook | 97/100 |
-| adoption | 86/100 |
+| adoption | 87/100 |
 | stars | 90/100 |
 | forks | 78/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/getmaxun/maxun) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/getmaxun/maxun) · [← Back to Automation](./README.md)</sub>
