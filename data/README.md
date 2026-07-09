@@ -218,8 +218,8 @@
 | 208 | [Snowflake-Labs/pg_lake](./snowflake-labs-pg-lake.md) | ⭐ 1.6k | C | 55/100 |
 | 209 | [mehrantsi/feoxdb](./mehrantsi-feoxdb.md) | ⭐ 191 | Rust | 55/100 |
 | 210 | [elixir-ecto/ecto_sql](./elixir-ecto-ecto-sql.md) | ⭐ 658 | Elixir | 55/100 |
-| 211 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
-| 212 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
+| 211 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
+| 212 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
 | 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 402 | Emacs Lisp | 55/100 |
 | 214 | [paulstothard/helpful_commands](./paulstothard-helpful-commands.md) | ⭐ 48 | — | 55/100 |
 | 215 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 55/100 |
