@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**114 projects** in this category.
+**115 projects** in this category.
 
 ## Projects
 
@@ -112,16 +112,17 @@
 | 102 | [thecodearcher/limen](./thecodearcher-limen.md) | ⭐ — | — | 44/100 |
 | 103 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
 | 104 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
-| 105 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 41/100 |
-| 106 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 41/100 |
-| 107 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
-| 108 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
-| 109 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
-| 110 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
-| 111 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
-| 112 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
-| 113 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
-| 114 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
+| 105 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 41/100 |
+| 106 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 41/100 |
+| 107 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 41/100 |
+| 108 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
+| 109 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
+| 110 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
+| 111 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
+| 112 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 113 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 114 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 115 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
 
 ---
 
