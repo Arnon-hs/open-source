@@ -53,7 +53,7 @@ mudler/LocalAI：mudler/LocalAI helps connect AI assistants to real tools and da
 
 **Quality signals**
 
-- 47431 GitHub stars
+- 47448 GitHub stars
 - 4217 forks
 - updated 2026-07-09
 - primary language: Go

@@ -54,7 +54,7 @@ appsmithorg/appsmith：appsmithorg/appsmith helps remove repetitive manual opera
 **Quality signals**
 
 - 40297 GitHub stars
-- 4643 forks
+- 4644 forks
 - updated 2026-07-09
 - primary language: TypeScript
 - 20 topics

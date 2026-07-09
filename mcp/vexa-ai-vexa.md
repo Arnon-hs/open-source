@@ -1,6 +1,6 @@
 # Vexa-ai/vexa
 
-[![Stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=flat-square&color=yellow)](https://github.com/Vexa-ai/vexa/stargazers) [![Forks](https://img.shields.io/github/forks/Vexa-ai/vexa?style=flat-square&color=blue)](https://github.com/Vexa-ai/vexa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=flat-square&color=yellow)](https://github.com/Vexa-ai/vexa/stargazers) [![Forks](https://img.shields.io/github/forks/Vexa-ai/vexa?style=flat-square&color=blue)](https://github.com/Vexa-ai/vexa/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 345 |
-| 💻 **Language** | TypeScript |
+| 🍴 **Forks** | 353 |
+| 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,10 +53,10 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 2256 GitHub stars
-- 345 forks
-- updated 2026-07-04
-- primary language: TypeScript
+- 2272 GitHub stars
+- 353 forks
+- updated 2026-07-09
+- primary language: Python
 - 8 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -72,11 +72,11 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 | outlook | 90/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
-| forks | 63/100 |
+| forks | 64/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/Vexa-ai/vexa) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/Vexa-ai/vexa) · [← Back to Mcp](./README.md)</sub>

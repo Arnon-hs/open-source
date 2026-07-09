@@ -53,7 +53,7 @@ PrefectHQ/fastmcp：PrefectHQ/fastmcp helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 26057 GitHub stars
+- 26060 GitHub stars
 - 2120 forks
 - updated 2026-07-09
 - primary language: Python
