@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/preset-io/agor?style=flat-square&color=yellow)](https://github.com/preset-io/agor/stargazers) [![Forks](https://img.shields.io/github/forks/preset-io/agor?style=flat-square&color=blue)](https://github.com/preset-io/agor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
-> Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+> Agor - team command center for all things agentic
 
 ## 📊 Stats
 
@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ preset-io/agor：preset-io/agor helps turn isolated prompts and tools into repea
 
 - 1318 GitHub stars
 - 110 forks
-- updated 2026-07-09
+- updated 2026-07-10
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ preset-io/agor：preset-io/agor helps turn isolated prompts and tools into repea
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/preset-io/agor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/preset-io/agor) · [← Back to Orchestration](./README.md)</sub>

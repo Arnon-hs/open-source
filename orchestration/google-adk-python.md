@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ google/adk-python：google/adk-python helps turn isolated prompts and tools into
 
 **Quality signals**
 
-- 20537 GitHub stars
-- 3669 forks
-- updated 2026-07-09
+- 20541 GitHub stars
+- 3670 forks
+- updated 2026-07-10
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ google/adk-python：google/adk-python helps turn isolated prompts and tools into
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/google/adk-python) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/google/adk-python) · [← Back to Orchestration](./README.md)</sub>

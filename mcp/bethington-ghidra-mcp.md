@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ bethington/ghidra-mcp：bethington/ghidra-mcp helps connect AI assistants to rea
 
 **Quality signals**
 
-- 2754 GitHub stars
+- 2755 GitHub stars
 - 57 forks
-- updated 2026-07-09
+- updated 2026-07-10
 - primary language: Java
 - 11 topics
 
@@ -79,4 +79,4 @@ bethington/ghidra-mcp：bethington/ghidra-mcp helps connect AI assistants to rea
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/bethington/ghidra-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/bethington/ghidra-mcp) · [← Back to Mcp](./README.md)</sub>

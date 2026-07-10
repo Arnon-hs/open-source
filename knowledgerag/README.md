@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gptme/gptme](./gptme-gptme.md) | ⭐ 4.4k | Python | 85/100 |
+| 1 | [Canner/WrenAI](./canner-wrenai.md) | ⭐ 15.8k | Python | 91/100 |
+| 2 | [samchon/nestia](./samchon-nestia.md) | ⭐ 2.2k | TypeScript | 86/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rowboatlabs/rowboat
 
-[![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&color=yellow)](https://github.com/rowboatlabs/rowboat/stargazers) [![Forks](https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&color=blue)](https://github.com/rowboatlabs/rowboat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rowboatlabs/rowboat?style=flat-square&color=yellow)](https://github.com/rowboatlabs/rowboat/stargazers) [![Forks](https://img.shields.io/github/forks/rowboatlabs/rowboat?style=flat-square&color=blue)](https://github.com/rowboatlabs/rowboat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI coworker, with memory
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.3k |
-| 🍴 **Forks** | 1.3k |
+| ⭐ **Stars** | 15.9k |
+| 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-07 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · Automation · AI/ML · Product
 
 ## 📝 Summary
 
 ### English
 
-rowboatlabs/rowboat: rowboatlabs/rowboat helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rowboatlabs/rowboat: rowboatlabs/rowboat helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-rowboatlabs/rowboat: open-source проект в категориях Orchestration, AI/ML, Product. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rowboatlabs/rowboat: open-source проект в категориях Orchestration, Automation, AI/ML, Product. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 13277 GitHub stars
-- 1323 forks
-- updated 2026-05-07
+- 15937 GitHub stars
+- 1586 forks
+- updated 2026-07-10
 - primary language: TypeScript
 - 15 topics
 
@@ -66,17 +66,17 @@ rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 78/100 |
+| quality | 94/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 73/100 |
-| adoption | 85/100 |
-| stars | 88/100 |
-| forks | 78/100 |
-| recency | 40/100 |
+| production | 84/100 |
+| outlook | 95/100 |
+| adoption | 87/100 |
+| stars | 89/100 |
+| forks | 80/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/rowboatlabs/rowboat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/rowboatlabs/rowboat) · [← Back to Orchestration](./README.md)</sub>

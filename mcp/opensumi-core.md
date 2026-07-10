@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 449 |
+| 🍴 **Forks** | 450 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ opensumi/core：opensumi/core helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 3636 GitHub stars
-- 449 forks
-- updated 2026-06-29
+- 3642 GitHub stars
+- 450 forks
+- updated 2026-07-10
 - primary language: TypeScript
 - 12 topics
 
@@ -79,4 +79,4 @@ opensumi/core：opensumi/core helps connect AI assistants to real tools and data
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/opensumi/core) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/opensumi/core) · [← Back to Mcp](./README.md)</sub>

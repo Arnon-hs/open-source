@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.5k |
+| ⭐ **Stars** | 26.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ esengine/DeepSeek-Reasonix：esengine/DeepSeek-Reasonix helps turn isolated prom
 
 **Quality signals**
 
-- 26532 GitHub stars
-- 1655 forks
-- updated 2026-07-09
+- 26552 GitHub stars
+- 1656 forks
+- updated 2026-07-10
 - primary language: Go
 - 16 topics
 
@@ -79,4 +79,4 @@ esengine/DeepSeek-Reasonix：esengine/DeepSeek-Reasonix helps turn isolated prom
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/esengine/DeepSeek-Reasonix) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/esengine/DeepSeek-Reasonix) · [← Back to Orchestration](./README.md)</sub>

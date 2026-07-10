@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.6k |
+| ⭐ **Stars** | 49.7k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ hesreallyhim/awesome-claude-code：hesreallyhim/awesome-claude-code helps turn i
 
 **Quality signals**
 
-- 49648 GitHub stars
-- 4317 forks
-- updated 2026-07-09
+- 49667 GitHub stars
+- 4319 forks
+- updated 2026-07-10
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ hesreallyhim/awesome-claude-code：hesreallyhim/awesome-claude-code helps turn i
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/hesreallyhim/awesome-claude-code) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/hesreallyhim/awesome-claude-code) · [← Back to Orchestration](./README.md)</sub>

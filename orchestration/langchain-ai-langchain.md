@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 23.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 **Quality signals**
 
-- 141403 GitHub stars
-- 23499 forks
-- updated 2026-07-09
+- 141421 GitHub stars
+- 23501 forks
+- updated 2026-07-10
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/langchain-ai/langchain) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/langchain-ai/langchain) · [← Back to Orchestration](./README.md)</sub>
