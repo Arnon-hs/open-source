@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 57 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-07-10 |
@@ -53,8 +53,8 @@ bethington/ghidra-mcp：bethington/ghidra-mcp helps connect AI assistants to rea
 
 **Quality signals**
 
-- 2755 GitHub stars
-- 57 forks
+- 2757 GitHub stars
+- 58 forks
 - updated 2026-07-10
 - primary language: Java
 - 11 topics

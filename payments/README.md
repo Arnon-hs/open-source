@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [stablyai/orca](./stablyai-orca.md) | ⭐ 15.2k | TypeScript | 85/100 |
+| 1 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 1.6k | TypeScript | 89/100 |
 
 ---
 

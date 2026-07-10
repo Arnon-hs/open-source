@@ -53,8 +53,8 @@ esengine/DeepSeek-Reasonix：esengine/DeepSeek-Reasonix helps turn isolated prom
 
 **Quality signals**
 
-- 26552 GitHub stars
-- 1656 forks
+- 26569 GitHub stars
+- 1658 forks
 - updated 2026-07-10
 - primary language: Go
 - 16 topics

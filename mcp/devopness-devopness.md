@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 433 |
-| 🍴 **Forks** | 155 |
+| 🍴 **Forks** | 156 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 **Quality signals**
 
 - 433 GitHub stars
-- 155 forks
-- updated 2026-07-09
+- 156 forks
+- updated 2026-07-10
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/devopness/devopness) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/devopness/devopness) · [← Back to Mcp](./README.md)</sub>

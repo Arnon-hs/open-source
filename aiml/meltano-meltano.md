@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.6k |
-| 🍴 **Forks** | 251 |
+| 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-10 |
@@ -54,7 +54,7 @@ meltano/meltano：meltano/meltano helps add AI capability without starting from 
 **Quality signals**
 
 - 2554 GitHub stars
-- 251 forks
+- 252 forks
 - updated 2026-07-10
 - primary language: Python
 - 20 topics

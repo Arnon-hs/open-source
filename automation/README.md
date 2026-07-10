@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HKUDS/nanobot](./hkuds-nanobot.md) | ⭐ 45.2k | Python | 90/100 |
+| 1 | [superplanehq/superplane](./superplanehq-superplane.md) | ⭐ 3.8k | Go | 88/100 |
 
 ---
 
