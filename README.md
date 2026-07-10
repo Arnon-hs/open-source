@@ -20,35 +20,35 @@
 |---|---|---|
 | 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
 | 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 4 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
-| 🏷️ **Automation** | 1 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.2k | Orchestration |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.3k | Orchestration |
 | 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.9k | Mcp |
-| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.2k | Orchestration |
+| 3 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
 | 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
 | 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.1k | Mcp |
-| 6 | [mksglu/context-mode](./orchestration/mksglu-context-mode.md) | ⭐ 18.8k | Orchestration |
-| 7 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
-| 8 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.6k | Orchestration |
-| 9 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 76.9k | Orchestration |
-| 10 | [Canner/WrenAI](./knowledgerag/canner-wrenai.md) | ⭐ 15.8k | Knowledgerag |
+| 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.6k | Orchestration |
+| 8 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77k | Orchestration |
+| 9 | [Canner/WrenAI](./knowledgerag/canner-wrenai.md) | ⭐ 15.8k | Knowledgerag |
+| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.8k | Orchestration |
 
 ## 🚀 How it works
 

@@ -53,7 +53,7 @@ jeremylongshore/claude-code-plugins-plus-skills：jeremylongshore/claude-code-pl
 
 **Quality signals**
 
-- 2492 GitHub stars
+- 2493 GitHub stars
 - 355 forks
 - updated 2026-07-10
 - primary language: Python

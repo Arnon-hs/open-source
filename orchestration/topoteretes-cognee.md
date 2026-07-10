@@ -53,8 +53,8 @@ topoteretes/cognee：topoteretes/cognee helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 27510 GitHub stars
-- 2693 forks
+- 27524 GitHub stars
+- 2724 forks
 - updated 2026-07-10
 - primary language: Python
 - 19 topics
