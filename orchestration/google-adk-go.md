@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.5k |
-| 🍴 **Forks** | 851 |
+| 🍴 **Forks** | 870 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-07-10 |
@@ -53,8 +53,8 @@ google/adk-go：google/adk-go helps turn isolated prompts and tools into repeata
 
 **Quality signals**
 
-- 8507 GitHub stars
-- 851 forks
+- 8521 GitHub stars
+- 870 forks
 - updated 2026-07-10
 - primary language: Go
 - 14 topics
@@ -72,7 +72,7 @@ google/adk-go：google/adk-go helps turn isolated prompts and tools into repeata
 | outlook | 95/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
-| forks | 73/100 |
+| forks | 74/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

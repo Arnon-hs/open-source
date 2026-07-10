@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.2k |
-| 🍴 **Forks** | 693 |
+| 🍴 **Forks** | 694 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-07-10 |
@@ -54,7 +54,7 @@ getlago/lago：getlago/lago helps integrate monetization, billing, or PSP flows 
 **Quality signals**
 
 - 10196 GitHub stars
-- 693 forks
+- 694 forks
 - updated 2026-07-10
 - primary language: Go
 - 18 topics

@@ -53,8 +53,8 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 **Quality signals**
 
-- 59497 GitHub stars
-- 11812 forks
+- 59532 GitHub stars
+- 11819 forks
 - updated 2026-07-10
 - primary language: JavaScript
 - 20 topics

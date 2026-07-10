@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,20 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 18 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
 | 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 📈 **Trading** | 1 | [Browse →](./trading/) |
 | 💳 **Payments** | 1 | [Browse →](./payments/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
@@ -39,15 +38,15 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.3k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 195.9k | Mcp |
-| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.1k | Mcp |
-| 4 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
-| 5 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
+| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.9k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.3k | Orchestration |
+| 3 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196k | Mcp |
+| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.2k | Orchestration |
+| 5 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
 | 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
-| 7 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 4k | Mcp |
-| 8 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
-| 9 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77k | Orchestration |
+| 7 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
+| 8 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.6k | Orchestration |
+| 9 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.9k | Orchestration |
 | 10 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.7k | Orchestration |
 
 ## 🚀 How it works
