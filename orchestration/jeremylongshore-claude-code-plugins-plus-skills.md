@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 355 |
+| 🍴 **Forks** | 357 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-07-10 |
@@ -53,8 +53,8 @@ jeremylongshore/claude-code-plugins-plus-skills：jeremylongshore/claude-code-pl
 
 **Quality signals**
 
-- 2493 GitHub stars
-- 355 forks
+- 2494 GitHub stars
+- 357 forks
 - updated 2026-07-10
 - primary language: Python
 - 16 topics

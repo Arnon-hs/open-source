@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 439 |
+| 🍴 **Forks** | 440 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-10 |
@@ -54,7 +54,7 @@ rorkai/App-Store-Connect-CLI：rorkai/App-Store-Connect-CLI helps integrate mone
 **Quality signals**
 
 - 5018 GitHub stars
-- 439 forks
+- 440 forks
 - updated 2026-07-10
 - primary language: Go
 - 15 topics

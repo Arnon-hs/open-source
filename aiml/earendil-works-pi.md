@@ -53,8 +53,8 @@ earendil-works/pi：earendil-works/pi helps add AI capability without starting f
 
 **Quality signals**
 
-- 69456 GitHub stars
-- 8532 forks
+- 69471 GitHub stars
+- 8533 forks
 - updated 2026-07-10
 - primary language: TypeScript
 
