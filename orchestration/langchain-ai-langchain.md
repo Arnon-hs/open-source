@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141.4k |
+| ⭐ **Stars** | 141.5k |
 | 🍴 **Forks** | 23.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
@@ -53,8 +53,8 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 **Quality signals**
 
-- 141421 GitHub stars
-- 23501 forks
+- 141471 GitHub stars
+- 23506 forks
 - updated 2026-07-10
 - primary language: Python
 - 20 topics

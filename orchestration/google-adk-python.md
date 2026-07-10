@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 20.5k |
+| ⭐ **Stars** | 20.6k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
@@ -53,8 +53,8 @@ google/adk-python：google/adk-python helps turn isolated prompts and tools into
 
 **Quality signals**
 
-- 20541 GitHub stars
-- 3670 forks
+- 20554 GitHub stars
+- 3674 forks
 - updated 2026-07-10
 - primary language: Python
 - 16 topics
