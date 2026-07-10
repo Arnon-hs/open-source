@@ -53,7 +53,7 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 
 **Quality signals**
 
-- 25471 GitHub stars
+- 25474 GitHub stars
 - 4750 forks
 - updated 2026-07-10
 - primary language: TypeScript

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.6k |
-| 🍴 **Forks** | 779 |
+| ⭐ **Stars** | 7.2k |
+| 🍴 **Forks** | 913 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 
 **Quality signals**
 
-- 6551 GitHub stars
-- 779 forks
-- updated 2026-07-09
+- 7192 GitHub stars
+- 913 forks
+- updated 2026-07-10
 - primary language: TypeScript
 - 9 topics
 
@@ -66,17 +66,17 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 90/100 |
+| quality | 91/100 |
 | integration | 78/100 |
 | production | 85/100 |
 | outlook | 95/100 |
-| adoption | 79/100 |
-| stars | 81/100 |
-| forks | 72/100 |
+| adoption | 80/100 |
+| stars | 82/100 |
+| forks | 74/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [← Back to Mcp](./README.md)</sub>

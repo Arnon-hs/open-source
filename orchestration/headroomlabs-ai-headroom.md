@@ -53,8 +53,8 @@ headroomlabs-ai/headroom：headroomlabs-ai/headroom helps turn isolated prompts 
 
 **Quality signals**
 
-- 58361 GitHub stars
-- 4311 forks
+- 58370 GitHub stars
+- 4313 forks
 - updated 2026-07-10
 - primary language: Python
 - 20 topics

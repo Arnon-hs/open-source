@@ -53,7 +53,7 @@ plastic-labs/honcho：plastic-labs/honcho helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 5890 GitHub stars
+- 5896 GitHub stars
 - 705 forks
 - updated 2026-07-10
 - primary language: Python

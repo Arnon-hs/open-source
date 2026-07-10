@@ -1,6 +1,6 @@
 # agentgateway/agentgateway
 
-[![Stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&color=yellow)](https://github.com/agentgateway/agentgateway/stargazers) [![Forks](https://img.shields.io/github/forks/agentgateway/agentgateway?style=flat-square&color=blue)](https://github.com/agentgateway/agentgateway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&color=yellow)](https://github.com/agentgateway/agentgateway/stargazers) [![Forks](https://img.shields.io/github/forks/agentgateway/agentgateway?style=flat-square&color=blue)](https://github.com/agentgateway/agentgateway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Next Generation Agentic Proxy for AI Agents and MCP servers
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 613 |
+| ⭐ **Stars** | 3.8k |
+| 🍴 **Forks** | 631 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 
 **Quality signals**
 
-- 3647 GitHub stars
-- 613 forks
-- updated 2026-07-02
+- 3775 GitHub stars
+- 631 forks
+- updated 2026-07-10
 - primary language: Rust
 - 11 topics
 
@@ -79,4 +79,4 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to Mcp](./README.md)</sub>
