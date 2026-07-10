@@ -53,8 +53,8 @@ simstudioai/sim：simstudioai/sim helps turn isolated prompts and tools into rep
 
 **Quality signals**
 
-- 29013 GitHub stars
-- 3691 forks
+- 29016 GitHub stars
+- 3693 forks
 - updated 2026-07-10
 - primary language: TypeScript
 - 18 topics

@@ -8,19 +8,19 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [n8n-io/n8n](./n8n-io-n8n.md) | ⭐ 196k | TypeScript | 97/100 |
-| 2 | [diegosouzapw/OmniRoute](./diegosouzapw-omniroute.md) | ⭐ 15k | TypeScript | 96/100 |
-| 3 | [xberg-io/xberg](./xberg-io-xberg.md) | ⭐ 8.6k | Rust | 94/100 |
-| 4 | [can1357/oh-my-pi](./can1357-oh-my-pi.md) | ⭐ 17.2k | TypeScript | 94/100 |
-| 5 | [skyhook-io/radar](./skyhook-io-radar.md) | ⭐ 2.5k | Go | 90/100 |
-| 6 | [mastra-ai/mastra](./mastra-ai-mastra.md) | ⭐ 26k | TypeScript | 89/100 |
-| 7 | [DeusData/codebase-memory-mcp](./deusdata-codebase-memory-mcp.md) | ⭐ 29.6k | C | 89/100 |
-| 8 | [wonderwhy-er/DesktopCommanderMCP](./wonderwhy-er-desktopcommandermcp.md) | ⭐ 7.2k | TypeScript | 89/100 |
-| 9 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 34.1k | TypeScript | 87/100 |
+| 1 | [diegosouzapw/OmniRoute](./diegosouzapw-omniroute.md) | ⭐ 15k | TypeScript | 96/100 |
+| 2 | [open-webui/open-webui](./open-webui-open-webui.md) | ⭐ 145k | Python | 94/100 |
+| 3 | [can1357/oh-my-pi](./can1357-oh-my-pi.md) | ⭐ 17.2k | TypeScript | 94/100 |
+| 4 | [googleapis/mcp-toolbox](./googleapis-mcp-toolbox.md) | ⭐ 15.9k | Go | 94/100 |
+| 5 | [mcp-use/mcp-use](./mcp-use-mcp-use.md) | ⭐ 10.3k | TypeScript | 93/100 |
+| 6 | [DeusData/codebase-memory-mcp](./deusdata-codebase-memory-mcp.md) | ⭐ 29.7k | C | 89/100 |
+| 7 | [Cranot/roam-code](./cranot-roam-code.md) | ⭐ 495 | Python | 87/100 |
+| 8 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 34.2k | TypeScript | 87/100 |
+| 9 | [speakeasy-api/gram](./speakeasy-api-gram.md) | ⭐ 253 | Go | 87/100 |
 | 10 | [apify/mcpc](./apify-mcpc.md) | ⭐ 719 | TypeScript | 87/100 |
-| 11 | [smart-mcp-proxy/mcpproxy-go](./smart-mcp-proxy-mcpproxy-go.md) | ⭐ 284 | Go | 86/100 |
-| 12 | [agentgateway/agentgateway](./agentgateway-agentgateway.md) | ⭐ 3.8k | Rust | 86/100 |
-| 13 | [hashgraph-online/hol-guard](./hashgraph-online-hol-guard.md) | ⭐ 389 | Python | 85/100 |
+| 11 | [micro/go-micro](./micro-go-micro.md) | ⭐ 23k | Go | 86/100 |
+| 12 | [griddynamics/rosetta](./griddynamics-rosetta.md) | ⭐ 316 | TypeScript | 86/100 |
+| 13 | [agentgateway/agentgateway](./agentgateway-agentgateway.md) | ⭐ 3.8k | Rust | 86/100 |
 
 ---
 

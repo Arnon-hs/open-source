@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.5k |
+| ⭐ **Stars** | 27.6k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
@@ -53,8 +53,8 @@ topoteretes/cognee：topoteretes/cognee helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 27524 GitHub stars
-- 2724 forks
+- 27550 GitHub stars
+- 2725 forks
 - updated 2026-07-10
 - primary language: Python
 - 19 topics

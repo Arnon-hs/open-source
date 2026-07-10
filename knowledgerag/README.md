@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Canner/WrenAI](./canner-wrenai.md) | ⭐ 15.8k | Python | 91/100 |
+| 1 | [genkit-ai/genkit](./genkit-ai-genkit.md) | ⭐ 6.2k | TypeScript | 86/100 |
 
 ---
 

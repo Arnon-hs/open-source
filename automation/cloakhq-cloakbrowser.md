@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ CloakHQ/CloakBrowser：CloakHQ/CloakBrowser helps remove repetitive manual opera
 
 **Quality signals**
 
-- 27981 GitHub stars
-- 2237 forks
-- updated 2026-07-09
+- 28037 GitHub stars
+- 2246 forks
+- updated 2026-07-10
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ CloakHQ/CloakBrowser：CloakHQ/CloakBrowser helps remove repetitive manual opera
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/CloakHQ/CloakBrowser) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/CloakHQ/CloakBrowser) · [← Back to Automation](./README.md)</sub>
