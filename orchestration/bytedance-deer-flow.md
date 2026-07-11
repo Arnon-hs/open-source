@@ -53,7 +53,7 @@ bytedance/deer-flow：bytedance/deer-flow helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 76771 GitHub stars
+- 76779 GitHub stars
 - 10428 forks
 - updated 2026-07-11
 - primary language: Python

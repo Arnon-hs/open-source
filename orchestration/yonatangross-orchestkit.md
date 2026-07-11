@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 200 |
+| ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
@@ -53,7 +53,7 @@ yonatangross/orchestkit：yonatangross/orchestkit helps turn isolated prompts an
 
 **Quality signals**
 
-- 200 GitHub stars
+- 201 GitHub stars
 - 18 forks
 - updated 2026-07-11
 - primary language: TypeScript

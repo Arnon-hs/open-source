@@ -53,7 +53,7 @@ MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts an
 
 **Quality signals**
 
-- 8381 GitHub stars
+- 8385 GitHub stars
 - 1301 forks
 - updated 2026-07-11
 - primary language: Python

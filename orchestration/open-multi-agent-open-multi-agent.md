@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ open-multi-agent/open-multi-agent：open-multi-agent/open-multi-agent helps turn
 
 **Quality signals**
 
-- 6555 GitHub stars
+- 6561 GitHub stars
 - 2407 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ open-multi-agent/open-multi-agent：open-multi-agent/open-multi-agent helps turn
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/open-multi-agent/open-multi-agent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/open-multi-agent/open-multi-agent) · [← Back to Orchestration](./README.md)</sub>

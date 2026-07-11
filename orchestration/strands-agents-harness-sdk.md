@@ -53,7 +53,7 @@ strands-agents/harness-sdk：strands-agents/harness-sdk helps turn isolated prom
 
 **Quality signals**
 
-- 6521 GitHub stars
+- 6523 GitHub stars
 - 940 forks
 - updated 2026-07-11
 - primary language: Python
