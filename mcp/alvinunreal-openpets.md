@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 846 |
-| 🍴 **Forks** | 56 |
+| ⭐ **Stars** | 887 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ alvinunreal/openpets：alvinunreal/openpets helps connect AI assistants to real 
 
 **Quality signals**
 
-- 846 GitHub stars
-- 56 forks
-- updated 2026-06-29
+- 887 GitHub stars
+- 62 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 12 topics
 
@@ -68,15 +68,15 @@ alvinunreal/openpets：alvinunreal/openpets helps connect AI assistants to real 
 | usefulness | 100/100 |
 | quality | 81/100 |
 | integration | 94/100 |
-| production | 83/100 |
+| production | 84/100 |
 | outlook | 89/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
-| forks | 44/100 |
+| adoption | 58/100 |
+| stars | 63/100 |
+| forks | 45/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/alvinunreal/openpets) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/alvinunreal/openpets) · [← Back to Mcp](./README.md)</sub>

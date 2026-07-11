@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ deepset-ai/haystack：deepset-ai/haystack helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 25862 GitHub stars
-- 2909 forks
-- updated 2026-07-10
+- 25868 GitHub stars
+- 2911 forks
+- updated 2026-07-11
 - primary language: MDX
 - 20 topics
 
@@ -79,4 +79,4 @@ deepset-ai/haystack：deepset-ai/haystack helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/deepset-ai/haystack) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/deepset-ai/haystack) · [← Back to Orchestration](./README.md)</sub>

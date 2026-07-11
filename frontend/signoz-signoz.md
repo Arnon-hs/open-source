@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.8k |
+| ⭐ **Stars** | 28.9k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
@@ -53,8 +53,8 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 **Quality signals**
 
-- 28807 GitHub stars
-- 2299 forks
+- 28860 GitHub stars
+- 2302 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 20 topics

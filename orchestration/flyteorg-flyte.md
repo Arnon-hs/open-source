@@ -53,7 +53,7 @@ flyteorg/flyte：flyteorg/flyte helps turn isolated prompts and tools into repea
 
 **Quality signals**
 
-- 7133 GitHub stars
+- 7132 GitHub stars
 - 845 forks
 - updated 2026-07-11
 - primary language: Go

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 
 **Quality signals**
 
-- 15620 GitHub stars
-- 1347 forks
-- updated 2026-07-10
+- 15623 GitHub stars
+- 1349 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 13 topics
 
@@ -79,4 +79,4 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/triggerdotdev/trigger.dev) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/triggerdotdev/trigger.dev) · [← Back to Orchestration](./README.md)</sub>

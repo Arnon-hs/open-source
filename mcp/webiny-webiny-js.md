@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8k |
-| 🍴 **Forks** | 674 |
+| 🍴 **Forks** | 675 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ webiny/webiny-js：webiny/webiny-js helps connect AI assistants to real tools an
 **Quality signals**
 
 - 8008 GitHub stars
-- 674 forks
-- updated 2026-07-10
+- 675 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ webiny/webiny-js：webiny/webiny-js helps connect AI assistants to real tools an
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/webiny/webiny-js) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/webiny/webiny-js) · [← Back to Mcp](./README.md)</sub>
