@@ -53,7 +53,7 @@ D4Vinci/Scrapling：D4Vinci/Scrapling helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 69111 GitHub stars
+- 69117 GitHub stars
 - 6837 forks
 - updated 2026-07-11
 - primary language: Python

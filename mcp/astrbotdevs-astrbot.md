@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35.8k |
+| ⭐ **Stars** | 36.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `ai` `chatbot` `chatgpt` `discord` `docker` `gemini` `gpt` `llama` `llm` `mcp` `openai`
+`agent` `ai` `astrbot` `chatbot` `chatgpt` `discord` `docker` `gemini` `gpt` `llama` `llm` `mcp`
 
 ## 🎯 Categories
 
@@ -53,11 +53,11 @@ AstrBotDevs/AstrBot：AstrBotDevs/AstrBot helps connect AI assistants to real to
 
 **Quality signals**
 
-- 35796 GitHub stars
-- 2472 forks
-- updated 2026-07-04
+- 36193 GitHub stars
+- 2515 forks
+- updated 2026-07-11
 - primary language: Python
-- 16 topics
+- 17 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -79,4 +79,4 @@ AstrBotDevs/AstrBot：AstrBotDevs/AstrBot helps connect AI assistants to real to
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/AstrBotDevs/AstrBot) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/AstrBotDevs/AstrBot) · [← Back to Mcp](./README.md)</sub>

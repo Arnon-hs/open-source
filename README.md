@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 11 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
-| 💳 **Payments** | 3 | [Browse →](./payments/) |
+| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
 | 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
 | 📈 **Trading** | 1 | [Browse →](./trading/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
@@ -41,15 +41,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196k | Mcp |
-| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 15.4k | Mcp |
-| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.3k | Mcp |
+| 2 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.3k | Mcp |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
 | 4 | [D4Vinci/Scrapling](./mcp/d4vinci-scrapling.md) | ⭐ 69.1k | Mcp |
-| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
-| 6 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 47k | Orchestration |
-| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64k | Orchestration |
+| 5 | [AstrBotDevs/AstrBot](./mcp/astrbotdevs-astrbot.md) | ⭐ 36.2k | Mcp |
+| 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
 | 8 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
-| 9 | [HKUDS/nanobot](./automation/hkuds-nanobot.md) | ⭐ 45.2k | Automation |
-| 10 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
+| 9 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 47k | Orchestration |
+| 10 | [HKUDS/nanobot](./automation/hkuds-nanobot.md) | ⭐ 45.2k | Automation |
 
 ## 🚀 How it works
 

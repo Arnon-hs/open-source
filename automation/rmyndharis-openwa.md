@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11k |
+| ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
@@ -53,8 +53,8 @@ rmyndharis/OpenWA：rmyndharis/OpenWA helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 11038 GitHub stars
-- 2476 forks
+- 11056 GitHub stars
+- 2481 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 12 topics

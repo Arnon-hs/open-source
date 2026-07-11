@@ -53,7 +53,7 @@ hesreallyhim/awesome-claude-code：hesreallyhim/awesome-claude-code helps turn i
 
 **Quality signals**
 
-- 49788 GitHub stars
+- 49792 GitHub stars
 - 4337 forks
 - updated 2026-07-11
 - primary language: Python

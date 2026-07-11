@@ -53,7 +53,7 @@ jeecgboot/JeecgBoot：jeecgboot/JeecgBoot helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 47010 GitHub stars
+- 47013 GitHub stars
 - 16086 forks
 - updated 2026-07-11
 - primary language: Java

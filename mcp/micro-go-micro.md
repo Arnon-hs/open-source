@@ -53,7 +53,7 @@ micro/go-micro：micro/go-micro helps connect AI assistants to real tools and da
 
 **Quality signals**
 
-- 22959 GitHub stars
+- 22957 GitHub stars
 - 2411 forks
 - updated 2026-07-11
 - primary language: Go
