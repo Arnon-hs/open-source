@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 58.4k |
+| ⭐ **Stars** | 58.5k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
@@ -53,8 +53,8 @@ headroomlabs-ai/headroom：headroomlabs-ai/headroom helps turn isolated prompts 
 
 **Quality signals**
 
-- 58425 GitHub stars
-- 4314 forks
+- 58454 GitHub stars
+- 4313 forks
 - updated 2026-07-11
 - primary language: Python
 - 20 topics

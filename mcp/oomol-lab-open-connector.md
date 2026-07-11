@@ -1,6 +1,6 @@
 # oomol-lab/open-connector
 
-[![Stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat-square&color=yellow)](https://github.com/oomol-lab/open-connector/stargazers) [![Forks](https://img.shields.io/github/forks/oomol-lab/open-connector?style=flat-square&color=blue)](https://github.com/oomol-lab/open-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat-square&color=yellow)](https://github.com/oomol-lab/open-connector/stargazers) [![Forks](https://img.shields.io/github/forks/oomol-lab/open-connector?style=flat-square&color=blue)](https://github.com/oomol-lab/open-connector/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 67 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 90/100 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ oomol-lab/open-connector：oomol-lab/open-connector helps connect AI assistants 
 
 **Quality signals**
 
-- 1220 GitHub stars
-- 67 forks
-- updated 2026-07-10
+- 1269 GitHub stars
+- 72 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 18 topics
 
@@ -70,13 +70,13 @@ oomol-lab/open-connector：oomol-lab/open-connector helps connect AI assistants 
 | integration | 100/100 |
 | production | 85/100 |
 | outlook | 90/100 |
-| adoption | 60/100 |
+| adoption | 61/100 |
 | stars | 66/100 |
-| forks | 46/100 |
+| forks | 47/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/oomol-lab/open-connector) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/oomol-lab/open-connector) · [← Back to Mcp](./README.md)</sub>

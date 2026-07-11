@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.7k |
+| ⭐ **Stars** | 49.8k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
@@ -53,8 +53,8 @@ hesreallyhim/awesome-claude-code：hesreallyhim/awesome-claude-code helps turn i
 
 **Quality signals**
 
-- 49745 GitHub stars
-- 4325 forks
+- 49765 GitHub stars
+- 4329 forks
 - updated 2026-07-11
 - primary language: Python
 - 19 topics

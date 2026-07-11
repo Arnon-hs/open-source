@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 104 |
+| 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Paca-AI/paca：Paca-AI/paca helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 1560 GitHub stars
-- 104 forks
-- updated 2026-07-10
+- 1565 GitHub stars
+- 105 forks
+- updated 2026-07-11
 - primary language: Go
 - 13 topics
 
@@ -79,4 +79,4 @@ Paca-AI/paca：Paca-AI/paca helps connect AI assistants to real tools and data t
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/Paca-AI/paca) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/Paca-AI/paca) · [← Back to Mcp](./README.md)</sub>

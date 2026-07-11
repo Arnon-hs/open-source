@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cline/cline](./cline-cline.md) | ⭐ 64.5k | TypeScript | 86/100 |
-| 2 | [trycua/cua](./trycua-cua.md) | ⭐ 19.6k | HTML | 85/100 |
+| 1 | [HKUDS/nanobot](./hkuds-nanobot.md) | ⭐ 45.2k | Python | 90/100 |
+| 2 | [rmyndharis/OpenWA](./rmyndharis-openwa.md) | ⭐ 11k | TypeScript | 85/100 |
 
 ---
 

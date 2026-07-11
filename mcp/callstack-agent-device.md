@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 174 |
+| 🍴 **Forks** | 175 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ callstack/agent-device：callstack/agent-device helps connect AI assistants to r
 
 **Quality signals**
 
-- 3190 GitHub stars
-- 174 forks
-- updated 2026-07-10
+- 3192 GitHub stars
+- 175 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 17 topics
 
@@ -79,4 +79,4 @@ callstack/agent-device：callstack/agent-device helps connect AI assistants to r
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/callstack/agent-device) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/callstack/agent-device) · [← Back to Mcp](./README.md)</sub>

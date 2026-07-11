@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ xberg-io/xberg：xberg-io/xberg helps connect AI assistants to real tools and da
 
 **Quality signals**
 
-- 8608 GitHub stars
+- 8609 GitHub stars
 - 514 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: Rust
 - 20 topics
 
@@ -79,4 +79,4 @@ xberg-io/xberg：xberg-io/xberg helps connect AI assistants to real tools and da
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/xberg-io/xberg) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/xberg-io/xberg) · [← Back to Mcp](./README.md)</sub>
