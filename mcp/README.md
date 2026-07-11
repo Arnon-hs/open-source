@@ -2,25 +2,24 @@
 
 > 
 
-**13 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [diegosouzapw/OmniRoute](./diegosouzapw-omniroute.md) | ⭐ 15k | TypeScript | 96/100 |
-| 2 | [open-webui/open-webui](./open-webui-open-webui.md) | ⭐ 145k | Python | 94/100 |
-| 3 | [can1357/oh-my-pi](./can1357-oh-my-pi.md) | ⭐ 17.2k | TypeScript | 94/100 |
-| 4 | [googleapis/mcp-toolbox](./googleapis-mcp-toolbox.md) | ⭐ 15.9k | Go | 94/100 |
-| 5 | [mcp-use/mcp-use](./mcp-use-mcp-use.md) | ⭐ 10.3k | TypeScript | 93/100 |
-| 6 | [DeusData/codebase-memory-mcp](./deusdata-codebase-memory-mcp.md) | ⭐ 29.7k | C | 89/100 |
-| 7 | [Cranot/roam-code](./cranot-roam-code.md) | ⭐ 495 | Python | 87/100 |
-| 8 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 34.2k | TypeScript | 87/100 |
-| 9 | [speakeasy-api/gram](./speakeasy-api-gram.md) | ⭐ 253 | Go | 87/100 |
-| 10 | [apify/mcpc](./apify-mcpc.md) | ⭐ 719 | TypeScript | 87/100 |
-| 11 | [micro/go-micro](./micro-go-micro.md) | ⭐ 23k | Go | 86/100 |
-| 12 | [griddynamics/rosetta](./griddynamics-rosetta.md) | ⭐ 316 | TypeScript | 86/100 |
-| 13 | [agentgateway/agentgateway](./agentgateway-agentgateway.md) | ⭐ 3.8k | Rust | 86/100 |
+| 1 | [can1357/oh-my-pi](./can1357-oh-my-pi.md) | ⭐ 17.2k | TypeScript | 94/100 |
+| 2 | [DeusData/codebase-memory-mcp](./deusdata-codebase-memory-mcp.md) | ⭐ 29.7k | C | 89/100 |
+| 3 | [zzet/gortex](./zzet-gortex.md) | ⭐ 840 | Go | 88/100 |
+| 4 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 34.2k | TypeScript | 87/100 |
+| 5 | [Cranot/roam-code](./cranot-roam-code.md) | ⭐ 495 | Python | 87/100 |
+| 6 | [micro/go-micro](./micro-go-micro.md) | ⭐ 23k | Go | 86/100 |
+| 7 | [netease-youdao/LobsterAI](./netease-youdao-lobsterai.md) | ⭐ 5.5k | TypeScript | 86/100 |
+| 8 | [hashgraph-online/hol-guard](./hashgraph-online-hol-guard.md) | ⭐ 390 | Python | 85/100 |
+| 9 | [FootprintAI/Containarium](./footprintai-containarium.md) | ⭐ 253 | Go | 85/100 |
+| 10 | [agentic-community/mcp-gateway-registry](./agentic-community-mcp-gateway-registry.md) | ⭐ 783 | Python | 85/100 |
+| 11 | [1jehuang/jcode](./1jehuang-jcode.md) | ⭐ 8.3k | Rust | 84/100 |
+| 12 | [codexu/note-gen](./codexu-note-gen.md) | ⭐ 12.3k | TypeScript | 84/100 |
 
 ---
 

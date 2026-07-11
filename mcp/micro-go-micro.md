@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ micro/go-micro：micro/go-micro helps connect AI assistants to real tools and da
 
 - 22958 GitHub stars
 - 2411 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: Go
 - 8 topics
 
@@ -79,4 +79,4 @@ micro/go-micro：micro/go-micro helps connect AI assistants to real tools and da
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/micro/go-micro) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/micro/go-micro) · [← Back to Mcp](./README.md)</sub>

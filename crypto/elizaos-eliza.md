@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows wi
 
 **Quality signals**
 
-- 18725 GitHub stars
-- 5580 forks
-- updated 2026-07-10
+- 18727 GitHub stars
+- 5579 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 15 topics
 
@@ -79,4 +79,4 @@ elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows wi
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/elizaOS/eliza) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/elizaOS/eliza) · [← Back to Crypto](./README.md)</sub>

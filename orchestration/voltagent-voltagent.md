@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ VoltAgent/voltagent：VoltAgent/voltagent helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 10015 GitHub stars
+- 10017 GitHub stars
 - 1040 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ VoltAgent/voltagent：VoltAgent/voltagent helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/VoltAgent/voltagent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/VoltAgent/voltagent) · [← Back to Orchestration](./README.md)</sub>

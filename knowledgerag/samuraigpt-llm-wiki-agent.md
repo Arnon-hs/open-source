@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 368 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ SamurAIGPT/llm-wiki-agent：SamurAIGPT/llm-wiki-agent helps make internal knowle
 
 **Quality signals**
 
-- 3175 GitHub stars
+- 3179 GitHub stars
 - 368 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ SamurAIGPT/llm-wiki-agent：SamurAIGPT/llm-wiki-agent helps make internal knowle
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/SamurAIGPT/llm-wiki-agent) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/SamurAIGPT/llm-wiki-agent) · [← Back to Knowledgerag](./README.md)</sub>

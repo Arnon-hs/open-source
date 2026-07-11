@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
+| 💳 **Payments** | 3 | [Browse →](./payments/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.4k | Orchestration |
-| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 15k | Mcp |
-| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.2k | Orchestration |
-| 4 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 145k | Mcp |
-| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.2k | Mcp |
-| 6 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
-| 7 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.3k | Mcp |
-| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
-| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
-| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.9k | Orchestration |
+| 2 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.2k | Mcp |
+| 3 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5.1k | Payments |
+| 4 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 5 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
+| 6 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.1k | Orchestration |
+| 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 63.9k | Orchestration |
+| 8 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.7k | Orchestration |
+| 9 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
+| 10 | [DeusData/codebase-memory-mcp](./mcp/deusdata-codebase-memory-mcp.md) | ⭐ 29.7k | Mcp |
 
 ## 🚀 How it works
 

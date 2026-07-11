@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 389 |
+| ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ hashgraph-online/hol-guard：hashgraph-online/hol-guard helps connect AI assista
 
 **Quality signals**
 
-- 389 GitHub stars
+- 390 GitHub stars
 - 9 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: Python
 - 8 topics
 
@@ -79,4 +79,4 @@ hashgraph-online/hol-guard：hashgraph-online/hol-guard helps connect AI assista
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/hashgraph-online/hol-guard) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/hashgraph-online/hol-guard) · [← Back to Mcp](./README.md)</sub>

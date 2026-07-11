@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.7k |
+| ⭐ **Stars** | 28.8k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 **Quality signals**
 
-- 28714 GitHub stars
-- 2298 forks
-- updated 2026-07-10
+- 28807 GitHub stars
+- 2299 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>

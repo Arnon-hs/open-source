@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.2k |
-| 🍴 **Forks** | 915 |
+| ⭐ **Stars** | 8.3k |
+| 🍴 **Forks** | 941 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ MCP · AI/ML · Frontend · DevTools
 
 **Quality signals**
 
-- 8156 GitHub stars
-- 915 forks
-- updated 2026-07-05
+- 8282 GitHub stars
+- 941 forks
+- updated 2026-07-11
 - primary language: Rust
 - 12 topics
 
@@ -79,4 +79,4 @@ MCP · AI/ML · Frontend · DevTools
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/1jehuang/jcode) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/1jehuang/jcode) · [← Back to Mcp](./README.md)</sub>
