@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.1k |
+| ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
@@ -53,8 +53,8 @@ stablyai/orca：stablyai/orca helps integrate monetization, billing, or PSP flow
 
 **Quality signals**
 
-- 16125 GitHub stars
-- 1264 forks
+- 16153 GitHub stars
+- 1265 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 18 topics

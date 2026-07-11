@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts an
 
 **Quality signals**
 
-- 8367 GitHub stars
-- 1298 forks
-- updated 2026-07-10
+- 8381 GitHub stars
+- 1301 forks
+- updated 2026-07-11
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts an
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>

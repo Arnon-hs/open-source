@@ -53,7 +53,7 @@ callstack/agent-device：callstack/agent-device helps connect AI assistants to r
 
 **Quality signals**
 
-- 3193 GitHub stars
+- 3195 GitHub stars
 - 175 forks
 - updated 2026-07-11
 - primary language: TypeScript

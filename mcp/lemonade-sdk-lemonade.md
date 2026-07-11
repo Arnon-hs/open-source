@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.8k |
-| 🍴 **Forks** | 389 |
+| ⭐ **Stars** | 4.9k |
+| 🍴 **Forks** | 392 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 **Quality signals**
 
-- 4849 GitHub stars
-- 389 forks
-- updated 2026-07-10
+- 4864 GitHub stars
+- 392 forks
+- updated 2026-07-11
 - primary language: C++
 - 19 topics
 
@@ -79,4 +79,4 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>

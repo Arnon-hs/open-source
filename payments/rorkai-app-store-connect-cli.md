@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 440 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ rorkai/App-Store-Connect-CLI：rorkai/App-Store-Connect-CLI helps integrate mone
 
 **Quality signals**
 
-- 5018 GitHub stars
+- 5022 GitHub stars
 - 440 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: Go
 - 15 topics
 
@@ -79,4 +79,4 @@ rorkai/App-Store-Connect-CLI：rorkai/App-Store-Connect-CLI helps integrate mone
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/rorkai/App-Store-Connect-CLI) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/rorkai/App-Store-Connect-CLI) · [← Back to Payments](./README.md)</sub>
