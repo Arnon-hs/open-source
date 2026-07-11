@@ -2,13 +2,14 @@
 
 > Developer productivity, editors, workflow
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dotnet/fsharp](./dotnet-fsharp.md) | ⭐ 4.3k | F# | 63/100 |
+| 1 | [Infisical/infisical](./infisical-infisical.md) | ⭐ 27.8k | TypeScript | 85/100 |
+| 2 | [dotnet/fsharp](./dotnet-fsharp.md) | ⭐ 4.3k | F# | 63/100 |
 
 ---
 

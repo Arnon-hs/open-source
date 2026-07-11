@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 354 |
+| ⭐ **Stars** | 2.4k |
+| 🍴 **Forks** | 366 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 2293 GitHub stars
-- 354 forks
-- updated 2026-07-10
+- 2392 GitHub stars
+- 366 forks
+- updated 2026-07-11
 - primary language: Python
 - 8 topics
 
@@ -70,7 +70,7 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 | integration | 94/100 |
 | production | 85/100 |
 | outlook | 90/100 |
-| adoption | 69/100 |
+| adoption | 70/100 |
 | stars | 72/100 |
 | forks | 64/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/Vexa-ai/vexa) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/Vexa-ai/vexa) · [← Back to Mcp](./README.md)</sub>

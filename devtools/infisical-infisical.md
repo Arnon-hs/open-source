@@ -53,8 +53,8 @@ Infisical/infisical：Infisical/infisical helps engineers save time in daily dev
 
 **Quality signals**
 
-- 27775 GitHub stars
-- 2065 forks
+- 27813 GitHub stars
+- 2074 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 20 topics
