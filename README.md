@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
 | 🏷️ **Mcp** | 17 | [Browse →](./mcp/) |
 | 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 11 | [Browse →](./orchestration/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 4 | [Browse →](./knowledgerag/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
 | 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
@@ -40,15 +40,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.6k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.1k | Mcp |
-| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.3k | Orchestration |
-| 4 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
-| 5 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
-| 6 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
-| 7 | [ComposioHQ/composio](./mcp/composiohq-composio.md) | ⭐ 29.2k | Mcp |
-| 8 | [appsmithorg/appsmith](./automation/appsmithorg-appsmith.md) | ⭐ 40.3k | Automation |
-| 9 | [DeusData/codebase-memory-mcp](./mcp/deusdata-codebase-memory-mcp.md) | ⭐ 30.1k | Mcp |
-| 10 | [preset-io/agor](./orchestration/preset-io-agor.md) | ⭐ 1.3k | Orchestration |
+| 2 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.3k | Orchestration |
+| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.3k | Mcp |
+| 4 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.9k | Mcp |
+| 5 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
+| 6 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64k | Orchestration |
+| 7 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
+| 8 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
+| 9 | [activepieces/activepieces](./mcp/activepieces-activepieces.md) | ⭐ 23.2k | Mcp |
+| 10 | [rcourtman/Pulse](./automation/rcourtman-pulse.md) | ⭐ 6.1k | Automation |
 
 ## 🚀 How it works
 

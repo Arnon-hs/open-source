@@ -53,7 +53,7 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 
 **Quality signals**
 
-- 8696 GitHub stars
+- 8699 GitHub stars
 - 765 forks
 - updated 2026-07-11
 - primary language: Python

@@ -53,8 +53,8 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 **Quality signals**
 
-- 141542 GitHub stars
-- 23528 forks
+- 141545 GitHub stars
+- 23530 forks
 - updated 2026-07-11
 - primary language: Python
 - 20 topics

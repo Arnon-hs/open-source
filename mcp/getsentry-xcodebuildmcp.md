@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ getsentry/XcodeBuildMCP：getsentry/XcodeBuildMCP helps connect AI assistants to
 
 **Quality signals**
 
-- 6056 GitHub stars
+- 6064 GitHub stars
 - 304 forks
-- updated 2026-07-10
+- updated 2026-07-11
 - primary language: TypeScript
 - 7 topics
 
@@ -71,7 +71,7 @@ getsentry/XcodeBuildMCP：getsentry/XcodeBuildMCP helps connect AI assistants to
 | production | 83/100 |
 | outlook | 93/100 |
 | adoption | 75/100 |
-| stars | 80/100 |
+| stars | 81/100 |
 | forks | 62/100 |
 | recency | 100/100 |
 | topics | 88/100 |
@@ -79,4 +79,4 @@ getsentry/XcodeBuildMCP：getsentry/XcodeBuildMCP helps connect AI assistants to
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/getsentry/XcodeBuildMCP) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/getsentry/XcodeBuildMCP) · [← Back to Mcp](./README.md)</sub>
