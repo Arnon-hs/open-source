@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46.5k |
-| 🍴 **Forks** | 3k |
+| ⭐ **Stars** | 46.7k |
+| 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ ChromeDevTools/chrome-devtools-mcp：ChromeDevTools/chrome-devtools-mcp helps co
 
 **Quality signals**
 
-- 46467 GitHub stars
-- 3030 forks
-- updated 2026-07-09
+- 46665 GitHub stars
+- 3190 forks
+- updated 2026-07-11
 - primary language: TypeScript
 - 8 topics
 
@@ -72,11 +72,11 @@ ChromeDevTools/chrome-devtools-mcp：ChromeDevTools/chrome-devtools-mcp helps co
 | outlook | 97/100 |
 | adoption | 96/100 |
 | stars | 99/100 |
-| forks | 87/100 |
+| forks | 88/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [← Back to Mcp](./README.md)</sub>

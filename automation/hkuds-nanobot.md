@@ -53,8 +53,8 @@ HKUDS/nanobot：HKUDS/nanobot helps remove repetitive manual operations from a w
 
 **Quality signals**
 
-- 45244 GitHub stars
-- 7986 forks
+- 45247 GitHub stars
+- 7987 forks
 - updated 2026-07-11
 - primary language: Python
 - 13 topics

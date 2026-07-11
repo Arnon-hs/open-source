@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 15.4k |
-| 🍴 **Forks** | 2.3k |
+| 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 96/100 |
 | 🗓️ **Last push** | 2026-07-11 |
@@ -53,8 +53,8 @@ diegosouzapw/OmniRoute：diegosouzapw/OmniRoute helps connect AI assistants to r
 
 **Quality signals**
 
-- 15369 GitHub stars
-- 2342 forks
+- 15450 GitHub stars
+- 2353 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 20 topics
@@ -66,7 +66,7 @@ diegosouzapw/OmniRoute：diegosouzapw/OmniRoute helps connect AI assistants to r
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 94/100 |
+| quality | 95/100 |
 | integration | 100/100 |
 | production | 89/100 |
 | outlook | 97/100 |

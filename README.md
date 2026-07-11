@@ -18,20 +18,20 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 18 | [Browse →](./mcp/) |
 | 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 12 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 11 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
 | 💳 **Payments** | 3 | [Browse →](./payments/) |
+| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
 | 📈 **Trading** | 1 | [Browse →](./trading/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
@@ -40,16 +40,16 @@
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 15.4k | Mcp |
-| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.2k | Mcp |
-| 4 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
-| 5 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 4k | Mcp |
-| 6 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196k | Mcp |
+| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 15.4k | Mcp |
+| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.3k | Mcp |
+| 4 | [D4Vinci/Scrapling](./mcp/d4vinci-scrapling.md) | ⭐ 69.1k | Mcp |
+| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
+| 6 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 47k | Orchestration |
 | 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64k | Orchestration |
 | 8 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
-| 9 | [siyuan-note/siyuan](./mcp/siyuan-note-siyuan.md) | ⭐ 45k | Mcp |
-| 10 | [oomol-lab/open-connector](./mcp/oomol-lab-open-connector.md) | ⭐ 1.3k | Mcp |
+| 9 | [HKUDS/nanobot](./automation/hkuds-nanobot.md) | ⭐ 45.2k | Automation |
+| 10 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
 
 ## 🚀 How it works
 

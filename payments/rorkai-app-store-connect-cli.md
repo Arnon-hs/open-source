@@ -53,7 +53,7 @@ rorkai/App-Store-Connect-CLI：rorkai/App-Store-Connect-CLI helps integrate mone
 
 **Quality signals**
 
-- 5022 GitHub stars
+- 5023 GitHub stars
 - 440 forks
 - updated 2026-07-11
 - primary language: Go

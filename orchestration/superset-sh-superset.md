@@ -53,7 +53,7 @@ superset-sh/superset：superset-sh/superset helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 12374 GitHub stars
+- 12378 GitHub stars
 - 1070 forks
 - updated 2026-07-11
 - primary language: TypeScript

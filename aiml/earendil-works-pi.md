@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 69.5k |
-| 🍴 **Forks** | 8.5k |
+| ⭐ **Stars** | 69.6k |
+| 🍴 **Forks** | 8.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-11 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ earendil-works/pi：earendil-works/pi helps add AI capability without starting f
 
 **Quality signals**
 
-- 69479 GitHub stars
-- 8534 forks
-- updated 2026-07-10
+- 69628 GitHub stars
+- 8571 forks
+- updated 2026-07-11
 - primary language: TypeScript
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -78,4 +78,4 @@ earendil-works/pi：earendil-works/pi helps add AI capability without starting f
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/earendil-works/pi) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/earendil-works/pi) · [← Back to AI/ML](./README.md)</sub>

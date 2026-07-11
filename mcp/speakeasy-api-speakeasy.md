@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 423 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 424 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-07-11 |
@@ -53,8 +53,8 @@ speakeasy-api/speakeasy：speakeasy-api/speakeasy helps connect AI assistants to
 
 **Quality signals**
 
-- 423 GitHub stars
-- 38 forks
+- 424 GitHub stars
+- 39 forks
 - updated 2026-07-11
 - primary language: JavaScript
 - 19 topics
