@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.3k |
-| 🍴 **Forks** | 941 |
+| 🍴 **Forks** | 942 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-07-11 |
@@ -53,8 +53,8 @@ MCP · AI/ML · Frontend · DevTools
 
 **Quality signals**
 
-- 8282 GitHub stars
-- 941 forks
+- 8285 GitHub stars
+- 942 forks
 - updated 2026-07-11
 - primary language: Rust
 - 12 topics

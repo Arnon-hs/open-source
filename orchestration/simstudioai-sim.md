@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29k |
+| ⭐ **Stars** | 29.1k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
@@ -53,8 +53,8 @@ simstudioai/sim：simstudioai/sim helps turn isolated prompts and tools into rep
 
 **Quality signals**
 
-- 29037 GitHub stars
-- 3697 forks
+- 29050 GitHub stars
+- 3699 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 18 topics

@@ -2,17 +2,16 @@
 
 > 
 
-**5 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HKUDS/nanobot](./hkuds-nanobot.md) | ⭐ 45.3k | Python | 90/100 |
+| 1 | [rcourtman/Pulse](./rcourtman-pulse.md) | ⭐ 6.1k | Go | 89/100 |
 | 2 | [YaoApp/yao](./yaoapp-yao.md) | ⭐ 7.5k | Go | 89/100 |
-| 3 | [jackwener/OpenCLI](./jackwener-opencli.md) | ⭐ 26.5k | JavaScript | 85/100 |
-| 4 | [trycua/cua](./trycua-cua.md) | ⭐ 19.6k | HTML | 85/100 |
-| 5 | [dropbox/dbxcli](./dropbox-dbxcli.md) | ⭐ 1.1k | Go | 84/100 |
+| 3 | [unkn0wn-root/resterm](./unkn0wn-root-resterm.md) | ⭐ 1.8k | Go | 86/100 |
+| 4 | [browser-use/browser-use](./browser-use-browser-use.md) | ⭐ 104.2k | Python | 84/100 |
 
 ---
 

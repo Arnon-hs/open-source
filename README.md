@@ -18,37 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
 | 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
+| 🏷️ **Knowledgerag** | 5 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.5k | Orchestration |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.6k | Orchestration |
 | 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.1k | Mcp |
 | 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.3k | Orchestration |
 | 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.3k | Mcp |
-| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 5 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 40.6k | Orchestration |
 | 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.5k | Orchestration |
-| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
-| 8 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.3k | Orchestration |
-| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
-| 10 | [HKUDS/nanobot](./automation/hkuds-nanobot.md) | ⭐ 45.3k | Automation |
+| 7 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
+| 8 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
+| 9 | [alirezarezvani/claude-skills](./orchestration/alirezarezvani-claude-skills.md) | ⭐ 22.2k | Orchestration |
+| 10 | [DeusData/codebase-memory-mcp](./mcp/deusdata-codebase-memory-mcp.md) | ⭐ 30.1k | Mcp |
 
 ## 🚀 How it works
 

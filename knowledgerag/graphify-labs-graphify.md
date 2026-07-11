@@ -53,8 +53,8 @@ Graphify-Labs/graphify：Graphify-Labs/graphify helps make internal knowledge se
 
 **Quality signals**
 
-- 82280 GitHub stars
-- 8101 forks
+- 82334 GitHub stars
+- 8109 forks
 - updated 2026-07-11
 - primary language: Python
 - 11 topics

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 141 |
-| 🍴 **Forks** | 19 |
+| ⭐ **Stars** | 142 |
+| 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-07-11 |
@@ -53,8 +53,8 @@ narumiruna/pi-extensions：narumiruna/pi-extensions helps turn isolated prompts 
 
 **Quality signals**
 
-- 141 GitHub stars
-- 19 forks
+- 142 GitHub stars
+- 20 forks
 - updated 2026-07-11
 - primary language: TypeScript
 - 12 topics
