@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ superset-sh/superset：superset-sh/superset helps turn isolated prompts and tool
 
 - 12378 GitHub stars
 - 1070 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ superset-sh/superset：superset-sh/superset helps turn isolated prompts and tool
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/superset-sh/superset) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/superset-sh/superset) · [← Back to Orchestration](./README.md)</sub>

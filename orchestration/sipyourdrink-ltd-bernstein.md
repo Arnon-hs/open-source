@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 657 |
-| 🍴 **Forks** | 60 |
+| ⭐ **Stars** | 658 |
+| 🍴 **Forks** | 61 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prom
 
 **Quality signals**
 
-- 657 GitHub stars
-- 60 forks
-- updated 2026-07-11
+- 658 GitHub stars
+- 61 forks
+- updated 2026-07-12
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prom
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/sipyourdrink-ltd/bernstein) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/sipyourdrink-ltd/bernstein) · [← Back to Orchestration](./README.md)</sub>

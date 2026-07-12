@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 16.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ jeecgboot/JeecgBoot：jeecgboot/JeecgBoot helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 47013 GitHub stars
-- 16086 forks
-- updated 2026-07-11
+- 47017 GitHub stars
+- 16088 forks
+- updated 2026-07-12
 - primary language: Java
 - 20 topics
 
@@ -79,4 +79,4 @@ jeecgboot/JeecgBoot：jeecgboot/JeecgBoot helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/jeecgboot/JeecgBoot) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/jeecgboot/JeecgBoot) · [← Back to Orchestration](./README.md)</sub>

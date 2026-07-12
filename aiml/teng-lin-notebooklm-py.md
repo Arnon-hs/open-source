@@ -1,6 +1,6 @@
 # teng-lin/notebooklm-py
 
-[![Stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat-square&color=yellow)](https://github.com/teng-lin/notebooklm-py/stargazers) [![Forks](https://img.shields.io/github/forks/teng-lin/notebooklm-py?style=flat-square&color=blue)](https://github.com/teng-lin/notebooklm-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat-square&color=yellow)](https://github.com/teng-lin/notebooklm-py/stargazers) [![Forks](https://img.shields.io/github/forks/teng-lin/notebooklm-py?style=flat-square&color=blue)](https://github.com/teng-lin/notebooklm-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-96%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.9k |
-| 🍴 **Forks** | 1.8k |
+| ⭐ **Stars** | 17.6k |
+| 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 📈 **Score** | 96/100 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-teng‑lin/notebooklm-py provides an unofficial Python wrapper and CLI for Google Notebook LM, exposing the platform’s full functionality—including hidden features not available through the web UI—to developers and AI agents. The library enables programmatic creation, editing, and querying of notebooks, and can be integrated with agents such as Claude Code, Codex, or OpenClaw for automated workflows. It serves both frontend and backend use‑cases in AI/ML projects that require direct, scriptable access to Notebook LM.
+teng-lin/notebooklm-py: teng-lin/notebooklm-py helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-teng‑lin/notebooklm-py — это неофициальный Python‑API и набор агентных навыков для Google NotebookLM, предоставляющий полный программный доступ к функциям сервиса, включая возможности, недоступные в веб‑интерфейсе. Проект поддерживает работу через библиотеку Python, CLI и интеграцию с AI‑агентами (Claude Code, Codex, OpenClaw), что делает его полезным как для фронтенд‑, так и для бэкенд‑разработчиков в области AI/ML.
+teng-lin/notebooklm-py: open-source проект в категориях AI/ML, Frontend, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 12864 GitHub stars
-- 1784 forks
-- updated 2026-05-08
+- 17609 GitHub stars
+- 2382 forks
+- updated 2026-07-12
 - primary language: Python
 - 14 topics
 
@@ -66,17 +66,17 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 95/100 |
 | integration | 100/100 |
-| production | 69/100 |
-| outlook | 75/100 |
-| adoption | 86/100 |
-| stars | 87/100 |
-| forks | 81/100 |
-| recency | 40/100 |
+| production | 89/100 |
+| outlook | 97/100 |
+| adoption | 89/100 |
+| stars | 90/100 |
+| forks | 84/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to AI/ML](./README.md)</sub>

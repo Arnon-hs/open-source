@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 10.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ bytedance/deer-flow：bytedance/deer-flow helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 76789 GitHub stars
-- 10429 forks
-- updated 2026-07-11
+- 76796 GitHub stars
+- 10431 forks
+- updated 2026-07-12
 - primary language: Python
 - 18 topics
 
@@ -79,4 +79,4 @@ bytedance/deer-flow：bytedance/deer-flow helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/bytedance/deer-flow) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/bytedance/deer-flow) · [← Back to Orchestration](./README.md)</sub>

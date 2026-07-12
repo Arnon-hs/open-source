@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.9k |
+| ⭐ **Stars** | 13.1k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Arindam200/awesome-ai-apps：Arindam200/awesome-ai-apps helps connect AI assista
 
 **Quality signals**
 
-- 12930 GitHub stars
-- 1654 forks
-- updated 2026-06-26
+- 13077 GitHub stars
+- 1678 forks
+- updated 2026-07-12
 - primary language: Python
 - 5 topics
 
@@ -72,11 +72,11 @@ Arindam200/awesome-ai-apps：Arindam200/awesome-ai-apps helps connect AI assista
 | outlook | 93/100 |
 | adoption | 86/100 |
 | stars | 88/100 |
-| forks | 80/100 |
+| forks | 81/100 |
 | recency | 100/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/Arindam200/awesome-ai-apps) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/Arindam200/awesome-ai-apps) · [← Back to Mcp](./README.md)</sub>

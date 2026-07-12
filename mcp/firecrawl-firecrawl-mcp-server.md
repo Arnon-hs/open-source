@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 802 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ firecrawl/firecrawl-mcp-server：firecrawl/firecrawl-mcp-server helps connect AI
 
 **Quality signals**
 
-- 6913 GitHub stars
+- 6915 GitHub stars
 - 802 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: JavaScript
 - 14 topics
 
@@ -79,4 +79,4 @@ firecrawl/firecrawl-mcp-server：firecrawl/firecrawl-mcp-server helps connect AI
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/firecrawl/firecrawl-mcp-server) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/firecrawl/firecrawl-mcp-server) · [← Back to Mcp](./README.md)</sub>

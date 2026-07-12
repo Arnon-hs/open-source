@@ -79,4 +79,4 @@ JungHoonGhae/tossinvest-cli：JungHoonGhae/tossinvest-cli helps research and aut
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/JungHoonGhae/tossinvest-cli) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/JungHoonGhae/tossinvest-cli) · [← Back to Trading](./README.md)</sub>

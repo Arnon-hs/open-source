@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ BerriAI/litellm：BerriAI/litellm helps turn isolated prompts and tools into rep
 
 **Quality signals**
 
-- 53284 GitHub stars
-- 9675 forks
-- updated 2026-07-11
+- 53295 GitHub stars
+- 9676 forks
+- updated 2026-07-12
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ BerriAI/litellm：BerriAI/litellm helps turn isolated prompts and tools into rep
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/BerriAI/litellm) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/BerriAI/litellm) · [← Back to Orchestration](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ simstudioai/sim：simstudioai/sim helps turn isolated prompts and tools into rep
 
 **Quality signals**
 
-- 29050 GitHub stars
+- 29057 GitHub stars
 - 3699 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ simstudioai/sim：simstudioai/sim helps turn isolated prompts and tools into rep
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/simstudioai/sim) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/simstudioai/sim) · [← Back to Orchestration](./README.md)</sub>
