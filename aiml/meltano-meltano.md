@@ -53,7 +53,7 @@ meltano/meltano：meltano/meltano helps add AI capability without starting from 
 
 **Quality signals**
 
-- 2557 GitHub stars
+- 2558 GitHub stars
 - 253 forks
 - updated 2026-07-12
 - primary language: Python

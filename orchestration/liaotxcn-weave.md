@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 374 |
+| ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
@@ -53,7 +53,7 @@ liaotxcn/Weave：liaotxcn/Weave helps turn isolated prompts and tools into repea
 
 **Quality signals**
 
-- 374 GitHub stars
+- 375 GitHub stars
 - 27 forks
 - updated 2026-07-12
 - primary language: Go

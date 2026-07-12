@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [eugeniughelbur/obsidian-second-brain](./eugeniughelbur-obsidian-second-brain.md) | ⭐ 3.2k | Python | 88/100 |
 | 2 | [gptme/gptme](./gptme-gptme.md) | ⭐ 4.4k | Python | 85/100 |
-| 3 | [any4ai/AnyCrawl](./any4ai-anycrawl.md) | ⭐ 3.4k | TypeScript | 85/100 |
+| 3 | [schmitech/orbit](./schmitech-orbit.md) | ⭐ 304 | Python | 83/100 |
 
 ---
 

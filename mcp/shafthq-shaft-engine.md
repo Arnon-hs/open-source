@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 394 |
-| 🍴 **Forks** | 149 |
+| 🍴 **Forks** | 150 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps connect AI assistants to real 
 **Quality signals**
 
 - 394 GitHub stars
-- 149 forks
-- updated 2026-07-04
+- 150 forks
+- updated 2026-07-12
 - primary language: Java
 - 19 topics
 
@@ -79,4 +79,4 @@ ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps connect AI assistants to real 
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/ShaftHQ/SHAFT_ENGINE) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/ShaftHQ/SHAFT_ENGINE) · [← Back to Mcp](./README.md)</sub>

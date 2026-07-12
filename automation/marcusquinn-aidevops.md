@@ -1,6 +1,6 @@
 # marcusquinn/aidevops
 
-[![Stars](https://img.shields.io/github/stars/marcusquinn/aidevops?style=flat-square&color=yellow)](https://github.com/marcusquinn/aidevops/stargazers) [![Forks](https://img.shields.io/github/forks/marcusquinn/aidevops?style=flat-square&color=blue)](https://github.com/marcusquinn/aidevops/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcusquinn/aidevops?style=flat-square&color=yellow)](https://github.com/marcusquinn/aidevops/stargazers) [![Forks](https://img.shields.io/github/forks/marcusquinn/aidevops?style=flat-square&color=blue)](https://github.com/marcusquinn/aidevops/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 271 |
+| ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ marcusquinn/aidevops：marcusquinn/aidevops helps remove repetitive manual opera
 
 **Quality signals**
 
-- 271 GitHub stars
+- 288 GitHub stars
 - 50 forks
-- updated 2026-06-27
+- updated 2026-07-12
 - primary language: Shell
 - 19 topics
 
@@ -70,7 +70,7 @@ marcusquinn/aidevops：marcusquinn/aidevops helps remove repetitive manual opera
 | integration | 78/100 |
 | production | 80/100 |
 | outlook | 87/100 |
-| adoption | 49/100 |
+| adoption | 50/100 |
 | stars | 52/100 |
 | forks | 43/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ marcusquinn/aidevops：marcusquinn/aidevops helps remove repetitive manual opera
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/marcusquinn/aidevops) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/marcusquinn/aidevops) · [← Back to Automation](./README.md)</sub>

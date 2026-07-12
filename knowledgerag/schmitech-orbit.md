@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 287 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 304 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ schmitech/orbit：schmitech/orbit helps make internal knowledge searchable and u
 
 **Quality signals**
 
-- 287 GitHub stars
-- 51 forks
-- updated 2026-07-05
+- 304 GitHub stars
+- 54 forks
+- updated 2026-07-12
 - primary language: Python
 - 19 topics
 
@@ -66,17 +66,17 @@ schmitech/orbit：schmitech/orbit helps make internal knowledge searchable and u
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 77/100 |
+| quality | 78/100 |
 | integration | 78/100 |
 | production | 80/100 |
-| outlook | 87/100 |
+| outlook | 88/100 |
 | adoption | 50/100 |
-| stars | 52/100 |
-| forks | 43/100 |
+| stars | 53/100 |
+| forks | 44/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/schmitech/orbit) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/schmitech/orbit) · [← Back to Knowledgerag](./README.md)</sub>
