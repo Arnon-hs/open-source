@@ -1,6 +1,6 @@
 # Rheosoph/flow-like
 
-[![Stars](https://img.shields.io/github/stars/Rheosoph/flow-like?style=flat-square&color=yellow)](https://github.com/Rheosoph/flow-like/stargazers) [![Forks](https://img.shields.io/github/forks/Rheosoph/flow-like?style=flat-square&color=blue)](https://github.com/Rheosoph/flow-like/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rheosoph/flow-like?style=flat-square&color=yellow)](https://github.com/Rheosoph/flow-like/stargazers) [![Forks](https://img.shields.io/github/forks/Rheosoph/flow-like?style=flat-square&color=blue)](https://github.com/Rheosoph/flow-like/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 
@@ -10,7 +10,7 @@
 |---|---|
 | ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 70 |
-| 💻 **Language** | TypeScript |
+| 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
@@ -56,7 +56,7 @@ Rheosoph/flow-like：Rheosoph/flow-like helps connect AI assistants to real tool
 - 912 GitHub stars
 - 70 forks
 - updated 2026-07-12
-- primary language: TypeScript
+- primary language: Rust
 - 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.

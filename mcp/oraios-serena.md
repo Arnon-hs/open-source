@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.3k |
+| ⭐ **Stars** | 26.4k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
@@ -53,8 +53,8 @@ oraios/serena：oraios/serena helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 26348 GitHub stars
-- 1754 forks
+- 26350 GitHub stars
+- 1753 forks
 - updated 2026-07-12
 - primary language: Python
 - 12 topics

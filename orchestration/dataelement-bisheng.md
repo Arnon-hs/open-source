@@ -53,7 +53,7 @@ dataelement/bisheng：dataelement/bisheng helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 11509 GitHub stars
+- 11510 GitHub stars
 - 1883 forks
 - updated 2026-07-12
 - primary language: TypeScript

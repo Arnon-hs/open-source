@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 463 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ mobile-next/mobile-mcp：mobile-next/mobile-mcp helps connect AI assistants to r
 
 **Quality signals**
 
-- 5420 GitHub stars
+- 5423 GitHub stars
 - 463 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: TypeScript
 - 9 topics
 
@@ -79,4 +79,4 @@ mobile-next/mobile-mcp：mobile-next/mobile-mcp helps connect AI assistants to r
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/mobile-next/mobile-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/mobile-next/mobile-mcp) · [← Back to Mcp](./README.md)</sub>
