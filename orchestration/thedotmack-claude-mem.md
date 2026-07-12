@@ -53,8 +53,8 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 
 **Quality signals**
 
-- 86963 GitHub stars
-- 7513 forks
+- 86969 GitHub stars
+- 7514 forks
 - updated 2026-07-12
 - primary language: JavaScript
 - 20 topics

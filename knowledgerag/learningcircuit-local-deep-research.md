@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 765 |
+| 🍴 **Forks** | 766 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
 | 🗓️ **Last push** | 2026-07-12 |
@@ -53,8 +53,8 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 
 **Quality signals**
 
-- 8703 GitHub stars
-- 765 forks
+- 8705 GitHub stars
+- 766 forks
 - updated 2026-07-12
 - primary language: Python
 - 20 topics

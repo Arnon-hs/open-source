@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 357 |
+| 🍴 **Forks** | 360 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ jeremylongshore/claude-code-plugins-plus-skills：jeremylongshore/claude-code-pl
 
 **Quality signals**
 
-- 2496 GitHub stars
-- 357 forks
-- updated 2026-07-11
+- 2508 GitHub stars
+- 360 forks
+- updated 2026-07-12
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ jeremylongshore/claude-code-plugins-plus-skills：jeremylongshore/claude-code-pl
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) · [← Back to Orchestration](./README.md)</sub>

@@ -53,7 +53,7 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Quality signals**
 
-- 3173 GitHub stars
+- 3180 GitHub stars
 - 390 forks
 - updated 2026-07-12
 - primary language: Python

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 105 |
+| ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ icoretech/codex-pooler：icoretech/codex-pooler helps connect AI assistants to r
 
 **Quality signals**
 
-- 105 GitHub stars
+- 114 GitHub stars
 - 4 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: Elixir
 - 20 topics
 
@@ -71,7 +71,7 @@ icoretech/codex-pooler：icoretech/codex-pooler helps connect AI assistants to r
 | production | 81/100 |
 | outlook | 84/100 |
 | adoption | 36/100 |
-| stars | 43/100 |
+| stars | 44/100 |
 | forks | 17/100 |
 | recency | 100/100 |
 | topics | 100/100 |
@@ -79,4 +79,4 @@ icoretech/codex-pooler：icoretech/codex-pooler helps connect AI assistants to r
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/icoretech/codex-pooler) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/icoretech/codex-pooler) · [← Back to Mcp](./README.md)</sub>
