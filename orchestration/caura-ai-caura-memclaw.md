@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 311 |
+| ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
@@ -53,7 +53,7 @@ caura-ai/caura-memclaw：caura-ai/caura-memclaw helps turn isolated prompts and 
 
 **Quality signals**
 
-- 311 GitHub stars
+- 312 GitHub stars
 - 40 forks
 - updated 2026-07-12
 - primary language: Python

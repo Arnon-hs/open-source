@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 149.3k |
-| 🍴 **Forks** | 8.5k |
+| ⭐ **Stars** | 149.7k |
+| 🍴 **Forks** | 8.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starti
 
 **Quality signals**
 
-- 149326 GitHub stars
-- 8545 forks
-- updated 2026-07-11
+- 149682 GitHub stars
+- 8562 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starti
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/firecrawl/firecrawl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/firecrawl/firecrawl) · [← Back to AI/ML](./README.md)</sub>

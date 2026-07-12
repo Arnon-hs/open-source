@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.4k |
-| 🍴 **Forks** | 368 |
+| 🍴 **Forks** | 370 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-12 |
@@ -53,8 +53,8 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 2417 GitHub stars
-- 368 forks
+- 2421 GitHub stars
+- 370 forks
 - updated 2026-07-12
 - primary language: Python
 - 8 topics

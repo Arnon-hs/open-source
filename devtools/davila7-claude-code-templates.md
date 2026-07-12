@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.9k |
+| ⭐ **Stars** | 29.2k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ davila7/claude-code-templates：davila7/claude-code-templates helps engineers sa
 
 **Quality signals**
 
-- 28888 GitHub stars
-- 3171 forks
-- updated 2026-07-11
+- 29153 GitHub stars
+- 3198 forks
+- updated 2026-07-12
 - primary language: Python
 - 4 topics
 
@@ -79,4 +79,4 @@ davila7/claude-code-templates：davila7/claude-code-templates helps engineers sa
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/davila7/claude-code-templates) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/davila7/claude-code-templates) · [← Back to DevTools](./README.md)</sub>

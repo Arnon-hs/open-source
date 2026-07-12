@@ -1,6 +1,6 @@
 # teslamate-org/teslamate
 
-[![Stars](https://img.shields.io/github/stars/teslamate-org/teslamate?style=flat-square&color=yellow)](https://github.com/teslamate-org/teslamate/stargazers) [![Forks](https://img.shields.io/github/forks/teslamate-org/teslamate?style=flat-square&color=blue)](https://github.com/teslamate-org/teslamate/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teslamate-org/teslamate?style=flat-square&color=yellow)](https://github.com/teslamate-org/teslamate/stargazers) [![Forks](https://img.shields.io/github/forks/teslamate-org/teslamate?style=flat-square&color=blue)](https://github.com/teslamate-org/teslamate/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 981 |
+| 🍴 **Forks** | 985 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 📈 **Score** | 87/100 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ teslamate-org/teslamate：teslamate-org/teslamate helps remove repetitive manual
 
 **Quality signals**
 
-- 8691 GitHub stars
-- 981 forks
-- updated 2026-07-06
+- 8720 GitHub stars
+- 985 forks
+- updated 2026-07-12
 - primary language: Elixir
 - 17 topics
 
@@ -79,4 +79,4 @@ teslamate-org/teslamate：teslamate-org/teslamate helps remove repetitive manual
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/teslamate-org/teslamate) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/teslamate-org/teslamate) · [← Back to Automation](./README.md)</sub>

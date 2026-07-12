@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 394 |
-| 🍴 **Forks** | 40 |
+| 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-07-12 |
@@ -54,7 +54,7 @@ ZaxbyHub/opencode-swarm：ZaxbyHub/opencode-swarm helps turn isolated prompts an
 **Quality signals**
 
 - 394 GitHub stars
-- 40 forks
+- 41 forks
 - updated 2026-07-12
 - primary language: TypeScript
 - 20 topics
@@ -72,7 +72,7 @@ ZaxbyHub/opencode-swarm：ZaxbyHub/opencode-swarm helps turn isolated prompts an
 | outlook | 88/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
-| forks | 40/100 |
+| forks | 41/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

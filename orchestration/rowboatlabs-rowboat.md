@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.9k |
+| ⭐ **Stars** | 16.2k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 15937 GitHub stars
-- 1586 forks
-- updated 2026-07-10
+- 16210 GitHub stars
+- 1609 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 15 topics
 
@@ -71,7 +71,7 @@ rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools 
 | production | 84/100 |
 | outlook | 95/100 |
 | adoption | 87/100 |
-| stars | 89/100 |
+| stars | 90/100 |
 | forks | 80/100 |
 | recency | 100/100 |
 | topics | 100/100 |
@@ -79,4 +79,4 @@ rowboatlabs/rowboat：rowboatlabs/rowboat helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/rowboatlabs/rowboat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/rowboatlabs/rowboat) · [← Back to Orchestration](./README.md)</sub>
