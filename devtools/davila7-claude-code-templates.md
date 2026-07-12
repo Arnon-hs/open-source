@@ -53,8 +53,8 @@ davila7/claude-code-templates：davila7/claude-code-templates helps engineers sa
 
 **Quality signals**
 
-- 29153 GitHub stars
-- 3198 forks
+- 29205 GitHub stars
+- 3202 forks
 - updated 2026-07-12
 - primary language: Python
 - 4 topics

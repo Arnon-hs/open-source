@@ -53,7 +53,7 @@ evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 3856 GitHub stars
+- 3855 GitHub stars
 - 414 forks
 - updated 2026-07-12
 - primary language: Python

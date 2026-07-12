@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 358 |
+| 🍴 **Forks** | 357 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ lioensky/VCPToolBox：lioensky/VCPToolBox helps turn isolated prompts and tools 
 **Quality signals**
 
 - 2187 GitHub stars
-- 358 forks
-- updated 2026-07-11
+- 357 forks
+- updated 2026-07-12
 - primary language: JavaScript
 - 17 topics
 
@@ -79,4 +79,4 @@ lioensky/VCPToolBox：lioensky/VCPToolBox helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/lioensky/VCPToolBox) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/lioensky/VCPToolBox) · [← Back to Orchestration](./README.md)</sub>

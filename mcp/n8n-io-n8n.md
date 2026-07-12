@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 196.1k |
+| ⭐ **Stars** | 196.2k |
 | 🍴 **Forks** | 59.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 97/100 |
@@ -53,8 +53,8 @@ n8n-io/n8n：n8n-io/n8n helps connect AI assistants to real tools and data throu
 
 **Quality signals**
 
-- 196105 GitHub stars
-- 59256 forks
+- 196190 GitHub stars
+- 59284 forks
 - updated 2026-07-12
 - primary language: TypeScript
 - 20 topics

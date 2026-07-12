@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ apify/apify-mcp-server：apify/apify-mcp-server helps connect AI assistants to r
 
 **Quality signals**
 
-- 1825 GitHub stars
+- 1844 GitHub stars
 - 191 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: TypeScript
 - 4 topics
 
@@ -69,9 +69,9 @@ apify/apify-mcp-server：apify/apify-mcp-server helps connect AI assistants to r
 | quality | 77/100 |
 | integration | 78/100 |
 | production | 80/100 |
-| outlook | 86/100 |
+| outlook | 87/100 |
 | adoption | 66/100 |
-| stars | 69/100 |
+| stars | 70/100 |
 | forks | 57/100 |
 | recency | 100/100 |
 | topics | 50/100 |
@@ -79,4 +79,4 @@ apify/apify-mcp-server：apify/apify-mcp-server helps connect AI assistants to r
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/apify/apify-mcp-server) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/apify/apify-mcp-server) · [← Back to Mcp](./README.md)</sub>

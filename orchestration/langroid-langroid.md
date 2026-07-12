@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 385 |
+| 🍴 **Forks** | 386 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-07-12 |
@@ -53,8 +53,8 @@ langroid/langroid：langroid/langroid helps turn isolated prompts and tools into
 
 **Quality signals**
 
-- 4065 GitHub stars
-- 385 forks
+- 4067 GitHub stars
+- 386 forks
 - updated 2026-07-12
 - primary language: Python
 - 18 topics

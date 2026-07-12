@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 86.6k |
+| ⭐ **Stars** | 87k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 
 **Quality signals**
 
-- 86610 GitHub stars
-- 7485 forks
-- updated 2026-07-09
+- 86963 GitHub stars
+- 7513 forks
+- updated 2026-07-12
 - primary language: JavaScript
 - 20 topics
 
@@ -79,4 +79,4 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/thedotmack/claude-mem) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/thedotmack/claude-mem) · [← Back to Orchestration](./README.md)</sub>

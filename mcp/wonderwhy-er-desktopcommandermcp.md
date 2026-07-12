@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=yellow)](https://github.com/wonderwhy-er/DesktopCommanderMCP/stargazers) [![Forks](https://img.shields.io/github/forks/wonderwhy-er/DesktopCommanderMCP?style=flat-square&color=blue)](https://github.com/wonderwhy-er/DesktopCommanderMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
 
 > This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.2k |
-| 🍴 **Forks** | 913 |
+| ⭐ **Stars** | 8k |
+| 🍴 **Forks** | 985 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 📈 **Score** | 90/100 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 
 **Quality signals**
 
-- 7192 GitHub stars
-- 913 forks
-- updated 2026-07-10
+- 7959 GitHub stars
+- 985 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 9 topics
 
@@ -70,13 +70,13 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 | integration | 78/100 |
 | production | 85/100 |
 | outlook | 95/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
-| forks | 74/100 |
+| adoption | 81/100 |
+| stars | 83/100 |
+| forks | 75/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [← Back to Mcp](./README.md)</sub>

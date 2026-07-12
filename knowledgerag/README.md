@@ -2,7 +2,7 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
@@ -10,7 +10,6 @@
 |---|---|---|---|---|
 | 1 | [gptme/gptme](./gptme-gptme.md) | ⭐ 4.4k | Python | 85/100 |
 | 2 | [promptfoo/promptfoo](./promptfoo-promptfoo.md) | ⭐ 23.2k | TypeScript | 85/100 |
-| 3 | [LearningCircuit/local-deep-research](./learningcircuit-local-deep-research.md) | ⭐ 8.7k | Python | 84/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Agent orchestration frameworks (LangGraph, CrewAI, AutoGen, DSPy), long-term memory (Mem0, Letta, Zep), skills & tool-use plugins
 
-**12 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -13,13 +13,15 @@
 | 3 | [ruvnet/ruflo](./ruvnet-ruflo.md) | ⭐ 64.2k | TypeScript | 91/100 |
 | 4 | [bytedance/deer-flow](./bytedance-deer-flow.md) | ⭐ 76.8k | Python | 91/100 |
 | 5 | [superset-sh/superset](./superset-sh-superset.md) | ⭐ 12.4k | TypeScript | 90/100 |
-| 6 | [TheLunarCompany/lunar](./thelunarcompany-lunar.md) | ⭐ 468 | TypeScript | 88/100 |
-| 7 | [hesreallyhim/awesome-claude-code](./hesreallyhim-awesome-claude-code.md) | ⭐ 49.9k | Python | 87/100 |
-| 8 | [topoteretes/cognee](./topoteretes-cognee.md) | ⭐ 27.6k | Python | 86/100 |
-| 9 | [plastic-labs/honcho](./plastic-labs-honcho.md) | ⭐ 5.9k | Python | 86/100 |
-| 10 | [OthmanAdi/planning-with-files](./othmanadi-planning-with-files.md) | ⭐ 25.2k | Python | 86/100 |
-| 11 | [langroid/langroid](./langroid-langroid.md) | ⭐ 4.1k | Python | 85/100 |
-| 12 | [narumiruna/pi-extensions](./narumiruna-pi-extensions.md) | ⭐ 146 | TypeScript | 85/100 |
+| 6 | [thedotmack/claude-mem](./thedotmack-claude-mem.md) | ⭐ 87k | JavaScript | 88/100 |
+| 7 | [evalstate/fast-agent](./evalstate-fast-agent.md) | ⭐ 3.9k | Python | 88/100 |
+| 8 | [hesreallyhim/awesome-claude-code](./hesreallyhim-awesome-claude-code.md) | ⭐ 49.9k | Python | 87/100 |
+| 9 | [NirDiamant/GenAI_Agents](./nirdiamant-genai-agents.md) | ⭐ 23.1k | Jupyter Notebook | 86/100 |
+| 10 | [plastic-labs/honcho](./plastic-labs-honcho.md) | ⭐ 5.9k | Python | 86/100 |
+| 11 | [ZaxbyHub/opencode-swarm](./zaxbyhub-opencode-swarm.md) | ⭐ 395 | TypeScript | 86/100 |
+| 12 | [langroid/langroid](./langroid-langroid.md) | ⭐ 4.1k | Python | 85/100 |
+| 13 | [lioensky/VCPToolBox](./lioensky-vcptoolbox.md) | ⭐ 2.2k | JavaScript | 84/100 |
+| 14 | [ThreeMoonsLab/agents-shipgate](./threemoonslab-agents-shipgate.md) | ⭐ 104 | Python | 84/100 |
 
 ---
 

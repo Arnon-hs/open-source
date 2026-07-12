@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 483 |
+| ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 84/100 |
@@ -53,7 +53,7 @@ asheshgoplani/agent-deck：asheshgoplani/agent-deck helps connect AI assistants 
 
 **Quality signals**
 
-- 483 GitHub stars
+- 484 GitHub stars
 - 73 forks
 - updated 2026-07-12
 - primary language: Go

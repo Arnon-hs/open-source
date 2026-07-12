@@ -53,8 +53,8 @@ louislam/uptime-kuma：louislam/uptime-kuma helps ship user-facing interfaces wi
 
 **Quality signals**
 
-- 89041 GitHub stars
-- 8114 forks
+- 89045 GitHub stars
+- 8115 forks
 - updated 2026-07-12
 - primary language: JavaScript
 - 12 topics
