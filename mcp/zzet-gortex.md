@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ zzet/gortex：zzet/gortex helps connect AI assistants to real tools and data thr
 
 - 843 GitHub stars
 - 73 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ zzet/gortex：zzet/gortex helps connect AI assistants to real tools and data thr
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/zzet/gortex) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/zzet/gortex) · [← Back to Mcp](./README.md)</sub>

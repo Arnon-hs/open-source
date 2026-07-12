@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 47.4k |
+| ⭐ **Stars** | 47.5k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ mudler/LocalAI：mudler/LocalAI helps connect AI assistants to real tools and da
 
 **Quality signals**
 
-- 47448 GitHub stars
-- 4217 forks
-- updated 2026-07-09
+- 47490 GitHub stars
+- 4229 forks
+- updated 2026-07-12
 - primary language: Go
 - 18 topics
 
@@ -79,4 +79,4 @@ mudler/LocalAI：mudler/LocalAI helps connect AI assistants to real tools and da
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/mudler/LocalAI) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/mudler/LocalAI) · [← Back to Mcp](./README.md)</sub>

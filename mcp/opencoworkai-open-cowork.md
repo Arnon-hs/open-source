@@ -53,7 +53,7 @@ OpenCoworkAI/open-cowork：OpenCoworkAI/open-cowork helps connect AI assistants 
 
 **Quality signals**
 
-- 1812 GitHub stars
+- 1813 GitHub stars
 - 244 forks
 - updated 2026-07-12
 - primary language: TypeScript

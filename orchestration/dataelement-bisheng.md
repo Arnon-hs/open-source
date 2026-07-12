@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ dataelement/bisheng：dataelement/bisheng helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 11508 GitHub stars
-- 1882 forks
-- updated 2026-07-11
+- 11509 GitHub stars
+- 1883 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ dataelement/bisheng：dataelement/bisheng helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/dataelement/bisheng) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/dataelement/bisheng) · [← Back to Orchestration](./README.md)</sub>

@@ -53,7 +53,7 @@ firecrawl/firecrawl-mcp-server：firecrawl/firecrawl-mcp-server helps connect AI
 
 **Quality signals**
 
-- 6917 GitHub stars
+- 6921 GitHub stars
 - 802 forks
 - updated 2026-07-12
 - primary language: JavaScript

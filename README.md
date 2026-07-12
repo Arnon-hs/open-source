@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 📁 **Categories** | **17** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -20,35 +20,36 @@
 |---|---|---|
 | 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
 | 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 📈 **Trading** | 1 | [Browse →](./trading/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.9k | Orchestration |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.6k | Orchestration |
-| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 15.8k | Mcp |
-| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.3k | Orchestration |
-| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 6 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
-| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
-| 8 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64.1k | Orchestration |
-| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
-| 10 | [ccxt/ccxt](./crypto/ccxt-ccxt.md) | ⭐ 43.3k | Crypto |
+| 1 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.6k | AI/ML |
+| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 3 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
+| 4 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.4k | Orchestration |
+| 5 | [mudler/LocalAI](./mcp/mudler-localai.md) | ⭐ 47.5k | Mcp |
+| 6 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64.1k | Orchestration |
+| 7 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
+| 8 | [oomol-lab/open-connector](./mcp/oomol-lab-open-connector.md) | ⭐ 1.5k | Mcp |
+| 9 | [rcourtman/Pulse](./automation/rcourtman-pulse.md) | ⭐ 6.1k | Automation |
+| 10 | [firecrawl/firecrawl-mcp-server](./mcp/firecrawl-firecrawl-mcp-server.md) | ⭐ 6.9k | Mcp |
 
 ## 🚀 How it works
 

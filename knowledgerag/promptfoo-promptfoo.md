@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ promptfoo/promptfoo：promptfoo/promptfoo helps make internal knowledge searchab
 
 **Quality signals**
 
-- 23155 GitHub stars
-- 2071 forks
-- updated 2026-07-11
+- 23164 GitHub stars
+- 2073 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ promptfoo/promptfoo：promptfoo/promptfoo helps make internal knowledge searchab
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/promptfoo/promptfoo) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/promptfoo/promptfoo) · [← Back to Knowledgerag](./README.md)</sub>

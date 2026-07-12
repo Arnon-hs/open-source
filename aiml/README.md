@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.6k | Python | 88/100 |
-| 2 | [Kilo-Org/kilocode](./kilo-org-kilocode.md) | ⭐ 26k | TypeScript | 86/100 |
+| 1 | [teng-lin/notebooklm-py](./teng-lin-notebooklm-py.md) | ⭐ 17.6k | Python | 96/100 |
+| 2 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.6k | Python | 88/100 |
 | 3 | [langgenius/dify](./langgenius-dify.md) | ⭐ 138.6k | TypeScript | 85/100 |
 | 4 | [MCPJam/inspector](./mcpjam-inspector.md) | ⭐ 1.9k | TypeScript | 80/100 |
 | 5 | [Significant-Gravitas/AutoGPT](./significant-gravitas-autogpt.md) | ⭐ 183.6k | Python | 79/100 |

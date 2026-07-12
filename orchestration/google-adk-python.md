@@ -53,7 +53,7 @@ google/adk-python：google/adk-python helps turn isolated prompts and tools into
 
 **Quality signals**
 
-- 20569 GitHub stars
+- 20570 GitHub stars
 - 3682 forks
 - updated 2026-07-12
 - primary language: Python

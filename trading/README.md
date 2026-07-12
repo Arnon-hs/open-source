@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JungHoonGhae/tossinvest-cli](./junghoonghae-tossinvest-cli.md) | ⭐ 442 | Go | 87/100 |
+| 1 | [HKUDS/Vibe-Trading](./hkuds-vibe-trading.md) | ⭐ 20k | Python | 85/100 |
 
 ---
 

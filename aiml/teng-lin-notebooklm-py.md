@@ -53,8 +53,8 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 
 **Quality signals**
 
-- 17609 GitHub stars
-- 2382 forks
+- 17624 GitHub stars
+- 2385 forks
 - updated 2026-07-12
 - primary language: Python
 - 14 topics

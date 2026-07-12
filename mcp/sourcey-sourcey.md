@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 329 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ sourcey/sourcey：sourcey/sourcey helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 1306 GitHub stars
+- 1314 GitHub stars
 - 329 forks
-- updated 2026-06-29
+- updated 2026-07-12
 - primary language: TypeScript
 - 16 topics
 
@@ -79,4 +79,4 @@ sourcey/sourcey：sourcey/sourcey helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/sourcey/sourcey) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/sourcey/sourcey) · [← Back to Mcp](./README.md)</sub>
