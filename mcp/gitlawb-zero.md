@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Gitlawb/zero：Gitlawb/zero helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 1057 GitHub stars
+- 1063 GitHub stars
 - 101 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: Go
 - 13 topics
 
@@ -79,4 +79,4 @@ Gitlawb/zero：Gitlawb/zero helps connect AI assistants to real tools and data t
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/Gitlawb/zero) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/Gitlawb/zero) · [← Back to Mcp](./README.md)</sub>

@@ -53,7 +53,7 @@ any4ai/AnyCrawl：any4ai/AnyCrawl helps make internal knowledge searchable and u
 
 **Quality signals**
 
-- 3362 GitHub stars
+- 3363 GitHub stars
 - 358 forks
 - updated 2026-07-12
 - primary language: TypeScript

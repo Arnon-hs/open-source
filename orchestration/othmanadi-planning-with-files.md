@@ -53,7 +53,7 @@ OthmanAdi/planning-with-files：OthmanAdi/planning-with-files helps turn isolate
 
 **Quality signals**
 
-- 25218 GitHub stars
+- 25224 GitHub stars
 - 2130 forks
 - updated 2026-07-12
 - primary language: Python

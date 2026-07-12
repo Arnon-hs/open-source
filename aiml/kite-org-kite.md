@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ kite-org/kite：kite-org/kite helps add AI capability without starting from a bl
 
 **Quality signals**
 
-- 2889 GitHub stars
+- 2895 GitHub stars
 - 270 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: TypeScript
 - 9 topics
 
@@ -79,4 +79,4 @@ kite-org/kite：kite-org/kite helps add AI capability without starting from a bl
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/kite-org/kite) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/kite-org/kite) · [← Back to AI/ML](./README.md)</sub>

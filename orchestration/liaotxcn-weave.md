@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 371 |
+| ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ liaotxcn/Weave：liaotxcn/Weave helps turn isolated prompts and tools into repea
 
 **Quality signals**
 
-- 371 GitHub stars
+- 374 GitHub stars
 - 27 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: Go
 - 11 topics
 
@@ -79,4 +79,4 @@ liaotxcn/Weave：liaotxcn/Weave helps turn isolated prompts and tools into repea
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/liaotxcn/Weave) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/liaotxcn/Weave) · [← Back to Orchestration](./README.md)</sub>

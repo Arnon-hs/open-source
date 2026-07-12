@@ -53,8 +53,8 @@ Arindam200/awesome-ai-apps：Arindam200/awesome-ai-apps helps connect AI assista
 
 **Quality signals**
 
-- 13077 GitHub stars
-- 1678 forks
+- 13088 GitHub stars
+- 1679 forks
 - updated 2026-07-12
 - primary language: Python
 - 5 topics

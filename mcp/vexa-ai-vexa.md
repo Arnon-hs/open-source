@@ -53,7 +53,7 @@ Vexa-ai/vexa：Vexa-ai/vexa helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 2421 GitHub stars
+- 2424 GitHub stars
 - 370 forks
 - updated 2026-07-12
 - primary language: Python

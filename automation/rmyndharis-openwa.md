@@ -53,8 +53,8 @@ rmyndharis/OpenWA：rmyndharis/OpenWA helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 11090 GitHub stars
-- 2492 forks
+- 11114 GitHub stars
+- 2495 forks
 - updated 2026-07-12
 - primary language: TypeScript
 - 12 topics

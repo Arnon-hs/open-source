@@ -53,7 +53,7 @@ getlago/lago：getlago/lago helps integrate monetization, billing, or PSP flows 
 
 **Quality signals**
 
-- 10200 GitHub stars
+- 10201 GitHub stars
 - 695 forks
 - updated 2026-07-12
 - primary language: Go

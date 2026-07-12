@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 39.1k |
-| 🍴 **Forks** | 6.5k |
+| ⭐ **Stars** | 40.5k |
+| 🍴 **Forks** | 6.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ router-for-me/CLIProxyAPI：router-for-me/CLIProxyAPI helps add AI capability wi
 
 **Quality signals**
 
-- 39098 GitHub stars
-- 6467 forks
-- updated 2026-07-04
+- 40521 GitHub stars
+- 6621 forks
+- updated 2026-07-12
 - primary language: Go
 - 6 topics
 
@@ -72,11 +72,11 @@ router-for-me/CLIProxyAPI：router-for-me/CLIProxyAPI helps add AI capability wi
 | outlook | 92/100 |
 | adoption | 97/100 |
 | stars | 98/100 |
-| forks | 95/100 |
+| forks | 96/100 |
 | recency | 100/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/router-for-me/CLIProxyAPI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/router-for-me/CLIProxyAPI) · [← Back to AI/ML](./README.md)</sub>
