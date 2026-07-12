@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **17** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,38 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 17 | [Browse →](./orchestration/) |
 | 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
 | 🏷️ **Automation** | 4 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 2 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 📈 **Trading** | 1 | [Browse →](./trading/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.6k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.1k | Mcp |
-| 3 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.6k | AI/ML |
+| 1 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.9k | Orchestration |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.6k | Orchestration |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 15.8k | Mcp |
 | 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.3k | Orchestration |
-| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 17.3k | Mcp |
-| 6 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.3k | Mcp |
+| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 6 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
 | 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.7k | Orchestration |
-| 8 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
+| 8 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64.1k | Orchestration |
 | 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.8k | Orchestration |
-| 10 | [jeecgboot/JeecgBoot](./orchestration/jeecgboot-jeecgboot.md) | ⭐ 47k | Orchestration |
+| 10 | [ccxt/ccxt](./crypto/ccxt-ccxt.md) | ⭐ 43.3k | Crypto |
 
 ## 🚀 How it works
 

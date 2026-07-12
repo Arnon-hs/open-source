@@ -53,8 +53,8 @@ BerriAI/litellm：BerriAI/litellm helps turn isolated prompts and tools into rep
 
 **Quality signals**
 
-- 53295 GitHub stars
-- 9676 forks
+- 53299 GitHub stars
+- 9678 forks
 - updated 2026-07-12
 - primary language: Python
 - 16 topics

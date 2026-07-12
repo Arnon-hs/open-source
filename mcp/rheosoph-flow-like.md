@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 910 |
+| ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Rheosoph/flow-like：Rheosoph/flow-like helps connect AI assistants to real tool
 
 **Quality signals**
 
-- 910 GitHub stars
+- 912 GitHub stars
 - 70 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ Rheosoph/flow-like：Rheosoph/flow-like helps connect AI assistants to real tool
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/Rheosoph/flow-like) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/Rheosoph/flow-like) · [← Back to Mcp](./README.md)</sub>

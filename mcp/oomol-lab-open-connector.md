@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 75 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ oomol-lab/open-connector：oomol-lab/open-connector helps connect AI assistants 
 
 **Quality signals**
 
-- 1333 GitHub stars
-- 75 forks
-- updated 2026-07-11
+- 1469 GitHub stars
+- 82 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 18 topics
 
@@ -66,17 +66,17 @@ oomol-lab/open-connector：oomol-lab/open-connector helps connect AI assistants 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 82/100 |
+| quality | 83/100 |
 | integration | 100/100 |
 | production | 85/100 |
 | outlook | 90/100 |
-| adoption | 61/100 |
+| adoption | 62/100 |
 | stars | 67/100 |
-| forks | 47/100 |
+| forks | 48/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/oomol-lab/open-connector) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/oomol-lab/open-connector) · [← Back to Mcp](./README.md)</sub>

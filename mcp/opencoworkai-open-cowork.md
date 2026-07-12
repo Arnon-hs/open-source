@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 239 |
+| 🍴 **Forks** | 244 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-06 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ OpenCoworkAI/open-cowork：OpenCoworkAI/open-cowork helps connect AI assistants 
 
 **Quality signals**
 
-- 1780 GitHub stars
-- 239 forks
-- updated 2026-07-06
+- 1812 GitHub stars
+- 244 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 14 topics
 
@@ -70,7 +70,7 @@ OpenCoworkAI/open-cowork：OpenCoworkAI/open-cowork helps connect AI assistants 
 | integration | 78/100 |
 | production | 83/100 |
 | outlook | 92/100 |
-| adoption | 66/100 |
+| adoption | 67/100 |
 | stars | 69/100 |
 | forks | 60/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ OpenCoworkAI/open-cowork：OpenCoworkAI/open-cowork helps connect AI assistants 
 
 ---
 
-<sub>🔭 Discovered 2026-07-06 · [View on GitHub](https://github.com/OpenCoworkAI/open-cowork) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/OpenCoworkAI/open-cowork) · [← Back to Mcp](./README.md)</sub>

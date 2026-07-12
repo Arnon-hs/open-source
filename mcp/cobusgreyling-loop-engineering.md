@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7k |
-| 🍴 **Forks** | 881 |
+| ⭐ **Stars** | 7.1k |
+| 🍴 **Forks** | 900 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ cobusgreyling/loop-engineering：cobusgreyling/loop-engineering helps connect AI
 
 **Quality signals**
 
-- 6966 GitHub stars
-- 881 forks
-- updated 2026-07-11
+- 7115 GitHub stars
+- 900 forks
+- updated 2026-07-12
 - primary language: JavaScript
 - 17 topics
 
@@ -79,4 +79,4 @@ cobusgreyling/loop-engineering：cobusgreyling/loop-engineering helps connect AI
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/cobusgreyling/loop-engineering) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/cobusgreyling/loop-engineering) · [← Back to Mcp](./README.md)</sub>

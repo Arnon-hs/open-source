@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 284 |
+| ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ smart-mcp-proxy/mcpproxy-go：smart-mcp-proxy/mcpproxy-go helps connect AI assis
 
 **Quality signals**
 
-- 284 GitHub stars
+- 285 GitHub stars
 - 36 forks
-- updated 2026-07-11
+- updated 2026-07-12
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ smart-mcp-proxy/mcpproxy-go：smart-mcp-proxy/mcpproxy-go helps connect AI assis
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [← Back to Mcp](./README.md)</sub>

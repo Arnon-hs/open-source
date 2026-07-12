@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Kilo-Org/kilocode：Kilo-Org/kilocode helps add AI capability without starting f
 
 **Quality signals**
 
-- 25987 GitHub stars
-- 2880 forks
-- updated 2026-07-10
+- 26041 GitHub stars
+- 2887 forks
+- updated 2026-07-12
 - primary language: TypeScript
 - 12 topics
 
@@ -72,11 +72,11 @@ Kilo-Org/kilocode：Kilo-Org/kilocode helps add AI capability without starting f
 | outlook | 96/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
-| forks | 86/100 |
+| forks | 87/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/Kilo-Org/kilocode) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/Kilo-Org/kilocode) · [← Back to AI/ML](./README.md)</sub>

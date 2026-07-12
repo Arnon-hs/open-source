@@ -2,17 +2,17 @@
 
 [![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square&color=yellow)](https://github.com/sickn33/agentic-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/sickn33/agentic-awesome-skills?style=flat-square&color=blue)](https://github.com/sickn33/agentic-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
 
-> Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+> Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42.7k |
+| ⭐ **Stars** | 42.9k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ sickn33/agentic-awesome-skills：sickn33/agentic-awesome-skills helps turn isola
 
 **Quality signals**
 
-- 42740 GitHub stars
-- 6795 forks
-- updated 2026-07-10
+- 42932 GitHub stars
+- 6816 forks
+- updated 2026-07-12
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ sickn33/agentic-awesome-skills：sickn33/agentic-awesome-skills helps turn isola
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/sickn33/agentic-awesome-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/sickn33/agentic-awesome-skills) · [← Back to Orchestration](./README.md)</sub>

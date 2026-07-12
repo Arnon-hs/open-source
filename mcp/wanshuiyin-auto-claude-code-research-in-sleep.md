@@ -53,8 +53,8 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 
 **Quality signals**
 
-- 13278 GitHub stars
-- 1199 forks
+- 13281 GitHub stars
+- 1200 forks
 - updated 2026-07-12
 - primary language: Python
 - 20 topics
