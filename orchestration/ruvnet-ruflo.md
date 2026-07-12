@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 64.1k |
+| ⭐ **Stars** | 64.2k |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
@@ -53,8 +53,8 @@ ruvnet/ruflo：ruvnet/ruflo helps turn isolated prompts and tools into repeatabl
 
 **Quality signals**
 
-- 64135 GitHub stars
-- 7589 forks
+- 64150 GitHub stars
+- 7594 forks
 - updated 2026-07-12
 - primary language: TypeScript
 - 20 topics

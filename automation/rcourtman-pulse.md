@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.1k |
+| ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
@@ -53,7 +53,7 @@ rcourtman/Pulse：rcourtman/Pulse helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 6142 GitHub stars
+- 6162 GitHub stars
 - 248 forks
 - updated 2026-07-12
 - primary language: Go

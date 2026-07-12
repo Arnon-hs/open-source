@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 285 |
+| ⭐ **Stars** | 286 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
@@ -53,7 +53,7 @@ smart-mcp-proxy/mcpproxy-go：smart-mcp-proxy/mcpproxy-go helps connect AI assis
 
 **Quality signals**
 
-- 285 GitHub stars
+- 286 GitHub stars
 - 36 forks
 - updated 2026-07-12
 - primary language: Go

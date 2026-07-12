@@ -53,7 +53,7 @@ trycua/cua：trycua/cua helps remove repetitive manual operations from a workflo
 
 **Quality signals**
 
-- 19579 GitHub stars
+- 19585 GitHub stars
 - 1287 forks
 - updated 2026-07-12
 - primary language: HTML

@@ -53,7 +53,7 @@ mvanhorn/cli-printing-press：mvanhorn/cli-printing-press helps add AI capabilit
 
 **Quality signals**
 
-- 3934 GitHub stars
+- 3943 GitHub stars
 - 428 forks
 - updated 2026-07-12
 - primary language: Go
