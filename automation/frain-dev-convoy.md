@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 177 |
+| 🍴 **Forks** | 179 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-07 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations fr
 
 **Quality signals**
 
-- 2831 GitHub stars
-- 177 forks
-- updated 2026-07-07
+- 2838 GitHub stars
+- 179 forks
+- updated 2026-07-13
 - primary language: Go
 - 18 topics
 
@@ -79,4 +79,4 @@ frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations fr
 
 ---
 
-<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to Automation](./README.md)</sub>

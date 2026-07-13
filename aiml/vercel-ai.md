@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 
 **Quality signals**
 
-- 25474 GitHub stars
-- 4750 forks
-- updated 2026-07-10
+- 25529 GitHub stars
+- 4762 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 15 topics
 
@@ -79,4 +79,4 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/vercel/ai) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/vercel/ai) · [← Back to AI/ML](./README.md)</sub>

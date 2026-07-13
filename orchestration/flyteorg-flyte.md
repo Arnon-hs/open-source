@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 845 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ flyteorg/flyte：flyteorg/flyte helps turn isolated prompts and tools into repea
 
 **Quality signals**
 
-- 7132 GitHub stars
+- 7137 GitHub stars
 - 845 forks
-- updated 2026-07-11
+- updated 2026-07-13
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ flyteorg/flyte：flyteorg/flyte helps turn isolated prompts and tools into repea
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/flyteorg/flyte) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/flyteorg/flyte) · [← Back to Orchestration](./README.md)</sub>

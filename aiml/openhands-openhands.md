@@ -53,8 +53,8 @@ OpenHands/OpenHands：OpenHands/OpenHands helps add AI capability without starti
 
 **Quality signals**
 
-- 80652 GitHub stars
-- 10291 forks
+- 80661 GitHub stars
+- 10292 forks
 - updated 2026-07-13
 - primary language: Python
 - 9 topics

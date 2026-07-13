@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31.4k |
+| ⭐ **Stars** | 31.5k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 
 **Quality signals**
 
-- 31438 GitHub stars
-- 2022 forks
-- updated 2026-07-11
+- 31486 GitHub stars
+- 2026 forks
+- updated 2026-07-13
 - primary language: JavaScript
 - 7 topics
 
@@ -79,4 +79,4 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/gethomepage/homepage) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/gethomepage/homepage) · [← Back to Frontend](./README.md)</sub>

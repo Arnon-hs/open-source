@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 369 |
+| 🍴 **Forks** | 373 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Agent-Field/agentfield：Agent-Field/agentfield helps turn isolated prompts and 
 
 **Quality signals**
 
-- 2329 GitHub stars
-- 369 forks
-- updated 2026-07-09
+- 2344 GitHub stars
+- 373 forks
+- updated 2026-07-13
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ Agent-Field/agentfield：Agent-Field/agentfield helps turn isolated prompts and 
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/Agent-Field/agentfield) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/Agent-Field/agentfield) · [← Back to Orchestration](./README.md)</sub>
