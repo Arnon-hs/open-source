@@ -1,6 +1,6 @@
 # omnigent-ai/omnigent
 
-[![Stars](https://img.shields.io/github/stars/omnigent-ai/omnigent?style=flat-square&color=yellow)](https://github.com/omnigent-ai/omnigent/stargazers) [![Forks](https://img.shields.io/github/forks/omnigent-ai/omnigent?style=flat-square&color=blue)](https://github.com/omnigent-ai/omnigent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnigent-ai/omnigent?style=flat-square&color=yellow)](https://github.com/omnigent-ai/omnigent/stargazers) [![Forks](https://img.shields.io/github/forks/omnigent-ai/omnigent?style=flat-square&color=blue)](https://github.com/omnigent-ai/omnigent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 505 |
+| ⭐ **Stars** | 7.1k |
+| 🍴 **Forks** | 978 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ omnigent-ai/omnigent：omnigent-ai/omnigent helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 4445 GitHub stars
-- 505 forks
-- updated 2026-06-22
+- 7146 GitHub stars
+- 978 forks
+- updated 2026-07-13
 - primary language: Python
 - 16 topics
 
@@ -65,18 +65,18 @@ omnigent-ai/omnigent：omnigent-ai/omnigent helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| forks | 68/100 |
-| stars | 78/100 |
-| topics | 100/100 |
-| outlook | 92/100 |
-| quality | 89/100 |
-| recency | 100/100 |
-| adoption | 75/100 |
-| production | 82/100 |
 | usefulness | 90/100 |
+| quality | 91/100 |
 | integration | 62/100 |
+| production | 83/100 |
+| outlook | 93/100 |
+| adoption | 80/100 |
+| stars | 82/100 |
+| forks | 75/100 |
+| recency | 100/100 |
+| topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/omnigent-ai/omnigent) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/omnigent-ai/omnigent) · [← Back to Orchestration](./README.md)</sub>

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22k |
+| ⭐ **Stars** | 22.1k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 **Quality signals**
 
-- 22020 GitHub stars
-- 2991 forks
-- updated 2026-07-10
+- 22064 GitHub stars
+- 2995 forks
+- updated 2026-07-13
 - primary language: Python
 - 14 topics
 
@@ -79,4 +79,4 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/1Panel-dev/MaxKB) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/1Panel-dev/MaxKB) · [← Back to Orchestration](./README.md)</sub>

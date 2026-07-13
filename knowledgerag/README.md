@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [eugeniughelbur/obsidian-second-brain](./eugeniughelbur-obsidian-second-brain.md) | ⭐ 3.2k | Python | 88/100 |
-| 2 | [gptme/gptme](./gptme-gptme.md) | ⭐ 4.4k | Python | 85/100 |
-| 3 | [LearningCircuit/local-deep-research](./learningcircuit-local-deep-research.md) | ⭐ 8.7k | Python | 84/100 |
+| 1 | [Canner/WrenAI](./canner-wrenai.md) | ⭐ 15.8k | Python | 91/100 |
+| 2 | [schmitech/orbit](./schmitech-orbit.md) | ⭐ 304 | Python | 83/100 |
 
 ---
 

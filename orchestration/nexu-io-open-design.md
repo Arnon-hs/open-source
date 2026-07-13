@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77.5k |
+| ⭐ **Stars** | 77.6k |
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ nexu-io/open-design：nexu-io/open-design helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 77494 GitHub stars
-- 8867 forks
-- updated 2026-07-12
+- 77608 GitHub stars
+- 8886 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ nexu-io/open-design：nexu-io/open-design helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/nexu-io/open-design) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/nexu-io/open-design) · [← Back to Orchestration](./README.md)</sub>

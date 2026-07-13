@@ -1,6 +1,6 @@
 # hesreallyhim/awesome-claude-code
 
-[![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&color=yellow)](https://github.com/hesreallyhim/awesome-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/hesreallyhim/awesome-claude-code?style=flat-square&color=blue)](https://github.com/hesreallyhim/awesome-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&color=yellow)](https://github.com/hesreallyhim/awesome-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/hesreallyhim/awesome-claude-code?style=flat-square&color=blue)](https://github.com/hesreallyhim/awesome-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49.9k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ hesreallyhim/awesome-claude-code：hesreallyhim/awesome-claude-code helps turn i
 
 **Quality signals**
 
-- 49873 GitHub stars
+- 49882 GitHub stars
 - 4357 forks
-- updated 2026-07-12
+- updated 2026-07-13
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ hesreallyhim/awesome-claude-code：hesreallyhim/awesome-claude-code helps turn i
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/hesreallyhim/awesome-claude-code) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/hesreallyhim/awesome-claude-code) · [← Back to Orchestration](./README.md)</sub>

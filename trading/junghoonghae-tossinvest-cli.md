@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 444 |
-| 🍴 **Forks** | 74 |
+| ⭐ **Stars** | 446 |
+| 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ JungHoonGhae/tossinvest-cli：JungHoonGhae/tossinvest-cli helps research and aut
 
 **Quality signals**
 
-- 444 GitHub stars
-- 74 forks
-- updated 2026-07-12
+- 446 GitHub stars
+- 75 forks
+- updated 2026-07-13
 - primary language: Go
 - 12 topics
 
@@ -79,4 +79,4 @@ JungHoonGhae/tossinvest-cli：JungHoonGhae/tossinvest-cli helps research and aut
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/JungHoonGhae/tossinvest-cli) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/JungHoonGhae/tossinvest-cli) · [← Back to Trading](./README.md)</sub>

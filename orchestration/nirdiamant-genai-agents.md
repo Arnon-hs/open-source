@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ NirDiamant/GenAI_Agents：NirDiamant/GenAI_Agents helps turn isolated prompts an
 
 **Quality signals**
 
-- 23103 GitHub stars
-- 3892 forks
-- updated 2026-07-12
+- 23108 GitHub stars
+- 3893 forks
+- updated 2026-07-13
 - primary language: Jupyter Notebook
 - 19 topics
 
@@ -79,4 +79,4 @@ NirDiamant/GenAI_Agents：NirDiamant/GenAI_Agents helps turn isolated prompts an
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/NirDiamant/GenAI_Agents) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/NirDiamant/GenAI_Agents) · [← Back to Orchestration](./README.md)</sub>

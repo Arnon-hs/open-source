@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 927 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ codexu/note-gen：codexu/note-gen helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 12282 GitHub stars
+- 12291 GitHub stars
 - 927 forks
-- updated 2026-07-11
+- updated 2026-07-13
 - primary language: TypeScript
 - 11 topics
 
@@ -79,4 +79,4 @@ codexu/note-gen：codexu/note-gen helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/codexu/note-gen) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/codexu/note-gen) · [← Back to Mcp](./README.md)</sub>

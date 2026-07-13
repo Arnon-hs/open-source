@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 130 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-09 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 1041 GitHub stars
-- 130 forks
-- updated 2026-07-09
+- 1065 GitHub stars
+- 132 forks
+- updated 2026-07-13
 - primary language: Go
 - 18 topics
 
@@ -66,7 +66,7 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 82/100 |
+| quality | 83/100 |
 | integration | 78/100 |
 | production | 82/100 |
 | outlook | 90/100 |
@@ -79,4 +79,4 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 ---
 
-<sub>🔭 Discovered 2026-07-09 · [View on GitHub](https://github.com/karust/openserp) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/karust/openserp) · [← Back to Automation](./README.md)</sub>

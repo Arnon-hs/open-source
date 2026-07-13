@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rcourtman/Pulse](./rcourtman-pulse.md) | ⭐ 6.2k | Go | 89/100 |
-| 2 | [nocobase/nocobase](./nocobase-nocobase.md) | ⭐ 23.3k | TypeScript | 85/100 |
-| 3 | [trycua/cua](./trycua-cua.md) | ⭐ 19.6k | HTML | 85/100 |
-| 4 | [blacklanternsecurity/bbot](./blacklanternsecurity-bbot.md) | ⭐ 10.1k | Python | 84/100 |
+| 1 | [YaoApp/yao](./yaoapp-yao.md) | ⭐ 7.5k | Go | 89/100 |
+| 2 | [Skyvern-AI/skyvern](./skyvern-ai-skyvern.md) | ⭐ 22.2k | Python | 86/100 |
+| 3 | [karust/openserp](./karust-openserp.md) | ⭐ 1.1k | Go | 85/100 |
+| 4 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ 172 | Go | 84/100 |
 
 ---
 

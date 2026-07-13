@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.6k |
+| ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 
 **Quality signals**
 
-- 17624 GitHub stars
-- 2385 forks
-- updated 2026-07-12
+- 17663 GitHub stars
+- 2394 forks
+- updated 2026-07-13
 - primary language: Python
 - 14 topics
 
@@ -79,4 +79,4 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to AI/ML](./README.md)</sub>

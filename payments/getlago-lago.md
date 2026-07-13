@@ -79,4 +79,4 @@ getlago/lago：getlago/lago helps integrate monetization, billing, or PSP flows 
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/getlago/lago) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/getlago/lago) · [← Back to Payments](./README.md)</sub>
