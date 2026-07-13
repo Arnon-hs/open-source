@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [getlago/lago](./getlago-lago.md) | ⭐ 10.2k | Go | 87/100 |
-| 2 | [stablyai/orca](./stablyai-orca.md) | ⭐ 17.2k | TypeScript | 85/100 |
+| 1 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 1.7k | TypeScript | 89/100 |
+| 2 | [getlago/lago](./getlago-lago.md) | ⭐ 10.2k | Go | 87/100 |
 
 ---
 

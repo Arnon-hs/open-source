@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 80.5k |
+| ⭐ **Stars** | 80.6k |
 | 🍴 **Forks** | 10.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ OpenHands/OpenHands：OpenHands/OpenHands helps add AI capability without starti
 
 **Quality signals**
 
-- 80496 GitHub stars
-- 10267 forks
-- updated 2026-07-12
+- 80606 GitHub stars
+- 10287 forks
+- updated 2026-07-13
 - primary language: Python
 - 9 topics
 
@@ -79,4 +79,4 @@ OpenHands/OpenHands：OpenHands/OpenHands helps add AI capability without starti
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/OpenHands/OpenHands) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/OpenHands/OpenHands) · [← Back to AI/ML](./README.md)</sub>

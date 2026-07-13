@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [YaoApp/yao](./yaoapp-yao.md) | ⭐ 7.5k | Go | 89/100 |
-| 2 | [Skyvern-AI/skyvern](./skyvern-ai-skyvern.md) | ⭐ 22.2k | Python | 86/100 |
-| 3 | [karust/openserp](./karust-openserp.md) | ⭐ 1.1k | Go | 85/100 |
-| 4 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ 172 | Go | 84/100 |
+| 1 | [HKUDS/nanobot](./hkuds-nanobot.md) | ⭐ 45.3k | Python | 90/100 |
+| 2 | [YaoApp/yao](./yaoapp-yao.md) | ⭐ 7.5k | Go | 89/100 |
+| 3 | [superplanehq/superplane](./superplanehq-superplane.md) | ⭐ 3.9k | Go | 88/100 |
+| 4 | [teslamate-org/teslamate](./teslamate-org-teslamate.md) | ⭐ 8.7k | Elixir | 87/100 |
 
 ---
 

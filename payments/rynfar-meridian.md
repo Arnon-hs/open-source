@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 186 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 189 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ rynfar/meridian：rynfar/meridian helps integrate monetization, billing, or PSP 
 
 **Quality signals**
 
-- 1637 GitHub stars
-- 186 forks
-- updated 2026-07-10
+- 1653 GitHub stars
+- 189 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 17 topics
 
@@ -79,4 +79,4 @@ rynfar/meridian：rynfar/meridian helps integrate monetization, billing, or PSP 
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/rynfar/meridian) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/rynfar/meridian) · [← Back to Payments](./README.md)</sub>

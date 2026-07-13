@@ -18,21 +18,21 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
 | 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 12 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
 | 🏷️ **Automation** | 4 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
 | 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 | 📈 **Trading** | 1 | [Browse →](./trading/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
@@ -42,14 +42,14 @@
 |---|---|---|---|
 | 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.8k | Orchestration |
 | 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.2k | Mcp |
-| 3 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.7k | AI/ML |
-| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 5 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.6k | Orchestration |
-| 6 | [Canner/WrenAI](./knowledgerag/canner-wrenai.md) | ⭐ 15.8k | Knowledgerag |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 4 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.8k | Orchestration |
+| 5 | [ThinkInAIXYZ/deepchat](./orchestration/thinkinaixyz-deepchat.md) | ⭐ 6.1k | Orchestration |
+| 6 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.6k | Orchestration |
 | 7 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64.2k | Orchestration |
 | 8 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.9k | Orchestration |
-| 9 | [oomol-lab/open-connector](./mcp/oomol-lab-open-connector.md) | ⭐ 1.7k | Mcp |
-| 10 | [siyuan-note/siyuan](./mcp/siyuan-note-siyuan.md) | ⭐ 45.1k | Mcp |
+| 9 | [labring/FastGPT](./orchestration/labring-fastgpt.md) | ⭐ 28.9k | Orchestration |
+| 10 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.4k | Orchestration |
 
 ## 🚀 How it works
 

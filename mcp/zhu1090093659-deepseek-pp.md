@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ zhu1090093659/deepseek-pp：zhu1090093659/deepseek-pp helps connect AI assistant
 
 **Quality signals**
 
-- 1220 GitHub stars
+- 1238 GitHub stars
 - 162 forks
-- updated 2026-07-11
+- updated 2026-07-13
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ zhu1090093659/deepseek-pp：zhu1090093659/deepseek-pp helps connect AI assistant
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/zhu1090093659/deepseek-pp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/zhu1090093659/deepseek-pp) · [← Back to Mcp](./README.md)</sub>

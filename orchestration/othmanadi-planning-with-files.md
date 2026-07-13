@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.2k |
+| ⭐ **Stars** | 25.3k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ OthmanAdi/planning-with-files：OthmanAdi/planning-with-files helps turn isolate
 
 **Quality signals**
 
-- 25229 GitHub stars
-- 2131 forks
-- updated 2026-07-12
+- 25254 GitHub stars
+- 2133 forks
+- updated 2026-07-13
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ OthmanAdi/planning-with-files：OthmanAdi/planning-with-files helps turn isolate
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/OthmanAdi/planning-with-files) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/OthmanAdi/planning-with-files) · [← Back to Orchestration](./README.md)</sub>

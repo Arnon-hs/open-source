@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ labring/FastGPT：labring/FastGPT helps turn isolated prompts and tools into rep
 
 **Quality signals**
 
-- 28900 GitHub stars
-- 7211 forks
-- updated 2026-07-10
+- 28919 GitHub stars
+- 7217 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 10 topics
 
@@ -79,4 +79,4 @@ labring/FastGPT：labring/FastGPT helps turn isolated prompts and tools into rep
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/labring/FastGPT) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/labring/FastGPT) · [← Back to Orchestration](./README.md)</sub>

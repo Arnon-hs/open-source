@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 446 |
+| ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
@@ -53,7 +53,7 @@ JungHoonGhae/tossinvest-cli：JungHoonGhae/tossinvest-cli helps research and aut
 
 **Quality signals**
 
-- 446 GitHub stars
+- 447 GitHub stars
 - 75 forks
 - updated 2026-07-13
 - primary language: Go

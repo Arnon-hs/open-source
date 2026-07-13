@@ -2,24 +2,26 @@
 
 > Agent orchestration frameworks (LangGraph, CrewAI, AutoGen, DSPy), long-term memory (Mem0, Letta, Zep), skills & tool-use plugins
 
-**12 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [headroomlabs-ai/headroom](./headroomlabs-ai-headroom.md) | ⭐ 58.8k | Python | 97/100 |
-| 2 | [nexu-io/open-design](./nexu-io-open-design.md) | ⭐ 77.6k | TypeScript | 91/100 |
-| 3 | [ruvnet/ruflo](./ruvnet-ruflo.md) | ⭐ 64.2k | TypeScript | 91/100 |
-| 4 | [bytedance/deer-flow](./bytedance-deer-flow.md) | ⭐ 76.9k | Python | 91/100 |
-| 5 | [thedotmack/claude-mem](./thedotmack-claude-mem.md) | ⭐ 87k | JavaScript | 88/100 |
-| 6 | [hesreallyhim/awesome-claude-code](./hesreallyhim-awesome-claude-code.md) | ⭐ 49.9k | Python | 88/100 |
-| 7 | [1Panel-dev/MaxKB](./1panel-dev-maxkb.md) | ⭐ 22.1k | Python | 86/100 |
-| 8 | [NirDiamant/GenAI_Agents](./nirdiamant-genai-agents.md) | ⭐ 23.1k | Jupyter Notebook | 86/100 |
-| 9 | [zilliztech/memsearch](./zilliztech-memsearch.md) | ⭐ 2.2k | Python | 84/100 |
-| 10 | [omnigent-ai/omnigent](./omnigent-ai-omnigent.md) | ⭐ 7.1k | Python | 84/100 |
-| 11 | [trpc-group/trpc-agent-go](./trpc-group-trpc-agent-go.md) | ⭐ 1.5k | Go | 83/100 |
-| 12 | [Lyellr88/marm-memory](./lyellr88-marm-memory.md) | ⭐ 307 | Python | 83/100 |
+| 2 | [esengine/DeepSeek-Reasonix](./esengine-deepseek-reasonix.md) | ⭐ 26.8k | Go | 92/100 |
+| 3 | [ThinkInAIXYZ/deepchat](./thinkinaixyz-deepchat.md) | ⭐ 6.1k | TypeScript | 92/100 |
+| 4 | [nexu-io/open-design](./nexu-io-open-design.md) | ⭐ 77.6k | TypeScript | 91/100 |
+| 5 | [ruvnet/ruflo](./ruvnet-ruflo.md) | ⭐ 64.2k | TypeScript | 91/100 |
+| 6 | [bytedance/deer-flow](./bytedance-deer-flow.md) | ⭐ 76.9k | Python | 91/100 |
+| 7 | [labring/FastGPT](./labring-fastgpt.md) | ⭐ 28.9k | TypeScript | 90/100 |
+| 8 | [superset-sh/superset](./superset-sh-superset.md) | ⭐ 12.4k | TypeScript | 90/100 |
+| 9 | [preset-io/agor](./preset-io-agor.md) | ⭐ 1.3k | TypeScript | 89/100 |
+| 10 | [WenyuChiou/awesome-agentic-ai-zh](./wenyuchiou-awesome-agentic-ai-zh.md) | ⭐ 4.4k | Python | 88/100 |
+| 11 | [hesreallyhim/awesome-claude-code](./hesreallyhim-awesome-claude-code.md) | ⭐ 49.9k | Python | 88/100 |
+| 12 | [deepset-ai/haystack](./deepset-ai-haystack.md) | ⭐ 25.9k | MDX | 86/100 |
+| 13 | [simstudioai/sim](./simstudioai-sim.md) | ⭐ 29.1k | TypeScript | 86/100 |
+| 14 | [OthmanAdi/planning-with-files](./othmanadi-planning-with-files.md) | ⭐ 25.3k | Python | 86/100 |
 
 ---
 

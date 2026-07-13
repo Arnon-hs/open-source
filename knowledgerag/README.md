@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Canner/WrenAI](./canner-wrenai.md) | ⭐ 15.8k | Python | 91/100 |
-| 2 | [schmitech/orbit](./schmitech-orbit.md) | ⭐ 304 | Python | 83/100 |
+| 1 | [SamurAIGPT/llm-wiki-agent](./samuraigpt-llm-wiki-agent.md) | ⭐ 3.2k | Python | 88/100 |
 
 ---
 

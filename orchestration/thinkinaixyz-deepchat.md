@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 691 |
+| 🍴 **Forks** | 695 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ ThinkInAIXYZ/deepchat：ThinkInAIXYZ/deepchat helps turn isolated prompts and to
 
 **Quality signals**
 
-- 6088 GitHub stars
-- 691 forks
-- updated 2026-07-10
+- 6098 GitHub stars
+- 695 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ ThinkInAIXYZ/deepchat：ThinkInAIXYZ/deepchat helps turn isolated prompts and to
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [← Back to Orchestration](./README.md)</sub>
