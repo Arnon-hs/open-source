@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 42.9k |
+| ⭐ **Stars** | 43.1k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ sickn33/agentic-awesome-skills：sickn33/agentic-awesome-skills helps turn isola
 
 **Quality signals**
 
-- 42932 GitHub stars
-- 6816 forks
-- updated 2026-07-12
+- 43086 GitHub stars
+- 6841 forks
+- updated 2026-07-13
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ sickn33/agentic-awesome-skills：sickn33/agentic-awesome-skills helps turn isola
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/sickn33/agentic-awesome-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/sickn33/agentic-awesome-skills) · [← Back to Orchestration](./README.md)</sub>

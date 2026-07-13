@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 714 |
+| 🍴 **Forks** | 715 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-07-13 |
@@ -53,8 +53,8 @@ plastic-labs/honcho：plastic-labs/honcho helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 5938 GitHub stars
-- 714 forks
+- 5941 GitHub stars
+- 715 forks
 - updated 2026-07-13
 - primary language: Python
 - 20 topics

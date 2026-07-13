@@ -53,7 +53,7 @@ elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows wi
 
 **Quality signals**
 
-- 18739 GitHub stars
+- 18740 GitHub stars
 - 5578 forks
 - updated 2026-07-13
 - primary language: TypeScript

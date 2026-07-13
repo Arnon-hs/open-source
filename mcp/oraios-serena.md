@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ oraios/serena：oraios/serena helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 26350 GitHub stars
-- 1753 forks
-- updated 2026-07-12
+- 26413 GitHub stars
+- 1754 forks
+- updated 2026-07-13
 - primary language: Python
 - 12 topics
 
@@ -79,4 +79,4 @@ oraios/serena：oraios/serena helps connect AI assistants to real tools and data
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/oraios/serena) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/oraios/serena) · [← Back to Mcp](./README.md)</sub>

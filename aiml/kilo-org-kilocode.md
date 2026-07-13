@@ -53,8 +53,8 @@ Kilo-Org/kilocode：Kilo-Org/kilocode helps add AI capability without starting f
 
 **Quality signals**
 
-- 26123 GitHub stars
-- 2892 forks
+- 26136 GitHub stars
+- 2894 forks
 - updated 2026-07-13
 - primary language: TypeScript
 - 12 topics

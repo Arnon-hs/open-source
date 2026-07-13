@@ -2,13 +2,14 @@
 
 > Developer productivity, editors, workflow
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dotnet/fsharp](./dotnet-fsharp.md) | ⭐ 4.3k | F# | 63/100 |
+| 1 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 29.4k | Python | 87/100 |
+| 2 | [dotnet/fsharp](./dotnet-fsharp.md) | ⭐ 4.3k | F# | 63/100 |
 
 ---
 

@@ -53,7 +53,7 @@ Skyvern-AI/skyvern：Skyvern-AI/skyvern helps remove repetitive manual operation
 
 **Quality signals**
 
-- 22217 GitHub stars
+- 22218 GitHub stars
 - 2081 forks
 - updated 2026-07-13
 - primary language: Python

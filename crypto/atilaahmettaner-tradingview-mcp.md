@@ -53,7 +53,7 @@ atilaahmettaner/tradingview-mcp：atilaahmettaner/tradingview-mcp helps prototyp
 
 **Quality signals**
 
-- 3511 GitHub stars
+- 3512 GitHub stars
 - 743 forks
 - updated 2026-07-13
 - primary language: Python

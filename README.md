@@ -18,19 +18,19 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 52 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 18 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
 | 🏷️ **Automation** | 4 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
 | ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
 | 💳 **Payments** | 1 | [Browse →](./payments/) |
 
@@ -39,15 +39,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 106k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.9k | Orchestration |
-| 3 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.3k | Mcp |
-| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.5k | Orchestration |
-| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.6k | Orchestration |
-| 7 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
-| 8 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.9k | Orchestration |
-| 9 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 4k | Mcp |
-| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 64.3k | Orchestration |
+| 2 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 43.1k | Orchestration |
+| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 59k | Orchestration |
+| 4 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.3k | Mcp |
+| 5 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.5k | Orchestration |
+| 6 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
+| 7 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.3k | Mcp |
+| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.6k | Orchestration |
+| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
+| 10 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 4k | Mcp |
 
 ## 🚀 How it works
 

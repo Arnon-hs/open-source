@@ -53,7 +53,7 @@ VoltAgent/voltagent：VoltAgent/voltagent helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 10040 GitHub stars
+- 10041 GitHub stars
 - 1045 forks
 - updated 2026-07-13
 - primary language: TypeScript
