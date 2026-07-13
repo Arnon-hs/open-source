@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 497 |
+| ⭐ **Stars** | 498 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
@@ -53,7 +53,7 @@ Cranot/roam-code：Cranot/roam-code helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 497 GitHub stars
+- 498 GitHub stars
 - 47 forks
 - updated 2026-07-13
 - primary language: Python

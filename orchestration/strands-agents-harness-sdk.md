@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.6k |
-| 🍴 **Forks** | 948 |
+| 🍴 **Forks** | 949 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
 | 🗓️ **Last push** | 2026-07-13 |
@@ -54,7 +54,7 @@ strands-agents/harness-sdk：strands-agents/harness-sdk helps turn isolated prom
 **Quality signals**
 
 - 6557 GitHub stars
-- 948 forks
+- 949 forks
 - updated 2026-07-13
 - primary language: Python
 - 20 topics

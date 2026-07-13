@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 106k |
-| 🍴 **Forks** | 14.3k |
+| 🍴 **Forks** | 14.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 98/100 |
 | 🗓️ **Last push** | 2026-07-13 |
@@ -53,8 +53,8 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps connect AI assistants 
 
 **Quality signals**
 
-- 105958 GitHub stars
-- 14250 forks
+- 105962 GitHub stars
+- 14249 forks
 - updated 2026-07-13
 - primary language: TypeScript
 - 7 topics

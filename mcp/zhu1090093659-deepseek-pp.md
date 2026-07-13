@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
+| ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
@@ -53,7 +53,7 @@ zhu1090093659/deepseek-pp：zhu1090093659/deepseek-pp helps connect AI assistant
 
 **Quality signals**
 
-- 1241 GitHub stars
+- 1250 GitHub stars
 - 162 forks
 - updated 2026-07-13
 - primary language: TypeScript

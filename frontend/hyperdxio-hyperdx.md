@@ -53,7 +53,7 @@ hyperdxio/hyperdx：hyperdxio/hyperdx helps ship user-facing interfaces with les
 
 **Quality signals**
 
-- 9663 GitHub stars
+- 9665 GitHub stars
 - 422 forks
 - updated 2026-07-13
 - primary language: TypeScript

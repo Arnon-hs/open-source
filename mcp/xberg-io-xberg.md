@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.6k |
-| 🍴 **Forks** | 515 |
+| 🍴 **Forks** | 518 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | 2026-07-13 |
@@ -53,8 +53,8 @@ xberg-io/xberg：xberg-io/xberg helps connect AI assistants to real tools and da
 
 **Quality signals**
 
-- 8632 GitHub stars
-- 515 forks
+- 8639 GitHub stars
+- 518 forks
 - updated 2026-07-13
 - primary language: Rust
 - 20 topics

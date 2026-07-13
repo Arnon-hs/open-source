@@ -53,8 +53,8 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 **Quality signals**
 
-- 29260 GitHub stars
-- 2316 forks
+- 29341 GitHub stars
+- 2318 forks
 - updated 2026-07-13
 - primary language: TypeScript
 - 20 topics
