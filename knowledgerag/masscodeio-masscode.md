@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.9k |
-| 🍴 **Forks** | 259 |
+| 🍴 **Forks** | 260 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchab
 
 **Quality signals**
 
-- 6905 GitHub stars
-- 259 forks
-- updated 2026-07-12
+- 6913 GitHub stars
+- 260 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 17 topics
 
@@ -79,4 +79,4 @@ massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchab
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/massCodeIO/massCode) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/massCodeIO/massCode) · [← Back to Knowledgerag](./README.md)</sub>

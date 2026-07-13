@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 253 |
-| 🍴 **Forks** | 31 |
+| ⭐ **Stars** | 254 |
+| 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 
 **Quality signals**
 
-- 253 GitHub stars
-- 31 forks
-- updated 2026-07-10
+- 254 GitHub stars
+- 32 forks
+- updated 2026-07-13
 - primary language: Go
 - 14 topics
 
@@ -70,7 +70,7 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 | integration | 100/100 |
 | production | 83/100 |
 | outlook | 87/100 |
-| adoption | 47/100 |
+| adoption | 48/100 |
 | stars | 51/100 |
 | forks | 38/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/speakeasy-api/gram) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/speakeasy-api/gram) · [← Back to Mcp](./README.md)</sub>

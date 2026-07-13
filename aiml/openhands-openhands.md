@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 80.6k |
+| ⭐ **Stars** | 80.7k |
 | 🍴 **Forks** | 10.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
@@ -53,8 +53,8 @@ OpenHands/OpenHands：OpenHands/OpenHands helps add AI capability without starti
 
 **Quality signals**
 
-- 80606 GitHub stars
-- 10287 forks
+- 80652 GitHub stars
+- 10291 forks
 - updated 2026-07-13
 - primary language: Python
 - 9 topics

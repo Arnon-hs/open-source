@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ hyperdxio/hyperdx：hyperdxio/hyperdx helps ship user-facing interfaces with les
 
 **Quality signals**
 
-- 9659 GitHub stars
+- 9663 GitHub stars
 - 422 forks
-- updated 2026-07-10
+- updated 2026-07-13
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ hyperdxio/hyperdx：hyperdxio/hyperdx helps ship user-facing interfaces with les
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/hyperdxio/hyperdx) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/hyperdxio/hyperdx) · [← Back to Frontend](./README.md)</sub>

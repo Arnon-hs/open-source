@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SamurAIGPT/llm-wiki-agent](./samuraigpt-llm-wiki-agent.md) | ⭐ 3.2k | Python | 88/100 |
+| 1 | [massCodeIO/massCode](./masscodeio-masscode.md) | ⭐ 6.9k | TypeScript | 86/100 |
 
 ---
 

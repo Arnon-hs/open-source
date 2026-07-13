@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.6k |
+| ⭐ **Stars** | 27.7k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ topoteretes/cognee：topoteretes/cognee helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 27632 GitHub stars
-- 2743 forks
-- updated 2026-07-12
+- 27734 GitHub stars
+- 2745 forks
+- updated 2026-07-13
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ topoteretes/cognee：topoteretes/cognee helps turn isolated prompts and tools in
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/topoteretes/cognee) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/topoteretes/cognee) · [← Back to Orchestration](./README.md)</sub>

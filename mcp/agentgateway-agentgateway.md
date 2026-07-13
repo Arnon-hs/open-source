@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.8k |
-| 🍴 **Forks** | 631 |
+| 🍴 **Forks** | 634 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 
 **Quality signals**
 
-- 3775 GitHub stars
-- 631 forks
-- updated 2026-07-10
+- 3809 GitHub stars
+- 634 forks
+- updated 2026-07-13
 - primary language: Rust
 - 11 topics
 
@@ -66,7 +66,7 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 88/100 |
+| quality | 89/100 |
 | integration | 78/100 |
 | production | 84/100 |
 | outlook | 92/100 |
@@ -79,4 +79,4 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to Mcp](./README.md)</sub>

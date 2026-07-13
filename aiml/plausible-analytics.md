@@ -53,8 +53,8 @@ plausible/analytics：plausible/analytics helps add AI capability without starti
 
 **Quality signals**
 
-- 27692 GitHub stars
-- 1698 forks
+- 27695 GitHub stars
+- 1699 forks
 - updated 2026-07-13
 - primary language: Elixir
 - 20 topics

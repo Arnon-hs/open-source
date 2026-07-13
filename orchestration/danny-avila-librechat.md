@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40.6k |
+| ⭐ **Stars** | 40.7k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ danny-avila/LibreChat：danny-avila/LibreChat helps turn isolated prompts and to
 
 **Quality signals**
 
-- 40585 GitHub stars
-- 8331 forks
-- updated 2026-07-11
+- 40670 GitHub stars
+- 8343 forks
+- updated 2026-07-13
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ danny-avila/LibreChat：danny-avila/LibreChat helps turn isolated prompts and to
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/danny-avila/LibreChat) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/danny-avila/LibreChat) · [← Back to Orchestration](./README.md)</sub>

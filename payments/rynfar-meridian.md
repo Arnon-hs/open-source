@@ -53,7 +53,7 @@ rynfar/meridian：rynfar/meridian helps integrate monetization, billing, or PSP 
 
 **Quality signals**
 
-- 1653 GitHub stars
+- 1659 GitHub stars
 - 189 forks
 - updated 2026-07-13
 - primary language: TypeScript
@@ -71,7 +71,7 @@ rynfar/meridian：rynfar/meridian helps integrate monetization, billing, or PSP 
 | production | 85/100 |
 | outlook | 91/100 |
 | adoption | 65/100 |
-| stars | 68/100 |
+| stars | 69/100 |
 | forks | 57/100 |
 | recency | 100/100 |
 | topics | 100/100 |

@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kptdev/kpt](./kptdev-kpt.md) | ⭐ 1.9k | Go | 87/100 |
-| 2 | [cloudquery/cloudquery](./cloudquery-cloudquery.md) | ⭐ 6.5k | Go | 86/100 |
+| 1 | [OpenHands/OpenHands](./openhands-openhands.md) | ⭐ 80.7k | Python | 88/100 |
+| 2 | [iii-hq/iii](./iii-hq-iii.md) | ⭐ 18.4k | Rust | 88/100 |
 | 3 | [plausible/analytics](./plausible-analytics.md) | ⭐ 27.7k | Elixir | 86/100 |
 | 4 | [Kilo-Org/kilocode](./kilo-org-kilocode.md) | ⭐ 26.1k | TypeScript | 86/100 |
 | 5 | [langgenius/dify](./langgenius-dify.md) | ⭐ 138.6k | TypeScript | 85/100 |

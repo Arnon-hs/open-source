@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **15** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -20,34 +20,35 @@
 |---|---|---|
 | 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 💳 **Payments** | 2 | [Browse →](./payments/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.3k | Mcp |
-| 2 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.4k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 4 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
-| 5 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.6k | Orchestration |
-| 6 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 6.1k | Orchestration |
-| 7 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.6k | Orchestration |
-| 8 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 26.8k | Orchestration |
-| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.9k | Orchestration |
-| 10 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.7k | Orchestration |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 58.9k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 196.3k | Mcp |
+| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 53.4k | Orchestration |
+| 4 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 40.7k | Orchestration |
+| 5 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4.1k | Mcp |
+| 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.6k | Orchestration |
+| 7 | [nexu-io/open-design](./orchestration/nexu-io-open-design.md) | ⭐ 77.8k | Orchestration |
+| 8 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 76.9k | Orchestration |
+| 9 | [wonderwhy-er/DesktopCommanderMCP](./mcp/wonderwhy-er-desktopcommandermcp.md) | ⭐ 8.2k | Mcp |
+| 10 | [skyhook-io/radar](./mcp/skyhook-io-radar.md) | ⭐ 2.6k | Mcp |
 
 ## 🚀 How it works
 

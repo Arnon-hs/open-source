@@ -53,7 +53,7 @@ webiny/webiny-js：webiny/webiny-js helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 8013 GitHub stars
+- 8012 GitHub stars
 - 674 forks
 - updated 2026-07-13
 - primary language: TypeScript
