@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 447 |
+| 🍴 **Forks** | 446 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ hatchet-dev/hatchet：hatchet-dev/hatchet helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 7488 GitHub stars
-- 447 forks
-- updated 2026-07-10
+- 7499 GitHub stars
+- 446 forks
+- updated 2026-07-13
 - primary language: Go
 - 13 topics
 
@@ -79,4 +79,4 @@ hatchet-dev/hatchet：hatchet-dev/hatchet helps turn isolated prompts and tools 
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/hatchet-dev/hatchet) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/hatchet-dev/hatchet) · [← Back to Orchestration](./README.md)</sub>

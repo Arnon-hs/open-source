@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 113 |
+| ⭐ **Stars** | 1.9k |
+| 🍴 **Forks** | 119 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
 | 🗓️ **Last push** | 2026-07-13 |
@@ -53,8 +53,8 @@ oomol-lab/open-connector：oomol-lab/open-connector helps connect AI assistants 
 
 **Quality signals**
 
-- 1770 GitHub stars
-- 113 forks
+- 1854 GitHub stars
+- 119 forks
 - updated 2026-07-13
 - primary language: TypeScript
 - 18 topics
@@ -70,9 +70,9 @@ oomol-lab/open-connector：oomol-lab/open-connector helps connect AI assistants 
 | integration | 100/100 |
 | production | 85/100 |
 | outlook | 91/100 |
-| adoption | 64/100 |
-| stars | 69/100 |
-| forks | 51/100 |
+| adoption | 65/100 |
+| stars | 70/100 |
+| forks | 52/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

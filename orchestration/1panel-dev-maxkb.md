@@ -53,8 +53,8 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 **Quality signals**
 
-- 22064 GitHub stars
-- 2995 forks
+- 22075 GitHub stars
+- 2998 forks
 - updated 2026-07-13
 - primary language: Python
 - 14 topics

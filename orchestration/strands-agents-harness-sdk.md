@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.5k |
-| 🍴 **Forks** | 941 |
+| ⭐ **Stars** | 6.6k |
+| 🍴 **Forks** | 946 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ strands-agents/harness-sdk：strands-agents/harness-sdk helps turn isolated prom
 
 **Quality signals**
 
-- 6525 GitHub stars
-- 941 forks
-- updated 2026-07-11
+- 6552 GitHub stars
+- 946 forks
+- updated 2026-07-13
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ strands-agents/harness-sdk：strands-agents/harness-sdk helps turn isolated prom
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/strands-agents/harness-sdk) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/strands-agents/harness-sdk) · [← Back to Orchestration](./README.md)</sub>

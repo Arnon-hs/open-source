@@ -53,7 +53,7 @@ skyhook-io/radar：skyhook-io/radar helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 2555 GitHub stars
+- 2558 GitHub stars
 - 139 forks
 - updated 2026-07-13
 - primary language: Go

@@ -53,7 +53,7 @@ deepset-ai/haystack：deepset-ai/haystack helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 25880 GitHub stars
+- 25882 GitHub stars
 - 2919 forks
 - updated 2026-07-13
 - primary language: MDX

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-10 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ SoftInstigate/restheart：SoftInstigate/restheart helps connect AI assistants to
 
 - 880 GitHub stars
 - 177 forks
-- updated 2026-07-10
+- updated 2026-07-13
 - primary language: Java
 - 18 topics
 
@@ -79,4 +79,4 @@ SoftInstigate/restheart：SoftInstigate/restheart helps connect AI assistants to
 
 ---
 
-<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/SoftInstigate/restheart) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/SoftInstigate/restheart) · [← Back to Mcp](./README.md)</sub>

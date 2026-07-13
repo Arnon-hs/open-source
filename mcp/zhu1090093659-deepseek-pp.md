@@ -53,7 +53,7 @@ zhu1090093659/deepseek-pp：zhu1090093659/deepseek-pp helps connect AI assistant
 
 **Quality signals**
 
-- 1238 GitHub stars
+- 1241 GitHub stars
 - 162 forks
 - updated 2026-07-13
 - primary language: TypeScript

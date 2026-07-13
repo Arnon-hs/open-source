@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 886 |
+| 🍴 **Forks** | 890 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatabl
 
 **Quality signals**
 
-- 6084 GitHub stars
-- 886 forks
-- updated 2026-07-12
+- 6102 GitHub stars
+- 890 forks
+- updated 2026-07-13
 - primary language: Python
 - 9 topics
 
@@ -79,4 +79,4 @@ xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatabl
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/xerrors/Yuxi) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/xerrors/Yuxi) · [← Back to Orchestration](./README.md)</sub>

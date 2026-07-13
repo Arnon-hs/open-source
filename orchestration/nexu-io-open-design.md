@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 77.6k |
+| ⭐ **Stars** | 77.7k |
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 91/100 |
@@ -53,8 +53,8 @@ nexu-io/open-design：nexu-io/open-design helps turn isolated prompts and tools 
 
 **Quality signals**
 
-- 77644 GitHub stars
-- 8890 forks
+- 77714 GitHub stars
+- 8899 forks
 - updated 2026-07-13
 - primary language: TypeScript
 - 20 topics
