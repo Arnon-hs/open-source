@@ -1,3 +1,5 @@
+
+
 # 🌟 Open Scout Catalog
 
 > Auto-curated catalog of promising open-source projects.
@@ -70,6 +72,7 @@ graph LR
 
 ```bash
 git clone https://github.com/kirbudilov01/reposearchengine
+cd reposearchengine
 cp .env.example .env
 # Set LLM_PROVIDER, CATALOG_REPO_PATH, DATABASE_URL, ...
 npm install && npm start
