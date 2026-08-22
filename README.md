@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32654** |
+| 🗂️ **Total projects** | **32696** |
 | 📁 **Categories** | **26** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -19,22 +19,22 @@
 | Category | Projects | |
 |---|---|---|
 | 🤖 **AI/ML** | 9245 | [Browse →](./aiml/) |
-| 📦 **Misc** | 6669 | [Browse →](./misc/) |
+| 📦 **Misc** | 6690 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 2891 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 2314 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 2070 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2073 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 1540 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1397 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1400 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 1246 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 1052 | [Browse →](./crypto/) |
 | 🏷️ **Knowledgerag** | 779 | [Browse →](./knowledgerag/) |
-| 🏷️ **Database** | 686 | [Browse →](./database/) |
+| 🏷️ **Database** | 687 | [Browse →](./database/) |
 | 📊 **Data** | 664 | [Browse →](./data/) |
 | 📈 **Trading** | 367 | [Browse →](./trading/) |
+| 📱 **Mobile** | 365 | [Browse →](./mobile/) |
 | 💳 **Payments** | 365 | [Browse →](./payments/) |
-| 📱 **Mobile** | 364 | [Browse →](./mobile/) |
 | 🚀 **DevOps & Infra** | 227 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 205 | [Browse →](./security/) |
+| 🔐 **Security** | 206 | [Browse →](./security/) |
 | 🏷️ **Education** | 145 | [Browse →](./education/) |
 | 🏷️ **Observability** | 117 | [Browse →](./observability/) |
 | ✨ **Design** | 115 | [Browse →](./design/) |
@@ -42,7 +42,7 @@
 | 🏷️ **Marketing** | 55 | [Browse →](./marketing/) |
 | 🏷️ **Vertical-video** | 37 | [Browse →](./vertical-video/) |
 | 🏷️ **Video-editing** | 30 | [Browse →](./video-editing/) |
-| 🏷️ **Content-creation** | 9 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 19 | [Browse →](./content-creation/) |
 | 🏷️ **Templates** | 4 | [Browse →](./templates/) |
 
 ## 🔥 Top 10 by score

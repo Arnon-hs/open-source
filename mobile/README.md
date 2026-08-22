@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**364 projects** in this category.
+**365 projects** in this category.
 
 ## Projects
 
@@ -82,8 +82,8 @@
 | 72 | [wordpress-mobile/WordPress-iOS](./wordpress-mobile-wordpress-ios.md) | ⭐ 3.9k | Swift | 62/100 |
 | 73 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 4.2k | Kotlin | 62/100 |
 | 74 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.4k | Kotlin | 62/100 |
-| 75 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
-| 76 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
+| 75 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
+| 76 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
 | 77 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 8.4k | Java | 62/100 |
 | 78 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 62/100 |
 | 79 | [gorules/zen](./gorules-zen.md) | ⭐ 1.8k | Rust | 62/100 |
@@ -150,8 +150,8 @@
 | 140 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 59/100 |
 | 141 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 793 | Kotlin | 59/100 |
 | 142 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 59/100 |
-| 143 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
-| 144 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
+| 143 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
+| 144 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
 | 145 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 58/100 |
 | 146 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 465 | Kotlin | 58/100 |
 | 147 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 2.1k | Kotlin | 58/100 |
@@ -318,60 +318,61 @@
 | 308 | [DowneyRem/PixivSource](./downeyrem-pixivsource.md) | ⭐ 838 | JavaScript | 45/100 |
 | 309 | [bitwarden/ios](./bitwarden-ios.md) | ⭐ 585 | Swift | 45/100 |
 | 310 | [a1ive/nwinfo](./a1ive-nwinfo.md) | ⭐ 546 | C | 45/100 |
-| 311 | [synchancybersecurity/Crimson-Cloak-ISH-wrapper-iOS-](./synchancybersecurity-crimson-cloak-ish-wrapper-ios-.md) | ⭐ — | — | 45/100 |
-| 312 | [paralevel/extract-ios-backups-from-terminal](./paralevel-extract-ios-backups-from-terminal.md) | ⭐ — | — | 45/100 |
-| 313 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 44/100 |
-| 314 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 44/100 |
-| 315 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 44/100 |
-| 316 | [fordnox/d8574b7ccacf8950b241f3ae22d967af](./fordnox-d8574b7ccacf8950b241f3ae22d967af.md) | ⭐ — | — | 44/100 |
-| 317 | [notune/TextGrab](./notune-textgrab.md) | ⭐ — | — | 44/100 |
-| 318 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 43/100 |
-| 319 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 43/100 |
-| 320 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 43/100 |
-| 321 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 43/100 |
-| 322 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 43/100 |
-| 323 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 519 | Swift | 43/100 |
-| 324 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 42/100 |
-| 325 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 41/100 |
-| 326 | [ggcaponetto/point-bang](./ggcaponetto-point-bang.md) | ⭐ — | — | 41/100 |
-| 327 | [scastiel/kado](./scastiel-kado.md) | ⭐ — | — | 41/100 |
-| 328 | [wmww/tawc](./wmww-tawc.md) | ⭐ — | — | 41/100 |
-| 329 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ — | — | 41/100 |
-| 330 | [kosuke55/drawtonomy](./kosuke55-drawtonomy.md) | ⭐ — | — | 41/100 |
-| 331 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ — | — | 41/100 |
-| 332 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ — | — | 41/100 |
-| 333 | [StephaneV/Risk-Analysis-Editor](./stephanev-risk-analysis-editor.md) | ⭐ — | — | 41/100 |
-| 334 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ — | — | 41/100 |
-| 335 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ — | — | 41/100 |
-| 336 | [mokshablr/gander](./mokshablr-gander.md) | ⭐ — | — | 41/100 |
-| 337 | [usedowe/dowe-lang](./usedowe-dowe-lang.md) | ⭐ — | — | 41/100 |
-| 338 | [ghaziwali/Hulios](./ghaziwali-hulios.md) | ⭐ — | — | 41/100 |
-| 339 | [aditauqir/fyp](./aditauqir-fyp.md) | ⭐ — | — | 41/100 |
-| 340 | [50YearsPhone/vision-50-years-phone](./50yearsphone-vision-50-years-phone.md) | ⭐ — | — | 41/100 |
-| 341 | [sakai-sktech/koime](./sakai-sktech-koime.md) | ⭐ — | — | 41/100 |
-| 342 | [openfde/openfde](./openfde-openfde.md) | ⭐ — | — | 41/100 |
-| 343 | [hsandhu/serve-avd](./hsandhu-serve-avd.md) | ⭐ — | — | 41/100 |
-| 344 | [auxiliaryutils/deskpad-app](./auxiliaryutils-deskpad-app.md) | ⭐ — | — | 41/100 |
-| 345 | [ivancernja/crate](./ivancernja-crate.md) | ⭐ — | — | 41/100 |
-| 346 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ — | — | 41/100 |
-| 347 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ — | — | 41/100 |
-| 348 | [welcome-to-the-sunny-side/misa77](./welcome-to-the-sunny-side-misa77.md) | ⭐ — | — | 41/100 |
-| 349 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 41/100 |
-| 350 | [dk8827/ra-port](./dk8827-ra-port.md) | ⭐ — | — | 41/100 |
-| 351 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 41/100 |
-| 352 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 41/100 |
-| 353 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 41/100 |
-| 354 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 41/100 |
-| 355 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 41/100 |
-| 356 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 41/100 |
-| 357 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 41/100 |
-| 358 | [ahatem/IoskeleyMono](./ahatem-ioskeleymono.md) | ⭐ — | — | 41/100 |
-| 359 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
-| 360 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 40/100 |
-| 361 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 40/100 |
-| 362 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 40/100 |
-| 363 | [owntracks/android](./owntracks-android.md) | ⭐ — | — | 40/100 |
-| 364 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
+| 311 | [hsandhu/agent](./hsandhu-agent.md) | ⭐ — | — | 45/100 |
+| 312 | [synchancybersecurity/Crimson-Cloak-ISH-wrapper-iOS-](./synchancybersecurity-crimson-cloak-ish-wrapper-ios-.md) | ⭐ — | — | 45/100 |
+| 313 | [paralevel/extract-ios-backups-from-terminal](./paralevel-extract-ios-backups-from-terminal.md) | ⭐ — | — | 45/100 |
+| 314 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 44/100 |
+| 315 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 44/100 |
+| 316 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 44/100 |
+| 317 | [fordnox/d8574b7ccacf8950b241f3ae22d967af](./fordnox-d8574b7ccacf8950b241f3ae22d967af.md) | ⭐ — | — | 44/100 |
+| 318 | [notune/TextGrab](./notune-textgrab.md) | ⭐ — | — | 44/100 |
+| 319 | [hrzlgnm/mdns-browser](./hrzlgnm-mdns-browser.md) | ⭐ 161 | Rust | 43/100 |
+| 320 | [NuvioMedia/NuvioTV](./nuviomedia-nuviotv.md) | ⭐ 1.3k | Kotlin | 43/100 |
+| 321 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 539 | Dart | 43/100 |
+| 322 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 357 | Swift | 43/100 |
+| 323 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 43/100 |
+| 324 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 519 | Swift | 43/100 |
+| 325 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 777 | Swift | 42/100 |
+| 326 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 232 | Dart | 41/100 |
+| 327 | [ggcaponetto/point-bang](./ggcaponetto-point-bang.md) | ⭐ — | — | 41/100 |
+| 328 | [scastiel/kado](./scastiel-kado.md) | ⭐ — | — | 41/100 |
+| 329 | [wmww/tawc](./wmww-tawc.md) | ⭐ — | — | 41/100 |
+| 330 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ — | — | 41/100 |
+| 331 | [kosuke55/drawtonomy](./kosuke55-drawtonomy.md) | ⭐ — | — | 41/100 |
+| 332 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ — | — | 41/100 |
+| 333 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ — | — | 41/100 |
+| 334 | [StephaneV/Risk-Analysis-Editor](./stephanev-risk-analysis-editor.md) | ⭐ — | — | 41/100 |
+| 335 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ — | — | 41/100 |
+| 336 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ — | — | 41/100 |
+| 337 | [mokshablr/gander](./mokshablr-gander.md) | ⭐ — | — | 41/100 |
+| 338 | [usedowe/dowe-lang](./usedowe-dowe-lang.md) | ⭐ — | — | 41/100 |
+| 339 | [ghaziwali/Hulios](./ghaziwali-hulios.md) | ⭐ — | — | 41/100 |
+| 340 | [aditauqir/fyp](./aditauqir-fyp.md) | ⭐ — | — | 41/100 |
+| 341 | [50YearsPhone/vision-50-years-phone](./50yearsphone-vision-50-years-phone.md) | ⭐ — | — | 41/100 |
+| 342 | [sakai-sktech/koime](./sakai-sktech-koime.md) | ⭐ — | — | 41/100 |
+| 343 | [openfde/openfde](./openfde-openfde.md) | ⭐ — | — | 41/100 |
+| 344 | [hsandhu/serve-avd](./hsandhu-serve-avd.md) | ⭐ — | — | 41/100 |
+| 345 | [auxiliaryutils/deskpad-app](./auxiliaryutils-deskpad-app.md) | ⭐ — | — | 41/100 |
+| 346 | [ivancernja/crate](./ivancernja-crate.md) | ⭐ — | — | 41/100 |
+| 347 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ — | — | 41/100 |
+| 348 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ — | — | 41/100 |
+| 349 | [welcome-to-the-sunny-side/misa77](./welcome-to-the-sunny-side-misa77.md) | ⭐ — | — | 41/100 |
+| 350 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 41/100 |
+| 351 | [dk8827/ra-port](./dk8827-ra-port.md) | ⭐ — | — | 41/100 |
+| 352 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 41/100 |
+| 353 | [mattkae/layer_shell.dart](./mattkae-layer-shell.dart.md) | ⭐ — | — | 41/100 |
+| 354 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 41/100 |
+| 355 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 41/100 |
+| 356 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 41/100 |
+| 357 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 41/100 |
+| 358 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 41/100 |
+| 359 | [ahatem/IoskeleyMono](./ahatem-ioskeleymono.md) | ⭐ — | — | 41/100 |
+| 360 | [Dylanmurzello/zed-android-port](./dylanmurzello-zed-android-port.md) | ⭐ — | — | 41/100 |
+| 361 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 423 | Swift | 40/100 |
+| 362 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 40/100 |
+| 363 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 40/100 |
+| 364 | [owntracks/android](./owntracks-android.md) | ⭐ — | — | 40/100 |
+| 365 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
 
 ---
 
