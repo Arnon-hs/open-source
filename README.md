@@ -5,6 +5,16 @@
 
 ---
 
+## 🧭 AtlasRepo community solutions
+
+Curated, runnable solutions maintained separately from the auto-scored discovery catalog below.
+
+| Solution | What it solves | Repository |
+|---|---|---|
+| [Music Video Generator](./solutions/music-video/) | Generate instrumental tracks or a one-hour same-genre playlist video, monitor progress in a browser, and prepare a private Postiz draft | [Arnon-hs/music-video](https://github.com/Arnon-hs/music-video) |
+
+[Browse all community solutions →](./solutions/)
+
 ## 📊 At a glance
 
 | | |
