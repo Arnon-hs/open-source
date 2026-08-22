@@ -1,7 +1,22 @@
-# 🌟 Open Scout Catalog
+<div align="center">
 
-> Auto-curated catalog of promising open-source projects.
-> Scouted from GitHub · HackerNews · Reddit · ProductHunt. Updated every 30 minutes by [RepoScout](https://github.com/kirbudilov01/reposearchengine).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/atlasrepo-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/atlasrepo-logo.svg">
+  <img alt="AtlasRepo" src="./assets/atlasrepo-logo.svg" width="320">
+</picture>
+
+# Open Source Catalog
+
+**Discover promising open-source projects and practical community solutions with evidence, not hype.**
+
+[Website](https://atlasrepo.com/) · [Forum](https://forum.atlasrepo.com/) · [Videos & demos](https://www.youtube.com/@ATLASREPO) · [Community solutions](./solutions/)
+
+![Catalog](https://img.shields.io/badge/catalog-auto--synced-2A4BFF) ![Solutions](https://img.shields.io/badge/solutions-community--curated-00A7E1) ![Languages](https://img.shields.io/badge/summaries-EN%20%7C%20RU%20%7C%20ZH-475569)
+
+</div>
+
+> RepoScout discovers projects from GitHub, Hacker News, Reddit, and Product Hunt, then refreshes this catalog every 30 minutes. Community solutions are curated separately and do not receive a made-up score.
 
 ---
 
@@ -9,9 +24,10 @@
 
 Curated, runnable solutions maintained separately from the auto-scored discovery catalog below.
 
-| Solution | What it solves | Repository |
-|---|---|---|
-| [Music Video Generator](./solutions/music-video/) | Generate instrumental tracks or a one-hour same-genre playlist video, monitor progress in a browser, and prepare a private Postiz draft | [Arnon-hs/music-video](https://github.com/Arnon-hs/music-video) |
+| Solution | What it solves | Repository | Community |
+|---|---|---|---|
+| [Music Video Generator](./solutions/music-video/) | Generate instrumental tracks or a one-hour same-genre playlist video, monitor progress in a browser, and prepare a private Postiz draft | [Arnon-hs/music-video](https://github.com/Arnon-hs/music-video) | AtlasRepo |
+| [Codex Watch Bridge](./solutions/codex-watch-bridge/) | Run and monitor real Codex tasks from an Apple Watch through a Mac bridge | [kirbudilov01/codex-watch-bridge](https://github.com/kirbudilov01/codex-watch-bridge) | Community partner · [@kirbudilov01](https://github.com/kirbudilov01) |
 
 [Browse all community solutions →](./solutions/)
 
@@ -99,4 +115,4 @@ MIT (metadata). Each linked repository retains its own license.
 
 ---
 
-<sub>🤖 Maintained automatically by RepoScout · Built with Claude Code</sub>
+<sub>Part of [AtlasRepo](https://atlasrepo.com/) · Catalog maintained automatically by RepoScout · Community solutions reviewed separately</sub>

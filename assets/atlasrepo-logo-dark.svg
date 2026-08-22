@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128" role="img" aria-label="AtlasRepo">
+  <defs><linearGradient id="brand" x1="8" y1="6" x2="120" y2="122" gradientUnits="userSpaceOnUse"><stop stop-color="#2A4BFF"/><stop offset="1" stop-color="#00B2FF"/></linearGradient></defs>
+  <rect x="8" y="8" width="112" height="112" rx="32" fill="url(#brand)"/>
+  <path d="M64 24 98 104H80l-7-17H55l-7 17H30L64 24Zm0 24-6 21h12l-6-21Z" fill="#FFFFFF"/>
+  <text x="148" y="80" fill="#F8FAFC" font-family="Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="5">ATLASREPO</text>
+</svg>
