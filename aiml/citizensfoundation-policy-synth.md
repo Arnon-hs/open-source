@@ -1,6 +1,6 @@
 # CitizensFoundation/policy-synth
 
-[![Stars](https://img.shields.io/github/stars/CitizensFoundation/policy-synth?style=flat-square&color=yellow)](https://github.com/CitizensFoundation/policy-synth/stargazers) [![Forks](https://img.shields.io/github/forks/CitizensFoundation/policy-synth?style=flat-square&color=blue)](https://github.com/CitizensFoundation/policy-synth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CitizensFoundation/policy-synth?style=flat-square&color=yellow)](https://github.com/CitizensFoundation/policy-synth/stargazers) [![Forks](https://img.shields.io/github/forks/CitizensFoundation/policy-synth?style=flat-square&color=blue)](https://github.com/CitizensFoundation/policy-synth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Policy Synth is a TypeScript class library designed to streamline and enhance decision-making processes through multi-scale AI agent logic flow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ CitizensFoundation/policy-synth：CitizensFoundation/policy-synth helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 46/100 |
-| production | 48/100 |
-| outlook | 44/100 |
+| production | 41/100 |
+| outlook | 37/100 |
 | adoption | 33/100 |
 | stars | 37/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

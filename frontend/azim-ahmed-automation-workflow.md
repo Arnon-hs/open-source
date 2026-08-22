@@ -1,6 +1,6 @@
 # Azim-Ahmed/Automation-workflow
 
-[![Stars](https://img.shields.io/github/stars/Azim-Ahmed/Automation-workflow?style=flat-square&color=yellow)](https://github.com/Azim-Ahmed/Automation-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/Azim-Ahmed/Automation-workflow?style=flat-square&color=blue)](https://github.com/Azim-Ahmed/Automation-workflow/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azim-Ahmed/Automation-workflow?style=flat-square&color=yellow)](https://github.com/Azim-Ahmed/Automation-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/Azim-Ahmed/Automation-workflow?style=flat-square&color=blue)](https://github.com/Azim-Ahmed/Automation-workflow/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > React flow Examples with Workflow automations and others examples in one repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Azim-Ahmed/Automation-workflow — это открытый репозитор�
 
 ### 中文
 
-Azim-Ahmed/Automation-workflow：Azim-Ahmed/Automation-workflow helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Azim-Ahmed/Automation-workflow：Azim-Ahmed/Automation-workflow helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Azim-Ahmed/Automation-workflow：Azim-Ahmed/Automation-workflow helps ship user-
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ Azim-Ahmed/Automation-workflow：Azim-Ahmed/Automation-workflow helps ship user-
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
+| usefulness | 90/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 62/100 |
+| production | 47/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

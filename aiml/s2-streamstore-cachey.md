@@ -1,6 +1,6 @@
 # s2-streamstore/cachey
 
-[![Stars](https://img.shields.io/github/stars/s2-streamstore/cachey?style=flat-square&color=yellow)](https://github.com/s2-streamstore/cachey/stargazers) [![Forks](https://img.shields.io/github/forks/s2-streamstore/cachey?style=flat-square&color=blue)](https://github.com/s2-streamstore/cachey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s2-streamstore/cachey?style=flat-square&color=yellow)](https://github.com/s2-streamstore/cachey/stargazers) [![Forks](https://img.shields.io/github/forks/s2-streamstore/cachey?style=flat-square&color=blue)](https://github.com/s2-streamstore/cachey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Read-through cache for object storage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 586 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ s2-streamstore/cachey：s2-streamstore/cachey helps add AI capability without st
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 48/100 |
+| production | 42/100 |
+| outlook | 41/100 |
 | adoption | 50/100 |
 | stars | 59/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

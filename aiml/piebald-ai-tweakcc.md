@@ -1,6 +1,6 @@
 # Piebald-AI/tweakcc
 
-[![Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc?style=flat-square&color=yellow)](https://github.com/Piebald-AI/tweakcc/stargazers) [![Forks](https://img.shields.io/github/forks/Piebald-AI/tweakcc?style=flat-square&color=blue)](https://github.com/Piebald-AI/tweakcc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Piebald-AI/tweakcc?style=flat-square&color=yellow)](https://github.com/Piebald-AI/tweakcc/stargazers) [![Forks](https://img.shields.io/github/forks/Piebald-AI/tweakcc?style=flat-square&color=blue)](https://github.com/Piebald-AI/tweakcc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ Piebald-AI/tweakcc：Piebald-AI/tweakcc helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Azure/terraform
 
-[![Stars](https://img.shields.io/github/stars/Azure/terraform?style=flat-square&color=yellow)](https://github.com/Azure/terraform/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/terraform?style=flat-square&color=blue)](https://github.com/Azure/terraform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/terraform?style=flat-square&color=yellow)](https://github.com/Azure/terraform/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/terraform?style=flat-square&color=blue)](https://github.com/Azure/terraform/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Source code for the Azure Marketplace Terraform development VM package.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 908 |
 | 🍴 **Forks** | 917 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Azure/terraform provides the source code for a ready‑to‑use development virt
 
 ### 中文
 
-Azure/terraform：Azure/terraform helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Azure/terraform：Azure/terraform helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Azure/terraform：Azure/terraform helps make deployment and operations more repe
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Azure/terraform：Azure/terraform helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 66/100 |
 | stars | 63/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

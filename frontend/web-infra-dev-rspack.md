@@ -1,6 +1,6 @@
 # web-infra-dev/rspack
 
-[![Stars](https://img.shields.io/github/stars/web-infra-dev/rspack?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rspack/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rspack?style=flat-square&color=blue)](https://github.com/web-infra-dev/rspack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-infra-dev/rspack?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rspack/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rspack?style=flat-square&color=blue)](https://github.com/web-infra-dev/rspack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Rust-based bundler for the web with a modernized webpack API 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 797 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ web-infra-dev/rspack：web-infra-dev/rspack helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 83/100 |
 | stars | 87/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # karinushka/paneru
 
-[![Stars](https://img.shields.io/github/stars/karinushka/paneru?style=flat-square&color=yellow)](https://github.com/karinushka/paneru/stargazers) [![Forks](https://img.shields.io/github/forks/karinushka/paneru?style=flat-square&color=blue)](https://github.com/karinushka/paneru/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karinushka/paneru?style=flat-square&color=yellow)](https://github.com/karinushka/paneru/stargazers) [![Forks](https://img.shields.io/github/forks/karinushka/paneru?style=flat-square&color=blue)](https://github.com/karinushka/paneru/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A sliding, tiling window manager for MacOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ karinushka/paneru：karinushka/paneru may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 60/100 |
 | stars | 67/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

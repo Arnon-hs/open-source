@@ -1,6 +1,6 @@
 # kubernetes-sigs/krew-index
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/krew-index?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/krew-index/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/krew-index?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/krew-index/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/krew-index?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/krew-index/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/krew-index?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/krew-index/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Plugin index for https://github.com/kubernetes-sigs/krew. This repo is for plugin maintainers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ kubernetes-sigs/krew-index：kubernetes-sigs/krew-index helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 56/100 |
+| production | 53/100 |
+| outlook | 49/100 |
 | adoption | 63/100 |
 | stars | 60/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jkawamoto/mcp-youtube-transcript
 
-[![Stars](https://img.shields.io/github/stars/jkawamoto/mcp-youtube-transcript?style=flat-square&color=yellow)](https://github.com/jkawamoto/mcp-youtube-transcript/stargazers) [![Forks](https://img.shields.io/github/forks/jkawamoto/mcp-youtube-transcript?style=flat-square&color=blue)](https://github.com/jkawamoto/mcp-youtube-transcript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jkawamoto/mcp-youtube-transcript?style=flat-square&color=yellow)](https://github.com/jkawamoto/mcp-youtube-transcript/stargazers) [![Forks](https://img.shields.io/github/forks/jkawamoto/mcp-youtube-transcript?style=flat-square&color=blue)](https://github.com/jkawamoto/mcp-youtube-transcript/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server retrieving transcripts of YouTube videos
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MCP‑YouTube‑Transcript is a lightweight backend service that fetches and ser
 
 ### 中文
 
-jkawamoto/mcp-youtube-transcript：jkawamoto/mcp-youtube-transcript helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jkawamoto/mcp-youtube-transcript：jkawamoto/mcp-youtube-transcript helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jkawamoto/mcp-youtube-transcript：jkawamoto/mcp-youtube-transcript helps teams 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jkawamoto/mcp-youtube-transcript：jkawamoto/mcp-youtube-transcript helps teams 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

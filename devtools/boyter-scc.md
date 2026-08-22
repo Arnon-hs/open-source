@@ -1,6 +1,6 @@
 # boyter/scc
 
-[![Stars](https://img.shields.io/github/stars/boyter/scc?style=flat-square&color=yellow)](https://github.com/boyter/scc/stargazers) [![Forks](https://img.shields.io/github/forks/boyter/scc?style=flat-square&color=blue)](https://github.com/boyter/scc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boyter/scc?style=flat-square&color=yellow)](https://github.com/boyter/scc/stargazers) [![Forks](https://img.shields.io/github/forks/boyter/scc?style=flat-square&color=blue)](https://github.com/boyter/scc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ boyter/scc：boyter/scc helps engineers save time in daily development and revie
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 78/100 |
 | stars | 83/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

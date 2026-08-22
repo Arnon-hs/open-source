@@ -1,6 +1,6 @@
 # max-sixty/worktrunk
 
-[![Stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=flat-square&color=yellow)](https://github.com/max-sixty/worktrunk/stargazers) [![Forks](https://img.shields.io/github/forks/max-sixty/worktrunk?style=flat-square&color=blue)](https://github.com/max-sixty/worktrunk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=flat-square&color=yellow)](https://github.com/max-sixty/worktrunk/stargazers) [![Forks](https://img.shields.io/github/forks/max-sixty/worktrunk?style=flat-square&color=blue)](https://github.com/max-sixty/worktrunk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ max-sixty/worktrunk：max-sixty/worktrunk helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 70/100 |
+| production | 51/100 |
+| outlook | 63/100 |
 | adoption | 72/100 |
 | stars | 79/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

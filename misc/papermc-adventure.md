@@ -1,6 +1,6 @@
 # PaperMC/adventure
 
-[![Stars](https://img.shields.io/github/stars/PaperMC/adventure?style=flat-square&color=yellow)](https://github.com/PaperMC/adventure/stargazers) [![Forks](https://img.shields.io/github/forks/PaperMC/adventure?style=flat-square&color=blue)](https://github.com/PaperMC/adventure/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaperMC/adventure?style=flat-square&color=yellow)](https://github.com/PaperMC/adventure/stargazers) [![Forks](https://img.shields.io/github/forks/PaperMC/adventure?style=flat-square&color=blue)](https://github.com/PaperMC/adventure/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A user-interface library for Minecraft: Java Edition
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PaperMC /adventure — это кроссплатформенная библ�
 
 ### 中文
 
-PaperMC/adventure：PaperMC/adventure may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+PaperMC/adventure：PaperMC/adventure may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ PaperMC/adventure：PaperMC/adventure may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ PaperMC/adventure：PaperMC/adventure may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

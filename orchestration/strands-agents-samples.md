@@ -1,6 +1,6 @@
 # strands-agents/samples
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/samples?style=flat-square&color=yellow)](https://github.com/strands-agents/samples/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/samples?style=flat-square&color=blue)](https://github.com/strands-agents/samples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/samples?style=flat-square&color=yellow)](https://github.com/strands-agents/samples/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/samples?style=flat-square&color=blue)](https://github.com/strands-agents/samples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Agent samples built using the Strands Agents SDK.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ strands-agents/samples：strands-agents/samples helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

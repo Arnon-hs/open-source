@@ -1,6 +1,6 @@
 # proxysoul/soulforge
 
-[![Stars](https://img.shields.io/github/stars/proxysoul/soulforge?style=flat-square&color=yellow)](https://github.com/proxysoul/soulforge/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/soulforge?style=flat-square&color=blue)](https://github.com/proxysoul/soulforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/proxysoul/soulforge?style=flat-square&color=yellow)](https://github.com/proxysoul/soulforge/stargazers) [![Forks](https://img.shields.io/github/forks/proxysoul/soulforge?style=flat-square&color=blue)](https://github.com/proxysoul/soulforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Graph-powered code intelligence, multi-agent coding with codebase-aware AI. No more grep & pray
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ proxysoul/soulforge：proxysoul/soulforge helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 54/100 |
 | stars | 60/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

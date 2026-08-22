@@ -1,6 +1,6 @@
 # tangly1024/NotionNext
 
-[![Stars](https://img.shields.io/github/stars/tangly1024/NotionNext?style=flat-square&color=yellow)](https://github.com/tangly1024/NotionNext/stargazers) [![Forks](https://img.shields.io/github/forks/tangly1024/NotionNext?style=flat-square&color=blue)](https://github.com/tangly1024/NotionNext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tangly1024/NotionNext?style=flat-square&color=yellow)](https://github.com/tangly1024/NotionNext/stargazers) [![Forks](https://img.shields.io/github/forks/tangly1024/NotionNext?style=flat-square&color=blue)](https://github.com/tangly1024/NotionNext/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 14.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tangly1024/NotionNext：tangly1024/NotionNext helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 90/100 |
 | stars | 86/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

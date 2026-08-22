@@ -1,6 +1,6 @@
 # y3owk1n/nvs
 
-[![Stars](https://img.shields.io/github/stars/y3owk1n/nvs?style=flat-square&color=yellow)](https://github.com/y3owk1n/nvs/stargazers) [![Forks](https://img.shields.io/github/forks/y3owk1n/nvs?style=flat-square&color=blue)](https://github.com/y3owk1n/nvs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/y3owk1n/nvs?style=flat-square&color=yellow)](https://github.com/y3owk1n/nvs/stargazers) [![Forks](https://img.shields.io/github/forks/y3owk1n/nvs?style=flat-square&color=blue)](https://github.com/y3owk1n/nvs/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Neovim Version & Config Manager CLI tool to install, switch, list, uninstall, and reset Neovim versions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ y3owk1n/nvs — лёгкий CLI‑инструмент для управлен�
 
 ### 中文
 
-y3owk1n/nvs：y3owk1n/nvs helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+y3owk1n/nvs：y3owk1n/nvs helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ y3owk1n/nvs：y3owk1n/nvs helps engineers save time in daily development and rev
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ y3owk1n/nvs：y3owk1n/nvs helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 25/100 |
 | stars | 32/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jaegertracing/jaeger
 
-[![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=flat-square&color=yellow)](https://github.com/jaegertracing/jaeger/stargazers) [![Forks](https://img.shields.io/github/forks/jaegertracing/jaeger?style=flat-square&color=blue)](https://github.com/jaegertracing/jaeger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger?style=flat-square&color=yellow)](https://github.com/jaegertracing/jaeger/stargazers) [![Forks](https://img.shields.io/github/forks/jaegertracing/jaeger?style=flat-square&color=blue)](https://github.com/jaegertracing/jaeger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > CNCF Jaeger, a Distributed Tracing Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.8k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ jaegertracing/jaeger：jaegertracing/jaeger may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 91/100 |
 | stars | 93/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # fastrepl/anarlog
 
-[![Stars](https://img.shields.io/github/stars/fastrepl/anarlog?style=flat-square&color=yellow)](https://github.com/fastrepl/anarlog/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/anarlog?style=flat-square&color=blue)](https://github.com/fastrepl/anarlog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastrepl/anarlog?style=flat-square&color=yellow)](https://github.com/fastrepl/anarlog/stargazers) [![Forks](https://img.shields.io/github/forks/fastrepl/anarlog?style=flat-square&color=blue)](https://github.com/fastrepl/anarlog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Open source Granola AI Alternative
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 603 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fastrepl/anarlog：fastrepl/anarlog helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

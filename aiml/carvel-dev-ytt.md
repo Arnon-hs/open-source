@@ -1,6 +1,6 @@
 # carvel-dev/ytt
 
-[![Stars](https://img.shields.io/github/stars/carvel-dev/ytt?style=flat-square&color=yellow)](https://github.com/carvel-dev/ytt/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/ytt?style=flat-square&color=blue)](https://github.com/carvel-dev/ytt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carvel-dev/ytt?style=flat-square&color=yellow)](https://github.com/carvel-dev/ytt/stargazers) [![Forks](https://img.shields.io/github/forks/carvel-dev/ytt?style=flat-square&color=blue)](https://github.com/carvel-dev/ytt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > YAML templating tool that works on YAML structure instead of text
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ carvel-dev/ytt：carvel-dev/ytt helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

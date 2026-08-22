@@ -1,6 +1,6 @@
 # hashicorp/vault
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/vault?style=flat-square&color=yellow)](https://github.com/hashicorp/vault/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/vault?style=flat-square&color=blue)](https://github.com/hashicorp/vault/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/vault?style=flat-square&color=yellow)](https://github.com/hashicorp/vault/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/vault?style=flat-square&color=blue)](https://github.com/hashicorp/vault/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A tool for secrets management, encryption as a service, and privileged access management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 4.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hashicorp/vault：hashicorp/vault helps catch security and privacy issues earlie
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

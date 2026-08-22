@@ -1,6 +1,6 @@
 # bluerobotics/cockpit
 
-[![Stars](https://img.shields.io/github/stars/bluerobotics/cockpit?style=flat-square&color=yellow)](https://github.com/bluerobotics/cockpit/stargazers) [![Forks](https://img.shields.io/github/forks/bluerobotics/cockpit?style=flat-square&color=blue)](https://github.com/bluerobotics/cockpit/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluerobotics/cockpit?style=flat-square&color=yellow)](https://github.com/bluerobotics/cockpit/stargazers) [![Forks](https://img.shields.io/github/forks/bluerobotics/cockpit?style=flat-square&color=blue)](https://github.com/bluerobotics/cockpit/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An intuitive and customizable cross-platform ground control station for remote vehicles of all types.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cockpit — это кросс‑платформенный графическ�
 
 ### 中文
 
-bluerobotics/cockpit：bluerobotics/cockpit helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bluerobotics/cockpit：bluerobotics/cockpit helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bluerobotics/cockpit：bluerobotics/cockpit helps ship user-facing interfaces wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bluerobotics/cockpit：bluerobotics/cockpit helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 47/100 |
 | stars | 48/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

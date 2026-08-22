@@ -1,6 +1,6 @@
 # starship/starship
 
-[![Stars](https://img.shields.io/github/stars/starship/starship?style=flat-square&color=yellow)](https://github.com/starship/starship/stargazers) [![Forks](https://img.shields.io/github/forks/starship/starship?style=flat-square&color=blue)](https://github.com/starship/starship/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/starship/starship?style=flat-square&color=yellow)](https://github.com/starship/starship/stargazers) [![Forks](https://img.shields.io/github/forks/starship/starship?style=flat-square&color=blue)](https://github.com/starship/starship/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57.3k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ starship/starship：starship/starship may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

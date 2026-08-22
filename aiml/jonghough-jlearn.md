@@ -1,6 +1,6 @@
 # jonghough/jlearn
 
-[![Stars](https://img.shields.io/github/stars/jonghough/jlearn?style=flat-square&color=yellow)](https://github.com/jonghough/jlearn/stargazers) [![Forks](https://img.shields.io/github/forks/jonghough/jlearn?style=flat-square&color=blue)](https://github.com/jonghough/jlearn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonghough/jlearn?style=flat-square&color=yellow)](https://github.com/jonghough/jlearn/stargazers) [![Forks](https://img.shields.io/github/forks/jonghough/jlearn?style=flat-square&color=blue)](https://github.com/jonghough/jlearn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #programming by @lobsters
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
+| 📈 **Score** | 28/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | mastodon |
 
@@ -63,14 +63,14 @@ jlearn: Machine Learning Library in J   https://github.com/jonghough/jlearn    #
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 24/100 |
+| quality | 19/100 |
 | integration | 30/100 |
-| production | 37/100 |
-| outlook | 32/100 |
+| production | 30/100 |
+| outlook | 25/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 

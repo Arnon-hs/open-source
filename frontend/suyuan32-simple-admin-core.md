@@ -1,6 +1,6 @@
 # suyuan32/simple-admin-core
 
-[![Stars](https://img.shields.io/github/stars/suyuan32/simple-admin-core?style=flat-square&color=yellow)](https://github.com/suyuan32/simple-admin-core/stargazers) [![Forks](https://img.shields.io/github/forks/suyuan32/simple-admin-core?style=flat-square&color=blue)](https://github.com/suyuan32/simple-admin-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suyuan32/simple-admin-core?style=flat-square&color=yellow)](https://github.com/suyuan32/simple-admin-core/stargazers) [![Forks](https://img.shields.io/github/forks/suyuan32/simple-admin-core?style=flat-square&color=blue)](https://github.com/suyuan32/simple-admin-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Simple Admin是一个基于Go Zero开发面向小型到大型项目的分布式微服务后端管理系统脚手架，提供丰富的后台管理功能，支持k8s快速部署，助力快速开发高并发微服务集群，适合学习和商用。Simple Admin is a powerful microservice framework for large management system. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ suyuan32/simple-admin-core：suyuan32/simple-admin-core helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 70/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

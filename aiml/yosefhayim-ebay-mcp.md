@@ -1,6 +1,6 @@
 # YosefHayim/ebay-mcp
 
-[![Stars](https://img.shields.io/github/stars/YosefHayim/ebay-mcp?style=flat-square&color=yellow)](https://github.com/YosefHayim/ebay-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/YosefHayim/ebay-mcp?style=flat-square&color=blue)](https://github.com/YosefHayim/ebay-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YosefHayim/ebay-mcp?style=flat-square&color=yellow)](https://github.com/YosefHayim/ebay-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/YosefHayim/ebay-mcp?style=flat-square&color=blue)](https://github.com/YosefHayim/ebay-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open source local MCP server providing AI assistants with comprehensive access to eBay's Sell APIs. Includes 325 tools for inventory management, order fulfillment, marketing campaigns, analytics, developer tools, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ YosefHayim/ebay-mcp：YosefHayim/ebay-mcp helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 37/100 |
 | stars | 38/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

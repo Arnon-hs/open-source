@@ -1,6 +1,6 @@
 # NeuralNomadsAI/CodeNomad
 
-[![Stars](https://img.shields.io/github/stars/NeuralNomadsAI/CodeNomad?style=flat-square&color=yellow)](https://github.com/NeuralNomadsAI/CodeNomad/stargazers) [![Forks](https://img.shields.io/github/forks/NeuralNomadsAI/CodeNomad?style=flat-square&color=blue)](https://github.com/NeuralNomadsAI/CodeNomad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeuralNomadsAI/CodeNomad?style=flat-square&color=yellow)](https://github.com/NeuralNomadsAI/CodeNomad/stargazers) [![Forks](https://img.shields.io/github/forks/NeuralNomadsAI/CodeNomad?style=flat-square&color=blue)](https://github.com/NeuralNomadsAI/CodeNomad/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CodeNomad: The command center that puts AI coding on steroids.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NeuralNomadsAI/CodeNomad — это открытая платформа‑це
 
 ### 中文
 
-NeuralNomadsAI/CodeNomad：NeuralNomadsAI/CodeNomad helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NeuralNomadsAI/CodeNomad：NeuralNomadsAI/CodeNomad helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NeuralNomadsAI/CodeNomad：NeuralNomadsAI/CodeNomad helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ NeuralNomadsAI/CodeNomad：NeuralNomadsAI/CodeNomad helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

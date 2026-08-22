@@ -1,6 +1,6 @@
 # Xquik-dev/tweetclaw
 
-[![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square&color=yellow)](https://github.com/Xquik-dev/tweetclaw/stargazers) [![Forks](https://img.shields.io/github/forks/Xquik-dev/tweetclaw?style=flat-square&color=blue)](https://github.com/Xquik-dev/tweetclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square&color=yellow)](https://github.com/Xquik-dev/tweetclaw/stargazers) [![Forks](https://img.shields.io/github/forks/Xquik-dev/tweetclaw?style=flat-square&color=blue)](https://github.com/Xquik-dev/tweetclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Post tweets, reply, like, retweet, follow, DM and more from OpenClaw through structured Xquik endpoints. 99 agent-callable endpoints via Xquik.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Xquik-dev/tweetclaw：Xquik-dev/tweetclaw helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 28/100 |
 | stars | 34/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # repository-settings/app
 
-[![Stars](https://img.shields.io/github/stars/repository-settings/app?style=flat-square&color=yellow)](https://github.com/repository-settings/app/stargazers) [![Forks](https://img.shields.io/github/forks/repository-settings/app?style=flat-square&color=blue)](https://github.com/repository-settings/app/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/repository-settings/app?style=flat-square&color=yellow)](https://github.com/repository-settings/app/stargazers) [![Forks](https://img.shields.io/github/forks/repository-settings/app?style=flat-square&color=blue)](https://github.com/repository-settings/app/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Pull Requests for GitHub repository settings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ A lightweight open‑source tool that enables you to manage and synchronize GitH
 
 ### 中文
 
-repository-settings/app：repository-settings/app may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+repository-settings/app：repository-settings/app may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ repository-settings/app：repository-settings/app may be useful when its README 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ repository-settings/app：repository-settings/app may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

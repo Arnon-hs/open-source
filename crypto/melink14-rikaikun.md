@@ -1,6 +1,6 @@
 # melink14/rikaikun
 
-[![Stars](https://img.shields.io/github/stars/melink14/rikaikun?style=flat-square&color=yellow)](https://github.com/melink14/rikaikun/stargazers) [![Forks](https://img.shields.io/github/forks/melink14/rikaikun?style=flat-square&color=blue)](https://github.com/melink14/rikaikun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/melink14/rikaikun?style=flat-square&color=yellow)](https://github.com/melink14/rikaikun/stargazers) [![Forks](https://img.shields.io/github/forks/melink14/rikaikun?style=flat-square&color=blue)](https://github.com/melink14/rikaikun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > rikaikun is a Chrome extension that helps you to read Japanese web pages by showing the reading and English definition of Japanese words when you hover over them.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 475 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rikaikun — это бесплатное расширение для Chrome, �
 
 ### 中文
 
-melink14/rikaikun：melink14/rikaikun helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+melink14/rikaikun：melink14/rikaikun helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ melink14/rikaikun：melink14/rikaikun helps prototype or inspect blockchain work
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ melink14/rikaikun：melink14/rikaikun helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

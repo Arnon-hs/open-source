@@ -1,6 +1,6 @@
 # kaito-project/aikit
 
-[![Stars](https://img.shields.io/github/stars/kaito-project/aikit?style=flat-square&color=yellow)](https://github.com/kaito-project/aikit/stargazers) [![Forks](https://img.shields.io/github/forks/kaito-project/aikit?style=flat-square&color=blue)](https://github.com/kaito-project/aikit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaito-project/aikit?style=flat-square&color=yellow)](https://github.com/kaito-project/aikit/stargazers) [![Forks](https://img.shields.io/github/forks/kaito-project/aikit?style=flat-square&color=blue)](https://github.com/kaito-project/aikit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kaito-project/aikit：kaito-project/aikit helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 56/100 |
+| production | 54/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

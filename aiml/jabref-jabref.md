@@ -1,6 +1,6 @@
 # JabRef/jabref
 
-[![Stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat-square&color=yellow)](https://github.com/JabRef/jabref/stargazers) [![Forks](https://img.shields.io/github/forks/JabRef/jabref?style=flat-square&color=blue)](https://github.com/JabRef/jabref/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat-square&color=yellow)](https://github.com/JabRef/jabref/stargazers) [![Forks](https://img.shields.io/github/forks/JabRef/jabref?style=flat-square&color=blue)](https://github.com/JabRef/jabref/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Graphical Java application for managing BibTeX and BibLaTeX (.bib) databases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JabRef/jabref：JabRef/jabref helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 80/100 |
 | stars | 77/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # python-cmd2/cmd2
 
-[![Stars](https://img.shields.io/github/stars/python-cmd2/cmd2?style=flat-square&color=yellow)](https://github.com/python-cmd2/cmd2/stargazers) [![Forks](https://img.shields.io/github/forks/python-cmd2/cmd2?style=flat-square&color=blue)](https://github.com/python-cmd2/cmd2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python-cmd2/cmd2?style=flat-square&color=yellow)](https://github.com/python-cmd2/cmd2/stargazers) [![Forks](https://img.shields.io/github/forks/python-cmd2/cmd2?style=flat-square&color=blue)](https://github.com/python-cmd2/cmd2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 687 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ python-cmd2/cmd2：python-cmd2/cmd2 helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

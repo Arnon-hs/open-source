@@ -1,6 +1,6 @@
 # grafana/jsonnet-libs
 
-[![Stars](https://img.shields.io/github/stars/grafana/jsonnet-libs?style=flat-square&color=yellow)](https://github.com/grafana/jsonnet-libs/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/jsonnet-libs?style=flat-square&color=blue)](https://github.com/grafana/jsonnet-libs/network) [![Language](https://img.shields.io/badge/lang-Jsonnet-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/jsonnet-libs?style=flat-square&color=yellow)](https://github.com/grafana/jsonnet-libs/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/jsonnet-libs?style=flat-square&color=blue)](https://github.com/grafana/jsonnet-libs/network) [![Language](https://img.shields.io/badge/lang-Jsonnet-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Grafana Labs' Jsonnet libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 728 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Jsonnet |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Grafana/jsonnet-libs — это набор открытых Jsonnet‑библ
 
 ### 中文
 
-grafana/jsonnet-libs：grafana/jsonnet-libs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+grafana/jsonnet-libs：grafana/jsonnet-libs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ grafana/jsonnet-libs：grafana/jsonnet-libs may be useful when its README and ac
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ grafana/jsonnet-libs：grafana/jsonnet-libs may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # spesmilo/electrum
 
-[![Stars](https://img.shields.io/github/stars/spesmilo/electrum?style=flat-square&color=yellow)](https://github.com/spesmilo/electrum/stargazers) [![Forks](https://img.shields.io/github/forks/spesmilo/electrum?style=flat-square&color=blue)](https://github.com/spesmilo/electrum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spesmilo/electrum?style=flat-square&color=yellow)](https://github.com/spesmilo/electrum/stargazers) [![Forks](https://img.shields.io/github/forks/spesmilo/electrum?style=flat-square&color=blue)](https://github.com/spesmilo/electrum/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Electrum Bitcoin Wallet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ spesmilo/electrum：spesmilo/electrum helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 85/100 |
 | stars | 84/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

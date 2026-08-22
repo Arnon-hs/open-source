@@ -1,6 +1,6 @@
 # hexlet-codebattle/codebattle
 
-[![Stars](https://img.shields.io/github/stars/hexlet-codebattle/codebattle?style=flat-square&color=yellow)](https://github.com/hexlet-codebattle/codebattle/stargazers) [![Forks](https://img.shields.io/github/forks/hexlet-codebattle/codebattle?style=flat-square&color=blue)](https://github.com/hexlet-codebattle/codebattle/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexlet-codebattle/codebattle?style=flat-square&color=yellow)](https://github.com/hexlet-codebattle/codebattle/stargazers) [![Forks](https://img.shields.io/github/forks/hexlet-codebattle/codebattle?style=flat-square&color=blue)](https://github.com/hexlet-codebattle/codebattle/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Codebattle - Game for programmers, where you solved algorithmic problems with other players in real time. You can fight with other players in single player mode or join massive tournaments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 835 |
 | 🍴 **Forks** | 233 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ hexlet-codebattle/codebattle：hexlet-codebattle/codebattle helps ship user-faci
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 56/100 |
+| production | 53/100 |
+| outlook | 49/100 |
 | adoption | 61/100 |
 | stars | 62/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # fastapi/typer
 
-[![Stars](https://img.shields.io/github/stars/fastapi/typer?style=flat-square&color=yellow)](https://github.com/fastapi/typer/stargazers) [![Forks](https://img.shields.io/github/forks/fastapi/typer?style=flat-square&color=blue)](https://github.com/fastapi/typer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastapi/typer?style=flat-square&color=yellow)](https://github.com/fastapi/typer/stargazers) [![Forks](https://img.shields.io/github/forks/fastapi/typer?style=flat-square&color=blue)](https://github.com/fastapi/typer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Typer, build great CLIs. Easy to code. Based on Python type hints.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.4k |
 | 🍴 **Forks** | 891 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fastapi/typer：fastapi/typer helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 78/100 |
-| production | 66/100 |
-| outlook | 70/100 |
+| production | 60/100 |
+| outlook | 63/100 |
 | adoption | 86/100 |
 | stars | 91/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

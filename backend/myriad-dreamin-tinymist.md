@@ -1,6 +1,6 @@
 # Myriad-Dreamin/tinymist
 
-[![Stars](https://img.shields.io/github/stars/Myriad-Dreamin/tinymist?style=flat-square&color=yellow)](https://github.com/Myriad-Dreamin/tinymist/stargazers) [![Forks](https://img.shields.io/github/forks/Myriad-Dreamin/tinymist?style=flat-square&color=blue)](https://github.com/Myriad-Dreamin/tinymist/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Myriad-Dreamin/tinymist?style=flat-square&color=yellow)](https://github.com/Myriad-Dreamin/tinymist/stargazers) [![Forks](https://img.shields.io/github/forks/Myriad-Dreamin/tinymist?style=flat-square&color=blue)](https://github.com/Myriad-Dreamin/tinymist/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tinymist — это открытый серверный сервис, пред
 
 ### 中文
 
-Myriad-Dreamin/tinymist：Myriad-Dreamin/tinymist helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Myriad-Dreamin/tinymist：Myriad-Dreamin/tinymist helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Myriad-Dreamin/tinymist：Myriad-Dreamin/tinymist helps teams reuse service infr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Myriad-Dreamin/tinymist：Myriad-Dreamin/tinymist helps teams reuse service infr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

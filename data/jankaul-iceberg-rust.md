@@ -1,6 +1,6 @@
 # JanKaul/iceberg-rust
 
-[![Stars](https://img.shields.io/github/stars/JanKaul/iceberg-rust?style=flat-square&color=yellow)](https://github.com/JanKaul/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/JanKaul/iceberg-rust?style=flat-square&color=blue)](https://github.com/JanKaul/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JanKaul/iceberg-rust?style=flat-square&color=yellow)](https://github.com/JanKaul/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/JanKaul/iceberg-rust?style=flat-square&color=blue)](https://github.com/JanKaul/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial rust implementation of Apache Iceberg with integration for Datafusion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ JanKaul/iceberg‑rust is an unofficial pure‑Rust implementation of the Apache
 
 ### 中文
 
-JanKaul/iceberg-rust：JanKaul/iceberg-rust helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+JanKaul/iceberg-rust：JanKaul/iceberg-rust helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ JanKaul/iceberg-rust：JanKaul/iceberg-rust helps convert raw data into searchab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ JanKaul/iceberg-rust：JanKaul/iceberg-rust helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 53/100 |
+| production | 44/100 |
+| outlook | 46/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # zanfranceschi/rinha-de-backend-2026
 
-[![Stars](https://img.shields.io/github/stars/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=yellow)](https://github.com/zanfranceschi/rinha-de-backend-2026/stargazers) [![Forks](https://img.shields.io/github/forks/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=blue)](https://github.com/zanfranceschi/rinha-de-backend-2026/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=yellow)](https://github.com/zanfranceschi/rinha-de-backend-2026/stargazers) [![Forks](https://img.shields.io/github/forks/zanfranceschi/rinha-de-backend-2026?style=flat-square&color=blue)](https://github.com/zanfranceschi/rinha-de-backend-2026/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 578 |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zanfranceschi/rinha-de-backend-2026：zanfranceschi/rinha-de-backend-2026 helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 59/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

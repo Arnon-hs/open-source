@@ -1,6 +1,6 @@
 # impactjo/home-memory
 
-[![Stars](https://img.shields.io/github/stars/impactjo/home-memory?style=flat-square&color=yellow)](https://github.com/impactjo/home-memory/stargazers) [![Forks](https://img.shields.io/github/forks/impactjo/home-memory?style=flat-square&color=blue)](https://github.com/impactjo/home-memory/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/impactjo/home-memory?style=flat-square&color=yellow)](https://github.com/impactjo/home-memory/stargazers) [![Forks](https://img.shields.io/github/forks/impactjo/home-memory?style=flat-square&color=blue)](https://github.com/impactjo/home-memory/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that lets your AI assistant remember everything about your home.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ impactjo/home-memory is an open‑source MCP (Memory Control Protocol) server de
 
 ### 中文
 
-impactjo/home-memory：impactjo/home-memory helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+impactjo/home-memory：impactjo/home-memory helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ impactjo/home-memory：impactjo/home-memory helps add AI capability without star
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ impactjo/home-memory：impactjo/home-memory helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 46/100 |
+| outlook | 50/100 |
 | adoption | 33/100 |
 | stars | 40/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # countbot-ai/CountBot
 
-[![Stars](https://img.shields.io/github/stars/countbot-ai/CountBot?style=flat-square&color=yellow)](https://github.com/countbot-ai/CountBot/stargazers) [![Forks](https://img.shields.io/github/forks/countbot-ai/CountBot?style=flat-square&color=blue)](https://github.com/countbot-ai/CountBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/countbot-ai/CountBot?style=flat-square&color=yellow)](https://github.com/countbot-ai/CountBot/stargazers) [![Forks](https://img.shields.io/github/forks/countbot-ai/CountBot?style=flat-square&color=blue)](https://github.com/countbot-ai/CountBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram/deepseek-v4。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 561 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CountBot — лёгкий open‑source AI‑агент, оптимизиро�
 
 ### 中文
 
-countbot-ai/CountBot：countbot-ai/CountBot helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+countbot-ai/CountBot：countbot-ai/CountBot helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ countbot-ai/CountBot：countbot-ai/CountBot helps turn isolated prompts and tool
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ countbot-ai/CountBot：countbot-ai/CountBot helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

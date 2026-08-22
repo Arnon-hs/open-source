@@ -1,6 +1,6 @@
 # appsfolder/livebridge
 
-[![Stars](https://img.shields.io/github/stars/appsfolder/livebridge?style=flat-square&color=yellow)](https://github.com/appsfolder/livebridge/stargazers) [![Forks](https://img.shields.io/github/forks/appsfolder/livebridge?style=flat-square&color=blue)](https://github.com/appsfolder/livebridge/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appsfolder/livebridge?style=flat-square&color=yellow)](https://github.com/appsfolder/livebridge/stargazers) [![Forks](https://img.shields.io/github/forks/appsfolder/livebridge?style=flat-square&color=blue)](https://github.com/appsfolder/livebridge/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Level up your dynamic pill/island on Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mobile
 
 ### 中文
 
-appsfolder/livebridge：appsfolder/livebridge may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+appsfolder/livebridge：appsfolder/livebridge may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ appsfolder/livebridge：appsfolder/livebridge may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ appsfolder/livebridge：appsfolder/livebridge may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 50/100 |
 | stars | 58/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

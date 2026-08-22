@@ -1,6 +1,6 @@
 # kyegomez/swarms
 
-[![Stars](https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&color=yellow)](https://github.com/kyegomez/swarms/stargazers) [![Forks](https://img.shields.io/github/forks/kyegomez/swarms?style=flat-square&color=blue)](https://github.com/kyegomez/swarms/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kyegomez/swarms?style=flat-square&color=yellow)](https://github.com/kyegomez/swarms/stargazers) [![Forks](https://img.shields.io/github/forks/kyegomez/swarms?style=flat-square&color=blue)](https://github.com/kyegomez/swarms/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 903 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kyegomez/swarms：kyegomez/swarms helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 74/100 |
+| production | 56/100 |
+| outlook | 67/100 |
 | adoption | 79/100 |
 | stars | 81/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

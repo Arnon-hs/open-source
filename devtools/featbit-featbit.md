@@ -1,6 +1,6 @@
 # featbit/featbit
 
-[![Stars](https://img.shields.io/github/stars/featbit/featbit?style=flat-square&color=yellow)](https://github.com/featbit/featbit/stargazers) [![Forks](https://img.shields.io/github/forks/featbit/featbit?style=flat-square&color=blue)](https://github.com/featbit/featbit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/featbit/featbit?style=flat-square&color=yellow)](https://github.com/featbit/featbit/stargazers) [![Forks](https://img.shields.io/github/forks/featbit/featbit?style=flat-square&color=blue)](https://github.com/featbit/featbit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade feature flag platform that you can self-host. Get started - free.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ featbit/featbit：featbit/featbit helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

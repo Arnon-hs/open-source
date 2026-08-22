@@ -1,6 +1,6 @@
 # kesslernity/awesome-microsoft-copilot-prompts
 
-[![Stars](https://img.shields.io/github/stars/kesslernity/awesome-microsoft-copilot-prompts?style=flat-square&color=yellow)](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/kesslernity/awesome-microsoft-copilot-prompts?style=flat-square&color=blue)](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kesslernity/awesome-microsoft-copilot-prompts?style=flat-square&color=yellow)](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/kesslernity/awesome-microsoft-copilot-prompts?style=flat-square&color=blue)](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The definitive Microsoft 365 Copilot prompt library for business teams. 400+ prompts for Office apps, Copilot Studio, security operations, and enterprise deployment. Battle-tested in production environments
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **awesome‑Microsoft‑Copilot‑Prompts** repository is a curated collecti
 
 ### 中文
 
-kesslernity/awesome-microsoft-copilot-prompts：kesslernity/awesome-microsoft-copilot-prompts helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kesslernity/awesome-microsoft-copilot-prompts：kesslernity/awesome-microsoft-copilot-prompts helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kesslernity/awesome-microsoft-copilot-prompts：kesslernity/awesome-microsoft-co
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ kesslernity/awesome-microsoft-copilot-prompts：kesslernity/awesome-microsoft-co
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

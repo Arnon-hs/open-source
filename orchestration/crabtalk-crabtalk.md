@@ -1,6 +1,6 @@
 # crabtalk/crabtalk
 
-[![Stars](https://img.shields.io/github/stars/crabtalk/crabtalk?style=flat-square&color=yellow)](https://github.com/crabtalk/crabtalk/stargazers) [![Forks](https://img.shields.io/github/forks/crabtalk/crabtalk?style=flat-square&color=blue)](https://github.com/crabtalk/crabtalk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crabtalk/crabtalk?style=flat-square&color=yellow)](https://github.com/crabtalk/crabtalk/stargazers) [![Forks](https://img.shields.io/github/forks/crabtalk/crabtalk?style=flat-square&color=blue)](https://github.com/crabtalk/crabtalk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agents daemon that hides nothing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 615 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CrabTalk is an open‑source daemon that orchestrates AI‑driven agents, provid
 
 ### 中文
 
-crabtalk/crabtalk：crabtalk/crabtalk helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+crabtalk/crabtalk：crabtalk/crabtalk helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ crabtalk/crabtalk：crabtalk/crabtalk helps turn isolated prompts and tools into
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ crabtalk/crabtalk：crabtalk/crabtalk helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 65/100 |
+| production | 47/100 |
+| outlook | 58/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

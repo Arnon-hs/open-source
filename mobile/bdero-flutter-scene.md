@@ -1,6 +1,6 @@
 # bdero/flutter_scene
 
-[![Stars](https://img.shields.io/github/stars/bdero/flutter_scene?style=flat-square&color=yellow)](https://github.com/bdero/flutter_scene/stargazers) [![Forks](https://img.shields.io/github/forks/bdero/flutter_scene?style=flat-square&color=blue)](https://github.com/bdero/flutter_scene/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bdero/flutter_scene?style=flat-square&color=yellow)](https://github.com/bdero/flutter_scene/stargazers) [![Forks](https://img.shields.io/github/forks/bdero/flutter_scene?style=flat-square&color=blue)](https://github.com/bdero/flutter_scene/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > 3D library for Flutter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,21 +56,21 @@ bdero/flutter_scene：bdero/flutter_scene may be useful when its README and acti
 - updated 2026-05-09
 - primary language: Dart
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 41/100 |
+| outlook | 38/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

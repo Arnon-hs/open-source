@@ -1,6 +1,6 @@
 # tektoncd/pipeline
 
-[![Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=flat-square&color=yellow)](https://github.com/tektoncd/pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/pipeline?style=flat-square&color=blue)](https://github.com/tektoncd/pipeline/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=flat-square&color=yellow)](https://github.com/tektoncd/pipeline/stargazers) [![Forks](https://img.shields.io/github/forks/tektoncd/pipeline?style=flat-square&color=blue)](https://github.com/tektoncd/pipeline/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A cloud-native Pipeline resource.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tektoncd/pipeline：tektoncd/pipeline helps make deployment and operations more 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 84/100 |
 | stars | 84/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

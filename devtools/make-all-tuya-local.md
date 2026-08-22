@@ -1,6 +1,6 @@
 # make-all/tuya-local
 
-[![Stars](https://img.shields.io/github/stars/make-all/tuya-local?style=flat-square&color=yellow)](https://github.com/make-all/tuya-local/stargazers) [![Forks](https://img.shields.io/github/forks/make-all/tuya-local?style=flat-square&color=blue)](https://github.com/make-all/tuya-local/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/make-all/tuya-local?style=flat-square&color=yellow)](https://github.com/make-all/tuya-local/stargazers) [![Forks](https://img.shields.io/github/forks/make-all/tuya-local?style=flat-square&color=blue)](https://github.com/make-all/tuya-local/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local support for Tuya devices in Home Assistant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ make-all/tuya-local：make-all/tuya-local helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 74/100 |
 | stars | 74/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

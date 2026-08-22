@@ -1,6 +1,6 @@
 # control-theory/gonzo
 
-[![Stars](https://img.shields.io/github/stars/control-theory/gonzo?style=flat-square&color=yellow)](https://github.com/control-theory/gonzo/stargazers) [![Forks](https://img.shields.io/github/forks/control-theory/gonzo?style=flat-square&color=blue)](https://github.com/control-theory/gonzo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/control-theory/gonzo?style=flat-square&color=yellow)](https://github.com/control-theory/gonzo/stargazers) [![Forks](https://img.shields.io/github/forks/control-theory/gonzo?style=flat-square&color=blue)](https://github.com/control-theory/gonzo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Gonzo! The Go based TUI log analysis tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ control-theory/gonzo：control-theory/gonzo helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 73/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

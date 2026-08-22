@@ -1,6 +1,6 @@
 # run-llama/liteparse
 
-[![Stars](https://img.shields.io/github/stars/run-llama/liteparse?style=flat-square&color=yellow)](https://github.com/run-llama/liteparse/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/liteparse?style=flat-square&color=blue)](https://github.com/run-llama/liteparse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/run-llama/liteparse?style=flat-square&color=yellow)](https://github.com/run-llama/liteparse/stargazers) [![Forks](https://img.shields.io/github/forks/run-llama/liteparse?style=flat-square&color=blue)](https://github.com/run-llama/liteparse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, helpful, and open-source document parser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 330 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ run-llama/liteparse：run-llama/liteparse may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 74/100 |
 | stars | 79/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # JetBrains/resharper-unity
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/resharper-unity?style=flat-square&color=yellow)](https://github.com/JetBrains/resharper-unity/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/resharper-unity?style=flat-square&color=blue)](https://github.com/JetBrains/resharper-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/resharper-unity?style=flat-square&color=yellow)](https://github.com/JetBrains/resharper-unity/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/resharper-unity?style=flat-square&color=blue)](https://github.com/JetBrains/resharper-unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Unity support for both ReSharper and Rider
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JetBrains/resharper-unity：JetBrains/resharper-unity helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

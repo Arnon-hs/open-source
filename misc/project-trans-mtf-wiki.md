@@ -1,6 +1,6 @@
 # project-trans/MtF-wiki
 
-[![Stars](https://img.shields.io/github/stars/project-trans/MtF-wiki?style=flat-square&color=yellow)](https://github.com/project-trans/MtF-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/project-trans/MtF-wiki?style=flat-square&color=blue)](https://github.com/project-trans/MtF-wiki/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/project-trans/MtF-wiki?style=flat-square&color=yellow)](https://github.com/project-trans/MtF-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/project-trans/MtF-wiki?style=flat-square&color=blue)](https://github.com/project-trans/MtF-wiki/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MtF.wiki — открытая платформа, посвящённая ин�
 
 ### 中文
 
-project-trans/MtF-wiki：project-trans/MtF-wiki may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+project-trans/MtF-wiki：project-trans/MtF-wiki may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ project-trans/MtF-wiki：project-trans/MtF-wiki may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ project-trans/MtF-wiki：project-trans/MtF-wiki may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 44/100 |
+| outlook | 46/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

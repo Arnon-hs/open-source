@@ -1,6 +1,6 @@
 # sajjadium/ctf-archives
 
-[![Stars](https://img.shields.io/github/stars/sajjadium/ctf-archives?style=flat-square&color=yellow)](https://github.com/sajjadium/ctf-archives/stargazers) [![Forks](https://img.shields.io/github/forks/sajjadium/ctf-archives?style=flat-square&color=blue)](https://github.com/sajjadium/ctf-archives/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sajjadium/ctf-archives?style=flat-square&color=yellow)](https://github.com/sajjadium/ctf-archives/stargazers) [![Forks](https://img.shields.io/github/forks/sajjadium/ctf-archives?style=flat-square&color=blue)](https://github.com/sajjadium/ctf-archives/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CTF Archives: Collection of CTF Challenges.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sajjadium/ctf-archives is an open‑source repository that curates a wide variet
 
 ### 中文
 
-sajjadium/ctf-archives：sajjadium/ctf-archives may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sajjadium/ctf-archives：sajjadium/ctf-archives may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sajjadium/ctf-archives：sajjadium/ctf-archives may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ sajjadium/ctf-archives：sajjadium/ctf-archives may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 65/100 |
 | stars | 67/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

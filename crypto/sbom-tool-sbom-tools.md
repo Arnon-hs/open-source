@@ -1,6 +1,6 @@
 # sbom-tool/sbom-tools
 
-[![Stars](https://img.shields.io/github/stars/sbom-tool/sbom-tools?style=flat-square&color=yellow)](https://github.com/sbom-tool/sbom-tools/stargazers) [![Forks](https://img.shields.io/github/forks/sbom-tool/sbom-tools?style=flat-square&color=blue)](https://github.com/sbom-tool/sbom-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbom-tool/sbom-tools?style=flat-square&color=yellow)](https://github.com/sbom-tool/sbom-tools/stargazers) [![Forks](https://img.shields.io/github/forks/sbom-tool/sbom-tools?style=flat-square&color=blue)](https://github.com/sbom-tool/sbom-tools/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering component changes, dependency shifts, license conflicts, vulnerabilities, cryptographic inventory grading, and PQC compliance (CNSA 2.0, NIST IR 8547).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sbom‑tool/sbom‑tools is an open‑source utility that compares and scores So
 
 ### 中文
 
-sbom-tool/sbom-tools：sbom-tool/sbom-tools helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sbom-tool/sbom-tools：sbom-tool/sbom-tools helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sbom-tool/sbom-tools：sbom-tool/sbom-tools helps prototype or inspect blockchai
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sbom-tool/sbom-tools：sbom-tool/sbom-tools helps prototype or inspect blockchai
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
+| production | 46/100 |
+| outlook | 49/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

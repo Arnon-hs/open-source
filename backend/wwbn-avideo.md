@@ -1,6 +1,6 @@
 # WWBN/AVideo
 
-[![Stars](https://img.shields.io/github/stars/WWBN/AVideo?style=flat-square&color=yellow)](https://github.com/WWBN/AVideo/stargazers) [![Forks](https://img.shields.io/github/forks/WWBN/AVideo?style=flat-square&color=blue)](https://github.com/WWBN/AVideo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WWBN/AVideo?style=flat-square&color=yellow)](https://github.com/WWBN/AVideo/stargazers) [![Forks](https://img.shields.io/github/forks/WWBN/AVideo?style=flat-square&color=blue)](https://github.com/WWBN/AVideo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WWBN/AVideo：WWBN/AVideo helps teams reuse service infrastructure instead of re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 50/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 71/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

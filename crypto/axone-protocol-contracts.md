@@ -1,6 +1,6 @@
 # axone-protocol/contracts
 
-[![Stars](https://img.shields.io/github/stars/axone-protocol/contracts?style=flat-square&color=yellow)](https://github.com/axone-protocol/contracts/stargazers) [![Forks](https://img.shields.io/github/forks/axone-protocol/contracts?style=flat-square&color=blue)](https://github.com/axone-protocol/contracts/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axone-protocol/contracts?style=flat-square&color=yellow)](https://github.com/axone-protocol/contracts/stargazers) [![Forks](https://img.shields.io/github/forks/axone-protocol/contracts?style=flat-square&color=blue)](https://github.com/axone-protocol/contracts/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 📜 Smart contracts for the Axone protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **axone-protocol/contracts** repository contains the Solidity smart‑contra
 
 ### 中文
 
-axone-protocol/contracts：axone-protocol/contracts helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+axone-protocol/contracts：axone-protocol/contracts helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ axone-protocol/contracts：axone-protocol/contracts helps prototype or inspect b
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ axone-protocol/contracts：axone-protocol/contracts helps prototype or inspect b
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

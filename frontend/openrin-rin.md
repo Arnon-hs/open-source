@@ -1,6 +1,6 @@
 # openRin/Rin
 
-[![Stars](https://img.shields.io/github/stars/openRin/Rin?style=flat-square&color=yellow)](https://github.com/openRin/Rin/stargazers) [![Forks](https://img.shields.io/github/forks/openRin/Rin?style=flat-square&color=blue)](https://github.com/openRin/Rin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openRin/Rin?style=flat-square&color=yellow)](https://github.com/openRin/Rin/stargazers) [![Forks](https://img.shields.io/github/forks/openRin/Rin?style=flat-square&color=blue)](https://github.com/openRin/Rin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openRin/Rin：openRin/Rin helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 73/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

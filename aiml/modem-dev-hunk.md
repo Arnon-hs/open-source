@@ -1,6 +1,6 @@
 # modem-dev/hunk
 
-[![Stars](https://img.shields.io/github/stars/modem-dev/hunk?style=flat-square&color=yellow)](https://github.com/modem-dev/hunk/stargazers) [![Forks](https://img.shields.io/github/forks/modem-dev/hunk?style=flat-square&color=blue)](https://github.com/modem-dev/hunk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modem-dev/hunk?style=flat-square&color=yellow)](https://github.com/modem-dev/hunk/stargazers) [![Forks](https://img.shields.io/github/forks/modem-dev/hunk?style=flat-square&color=blue)](https://github.com/modem-dev/hunk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Review-first terminal diff viewer for agentic coders
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ modem-dev/hunk：modem-dev/hunk helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 63/100 |
 | stars | 72/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

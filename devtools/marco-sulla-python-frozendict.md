@@ -1,6 +1,6 @@
 # Marco-Sulla/python-frozendict
 
-[![Stars](https://img.shields.io/github/stars/Marco-Sulla/python-frozendict?style=flat-square&color=yellow)](https://github.com/Marco-Sulla/python-frozendict/stargazers) [![Forks](https://img.shields.io/github/forks/Marco-Sulla/python-frozendict?style=flat-square&color=blue)](https://github.com/Marco-Sulla/python-frozendict/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marco-Sulla/python-frozendict?style=flat-square&color=yellow)](https://github.com/Marco-Sulla/python-frozendict/stargazers) [![Forks](https://img.shields.io/github/forks/Marco-Sulla/python-frozendict?style=flat-square&color=blue)](https://github.com/Marco-Sulla/python-frozendict/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A simple immutable dictionary for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Marco‑Sulla/python‑frozendict provides a lightweight, drop‑in replacement 
 
 ### 中文
 
-Marco-Sulla/python-frozendict：Marco-Sulla/python-frozendict helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Marco-Sulla/python-frozendict：Marco-Sulla/python-frozendict helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Marco-Sulla/python-frozendict：Marco-Sulla/python-frozendict helps engineers sa
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Marco-Sulla/python-frozendict：Marco-Sulla/python-frozendict helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

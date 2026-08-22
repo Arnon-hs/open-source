@@ -1,6 +1,6 @@
 # Azure/Azure-Sentinel
 
-[![Stars](https://img.shields.io/github/stars/Azure/Azure-Sentinel?style=flat-square&color=yellow)](https://github.com/Azure/Azure-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/Azure-Sentinel?style=flat-square&color=blue)](https://github.com/Azure/Azure-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/Azure-Sentinel?style=flat-square&color=yellow)](https://github.com/Azure/Azure-Sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/Azure-Sentinel?style=flat-square&color=blue)](https://github.com/Azure/Azure-Sentinel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud-native SIEM for intelligent security analytics for your entire enterprise.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Azure/Azure-Sentinel：Azure/Azure-Sentinel helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 83/100 |
 | stars | 80/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # memorysafety/rav1d
 
-[![Stars](https://img.shields.io/github/stars/memorysafety/rav1d?style=flat-square&color=yellow)](https://github.com/memorysafety/rav1d/stargazers) [![Forks](https://img.shields.io/github/forks/memorysafety/rav1d?style=flat-square&color=blue)](https://github.com/memorysafety/rav1d/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memorysafety/rav1d?style=flat-square&color=yellow)](https://github.com/memorysafety/rav1d/stargazers) [![Forks](https://img.shields.io/github/forks/memorysafety/rav1d?style=flat-square&color=blue)](https://github.com/memorysafety/rav1d/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > An AV1 decoder in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 625 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ memorysafety/rav1d：memorysafety/rav1d may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 56/100 |
 | stars | 60/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

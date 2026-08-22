@@ -1,6 +1,6 @@
 # haseeb-heaven/gworkspace-agent
 
-[![Stars](https://img.shields.io/github/stars/haseeb-heaven/gworkspace-agent?style=flat-square&color=yellow)](https://github.com/haseeb-heaven/gworkspace-agent/stargazers) [![Forks](https://img.shields.io/github/forks/haseeb-heaven/gworkspace-agent?style=flat-square&color=blue)](https://github.com/haseeb-heaven/gworkspace-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haseeb-heaven/gworkspace-agent?style=flat-square&color=yellow)](https://github.com/haseeb-heaven/gworkspace-agent/stargazers) [![Forks](https://img.shields.io/github/forks/haseeb-heaven/gworkspace-agent?style=flat-square&color=blue)](https://github.com/haseeb-heaven/gworkspace-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Smart Agentic Assistant for your Google Workspace
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ haseeb-heaven/gworkspace-agent：haseeb-heaven/gworkspace-agent helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 39/100 |
 | stars | 41/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # LMMS/lmms
 
-[![Stars](https://img.shields.io/github/stars/LMMS/lmms?style=flat-square&color=yellow)](https://github.com/LMMS/lmms/stargazers) [![Forks](https://img.shields.io/github/forks/LMMS/lmms?style=flat-square&color=blue)](https://github.com/LMMS/lmms/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LMMS/lmms?style=flat-square&color=yellow)](https://github.com/LMMS/lmms/stargazers) [![Forks](https://img.shields.io/github/forks/LMMS/lmms?style=flat-square&color=blue)](https://github.com/LMMS/lmms/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform music production software
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ LMMS/lmms：LMMS/lmms may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # wesnoth/wesnoth
 
-[![Stars](https://img.shields.io/github/stars/wesnoth/wesnoth?style=flat-square&color=yellow)](https://github.com/wesnoth/wesnoth/stargazers) [![Forks](https://img.shields.io/github/forks/wesnoth/wesnoth?style=flat-square&color=blue)](https://github.com/wesnoth/wesnoth/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wesnoth/wesnoth?style=flat-square&color=yellow)](https://github.com/wesnoth/wesnoth/stargazers) [![Forks](https://img.shields.io/github/forks/wesnoth/wesnoth?style=flat-square&color=blue)](https://github.com/wesnoth/wesnoth/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An open source, turn-based strategy game with a high fantasy theme.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ wesnoth/wesnoth：wesnoth/wesnoth may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

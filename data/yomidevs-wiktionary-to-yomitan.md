@@ -1,6 +1,6 @@
 # yomidevs/wiktionary-to-yomitan
 
-[![Stars](https://img.shields.io/github/stars/yomidevs/wiktionary-to-yomitan?style=flat-square&color=yellow)](https://github.com/yomidevs/wiktionary-to-yomitan/stargazers) [![Forks](https://img.shields.io/github/forks/yomidevs/wiktionary-to-yomitan?style=flat-square&color=blue)](https://github.com/yomidevs/wiktionary-to-yomitan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yomidevs/wiktionary-to-yomitan?style=flat-square&color=yellow)](https://github.com/yomidevs/wiktionary-to-yomitan/stargazers) [![Forks](https://img.shields.io/github/forks/yomidevs/wiktionary-to-yomitan?style=flat-square&color=blue)](https://github.com/yomidevs/wiktionary-to-yomitan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Yomitan-compatible dictionaries from wikitionary data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **yomidevs/wiktionary-to-yomitan** преобразу
 
 ### 中文
 
-yomidevs/wiktionary-to-yomitan：yomidevs/wiktionary-to-yomitan helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yomidevs/wiktionary-to-yomitan：yomidevs/wiktionary-to-yomitan helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yomidevs/wiktionary-to-yomitan：yomidevs/wiktionary-to-yomitan helps convert ra
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yomidevs/wiktionary-to-yomitan：yomidevs/wiktionary-to-yomitan helps convert ra
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

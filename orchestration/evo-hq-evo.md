@@ -1,6 +1,6 @@
 # evo-hq/evo
 
-[![Stars](https://img.shields.io/github/stars/evo-hq/evo?style=flat-square&color=yellow)](https://github.com/evo-hq/evo/stargazers) [![Forks](https://img.shields.io/github/forks/evo-hq/evo?style=flat-square&color=blue)](https://github.com/evo-hq/evo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evo-hq/evo?style=flat-square&color=yellow)](https://github.com/evo-hq/evo/stargazers) [![Forks](https://img.shields.io/github/forks/evo-hq/evo?style=flat-square&color=blue)](https://github.com/evo-hq/evo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin for Claude Code and Codex that turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ evo-hq/evo：evo-hq/evo helps turn isolated prompts and tools into repeatable ag
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

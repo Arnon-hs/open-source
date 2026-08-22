@@ -1,6 +1,6 @@
 # openssl/openssl
 
-[![Stars](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&color=yellow)](https://github.com/openssl/openssl/stargazers) [![Forks](https://img.shields.io/github/forks/openssl/openssl?style=flat-square&color=blue)](https://github.com/openssl/openssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&color=yellow)](https://github.com/openssl/openssl/stargazers) [![Forks](https://img.shields.io/github/forks/openssl/openssl?style=flat-square&color=blue)](https://github.com/openssl/openssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > General purpose TLS and crypto library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30.1k |
 | 🍴 **Forks** | 11.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openssl/openssl：openssl/openssl helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 97/100 |
 | stars | 95/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

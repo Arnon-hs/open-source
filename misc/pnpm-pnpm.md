@@ -1,6 +1,6 @@
 # pnpm/pnpm
 
-[![Stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&color=yellow)](https://github.com/pnpm/pnpm/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/pnpm?style=flat-square&color=blue)](https://github.com/pnpm/pnpm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pnpm/pnpm?style=flat-square&color=yellow)](https://github.com/pnpm/pnpm/stargazers) [![Forks](https://img.shields.io/github/forks/pnpm/pnpm?style=flat-square&color=blue)](https://github.com/pnpm/pnpm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, disk space efficient package manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.9k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ pnpm/pnpm：pnpm/pnpm may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 92/100 |
 | stars | 97/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

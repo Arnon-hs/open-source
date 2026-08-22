@@ -1,6 +1,6 @@
 # aeroxy/ast-outline
 
-[![Stars](https://img.shields.io/github/stars/aeroxy/ast-outline?style=flat-square&color=yellow)](https://github.com/aeroxy/ast-outline/stargazers) [![Forks](https://img.shields.io/github/forks/aeroxy/ast-outline?style=flat-square&color=blue)](https://github.com/aeroxy/ast-outline/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aeroxy/ast-outline?style=flat-square&color=yellow)](https://github.com/aeroxy/ast-outline/stargazers) [![Forks](https://img.shields.io/github/forks/aeroxy/ast-outline?style=flat-square&color=blue)](https://github.com/aeroxy/ast-outline/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, AST-based code-navigation toolkit for source files - read the shape of a file (signatures with line numbers, no method bodies), the true public API of a package, the dependency graph between files, and search the repo by symbol or behavior. Built for LLM coding agents and humans.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ aeroxy/ast-outline：aeroxy/ast-outline helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 46/100 |
-| production | 49/100 |
-| outlook | 52/100 |
+| production | 42/100 |
+| outlook | 45/100 |
 | adoption | 41/100 |
 | stars | 47/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

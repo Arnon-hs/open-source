@@ -1,6 +1,6 @@
 # Kiln-AI/Kiln
 
-[![Stars](https://img.shields.io/github/stars/Kiln-AI/Kiln?style=flat-square&color=yellow)](https://github.com/Kiln-AI/Kiln/stargazers) [![Forks](https://img.shields.io/github/forks/Kiln-AI/Kiln?style=flat-square&color=blue)](https://github.com/Kiln-AI/Kiln/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kiln-AI/Kiln?style=flat-square&color=yellow)](https://github.com/Kiln-AI/Kiln/stargazers) [![Forks](https://img.shields.io/github/forks/Kiln-AI/Kiln?style=flat-square&color=blue)](https://github.com/Kiln-AI/Kiln/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 361 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Kiln-AI/Kiln：Kiln-AI/Kiln helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 73/100 |
+| production | 55/100 |
+| outlook | 66/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # arlyon/async-stripe
 
-[![Stars](https://img.shields.io/github/stars/arlyon/async-stripe?style=flat-square&color=yellow)](https://github.com/arlyon/async-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/arlyon/async-stripe?style=flat-square&color=blue)](https://github.com/arlyon/async-stripe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arlyon/async-stripe?style=flat-square&color=yellow)](https://github.com/arlyon/async-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/arlyon/async-stripe?style=flat-square&color=blue)](https://github.com/arlyon/async-stripe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Async (and blocking!) Rust bindings for the Stripe API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 719 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **async‑stripe** crate provides idiomatic Rust bindings for the Stripe API
 
 ### 中文
 
-arlyon/async-stripe：arlyon/async-stripe helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+arlyon/async-stripe：arlyon/async-stripe helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ arlyon/async-stripe：arlyon/async-stripe helps integrate monetization, billing,
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ arlyon/async-stripe：arlyon/async-stripe helps integrate monetization, billing,
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

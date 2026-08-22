@@ -1,6 +1,6 @@
 # unitystation/unitystation
 
-[![Stars](https://img.shields.io/github/stars/unitystation/unitystation?style=flat-square&color=yellow)](https://github.com/unitystation/unitystation/stargazers) [![Forks](https://img.shields.io/github/forks/unitystation/unitystation?style=flat-square&color=blue)](https://github.com/unitystation/unitystation/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unitystation/unitystation?style=flat-square&color=yellow)](https://github.com/unitystation/unitystation/stargazers) [![Forks](https://img.shields.io/github/forks/unitystation/unitystation?style=flat-square&color=blue)](https://github.com/unitystation/unitystation/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The original unitystation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 619 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ UnityStation — это открытый кроссплатформенный 
 
 ### 中文
 
-unitystation/unitystation：unitystation/unitystation may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+unitystation/unitystation：unitystation/unitystation may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ unitystation/unitystation：unitystation/unitystation may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ unitystation/unitystation：unitystation/unitystation may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 63/100 |
 | stars | 61/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

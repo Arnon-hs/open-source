@@ -1,6 +1,6 @@
 # stagewise-io/stagewise
 
-[![Stars](https://img.shields.io/github/stars/stagewise-io/stagewise?style=flat-square&color=yellow)](https://github.com/stagewise-io/stagewise/stargazers) [![Forks](https://img.shields.io/github/forks/stagewise-io/stagewise?style=flat-square&color=blue)](https://github.com/stagewise-io/stagewise/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stagewise-io/stagewise?style=flat-square&color=yellow)](https://github.com/stagewise-io/stagewise/stargazers) [![Forks](https://img.shields.io/github/forks/stagewise-io/stagewise?style=flat-square&color=blue)](https://github.com/stagewise-io/stagewise/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 487 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stagewise-io/stagewise：stagewise-io/stagewise helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

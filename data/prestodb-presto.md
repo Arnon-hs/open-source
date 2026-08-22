@@ -1,6 +1,6 @@
 # prestodb/presto
 
-[![Stars](https://img.shields.io/github/stars/prestodb/presto?style=flat-square&color=yellow)](https://github.com/prestodb/presto/stargazers) [![Forks](https://img.shields.io/github/forks/prestodb/presto?style=flat-square&color=blue)](https://github.com/prestodb/presto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prestodb/presto?style=flat-square&color=yellow)](https://github.com/prestodb/presto/stargazers) [![Forks](https://img.shields.io/github/forks/prestodb/presto?style=flat-square&color=blue)](https://github.com/prestodb/presto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The official home of the Presto distributed SQL query engine for big data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 5.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ prestodb/presto：prestodb/presto helps convert raw data into searchable, analyz
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 91/100 |
 | stars | 90/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

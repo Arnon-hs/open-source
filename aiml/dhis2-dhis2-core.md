@@ -1,6 +1,6 @@
 # dhis2/dhis2-core
 
-[![Stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=flat-square&color=yellow)](https://github.com/dhis2/dhis2-core/stargazers) [![Forks](https://img.shields.io/github/forks/dhis2/dhis2-core?style=flat-square&color=blue)](https://github.com/dhis2/dhis2-core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dhis2/dhis2-core?style=flat-square&color=yellow)](https://github.com/dhis2/dhis2-core/stargazers) [![Forks](https://img.shields.io/github/forks/dhis2/dhis2-core?style=flat-square&color=blue)](https://github.com/dhis2/dhis2-core/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > DHIS 2 Core. Written in Java. Contains the service layer and Web API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 391 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Backend
 
 ### English
 
-dhis2/dhis2-core: dhis2/dhis2-core helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dhis2/dhis2-core: dhis2/dhis2-core helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-dhis2/dhis2-core: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dhis2/dhis2-core: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-dhis2/dhis2-core：dhis2/dhis2-core helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dhis2/dhis2-core：dhis2/dhis2-core helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dhis2/dhis2-core：dhis2/dhis2-core helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dhis2/dhis2-core：dhis2/dhis2-core helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 57/100 |
 | stars | 54/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

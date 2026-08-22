@@ -1,6 +1,6 @@
 # iiab/iiab
 
-[![Stars](https://img.shields.io/github/stars/iiab/iiab?style=flat-square&color=yellow)](https://github.com/iiab/iiab/stargazers) [![Forks](https://img.shields.io/github/forks/iiab/iiab?style=flat-square&color=blue)](https://github.com/iiab/iiab/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iiab/iiab?style=flat-square&color=yellow)](https://github.com/iiab/iiab/stargazers) [![Forks](https://img.shields.io/github/forks/iiab/iiab?style=flat-square&color=blue)](https://github.com/iiab/iiab/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ iiab/iiab：iiab/iiab helps ship user-facing interfaces with less custom UI work
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

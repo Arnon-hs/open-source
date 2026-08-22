@@ -1,6 +1,6 @@
 # ZhiXuanWang/cf-speed-dns
 
-[![Stars](https://img.shields.io/github/stars/ZhiXuanWang/cf-speed-dns?style=flat-square&color=yellow)](https://github.com/ZhiXuanWang/cf-speed-dns/stargazers) [![Forks](https://img.shields.io/github/forks/ZhiXuanWang/cf-speed-dns?style=flat-square&color=blue)](https://github.com/ZhiXuanWang/cf-speed-dns/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhiXuanWang/cf-speed-dns?style=flat-square&color=yellow)](https://github.com/ZhiXuanWang/cf-speed-dns/stargazers) [![Forks](https://img.shields.io/github/forks/ZhiXuanWang/cf-speed-dns?style=flat-square&color=blue)](https://github.com/ZhiXuanWang/cf-speed-dns/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 420 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ZhiXuanWang/cf-speed-dns — это набор утилит для выбор�
 
 ### 中文
 
-ZhiXuanWang/cf-speed-dns：ZhiXuanWang/cf-speed-dns helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ZhiXuanWang/cf-speed-dns：ZhiXuanWang/cf-speed-dns helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ZhiXuanWang/cf-speed-dns：ZhiXuanWang/cf-speed-dns helps engineers save time in
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ZhiXuanWang/cf-speed-dns：ZhiXuanWang/cf-speed-dns helps engineers save time in
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 66/100 |
 | stars | 67/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

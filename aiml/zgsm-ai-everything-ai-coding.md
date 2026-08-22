@@ -65,15 +65,15 @@ zgsm-ai/everything-ai-coding：zgsm-ai/everything-ai-coding helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
+| usefulness | 100/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 36/100 |
 | stars | 45/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

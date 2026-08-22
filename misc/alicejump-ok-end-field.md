@@ -1,6 +1,6 @@
 # AliceJump/ok-end-field
 
-[![Stars](https://img.shields.io/github/stars/AliceJump/ok-end-field?style=flat-square&color=yellow)](https://github.com/AliceJump/ok-end-field/stargazers) [![Forks](https://img.shields.io/github/forks/AliceJump/ok-end-field?style=flat-square&color=blue)](https://github.com/AliceJump/ok-end-field/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AliceJump/ok-end-field?style=flat-square&color=yellow)](https://github.com/AliceJump/ok-end-field/stargazers) [![Forks](https://img.shields.io/github/forks/AliceJump/ok-end-field?style=flat-square&color=blue)](https://github.com/AliceJump/ok-end-field/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 终末地 End Field Automation 基于ok-script开发的自动化
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 495 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AliceJump/ok‑end‑field is an open‑source automation tool for the “End Fi
 
 ### 中文
 
-AliceJump/ok-end-field：AliceJump/ok-end-field may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AliceJump/ok-end-field：AliceJump/ok-end-field may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ AliceJump/ok-end-field：AliceJump/ok-end-field may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ AliceJump/ok-end-field：AliceJump/ok-end-field may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

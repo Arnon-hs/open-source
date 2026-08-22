@@ -1,6 +1,6 @@
 # SukkaW/Surge
 
-[![Stars](https://img.shields.io/github/stars/SukkaW/Surge?style=flat-square&color=yellow)](https://github.com/SukkaW/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SukkaW/Surge?style=flat-square&color=blue)](https://github.com/SukkaW/Surge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SukkaW/Surge?style=flat-square&color=yellow)](https://github.com/SukkaW/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/SukkaW/Surge?style=flat-square&color=blue)](https://github.com/SukkaW/Surge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 279 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ SukkaW/Surge：SukkaW/Surge may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

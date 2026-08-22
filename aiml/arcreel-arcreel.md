@@ -1,6 +1,6 @@
 # ArcReel/ArcReel
 
-[![Stars](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square&color=yellow)](https://github.com/ArcReel/ArcReel/stargazers) [![Forks](https://img.shields.io/github/forks/ArcReel/ArcReel?style=flat-square&color=blue)](https://github.com/ArcReel/ArcReel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArcReel/ArcReel?style=flat-square&color=yellow)](https://github.com/ArcReel/ArcReel/stargazers) [![Forks](https://img.shields.io/github/forks/ArcReel/ArcReel?style=flat-square&color=blue)](https://github.com/ArcReel/ArcReel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ArcReel/ArcReel：ArcReel/ArcReel helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

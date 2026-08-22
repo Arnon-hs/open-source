@@ -1,6 +1,6 @@
 # fiso64/sldl
 
-[![Stars](https://img.shields.io/github/stars/fiso64/sldl?style=flat-square&color=yellow)](https://github.com/fiso64/sldl/stargazers) [![Forks](https://img.shields.io/github/forks/fiso64/sldl?style=flat-square&color=blue)](https://github.com/fiso64/sldl/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiso64/sldl?style=flat-square&color=yellow)](https://github.com/fiso64/sldl/stargazers) [![Forks](https://img.shields.io/github/forks/fiso64/sldl?style=flat-square&color=blue)](https://github.com/fiso64/sldl/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced download tool for Soulseek.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ fiso64/sldl is an open‑source, feature‑rich command‑line utility designed 
 
 ### 中文
 
-fiso64/sldl：fiso64/sldl helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+fiso64/sldl：fiso64/sldl helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ fiso64/sldl：fiso64/sldl helps engineers save time in daily development and rev
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ fiso64/sldl：fiso64/sldl helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 58/100 |
 | stars | 63/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

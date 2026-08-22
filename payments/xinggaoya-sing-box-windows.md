@@ -1,6 +1,6 @@
 # xinggaoya/sing-box-windows
 
-[![Stars](https://img.shields.io/github/stars/xinggaoya/sing-box-windows?style=flat-square&color=yellow)](https://github.com/xinggaoya/sing-box-windows/stargazers) [![Forks](https://img.shields.io/github/forks/xinggaoya/sing-box-windows?style=flat-square&color=blue)](https://github.com/xinggaoya/sing-box-windows/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xinggaoya/sing-box-windows?style=flat-square&color=yellow)](https://github.com/xinggaoya/sing-box-windows/stargazers) [![Forks](https://img.shields.io/github/forks/xinggaoya/sing-box-windows?style=flat-square&color=blue)](https://github.com/xinggaoya/sing-box-windows/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 现代化 sing-box 跨平台桌面客户端｜订阅导入・代理模式切换・运行态监控｜🪟 Windows / 🐧 Linux / 🍎 macOS。 Modern sing-box desktop client for subscriptions, proxy switching, and runtime monitoring.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 718 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Xinggaoya / sing‑box‑windows — это кросс‑платформ�
 
 ### 中文
 
-xinggaoya/sing-box-windows：xinggaoya/sing-box-windows helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xinggaoya/sing-box-windows：xinggaoya/sing-box-windows helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xinggaoya/sing-box-windows：xinggaoya/sing-box-windows helps integrate monetiza
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ xinggaoya/sing-box-windows：xinggaoya/sing-box-windows helps integrate monetiza
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 45/100 |
+| outlook | 46/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

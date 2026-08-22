@@ -1,6 +1,6 @@
 # secretlint/secretlint
 
-[![Stars](https://img.shields.io/github/stars/secretlint/secretlint?style=flat-square&color=yellow)](https://github.com/secretlint/secretlint/stargazers) [![Forks](https://img.shields.io/github/forks/secretlint/secretlint?style=flat-square&color=blue)](https://github.com/secretlint/secretlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/secretlint/secretlint?style=flat-square&color=yellow)](https://github.com/secretlint/secretlint/stargazers) [![Forks](https://img.shields.io/github/forks/secretlint/secretlint?style=flat-square&color=blue)](https://github.com/secretlint/secretlint/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Pluggable linting tool to prevent committing credential.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ secretlint/secretlint：secretlint/secretlint helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 60/100 |
 | stars | 67/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

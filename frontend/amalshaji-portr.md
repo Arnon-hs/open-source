@@ -1,6 +1,6 @@
 # amalshaji/portr
 
-[![Stars](https://img.shields.io/github/stars/amalshaji/portr?style=flat-square&color=yellow)](https://github.com/amalshaji/portr/stargazers) [![Forks](https://img.shields.io/github/forks/amalshaji/portr?style=flat-square&color=blue)](https://github.com/amalshaji/portr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amalshaji/portr?style=flat-square&color=yellow)](https://github.com/amalshaji/portr/stargazers) [![Forks](https://img.shields.io/github/forks/amalshaji/portr?style=flat-square&color=blue)](https://github.com/amalshaji/portr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Expose local http, tcp or websocket connections to the public internet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ amalshaji/portr：amalshaji/portr helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 68/100 |
 | stars | 74/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

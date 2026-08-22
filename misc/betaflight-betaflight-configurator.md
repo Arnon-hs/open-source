@@ -1,6 +1,6 @@
 # betaflight/betaflight-configurator
 
-[![Stars](https://img.shields.io/github/stars/betaflight/betaflight-configurator?style=flat-square&color=yellow)](https://github.com/betaflight/betaflight-configurator/stargazers) [![Forks](https://img.shields.io/github/forks/betaflight/betaflight-configurator?style=flat-square&color=blue)](https://github.com/betaflight/betaflight-configurator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/betaflight/betaflight-configurator?style=flat-square&color=yellow)](https://github.com/betaflight/betaflight-configurator/stargazers) [![Forks](https://img.shields.io/github/forks/betaflight/betaflight-configurator?style=flat-square&color=blue)](https://github.com/betaflight/betaflight-configurator/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Cross platform configuration and management application for the Betaflight firmware
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-betaflight/betaflight-configurator: betaflight/betaflight-configurator may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+betaflight/betaflight-configurator: betaflight/betaflight-configurator may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-betaflight/betaflight-configurator: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+betaflight/betaflight-configurator: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-betaflight/betaflight-configurator：betaflight/betaflight-configurator may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+betaflight/betaflight-configurator：betaflight/betaflight-configurator may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ betaflight/betaflight-configurator：betaflight/betaflight-configurator may be u
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ betaflight/betaflight-configurator：betaflight/betaflight-configurator may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

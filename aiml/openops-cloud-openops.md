@@ -1,6 +1,6 @@
 # openops-cloud/openops
 
-[![Stars](https://img.shields.io/github/stars/openops-cloud/openops?style=flat-square&color=yellow)](https://github.com/openops-cloud/openops/stargazers) [![Forks](https://img.shields.io/github/forks/openops-cloud/openops?style=flat-square&color=blue)](https://github.com/openops-cloud/openops/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openops-cloud/openops?style=flat-square&color=yellow)](https://github.com/openops-cloud/openops/stargazers) [![Forks](https://img.shields.io/github/forks/openops-cloud/openops?style=flat-square&color=blue)](https://github.com/openops-cloud/openops/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The batteries-included, No-Code FinOps automation platform, with the AI you trust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openops-cloud/openops：openops-cloud/openops helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

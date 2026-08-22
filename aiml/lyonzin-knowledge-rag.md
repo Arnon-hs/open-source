@@ -1,6 +1,6 @@
 # lyonzin/knowledge-rag
 
-[![Stars](https://img.shields.io/github/stars/lyonzin/knowledge-rag?style=flat-square&color=yellow)](https://github.com/lyonzin/knowledge-rag/stargazers) [![Forks](https://img.shields.io/github/forks/lyonzin/knowledge-rag?style=flat-square&color=blue)](https://github.com/lyonzin/knowledge-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lyonzin/knowledge-rag?style=flat-square&color=yellow)](https://github.com/lyonzin/knowledge-rag/stargazers) [![Forks](https://img.shields.io/github/forks/lyonzin/knowledge-rag?style=flat-square&color=blue)](https://github.com/lyonzin/knowledge-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid search + reranking. Zero servers, zero API keys, 100% local.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lyonzin/knowledge-rag：lyonzin/knowledge-rag helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 56/100 |
 | adoption | 37/100 |
 | stars | 40/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

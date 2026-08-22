@@ -1,6 +1,6 @@
 # terrapkg/packages
 
-[![Stars](https://img.shields.io/github/stars/terrapkg/packages?style=flat-square&color=yellow)](https://github.com/terrapkg/packages/stargazers) [![Forks](https://img.shields.io/github/forks/terrapkg/packages?style=flat-square&color=blue)](https://github.com/terrapkg/packages/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terrapkg/packages?style=flat-square&color=yellow)](https://github.com/terrapkg/packages/stargazers) [![Forks](https://img.shields.io/github/forks/terrapkg/packages?style=flat-square&color=blue)](https://github.com/terrapkg/packages/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Monorepo for Terra Packages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Terrapkg/packages - это монорепозиторий, содержащий 
 
 ### 中文
 
-terrapkg/packages：terrapkg/packages may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+terrapkg/packages：terrapkg/packages may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ terrapkg/packages：terrapkg/packages may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ terrapkg/packages：terrapkg/packages may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # unitycatalog/unitycatalog
 
-[![Stars](https://img.shields.io/github/stars/unitycatalog/unitycatalog?style=flat-square&color=yellow)](https://github.com/unitycatalog/unitycatalog/stargazers) [![Forks](https://img.shields.io/github/forks/unitycatalog/unitycatalog?style=flat-square&color=blue)](https://github.com/unitycatalog/unitycatalog/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unitycatalog/unitycatalog?style=flat-square&color=yellow)](https://github.com/unitycatalog/unitycatalog/stargazers) [![Forks](https://img.shields.io/github/forks/unitycatalog/unitycatalog?style=flat-square&color=blue)](https://github.com/unitycatalog/unitycatalog/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Open, Multi-modal Catalog for Data & AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 617 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Unity Catalog — это открытый, мульти‑модальный �
 
 ### 中文
 
-unitycatalog/unitycatalog：unitycatalog/unitycatalog helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+unitycatalog/unitycatalog：unitycatalog/unitycatalog helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ unitycatalog/unitycatalog：unitycatalog/unitycatalog helps add AI capability wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ unitycatalog/unitycatalog：unitycatalog/unitycatalog helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 74/100 |
 | stars | 75/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

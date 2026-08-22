@@ -1,6 +1,6 @@
 # matthuisman/i.mjh.nz
 
-[![Stars](https://img.shields.io/github/stars/matthuisman/i.mjh.nz?style=flat-square&color=yellow)](https://github.com/matthuisman/i.mjh.nz/stargazers) [![Forks](https://img.shields.io/github/forks/matthuisman/i.mjh.nz?style=flat-square&color=blue)](https://github.com/matthuisman/i.mjh.nz/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthuisman/i.mjh.nz?style=flat-square&color=yellow)](https://github.com/matthuisman/i.mjh.nz/stargazers) [![Forks](https://img.shields.io/github/forks/matthuisman/i.mjh.nz?style=flat-square&color=blue)](https://github.com/matthuisman/i.mjh.nz/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of https://i.mjh.nz + issues / feature requests
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **matthuisman/i.mjh.nz** repository is an open‑source mirror of the person
 
 ### 中文
 
-matthuisman/i.mjh.nz：matthuisman/i.mjh.nz helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+matthuisman/i.mjh.nz：matthuisman/i.mjh.nz helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ matthuisman/i.mjh.nz：matthuisman/i.mjh.nz helps add AI capability without star
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ matthuisman/i.mjh.nz：matthuisman/i.mjh.nz helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 54/100 |
 | stars | 56/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

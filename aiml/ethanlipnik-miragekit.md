@@ -1,6 +1,6 @@
 # EthanLipnik/MirageKit
 
-[![Stars](https://img.shields.io/github/stars/EthanLipnik/MirageKit?style=flat-square&color=yellow)](https://github.com/EthanLipnik/MirageKit/stargazers) [![Forks](https://img.shields.io/github/forks/EthanLipnik/MirageKit?style=flat-square&color=blue)](https://github.com/EthanLipnik/MirageKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EthanLipnik/MirageKit?style=flat-square&color=yellow)](https://github.com/EthanLipnik/MirageKit/stargazers) [![Forks](https://img.shields.io/github/forks/EthanLipnik/MirageKit?style=flat-square&color=blue)](https://github.com/EthanLipnik/MirageKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Peer to Peer screen sharing framework from macOS to iPadOS, visionOS, and macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 576 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ EthanLipnik/MirageKit：EthanLipnik/MirageKit helps add AI capability without st
 - updated 2026-05-07
 - primary language: Swift
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 52/100 |
+| production | 42/100 |
+| outlook | 45/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

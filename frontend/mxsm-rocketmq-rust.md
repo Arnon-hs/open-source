@@ -1,6 +1,6 @@
 # mxsm/rocketmq-rust
 
-[![Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat-square&color=yellow)](https://github.com/mxsm/rocketmq-rust/stargazers) [![Forks](https://img.shields.io/github/forks/mxsm/rocketmq-rust?style=flat-square&color=blue)](https://github.com/mxsm/rocketmq-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mxsm/rocketmq-rust?style=flat-square&color=yellow)](https://github.com/mxsm/rocketmq-rust/stargazers) [![Forks](https://img.shields.io/github/forks/mxsm/rocketmq-rust?style=flat-square&color=blue)](https://github.com/mxsm/rocketmq-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀Apache RocketMQ build in  Rust🦀. Faster, safer, and with lower memory usage. ⭐ Star to support our work❤️!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mxsm/rocketmq-rust：mxsm/rocketmq-rust helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

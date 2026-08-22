@@ -1,6 +1,6 @@
 # OpenCSGs/csghub-server
 
-[![Stars](https://img.shields.io/github/stars/OpenCSGs/csghub-server?style=flat-square&color=yellow)](https://github.com/OpenCSGs/csghub-server/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCSGs/csghub-server?style=flat-square&color=blue)](https://github.com/OpenCSGs/csghub-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenCSGs/csghub-server?style=flat-square&color=yellow)](https://github.com/OpenCSGs/csghub-server/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCSGs/csghub-server?style=flat-square&color=blue)](https://github.com/OpenCSGs/csghub-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OpenCSGs/csghub-server：OpenCSGs/csghub-server helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

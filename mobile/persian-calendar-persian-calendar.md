@@ -1,6 +1,6 @@
 # persian-calendar/persian-calendar
 
-[![Stars](https://img.shields.io/github/stars/persian-calendar/persian-calendar?style=flat-square&color=yellow)](https://github.com/persian-calendar/persian-calendar/stargazers) [![Forks](https://img.shields.io/github/forks/persian-calendar/persian-calendar?style=flat-square&color=blue)](https://github.com/persian-calendar/persian-calendar/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/persian-calendar/persian-calendar?style=flat-square&color=yellow)](https://github.com/persian-calendar/persian-calendar/stargazers) [![Forks](https://img.shields.io/github/forks/persian-calendar/persian-calendar?style=flat-square&color=blue)](https://github.com/persian-calendar/persian-calendar/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Android Persian Calendar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 925 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Persian‑Calendar is an open‑source Android library that provides a fully loc
 
 ### 中文
 
-persian-calendar/persian-calendar：persian-calendar/persian-calendar may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+persian-calendar/persian-calendar：persian-calendar/persian-calendar may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ persian-calendar/persian-calendar：persian-calendar/persian-calendar may be use
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ persian-calendar/persian-calendar：persian-calendar/persian-calendar may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

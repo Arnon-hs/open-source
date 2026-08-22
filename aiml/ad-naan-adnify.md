@@ -1,6 +1,6 @@
 # ad-naan/Adnify
 
-[![Stars](https://img.shields.io/github/stars/ad-naan/Adnify?style=flat-square&color=yellow)](https://github.com/ad-naan/Adnify/stargazers) [![Forks](https://img.shields.io/github/forks/ad-naan/Adnify?style=flat-square&color=blue)](https://github.com/ad-naan/Adnify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ad-naan/Adnify?style=flat-square&color=yellow)](https://github.com/ad-naan/Adnify/stargazers) [![Forks](https://img.shields.io/github/forks/ad-naan/Adnify?style=flat-square&color=blue)](https://github.com/ad-naan/Adnify/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Adnify—A lightweight, highly customizable AI Agent Editor.It delivers a superior experience beyond mainstream AI coding tools, featuring instant startup and lag-free performance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ad-naan/Adnify：ad-naan/Adnify helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 49/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

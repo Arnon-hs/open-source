@@ -1,6 +1,6 @@
 # delta-io/delta-rs
 
-[![Stars](https://img.shields.io/github/stars/delta-io/delta-rs?style=flat-square&color=yellow)](https://github.com/delta-io/delta-rs/stargazers) [![Forks](https://img.shields.io/github/forks/delta-io/delta-rs?style=flat-square&color=blue)](https://github.com/delta-io/delta-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/delta-io/delta-rs?style=flat-square&color=yellow)](https://github.com/delta-io/delta-rs/stargazers) [![Forks](https://img.shields.io/github/forks/delta-io/delta-rs?style=flat-square&color=blue)](https://github.com/delta-io/delta-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A native Rust library for Delta Lake, with bindings into Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 617 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ delta-io/delta-rs：delta-io/delta-rs helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

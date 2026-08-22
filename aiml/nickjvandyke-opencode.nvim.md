@@ -1,6 +1,6 @@
 # nickjvandyke/opencode.nvim
 
-[![Stars](https://img.shields.io/github/stars/nickjvandyke/opencode.nvim?style=flat-square&color=yellow)](https://github.com/nickjvandyke/opencode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/nickjvandyke/opencode.nvim?style=flat-square&color=blue)](https://github.com/nickjvandyke/opencode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nickjvandyke/opencode.nvim?style=flat-square&color=yellow)](https://github.com/nickjvandyke/opencode.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/nickjvandyke/opencode.nvim?style=flat-square&color=blue)](https://github.com/nickjvandyke/opencode.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Integrate Neovim and OpenCode AI to stay in your flow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ nickjvandyke/opencode.nvim：nickjvandyke/opencode.nvim helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

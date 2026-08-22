@@ -1,6 +1,6 @@
 # BYVoid/OpenCC
 
-[![Stars](https://img.shields.io/github/stars/BYVoid/OpenCC?style=flat-square&color=yellow)](https://github.com/BYVoid/OpenCC/stargazers) [![Forks](https://img.shields.io/github/forks/BYVoid/OpenCC?style=flat-square&color=blue)](https://github.com/BYVoid/OpenCC/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BYVoid/OpenCC?style=flat-square&color=yellow)](https://github.com/BYVoid/OpenCC/stargazers) [![Forks](https://img.shields.io/github/forks/BYVoid/OpenCC?style=flat-square&color=blue)](https://github.com/BYVoid/OpenCC/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Library for conversion between Traditional and Simplified Chinese
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ BYVoid/OpenCC：BYVoid/OpenCC may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

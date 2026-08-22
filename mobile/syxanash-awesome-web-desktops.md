@@ -1,6 +1,6 @@
 # syxanash/awesome-web-desktops
 
-[![Stars](https://img.shields.io/github/stars/syxanash/awesome-web-desktops?style=flat-square&color=yellow)](https://github.com/syxanash/awesome-web-desktops/stargazers) [![Forks](https://img.shields.io/github/forks/syxanash/awesome-web-desktops?style=flat-square&color=blue)](https://github.com/syxanash/awesome-web-desktops/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/syxanash/awesome-web-desktops?style=flat-square&color=yellow)](https://github.com/syxanash/awesome-web-desktops/stargazers) [![Forks](https://img.shields.io/github/forks/syxanash/awesome-web-desktops?style=flat-square&color=blue)](https://github.com/syxanash/awesome-web-desktops/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Websites, web apps, portfolios that look like desktop operating systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Mobile · Design
 
 ### English
 
-syxanash/awesome-web-desktops: syxanash/awesome-web-desktops may be useful when its README and activity match a concrete workflow.. Use it for Mobile, Design. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+syxanash/awesome-web-desktops: syxanash/awesome-web-desktops may be useful when its README and activity match a concrete workflow.. Use it for Mobile, Design. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-syxanash/awesome-web-desktops: open-source проект в категориях Mobile, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+syxanash/awesome-web-desktops: open-source проект в категориях Mobile, Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-syxanash/awesome-web-desktops：syxanash/awesome-web-desktops may be useful when its README and activity match a concrete workflow.。适合用于Mobile、Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+syxanash/awesome-web-desktops：syxanash/awesome-web-desktops may be useful when its README and activity match a concrete workflow.。适合用于Mobile、Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ syxanash/awesome-web-desktops：syxanash/awesome-web-desktops may be useful when
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ syxanash/awesome-web-desktops：syxanash/awesome-web-desktops may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 49/100 |
+| outlook | 52/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

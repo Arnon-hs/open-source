@@ -1,6 +1,6 @@
 # sceneview/sceneview
 
-[![Stars](https://img.shields.io/github/stars/sceneview/sceneview?style=flat-square&color=yellow)](https://github.com/sceneview/sceneview/stargazers) [![Forks](https://img.shields.io/github/forks/sceneview/sceneview?style=flat-square&color=blue)](https://github.com/sceneview/sceneview/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sceneview/sceneview?style=flat-square&color=yellow)](https://github.com/sceneview/sceneview/stargazers) [![Forks](https://img.shields.io/github/forks/sceneview/sceneview?style=flat-square&color=blue)](https://github.com/sceneview/sceneview/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 3D & AR SDK for Android (Jetpack Compose + Filament), iOS (SwiftUI + RealityKit), and Web. AI-first: llms.txt, MCP server, Copilot/Cursor rules. The only Compose-native 3D library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sceneview/sceneview：sceneview/sceneview helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

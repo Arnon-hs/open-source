@@ -1,6 +1,6 @@
 # GarethManning/education-agent-skills
 
-[![Stars](https://img.shields.io/github/stars/GarethManning/education-agent-skills?style=flat-square&color=yellow)](https://github.com/GarethManning/education-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/GarethManning/education-agent-skills?style=flat-square&color=blue)](https://github.com/GarethManning/education-agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GarethManning/education-agent-skills?style=flat-square&color=yellow)](https://github.com/GarethManning/education-agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/GarethManning/education-agent-skills?style=flat-square&color=blue)](https://github.com/GarethManning/education-agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source library of evidence-based Claude skills for educators — designed for teacher use and agent orchestration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ GarethManning/education-agent-skills：GarethManning/education-agent-skills help
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 50/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

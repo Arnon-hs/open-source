@@ -1,6 +1,6 @@
 # NodeSeekDev/NodeGet
 
-[![Stars](https://img.shields.io/github/stars/NodeSeekDev/NodeGet?style=flat-square&color=yellow)](https://github.com/NodeSeekDev/NodeGet/stargazers) [![Forks](https://img.shields.io/github/forks/NodeSeekDev/NodeGet?style=flat-square&color=blue)](https://github.com/NodeSeekDev/NodeGet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NodeSeekDev/NodeGet?style=flat-square&color=yellow)](https://github.com/NodeSeekDev/NodeGet/stargazers) [![Forks](https://img.shields.io/github/forks/NodeSeekDev/NodeGet?style=flat-square&color=blue)](https://github.com/NodeSeekDev/NodeGet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Next-generation server monitoring and management tools
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 184 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NodeSeekDev/NodeGet — это современный набор инстру�
 
 ### 中文
 
-NodeSeekDev/NodeGet：NodeSeekDev/NodeGet helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NodeSeekDev/NodeGet：NodeSeekDev/NodeGet helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NodeSeekDev/NodeGet：NodeSeekDev/NodeGet helps teams reuse service infrastructu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ NodeSeekDev/NodeGet：NodeSeekDev/NodeGet helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 56/100 |
+| production | 44/100 |
+| outlook | 49/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

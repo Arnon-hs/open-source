@@ -1,6 +1,6 @@
 # n8n-io/n8n-docs
 
-[![Stars](https://img.shields.io/github/stars/n8n-io/n8n-docs?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n-docs/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n-docs?style=flat-square&color=blue)](https://github.com/n8n-io/n8n-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n8n-io/n8n-docs?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n-docs/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n-docs?style=flat-square&color=blue)](https://github.com/n8n-io/n8n-docs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend
 
 ### English
 
-n8n-io/n8n-docs: n8n-io/n8n-docs helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+n8n-io/n8n-docs: n8n-io/n8n-docs helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-n8n-io/n8n-docs: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+n8n-io/n8n-docs: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-n8n-io/n8n-docs：n8n-io/n8n-docs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+n8n-io/n8n-docs：n8n-io/n8n-docs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ n8n-io/n8n-docs：n8n-io/n8n-docs helps add AI capability without starting from 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ n8n-io/n8n-docs：n8n-io/n8n-docs helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 61/100 |
+| production | 45/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 68/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

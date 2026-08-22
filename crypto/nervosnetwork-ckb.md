@@ -1,6 +1,6 @@
 # nervosnetwork/ckb
 
-[![Stars](https://img.shields.io/github/stars/nervosnetwork/ckb?style=flat-square&color=yellow)](https://github.com/nervosnetwork/ckb/stargazers) [![Forks](https://img.shields.io/github/forks/nervosnetwork/ckb?style=flat-square&color=blue)](https://github.com/nervosnetwork/ckb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nervosnetwork/ckb?style=flat-square&color=yellow)](https://github.com/nervosnetwork/ckb/stargazers) [![Forks](https://img.shields.io/github/forks/nervosnetwork/ckb?style=flat-square&color=blue)](https://github.com/nervosnetwork/ckb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Nervos CKB — открытая публичная блокчейн‑плат
 
 ### 中文
 
-nervosnetwork/ckb：nervosnetwork/ckb helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nervosnetwork/ckb：nervosnetwork/ckb helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nervosnetwork/ckb：nervosnetwork/ckb helps prototype or inspect blockchain work
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ nervosnetwork/ckb：nervosnetwork/ckb helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

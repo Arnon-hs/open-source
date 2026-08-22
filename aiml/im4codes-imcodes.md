@@ -1,6 +1,6 @@
 # im4codes/imcodes
 
-[![Stars](https://img.shields.io/github/stars/im4codes/imcodes?style=flat-square&color=yellow)](https://github.com/im4codes/imcodes/stargazers) [![Forks](https://img.shields.io/github/forks/im4codes/imcodes?style=flat-square&color=blue)](https://github.com/im4codes/imcodes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/im4codes/imcodes?style=flat-square&color=yellow)](https://github.com/im4codes/imcodes/stargazers) [![Forks](https://img.shields.io/github/forks/im4codes/imcodes?style=flat-square&color=blue)](https://github.com/im4codes/imcodes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The IM for agents. Shared memory, supervised execution, and cross-agent audit across AI providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Imcodes is an open‑source framework that enables agents to communicate and col
 
 ### 中文
 
-im4codes/imcodes：im4codes/imcodes helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+im4codes/imcodes：im4codes/imcodes helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ im4codes/imcodes：im4codes/imcodes helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ im4codes/imcodes：im4codes/imcodes helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 26/100 |
 | stars | 29/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

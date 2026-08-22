@@ -1,6 +1,6 @@
 # shirou/gopsutil
 
-[![Stars](https://img.shields.io/github/stars/shirou/gopsutil?style=flat-square&color=yellow)](https://github.com/shirou/gopsutil/stargazers) [![Forks](https://img.shields.io/github/forks/shirou/gopsutil?style=flat-square&color=blue)](https://github.com/shirou/gopsutil/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shirou/gopsutil?style=flat-square&color=yellow)](https://github.com/shirou/gopsutil/stargazers) [![Forks](https://img.shields.io/github/forks/shirou/gopsutil?style=flat-square&color=blue)](https://github.com/shirou/gopsutil/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > psutil for golang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ shirou/gopsutil：shirou/gopsutil may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

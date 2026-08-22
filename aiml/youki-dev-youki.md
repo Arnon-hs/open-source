@@ -1,6 +1,6 @@
 # youki-dev/youki
 
-[![Stars](https://img.shields.io/github/stars/youki-dev/youki?style=flat-square&color=yellow)](https://github.com/youki-dev/youki/stargazers) [![Forks](https://img.shields.io/github/forks/youki-dev/youki?style=flat-square&color=blue)](https://github.com/youki-dev/youki/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/youki-dev/youki?style=flat-square&color=yellow)](https://github.com/youki-dev/youki/stargazers) [![Forks](https://img.shields.io/github/forks/youki-dev/youki?style=flat-square&color=blue)](https://github.com/youki-dev/youki/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A container runtime written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 428 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ youki-dev/youki：youki-dev/youki helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 78/100 |
 | stars | 82/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

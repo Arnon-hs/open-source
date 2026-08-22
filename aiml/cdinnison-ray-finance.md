@@ -1,6 +1,6 @@
 # cdinnison/ray-finance
 
-[![Stars](https://img.shields.io/github/stars/cdinnison/ray-finance?style=flat-square&color=yellow)](https://github.com/cdinnison/ray-finance/stargazers) [![Forks](https://img.shields.io/github/forks/cdinnison/ray-finance?style=flat-square&color=blue)](https://github.com/cdinnison/ray-finance/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cdinnison/ray-finance?style=flat-square&color=yellow)](https://github.com/cdinnison/ray-finance/stargazers) [![Forks](https://img.shields.io/github/forks/cdinnison/ray-finance?style=flat-square&color=blue)](https://github.com/cdinnison/ray-finance/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI financial advisor that learns your situation and gets smarter every conversation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cdinnison/ray-finance：cdinnison/ray-finance helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

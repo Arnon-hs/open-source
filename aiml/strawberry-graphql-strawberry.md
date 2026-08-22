@@ -1,6 +1,6 @@
 # strawberry-graphql/strawberry
 
-[![Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat-square&color=yellow)](https://github.com/strawberry-graphql/strawberry/stargazers) [![Forks](https://img.shields.io/github/forks/strawberry-graphql/strawberry?style=flat-square&color=blue)](https://github.com/strawberry-graphql/strawberry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat-square&color=yellow)](https://github.com/strawberry-graphql/strawberry/stargazers) [![Forks](https://img.shields.io/github/forks/strawberry-graphql/strawberry?style=flat-square&color=blue)](https://github.com/strawberry-graphql/strawberry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A GraphQL library for Python that leverages type annotations 🍓
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 635 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ strawberry-graphql/strawberry：strawberry-graphql/strawberry helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

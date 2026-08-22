@@ -1,6 +1,6 @@
 # ComposeGears/Valkyrie
 
-[![Stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat-square&color=yellow)](https://github.com/ComposeGears/Valkyrie/stargazers) [![Forks](https://img.shields.io/github/forks/ComposeGears/Valkyrie?style=flat-square&color=blue)](https://github.com/ComposeGears/Valkyrie/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComposeGears/Valkyrie?style=flat-square&color=yellow)](https://github.com/ComposeGears/Valkyrie/stargazers) [![Forks](https://img.shields.io/github/forks/ComposeGears/Valkyrie?style=flat-square&color=blue)](https://github.com/ComposeGears/Valkyrie/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > SVG/XML to Compose ImageVector: IntelliJ IDEA / Android Studio plugin + build-in previewer without compilation, CLI tool, Gradle plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 846 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ComposeGears/Valkyrie：ComposeGears/Valkyrie helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 55/100 |
 | stars | 62/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

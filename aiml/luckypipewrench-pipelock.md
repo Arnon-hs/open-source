@@ -1,6 +1,6 @@
 # luckyPipewrench/pipelock
 
-[![Stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&color=yellow)](https://github.com/luckyPipewrench/pipelock/stargazers) [![Forks](https://img.shields.io/github/forks/luckyPipewrench/pipelock?style=flat-square&color=blue)](https://github.com/luckyPipewrench/pipelock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/luckyPipewrench/pipelock?style=flat-square&color=yellow)](https://github.com/luckyPipewrench/pipelock/stargazers) [![Forks](https://img.shields.io/github/forks/luckyPipewrench/pipelock?style=flat-square&color=blue)](https://github.com/luckyPipewrench/pipelock/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 557 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ luckyPipewrench/pipelock：luckyPipewrench/pipelock helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

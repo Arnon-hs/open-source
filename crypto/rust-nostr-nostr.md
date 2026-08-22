@@ -1,6 +1,6 @@
 # rust-nostr/nostr
 
-[![Stars](https://img.shields.io/github/stars/rust-nostr/nostr?style=flat-square&color=yellow)](https://github.com/rust-nostr/nostr/stargazers) [![Forks](https://img.shields.io/github/forks/rust-nostr/nostr?style=flat-square&color=blue)](https://github.com/rust-nostr/nostr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-nostr/nostr?style=flat-square&color=yellow)](https://github.com/rust-nostr/nostr/stargazers) [![Forks](https://img.shields.io/github/forks/rust-nostr/nostr?style=flat-square&color=blue)](https://github.com/rust-nostr/nostr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of the nostr protocol, high-level client library, Nostr Wallet Connect and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rust-nostr/nostr：rust-nostr/nostr helps prototype or inspect blockchain workfl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 94/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

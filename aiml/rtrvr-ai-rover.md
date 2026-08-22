@@ -1,6 +1,6 @@
 # rtrvr-ai/rover
 
-[![Stars](https://img.shields.io/github/stars/rtrvr-ai/rover?style=flat-square&color=yellow)](https://github.com/rtrvr-ai/rover/stargazers) [![Forks](https://img.shields.io/github/forks/rtrvr-ai/rover?style=flat-square&color=blue)](https://github.com/rtrvr-ai/rover/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rtrvr-ai/rover?style=flat-square&color=yellow)](https://github.com/rtrvr-ai/rover/stargazers) [![Forks](https://img.shields.io/github/forks/rtrvr-ai/rover?style=flat-square&color=blue)](https://github.com/rtrvr-ai/rover/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any web interface into an AI agent — for humans and machines. Open-source, DOM-native SDK. Sub-second actions, no screenshots, no VMs. Websites, Chrome extensions, Electron apps, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rtrvr-ai/rover：rtrvr-ai/rover helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 42/100 |
 | stars | 45/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

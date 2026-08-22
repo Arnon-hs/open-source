@@ -1,6 +1,6 @@
 # variety/variety
 
-[![Stars](https://img.shields.io/github/stars/variety/variety?style=flat-square&color=yellow)](https://github.com/variety/variety/stargazers) [![Forks](https://img.shields.io/github/forks/variety/variety?style=flat-square&color=blue)](https://github.com/variety/variety/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/variety/variety?style=flat-square&color=yellow)](https://github.com/variety/variety/stargazers) [![Forks](https://img.shields.io/github/forks/variety/variety?style=flat-square&color=blue)](https://github.com/variety/variety/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Variety: a MongoDB schema analyzer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ variety/variety：variety/variety helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

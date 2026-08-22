@@ -1,6 +1,6 @@
 # Kohaku-Lab/KohakuTerrarium
 
-[![Stars](https://img.shields.io/github/stars/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=yellow)](https://github.com/Kohaku-Lab/KohakuTerrarium/stargazers) [![Forks](https://img.shields.io/github/forks/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=blue)](https://github.com/Kohaku-Lab/KohakuTerrarium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=yellow)](https://github.com/Kohaku-Lab/KohakuTerrarium/stargazers) [![Forks](https://img.shields.io/github/forks/Kohaku-Lab/KohakuTerrarium?style=flat-square&color=blue)](https://github.com/Kohaku-Lab/KohakuTerrarium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > KohakuTerrarium is a general-purpose AI agent framework and batteries-included app for building, running, and composing self-contained agents and multi-agent teams, with built-in tools, sub-agents, persistent sessions, TUI, and web UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ KohakuTerrarium — универсальный фреймворк для с�
 
 ### 中文
 
-Kohaku-Lab/KohakuTerrarium：Kohaku-Lab/KohakuTerrarium helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Kohaku-Lab/KohakuTerrarium：Kohaku-Lab/KohakuTerrarium helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Kohaku-Lab/KohakuTerrarium：Kohaku-Lab/KohakuTerrarium helps turn isolated prom
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Kohaku-Lab/KohakuTerrarium：Kohaku-Lab/KohakuTerrarium helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
+| production | 46/100 |
+| outlook | 51/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

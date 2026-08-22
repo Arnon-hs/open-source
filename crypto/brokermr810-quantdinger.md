@@ -1,6 +1,6 @@
 # brokermr810/QuantDinger
 
-[![Stars](https://img.shields.io/github/stars/brokermr810/QuantDinger?style=flat-square&color=yellow)](https://github.com/brokermr810/QuantDinger/stargazers) [![Forks](https://img.shields.io/github/forks/brokermr810/QuantDinger?style=flat-square&color=blue)](https://github.com/brokermr810/QuantDinger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brokermr810/QuantDinger?style=flat-square&color=yellow)](https://github.com/brokermr810/QuantDinger/stargazers) [![Forks](https://img.shields.io/github/forks/brokermr810/QuantDinger?style=flat-square&color=blue)](https://github.com/brokermr810/QuantDinger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 
@@ -8,34 +8,34 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.5k |
-| 🍴 **Forks** | 2k |
+| ⭐ **Stars** | 3.6k |
+| 🍴 **Forks** | 793 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `ai` `alpaca` `backtesting` `binance` `coinbase` `crypto` `exchange` `finance` `fintech` `forex` `mcp-server`
+`ai-trade` `ai-trading-algorithm` `algorithmic-trading-portfolio` `algotrade` `backtesting-frameworks` `cryptocurrencies` `cryptocurrency-analyser` `forex-trading` `live-trading` `llm-integration` `machine-learning` `multi-agents`
 
 ## 🎯 Categories
 
-Crypto · Trading · Orchestration · MCP · AI/ML
+Crypto · Trading · Orchestration
 
 ## 📝 Summary
 
 ### English
 
-brokermr810/QuantDinger: brokermr810/QuantDinger helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+brokermr810/QuantDinger: brokermr810/QuantDinger helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-brokermr810/QuantDinger: open-source проект в категориях Crypto, Trading, Orchestration, MCP, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+brokermr810/QuantDinger: open-source проект в категориях Crypto, Trading, Orchestration. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-brokermr810/QuantDinger：brokermr810/QuantDinger helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+brokermr810/QuantDinger：brokermr810/QuantDinger helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,15 +47,15 @@ brokermr810/QuantDinger：brokermr810/QuantDinger helps prototype or inspect blo
 - inspect blockchain integrations
 - prototype wallet or DeFi features
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 9529 GitHub stars
-- 1998 forks
-- updated 2026-07-12
+- 3646 GitHub stars
+- 793 forks
+- updated 2026-05-07
 - primary language: Python
 - 20 topics
 
@@ -65,18 +65,18 @@ brokermr810/QuantDinger：brokermr810/QuantDinger helps prototype or inspect blo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 93/100 |
+| usefulness | 100/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 83/100 |
-| outlook | 94/100 |
-| adoption | 84/100 |
-| stars | 85/100 |
-| forks | 83/100 |
-| recency | 100/100 |
+| production | 55/100 |
+| outlook | 66/100 |
+| adoption | 75/100 |
+| stars | 76/100 |
+| forks | 72/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/brokermr810/QuantDinger) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/brokermr810/QuantDinger) · [← Back to Crypto](./README.md)</sub>

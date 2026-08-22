@@ -1,6 +1,6 @@
 # hiroppy/web-app-template
 
-[![Stars](https://img.shields.io/github/stars/hiroppy/web-app-template?style=flat-square&color=yellow)](https://github.com/hiroppy/web-app-template/stargazers) [![Forks](https://img.shields.io/github/forks/hiroppy/web-app-template?style=flat-square&color=blue)](https://github.com/hiroppy/web-app-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hiroppy/web-app-template?style=flat-square&color=yellow)](https://github.com/hiroppy/web-app-template/stargazers) [![Forks](https://img.shields.io/github/forks/hiroppy/web-app-template?style=flat-square&color=blue)](https://github.com/hiroppy/web-app-template/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal web service template 🎃  "npx create-app-foundation@latest" !
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ hiroppy/web-app-template：hiroppy/web-app-template helps integrate monetization
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
+| usefulness | 58/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 53/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 42/100 |
 | stars | 47/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

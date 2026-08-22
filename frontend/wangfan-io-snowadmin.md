@@ -1,6 +1,6 @@
 # WangFan-io/SnowAdmin
 
-[![Stars](https://img.shields.io/github/stars/WangFan-io/SnowAdmin?style=flat-square&color=yellow)](https://github.com/WangFan-io/SnowAdmin/stargazers) [![Forks](https://img.shields.io/github/forks/WangFan-io/SnowAdmin?style=flat-square&color=blue)](https://github.com/WangFan-io/SnowAdmin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WangFan-io/SnowAdmin?style=flat-square&color=yellow)](https://github.com/WangFan-io/SnowAdmin/stargazers) [![Forks](https://img.shields.io/github/forks/WangFan-io/SnowAdmin?style=flat-square&color=blue)](https://github.com/WangFan-io/SnowAdmin/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SnowAdmin — это современный open‑source фреймворк �
 
 ### 中文
 
-WangFan-io/SnowAdmin：WangFan-io/SnowAdmin helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WangFan-io/SnowAdmin：WangFan-io/SnowAdmin helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ WangFan-io/SnowAdmin：WangFan-io/SnowAdmin helps ship user-facing interfaces wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ WangFan-io/SnowAdmin：WangFan-io/SnowAdmin helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # MarlBurroW/kinbot
 
-[![Stars](https://img.shields.io/github/stars/MarlBurroW/kinbot?style=flat-square&color=yellow)](https://github.com/MarlBurroW/kinbot/stargazers) [![Forks](https://img.shields.io/github/forks/MarlBurroW/kinbot?style=flat-square&color=blue)](https://github.com/MarlBurroW/kinbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarlBurroW/kinbot?style=flat-square&color=yellow)](https://github.com/MarlBurroW/kinbot/stargazers) [![Forks](https://img.shields.io/github/forks/MarlBurroW/kinbot?style=flat-square&color=blue)](https://github.com/MarlBurroW/kinbot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI agents with persistent memory, real identity, and collaboration. One process, one SQLite file, zero cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MarlBurroW/kinbot：MarlBurroW/kinbot helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 32/100 |
 | stars | 34/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

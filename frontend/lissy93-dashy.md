@@ -1,6 +1,6 @@
 # Lissy93/dashy
 
-[![Stars](https://img.shields.io/github/stars/Lissy93/dashy?style=flat-square&color=yellow)](https://github.com/Lissy93/dashy/stargazers) [![Forks](https://img.shields.io/github/forks/Lissy93/dashy?style=flat-square&color=blue)](https://github.com/Lissy93/dashy/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lissy93/dashy?style=flat-square&color=yellow)](https://github.com/Lissy93/dashy/stargazers) [![Forks](https://img.shields.io/github/forks/Lissy93/dashy?style=flat-square&color=blue)](https://github.com/Lissy93/dashy/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Lissy93/dashy：Lissy93/dashy helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 90/100 |
 | stars | 94/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

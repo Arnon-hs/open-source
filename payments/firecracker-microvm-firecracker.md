@@ -1,6 +1,6 @@
 # firecracker-microvm/firecracker
 
-[![Stars](https://img.shields.io/github/stars/firecracker-microvm/firecracker?style=flat-square&color=yellow)](https://github.com/firecracker-microvm/firecracker/stargazers) [![Forks](https://img.shields.io/github/forks/firecracker-microvm/firecracker?style=flat-square&color=blue)](https://github.com/firecracker-microvm/firecracker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firecracker-microvm/firecracker?style=flat-square&color=yellow)](https://github.com/firecracker-microvm/firecracker/stargazers) [![Forks](https://img.shields.io/github/forks/firecracker-microvm/firecracker?style=flat-square&color=blue)](https://github.com/firecracker-microvm/firecracker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Secure and fast microVMs for serverless computing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.2k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ firecracker-microvm/firecracker：firecracker-microvm/firecracker helps integrat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

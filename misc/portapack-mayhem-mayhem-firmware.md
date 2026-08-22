@@ -1,6 +1,6 @@
 # portapack-mayhem/mayhem-firmware
 
-[![Stars](https://img.shields.io/github/stars/portapack-mayhem/mayhem-firmware?style=flat-square&color=yellow)](https://github.com/portapack-mayhem/mayhem-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/portapack-mayhem/mayhem-firmware?style=flat-square&color=blue)](https://github.com/portapack-mayhem/mayhem-firmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/portapack-mayhem/mayhem-firmware?style=flat-square&color=yellow)](https://github.com/portapack-mayhem/mayhem-firmware/stargazers) [![Forks](https://img.shields.io/github/forks/portapack-mayhem/mayhem-firmware?style=flat-square&color=blue)](https://github.com/portapack-mayhem/mayhem-firmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The firmware for the HackRF+PortaPack H1/H2/H4/H4M
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 866 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ portapack-mayhem/mayhem-firmware：portapack-mayhem/mayhem-firmware may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

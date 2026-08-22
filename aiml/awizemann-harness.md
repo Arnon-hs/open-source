@@ -1,6 +1,6 @@
 # awizemann/harness
 
-[![Stars](https://img.shields.io/github/stars/awizemann/harness?style=flat-square&color=yellow)](https://github.com/awizemann/harness/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/harness?style=flat-square&color=blue)](https://github.com/awizemann/harness/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awizemann/harness?style=flat-square&color=yellow)](https://github.com/awizemann/harness/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/harness?style=flat-square&color=blue)](https://github.com/awizemann/harness/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Harness is an open‑source dev‑tool that lets you define a plain‑language g
 
 ### 中文
 
-awizemann/harness：awizemann/harness helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awizemann/harness：awizemann/harness helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awizemann/harness：awizemann/harness helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ awizemann/harness：awizemann/harness helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 47/100 |
+| outlook | 52/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

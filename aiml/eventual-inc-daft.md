@@ -1,6 +1,6 @@
 # Eventual-Inc/Daft
 
-[![Stars](https://img.shields.io/github/stars/Eventual-Inc/Daft?style=flat-square&color=yellow)](https://github.com/Eventual-Inc/Daft/stargazers) [![Forks](https://img.shields.io/github/forks/Eventual-Inc/Daft?style=flat-square&color=blue)](https://github.com/Eventual-Inc/Daft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Eventual-Inc/Daft?style=flat-square&color=yellow)](https://github.com/Eventual-Inc/Daft/stargazers) [![Forks](https://img.shields.io/github/forks/Eventual-Inc/Daft?style=flat-square&color=blue)](https://github.com/Eventual-Inc/Daft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 463 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ Eventual-Inc/Daft：Eventual-Inc/Daft helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

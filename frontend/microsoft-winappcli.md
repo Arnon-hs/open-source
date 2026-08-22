@@ -1,6 +1,6 @@
 # microsoft/winappCli
 
-[![Stars](https://img.shields.io/github/stars/microsoft/winappCli?style=flat-square&color=yellow)](https://github.com/microsoft/winappCli/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/winappCli?style=flat-square&color=blue)](https://github.com/microsoft/winappCli/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/winappCli?style=flat-square&color=yellow)](https://github.com/microsoft/winappCli/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/winappCli?style=flat-square&color=blue)](https://github.com/microsoft/winappCli/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/winappCli：microsoft/winappCli helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 69/100 |
+| production | 53/100 |
+| outlook | 62/100 |
 | adoption | 58/100 |
 | stars | 64/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

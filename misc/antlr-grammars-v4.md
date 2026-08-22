@@ -1,6 +1,6 @@
 # antlr/grammars-v4
 
-[![Stars](https://img.shields.io/github/stars/antlr/grammars-v4?style=flat-square&color=yellow)](https://github.com/antlr/grammars-v4/stargazers) [![Forks](https://img.shields.io/github/forks/antlr/grammars-v4?style=flat-square&color=blue)](https://github.com/antlr/grammars-v4/network) [![Language](https://img.shields.io/badge/lang-ANTLR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antlr/grammars-v4?style=flat-square&color=yellow)](https://github.com/antlr/grammars-v4/stargazers) [![Forks](https://img.shields.io/github/forks/antlr/grammars-v4?style=flat-square&color=blue)](https://github.com/antlr/grammars-v4/network) [![Language](https://img.shields.io/badge/lang-ANTLR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | ANTLR |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **antlr/grammars-v4** repository houses a collection of language grammars wr
 
 ### 中文
 
-antlr/grammars-v4：antlr/grammars-v4 may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+antlr/grammars-v4：antlr/grammars-v4 may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ antlr/grammars-v4：antlr/grammars-v4 may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ antlr/grammars-v4：antlr/grammars-v4 may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 87/100 |
 | stars | 86/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # nuwax-ai/nuwax
 
-[![Stars](https://img.shields.io/github/stars/nuwax-ai/nuwax?style=flat-square&color=yellow)](https://github.com/nuwax-ai/nuwax/stargazers) [![Forks](https://img.shields.io/github/forks/nuwax-ai/nuwax?style=flat-square&color=blue)](https://github.com/nuwax-ai/nuwax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuwax-ai/nuwax?style=flat-square&color=yellow)](https://github.com/nuwax-ai/nuwax/stargazers) [![Forks](https://img.shields.io/github/forks/nuwax-ai/nuwax?style=flat-square&color=blue)](https://github.com/nuwax-ai/nuwax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Nuwax Agent OS - The world's first universal agent operating system, building your private vertical general-purpose agent.  通用智能体操作系统，打造你私有的垂类通用智能体。新一代AI应用设计、开发、实践平台，无需代码，轻松创建，适合各类人群，支持多种端发布及API，提供完善的工作流、插件以及应用开发能力，RAG知识库与数据表存储能力，MCP接入以及开放能力。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nuwax-ai/nuwax：nuwax-ai/nuwax helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

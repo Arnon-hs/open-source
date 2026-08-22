@@ -1,6 +1,6 @@
 # sqldelight/sqldelight
 
-[![Stars](https://img.shields.io/github/stars/sqldelight/sqldelight?style=flat-square&color=yellow)](https://github.com/sqldelight/sqldelight/stargazers) [![Forks](https://img.shields.io/github/forks/sqldelight/sqldelight?style=flat-square&color=blue)](https://github.com/sqldelight/sqldelight/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sqldelight/sqldelight?style=flat-square&color=yellow)](https://github.com/sqldelight/sqldelight/stargazers) [![Forks](https://img.shields.io/github/forks/sqldelight/sqldelight?style=flat-square&color=blue)](https://github.com/sqldelight/sqldelight/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > SQLDelight - Generates typesafe Kotlin APIs from SQL
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 566 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sqldelight/sqldelight：sqldelight/sqldelight helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 78/100 |
 | stars | 82/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

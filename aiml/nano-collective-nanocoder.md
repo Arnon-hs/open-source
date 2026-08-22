@@ -1,6 +1,6 @@
 # Nano-Collective/nanocoder
 
-[![Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&color=yellow)](https://github.com/Nano-Collective/nanocoder/stargazers) [![Forks](https://img.shields.io/github/forks/Nano-Collective/nanocoder?style=flat-square&color=blue)](https://github.com/Nano-Collective/nanocoder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat-square&color=yellow)](https://github.com/Nano-Collective/nanocoder/stargazers) [![Forks](https://img.shields.io/github/forks/Nano-Collective/nanocoder?style=flat-square&color=blue)](https://github.com/Nano-Collective/nanocoder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Nano-Collective/nanocoder：Nano-Collective/nanocoder helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

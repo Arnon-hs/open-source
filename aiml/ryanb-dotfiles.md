@@ -1,6 +1,6 @@
 # ryanb/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/ryanb/dotfiles?style=flat-square&color=yellow)](https://github.com/ryanb/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/ryanb/dotfiles?style=flat-square&color=blue)](https://github.com/ryanb/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ryanb/dotfiles?style=flat-square&color=yellow)](https://github.com/ryanb/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/ryanb/dotfiles?style=flat-square&color=blue)](https://github.com/ryanb/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > config files for zsh, bash, completions, gem, git, irb, rails
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ r​yanb/dotfiles — это открытый набор конфигурац�
 
 ### 中文
 
-ryanb/dotfiles：ryanb/dotfiles helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ryanb/dotfiles：ryanb/dotfiles helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ryanb/dotfiles：ryanb/dotfiles helps add AI capability without starting from a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ryanb/dotfiles：ryanb/dotfiles helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

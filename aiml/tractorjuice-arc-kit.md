@@ -1,6 +1,6 @@
 # tractorjuice/arc-kit
 
-[![Stars](https://img.shields.io/github/stars/tractorjuice/arc-kit?style=flat-square&color=yellow)](https://github.com/tractorjuice/arc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/tractorjuice/arc-kit?style=flat-square&color=blue)](https://github.com/tractorjuice/arc-kit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tractorjuice/arc-kit?style=flat-square&color=yellow)](https://github.com/tractorjuice/arc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/tractorjuice/arc-kit?style=flat-square&color=blue)](https://github.com/tractorjuice/arc-kit/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise Architecture Governance & Vendor Procurement Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tractorjuice/arc‑kit is an open‑source toolkit that helps enterprises define
 
 ### 中文
 
-tractorjuice/arc-kit：tractorjuice/arc-kit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tractorjuice/arc-kit：tractorjuice/arc-kit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tractorjuice/arc-kit：tractorjuice/arc-kit helps add AI capability without star
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ tractorjuice/arc-kit：tractorjuice/arc-kit helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

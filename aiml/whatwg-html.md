@@ -1,6 +1,6 @@
 # whatwg/html
 
-[![Stars](https://img.shields.io/github/stars/whatwg/html?style=flat-square&color=yellow)](https://github.com/whatwg/html/stargazers) [![Forks](https://img.shields.io/github/forks/whatwg/html?style=flat-square&color=blue)](https://github.com/whatwg/html/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whatwg/html?style=flat-square&color=yellow)](https://github.com/whatwg/html/stargazers) [![Forks](https://img.shields.io/github/forks/whatwg/html?style=flat-square&color=blue)](https://github.com/whatwg/html/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > HTML Standard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ whatwg/html：whatwg/html helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 85/100 |
 | stars | 84/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

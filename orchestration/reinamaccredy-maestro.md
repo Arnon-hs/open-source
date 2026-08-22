@@ -1,6 +1,6 @@
 # ReinaMacCredy/maestro
 
-[![Stars](https://img.shields.io/github/stars/ReinaMacCredy/maestro?style=flat-square&color=yellow)](https://github.com/ReinaMacCredy/maestro/stargazers) [![Forks](https://img.shields.io/github/forks/ReinaMacCredy/maestro?style=flat-square&color=blue)](https://github.com/ReinaMacCredy/maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ReinaMacCredy/maestro?style=flat-square&color=yellow)](https://github.com/ReinaMacCredy/maestro/stargazers) [![Forks](https://img.shields.io/github/forks/ReinaMacCredy/maestro?style=flat-square&color=blue)](https://github.com/ReinaMacCredy/maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Conductor for cross-agent coding workflows: structured memory, handoffs, plan-approve-execute coordination, and an evidence-based trust substrate across external CLIs (Codex, Claude Code, Hermes).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ReinaMacCredy/maestro：ReinaMacCredy/maestro helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

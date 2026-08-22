@@ -1,6 +1,6 @@
 # boxlite-ai/boxlite
 
-[![Stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=flat-square&color=yellow)](https://github.com/boxlite-ai/boxlite/stargazers) [![Forks](https://img.shields.io/github/forks/boxlite-ai/boxlite?style=flat-square&color=blue)](https://github.com/boxlite-ai/boxlite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boxlite-ai/boxlite?style=flat-square&color=yellow)](https://github.com/boxlite-ai/boxlite/stargazers) [![Forks](https://img.shields.io/github/forks/boxlite-ai/boxlite?style=flat-square&color=blue)](https://github.com/boxlite-ai/boxlite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ boxlite-ai/boxlite：boxlite-ai/boxlite helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

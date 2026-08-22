@@ -1,6 +1,6 @@
 # storj/storj
 
-[![Stars](https://img.shields.io/github/stars/storj/storj?style=flat-square&color=yellow)](https://github.com/storj/storj/stargazers) [![Forks](https://img.shields.io/github/forks/storj/storj?style=flat-square&color=blue)](https://github.com/storj/storj/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/storj/storj?style=flat-square&color=yellow)](https://github.com/storj/storj/stargazers) [![Forks](https://img.shields.io/github/forks/storj/storj?style=flat-square&color=blue)](https://github.com/storj/storj/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 424 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ storj/storj：storj/storj helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

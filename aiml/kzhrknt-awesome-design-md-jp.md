@@ -1,6 +1,6 @@
 # kzhrknt/awesome-design-md-jp
 
-[![Stars](https://img.shields.io/github/stars/kzhrknt/awesome-design-md-jp?style=flat-square&color=yellow)](https://github.com/kzhrknt/awesome-design-md-jp/stargazers) [![Forks](https://img.shields.io/github/forks/kzhrknt/awesome-design-md-jp?style=flat-square&color=blue)](https://github.com/kzhrknt/awesome-design-md-jp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kzhrknt/awesome-design-md-jp?style=flat-square&color=yellow)](https://github.com/kzhrknt/awesome-design-md-jp/stargazers) [![Forks](https://img.shields.io/github/forks/kzhrknt/awesome-design-md-jp?style=flat-square&color=blue)](https://github.com/kzhrknt/awesome-design-md-jp/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ This open-source project, "awesome-design-md-jp", provides a comprehensive colle
 
 ### 中文
 
-kzhrknt/awesome-design-md-jp：kzhrknt/awesome-design-md-jp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kzhrknt/awesome-design-md-jp：kzhrknt/awesome-design-md-jp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ kzhrknt/awesome-design-md-jp：kzhrknt/awesome-design-md-jp helps add AI capabil
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -60,21 +60,21 @@ kzhrknt/awesome-design-md-jp：kzhrknt/awesome-design-md-jp helps add AI capabil
 - updated 2026-05-08
 - primary language: HTML
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 45/100 |
+| outlook | 42/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # opensolon/solon-ai
 
-[![Stars](https://img.shields.io/github/stars/opensolon/solon-ai?style=flat-square&color=yellow)](https://github.com/opensolon/solon-ai/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/solon-ai?style=flat-square&color=blue)](https://github.com/opensolon/solon-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensolon/solon-ai?style=flat-square&color=yellow)](https://github.com/opensolon/solon-ai/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/solon-ai?style=flat-square&color=blue)](https://github.com/opensolon/solon-ai/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ opensolon/solon-ai：opensolon/solon-ai helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 60/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

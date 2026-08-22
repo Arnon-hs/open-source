@@ -1,6 +1,6 @@
 # FletchMcKee/liquid
 
-[![Stars](https://img.shields.io/github/stars/FletchMcKee/liquid?style=flat-square&color=yellow)](https://github.com/FletchMcKee/liquid/stargazers) [![Forks](https://img.shields.io/github/forks/FletchMcKee/liquid?style=flat-square&color=blue)](https://github.com/FletchMcKee/liquid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FletchMcKee/liquid?style=flat-square&color=yellow)](https://github.com/FletchMcKee/liquid/stargazers) [![Forks](https://img.shields.io/github/forks/FletchMcKee/liquid?style=flat-square&color=blue)](https://github.com/FletchMcKee/liquid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Liquid RuntimeShader effects for Compose Multiplatform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 532 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FletchMcKee/liquid — это открытая библиотека, пред�
 
 ### 中文
 
-FletchMcKee/liquid：FletchMcKee/liquid helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+FletchMcKee/liquid：FletchMcKee/liquid helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ FletchMcKee/liquid：FletchMcKee/liquid helps ship user-facing interfaces with l
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ FletchMcKee/liquid：FletchMcKee/liquid helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

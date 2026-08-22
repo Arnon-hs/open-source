@@ -1,6 +1,6 @@
 # remarkablemark/html-react-parser
 
-[![Stars](https://img.shields.io/github/stars/remarkablemark/html-react-parser?style=flat-square&color=yellow)](https://github.com/remarkablemark/html-react-parser/stargazers) [![Forks](https://img.shields.io/github/forks/remarkablemark/html-react-parser?style=flat-square&color=blue)](https://github.com/remarkablemark/html-react-parser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remarkablemark/html-react-parser?style=flat-square&color=yellow)](https://github.com/remarkablemark/html-react-parser/stargazers) [![Forks](https://img.shields.io/github/forks/remarkablemark/html-react-parser?style=flat-square&color=blue)](https://github.com/remarkablemark/html-react-parser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 📝 HTML to React parser.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ remarkablemark/html-react-parser：remarkablemark/html-react-parser helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

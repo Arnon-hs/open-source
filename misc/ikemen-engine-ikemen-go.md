@@ -1,6 +1,6 @@
 # ikemen-engine/Ikemen-GO
 
-[![Stars](https://img.shields.io/github/stars/ikemen-engine/Ikemen-GO?style=flat-square&color=yellow)](https://github.com/ikemen-engine/Ikemen-GO/stargazers) [![Forks](https://img.shields.io/github/forks/ikemen-engine/Ikemen-GO?style=flat-square&color=blue)](https://github.com/ikemen-engine/Ikemen-GO/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikemen-engine/Ikemen-GO?style=flat-square&color=yellow)](https://github.com/ikemen-engine/Ikemen-GO/stargazers) [![Forks](https://img.shields.io/github/forks/ikemen-engine/Ikemen-GO?style=flat-square&color=blue)](https://github.com/ikemen-engine/Ikemen-GO/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source fighting game engine that supports MUGEN resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 202 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ikemen‑GO — это открытый игровой движок для ф�
 
 ### 中文
 
-ikemen-engine/Ikemen-GO：ikemen-engine/Ikemen-GO may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ikemen-engine/Ikemen-GO：ikemen-engine/Ikemen-GO may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ikemen-engine/Ikemen-GO：ikemen-engine/Ikemen-GO may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ ikemen-engine/Ikemen-GO：ikemen-engine/Ikemen-GO may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 64/100 |
 | stars | 67/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

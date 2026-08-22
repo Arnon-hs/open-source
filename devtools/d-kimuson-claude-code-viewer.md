@@ -1,6 +1,6 @@
 # d-kimuson/claude-code-viewer
 
-[![Stars](https://img.shields.io/github/stars/d-kimuson/claude-code-viewer?style=flat-square&color=yellow)](https://github.com/d-kimuson/claude-code-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/d-kimuson/claude-code-viewer?style=flat-square&color=blue)](https://github.com/d-kimuson/claude-code-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/d-kimuson/claude-code-viewer?style=flat-square&color=yellow)](https://github.com/d-kimuson/claude-code-viewer/stargazers) [![Forks](https://img.shields.io/github/forks/d-kimuson/claude-code-viewer?style=flat-square&color=blue)](https://github.com/d-kimuson/claude-code-viewer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ d‑kimuson/claude-code-viewer is an open‑source, web‑based client for Claud
 
 ### 中文
 
-d-kimuson/claude-code-viewer：d-kimuson/claude-code-viewer helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+d-kimuson/claude-code-viewer：d-kimuson/claude-code-viewer helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ d-kimuson/claude-code-viewer：d-kimuson/claude-code-viewer helps engineers save
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ d-kimuson/claude-code-viewer：d-kimuson/claude-code-viewer helps engineers save
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

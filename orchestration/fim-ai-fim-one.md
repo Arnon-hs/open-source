@@ -1,6 +1,6 @@
 # fim-ai/fim-one
 
-[![Stars](https://img.shields.io/github/stars/fim-ai/fim-one?style=flat-square&color=yellow)](https://github.com/fim-ai/fim-one/stargazers) [![Forks](https://img.shields.io/github/forks/fim-ai/fim-one?style=flat-square&color=blue)](https://github.com/fim-ai/fim-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fim-ai/fim-one?style=flat-square&color=yellow)](https://github.com/fim-ai/fim-one/stargazers) [![Forks](https://img.shields.io/github/forks/fim-ai/fim-one?style=flat-square&color=blue)](https://github.com/fim-ai/fim-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 785 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fim-ai/fim-one：fim-ai/fim-one helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

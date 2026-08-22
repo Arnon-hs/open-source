@@ -1,6 +1,6 @@
 # invoke-ai/InvokeAI
 
-[![Stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=flat-square&color=yellow)](https://github.com/invoke-ai/InvokeAI/stargazers) [![Forks](https://img.shields.io/github/forks/invoke-ai/InvokeAI?style=flat-square&color=blue)](https://github.com/invoke-ai/InvokeAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=flat-square&color=yellow)](https://github.com/invoke-ai/InvokeAI/stargazers) [![Forks](https://img.shields.io/github/forks/invoke-ai/InvokeAI?style=flat-square&color=blue)](https://github.com/invoke-ai/InvokeAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.1k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ invoke-ai/InvokeAI：invoke-ai/InvokeAI helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

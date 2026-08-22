@@ -1,6 +1,6 @@
 # JohnnyMorganz/luau-lsp
 
-[![Stars](https://img.shields.io/github/stars/JohnnyMorganz/luau-lsp?style=flat-square&color=yellow)](https://github.com/JohnnyMorganz/luau-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/JohnnyMorganz/luau-lsp?style=flat-square&color=blue)](https://github.com/JohnnyMorganz/luau-lsp/network) [![Language](https://img.shields.io/badge/lang-Luau-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JohnnyMorganz/luau-lsp?style=flat-square&color=yellow)](https://github.com/JohnnyMorganz/luau-lsp/stargazers) [![Forks](https://img.shields.io/github/forks/JohnnyMorganz/luau-lsp?style=flat-square&color=blue)](https://github.com/JohnnyMorganz/luau-lsp/network) [![Language](https://img.shields.io/badge/lang-Luau-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Language Server Implementation for Luau
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Luau |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ JohnnyMorganz/luau-lsp — это открытая реализация Languag
 
 ### 中文
 
-JohnnyMorganz/luau-lsp：JohnnyMorganz/luau-lsp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+JohnnyMorganz/luau-lsp：JohnnyMorganz/luau-lsp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ JohnnyMorganz/luau-lsp：JohnnyMorganz/luau-lsp helps teams reuse service infras
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ JohnnyMorganz/luau-lsp：JohnnyMorganz/luau-lsp helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 56/100 |
 | stars | 57/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

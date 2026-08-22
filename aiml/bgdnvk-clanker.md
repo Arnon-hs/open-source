@@ -1,6 +1,6 @@
 # bgdnvk/clanker
 
-[![Stars](https://img.shields.io/github/stars/bgdnvk/clanker?style=flat-square&color=yellow)](https://github.com/bgdnvk/clanker/stargazers) [![Forks](https://img.shields.io/github/forks/bgdnvk/clanker?style=flat-square&color=blue)](https://github.com/bgdnvk/clanker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bgdnvk/clanker?style=flat-square&color=yellow)](https://github.com/bgdnvk/clanker/stargazers) [![Forks](https://img.shields.io/github/forks/bgdnvk/clanker?style=flat-square&color=blue)](https://github.com/bgdnvk/clanker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bgdnvk/clanker：bgdnvk/clanker helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

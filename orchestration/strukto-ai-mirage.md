@@ -1,6 +1,6 @@
 # strukto-ai/mirage
 
-[![Stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=flat-square&color=yellow)](https://github.com/strukto-ai/mirage/stargazers) [![Forks](https://img.shields.io/github/forks/strukto-ai/mirage?style=flat-square&color=blue)](https://github.com/strukto-ai/mirage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strukto-ai/mirage?style=flat-square&color=yellow)](https://github.com/strukto-ai/mirage/stargazers) [![Forks](https://img.shields.io/github/forks/strukto-ai/mirage?style=flat-square&color=blue)](https://github.com/strukto-ai/mirage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A Unified Virtual Filesystem For AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ strukto-ai/mirage：strukto-ai/mirage helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

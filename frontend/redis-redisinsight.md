@@ -1,6 +1,6 @@
 # redis/RedisInsight
 
-[![Stars](https://img.shields.io/github/stars/redis/RedisInsight?style=flat-square&color=yellow)](https://github.com/redis/RedisInsight/stargazers) [![Forks](https://img.shields.io/github/forks/redis/RedisInsight?style=flat-square&color=blue)](https://github.com/redis/RedisInsight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redis/RedisInsight?style=flat-square&color=yellow)](https://github.com/redis/RedisInsight/stargazers) [![Forks](https://img.shields.io/github/forks/redis/RedisInsight?style=flat-square&color=blue)](https://github.com/redis/RedisInsight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Redis GUI by Redis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.4k |
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ redis/RedisInsight：redis/RedisInsight helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 79/100 |
 | stars | 84/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

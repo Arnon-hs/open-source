@@ -1,6 +1,6 @@
 # rapidsai/cuml
 
-[![Stars](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&color=yellow)](https://github.com/rapidsai/cuml/stargazers) [![Forks](https://img.shields.io/github/forks/rapidsai/cuml?style=flat-square&color=blue)](https://github.com/rapidsai/cuml/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&color=yellow)](https://github.com/rapidsai/cuml/stargazers) [![Forks](https://img.shields.io/github/forks/rapidsai/cuml?style=flat-square&color=blue)](https://github.com/rapidsai/cuml/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > cuML - RAPIDS Machine Learning Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 623 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rapidsai/cuml：rapidsai/cuml helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 76/100 |
 | stars | 79/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

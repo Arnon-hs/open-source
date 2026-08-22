@@ -1,6 +1,6 @@
 # numaproj/numaflow
 
-[![Stars](https://img.shields.io/github/stars/numaproj/numaflow?style=flat-square&color=yellow)](https://github.com/numaproj/numaflow/stargazers) [![Forks](https://img.shields.io/github/forks/numaproj/numaflow?style=flat-square&color=blue)](https://github.com/numaproj/numaflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/numaproj/numaflow?style=flat-square&color=yellow)](https://github.com/numaproj/numaflow/stargazers) [![Forks](https://img.shields.io/github/forks/numaproj/numaflow?style=flat-square&color=blue)](https://github.com/numaproj/numaflow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes-native platform to run massively parallel data/streaming jobs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ numaproj/numaflow：numaproj/numaflow helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

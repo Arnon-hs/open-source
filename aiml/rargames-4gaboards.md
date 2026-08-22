@@ -1,6 +1,6 @@
 # RARgames/4gaBoards
 
-[![Stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=flat-square&color=yellow)](https://github.com/RARgames/4gaBoards/stargazers) [![Forks](https://img.shields.io/github/forks/RARgames/4gaBoards?style=flat-square&color=blue)](https://github.com/RARgames/4gaBoards/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RARgames/4gaBoards?style=flat-square&color=yellow)](https://github.com/RARgames/4gaBoards/stargazers) [![Forks](https://img.shields.io/github/forks/RARgames/4gaBoards?style=flat-square&color=blue)](https://github.com/RARgames/4gaBoards/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RARgames/4gaBoards is an open‑source, real‑time kanban board solution design
 
 ### 中文
 
-RARgames/4gaBoards：RARgames/4gaBoards helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RARgames/4gaBoards：RARgames/4gaBoards helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ RARgames/4gaBoards：RARgames/4gaBoards helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ RARgames/4gaBoards：RARgames/4gaBoards helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

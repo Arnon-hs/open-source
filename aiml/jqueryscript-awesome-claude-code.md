@@ -1,6 +1,6 @@
 # jqueryscript/awesome-claude-code
 
-[![Stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code?style=flat-square&color=yellow)](https://github.com/jqueryscript/awesome-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/jqueryscript/awesome-claude-code?style=flat-square&color=blue)](https://github.com/jqueryscript/awesome-claude-code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code?style=flat-square&color=yellow)](https://github.com/jqueryscript/awesome-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/jqueryscript/awesome-claude-code?style=flat-square&color=blue)](https://github.com/jqueryscript/awesome-claude-code/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ jqueryscript/awesome-claude-code：jqueryscript/awesome-claude-code helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 56/100 |
 | stars | 54/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

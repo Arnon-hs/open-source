@@ -1,6 +1,6 @@
 # cloveric/cc-telegram-bridge
 
-[![Stars](https://img.shields.io/github/stars/cloveric/cc-telegram-bridge?style=flat-square&color=yellow)](https://github.com/cloveric/cc-telegram-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/cloveric/cc-telegram-bridge?style=flat-square&color=blue)](https://github.com/cloveric/cc-telegram-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloveric/cc-telegram-bridge?style=flat-square&color=yellow)](https://github.com/cloveric/cc-telegram-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/cloveric/cc-telegram-bridge?style=flat-square&color=blue)](https://github.com/cloveric/cc-telegram-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Real Claude Code & Codex CLI on Telegram — native CLI harness with session resume, isolated multi-bot instances, Agent Bus delegation/fan-out/crew workflows, voice input, streaming, and tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cloveric/cc-telegram-bridge：cloveric/cc-telegram-bridge helps turn isolated pr
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 45/100 |
 | stars | 47/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Signet-AI/signetai
 
-[![Stars](https://img.shields.io/github/stars/Signet-AI/signetai?style=flat-square&color=yellow)](https://github.com/Signet-AI/signetai/stargazers) [![Forks](https://img.shields.io/github/forks/Signet-AI/signetai?style=flat-square&color=blue)](https://github.com/Signet-AI/signetai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Signet-AI/signetai?style=flat-square&color=yellow)](https://github.com/Signet-AI/signetai/stargazers) [![Forks](https://img.shields.io/github/forks/Signet-AI/signetai?style=flat-square&color=blue)](https://github.com/Signet-AI/signetai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Signet-AI/signetai：Signet-AI/signetai helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Cur10s1tyByt3/GenP
 
-[![Stars](https://img.shields.io/github/stars/Cur10s1tyByt3/GenP?style=flat-square&color=yellow)](https://github.com/Cur10s1tyByt3/GenP/stargazers) [![Forks](https://img.shields.io/github/forks/Cur10s1tyByt3/GenP?style=flat-square&color=blue)](https://github.com/Cur10s1tyByt3/GenP/network) [![Language](https://img.shields.io/badge/lang-AutoIt-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cur10s1tyByt3/GenP?style=flat-square&color=yellow)](https://github.com/Cur10s1tyByt3/GenP/stargazers) [![Forks](https://img.shields.io/github/forks/Cur10s1tyByt3/GenP?style=flat-square&color=blue)](https://github.com/Cur10s1tyByt3/GenP/network) [![Language](https://img.shields.io/badge/lang-AutoIt-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > This repository preserves source materials and related documentation about GenP. For archival and research purposes only.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | AutoIt |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Cur10s1tyByt3/GenP — архивный репозиторий, в кото�
 
 ### 中文
 
-Cur10s1tyByt3/GenP：Cur10s1tyByt3/GenP helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Cur10s1tyByt3/GenP：Cur10s1tyByt3/GenP helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Cur10s1tyByt3/GenP：Cur10s1tyByt3/GenP helps catch security and privacy issues 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Cur10s1tyByt3/GenP：Cur10s1tyByt3/GenP helps catch security and privacy issues 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

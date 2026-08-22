@@ -1,6 +1,6 @@
 # steven-jianhao-li/zotero-AI-Butler
 
-[![Stars](https://img.shields.io/github/stars/steven-jianhao-li/zotero-AI-Butler?style=flat-square&color=yellow)](https://github.com/steven-jianhao-li/zotero-AI-Butler/stargazers) [![Forks](https://img.shields.io/github/forks/steven-jianhao-li/zotero-AI-Butler?style=flat-square&color=blue)](https://github.com/steven-jianhao-li/zotero-AI-Butler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steven-jianhao-li/zotero-AI-Butler?style=flat-square&color=yellow)](https://github.com/steven-jianhao-li/zotero-AI-Butler/stargazers) [![Forks](https://img.shields.io/github/forks/steven-jianhao-li/zotero-AI-Butler?style=flat-square&color=blue)](https://github.com/steven-jianhao-li/zotero-AI-Butler/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ steven-jianhao-li/zotero-AI-Butler：steven-jianhao-li/zotero-AI-Butler helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # steel-dev/awesome-web-agents
 
-[![Stars](https://img.shields.io/github/stars/steel-dev/awesome-web-agents?style=flat-square&color=yellow)](https://github.com/steel-dev/awesome-web-agents/stargazers) [![Forks](https://img.shields.io/github/forks/steel-dev/awesome-web-agents?style=flat-square&color=blue)](https://github.com/steel-dev/awesome-web-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steel-dev/awesome-web-agents?style=flat-square&color=yellow)](https://github.com/steel-dev/awesome-web-agents/stargazers) [![Forks](https://img.shields.io/github/forks/steel-dev/awesome-web-agents?style=flat-square&color=blue)](https://github.com/steel-dev/awesome-web-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 A list of tools, frameworks, and resources for building AI web agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ steel-dev/awesome-web-agents：steel-dev/awesome-web-agents helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 69/100 |
+| production | 51/100 |
+| outlook | 62/100 |
 | adoption | 64/100 |
 | stars | 67/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

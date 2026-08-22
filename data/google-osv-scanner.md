@@ -1,6 +1,6 @@
 # google/osv-scanner
 
-[![Stars](https://img.shields.io/github/stars/google/osv-scanner?style=flat-square&color=yellow)](https://github.com/google/osv-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/google/osv-scanner?style=flat-square&color=blue)](https://github.com/google/osv-scanner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/osv-scanner?style=flat-square&color=yellow)](https://github.com/google/osv-scanner/stargazers) [![Forks](https://img.shields.io/github/forks/google/osv-scanner?style=flat-square&color=blue)](https://github.com/google/osv-scanner/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10k |
-| 🍴 **Forks** | 678 |
+| ⭐ **Stars** | 10.7k |
+| 🍴 **Forks** | 736 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`scanner` `security-audit` `security-tools` `vulnerability-scanner`
 
 ## 🎯 Categories
 
@@ -25,8 +25,87 @@ Data · Security
 
 ## 📝 Summary
 
-The google/osv-scanner is an open-source vulnerability scanner written in Go that leverages data from the Open Source Vulnerabilities (OSV) database. This tool enables users to identify potential security risks in their software dependencies by scanning for known vulnerabilities. By utilizing the comprehensive OSV database, the scanner provides a reliable and efficient solution for ensuring the security of open-source components.
+### English
+
+**Summary:** The open-source project "google/osv-scanner" is a Go-based vulnerability scanner that leverages data from osv.dev to convert raw data into searchable, analyzable, and automated pipelines. This tool holds significant value in organizing analytics pipelines, processing datasets, and enhancing reporting workflows. With a high production readiness score and strong ecosystem signals, it presents a viable option for serious pilots.
+
+**Value:** The primary value proposition of google/osv-scanner lies in its ability to convert raw data into actionable insights, making it an ideal solution for organizations seeking to streamline their analytics pipelines, process large datasets, and improve reporting workflows.
+
+**Practical Adoption Path:** To adopt google/osv-scanner, start by evaluating its feasibility through a small proof of concept, followed by a thorough review of the README documentation. This will help you understand the scanner's capabilities and potential integration points within your existing infrastructure.
+
+**Production Readiness:** With a high production readiness score, google/osv-scanner is well-suited for serious pilots. Its recent activity, adoption, and strong ecosystem signals indicate a stable and maintainable project. However, a final review of the license, security posture, and active maintainers is still necessary to ensure a smooth deployment.
+
+### Русский
+
+Резюме проекта google/osv-scanner:
+
+Вulnerability scanner google/osv-scanner позволяет преобразовывать необработанные данные в поисковые, анализируемые или автоматизированные потоки. Этот проект особенно полезен для организации аналитических потоков, обработки наборов данных и улучшения рабочих процессов отчетности. Проект полностью готов к внедрению в производство, поскольку имеет сильные сигналы в области активности, приема и экосистемы.
+
+### 中文
+
+**Google OSV Scanner 简介**
+
+Google OSV Scanner 是一个使用 Go 语言编写的漏洞扫描工具，依赖于 https://osv.dev 提供的数据。该工具可以帮助将原始数据转换为可搜索、可分析或可自动化的管道。
+
+**价值**
+
+Google OSV Scanner 的价值在于它可以帮助组织分析管道、处理数据集和改进报告工作流。通过使用该工具，可以更好地组织数据、提高安全性和提高工作效率。
+
+**典型接入方式**
+
+Google OSV Scanner 可以通过以下方式接入：
+
+1. 读取原始数据：将原始数据输入到 Google OSV Scanner 中，以便进行分析和处理。
+2. 集成分析管道：将 Google OSV Scanner 与现有的分析管道集成，以便自动化数据分析和报告。
+3. 使用 API：使用 Google OSV Scanner 的 API 来访问扫描结果和数据。
+
+**生产可用性**
+
+Google OSV Scanner 的生产可用性为高（High），因为它具有以下特点：
+
+* 最近活动：最近有更新和活动。
+* 广泛采用：有 10,720 个 GitHub 星星和
+
+## 🧭 Practical evaluation
+
+**Value:** google/osv-scanner helps convert raw data into searchable, analyzable, or automated pipelines.
+
+**Best use cases**
+
+- organize analytics pipelines
+- process datasets
+- improve reporting workflows
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 10720 GitHub stars
+- 736 forks
+- updated 2026-08-03
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 72/100 |
+| stars | 86/100 |
+| topics | 50/100 |
+| outlook | 82/100 |
+| quality | 84/100 |
+| recency | 100/100 |
+| adoption | 82/100 |
+| production | 78/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/google/osv-scanner) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-03 · [View on GitHub](https://github.com/google/osv-scanner) · [← Back to Data](./README.md)</sub>

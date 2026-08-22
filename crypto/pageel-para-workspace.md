@@ -1,6 +1,6 @@
 # pageel/para-workspace
 
-[![Stars](https://img.shields.io/github/stars/pageel/para-workspace?style=flat-square&color=yellow)](https://github.com/pageel/para-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/pageel/para-workspace?style=flat-square&color=blue)](https://github.com/pageel/para-workspace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pageel/para-workspace?style=flat-square&color=yellow)](https://github.com/pageel/para-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/pageel/para-workspace?style=flat-square&color=blue)](https://github.com/pageel/para-workspace/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🌌 PARA Workspace is an open-source workspace framework that defines how humans and AI agents organize knowledge and collaborate on projects. It ships as a repo containing a kernel (constitution), CLI tools, and templates — which generates workspaces where you actually work.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PARA Workspace — открытый фреймворк для создания
 
 ### 中文
 
-pageel/para-workspace：pageel/para-workspace helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pageel/para-workspace：pageel/para-workspace helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pageel/para-workspace：pageel/para-workspace helps prototype or inspect blockch
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ pageel/para-workspace：pageel/para-workspace helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 49/100 |
+| outlook | 56/100 |
 | adoption | 34/100 |
 | stars | 35/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sammcj/mcp-devtools
 
-[![Stars](https://img.shields.io/github/stars/sammcj/mcp-devtools?style=flat-square&color=yellow)](https://github.com/sammcj/mcp-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/sammcj/mcp-devtools?style=flat-square&color=blue)](https://github.com/sammcj/mcp-devtools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sammcj/mcp-devtools?style=flat-square&color=yellow)](https://github.com/sammcj/mcp-devtools/stargazers) [![Forks](https://img.shields.io/github/forks/sammcj/mcp-devtools?style=flat-square&color=blue)](https://github.com/sammcj/mcp-devtools/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A modular MCP server that provides commonly used developer tools for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sammcj/mcp-devtools：sammcj/mcp-devtools helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

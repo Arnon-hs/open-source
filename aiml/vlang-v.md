@@ -1,6 +1,6 @@
 # vlang/v
 
-[![Stars](https://img.shields.io/github/stars/vlang/v?style=flat-square&color=yellow)](https://github.com/vlang/v/stargazers) [![Forks](https://img.shields.io/github/forks/vlang/v?style=flat-square&color=blue)](https://github.com/vlang/v/network) [![Language](https://img.shields.io/badge/lang-V-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vlang/v?style=flat-square&color=yellow)](https://github.com/vlang/v/stargazers) [![Forks](https://img.shields.io/github/forks/vlang/v?style=flat-square&color=blue)](https://github.com/vlang/v/network) [![Language](https://img.shields.io/badge/lang-V-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.6k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | V |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vlang/v：vlang/v helps add AI capability without starting from a blank model st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 94/100 |
 | stars | 97/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

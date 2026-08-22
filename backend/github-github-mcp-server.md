@@ -1,6 +1,6 @@
 # github/github-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square&color=yellow)](https://github.com/github/github-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/github/github-mcp-server?style=flat-square&color=blue)](https://github.com/github/github-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square&color=yellow)](https://github.com/github/github-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/github/github-mcp-server?style=flat-square&color=blue)](https://github.com/github/github-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub's official MCP Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.6k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ github/github-mcp-server：github/github-mcp-server helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 94/100 |
 | stars | 95/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

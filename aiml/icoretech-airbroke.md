@@ -1,6 +1,6 @@
 # icoretech/airbroke
 
-[![Stars](https://img.shields.io/github/stars/icoretech/airbroke?style=flat-square&color=yellow)](https://github.com/icoretech/airbroke/stargazers) [![Forks](https://img.shields.io/github/forks/icoretech/airbroke?style=flat-square&color=blue)](https://github.com/icoretech/airbroke/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/icoretech/airbroke?style=flat-square&color=yellow)](https://github.com/icoretech/airbroke/stargazers) [![Forks](https://img.shields.io/github/forks/icoretech/airbroke?style=flat-square&color=blue)](https://github.com/icoretech/airbroke/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Lightweight, Airbrake/Sentry-compatible, PostgreSQL-based Open Source Error Catcher
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ icoretech/airbroke：icoretech/airbroke helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

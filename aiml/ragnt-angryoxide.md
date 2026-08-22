@@ -1,6 +1,6 @@
 # Ragnt/AngryOxide
 
-[![Stars](https://img.shields.io/github/stars/Ragnt/AngryOxide?style=flat-square&color=yellow)](https://github.com/Ragnt/AngryOxide/stargazers) [![Forks](https://img.shields.io/github/forks/Ragnt/AngryOxide?style=flat-square&color=blue)](https://github.com/Ragnt/AngryOxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ragnt/AngryOxide?style=flat-square&color=yellow)](https://github.com/Ragnt/AngryOxide/stargazers) [![Forks](https://img.shields.io/github/forks/Ragnt/AngryOxide?style=flat-square&color=blue)](https://github.com/Ragnt/AngryOxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 802.11 Attack Tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ragnt/AngryOxide — это открытый набор инструменто
 
 ### 中文
 
-Ragnt/AngryOxide：Ragnt/AngryOxide helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Ragnt/AngryOxide：Ragnt/AngryOxide helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Ragnt/AngryOxide：Ragnt/AngryOxide helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Ragnt/AngryOxide：Ragnt/AngryOxide helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 58/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tldr-pages/tldr-node-client
 
-[![Stars](https://img.shields.io/github/stars/tldr-pages/tldr-node-client?style=flat-square&color=yellow)](https://github.com/tldr-pages/tldr-node-client/stargazers) [![Forks](https://img.shields.io/github/forks/tldr-pages/tldr-node-client?style=flat-square&color=blue)](https://github.com/tldr-pages/tldr-node-client/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tldr-pages/tldr-node-client?style=flat-square&color=yellow)](https://github.com/tldr-pages/tldr-node-client/stargazers) [![Forks](https://img.shields.io/github/forks/tldr-pages/tldr-node-client?style=flat-square&color=blue)](https://github.com/tldr-pages/tldr-node-client/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js command-line client for tldr pages 📚.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tldr‑pages/tldr-node-client — это клиент командной ст�
 
 ### 中文
 
-tldr-pages/tldr-node-client：tldr-pages/tldr-node-client helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tldr-pages/tldr-node-client：tldr-pages/tldr-node-client helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tldr-pages/tldr-node-client：tldr-pages/tldr-node-client helps engineers save t
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ tldr-pages/tldr-node-client：tldr-pages/tldr-node-client helps engineers save t
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

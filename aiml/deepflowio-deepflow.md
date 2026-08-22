@@ -1,6 +1,6 @@
 # deepflowio/deepflow
 
-[![Stars](https://img.shields.io/github/stars/deepflowio/deepflow?style=flat-square&color=yellow)](https://github.com/deepflowio/deepflow/stargazers) [![Forks](https://img.shields.io/github/forks/deepflowio/deepflow?style=flat-square&color=blue)](https://github.com/deepflowio/deepflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepflowio/deepflow?style=flat-square&color=yellow)](https://github.com/deepflowio/deepflow/stargazers) [![Forks](https://img.shields.io/github/forks/deepflowio/deepflow?style=flat-square&color=blue)](https://github.com/deepflowio/deepflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF Observability - Distributed Tracing and Profiling
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 453 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ deepflowio/deepflow：deepflowio/deepflow helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

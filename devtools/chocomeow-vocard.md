@@ -1,6 +1,6 @@
 # ChocoMeow/Vocard
 
-[![Stars](https://img.shields.io/github/stars/ChocoMeow/Vocard?style=flat-square&color=yellow)](https://github.com/ChocoMeow/Vocard/stargazers) [![Forks](https://img.shields.io/github/forks/ChocoMeow/Vocard?style=flat-square&color=blue)](https://github.com/ChocoMeow/Vocard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChocoMeow/Vocard?style=flat-square&color=yellow)](https://github.com/ChocoMeow/Vocard/stargazers) [![Forks](https://img.shields.io/github/forks/ChocoMeow/Vocard?style=flat-square&color=blue)](https://github.com/ChocoMeow/Vocard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Vocard is a simple music bot. It leads to a comfortable experience which is user-friendly, It supports Youtube, Soundcloud, Spotify, Twitch and more!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 543 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ChocoMeow/Vocard：ChocoMeow/Vocard helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

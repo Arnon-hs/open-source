@@ -1,6 +1,6 @@
 # rust-lang/rust-clippy
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rust-clippy?style=flat-square&color=yellow)](https://github.com/rust-lang/rust-clippy/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rust-clippy?style=flat-square&color=blue)](https://github.com/rust-lang/rust-clippy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rust-clippy?style=flat-square&color=yellow)](https://github.com/rust-lang/rust-clippy/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rust-clippy?style=flat-square&color=blue)](https://github.com/rust-lang/rust-clippy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.1k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rust-lang/rust-clippy：rust-lang/rust-clippy helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 86/100 |
 | stars | 88/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

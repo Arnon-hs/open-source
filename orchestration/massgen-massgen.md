@@ -1,6 +1,6 @@
 # massgen/MassGen
 
-[![Stars](https://img.shields.io/github/stars/massgen/MassGen?style=flat-square&color=yellow)](https://github.com/massgen/MassGen/stargazers) [![Forks](https://img.shields.io/github/forks/massgen/MassGen?style=flat-square&color=blue)](https://github.com/massgen/MassGen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/massgen/MassGen?style=flat-square&color=yellow)](https://github.com/massgen/MassGen/stargazers) [![Forks](https://img.shields.io/github/forks/massgen/MassGen?style=flat-square&color=blue)](https://github.com/massgen/MassGen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 985 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ massgen/MassGen：massgen/MassGen helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

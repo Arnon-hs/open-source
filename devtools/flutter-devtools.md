@@ -1,6 +1,6 @@
 # flutter/devtools
 
-[![Stars](https://img.shields.io/github/stars/flutter/devtools?style=flat-square&color=yellow)](https://github.com/flutter/devtools/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/devtools?style=flat-square&color=blue)](https://github.com/flutter/devtools/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/devtools?style=flat-square&color=yellow)](https://github.com/flutter/devtools/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/devtools?style=flat-square&color=blue)](https://github.com/flutter/devtools/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Developer tools for Flutter & Dart
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 392 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Flutter DevTools — это набор интерактивных инстру
 
 ### 中文
 
-flutter/devtools：flutter/devtools helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+flutter/devtools：flutter/devtools helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ flutter/devtools：flutter/devtools helps engineers save time in daily developme
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ flutter/devtools：flutter/devtools helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 44/100 |
+| outlook | 46/100 |
 | adoption | 68/100 |
 | stars | 69/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

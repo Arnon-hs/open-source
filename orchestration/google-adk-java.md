@@ -1,6 +1,6 @@
 # google/adk-java
 
-[![Stars](https://img.shields.io/github/stars/google/adk-java?style=flat-square&color=yellow)](https://github.com/google/adk-java/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-java?style=flat-square&color=blue)](https://github.com/google/adk-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/adk-java?style=flat-square&color=yellow)](https://github.com/google/adk-java/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-java?style=flat-square&color=blue)](https://github.com/google/adk-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ google/adk-java：google/adk-java helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 71/100 |
+| production | 54/100 |
+| outlook | 64/100 |
 | adoption | 67/100 |
 | stars | 68/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

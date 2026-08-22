@@ -1,6 +1,6 @@
 # facebook/dotslash
 
-[![Stars](https://img.shields.io/github/stars/facebook/dotslash?style=flat-square&color=yellow)](https://github.com/facebook/dotslash/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/dotslash?style=flat-square&color=blue)](https://github.com/facebook/dotslash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/dotslash?style=flat-square&color=yellow)](https://github.com/facebook/dotslash/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/dotslash?style=flat-square&color=blue)](https://github.com/facebook/dotslash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Simplified executable deployment
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 840 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ facebook/dotslash：facebook/dotslash may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

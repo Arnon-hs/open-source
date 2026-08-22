@@ -1,6 +1,6 @@
 # kcp-dev/kcp
 
-[![Stars](https://img.shields.io/github/stars/kcp-dev/kcp?style=flat-square&color=yellow)](https://github.com/kcp-dev/kcp/stargazers) [![Forks](https://img.shields.io/github/forks/kcp-dev/kcp?style=flat-square&color=blue)](https://github.com/kcp-dev/kcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kcp-dev/kcp?style=flat-square&color=yellow)](https://github.com/kcp-dev/kcp/stargazers) [![Forks](https://img.shields.io/github/forks/kcp-dev/kcp?style=flat-square&color=blue)](https://github.com/kcp-dev/kcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 446 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kcp-dev/kcp：kcp-dev/kcp helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 71/100 |
 | stars | 73/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

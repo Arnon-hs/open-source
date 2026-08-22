@@ -1,6 +1,6 @@
 # shlima/keneetic-antifilter
 
-[![Stars](https://img.shields.io/github/stars/shlima/keneetic-antifilter?style=flat-square&color=yellow)](https://github.com/shlima/keneetic-antifilter/stargazers) [![Forks](https://img.shields.io/github/forks/shlima/keneetic-antifilter?style=flat-square&color=blue)](https://github.com/shlima/keneetic-antifilter/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shlima/keneetic-antifilter?style=flat-square&color=yellow)](https://github.com/shlima/keneetic-antifilter/stargazers) [![Forks](https://img.shields.io/github/forks/shlima/keneetic-antifilter?style=flat-square&color=blue)](https://github.com/shlima/keneetic-antifilter/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Правила маршрутизации youtube, instagram, chatgpt для роутеров keenetic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ shlima/keneetic-antifilter：shlima/keneetic-antifilter may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 48/100 |
 | stars | 55/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

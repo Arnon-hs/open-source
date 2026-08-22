@@ -1,6 +1,6 @@
 # wfxr/forgit
 
-[![Stars](https://img.shields.io/github/stars/wfxr/forgit?style=flat-square&color=yellow)](https://github.com/wfxr/forgit/stargazers) [![Forks](https://img.shields.io/github/forks/wfxr/forgit?style=flat-square&color=blue)](https://github.com/wfxr/forgit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wfxr/forgit?style=flat-square&color=yellow)](https://github.com/wfxr/forgit/stargazers) [![Forks](https://img.shields.io/github/forks/wfxr/forgit?style=flat-square&color=blue)](https://github.com/wfxr/forgit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > :zzz: A utility tool powered by fzf for using git interactively.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wfxr/forgit：wfxr/forgit helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 72/100 |
 | stars | 79/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ag2ai/ag2
 
-[![Stars](https://img.shields.io/github/stars/ag2ai/ag2?style=flat-square&color=yellow)](https://github.com/ag2ai/ag2/stargazers) [![Forks](https://img.shields.io/github/forks/ag2ai/ag2?style=flat-square&color=blue)](https://github.com/ag2ai/ag2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ag2ai/ag2?style=flat-square&color=yellow)](https://github.com/ag2ai/ag2/stargazers) [![Forks](https://img.shields.io/github/forks/ag2ai/ag2?style=flat-square&color=blue)](https://github.com/ag2ai/ag2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 620 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ag2ai/ag2：ag2ai/ag2 helps turn isolated prompts and tools into repeatable agen
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # GoogleChrome/lighthouse
 
-[![Stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse?style=flat-square&color=yellow)](https://github.com/GoogleChrome/lighthouse/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleChrome/lighthouse?style=flat-square&color=blue)](https://github.com/GoogleChrome/lighthouse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse?style=flat-square&color=yellow)](https://github.com/GoogleChrome/lighthouse/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleChrome/lighthouse?style=flat-square&color=blue)](https://github.com/GoogleChrome/lighthouse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Automated auditing, performance metrics, and best practices for the web.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30.2k |
 | 🍴 **Forks** | 9.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ GoogleChrome/lighthouse：GoogleChrome/lighthouse helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 97/100 |
 | stars | 95/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

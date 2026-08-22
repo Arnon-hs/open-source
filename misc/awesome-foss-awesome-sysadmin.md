@@ -1,6 +1,6 @@
 # awesome-foss/awesome-sysadmin
 
-[![Stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin?style=flat-square&color=yellow)](https://github.com/awesome-foss/awesome-sysadmin/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-foss/awesome-sysadmin?style=flat-square&color=blue)](https://github.com/awesome-foss/awesome-sysadmin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awesome-foss/awesome-sysadmin?style=flat-square&color=yellow)](https://github.com/awesome-foss/awesome-sysadmin/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-foss/awesome-sysadmin?style=flat-square&color=blue)](https://github.com/awesome-foss/awesome-sysadmin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of amazingly awesome open-source sysadmin resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.8k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ awesome-foss/awesome-sysadmin：awesome-foss/awesome-sysadmin may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

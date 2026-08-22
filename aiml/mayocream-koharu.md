@@ -1,6 +1,6 @@
 # mayocream/koharu
 
-[![Stars](https://img.shields.io/github/stars/mayocream/koharu?style=flat-square&color=yellow)](https://github.com/mayocream/koharu/stargazers) [![Forks](https://img.shields.io/github/forks/mayocream/koharu?style=flat-square&color=blue)](https://github.com/mayocream/koharu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mayocream/koharu?style=flat-square&color=yellow)](https://github.com/mayocream/koharu/stargazers) [![Forks](https://img.shields.io/github/forks/mayocream/koharu?style=flat-square&color=blue)](https://github.com/mayocream/koharu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ML-powered manga translator, written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ mayocream/koharu：mayocream/koharu helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
+| usefulness | 58/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

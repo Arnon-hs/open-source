@@ -1,6 +1,6 @@
 # QuantConnect/Lean
 
-[![Stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=flat-square&color=yellow)](https://github.com/QuantConnect/Lean/stargazers) [![Forks](https://img.shields.io/github/forks/QuantConnect/Lean?style=flat-square&color=blue)](https://github.com/QuantConnect/Lean/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=flat-square&color=yellow)](https://github.com/QuantConnect/Lean/stargazers) [![Forks](https://img.shields.io/github/forks/QuantConnect/Lean?style=flat-square&color=blue)](https://github.com/QuantConnect/Lean/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.8k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ QuantConnect/Lean：QuantConnect/Lean helps research and automate market workflo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 91/100 |
 | stars | 91/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

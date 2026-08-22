@@ -1,6 +1,6 @@
 # waooAI/waoowaoo
 
-[![Stars](https://img.shields.io/github/stars/waooAI/waoowaoo?style=flat-square&color=yellow)](https://github.com/waooAI/waoowaoo/stargazers) [![Forks](https://img.shields.io/github/forks/waooAI/waoowaoo?style=flat-square&color=blue)](https://github.com/waooAI/waoowaoo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waooAI/waoowaoo?style=flat-square&color=yellow)](https://github.com/waooAI/waoowaoo/stargazers) [![Forks](https://img.shields.io/github/forks/waooAI/waoowaoo?style=flat-square&color=blue)](https://github.com/waooAI/waoowaoo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ waooAI/waoowaoo：waooAI/waoowaoo helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 67/100 |
 | adoption | 87/100 |
 | stars | 87/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

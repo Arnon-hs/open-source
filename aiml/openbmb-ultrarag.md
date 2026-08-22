@@ -1,6 +1,6 @@
 # OpenBMB/UltraRAG
 
-[![Stars](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=flat-square&color=yellow)](https://github.com/OpenBMB/UltraRAG/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/UltraRAG?style=flat-square&color=blue)](https://github.com/OpenBMB/UltraRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenBMB/UltraRAG?style=flat-square&color=yellow)](https://github.com/OpenBMB/UltraRAG/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBMB/UltraRAG?style=flat-square&color=blue)](https://github.com/OpenBMB/UltraRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 413 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OpenBMB/UltraRAG：OpenBMB/UltraRAG helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

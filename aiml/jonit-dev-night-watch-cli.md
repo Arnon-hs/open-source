@@ -1,6 +1,6 @@
 # jonit-dev/night-watch-cli
 
-[![Stars](https://img.shields.io/github/stars/jonit-dev/night-watch-cli?style=flat-square&color=yellow)](https://github.com/jonit-dev/night-watch-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jonit-dev/night-watch-cli?style=flat-square&color=blue)](https://github.com/jonit-dev/night-watch-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonit-dev/night-watch-cli?style=flat-square&color=yellow)](https://github.com/jonit-dev/night-watch-cli/stargazers) [![Forks](https://img.shields.io/github/forks/jonit-dev/night-watch-cli?style=flat-square&color=blue)](https://github.com/jonit-dev/night-watch-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent that implements your specs, opens PRs, and reviews code overnight. Queue GitHub issues or PRDs, wake up to pull requests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ An AI‑driven command‑line tool that takes your specifications—via queued G
 
 ### 中文
 
-jonit-dev/night-watch-cli：jonit-dev/night-watch-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jonit-dev/night-watch-cli：jonit-dev/night-watch-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jonit-dev/night-watch-cli：jonit-dev/night-watch-cli helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jonit-dev/night-watch-cli：jonit-dev/night-watch-cli helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 62/100 |
+| production | 48/100 |
+| outlook | 55/100 |
 | adoption | 30/100 |
 | stars | 35/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

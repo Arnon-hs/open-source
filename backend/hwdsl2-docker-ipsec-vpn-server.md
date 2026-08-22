@@ -1,6 +1,6 @@
 # hwdsl2/docker-ipsec-vpn-server
 
-[![Stars](https://img.shields.io/github/stars/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=yellow)](https://github.com/hwdsl2/docker-ipsec-vpn-server/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=blue)](https://github.com/hwdsl2/docker-ipsec-vpn-server/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=yellow)](https://github.com/hwdsl2/docker-ipsec-vpn-server/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/docker-ipsec-vpn-server?style=flat-square&color=blue)](https://github.com/hwdsl2/docker-ipsec-vpn-server/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hwdsl2/docker-ipsec-vpn-server：hwdsl2/docker-ipsec-vpn-server helps teams reus
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 81/100 |
 | stars | 82/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

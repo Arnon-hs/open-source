@@ -1,6 +1,6 @@
 # filebrowser/filebrowser
 
-[![Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=flat-square&color=yellow)](https://github.com/filebrowser/filebrowser/stargazers) [![Forks](https://img.shields.io/github/forks/filebrowser/filebrowser?style=flat-square&color=blue)](https://github.com/filebrowser/filebrowser/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=flat-square&color=yellow)](https://github.com/filebrowser/filebrowser/stargazers) [![Forks](https://img.shields.io/github/forks/filebrowser/filebrowser?style=flat-square&color=blue)](https://github.com/filebrowser/filebrowser/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 📂 Web File Browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.6k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ filebrowser/filebrowser：filebrowser/filebrowser helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

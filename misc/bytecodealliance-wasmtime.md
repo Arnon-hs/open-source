@@ -1,6 +1,6 @@
 # bytecodealliance/wasmtime
 
-[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasmtime/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasmtime?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasmtime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=flat-square&color=yellow)](https://github.com/bytecodealliance/wasmtime/stargazers) [![Forks](https://img.shields.io/github/forks/bytecodealliance/wasmtime?style=flat-square&color=blue)](https://github.com/bytecodealliance/wasmtime/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ bytecodealliance/wasmtime：bytecodealliance/wasmtime may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 88/100 |
 | stars | 91/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Arindam200/awesome-ai-apps
 
-[![Stars](https://img.shields.io/github/stars/Arindam200/awesome-ai-apps?style=flat-square&color=yellow)](https://github.com/Arindam200/awesome-ai-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Arindam200/awesome-ai-apps?style=flat-square&color=blue)](https://github.com/Arindam200/awesome-ai-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arindam200/awesome-ai-apps?style=flat-square&color=yellow)](https://github.com/Arindam200/awesome-ai-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Arindam200/awesome-ai-apps?style=flat-square&color=blue)](https://github.com/Arindam200/awesome-ai-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Arindam200/awesome-ai-apps：Arindam200/awesome-ai-apps helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 64/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

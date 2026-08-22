@@ -1,6 +1,6 @@
 # nucleus-ffm/foss_warn
 
-[![Stars](https://img.shields.io/github/stars/nucleus-ffm/foss_warn?style=flat-square&color=yellow)](https://github.com/nucleus-ffm/foss_warn/stargazers) [![Forks](https://img.shields.io/github/forks/nucleus-ffm/foss_warn?style=flat-square&color=blue)](https://github.com/nucleus-ffm/foss_warn/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nucleus-ffm/foss_warn?style=flat-square&color=yellow)](https://github.com/nucleus-ffm/foss_warn/stargazers) [![Forks](https://img.shields.io/github/forks/nucleus-ffm/foss_warn?style=flat-square&color=blue)](https://github.com/nucleus-ffm/foss_warn/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > An unofficial open source application to get emergency alerts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 232 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ nucleus-ffm/foss_warn：nucleus-ffm/foss_warn may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

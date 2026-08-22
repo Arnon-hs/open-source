@@ -1,6 +1,6 @@
 # TriliumNext/Trilium
 
-[![Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=flat-square&color=yellow)](https://github.com/TriliumNext/Trilium/stargazers) [![Forks](https://img.shields.io/github/forks/TriliumNext/Trilium?style=flat-square&color=blue)](https://github.com/TriliumNext/Trilium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TriliumNext/Trilium?style=flat-square&color=yellow)](https://github.com/TriliumNext/Trilium/stargazers) [![Forks](https://img.shields.io/github/forks/TriliumNext/Trilium?style=flat-square&color=blue)](https://github.com/TriliumNext/Trilium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Build your personal knowledge base with Trilium Notes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.9k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TriliumNext/Trilium：TriliumNext/Trilium helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 93/100 |
 | stars | 97/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

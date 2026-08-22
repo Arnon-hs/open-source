@@ -1,6 +1,6 @@
 # msrv-tech/AI_agent
 
-[![Stars](https://img.shields.io/github/stars/msrv-tech/AI_agent?style=flat-square&color=yellow)](https://github.com/msrv-tech/AI_agent/stargazers) [![Forks](https://img.shields.io/github/forks/msrv-tech/AI_agent?style=flat-square&color=blue)](https://github.com/msrv-tech/AI_agent/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msrv-tech/AI_agent?style=flat-square&color=yellow)](https://github.com/msrv-tech/AI_agent/stargazers) [![Forks](https://img.shields.io/github/forks/msrv-tech/AI_agent?style=flat-square&color=blue)](https://github.com/msrv-tech/AI_agent/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > ИИ агент для 1С
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ msrv-tech/AI_agent：msrv-tech/AI_agent helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 47/100 |
-| outlook | 46/100 |
+| production | 40/100 |
+| outlook | 39/100 |
 | adoption | 33/100 |
 | stars | 36/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

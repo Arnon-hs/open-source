@@ -1,6 +1,6 @@
 # getzola/giallo
 
-[![Stars](https://img.shields.io/github/stars/getzola/giallo?style=flat-square&color=yellow)](https://github.com/getzola/giallo/stargazers) [![Forks](https://img.shields.io/github/forks/getzola/giallo?style=flat-square&color=blue)](https://github.com/getzola/giallo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getzola/giallo?style=flat-square&color=yellow)](https://github.com/getzola/giallo/stargazers) [![Forks](https://img.shields.io/github/forks/getzola/giallo?style=flat-square&color=blue)](https://github.com/getzola/giallo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Syntax highlighter, same output as VSCode
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ getzola/giallo：getzola/giallo may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 30/100 |
-| production | 46/100 |
-| outlook | 42/100 |
+| production | 40/100 |
+| outlook | 35/100 |
 | adoption | 38/100 |
 | stars | 44/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

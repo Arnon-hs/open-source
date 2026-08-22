@@ -1,6 +1,6 @@
 # websitebutlers/codefire-app
 
-[![Stars](https://img.shields.io/github/stars/websitebutlers/codefire-app?style=flat-square&color=yellow)](https://github.com/websitebutlers/codefire-app/stargazers) [![Forks](https://img.shields.io/github/forks/websitebutlers/codefire-app?style=flat-square&color=blue)](https://github.com/websitebutlers/codefire-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/websitebutlers/codefire-app?style=flat-square&color=yellow)](https://github.com/websitebutlers/codefire-app/stargazers) [![Forks](https://img.shields.io/github/forks/websitebutlers/codefire-app?style=flat-square&color=blue)](https://github.com/websitebutlers/codefire-app/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > CodeFire gives AI coding tools persistent memory, task tracking, and project intelligence. A desktop companion for the AI-native workflow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CodeFire is an open‑source desktop companion that extends AI‑driven coding t
 
 ### 中文
 
-websitebutlers/codefire-app：websitebutlers/codefire-app helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+websitebutlers/codefire-app：websitebutlers/codefire-app helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ websitebutlers/codefire-app：websitebutlers/codefire-app helps prototype or ins
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ websitebutlers/codefire-app：websitebutlers/codefire-app helps prototype or ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 62/100 |
+| production | 47/100 |
+| outlook | 55/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

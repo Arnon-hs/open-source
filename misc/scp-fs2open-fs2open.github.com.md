@@ -1,6 +1,6 @@
 # scp-fs2open/fs2open.github.com
 
-[![Stars](https://img.shields.io/github/stars/scp-fs2open/fs2open.github.com?style=flat-square&color=yellow)](https://github.com/scp-fs2open/fs2open.github.com/stargazers) [![Forks](https://img.shields.io/github/forks/scp-fs2open/fs2open.github.com?style=flat-square&color=blue)](https://github.com/scp-fs2open/fs2open.github.com/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scp-fs2open/fs2open.github.com?style=flat-square&color=yellow)](https://github.com/scp-fs2open/fs2open.github.com/stargazers) [![Forks](https://img.shields.io/github/forks/scp-fs2open/fs2open.github.com?style=flat-square&color=blue)](https://github.com/scp-fs2open/fs2open.github.com/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Origin Repository for SCP FreeSpace 2 Open
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ scp-fs2open/fs2open.github.com：scp-fs2open/fs2open.github.com may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 57/100 |
 | stars | 57/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # saltcorn/saltcorn
 
-[![Stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=flat-square&color=yellow)](https://github.com/saltcorn/saltcorn/stargazers) [![Forks](https://img.shields.io/github/forks/saltcorn/saltcorn?style=flat-square&color=blue)](https://github.com/saltcorn/saltcorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=flat-square&color=yellow)](https://github.com/saltcorn/saltcorn/stargazers) [![Forks](https://img.shields.io/github/forks/saltcorn/saltcorn?style=flat-square&color=blue)](https://github.com/saltcorn/saltcorn/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source no-code application builder
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Saltcorn — это бесплатный и полностью открыты�
 
 ### 中文
 
-saltcorn/saltcorn：saltcorn/saltcorn helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saltcorn/saltcorn：saltcorn/saltcorn helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ saltcorn/saltcorn：saltcorn/saltcorn helps ship user-facing interfaces with les
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ saltcorn/saltcorn：saltcorn/saltcorn helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 68/100 |
 | stars | 70/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

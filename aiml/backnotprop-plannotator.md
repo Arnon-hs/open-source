@@ -1,6 +1,6 @@
 # backnotprop/plannotator
 
-[![Stars](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square&color=yellow)](https://github.com/backnotprop/plannotator/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/plannotator?style=flat-square&color=blue)](https://github.com/backnotprop/plannotator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square&color=yellow)](https://github.com/backnotprop/plannotator/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/plannotator?style=flat-square&color=blue)](https://github.com/backnotprop/plannotator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ backnotprop/plannotator：backnotprop/plannotator helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # benjamimgois/goverlay
 
-[![Stars](https://img.shields.io/github/stars/benjamimgois/goverlay?style=flat-square&color=yellow)](https://github.com/benjamimgois/goverlay/stargazers) [![Forks](https://img.shields.io/github/forks/benjamimgois/goverlay?style=flat-square&color=blue)](https://github.com/benjamimgois/goverlay/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benjamimgois/goverlay?style=flat-square&color=yellow)](https://github.com/benjamimgois/goverlay/stargazers) [![Forks](https://img.shields.io/github/forks/benjamimgois/goverlay?style=flat-square&color=blue)](https://github.com/benjamimgois/goverlay/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Goverlay is a lightweight, open‑source GUI that simplifies the configuration o
 
 ### 中文
 
-benjamimgois/goverlay：benjamimgois/goverlay may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+benjamimgois/goverlay：benjamimgois/goverlay may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ benjamimgois/goverlay：benjamimgois/goverlay may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ benjamimgois/goverlay：benjamimgois/goverlay may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 47/100 |
+| production | 45/100 |
+| outlook | 40/100 |
 | adoption | 60/100 |
 | stars | 66/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

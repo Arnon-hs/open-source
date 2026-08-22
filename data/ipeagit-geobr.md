@@ -1,6 +1,6 @@
 # ipeaGIT/geobr
 
-[![Stars](https://img.shields.io/github/stars/ipeaGIT/geobr?style=flat-square&color=yellow)](https://github.com/ipeaGIT/geobr/stargazers) [![Forks](https://img.shields.io/github/forks/ipeaGIT/geobr?style=flat-square&color=blue)](https://github.com/ipeaGIT/geobr/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipeaGIT/geobr?style=flat-square&color=yellow)](https://github.com/ipeaGIT/geobr/stargazers) [![Forks](https://img.shields.io/github/forks/ipeaGIT/geobr?style=flat-square&color=blue)](https://github.com/ipeaGIT/geobr/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Easy access to official spatial data sets of Brazil in R and Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 917 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | R |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ipeaGIT/geobr：ipeaGIT/geobr helps convert raw data into searchable, analyzable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

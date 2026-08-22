@@ -1,6 +1,6 @@
 # MAZHARMIK/Interview_DS_Algo
 
-[![Stars](https://img.shields.io/github/stars/MAZHARMIK/Interview_DS_Algo?style=flat-square&color=yellow)](https://github.com/MAZHARMIK/Interview_DS_Algo/stargazers) [![Forks](https://img.shields.io/github/forks/MAZHARMIK/Interview_DS_Algo?style=flat-square&color=blue)](https://github.com/MAZHARMIK/Interview_DS_Algo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MAZHARMIK/Interview_DS_Algo?style=flat-square&color=yellow)](https://github.com/MAZHARMIK/Interview_DS_Algo/stargazers) [![Forks](https://img.shields.io/github/forks/MAZHARMIK/Interview_DS_Algo?style=flat-square&color=blue)](https://github.com/MAZHARMIK/Interview_DS_Algo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Super Repository for Coding Interview Preperation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MAZHARMIK/Interview_DS_Algo：MAZHARMIK/Interview_DS_Algo helps convert raw data
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 78/100 |
 | stars | 77/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

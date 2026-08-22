@@ -1,6 +1,6 @@
 # getmaxun/maxun
 
-[![Stars](https://img.shields.io/github/stars/getmaxun/maxun?style=flat-square&color=yellow)](https://github.com/getmaxun/maxun/stargazers) [![Forks](https://img.shields.io/github/forks/getmaxun/maxun?style=flat-square&color=blue)](https://github.com/getmaxun/maxun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getmaxun/maxun?style=flat-square&color=yellow)](https://github.com/getmaxun/maxun/stargazers) [![Forks](https://img.shields.io/github/forks/getmaxun/maxun?style=flat-square&color=blue)](https://github.com/getmaxun/maxun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ getmaxun/maxun：getmaxun/maxun helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 75/100 |
+| production | 57/100 |
+| outlook | 68/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

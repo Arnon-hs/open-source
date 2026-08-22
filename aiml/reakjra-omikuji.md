@@ -1,6 +1,6 @@
 # reakjra/omikuji
 
-[![Stars](https://img.shields.io/github/stars/reakjra/omikuji?style=flat-square&color=yellow)](https://github.com/reakjra/omikuji/stargazers) [![Forks](https://img.shields.io/github/forks/reakjra/omikuji?style=flat-square&color=blue)](https://github.com/reakjra/omikuji/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reakjra/omikuji?style=flat-square&color=yellow)](https://github.com/reakjra/omikuji/stargazers) [![Forks](https://img.shields.io/github/forks/reakjra/omikuji?style=flat-square&color=blue)](https://github.com/reakjra/omikuji/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Qt/QML based game launcher for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ reakjra/omikuji：reakjra/omikuji helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 46/100 |
-| outlook | 42/100 |
+| production | 40/100 |
+| outlook | 35/100 |
 | adoption | 39/100 |
 | stars | 47/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

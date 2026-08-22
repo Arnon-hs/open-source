@@ -1,6 +1,6 @@
 # entireio/cli
 
-[![Stars](https://img.shields.io/github/stars/entireio/cli?style=flat-square&color=yellow)](https://github.com/entireio/cli/stargazers) [![Forks](https://img.shields.io/github/forks/entireio/cli?style=flat-square&color=blue)](https://github.com/entireio/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/entireio/cli?style=flat-square&color=yellow)](https://github.com/entireio/cli/stargazers) [![Forks](https://img.shields.io/github/forks/entireio/cli?style=flat-square&color=blue)](https://github.com/entireio/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ entireio/cli：entireio/cli helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 73/100 |
 | stars | 77/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

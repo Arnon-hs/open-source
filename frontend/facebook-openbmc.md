@@ -1,6 +1,6 @@
 # facebook/openbmc
 
-[![Stars](https://img.shields.io/github/stars/facebook/openbmc?style=flat-square&color=yellow)](https://github.com/facebook/openbmc/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/openbmc?style=flat-square&color=blue)](https://github.com/facebook/openbmc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/openbmc?style=flat-square&color=yellow)](https://github.com/facebook/openbmc/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/openbmc?style=flat-square&color=blue)](https://github.com/facebook/openbmc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ facebook/openbmc：facebook/openbmc helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 51/100 |
+| production | 43/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 60/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

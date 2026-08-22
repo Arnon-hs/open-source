@@ -1,6 +1,6 @@
 # gefsikatsinelou/MetaSearchMCP
 
-[![Stars](https://img.shields.io/github/stars/gefsikatsinelou/MetaSearchMCP?style=flat-square&color=yellow)](https://github.com/gefsikatsinelou/MetaSearchMCP/stargazers) [![Forks](https://img.shields.io/github/forks/gefsikatsinelou/MetaSearchMCP?style=flat-square&color=blue)](https://github.com/gefsikatsinelou/MetaSearchMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gefsikatsinelou/MetaSearchMCP?style=flat-square&color=yellow)](https://github.com/gefsikatsinelou/MetaSearchMCP/stargazers) [![Forks](https://img.shields.io/github/forks/gefsikatsinelou/MetaSearchMCP?style=flat-square&color=blue)](https://github.com/gefsikatsinelou/MetaSearchMCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source metasearch backend, MCP server, and AI search API for LLM agents. Python FastAPI search gateway with Google search via SerpBase and Serper, multi-engine search aggregation, structured JSON output, provider fallback, deduplication, and SearXNG alternative architecture for agent workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gefsikatsinelou/MetaSearchMCP：gefsikatsinelou/MetaSearchMCP helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 28/100 |
 | stars | 35/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

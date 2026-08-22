@@ -1,6 +1,6 @@
 # apache/gravitino
 
-[![Stars](https://img.shields.io/github/stars/apache/gravitino?style=flat-square&color=yellow)](https://github.com/apache/gravitino/stargazers) [![Forks](https://img.shields.io/github/forks/apache/gravitino?style=flat-square&color=blue)](https://github.com/apache/gravitino/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/gravitino?style=flat-square&color=yellow)](https://github.com/apache/gravitino/stargazers) [![Forks](https://img.shields.io/github/forks/apache/gravitino?style=flat-square&color=blue)](https://github.com/apache/gravitino/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 821 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/gravitino：apache/gravitino helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 74/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # s-morgan-jeffries/apple-mail-mcp
 
-[![Stars](https://img.shields.io/github/stars/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/s-morgan-jeffries/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/s-morgan-jeffries/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/s-morgan-jeffries/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/s-morgan-jeffries/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/s-morgan-jeffries/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 MCP server for Apple Mail - Manage emails with AI using Claude Desktop. Search, send, organize mail with natural language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ s‑morgan‑jeffries/apple-mail-mcp — это open‑source MCP‑серве
 
 ### 中文
 
-s-morgan-jeffries/apple-mail-mcp：s-morgan-jeffries/apple-mail-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+s-morgan-jeffries/apple-mail-mcp：s-morgan-jeffries/apple-mail-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ s-morgan-jeffries/apple-mail-mcp：s-morgan-jeffries/apple-mail-mcp helps add AI
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ s-morgan-jeffries/apple-mail-mcp：s-morgan-jeffries/apple-mail-mcp helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 37/100 |
 | stars | 38/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

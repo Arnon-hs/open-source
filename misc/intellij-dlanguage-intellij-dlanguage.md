@@ -1,6 +1,6 @@
 # intellij-dlanguage/intellij-dlanguage
 
-[![Stars](https://img.shields.io/github/stars/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=yellow)](https://github.com/intellij-dlanguage/intellij-dlanguage/stargazers) [![Forks](https://img.shields.io/github/forks/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=blue)](https://github.com/intellij-dlanguage/intellij-dlanguage/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=yellow)](https://github.com/intellij-dlanguage/intellij-dlanguage/stargazers) [![Forks](https://img.shields.io/github/forks/intellij-dlanguage/intellij-dlanguage?style=flat-square&color=blue)](https://github.com/intellij-dlanguage/intellij-dlanguage/network) [![Language](https://img.shields.io/badge/lang-D-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Intellij Plugin for the D Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | D |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ This open-source project, "Intellij D Language Plugin," is an extension for the 
 
 ### 中文
 
-intellij-dlanguage/intellij-dlanguage：intellij-dlanguage/intellij-dlanguage may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+intellij-dlanguage/intellij-dlanguage：intellij-dlanguage/intellij-dlanguage may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ intellij-dlanguage/intellij-dlanguage：intellij-dlanguage/intellij-dlanguage ma
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ intellij-dlanguage/intellij-dlanguage：intellij-dlanguage/intellij-dlanguage ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 47/100 |
+| outlook | 44/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

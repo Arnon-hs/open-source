@@ -1,6 +1,6 @@
 # memohai/Memoh
 
-[![Stars](https://img.shields.io/github/stars/memohai/Memoh?style=flat-square&color=yellow)](https://github.com/memohai/Memoh/stargazers) [![Forks](https://img.shields.io/github/forks/memohai/Memoh?style=flat-square&color=blue)](https://github.com/memohai/Memoh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memohai/Memoh?style=flat-square&color=yellow)](https://github.com/memohai/Memoh/stargazers) [![Forks](https://img.shields.io/github/forks/memohai/Memoh?style=flat-square&color=blue)](https://github.com/memohai/Memoh/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Self hosted, always-on AI agent platform run in containers. Create multiple bots with long memory, and connect them to Telegram, Discord, Feishu(Lark), Matrix, etc (like OpenClaw).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ memohai/Memoh：memohai/Memoh helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ArcadeData/arcadedb
 
-[![Stars](https://img.shields.io/github/stars/ArcadeData/arcadedb?style=flat-square&color=yellow)](https://github.com/ArcadeData/arcadedb/stargazers) [![Forks](https://img.shields.io/github/forks/ArcadeData/arcadedb?style=flat-square&color=blue)](https://github.com/ArcadeData/arcadedb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArcadeData/arcadedb?style=flat-square&color=yellow)](https://github.com/ArcadeData/arcadedb/stargazers) [![Forks](https://img.shields.io/github/forks/ArcadeData/arcadedb?style=flat-square&color=blue)](https://github.com/ArcadeData/arcadedb/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 855 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ArcadeData/arcadedb：ArcadeData/arcadedb helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 55/100 |
+| outlook | 50/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

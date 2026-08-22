@@ -1,6 +1,6 @@
 # Gzh0821/pvzg_site
 
-[![Stars](https://img.shields.io/github/stars/Gzh0821/pvzg_site?style=flat-square&color=yellow)](https://github.com/Gzh0821/pvzg_site/stargazers) [![Forks](https://img.shields.io/github/forks/Gzh0821/pvzg_site?style=flat-square&color=blue)](https://github.com/Gzh0821/pvzg_site/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gzh0821/pvzg_site?style=flat-square&color=yellow)](https://github.com/Gzh0821/pvzg_site/stargazers) [![Forks](https://img.shields.io/github/forks/Gzh0821/pvzg_site?style=flat-square&color=blue)](https://github.com/Gzh0821/pvzg_site/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Gzh0821/pvzg_site is the source code for the official website of **Plants vs. Zo
 
 ### 中文
 
-Gzh0821/pvzg_site：Gzh0821/pvzg_site helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Gzh0821/pvzg_site：Gzh0821/pvzg_site helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Gzh0821/pvzg_site：Gzh0821/pvzg_site helps ship user-facing interfaces with les
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Gzh0821/pvzg_site：Gzh0821/pvzg_site helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 61/100 |
 | stars | 66/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # hotseo123/shida-jichang-tuijian
 
-[![Stars](https://img.shields.io/github/stars/hotseo123/shida-jichang-tuijian?style=flat-square&color=yellow)](https://github.com/hotseo123/shida-jichang-tuijian/stargazers) [![Forks](https://img.shields.io/github/forks/hotseo123/shida-jichang-tuijian?style=flat-square&color=blue)](https://github.com/hotseo123/shida-jichang-tuijian/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hotseo123/shida-jichang-tuijian?style=flat-square&color=yellow)](https://github.com/hotseo123/shida-jichang-tuijian/stargazers) [![Forks](https://img.shields.io/github/forks/hotseo123/shida-jichang-tuijian?style=flat-square&color=blue)](https://github.com/hotseo123/shida-jichang-tuijian/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 2026年十大靠谱优质稳定机场推荐(🌟内附机场折扣优惠码)，基于长期真实使用体验整理，持续更新（当前至5月），五一优惠活动来了，最高享65折优惠，覆盖科学上网、ChatGPT、Claude、YouTube等常见场景，优先筛选稳定性高、实际可用的机场，长期跟踪机场稳定性，每周更新并同步整理优惠活动，帮助你少踩坑、低成本选择可靠节点服务。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The **shida‑jichang‑tuijian** repository curates a regularly updated list of
 
 ### 中文
 
-hotseo123/shida-jichang-tuijian：hotseo123/shida-jichang-tuijian helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hotseo123/shida-jichang-tuijian：hotseo123/shida-jichang-tuijian helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ hotseo123/shida-jichang-tuijian：hotseo123/shida-jichang-tuijian helps ship use
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hotseo123/shida-jichang-tuijian：hotseo123/shida-jichang-tuijian helps ship use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 49/100 |
 | stars | 56/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

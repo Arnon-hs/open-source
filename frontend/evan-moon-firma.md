@@ -1,6 +1,6 @@
 # evan-moon/firma
 
-[![Stars](https://img.shields.io/github/stars/evan-moon/firma?style=flat-square&color=yellow)](https://github.com/evan-moon/firma/stargazers) [![Forks](https://img.shields.io/github/forks/evan-moon/firma?style=flat-square&color=blue)](https://github.com/evan-moon/firma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evan-moon/firma?style=flat-square&color=yellow)](https://github.com/evan-moon/firma/stargazers) [![Forks](https://img.shields.io/github/forks/evan-moon/firma?style=flat-square&color=blue)](https://github.com/evan-moon/firma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Evan‑Moon’s **firma** is a local‑first command‑line portfolio tracker de
 
 ### 中文
 
-evan-moon/firma：evan-moon/firma helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+evan-moon/firma：evan-moon/firma helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ evan-moon/firma：evan-moon/firma helps ship user-facing interfaces with less cu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ evan-moon/firma：evan-moon/firma helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 27/100 |
 | stars | 32/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

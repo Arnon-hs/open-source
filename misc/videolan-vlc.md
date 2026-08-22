@@ -1,6 +1,6 @@
 # videolan/vlc
 
-[![Stars](https://img.shields.io/github/stars/videolan/vlc?style=flat-square&color=yellow)](https://github.com/videolan/vlc/stargazers) [![Forks](https://img.shields.io/github/forks/videolan/vlc?style=flat-square&color=blue)](https://github.com/videolan/vlc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/videolan/vlc?style=flat-square&color=yellow)](https://github.com/videolan/vlc/stargazers) [![Forks](https://img.shields.io/github/forks/videolan/vlc?style=flat-square&color=blue)](https://github.com/videolan/vlc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.3k |
 | 🍴 **Forks** | 5.9k |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ videolan/vlc：videolan/vlc may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 92/100 |
 | stars | 91/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

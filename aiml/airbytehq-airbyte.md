@@ -1,6 +1,6 @@
 # airbytehq/airbyte
 
-[![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.2k |
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ airbytehq/airbyte：airbytehq/airbyte helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 77/100 |
+| production | 58/100 |
+| outlook | 70/100 |
 | adoption | 92/100 |
 | stars | 92/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Hypfer/Valetudo
 
-[![Stars](https://img.shields.io/github/stars/Hypfer/Valetudo?style=flat-square&color=yellow)](https://github.com/Hypfer/Valetudo/stargazers) [![Forks](https://img.shields.io/github/forks/Hypfer/Valetudo?style=flat-square&color=blue)](https://github.com/Hypfer/Valetudo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hypfer/Valetudo?style=flat-square&color=yellow)](https://github.com/Hypfer/Valetudo/stargazers) [![Forks](https://img.shields.io/github/forks/Hypfer/Valetudo?style=flat-square&color=blue)](https://github.com/Hypfer/Valetudo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud replacement for vacuum robots enabling local-only operation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Hypfer/Valetudo：Hypfer/Valetudo may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 79/100 |
 | stars | 84/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

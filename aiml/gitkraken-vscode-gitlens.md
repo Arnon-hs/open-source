@@ -1,6 +1,6 @@
 # gitkraken/vscode-gitlens
 
-[![Stars](https://img.shields.io/github/stars/gitkraken/vscode-gitlens?style=flat-square&color=yellow)](https://github.com/gitkraken/vscode-gitlens/stargazers) [![Forks](https://img.shields.io/github/forks/gitkraken/vscode-gitlens?style=flat-square&color=blue)](https://github.com/gitkraken/vscode-gitlens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitkraken/vscode-gitlens?style=flat-square&color=yellow)](https://github.com/gitkraken/vscode-gitlens/stargazers) [![Forks](https://img.shields.io/github/forks/gitkraken/vscode-gitlens?style=flat-square&color=blue)](https://github.com/gitkraken/vscode-gitlens/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ gitkraken/vscode-gitlens：gitkraken/vscode-gitlens helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 84/100 |
 | stars | 85/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # randomwalkhan/Short-Term-Reversal-Strategy
 
-[![Stars](https://img.shields.io/github/stars/randomwalkhan/Short-Term-Reversal-Strategy?style=flat-square&color=yellow)](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy/stargazers) [![Forks](https://img.shields.io/github/forks/randomwalkhan/Short-Term-Reversal-Strategy?style=flat-square&color=blue)](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/randomwalkhan/Short-Term-Reversal-Strategy?style=flat-square&color=yellow)](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy/stargazers) [![Forks](https://img.shields.io/github/forks/randomwalkhan/Short-Term-Reversal-Strategy?style=flat-square&color=blue)](https://github.com/randomwalkhan/Short-Term-Reversal-Strategy/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Python-based quant trading research project for short-term reversal option setups, universe selection, staged-entry backtesting, and live paper trading.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ randomwalkhan/Short-Term-Reversal-Strategy：randomwalkhan/Short-Term-Reversal-S
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

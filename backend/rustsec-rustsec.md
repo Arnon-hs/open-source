@@ -1,6 +1,6 @@
 # rustsec/rustsec
 
-[![Stars](https://img.shields.io/github/stars/rustsec/rustsec?style=flat-square&color=yellow)](https://github.com/rustsec/rustsec/stargazers) [![Forks](https://img.shields.io/github/forks/rustsec/rustsec?style=flat-square&color=blue)](https://github.com/rustsec/rustsec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustsec/rustsec?style=flat-square&color=yellow)](https://github.com/rustsec/rustsec/stargazers) [![Forks](https://img.shields.io/github/forks/rustsec/rustsec?style=flat-square&color=blue)](https://github.com/rustsec/rustsec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > RustSec API & Tooling
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rustsec/rustsec：rustsec/rustsec helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

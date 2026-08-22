@@ -1,6 +1,6 @@
 # eclipse-sumo/sumo
 
-[![Stars](https://img.shields.io/github/stars/eclipse-sumo/sumo?style=flat-square&color=yellow)](https://github.com/eclipse-sumo/sumo/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-sumo/sumo?style=flat-square&color=blue)](https://github.com/eclipse-sumo/sumo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclipse-sumo/sumo?style=flat-square&color=yellow)](https://github.com/eclipse-sumo/sumo/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-sumo/sumo?style=flat-square&color=blue)](https://github.com/eclipse-sumo/sumo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ eclipse-sumo/sumo：eclipse-sumo/sumo helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 78/100 |
 | stars | 77/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

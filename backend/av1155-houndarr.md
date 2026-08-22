@@ -1,6 +1,6 @@
 # av1155/houndarr
 
-[![Stars](https://img.shields.io/github/stars/av1155/houndarr?style=flat-square&color=yellow)](https://github.com/av1155/houndarr/stargazers) [![Forks](https://img.shields.io/github/forks/av1155/houndarr?style=flat-square&color=blue)](https://github.com/av1155/houndarr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/av1155/houndarr?style=flat-square&color=yellow)](https://github.com/av1155/houndarr/stargazers) [![Forks](https://img.shields.io/github/forks/av1155/houndarr?style=flat-square&color=blue)](https://github.com/av1155/houndarr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ av1155/houndarr：av1155/houndarr helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 40/100 |
 | stars | 49/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

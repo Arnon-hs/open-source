@@ -1,6 +1,6 @@
 # FuzzyGrim/Yamtrack
 
-[![Stars](https://img.shields.io/github/stars/FuzzyGrim/Yamtrack?style=flat-square&color=yellow)](https://github.com/FuzzyGrim/Yamtrack/stargazers) [![Forks](https://img.shields.io/github/forks/FuzzyGrim/Yamtrack?style=flat-square&color=blue)](https://github.com/FuzzyGrim/Yamtrack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FuzzyGrim/Yamtrack?style=flat-square&color=yellow)](https://github.com/FuzzyGrim/Yamtrack/stargazers) [![Forks](https://img.shields.io/github/forks/FuzzyGrim/Yamtrack?style=flat-square&color=blue)](https://github.com/FuzzyGrim/Yamtrack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A self hosted media tracker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ FuzzyGrim/Yamtrack：FuzzyGrim/Yamtrack helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 65/100 |
-| outlook | 63/100 |
+| production | 59/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 73/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

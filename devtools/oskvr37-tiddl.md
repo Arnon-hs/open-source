@@ -1,6 +1,6 @@
 # oskvr37/tiddl
 
-[![Stars](https://img.shields.io/github/stars/oskvr37/tiddl?style=flat-square&color=yellow)](https://github.com/oskvr37/tiddl/stargazers) [![Forks](https://img.shields.io/github/forks/oskvr37/tiddl?style=flat-square&color=blue)](https://github.com/oskvr37/tiddl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oskvr37/tiddl?style=flat-square&color=yellow)](https://github.com/oskvr37/tiddl/stargazers) [![Forks](https://img.shields.io/github/forks/oskvr37/tiddl?style=flat-square&color=blue)](https://github.com/oskvr37/tiddl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Download Tidal tracks, videos, albums, playlists & artists! Tidal downloader that supports master quality.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ oskvr37/tiddl：oskvr37/tiddl helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

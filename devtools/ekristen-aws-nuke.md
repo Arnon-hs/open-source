@@ -1,6 +1,6 @@
 # ekristen/aws-nuke
 
-[![Stars](https://img.shields.io/github/stars/ekristen/aws-nuke?style=flat-square&color=yellow)](https://github.com/ekristen/aws-nuke/stargazers) [![Forks](https://img.shields.io/github/forks/ekristen/aws-nuke?style=flat-square&color=blue)](https://github.com/ekristen/aws-nuke/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekristen/aws-nuke?style=flat-square&color=yellow)](https://github.com/ekristen/aws-nuke/stargazers) [![Forks](https://img.shields.io/github/forks/ekristen/aws-nuke?style=flat-square&color=blue)](https://github.com/ekristen/aws-nuke/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Remove all the resources from an AWS account
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ekristen/aws-nuke：ekristen/aws-nuke helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

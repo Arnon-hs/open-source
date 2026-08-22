@@ -1,6 +1,6 @@
 # DataTalksClub/llm-zoomcamp
 
-[![Stars](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/llm-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/llm-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/llm-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/llm-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/llm-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/llm-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 913 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DataTalksClub/llm-zoomcamp — это бесплатный онлайн‑ку
 
 ### 中文
 
-DataTalksClub/llm-zoomcamp：DataTalksClub/llm-zoomcamp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DataTalksClub/llm-zoomcamp：DataTalksClub/llm-zoomcamp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DataTalksClub/llm-zoomcamp：DataTalksClub/llm-zoomcamp helps add AI capability 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ DataTalksClub/llm-zoomcamp：DataTalksClub/llm-zoomcamp helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

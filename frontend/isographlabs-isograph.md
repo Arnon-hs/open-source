@@ -1,6 +1,6 @@
 # isographlabs/isograph
 
-[![Stars](https://img.shields.io/github/stars/isographlabs/isograph?style=flat-square&color=yellow)](https://github.com/isographlabs/isograph/stargazers) [![Forks](https://img.shields.io/github/forks/isographlabs/isograph?style=flat-square&color=blue)](https://github.com/isographlabs/isograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isographlabs/isograph?style=flat-square&color=yellow)](https://github.com/isographlabs/isograph/stargazers) [![Forks](https://img.shields.io/github/forks/isographlabs/isograph?style=flat-square&color=blue)](https://github.com/isographlabs/isograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The UI framework for teams that move fast — without breaking things.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ isograph — это открытый UI‑фреймворк, ориентир
 
 ### 中文
 
-isographlabs/isograph：isographlabs/isograph helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+isographlabs/isograph：isographlabs/isograph helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ isographlabs/isograph：isographlabs/isograph helps ship user-facing interfaces 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ isographlabs/isograph：isographlabs/isograph helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 55/100 |
+| production | 45/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

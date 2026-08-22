@@ -1,6 +1,6 @@
 # SideCloudGroup/BetterForward
 
-[![Stars](https://img.shields.io/github/stars/SideCloudGroup/BetterForward?style=flat-square&color=yellow)](https://github.com/SideCloudGroup/BetterForward/stargazers) [![Forks](https://img.shields.io/github/forks/SideCloudGroup/BetterForward?style=flat-square&color=blue)](https://github.com/SideCloudGroup/BetterForward/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SideCloudGroup/BetterForward?style=flat-square&color=yellow)](https://github.com/SideCloudGroup/BetterForward/stargazers) [![Forks](https://img.shields.io/github/forks/SideCloudGroup/BetterForward?style=flat-square&color=blue)](https://github.com/SideCloudGroup/BetterForward/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Designed for better message forwarding in Telegram.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SideCloudGroup/BetterForward — это открытый проект, цел�
 
 ### 中文
 
-SideCloudGroup/BetterForward：SideCloudGroup/BetterForward may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SideCloudGroup/BetterForward：SideCloudGroup/BetterForward may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SideCloudGroup/BetterForward：SideCloudGroup/BetterForward may be useful when i
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ SideCloudGroup/BetterForward：SideCloudGroup/BetterForward may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 57/100 |
 | stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

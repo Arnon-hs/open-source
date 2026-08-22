@@ -1,6 +1,6 @@
 # sanidhyy/space-portfolio
 
-[![Stars](https://img.shields.io/github/stars/sanidhyy/space-portfolio?style=flat-square&color=yellow)](https://github.com/sanidhyy/space-portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/sanidhyy/space-portfolio?style=flat-square&color=blue)](https://github.com/sanidhyy/space-portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanidhyy/space-portfolio?style=flat-square&color=yellow)](https://github.com/sanidhyy/space-portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/sanidhyy/space-portfolio?style=flat-square&color=blue)](https://github.com/sanidhyy/space-portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to my full stack Next.js 14 space portfolio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sanidhyy/space-portfolio：sanidhyy/space-portfolio helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 55/100 |
 | stars | 56/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # hackclub/hcb
 
-[![Stars](https://img.shields.io/github/stars/hackclub/hcb?style=flat-square&color=yellow)](https://github.com/hackclub/hcb/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/hcb?style=flat-square&color=blue)](https://github.com/hackclub/hcb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hackclub/hcb?style=flat-square&color=yellow)](https://github.com/hackclub/hcb/stargazers) [![Forks](https://img.shields.io/github/forks/hackclub/hcb?style=flat-square&color=blue)](https://github.com/hackclub/hcb/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ hackclub/hcb：hackclub/hcb may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

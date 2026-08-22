@@ -1,6 +1,6 @@
 # paypal-examples/v6-web-sdk-sample-integration
 
-[![Stars](https://img.shields.io/github/stars/paypal-examples/v6-web-sdk-sample-integration?style=flat-square&color=yellow)](https://github.com/paypal-examples/v6-web-sdk-sample-integration/stargazers) [![Forks](https://img.shields.io/github/forks/paypal-examples/v6-web-sdk-sample-integration?style=flat-square&color=blue)](https://github.com/paypal-examples/v6-web-sdk-sample-integration/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paypal-examples/v6-web-sdk-sample-integration?style=flat-square&color=yellow)](https://github.com/paypal-examples/v6-web-sdk-sample-integration/stargazers) [![Forks](https://img.shields.io/github/forks/paypal-examples/v6-web-sdk-sample-integration?style=flat-square&color=blue)](https://github.com/paypal-examples/v6-web-sdk-sample-integration/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Example JavaScript, TypeScript, and React integrations for the PayPal SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ paypal-examples/v6-web-sdk-sample-integration：paypal-examples/v6-web-sdk-sampl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 38/100 |
 | stars | 37/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

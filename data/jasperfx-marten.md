@@ -1,6 +1,6 @@
 # JasperFx/marten
 
-[![Stars](https://img.shields.io/github/stars/JasperFx/marten?style=flat-square&color=yellow)](https://github.com/JasperFx/marten/stargazers) [![Forks](https://img.shields.io/github/forks/JasperFx/marten?style=flat-square&color=blue)](https://github.com/JasperFx/marten/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JasperFx/marten?style=flat-square&color=yellow)](https://github.com/JasperFx/marten/stargazers) [![Forks](https://img.shields.io/github/forks/JasperFx/marten?style=flat-square&color=blue)](https://github.com/JasperFx/marten/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > .NET Transactional Document DB and Event Store on PostgreSQL
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 541 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JasperFx/marten：JasperFx/marten helps convert raw data into searchable, analyz
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

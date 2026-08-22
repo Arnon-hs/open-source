@@ -1,6 +1,6 @@
 # zhaoyang97/Paper-Notes
 
-[![Stars](https://img.shields.io/github/stars/zhaoyang97/Paper-Notes?style=flat-square&color=yellow)](https://github.com/zhaoyang97/Paper-Notes/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoyang97/Paper-Notes?style=flat-square&color=blue)](https://github.com/zhaoyang97/Paper-Notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhaoyang97/Paper-Notes?style=flat-square&color=yellow)](https://github.com/zhaoyang97/Paper-Notes/stargazers) [![Forks](https://img.shields.io/github/forks/zhaoyang97/Paper-Notes?style=flat-square&color=blue)](https://github.com/zhaoyang97/Paper-Notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 数千篇 AI · LLM · NLP · CV 顶会论文解读，每篇 5 分钟读懂核心思想。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Paper‑Notes** repository curates concise, 5‑minute read summaries of t
 
 ### 中文
 
-zhaoyang97/Paper-Notes：zhaoyang97/Paper-Notes helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zhaoyang97/Paper-Notes：zhaoyang97/Paper-Notes helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zhaoyang97/Paper-Notes：zhaoyang97/Paper-Notes helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zhaoyang97/Paper-Notes：zhaoyang97/Paper-Notes helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 48/100 |
+| outlook | 47/100 |
 | adoption | 45/100 |
 | stars | 50/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

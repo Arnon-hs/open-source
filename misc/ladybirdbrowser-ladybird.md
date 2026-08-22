@@ -1,6 +1,6 @@
 # LadybirdBrowser/ladybird
 
-[![Stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=flat-square&color=yellow)](https://github.com/LadybirdBrowser/ladybird/stargazers) [![Forks](https://img.shields.io/github/forks/LadybirdBrowser/ladybird?style=flat-square&color=blue)](https://github.com/LadybirdBrowser/ladybird/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=flat-square&color=yellow)](https://github.com/LadybirdBrowser/ladybird/stargazers) [![Forks](https://img.shields.io/github/forks/LadybirdBrowser/ladybird?style=flat-square&color=blue)](https://github.com/LadybirdBrowser/ladybird/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Truly independent web browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63.2k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ LadybirdBrowser/ladybird：LadybirdBrowser/ladybird may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

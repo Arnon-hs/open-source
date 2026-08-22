@@ -1,6 +1,6 @@
 # near/near-cli-rs
 
-[![Stars](https://img.shields.io/github/stars/near/near-cli-rs?style=flat-square&color=yellow)](https://github.com/near/near-cli-rs/stargazers) [![Forks](https://img.shields.io/github/forks/near/near-cli-rs?style=flat-square&color=blue)](https://github.com/near/near-cli-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/near/near-cli-rs?style=flat-square&color=yellow)](https://github.com/near/near-cli-rs/stargazers) [![Forks](https://img.shields.io/github/forks/near/near-cli-rs?style=flat-square&color=blue)](https://github.com/near/near-cli-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > near CLI is your human-friendly companion that helps to interact with NEAR Protocol from command line.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ The near-cli-rs is an open-source, human-friendly command-line interface (CLI) f
 
 ### 中文
 
-near/near-cli-rs：near/near-cli-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+near/near-cli-rs：near/near-cli-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ near/near-cli-rs：near/near-cli-rs helps prototype or inspect blockchain workfl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ near/near-cli-rs：near/near-cli-rs helps prototype or inspect blockchain workfl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 46/100 |
 | stars | 46/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

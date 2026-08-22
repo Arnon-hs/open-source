@@ -1,6 +1,6 @@
 # vystartasv/skill-forge
 
-[![Stars](https://img.shields.io/github/stars/vystartasv/skill-forge?style=flat-square&color=yellow)](https://github.com/vystartasv/skill-forge/stargazers) [![Forks](https://img.shields.io/github/forks/vystartasv/skill-forge?style=flat-square&color=blue)](https://github.com/vystartasv/skill-forge/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vystartasv/skill-forge?style=flat-square&color=yellow)](https://github.com/vystartasv/skill-forge/stargazers) [![Forks](https://img.shields.io/github/forks/vystartasv/skill-forge?style=flat-square&color=blue)](https://github.com/vystartasv/skill-forge/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): Managing 150+ AI Agent Skills at Scale — What Broke, What I Built
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-04 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ Managing 150+ AI Agent Skills at Scale — What Broke, What I Built：Managing 1
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 46/100 |
-| production | 41/100 |
-| outlook | 39/100 |
+| production | 34/100 |
+| outlook | 32/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

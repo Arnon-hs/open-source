@@ -1,6 +1,6 @@
 # vercel/turborepo
 
-[![Stars](https://img.shields.io/github/stars/vercel/turborepo?style=flat-square&color=yellow)](https://github.com/vercel/turborepo/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/turborepo?style=flat-square&color=blue)](https://github.com/vercel/turborepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel/turborepo?style=flat-square&color=yellow)](https://github.com/vercel/turborepo/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/turborepo?style=flat-square&color=blue)](https://github.com/vercel/turborepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Build system optimized for JavaScript and TypeScript, written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30.3k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vercel/turborepo：vercel/turborepo helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

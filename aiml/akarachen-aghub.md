@@ -1,6 +1,6 @@
 # AkaraChen/aghub
 
-[![Stars](https://img.shields.io/github/stars/AkaraChen/aghub?style=flat-square&color=yellow)](https://github.com/AkaraChen/aghub/stargazers) [![Forks](https://img.shields.io/github/forks/AkaraChen/aghub?style=flat-square&color=blue)](https://github.com/AkaraChen/aghub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AkaraChen/aghub?style=flat-square&color=yellow)](https://github.com/AkaraChen/aghub/stargazers) [![Forks](https://img.shields.io/github/forks/AkaraChen/aghub?style=flat-square&color=blue)](https://github.com/AkaraChen/aghub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > One hub for every AI coding agent. Unified configuration management for 22+ assistants.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AkaraChen/aghub：AkaraChen/aghub helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 49/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

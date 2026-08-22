@@ -1,6 +1,6 @@
 # xmtp/libxmtp
 
-[![Stars](https://img.shields.io/github/stars/xmtp/libxmtp?style=flat-square&color=yellow)](https://github.com/xmtp/libxmtp/stargazers) [![Forks](https://img.shields.io/github/forks/xmtp/libxmtp?style=flat-square&color=blue)](https://github.com/xmtp/libxmtp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xmtp/libxmtp?style=flat-square&color=yellow)](https://github.com/xmtp/libxmtp/stargazers) [![Forks](https://img.shields.io/github/forks/xmtp/libxmtp?style=flat-square&color=blue)](https://github.com/xmtp/libxmtp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > LibXMTP is a shared library encapsulating the core functionality of the XMTP messaging protocol, such as cryptography, networking, and language bindings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ xmtp/libxmtp：xmtp/libxmtp helps prototype or inspect blockchain workflows with
 - updated 2026-05-07
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 47/100 |
-| outlook | 44/100 |
+| production | 41/100 |
+| outlook | 37/100 |
 | adoption | 45/100 |
 | stars | 43/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

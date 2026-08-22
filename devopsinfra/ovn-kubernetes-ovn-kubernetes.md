@@ -1,6 +1,6 @@
 # ovn-kubernetes/ovn-kubernetes
 
-[![Stars](https://img.shields.io/github/stars/ovn-kubernetes/ovn-kubernetes?style=flat-square&color=yellow)](https://github.com/ovn-kubernetes/ovn-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/ovn-kubernetes/ovn-kubernetes?style=flat-square&color=blue)](https://github.com/ovn-kubernetes/ovn-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovn-kubernetes/ovn-kubernetes?style=flat-square&color=yellow)](https://github.com/ovn-kubernetes/ovn-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/ovn-kubernetes/ovn-kubernetes?style=flat-square&color=blue)](https://github.com/ovn-kubernetes/ovn-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A robust Kubernetes networking platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 443 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ovn-kubernetes/ovn-kubernetes：ovn-kubernetes/ovn-kubernetes helps make deploym
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 59/100 |
+| production | 56/100 |
+| outlook | 52/100 |
 | adoption | 65/100 |
 | stars | 64/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # linuxmint/cinnamon-spices-applets
 
-[![Stars](https://img.shields.io/github/stars/linuxmint/cinnamon-spices-applets?style=flat-square&color=yellow)](https://github.com/linuxmint/cinnamon-spices-applets/stargazers) [![Forks](https://img.shields.io/github/forks/linuxmint/cinnamon-spices-applets?style=flat-square&color=blue)](https://github.com/linuxmint/cinnamon-spices-applets/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linuxmint/cinnamon-spices-applets?style=flat-square&color=yellow)](https://github.com/linuxmint/cinnamon-spices-applets/stargazers) [![Forks](https://img.shields.io/github/forks/linuxmint/cinnamon-spices-applets?style=flat-square&color=blue)](https://github.com/linuxmint/cinnamon-spices-applets/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Applets for the Cinnamon desktop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 733 |
 | 🍴 **Forks** | 654 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A collection of community‑maintained applets that extend the functionality of 
 
 ### 中文
 
-linuxmint/cinnamon-spices-applets：linuxmint/cinnamon-spices-applets may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+linuxmint/cinnamon-spices-applets：linuxmint/cinnamon-spices-applets may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ linuxmint/cinnamon-spices-applets：linuxmint/cinnamon-spices-applets may be use
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ linuxmint/cinnamon-spices-applets：linuxmint/cinnamon-spices-applets may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 64/100 |
 | stars | 61/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

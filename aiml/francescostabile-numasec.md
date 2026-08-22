@@ -1,6 +1,6 @@
 # FrancescoStabile/numasec
 
-[![Stars](https://img.shields.io/github/stars/FrancescoStabile/numasec?style=flat-square&color=yellow)](https://github.com/FrancescoStabile/numasec/stargazers) [![Forks](https://img.shields.io/github/forks/FrancescoStabile/numasec?style=flat-square&color=blue)](https://github.com/FrancescoStabile/numasec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FrancescoStabile/numasec?style=flat-square&color=yellow)](https://github.com/FrancescoStabile/numasec/stargazers) [![Forks](https://img.shields.io/github/forks/FrancescoStabile/numasec?style=flat-square&color=blue)](https://github.com/FrancescoStabile/numasec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The AI Agent for Cyber Security.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ FrancescoStabile/numasec：FrancescoStabile/numasec helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 59/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

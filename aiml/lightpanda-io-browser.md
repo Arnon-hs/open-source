@@ -1,6 +1,6 @@
 # lightpanda-io/browser
 
-[![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat-square&color=yellow)](https://github.com/lightpanda-io/browser/stargazers) [![Forks](https://img.shields.io/github/forks/lightpanda-io/browser?style=flat-square&color=blue)](https://github.com/lightpanda-io/browser/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat-square&color=yellow)](https://github.com/lightpanda-io/browser/stargazers) [![Forks](https://img.shields.io/github/forks/lightpanda-io/browser?style=flat-square&color=blue)](https://github.com/lightpanda-io/browser/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Lightpanda: the headless browser designed for AI and automation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lightpanda-io/browser：lightpanda-io/browser helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 90/100 |
 | stars | 95/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # argoproj/argo-cd
 
-[![Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=flat-square&color=yellow)](https://github.com/argoproj/argo-cd/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj/argo-cd?style=flat-square&color=blue)](https://github.com/argoproj/argo-cd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=flat-square&color=yellow)](https://github.com/argoproj/argo-cd/stargazers) [![Forks](https://img.shields.io/github/forks/argoproj/argo-cd?style=flat-square&color=blue)](https://github.com/argoproj/argo-cd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative Continuous Deployment for Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.8k |
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ argoproj/argo-cd：argoproj/argo-cd helps make deployment and operations more re
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 94/100 |
 | stars | 93/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

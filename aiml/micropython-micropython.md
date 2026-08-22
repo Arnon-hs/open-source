@@ -1,6 +1,6 @@
 # micropython/micropython
 
-[![Stars](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&color=yellow)](https://github.com/micropython/micropython/stargazers) [![Forks](https://img.shields.io/github/forks/micropython/micropython?style=flat-square&color=blue)](https://github.com/micropython/micropython/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&color=yellow)](https://github.com/micropython/micropython/stargazers) [![Forks](https://img.shields.io/github/forks/micropython/micropython?style=flat-square&color=blue)](https://github.com/micropython/micropython/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.7k |
 | 🍴 **Forks** | 8.8k |
 | 💻 **Language** | C |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ micropython/micropython：micropython/micropython helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 94/100 |
 | stars | 92/100 |
 | forks | 99/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

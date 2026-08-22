@@ -1,6 +1,6 @@
 # browserwing/browserwing
 
-[![Stars](https://img.shields.io/github/stars/browserwing/browserwing?style=flat-square&color=yellow)](https://github.com/browserwing/browserwing/stargazers) [![Forks](https://img.shields.io/github/forks/browserwing/browserwing?style=flat-square&color=blue)](https://github.com/browserwing/browserwing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browserwing/browserwing?style=flat-square&color=yellow)](https://github.com/browserwing/browserwing/stargazers) [![Forks](https://img.shields.io/github/forks/browserwing/browserwing?style=flat-square&color=blue)](https://github.com/browserwing/browserwing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ browserwing/browserwing：browserwing/browserwing helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

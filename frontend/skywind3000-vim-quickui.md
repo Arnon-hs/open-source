@@ -1,6 +1,6 @@
 # skywind3000/vim-quickui
 
-[![Stars](https://img.shields.io/github/stars/skywind3000/vim-quickui?style=flat-square&color=yellow)](https://github.com/skywind3000/vim-quickui/stargazers) [![Forks](https://img.shields.io/github/forks/skywind3000/vim-quickui?style=flat-square&color=blue)](https://github.com/skywind3000/vim-quickui/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skywind3000/vim-quickui?style=flat-square&color=yellow)](https://github.com/skywind3000/vim-quickui/stargazers) [![Forks](https://img.shields.io/github/forks/skywind3000/vim-quickui?style=flat-square&color=blue)](https://github.com/skywind3000/vim-quickui/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The missing UI extensions for Vim 9 (and NeoVim) !! :sunglasses:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ skywind3000/vim-quickui：skywind3000/vim-quickui helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 58/100 |
 | stars | 65/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

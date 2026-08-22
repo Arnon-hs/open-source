@@ -1,6 +1,6 @@
 # webdown-a/webdown
 
-[![Stars](https://img.shields.io/github/stars/webdown-a/webdown?style=flat-square&color=yellow)](https://github.com/webdown-a/webdown/stargazers) [![Forks](https://img.shields.io/github/forks/webdown-a/webdown?style=flat-square&color=blue)](https://github.com/webdown-a/webdown/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webdown-a/webdown?style=flat-square&color=yellow)](https://github.com/webdown-a/webdown/stargazers) [![Forks](https://img.shields.io/github/forks/webdown-a/webdown?style=flat-square&color=blue)](https://github.com/webdown-a/webdown/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > WebDown is a browser extension for saving websites as offline packages. It supports:  Saving the current page Crawling a whole site Exporting ZIP files for local backup, sharing, and archivin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ WebDown — это open‑source расширение для браузера,
 
 ### 中文
 
-webdown-a/webdown：webdown-a/webdown helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+webdown-a/webdown：webdown-a/webdown helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ webdown-a/webdown：webdown-a/webdown helps teams reuse service infrastructure i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ webdown-a/webdown：webdown-a/webdown helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 50/100 |
 | adoption | 39/100 |
 | stars | 44/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

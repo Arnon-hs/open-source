@@ -1,6 +1,6 @@
 # gaphor/gaphor
 
-[![Stars](https://img.shields.io/github/stars/gaphor/gaphor?style=flat-square&color=yellow)](https://github.com/gaphor/gaphor/stargazers) [![Forks](https://img.shields.io/github/forks/gaphor/gaphor?style=flat-square&color=blue)](https://github.com/gaphor/gaphor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaphor/gaphor?style=flat-square&color=yellow)](https://github.com/gaphor/gaphor/stargazers) [![Forks](https://img.shields.io/github/forks/gaphor/gaphor?style=flat-square&color=blue)](https://github.com/gaphor/gaphor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Gaphor is the simple modeling tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gaphor/gaphor：gaphor/gaphor helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jesseduffield/lazygit
 
-[![Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat-square&color=yellow)](https://github.com/jesseduffield/lazygit/stargazers) [![Forks](https://img.shields.io/github/forks/jesseduffield/lazygit?style=flat-square&color=blue)](https://github.com/jesseduffield/lazygit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat-square&color=yellow)](https://github.com/jesseduffield/lazygit/stargazers) [![Forks](https://img.shields.io/github/forks/jesseduffield/lazygit?style=flat-square&color=blue)](https://github.com/jesseduffield/lazygit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > simple terminal UI for git commands
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77.6k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jesseduffield/lazygit：jesseduffield/lazygit helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

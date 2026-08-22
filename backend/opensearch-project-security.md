@@ -1,6 +1,6 @@
 # opensearch-project/security
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/security?style=flat-square&color=yellow)](https://github.com/opensearch-project/security/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/security?style=flat-square&color=blue)](https://github.com/opensearch-project/security/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/security?style=flat-square&color=yellow)](https://github.com/opensearch-project/security/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/security?style=flat-square&color=blue)](https://github.com/opensearch-project/security/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ opensearch-project/security：opensearch-project/security helps teams reuse serv
 - updated 2026-05-09
 - primary language: Java
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 55/100 |
 | stars | 51/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

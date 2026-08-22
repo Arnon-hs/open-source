@@ -1,6 +1,6 @@
 # aden-hive/hive
 
-[![Stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat-square&color=yellow)](https://github.com/aden-hive/hive/stargazers) [![Forks](https://img.shields.io/github/forks/aden-hive/hive?style=flat-square&color=blue)](https://github.com/aden-hive/hive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat-square&color=yellow)](https://github.com/aden-hive/hive/stargazers) [![Forks](https://img.shields.io/github/forks/aden-hive/hive?style=flat-square&color=blue)](https://github.com/aden-hive/hive/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-Agent Harness for Production AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aden-hive/hive：aden-hive/hive helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 76/100 |
+| production | 55/100 |
+| outlook | 69/100 |
 | adoption | 88/100 |
 | stars | 85/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

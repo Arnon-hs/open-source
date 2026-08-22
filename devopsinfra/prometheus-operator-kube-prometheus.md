@@ -1,6 +1,6 @@
 # prometheus-operator/kube-prometheus
 
-[![Stars](https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=flat-square&color=yellow)](https://github.com/prometheus-operator/kube-prometheus/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-operator/kube-prometheus?style=flat-square&color=blue)](https://github.com/prometheus-operator/kube-prometheus/network) [![Language](https://img.shields.io/badge/lang-Jsonnet-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=flat-square&color=yellow)](https://github.com/prometheus-operator/kube-prometheus/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-operator/kube-prometheus?style=flat-square&color=blue)](https://github.com/prometheus-operator/kube-prometheus/network) [![Language](https://img.shields.io/badge/lang-Jsonnet-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Jsonnet |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ prometheus-operator/kube-prometheus：prometheus-operator/kube-prometheus helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 83/100 |
 | stars | 83/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

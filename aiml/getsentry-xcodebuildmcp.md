@@ -1,6 +1,6 @@
 # getsentry/XcodeBuildMCP
 
-[![Stars](https://img.shields.io/github/stars/getsentry/XcodeBuildMCP?style=flat-square&color=yellow)](https://github.com/getsentry/XcodeBuildMCP/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/XcodeBuildMCP?style=flat-square&color=blue)](https://github.com/getsentry/XcodeBuildMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getsentry/XcodeBuildMCP?style=flat-square&color=yellow)](https://github.com/getsentry/XcodeBuildMCP/stargazers) [![Forks](https://img.shields.io/github/forks/getsentry/XcodeBuildMCP?style=flat-square&color=blue)](https://github.com/getsentry/XcodeBuildMCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ getsentry/XcodeBuildMCP：getsentry/XcodeBuildMCP helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 74/100 |
 | stars | 79/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

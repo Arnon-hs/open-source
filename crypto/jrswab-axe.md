@@ -1,6 +1,6 @@
 # jrswab/axe
 
-[![Stars](https://img.shields.io/github/stars/jrswab/axe?style=flat-square&color=yellow)](https://github.com/jrswab/axe/stargazers) [![Forks](https://img.shields.io/github/forks/jrswab/axe?style=flat-square&color=blue)](https://github.com/jrswab/axe/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jrswab/axe?style=flat-square&color=yellow)](https://github.com/jrswab/axe/stargazers) [![Forks](https://img.shields.io/github/forks/jrswab/axe?style=flat-square&color=blue)](https://github.com/jrswab/axe/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 803 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jrswab/axe：jrswab/axe helps prototype or inspect blockchain workflows with ope
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 59/100 |
 | adoption | 55/100 |
 | stars | 62/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

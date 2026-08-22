@@ -1,6 +1,6 @@
 # rust-dd/stochastic-rs
 
-[![Stars](https://img.shields.io/github/stars/rust-dd/stochastic-rs?style=flat-square&color=yellow)](https://github.com/rust-dd/stochastic-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-dd/stochastic-rs?style=flat-square&color=blue)](https://github.com/rust-dd/stochastic-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-dd/stochastic-rs?style=flat-square&color=yellow)](https://github.com/rust-dd/stochastic-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rust-dd/stochastic-rs?style=flat-square&color=blue)](https://github.com/rust-dd/stochastic-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > stochastic-rs is a Rust library designed for high-performance simulation and analysis of stochastic processes and models in quant finance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ stochastic‑rs — это высокопроизводительная биб
 
 ### 中文
 
-rust-dd/stochastic-rs：rust-dd/stochastic-rs helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-dd/stochastic-rs：rust-dd/stochastic-rs helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rust-dd/stochastic-rs：rust-dd/stochastic-rs helps research and automate market
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rust-dd/stochastic-rs：rust-dd/stochastic-rs helps research and automate market
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 40/100 |
 | stars | 47/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # qr243vbi/nekobox
 
-[![Stars](https://img.shields.io/github/stars/qr243vbi/nekobox?style=flat-square&color=yellow)](https://github.com/qr243vbi/nekobox/stargazers) [![Forks](https://img.shields.io/github/forks/qr243vbi/nekobox?style=flat-square&color=blue)](https://github.com/qr243vbi/nekobox/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qr243vbi/nekobox?style=flat-square&color=yellow)](https://github.com/qr243vbi/nekobox/stargazers) [![Forks](https://img.shields.io/github/forks/qr243vbi/nekobox?style=flat-square&color=blue)](https://github.com/qr243vbi/nekobox/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > NyameBox, The Original NekoBox Rebranded, the cross-platform Qt proxy utility, empowered by sing-box and thrift
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 646 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NekoBox (formerly NyameBox) is a cross‑platform proxy utility built with Qt th
 
 ### 中文
 
-qr243vbi/nekobox：qr243vbi/nekobox helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+qr243vbi/nekobox：qr243vbi/nekobox helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ qr243vbi/nekobox：qr243vbi/nekobox helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ qr243vbi/nekobox：qr243vbi/nekobox helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 47/100 |
+| outlook | 49/100 |
 | adoption | 53/100 |
 | stars | 60/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tw93/Pake
 
-[![Stars](https://img.shields.io/github/stars/tw93/Pake?style=flat-square&color=yellow)](https://github.com/tw93/Pake/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Pake?style=flat-square&color=blue)](https://github.com/tw93/Pake/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tw93/Pake?style=flat-square&color=yellow)](https://github.com/tw93/Pake/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Pake?style=flat-square&color=blue)](https://github.com/tw93/Pake/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🤱🏻 Turn any webpage into a desktop app with one command.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48.6k |
 | 🍴 **Forks** | 9.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tw93/Pake：tw93/Pake may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # xg-gh-25/SwarmAI
 
-[![Stars](https://img.shields.io/github/stars/xg-gh-25/SwarmAI?style=flat-square&color=yellow)](https://github.com/xg-gh-25/SwarmAI/stargazers) [![Forks](https://img.shields.io/github/forks/xg-gh-25/SwarmAI?style=flat-square&color=blue)](https://github.com/xg-gh-25/SwarmAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xg-gh-25/SwarmAI?style=flat-square&color=yellow)](https://github.com/xg-gh-25/SwarmAI/stargazers) [![Forks](https://img.shields.io/github/forks/xg-gh-25/SwarmAI?style=flat-square&color=blue)](https://github.com/xg-gh-25/SwarmAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI Team, 24/7 — A personal AI command center that remembers, learns, and compounds value every session.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SwarmAI is an open‑source personal AI command center that operates around the 
 
 ### 中文
 
-xg-gh-25/SwarmAI：xg-gh-25/SwarmAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xg-gh-25/SwarmAI：xg-gh-25/SwarmAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xg-gh-25/SwarmAI：xg-gh-25/SwarmAI helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ xg-gh-25/SwarmAI：xg-gh-25/SwarmAI helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 27/100 |
 | stars | 33/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

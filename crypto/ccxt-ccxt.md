@@ -1,18 +1,18 @@
 # ccxt/ccxt
 
-[![Stars](https://img.shields.io/github/stars/ccxt/ccxt?style=flat-square&color=yellow)](https://github.com/ccxt/ccxt/stargazers) [![Forks](https://img.shields.io/github/forks/ccxt/ccxt?style=flat-square&color=blue)](https://github.com/ccxt/ccxt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccxt/ccxt?style=flat-square&color=yellow)](https://github.com/ccxt/ccxt/stargazers) [![Forks](https://img.shields.io/github/forks/ccxt/ccxt?style=flat-square&color=blue)](https://github.com/ccxt/ccxt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
-> A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+> A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 43.3k |
-| 🍴 **Forks** | 8.7k |
+| ⭐ **Stars** | 42.3k |
+| 🍴 **Forks** | 8.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-ccxt/ccxt: ccxt/ccxt helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ccxt/ccxt: ccxt/ccxt helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-ccxt/ccxt: open-source проект в категориях Crypto, Trading, Knowledge/RAG, Automation, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+ccxt/ccxt: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-ccxt/ccxt：ccxt/ccxt helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+ccxt/ccxt：ccxt/ccxt helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ ccxt/ccxt：ccxt/ccxt helps prototype or inspect blockchain workflows with open 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 43286 GitHub stars
-- 8736 forks
-- updated 2026-07-12
+- 42331 GitHub stars
+- 8649 forks
+- updated 2026-05-07
 - primary language: Python
 - 20 topics
 
@@ -66,17 +66,17 @@ ccxt/ccxt：ccxt/ccxt helps prototype or inspect blockchain workflows with open 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 99/100 |
+| quality | 79/100 |
 | integration | 94/100 |
-| production | 90/100 |
-| outlook | 94/100 |
-| adoption | 99/100 |
-| stars | 99/100 |
-| forks | 99/100 |
-| recency | 100/100 |
+| production | 64/100 |
+| outlook | 66/100 |
+| adoption | 98/100 |
+| stars | 98/100 |
+| forks | 98/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/ccxt/ccxt) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/ccxt/ccxt) · [← Back to Crypto](./README.md)</sub>

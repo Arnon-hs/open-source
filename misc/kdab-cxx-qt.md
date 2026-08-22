@@ -1,6 +1,6 @@
 # KDAB/cxx-qt
 
-[![Stars](https://img.shields.io/github/stars/KDAB/cxx-qt?style=flat-square&color=yellow)](https://github.com/KDAB/cxx-qt/stargazers) [![Forks](https://img.shields.io/github/forks/KDAB/cxx-qt?style=flat-square&color=blue)](https://github.com/KDAB/cxx-qt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDAB/cxx-qt?style=flat-square&color=yellow)](https://github.com/KDAB/cxx-qt/stargazers) [![Forks](https://img.shields.io/github/forks/KDAB/cxx-qt?style=flat-square&color=blue)](https://github.com/KDAB/cxx-qt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Safe interop between Rust and Qt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ KDAB/cxx-qt — это открытая библиотека, обеспечи
 
 ### 中文
 
-KDAB/cxx-qt：KDAB/cxx-qt may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+KDAB/cxx-qt：KDAB/cxx-qt may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ KDAB/cxx-qt：KDAB/cxx-qt may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ KDAB/cxx-qt：KDAB/cxx-qt may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

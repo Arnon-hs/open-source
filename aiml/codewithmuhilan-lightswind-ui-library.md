@@ -1,6 +1,6 @@
 # codewithMUHILAN/Lightswind-UI-Library
 
-[![Stars](https://img.shields.io/github/stars/codewithMUHILAN/Lightswind-UI-Library?style=flat-square&color=yellow)](https://github.com/codewithMUHILAN/Lightswind-UI-Library/stargazers) [![Forks](https://img.shields.io/github/forks/codewithMUHILAN/Lightswind-UI-Library?style=flat-square&color=blue)](https://github.com/codewithMUHILAN/Lightswind-UI-Library/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codewithMUHILAN/Lightswind-UI-Library?style=flat-square&color=yellow)](https://github.com/codewithMUHILAN/Lightswind-UI-Library/stargazers) [![Forks](https://img.shields.io/github/forks/codewithMUHILAN/Lightswind-UI-Library?style=flat-square&color=blue)](https://github.com/codewithMUHILAN/Lightswind-UI-Library/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Animated React Components - Lightswind UI. Create stunning web applications effortlessly with Lightwind UI. Access 100+ customizable CLI components, blocks, and templates—from dashboards to resource pages. Available in React, these animated elements are fully customizable, helping you craft user-friendly, visually appealing apps quickly
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ codewithMUHILAN/Lightswind-UI-Library：codewithMUHILAN/Lightswind-UI-Library he
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
+| usefulness | 90/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

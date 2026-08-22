@@ -1,6 +1,6 @@
 # openfga/openfga
 
-[![Stars](https://img.shields.io/github/stars/openfga/openfga?style=flat-square&color=yellow)](https://github.com/openfga/openfga/stargazers) [![Forks](https://img.shields.io/github/forks/openfga/openfga?style=flat-square&color=blue)](https://github.com/openfga/openfga/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openfga/openfga?style=flat-square&color=yellow)](https://github.com/openfga/openfga/stargazers) [![Forks](https://img.shields.io/github/forks/openfga/openfga?style=flat-square&color=blue)](https://github.com/openfga/openfga/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 393 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openfga/openfga：openfga/openfga helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apache/camel
 
-[![Stars](https://img.shields.io/github/stars/apache/camel?style=flat-square&color=yellow)](https://github.com/apache/camel/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel?style=flat-square&color=blue)](https://github.com/apache/camel/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/camel?style=flat-square&color=yellow)](https://github.com/apache/camel/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel?style=flat-square&color=blue)](https://github.com/apache/camel/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/camel：apache/camel helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 66/100 |
+| production | 50/100 |
+| outlook | 59/100 |
 | adoption | 84/100 |
 | stars | 81/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

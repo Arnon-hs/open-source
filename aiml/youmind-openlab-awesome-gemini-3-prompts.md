@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-gemini-3-prompts
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-gemini-3-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ awesome‑gemini‑3‑prompts — это открытая библиотек�
 
 ### 中文
 
-YouMind-OpenLab/awesome-gemini-3-prompts：YouMind-OpenLab/awesome-gemini-3-prompts helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+YouMind-OpenLab/awesome-gemini-3-prompts：YouMind-OpenLab/awesome-gemini-3-prompts helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ YouMind-OpenLab/awesome-gemini-3-prompts：YouMind-OpenLab/awesome-gemini-3-prom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ YouMind-OpenLab/awesome-gemini-3-prompts：YouMind-OpenLab/awesome-gemini-3-prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 47/100 |
+| outlook | 44/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

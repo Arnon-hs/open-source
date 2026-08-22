@@ -1,6 +1,6 @@
 # owncast/owncast
 
-[![Stars](https://img.shields.io/github/stars/owncast/owncast?style=flat-square&color=yellow)](https://github.com/owncast/owncast/stargazers) [![Forks](https://img.shields.io/github/forks/owncast/owncast?style=flat-square&color=blue)](https://github.com/owncast/owncast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/owncast/owncast?style=flat-square&color=yellow)](https://github.com/owncast/owncast/stargazers) [![Forks](https://img.shields.io/github/forks/owncast/owncast?style=flat-square&color=blue)](https://github.com/owncast/owncast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ owncast/owncast：owncast/owncast may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 84/100 |
 | stars | 86/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

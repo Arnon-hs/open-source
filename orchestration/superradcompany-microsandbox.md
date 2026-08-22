@@ -1,6 +1,6 @@
 # superradcompany/microsandbox
 
-[![Stars](https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square&color=yellow)](https://github.com/superradcompany/microsandbox/stargazers) [![Forks](https://img.shields.io/github/forks/superradcompany/microsandbox?style=flat-square&color=blue)](https://github.com/superradcompany/microsandbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square&color=yellow)](https://github.com/superradcompany/microsandbox/stargazers) [![Forks](https://img.shields.io/github/forks/superradcompany/microsandbox?style=flat-square&color=blue)](https://github.com/superradcompany/microsandbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 🧱 secure, local and programmable sandboxes for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ superradcompany/microsandbox：superradcompany/microsandbox helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 58/100 |
+| outlook | 64/100 |
 | adoption | 75/100 |
 | stars | 80/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

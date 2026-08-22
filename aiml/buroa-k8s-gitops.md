@@ -1,6 +1,6 @@
 # buroa/k8s-gitops
 
-[![Stars](https://img.shields.io/github/stars/buroa/k8s-gitops?style=flat-square&color=yellow)](https://github.com/buroa/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/buroa/k8s-gitops?style=flat-square&color=blue)](https://github.com/buroa/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buroa/k8s-gitops?style=flat-square&color=yellow)](https://github.com/buroa/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/buroa/k8s-gitops?style=flat-square&color=blue)](https://github.com/buroa/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Husband-approved enterprise™ homelab deployed with Talos Linux; managed with Flux, Renovate, and GitHub Actions 🤖
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ buroa/k8s-gitops — это полностью открытый проект, р
 
 ### 中文
 
-buroa/k8s-gitops：buroa/k8s-gitops helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+buroa/k8s-gitops：buroa/k8s-gitops helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ buroa/k8s-gitops：buroa/k8s-gitops helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ buroa/k8s-gitops：buroa/k8s-gitops helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # JsonAsAsset/JsonAsAsset
 
-[![Stars](https://img.shields.io/github/stars/JsonAsAsset/JsonAsAsset?style=flat-square&color=yellow)](https://github.com/JsonAsAsset/JsonAsAsset/stargazers) [![Forks](https://img.shields.io/github/forks/JsonAsAsset/JsonAsAsset?style=flat-square&color=blue)](https://github.com/JsonAsAsset/JsonAsAsset/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JsonAsAsset/JsonAsAsset?style=flat-square&color=yellow)](https://github.com/JsonAsAsset/JsonAsAsset/stargazers) [![Forks](https://img.shields.io/github/forks/JsonAsAsset/JsonAsAsset?style=flat-square&color=blue)](https://github.com/JsonAsAsset/JsonAsAsset/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful Unreal Engine Plugin that imports assets from FModel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 315 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ JsonAsAsset — это мощный плагин для Unreal Engine, поз�
 
 ### 中文
 
-JsonAsAsset/JsonAsAsset：JsonAsAsset/JsonAsAsset may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+JsonAsAsset/JsonAsAsset：JsonAsAsset/JsonAsAsset may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ JsonAsAsset/JsonAsAsset：JsonAsAsset/JsonAsAsset may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ JsonAsAsset/JsonAsAsset：JsonAsAsset/JsonAsAsset may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

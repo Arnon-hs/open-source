@@ -1,6 +1,6 @@
 # chrisliu298/awesome-llm-unlearning
 
-[![Stars](https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning?style=flat-square&color=yellow)](https://github.com/chrisliu298/awesome-llm-unlearning/stargazers) [![Forks](https://img.shields.io/github/forks/chrisliu298/awesome-llm-unlearning?style=flat-square&color=blue)](https://github.com/chrisliu298/awesome-llm-unlearning/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning?style=flat-square&color=yellow)](https://github.com/chrisliu298/awesome-llm-unlearning/stargazers) [![Forks](https://img.shields.io/github/forks/chrisliu298/awesome-llm-unlearning?style=flat-square&color=blue)](https://github.com/chrisliu298/awesome-llm-unlearning/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A resource repository for machine unlearning in large language models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 579 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **awesome-llm-unlearning** repository curates a comprehensive collection of 
 
 ### 中文
 
-chrisliu298/awesome-llm-unlearning：chrisliu298/awesome-llm-unlearning helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chrisliu298/awesome-llm-unlearning：chrisliu298/awesome-llm-unlearning helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chrisliu298/awesome-llm-unlearning：chrisliu298/awesome-llm-unlearning helps ad
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ chrisliu298/awesome-llm-unlearning：chrisliu298/awesome-llm-unlearning helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 53/100 |
 | stars | 59/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

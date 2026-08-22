@@ -1,6 +1,6 @@
 # aptos-labs/aptos-core
 
-[![Stars](https://img.shields.io/github/stars/aptos-labs/aptos-core?style=flat-square&color=yellow)](https://github.com/aptos-labs/aptos-core/stargazers) [![Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core?style=flat-square&color=blue)](https://github.com/aptos-labs/aptos-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aptos-labs/aptos-core?style=flat-square&color=yellow)](https://github.com/aptos-labs/aptos-core/stargazers) [![Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core?style=flat-square&color=blue)](https://github.com/aptos-labs/aptos-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aptos-labs/aptos-core：aptos-labs/aptos-core helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 84/100 |
 | stars | 81/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

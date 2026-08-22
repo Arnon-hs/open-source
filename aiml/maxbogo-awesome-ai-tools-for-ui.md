@@ -1,6 +1,6 @@
 # maxbogo/awesome-ai-tools-for-ui
 
-[![Stars](https://img.shields.io/github/stars/maxbogo/awesome-ai-tools-for-ui?style=flat-square&color=yellow)](https://github.com/maxbogo/awesome-ai-tools-for-ui/stargazers) [![Forks](https://img.shields.io/github/forks/maxbogo/awesome-ai-tools-for-ui?style=flat-square&color=blue)](https://github.com/maxbogo/awesome-ai-tools-for-ui/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxbogo/awesome-ai-tools-for-ui?style=flat-square&color=yellow)](https://github.com/maxbogo/awesome-ai-tools-for-ui/stargazers) [![Forks](https://img.shields.io/github/forks/maxbogo/awesome-ai-tools-for-ui?style=flat-square&color=blue)](https://github.com/maxbogo/awesome-ai-tools-for-ui/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of awesome AI tools to build beautiful UI/UX.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ maxbogo/awesome-ai-tools-for-ui：maxbogo/awesome-ai-tools-for-ui helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

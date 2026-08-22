@@ -1,6 +1,6 @@
 # microsoft/aspire.dev
 
-[![Stars](https://img.shields.io/github/stars/microsoft/aspire.dev?style=flat-square&color=yellow)](https://github.com/microsoft/aspire.dev/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/aspire.dev?style=flat-square&color=blue)](https://github.com/microsoft/aspire.dev/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/aspire.dev?style=flat-square&color=yellow)](https://github.com/microsoft/aspire.dev/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/aspire.dev?style=flat-square&color=blue)](https://github.com/microsoft/aspire.dev/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The official website for all things aspire.dev.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/aspire.dev：microsoft/aspire.dev helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 47/100 |
 | stars | 46/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

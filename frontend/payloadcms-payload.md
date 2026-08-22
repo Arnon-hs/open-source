@@ -1,6 +1,6 @@
 # payloadcms/payload
 
-[![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=flat-square&color=yellow)](https://github.com/payloadcms/payload/stargazers) [![Forks](https://img.shields.io/github/forks/payloadcms/payload?style=flat-square&color=blue)](https://github.com/payloadcms/payload/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=flat-square&color=yellow)](https://github.com/payloadcms/payload/stargazers) [![Forks](https://img.shields.io/github/forks/payloadcms/payload?style=flat-square&color=blue)](https://github.com/payloadcms/payload/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42.3k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ payloadcms/payload：payloadcms/payload helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 96/100 |
 | stars | 98/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

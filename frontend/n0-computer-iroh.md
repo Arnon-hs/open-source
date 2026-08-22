@@ -1,6 +1,6 @@
 # n0-computer/iroh
 
-[![Stars](https://img.shields.io/github/stars/n0-computer/iroh?style=flat-square&color=yellow)](https://github.com/n0-computer/iroh/stargazers) [![Forks](https://img.shields.io/github/forks/n0-computer/iroh?style=flat-square&color=blue)](https://github.com/n0-computer/iroh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n0-computer/iroh?style=flat-square&color=yellow)](https://github.com/n0-computer/iroh/stargazers) [![Forks](https://img.shields.io/github/forks/n0-computer/iroh?style=flat-square&color=blue)](https://github.com/n0-computer/iroh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > IP addresses break, dial keys instead. Modular networking stack in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ n0-computer/iroh：n0-computer/iroh helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 78/100 |
 | stars | 84/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # operately/operately
 
-[![Stars](https://img.shields.io/github/stars/operately/operately?style=flat-square&color=yellow)](https://github.com/operately/operately/stargazers) [![Forks](https://img.shields.io/github/forks/operately/operately?style=flat-square&color=blue)](https://github.com/operately/operately/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/operately/operately?style=flat-square&color=yellow)](https://github.com/operately/operately/stargazers) [![Forks](https://img.shields.io/github/forks/operately/operately?style=flat-square&color=blue)](https://github.com/operately/operately/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The open source company operating system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ operately/operately：operately/operately helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 56/100 |
+| production | 52/100 |
+| outlook | 49/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

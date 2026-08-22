@@ -1,6 +1,6 @@
 # AudiusProject/apps
 
-[![Stars](https://img.shields.io/github/stars/AudiusProject/apps?style=flat-square&color=yellow)](https://github.com/AudiusProject/apps/stargazers) [![Forks](https://img.shields.io/github/forks/AudiusProject/apps?style=flat-square&color=blue)](https://github.com/AudiusProject/apps/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AudiusProject/apps?style=flat-square&color=yellow)](https://github.com/AudiusProject/apps/stargazers) [![Forks](https://img.shields.io/github/forks/AudiusProject/apps?style=flat-square&color=blue)](https://github.com/AudiusProject/apps/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Audius apps monorepo - web / react native / typescript sdk
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 610 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AudiusProject/apps：AudiusProject/apps helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 57/100 |
 | stars | 59/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

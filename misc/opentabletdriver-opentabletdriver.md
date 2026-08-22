@@ -1,6 +1,6 @@
 # OpenTabletDriver/OpenTabletDriver
 
-[![Stars](https://img.shields.io/github/stars/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=yellow)](https://github.com/OpenTabletDriver/OpenTabletDriver/stargazers) [![Forks](https://img.shields.io/github/forks/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=blue)](https://github.com/OpenTabletDriver/OpenTabletDriver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=yellow)](https://github.com/OpenTabletDriver/OpenTabletDriver/stargazers) [![Forks](https://img.shields.io/github/forks/OpenTabletDriver/OpenTabletDriver?style=flat-square&color=blue)](https://github.com/OpenTabletDriver/OpenTabletDriver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, cross-platform, user-mode tablet driver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenTabletDriver — кроссплатформенный драйвер пла�
 
 ### 中文
 
-OpenTabletDriver/OpenTabletDriver：OpenTabletDriver/OpenTabletDriver may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OpenTabletDriver/OpenTabletDriver：OpenTabletDriver/OpenTabletDriver may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ OpenTabletDriver/OpenTabletDriver：OpenTabletDriver/OpenTabletDriver may be use
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ OpenTabletDriver/OpenTabletDriver：OpenTabletDriver/OpenTabletDriver may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

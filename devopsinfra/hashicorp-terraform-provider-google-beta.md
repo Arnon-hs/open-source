@@ -1,6 +1,6 @@
 # hashicorp/terraform-provider-google-beta
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-google-beta?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-google-beta/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-google-beta?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-google-beta/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-google-beta?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-google-beta/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-google-beta?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-google-beta/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Provider for Google Cloud Platform (Beta)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The hashicorp/terraform-provider-google-beta project is an open-source Terraform
 
 ### 中文
 
-hashicorp/terraform-provider-google-beta：hashicorp/terraform-provider-google-beta helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hashicorp/terraform-provider-google-beta：hashicorp/terraform-provider-google-beta helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ hashicorp/terraform-provider-google-beta：hashicorp/terraform-provider-google-b
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ hashicorp/terraform-provider-google-beta：hashicorp/terraform-provider-google-b
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 55/100 |
 | stars | 53/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

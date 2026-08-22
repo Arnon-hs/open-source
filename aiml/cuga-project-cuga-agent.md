@@ -1,6 +1,6 @@
 # cuga-project/cuga-agent
 
-[![Stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=flat-square&color=yellow)](https://github.com/cuga-project/cuga-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cuga-project/cuga-agent?style=flat-square&color=blue)](https://github.com/cuga-project/cuga-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=flat-square&color=yellow)](https://github.com/cuga-project/cuga-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cuga-project/cuga-agent?style=flat-square&color=blue)](https://github.com/cuga-project/cuga-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 717 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cuga-project/cuga-agent：cuga-project/cuga-agent helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

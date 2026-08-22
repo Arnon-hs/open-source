@@ -1,6 +1,6 @@
 # Ephigenia/ikea-availability-checker
 
-[![Stars](https://img.shields.io/github/stars/Ephigenia/ikea-availability-checker?style=flat-square&color=yellow)](https://github.com/Ephigenia/ikea-availability-checker/stargazers) [![Forks](https://img.shields.io/github/forks/Ephigenia/ikea-availability-checker?style=flat-square&color=blue)](https://github.com/Ephigenia/ikea-availability-checker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ephigenia/ikea-availability-checker?style=flat-square&color=yellow)](https://github.com/Ephigenia/ikea-availability-checker/stargazers) [![Forks](https://img.shields.io/github/forks/Ephigenia/ikea-availability-checker?style=flat-square&color=blue)](https://github.com/Ephigenia/ikea-availability-checker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Command-Line-Script & Library for checking the availability of specific IKEA products in specific stores and/or countries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Ephigenia/ikea-availability-checker：Ephigenia/ikea-availability-checker helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 59/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

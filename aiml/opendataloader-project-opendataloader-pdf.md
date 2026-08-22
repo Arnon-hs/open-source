@@ -1,6 +1,6 @@
 # opendataloader-project/opendataloader-pdf
 
-[![Stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf?style=flat-square&color=yellow)](https://github.com/opendataloader-project/opendataloader-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/opendataloader-project/opendataloader-pdf?style=flat-square&color=blue)](https://github.com/opendataloader-project/opendataloader-pdf/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf?style=flat-square&color=yellow)](https://github.com/opendataloader-project/opendataloader-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/opendataloader-project/opendataloader-pdf?style=flat-square&color=blue)](https://github.com/opendataloader-project/opendataloader-pdf/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.5k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ opendataloader-project/opendataloader-pdf：opendataloader-project/opendataloade
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 89/100 |
 | stars | 92/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

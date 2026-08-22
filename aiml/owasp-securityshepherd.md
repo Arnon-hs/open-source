@@ -1,6 +1,6 @@
 # OWASP/SecurityShepherd
 
-[![Stars](https://img.shields.io/github/stars/OWASP/SecurityShepherd?style=flat-square&color=yellow)](https://github.com/OWASP/SecurityShepherd/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/SecurityShepherd?style=flat-square&color=blue)](https://github.com/OWASP/SecurityShepherd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OWASP/SecurityShepherd?style=flat-square&color=yellow)](https://github.com/OWASP/SecurityShepherd/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/SecurityShepherd?style=flat-square&color=blue)](https://github.com/OWASP/SecurityShepherd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Web and mobile application security training platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OWASP Security Shepherd — это открытая обучающая пл�
 
 ### 中文
 
-OWASP/SecurityShepherd：OWASP/SecurityShepherd helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OWASP/SecurityShepherd：OWASP/SecurityShepherd helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OWASP/SecurityShepherd：OWASP/SecurityShepherd helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ OWASP/SecurityShepherd：OWASP/SecurityShepherd helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

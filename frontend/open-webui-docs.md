@@ -1,6 +1,6 @@
 # open-webui/docs
 
-[![Stars](https://img.shields.io/github/stars/open-webui/docs?style=flat-square&color=yellow)](https://github.com/open-webui/docs/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/docs?style=flat-square&color=blue)](https://github.com/open-webui/docs/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-webui/docs?style=flat-square&color=yellow)](https://github.com/open-webui/docs/stargazers) [![Forks](https://img.shields.io/github/forks/open-webui/docs?style=flat-square&color=blue)](https://github.com/open-webui/docs/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > https://docs.openwebui.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 738 |
 | 🍴 **Forks** | 550 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑WebUI Docs — это открытая документация дл�
 
 ### 中文
 
-open-webui/docs：open-webui/docs helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+open-webui/docs：open-webui/docs helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ open-webui/docs：open-webui/docs helps ship user-facing interfaces with less cu
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ open-webui/docs：open-webui/docs helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 63/100 |
 | stars | 61/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

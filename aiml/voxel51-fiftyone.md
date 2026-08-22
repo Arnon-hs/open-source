@@ -1,6 +1,6 @@
 # voxel51/fiftyone
 
-[![Stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=flat-square&color=yellow)](https://github.com/voxel51/fiftyone/stargazers) [![Forks](https://img.shields.io/github/forks/voxel51/fiftyone?style=flat-square&color=blue)](https://github.com/voxel51/fiftyone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=flat-square&color=yellow)](https://github.com/voxel51/fiftyone/stargazers) [![Forks](https://img.shields.io/github/forks/voxel51/fiftyone?style=flat-square&color=blue)](https://github.com/voxel51/fiftyone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Refine high-quality datasets and visual AI models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 751 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ voxel51/fiftyone：voxel51/fiftyone helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 82/100 |
 | stars | 86/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

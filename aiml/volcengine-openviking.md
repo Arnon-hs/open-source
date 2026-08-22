@@ -1,6 +1,6 @@
 # volcengine/OpenViking
 
-[![Stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square&color=yellow)](https://github.com/volcengine/OpenViking/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/OpenViking?style=flat-square&color=blue)](https://github.com/volcengine/OpenViking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square&color=yellow)](https://github.com/volcengine/OpenViking/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/OpenViking?style=flat-square&color=blue)](https://github.com/volcengine/OpenViking/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ volcengine/OpenViking：volcengine/OpenViking helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 90/100 |
 | stars | 93/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # flowbaker/flowbaker
 
-[![Stars](https://img.shields.io/github/stars/flowbaker/flowbaker?style=flat-square&color=yellow)](https://github.com/flowbaker/flowbaker/stargazers) [![Forks](https://img.shields.io/github/forks/flowbaker/flowbaker?style=flat-square&color=blue)](https://github.com/flowbaker/flowbaker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowbaker/flowbaker?style=flat-square&color=yellow)](https://github.com/flowbaker/flowbaker/stargazers) [![Forks](https://img.shields.io/github/forks/flowbaker/flowbaker?style=flat-square&color=blue)](https://github.com/flowbaker/flowbaker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Execution engine powering Flowbaker, a no code platform to build, connect, and automate workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ flowbaker/flowbaker is the core execution engine behind Flowbaker, a no‑code p
 
 ### 中文
 
-flowbaker/flowbaker：flowbaker/flowbaker helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+flowbaker/flowbaker：flowbaker/flowbaker helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ flowbaker/flowbaker：flowbaker/flowbaker helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ flowbaker/flowbaker：flowbaker/flowbaker helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 65/100 |
+| production | 48/100 |
+| outlook | 58/100 |
 | adoption | 44/100 |
 | stars | 49/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

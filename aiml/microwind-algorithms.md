@@ -1,6 +1,6 @@
 # microwind/algorithms
 
-[![Stars](https://img.shields.io/github/stars/microwind/algorithms?style=flat-square&color=yellow)](https://github.com/microwind/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/microwind/algorithms?style=flat-square&color=blue)](https://github.com/microwind/algorithms/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microwind/algorithms?style=flat-square&color=yellow)](https://github.com/microwind/algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/microwind/algorithms?style=flat-square&color=blue)](https://github.com/microwind/algorithms/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀AI时代，人人都是算法思想工程师。本项目含各种数据结构与经典算法，充分举例说明，用C/Java/Python/JS/Go/Rust等不同语言实现，一边学算法一边学语言。助您打牢基础，彻底理解编程的本质，以便驾驭和用好AI。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microwind/algorithms：microwind/algorithms helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

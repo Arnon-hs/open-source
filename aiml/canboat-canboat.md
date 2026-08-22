@@ -1,6 +1,6 @@
 # canboat/canboat
 
-[![Stars](https://img.shields.io/github/stars/canboat/canboat?style=flat-square&color=yellow)](https://github.com/canboat/canboat/stargazers) [![Forks](https://img.shields.io/github/forks/canboat/canboat?style=flat-square&color=blue)](https://github.com/canboat/canboat/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canboat/canboat?style=flat-square&color=yellow)](https://github.com/canboat/canboat/stargazers) [![Forks](https://img.shields.io/github/forks/canboat/canboat?style=flat-square&color=blue)](https://github.com/canboat/canboat/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > CAN Boat provides NMEA 2000 and NMEA 0183 utilities. It contains a NMEA 2000 PGN decoder and can read and write N2K messages. It is not meant as an end-user tool but as a discovery mechanism for delving into NMEA 2000 networks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 630 |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ canboat is an open‑source toolkit for working with marine NMEA 2000 and NMEA 0
 
 ### 中文
 
-canboat/canboat：canboat/canboat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+canboat/canboat：canboat/canboat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ canboat/canboat：canboat/canboat helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ canboat/canboat：canboat/canboat helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # AstraeLabs/VibraVid
 
-[![Stars](https://img.shields.io/github/stars/AstraeLabs/VibraVid?style=flat-square&color=yellow)](https://github.com/AstraeLabs/VibraVid/stargazers) [![Forks](https://img.shields.io/github/forks/AstraeLabs/VibraVid?style=flat-square&color=blue)](https://github.com/AstraeLabs/VibraVid/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AstraeLabs/VibraVid?style=flat-square&color=yellow)](https://github.com/AstraeLabs/VibraVid/stargazers) [![Forks](https://img.shields.io/github/forks/AstraeLabs/VibraVid?style=flat-square&color=blue)](https://github.com/AstraeLabs/VibraVid/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Downloader for Movie, TV Series and anime.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AstraeLabs/VibraVid：AstraeLabs/VibraVid helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

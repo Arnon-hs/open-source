@@ -1,6 +1,6 @@
 # trick77/nftables-blacklist
 
-[![Stars](https://img.shields.io/github/stars/trick77/nftables-blacklist?style=flat-square&color=yellow)](https://github.com/trick77/nftables-blacklist/stargazers) [![Forks](https://img.shields.io/github/forks/trick77/nftables-blacklist?style=flat-square&color=blue)](https://github.com/trick77/nftables-blacklist/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trick77/nftables-blacklist?style=flat-square&color=yellow)](https://github.com/trick77/nftables-blacklist/stargazers) [![Forks](https://img.shields.io/github/forks/trick77/nftables-blacklist?style=flat-square&color=blue)](https://github.com/trick77/nftables-blacklist/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A bash script to ban large numbers of IP addresses published in blacklists.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 735 |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Crypto
 
 ### 中文
 
-trick77/nftables-blacklist：trick77/nftables-blacklist helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+trick77/nftables-blacklist：trick77/nftables-blacklist helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ trick77/nftables-blacklist：trick77/nftables-blacklist helps prototype or inspe
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ trick77/nftables-blacklist：trick77/nftables-blacklist helps prototype or inspe
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

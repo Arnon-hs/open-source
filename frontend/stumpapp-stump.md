@@ -1,6 +1,6 @@
 # stumpapp/stump
 
-[![Stars](https://img.shields.io/github/stars/stumpapp/stump?style=flat-square&color=yellow)](https://github.com/stumpapp/stump/stargazers) [![Forks](https://img.shields.io/github/forks/stumpapp/stump?style=flat-square&color=blue)](https://github.com/stumpapp/stump/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stumpapp/stump?style=flat-square&color=yellow)](https://github.com/stumpapp/stump/stargazers) [![Forks](https://img.shields.io/github/forks/stumpapp/stump?style=flat-square&color=blue)](https://github.com/stumpapp/stump/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A free and open source comics, manga and digital book server with OPDS support (WIP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stumpapp/stump：stumpapp/stump helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 71/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

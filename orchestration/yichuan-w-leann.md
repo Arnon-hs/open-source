@@ -1,6 +1,6 @@
 # yichuan-w/LEANN
 
-[![Stars](https://img.shields.io/github/stars/yichuan-w/LEANN?style=flat-square&color=yellow)](https://github.com/yichuan-w/LEANN/stargazers) [![Forks](https://img.shields.io/github/forks/yichuan-w/LEANN?style=flat-square&color=blue)](https://github.com/yichuan-w/LEANN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yichuan-w/LEANN?style=flat-square&color=yellow)](https://github.com/yichuan-w/LEANN/stargazers) [![Forks](https://img.shields.io/github/forks/yichuan-w/LEANN?style=flat-square&color=blue)](https://github.com/yichuan-w/LEANN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > [MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 962 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yichuan-w/LEANN：yichuan-w/LEANN helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 83/100 |
 | stars | 86/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

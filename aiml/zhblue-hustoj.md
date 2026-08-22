@@ -1,6 +1,6 @@
 # zhblue/hustoj
 
-[![Stars](https://img.shields.io/github/stars/zhblue/hustoj?style=flat-square&color=yellow)](https://github.com/zhblue/hustoj/stargazers) [![Forks](https://img.shields.io/github/forks/zhblue/hustoj?style=flat-square&color=blue)](https://github.com/zhblue/hustoj/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhblue/hustoj?style=flat-square&color=yellow)](https://github.com/zhblue/hustoj/stargazers) [![Forks](https://img.shields.io/github/forks/zhblue/hustoj?style=flat-square&color=blue)](https://github.com/zhblue/hustoj/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 824 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zhblue/hustoj：zhblue/hustoj helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

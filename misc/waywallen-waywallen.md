@@ -1,6 +1,6 @@
 # waywallen/waywallen
 
-[![Stars](https://img.shields.io/github/stars/waywallen/waywallen?style=flat-square&color=yellow)](https://github.com/waywallen/waywallen/stargazers) [![Forks](https://img.shields.io/github/forks/waywallen/waywallen?style=flat-square&color=blue)](https://github.com/waywallen/waywallen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waywallen/waywallen?style=flat-square&color=yellow)](https://github.com/waywallen/waywallen/stargazers) [![Forks](https://img.shields.io/github/forks/waywallen/waywallen?style=flat-square&color=blue)](https://github.com/waywallen/waywallen/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Wallpaper Manager for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ waywallen/waywallen：waywallen/waywallen may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 30/100 |
-| production | 46/100 |
-| outlook | 42/100 |
+| production | 40/100 |
+| outlook | 35/100 |
 | adoption | 38/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

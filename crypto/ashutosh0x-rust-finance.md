@@ -1,6 +1,6 @@
 # Ashutosh0x/rust-finance
 
-[![Stars](https://img.shields.io/github/stars/Ashutosh0x/rust-finance?style=flat-square&color=yellow)](https://github.com/Ashutosh0x/rust-finance/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutosh0x/rust-finance?style=flat-square&color=blue)](https://github.com/Ashutosh0x/rust-finance/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ashutosh0x/rust-finance?style=flat-square&color=yellow)](https://github.com/Ashutosh0x/rust-finance/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutosh0x/rust-finance?style=flat-square&color=blue)](https://github.com/Ashutosh0x/rust-finance/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, ultra low-latency trading terminal and AI-infused daemon built completely in Rust.
 
@@ -8,25 +8,75 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 328 |
-| 🍴 **Forks** | 104 |
+| ⭐ **Stars** | 388 |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-21 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`ai` `algorithmic-trading` `finance` `ratatui` `rust` `solana` `trading-bot` `tui`
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
-The rust-finance project is an open-source, high-performance trading terminal and AI-infused daemon designed for ultra-low-latency trading. Built entirely in Rust, this platform combines cutting-edge technology with AI-driven decision-making capabilities to provide a robust and efficient trading solution. Its modular architecture supports a wide range of cryptocurrency and trading applications.
+### English
+
+Ashutosh0x/rust-finance: Ashutosh0x/rust-finance helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+Ashutosh0x/rust-finance: open-source проект в категориях Crypto, Trading, Automation, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+Ashutosh0x/rust-finance：Ashutosh0x/rust-finance helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** Ashutosh0x/rust-finance helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 388 GitHub stars
+- 121 forks
+- updated 2026-08-21
+- primary language: Rust
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 52/100 |
+| stars | 55/100 |
+| topics | 100/100 |
+| outlook | 77/100 |
+| quality | 79/100 |
+| recency | 100/100 |
+| adoption | 54/100 |
+| production | 76/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/Ashutosh0x/rust-finance) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-21 · [View on GitHub](https://github.com/Ashutosh0x/rust-finance) · [← Back to Crypto](./README.md)</sub>

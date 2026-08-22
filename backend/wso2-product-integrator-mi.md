@@ -1,6 +1,6 @@
 # wso2/product-integrator-mi
 
-[![Stars](https://img.shields.io/github/stars/wso2/product-integrator-mi?style=flat-square&color=yellow)](https://github.com/wso2/product-integrator-mi/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-integrator-mi?style=flat-square&color=blue)](https://github.com/wso2/product-integrator-mi/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wso2/product-integrator-mi?style=flat-square&color=yellow)](https://github.com/wso2/product-integrator-mi/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-integrator-mi?style=flat-square&color=blue)](https://github.com/wso2/product-integrator-mi/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The cloud-native configuration driven runtime that helps developers implement composite microservices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 243 |
 | 🍴 **Forks** | 283 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wso2/product-integrator-mi：wso2/product-integrator-mi helps teams reuse servic
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 54/100 |
 | stars | 51/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

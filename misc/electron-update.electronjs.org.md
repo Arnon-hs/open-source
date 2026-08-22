@@ -1,6 +1,6 @@
 # electron/update.electronjs.org
 
-[![Stars](https://img.shields.io/github/stars/electron/update.electronjs.org?style=flat-square&color=yellow)](https://github.com/electron/update.electronjs.org/stargazers) [![Forks](https://img.shields.io/github/forks/electron/update.electronjs.org?style=flat-square&color=blue)](https://github.com/electron/update.electronjs.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electron/update.electronjs.org?style=flat-square&color=yellow)](https://github.com/electron/update.electronjs.org/stargazers) [![Forks](https://img.shields.io/github/forks/electron/update.electronjs.org?style=flat-square&color=blue)](https://github.com/electron/update.electronjs.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 📡 A free service that makes it easy for open-source Electron apps to update themselves.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Electron/update.electronjs.org is an open-source service that simplifies the upd
 
 ### 中文
 
-electron/update.electronjs.org：electron/update.electronjs.org may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+electron/update.electronjs.org：electron/update.electronjs.org may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ electron/update.electronjs.org：electron/update.electronjs.org may be useful wh
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ electron/update.electronjs.org：electron/update.electronjs.org may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 47/100 |
+| production | 45/100 |
+| outlook | 40/100 |
 | adoption | 57/100 |
 | stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

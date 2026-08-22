@@ -1,6 +1,6 @@
 # alibaba/OpenSandbox
 
-[![Stars](https://img.shields.io/github/stars/alibaba/OpenSandbox?style=flat-square&color=yellow)](https://github.com/alibaba/OpenSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/OpenSandbox?style=flat-square&color=blue)](https://github.com/alibaba/OpenSandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/OpenSandbox?style=flat-square&color=yellow)](https://github.com/alibaba/OpenSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/OpenSandbox?style=flat-square&color=blue)](https://github.com/alibaba/OpenSandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 832 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/OpenSandbox：alibaba/OpenSandbox helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 82/100 |
 | stars | 86/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

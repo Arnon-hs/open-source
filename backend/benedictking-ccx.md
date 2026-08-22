@@ -1,6 +1,6 @@
 # BenedictKing/ccx
 
-[![Stars](https://img.shields.io/github/stars/BenedictKing/ccx?style=flat-square&color=yellow)](https://github.com/BenedictKing/ccx/stargazers) [![Forks](https://img.shields.io/github/forks/BenedictKing/ccx?style=flat-square&color=blue)](https://github.com/BenedictKing/ccx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BenedictKing/ccx?style=flat-square&color=yellow)](https://github.com/BenedictKing/ccx/stargazers) [![Forks](https://img.shields.io/github/forks/BenedictKing/ccx?style=flat-square&color=blue)](https://github.com/BenedictKing/ccx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude / Codex / Gemini API Proxy - CCX
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BenedictKing/ccx is an open‑source backend service that acts as a unified prox
 
 ### 中文
 
-BenedictKing/ccx：BenedictKing/ccx helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BenedictKing/ccx：BenedictKing/ccx helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BenedictKing/ccx：BenedictKing/ccx helps teams reuse service infrastructure ins
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ BenedictKing/ccx：BenedictKing/ccx helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

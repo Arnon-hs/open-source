@@ -1,6 +1,6 @@
 # ModelCloud/GPTQModel
 
-[![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=flat-square&color=yellow)](https://github.com/ModelCloud/GPTQModel/stargazers) [![Forks](https://img.shields.io/github/forks/ModelCloud/GPTQModel?style=flat-square&color=blue)](https://github.com/ModelCloud/GPTQModel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModelCloud/GPTQModel?style=flat-square&color=yellow)](https://github.com/ModelCloud/GPTQModel/stargazers) [![Forks](https://img.shields.io/github/forks/ModelCloud/GPTQModel?style=flat-square&color=blue)](https://github.com/ModelCloud/GPTQModel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > LLM model quantization (compression) toolkit with HW acceleration support for Nvidia, AMD, Intel GPU and Intel/AMD/Apple CPU via HF, vLLM, and SGLang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ModelCloud/GPTQModel：ModelCloud/GPTQModel helps research and automate market w
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

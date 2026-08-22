@@ -1,6 +1,6 @@
 # pchuri/confluence-cli
 
-[![Stars](https://img.shields.io/github/stars/pchuri/confluence-cli?style=flat-square&color=yellow)](https://github.com/pchuri/confluence-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pchuri/confluence-cli?style=flat-square&color=blue)](https://github.com/pchuri/confluence-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pchuri/confluence-cli?style=flat-square&color=yellow)](https://github.com/pchuri/confluence-cli/stargazers) [![Forks](https://img.shields.io/github/forks/pchuri/confluence-cli?style=flat-square&color=blue)](https://github.com/pchuri/confluence-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful command-line interface for Atlassian Confluence
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pchuri/confluence-cli：pchuri/confluence-cli helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 46/100 |
 | stars | 48/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

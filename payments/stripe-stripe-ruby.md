@@ -1,6 +1,6 @@
 # stripe/stripe-ruby
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-ruby?style=flat-square&color=yellow)](https://github.com/stripe/stripe-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-ruby?style=flat-square&color=blue)](https://github.com/stripe/stripe-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-ruby?style=flat-square&color=yellow)](https://github.com/stripe/stripe-ruby/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-ruby?style=flat-square&color=blue)](https://github.com/stripe/stripe-ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby library for the Stripe API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stripe/stripe-ruby：stripe/stripe-ruby helps integrate monetization, billing, o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 71/100 |
 | stars | 71/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

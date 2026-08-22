@@ -1,6 +1,6 @@
 # Arvincreator/project-golem
 
-[![Stars](https://img.shields.io/github/stars/Arvincreator/project-golem?style=flat-square&color=yellow)](https://github.com/Arvincreator/project-golem/stargazers) [![Forks](https://img.shields.io/github/forks/Arvincreator/project-golem?style=flat-square&color=blue)](https://github.com/Arvincreator/project-golem/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arvincreator/project-golem?style=flat-square&color=yellow)](https://github.com/Arvincreator/project-golem/stargazers) [![Forks](https://img.shields.io/github/forks/Arvincreator/project-golem?style=flat-square&color=blue)](https://github.com/Arvincreator/project-golem/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > OS-level autonomous AI agent with long-term memory, multi-agent coordination, Titan Chronos scheduler & Moltbot Social Core
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Arvincreator/project-golem：Arvincreator/project-golem helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

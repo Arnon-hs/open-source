@@ -1,6 +1,6 @@
 # lobehub/lobehub
 
-[![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&color=yellow)](https://github.com/lobehub/lobehub/stargazers) [![Forks](https://img.shields.io/github/forks/lobehub/lobehub?style=flat-square&color=blue)](https://github.com/lobehub/lobehub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&color=yellow)](https://github.com/lobehub/lobehub/stargazers) [![Forks](https://img.shields.io/github/forks/lobehub/lobehub?style=flat-square&color=blue)](https://github.com/lobehub/lobehub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 76.2k |
 | 🍴 **Forks** | 15.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lobehub/lobehub：lobehub/lobehub helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 74/100 |
+| production | 59/100 |
+| outlook | 67/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

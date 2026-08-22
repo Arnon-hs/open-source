@@ -1,6 +1,6 @@
 # TheBevyFlock/bevy_new_2d
 
-[![Stars](https://img.shields.io/github/stars/TheBevyFlock/bevy_new_2d?style=flat-square&color=yellow)](https://github.com/TheBevyFlock/bevy_new_2d/stargazers) [![Forks](https://img.shields.io/github/forks/TheBevyFlock/bevy_new_2d?style=flat-square&color=blue)](https://github.com/TheBevyFlock/bevy_new_2d/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheBevyFlock/bevy_new_2d?style=flat-square&color=yellow)](https://github.com/TheBevyFlock/bevy_new_2d/stargazers) [![Forks](https://img.shields.io/github/forks/TheBevyFlock/bevy_new_2d?style=flat-square&color=blue)](https://github.com/TheBevyFlock/bevy_new_2d/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > This template is a great way to get started on a new 2D Bevy game!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TheBevyFlock’s **bevy_new_2d** repository provides a ready‑to‑use starter 
 
 ### 中文
 
-TheBevyFlock/bevy_new_2d：TheBevyFlock/bevy_new_2d may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+TheBevyFlock/bevy_new_2d：TheBevyFlock/bevy_new_2d may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TheBevyFlock/bevy_new_2d：TheBevyFlock/bevy_new_2d may be useful when its READM
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ TheBevyFlock/bevy_new_2d：TheBevyFlock/bevy_new_2d may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
+| usefulness | 58/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 50/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

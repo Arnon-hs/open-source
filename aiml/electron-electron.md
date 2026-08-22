@@ -1,6 +1,6 @@
 # electron/electron
 
-[![Stars](https://img.shields.io/github/stars/electron/electron?style=flat-square&color=yellow)](https://github.com/electron/electron/stargazers) [![Forks](https://img.shields.io/github/forks/electron/electron?style=flat-square&color=blue)](https://github.com/electron/electron/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electron/electron?style=flat-square&color=yellow)](https://github.com/electron/electron/stargazers) [![Forks](https://img.shields.io/github/forks/electron/electron?style=flat-square&color=blue)](https://github.com/electron/electron/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121.2k |
 | 🍴 **Forks** | 17.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ electron/electron：electron/electron helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

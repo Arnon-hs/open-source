@@ -1,6 +1,6 @@
 # python-social-auth/social-app-django
 
-[![Stars](https://img.shields.io/github/stars/python-social-auth/social-app-django?style=flat-square&color=yellow)](https://github.com/python-social-auth/social-app-django/stargazers) [![Forks](https://img.shields.io/github/forks/python-social-auth/social-app-django?style=flat-square&color=blue)](https://github.com/python-social-auth/social-app-django/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/python-social-auth/social-app-django?style=flat-square&color=yellow)](https://github.com/python-social-auth/social-app-django/stargazers) [![Forks](https://img.shields.io/github/forks/python-social-auth/social-app-django?style=flat-square&color=blue)](https://github.com/python-social-auth/social-app-django/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Python Social Auth - Application - Django
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ python-social-auth/social-app-django：python-social-auth/social-app-django help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 56/100 |
+| production | 52/100 |
+| outlook | 49/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

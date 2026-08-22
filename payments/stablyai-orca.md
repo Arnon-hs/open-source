@@ -1,41 +1,41 @@
 # stablyai/orca
 
-[![Stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&color=yellow)](https://github.com/stablyai/orca/stargazers) [![Forks](https://img.shields.io/github/forks/stablyai/orca?style=flat-square&color=blue)](https://github.com/stablyai/orca/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&color=yellow)](https://github.com/stablyai/orca/stargazers) [![Forks](https://img.shields.io/github/forks/stablyai/orca?style=flat-square&color=blue)](https://github.com/stablyai/orca/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
-> Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+> Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17.2k |
-| 🍴 **Forks** | 1.3k |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ade` `agent-ide` `ai-agents` `claude-code` `cli` `codex` `cursor-agent` `devtools` `ghostty` `ide` `mobile-app` `opencode`
+`claude-code` `cli` `codex` `cursor-agent` `ghostty` `opencode` `orchestration` `parallel-agents` `pi` `terminal` `worktrees`
 
 ## 🎯 Categories
 
-Payments · Orchestration · AI/ML · DevTools
+Payments · Orchestration · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-stablyai/orca: stablyai/orca helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+stablyai/orca: stablyai/orca helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-stablyai/orca: open-source проект в категориях Payments, Orchestration, AI/ML, DevTools. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+stablyai/orca: open-source проект в категориях Payments, Orchestration, AI/ML. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-stablyai/orca：stablyai/orca helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+stablyai/orca：stablyai/orca helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ stablyai/orca：stablyai/orca helps integrate monetization, billing, or PSP flow
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 17182 GitHub stars
-- 1349 forks
-- updated 2026-07-13
+- 2040 GitHub stars
+- 133 forks
+- updated 2026-05-07
 - primary language: TypeScript
-- 18 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ stablyai/orca：stablyai/orca helps integrate monetization, billing, or PSP flow
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 94/100 |
+| usefulness | 74/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 95/100 |
-| adoption | 87/100 |
-| stars | 90/100 |
-| forks | 78/100 |
-| recency | 100/100 |
+| production | 54/100 |
+| outlook | 58/100 |
+| adoption | 66/100 |
+| stars | 70/100 |
+| forks | 53/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/stablyai/orca) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/stablyai/orca) · [← Back to Payments](./README.md)</sub>

@@ -1,6 +1,6 @@
 # ByteNess/aws-vault
 
-[![Stars](https://img.shields.io/github/stars/ByteNess/aws-vault?style=flat-square&color=yellow)](https://github.com/ByteNess/aws-vault/stargazers) [![Forks](https://img.shields.io/github/forks/ByteNess/aws-vault?style=flat-square&color=blue)](https://github.com/ByteNess/aws-vault/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ByteNess/aws-vault?style=flat-square&color=yellow)](https://github.com/ByteNess/aws-vault/stargazers) [![Forks](https://img.shields.io/github/forks/ByteNess/aws-vault?style=flat-square&color=blue)](https://github.com/ByteNess/aws-vault/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A vault for securely storing and accessing AWS credentials in development environments
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ByteNess/aws-vault：ByteNess/aws-vault helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 48/100 |
 | stars | 54/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # dograh-hq/dograh
 
-[![Stars](https://img.shields.io/github/stars/dograh-hq/dograh?style=flat-square&color=yellow)](https://github.com/dograh-hq/dograh/stargazers) [![Forks](https://img.shields.io/github/forks/dograh-hq/dograh?style=flat-square&color=blue)](https://github.com/dograh-hq/dograh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dograh-hq/dograh?style=flat-square&color=yellow)](https://github.com/dograh-hq/dograh/stargazers) [![Forks](https://img.shields.io/github/forks/dograh-hq/dograh?style=flat-square&color=blue)](https://github.com/dograh-hq/dograh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Voice Agent Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dograh-hq/dograh：dograh-hq/dograh helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 56/100 |
 | stars | 56/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

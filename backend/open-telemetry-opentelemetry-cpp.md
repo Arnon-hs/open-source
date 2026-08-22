@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-cpp
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-cpp?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-cpp?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-cpp?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-cpp?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The OpenTelemetry C++ Client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 66/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 67/100 |
 | stars | 66/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

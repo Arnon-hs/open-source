@@ -1,6 +1,6 @@
 # Conflux-Chain/conflux-rust
 
-[![Stars](https://img.shields.io/github/stars/Conflux-Chain/conflux-rust?style=flat-square&color=yellow)](https://github.com/Conflux-Chain/conflux-rust/stargazers) [![Forks](https://img.shields.io/github/forks/Conflux-Chain/conflux-rust?style=flat-square&color=blue)](https://github.com/Conflux-Chain/conflux-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Conflux-Chain/conflux-rust?style=flat-square&color=yellow)](https://github.com/Conflux-Chain/conflux-rust/stargazers) [![Forks](https://img.shields.io/github/forks/Conflux-Chain/conflux-rust?style=flat-square&color=blue)](https://github.com/Conflux-Chain/conflux-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The official Rust implementation of Conflux protocol. https://doc.confluxnetwork.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 716 |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Conflux‑Rust — официальная реализация протокол�
 
 ### 中文
 
-Conflux-Chain/conflux-rust：Conflux-Chain/conflux-rust helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Conflux-Chain/conflux-rust：Conflux-Chain/conflux-rust helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Conflux-Chain/conflux-rust：Conflux-Chain/conflux-rust helps prototype or inspe
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Conflux-Chain/conflux-rust：Conflux-Chain/conflux-rust helps prototype or inspe
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

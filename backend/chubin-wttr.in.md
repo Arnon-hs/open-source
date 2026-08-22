@@ -1,6 +1,6 @@
 # chubin/wttr.in
 
-[![Stars](https://img.shields.io/github/stars/chubin/wttr.in?style=flat-square&color=yellow)](https://github.com/chubin/wttr.in/stargazers) [![Forks](https://img.shields.io/github/forks/chubin/wttr.in?style=flat-square&color=blue)](https://github.com/chubin/wttr.in/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chubin/wttr.in?style=flat-square&color=yellow)](https://github.com/chubin/wttr.in/stargazers) [![Forks](https://img.shields.io/github/forks/chubin/wttr.in?style=flat-square&color=blue)](https://github.com/chubin/wttr.in/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :partly_sunny: The right way to check the weather
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ chubin/wttr.in：chubin/wttr.in helps teams reuse service infrastructure instead
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 90/100 |
 | stars | 95/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

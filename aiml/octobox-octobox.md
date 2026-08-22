@@ -1,6 +1,6 @@
 # octobox/octobox
 
-[![Stars](https://img.shields.io/github/stars/octobox/octobox?style=flat-square&color=yellow)](https://github.com/octobox/octobox/stargazers) [![Forks](https://img.shields.io/github/forks/octobox/octobox?style=flat-square&color=blue)](https://github.com/octobox/octobox/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octobox/octobox?style=flat-square&color=yellow)](https://github.com/octobox/octobox/stargazers) [![Forks](https://img.shields.io/github/forks/octobox/octobox?style=flat-square&color=blue)](https://github.com/octobox/octobox/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 📮 Untangle your GitHub Notifications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 341 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ octobox/octobox：octobox/octobox helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

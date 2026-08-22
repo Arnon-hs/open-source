@@ -1,6 +1,6 @@
 # moyangzhan/langchain4j-aideepin
 
-[![Stars](https://img.shields.io/github/stars/moyangzhan/langchain4j-aideepin?style=flat-square&color=yellow)](https://github.com/moyangzhan/langchain4j-aideepin/stargazers) [![Forks](https://img.shields.io/github/forks/moyangzhan/langchain4j-aideepin?style=flat-square&color=blue)](https://github.com/moyangzhan/langchain4j-aideepin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moyangzhan/langchain4j-aideepin?style=flat-square&color=yellow)](https://github.com/moyangzhan/langchain4j-aideepin/stargazers) [![Forks](https://img.shields.io/github/forks/moyangzhan/langchain4j-aideepin?style=flat-square&color=blue)](https://github.com/moyangzhan/langchain4j-aideepin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 基于AI的工作效率提升工具（聊天、绘画、知识库、工作流、 MCP服务市场、语音输入输出、长期记忆） | Ai-based productivity tools (Chat,Draw,RAG,Workflow,MCP marketplace, ASR,TTS, Long-term memory etc)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ moyangzhan/langchain4j-aideepin：moyangzhan/langchain4j-aideepin helps turn iso
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 69/100 |
+| production | 51/100 |
+| outlook | 62/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 777genius/claude_agent_teams_ui
 
-[![Stars](https://img.shields.io/github/stars/777genius/claude_agent_teams_ui?style=flat-square&color=yellow)](https://github.com/777genius/claude_agent_teams_ui/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude_agent_teams_ui?style=flat-square&color=blue)](https://github.com/777genius/claude_agent_teams_ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/777genius/claude_agent_teams_ui?style=flat-square&color=yellow)](https://github.com/777genius/claude_agent_teams_ui/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude_agent_teams_ui?style=flat-square&color=blue)](https://github.com/777genius/claude_agent_teams_ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(75+ LLM providers). Build your AI company.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 868 |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Orchestration · AI/ML · Frontend
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

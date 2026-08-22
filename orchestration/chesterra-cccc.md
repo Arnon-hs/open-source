@@ -1,6 +1,6 @@
 # ChesterRa/cccc
 
-[![Stars](https://img.shields.io/github/stars/ChesterRa/cccc?style=flat-square&color=yellow)](https://github.com/ChesterRa/cccc/stargazers) [![Forks](https://img.shields.io/github/forks/ChesterRa/cccc?style=flat-square&color=blue)](https://github.com/ChesterRa/cccc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChesterRa/cccc?style=flat-square&color=yellow)](https://github.com/ChesterRa/cccc/stargazers) [![Forks](https://img.shields.io/github/forks/ChesterRa/cccc?style=flat-square&color=blue)](https://github.com/ChesterRa/cccc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 810 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ChesterRa/cccc：ChesterRa/cccc helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 59/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # libnyanpasu/clash-nyanpasu
 
-[![Stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=flat-square&color=yellow)](https://github.com/libnyanpasu/clash-nyanpasu/stargazers) [![Forks](https://img.shields.io/github/forks/libnyanpasu/clash-nyanpasu?style=flat-square&color=blue)](https://github.com/libnyanpasu/clash-nyanpasu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libnyanpasu/clash-nyanpasu?style=flat-square&color=yellow)](https://github.com/libnyanpasu/clash-nyanpasu/stargazers) [![Forks](https://img.shields.io/github/forks/libnyanpasu/clash-nyanpasu?style=flat-square&color=blue)](https://github.com/libnyanpasu/clash-nyanpasu/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Clash Nyanpasu～(∠・ω< )⌒☆​
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13k |
 | 🍴 **Forks** | 790 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ libnyanpasu/clash-nyanpasu：libnyanpasu/clash-nyanpasu helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 83/100 |
 | stars | 88/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ultralytics/ultralytics
 
-[![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&color=yellow)](https://github.com/ultralytics/ultralytics/stargazers) [![Forks](https://img.shields.io/github/forks/ultralytics/ultralytics?style=flat-square&color=blue)](https://github.com/ultralytics/ultralytics/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&color=yellow)](https://github.com/ultralytics/ultralytics/stargazers) [![Forks](https://img.shields.io/github/forks/ultralytics/ultralytics?style=flat-square&color=blue)](https://github.com/ultralytics/ultralytics/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Ultralytics YOLO 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56.8k |
 | 🍴 **Forks** | 10.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ultralytics/ultralytics：ultralytics/ultralytics helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

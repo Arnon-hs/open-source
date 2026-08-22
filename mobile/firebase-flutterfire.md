@@ -1,6 +1,6 @@
 # firebase/flutterfire
 
-[![Stars](https://img.shields.io/github/stars/firebase/flutterfire?style=flat-square&color=yellow)](https://github.com/firebase/flutterfire/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/flutterfire?style=flat-square&color=blue)](https://github.com/firebase/flutterfire/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firebase/flutterfire?style=flat-square&color=yellow)](https://github.com/firebase/flutterfire/stargazers) [![Forks](https://img.shields.io/github/forks/firebase/flutterfire?style=flat-square&color=blue)](https://github.com/firebase/flutterfire/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 A collection of Firebase plugins for Flutter apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ firebase/flutterfire：firebase/flutterfire may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 55/100 |
+| outlook | 52/100 |
 | adoption | 86/100 |
 | stars | 84/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

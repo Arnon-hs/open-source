@@ -1,6 +1,6 @@
 # deepmodeling/deepmd-kit
 
-[![Stars](https://img.shields.io/github/stars/deepmodeling/deepmd-kit?style=flat-square&color=yellow)](https://github.com/deepmodeling/deepmd-kit/stargazers) [![Forks](https://img.shields.io/github/forks/deepmodeling/deepmd-kit?style=flat-square&color=blue)](https://github.com/deepmodeling/deepmd-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepmodeling/deepmd-kit?style=flat-square&color=yellow)](https://github.com/deepmodeling/deepmd-kit/stargazers) [![Forks](https://img.shields.io/github/forks/deepmodeling/deepmd-kit?style=flat-square&color=blue)](https://github.com/deepmodeling/deepmd-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A deep learning package for many-body potential energy representation and molecular dynamics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 611 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ deepmodeling/deepmd-kit：deepmodeling/deepmd-kit may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 70/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

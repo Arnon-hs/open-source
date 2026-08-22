@@ -1,6 +1,6 @@
 # monosans/proxy-list
 
-[![Stars](https://img.shields.io/github/stars/monosans/proxy-list?style=flat-square&color=yellow)](https://github.com/monosans/proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/monosans/proxy-list?style=flat-square&color=blue)](https://github.com/monosans/proxy-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monosans/proxy-list?style=flat-square&color=yellow)](https://github.com/monosans/proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/monosans/proxy-list?style=flat-square&color=blue)](https://github.com/monosans/proxy-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ monosans/proxy-list — это открытый репозиторий, сод
 
 ### 中文
 
-monosans/proxy-list：monosans/proxy-list may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+monosans/proxy-list：monosans/proxy-list may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ monosans/proxy-list：monosans/proxy-list may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ monosans/proxy-list：monosans/proxy-list may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 64/100 |
 | stars | 67/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

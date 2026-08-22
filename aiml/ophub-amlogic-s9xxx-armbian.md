@@ -1,6 +1,6 @@
 # ophub/amlogic-s9xxx-armbian
 
-[![Stars](https://img.shields.io/github/stars/ophub/amlogic-s9xxx-armbian?style=flat-square&color=yellow)](https://github.com/ophub/amlogic-s9xxx-armbian/stargazers) [![Forks](https://img.shields.io/github/forks/ophub/amlogic-s9xxx-armbian?style=flat-square&color=blue)](https://github.com/ophub/amlogic-s9xxx-armbian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ophub/amlogic-s9xxx-armbian?style=flat-square&color=yellow)](https://github.com/ophub/amlogic-s9xxx-armbian/stargazers) [![Forks](https://img.shields.io/github/forks/ophub/amlogic-s9xxx-armbian?style=flat-square&color=blue)](https://github.com/ophub/amlogic-s9xxx-armbian/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ophub/amlogic-s9xxx-armbian：ophub/amlogic-s9xxx-armbian helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 85/100 |
 | stars | 84/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

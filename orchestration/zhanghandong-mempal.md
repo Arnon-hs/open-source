@@ -1,6 +1,6 @@
 # ZhangHanDong/mempal
 
-[![Stars](https://img.shields.io/github/stars/ZhangHanDong/mempal?style=flat-square&color=yellow)](https://github.com/ZhangHanDong/mempal/stargazers) [![Forks](https://img.shields.io/github/forks/ZhangHanDong/mempal?style=flat-square&color=blue)](https://github.com/ZhangHanDong/mempal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhangHanDong/mempal?style=flat-square&color=yellow)](https://github.com/ZhangHanDong/mempal/stargazers) [![Forks](https://img.shields.io/github/forks/ZhangHanDong/mempal?style=flat-square&color=blue)](https://github.com/ZhangHanDong/mempal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Memory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -59,21 +59,21 @@ ZhangHanDong/mempal：ZhangHanDong/mempal helps turn isolated prompts and tools 
 - primary language: Rust
 - 2 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
+| production | 42/100 |
+| outlook | 42/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # knadh/listmonk
 
-[![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square&color=yellow)](https://github.com/knadh/listmonk/stargazers) [![Forks](https://img.shields.io/github/forks/knadh/listmonk?style=flat-square&color=blue)](https://github.com/knadh/listmonk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=flat-square&color=yellow)](https://github.com/knadh/listmonk/stargazers) [![Forks](https://img.shields.io/github/forks/knadh/listmonk?style=flat-square&color=blue)](https://github.com/knadh/listmonk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ knadh/listmonk：knadh/listmonk helps integrate monetization, billing, or PSP fl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 64/100 |
 | adoption | 89/100 |
 | stars | 92/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

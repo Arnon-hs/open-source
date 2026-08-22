@@ -1,6 +1,6 @@
 # typst/typst
 
-[![Stars](https://img.shields.io/github/stars/typst/typst?style=flat-square&color=yellow)](https://github.com/typst/typst/stargazers) [![Forks](https://img.shields.io/github/forks/typst/typst?style=flat-square&color=blue)](https://github.com/typst/typst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typst/typst?style=flat-square&color=yellow)](https://github.com/typst/typst/stargazers) [![Forks](https://img.shields.io/github/forks/typst/typst?style=flat-square&color=blue)](https://github.com/typst/typst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A markup-based typesetting system that is powerful and easy to learn.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 53.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ typst/typst：typst/typst may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 94/100 |
 | stars | 100/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

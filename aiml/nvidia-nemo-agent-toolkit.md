@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Agent-Toolkit
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-Agent-Toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-Agent-Toolkit?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-Agent-Toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-Agent-Toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-Agent-Toolkit?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-Agent-Toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 639 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The NVIDIA NeMo Agent Toolkit is an open‑source library that streamlines the c
 
 ### 中文
 
-NVIDIA/NeMo-Agent-Toolkit：NVIDIA/NeMo-Agent-Toolkit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NVIDIA/NeMo-Agent-Toolkit：NVIDIA/NeMo-Agent-Toolkit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NVIDIA/NeMo-Agent-Toolkit：NVIDIA/NeMo-Agent-Toolkit helps add AI capability wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ NVIDIA/NeMo-Agent-Toolkit：NVIDIA/NeMo-Agent-Toolkit helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 50/100 |
 | adoption | 71/100 |
 | stars | 71/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # trovu/trovu
 
-[![Stars](https://img.shields.io/github/stars/trovu/trovu?style=flat-square&color=yellow)](https://github.com/trovu/trovu/stargazers) [![Forks](https://img.shields.io/github/forks/trovu/trovu?style=flat-square&color=blue)](https://github.com/trovu/trovu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trovu/trovu?style=flat-square&color=yellow)](https://github.com/trovu/trovu/stargazers) [![Forks](https://img.shields.io/github/forks/trovu/trovu?style=flat-square&color=blue)](https://github.com/trovu/trovu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Search 1000+ websites in a command-line way, with curated and personal shortcuts, organized by namespaces, allowing multiple and typed arguments, with maximum privacy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ trovu — это открытый CLI‑инструмент, позволяю
 
 ### 中文
 
-trovu/trovu：trovu/trovu may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+trovu/trovu：trovu/trovu may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ trovu/trovu：trovu/trovu may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ trovu/trovu：trovu/trovu may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 47/100 |
+| outlook | 45/100 |
 | adoption | 39/100 |
 | stars | 39/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # suzuki-shunsuke/tfmv
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/tfmv?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/tfmv/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/tfmv?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/tfmv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/tfmv?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/tfmv/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/tfmv?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/tfmv/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > CLI to rename Terraform resources and generate moved blocks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ suzuki‑shunsuke/tfmv is a command‑line utility that streamlines the process 
 
 ### 中文
 
-suzuki-shunsuke/tfmv：suzuki-shunsuke/tfmv helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+suzuki-shunsuke/tfmv：suzuki-shunsuke/tfmv helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ suzuki-shunsuke/tfmv：suzuki-shunsuke/tfmv helps engineers save time in daily d
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ suzuki-shunsuke/tfmv：suzuki-shunsuke/tfmv helps engineers save time in daily d
 - primary language: Go
 - 3 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 40/100 |
 | stars | 47/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

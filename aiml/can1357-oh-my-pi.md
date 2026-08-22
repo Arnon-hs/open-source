@@ -1,6 +1,6 @@
 # can1357/oh-my-pi
 
-[![Stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&color=yellow)](https://github.com/can1357/oh-my-pi/stargazers) [![Forks](https://img.shields.io/github/forks/can1357/oh-my-pi?style=flat-square&color=blue)](https://github.com/can1357/oh-my-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&color=yellow)](https://github.com/can1357/oh-my-pi/stargazers) [![Forks](https://img.shields.io/github/forks/can1357/oh-my-pi?style=flat-square&color=blue)](https://github.com/can1357/oh-my-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 378 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ can1357/oh-my-pi：can1357/oh-my-pi helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 94/100 |
-| production | 66/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 73/100 |
 | stars | 77/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

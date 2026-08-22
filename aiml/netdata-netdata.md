@@ -1,6 +1,6 @@
 # netdata/netdata
 
-[![Stars](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&color=yellow)](https://github.com/netdata/netdata/stargazers) [![Forks](https://img.shields.io/github/forks/netdata/netdata?style=flat-square&color=blue)](https://github.com/netdata/netdata/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&color=yellow)](https://github.com/netdata/netdata/stargazers) [![Forks](https://img.shields.io/github/forks/netdata/netdata?style=flat-square&color=blue)](https://github.com/netdata/netdata/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 78.7k |
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | C |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ netdata/netdata：netdata/netdata helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 64/100 |
+| outlook | 66/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

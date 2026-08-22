@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Retriever
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Retriever?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-Retriever/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-Retriever?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-Retriever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Retriever?style=flat-square&color=yellow)](https://github.com/NVIDIA/NeMo-Retriever/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/NeMo-Retriever?style=flat-square&color=blue)](https://github.com/NVIDIA/NeMo-Retriever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > NeMo Retriever Library is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images that you can use in downstream generative applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 319 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Backend · Data
 
 ### English
 
-NVIDIA/NeMo-Retriever: NVIDIA/NeMo-Retriever helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NVIDIA/NeMo-Retriever: NVIDIA/NeMo-Retriever helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-NVIDIA/NeMo-Retriever: open-source проект в категориях Backend, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+NVIDIA/NeMo-Retriever: open-source проект в категориях Backend, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-NVIDIA/NeMo-Retriever：NVIDIA/NeMo-Retriever helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NVIDIA/NeMo-Retriever：NVIDIA/NeMo-Retriever helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NVIDIA/NeMo-Retriever：NVIDIA/NeMo-Retriever helps teams reuse service infrastr
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ NVIDIA/NeMo-Retriever：NVIDIA/NeMo-Retriever helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 71/100 |
 | stars | 74/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

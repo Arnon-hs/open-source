@@ -1,6 +1,6 @@
 # Sequel-Ace/Sequel-Ace
 
-[![Stars](https://img.shields.io/github/stars/Sequel-Ace/Sequel-Ace?style=flat-square&color=yellow)](https://github.com/Sequel-Ace/Sequel-Ace/stargazers) [![Forks](https://img.shields.io/github/forks/Sequel-Ace/Sequel-Ace?style=flat-square&color=blue)](https://github.com/Sequel-Ace/Sequel-Ace/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sequel-Ace/Sequel-Ace?style=flat-square&color=yellow)](https://github.com/Sequel-Ace/Sequel-Ace/stargazers) [![Forks](https://img.shields.io/github/forks/Sequel-Ace/Sequel-Ace?style=flat-square&color=blue)](https://github.com/Sequel-Ace/Sequel-Ace/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > MySQL/MariaDB database management for macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Sequel-Ace/Sequel-Ace：Sequel-Ace/Sequel-Ace helps convert raw data into search
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 82/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jamescherti/minimal-emacs.d
 
-[![Stars](https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=flat-square&color=yellow)](https://github.com/jamescherti/minimal-emacs.d/stargazers) [![Forks](https://img.shields.io/github/forks/jamescherti/minimal-emacs.d?style=flat-square&color=blue)](https://github.com/jamescherti/minimal-emacs.d/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jamescherti/minimal-emacs.d?style=flat-square&color=yellow)](https://github.com/jamescherti/minimal-emacs.d/stargazers) [![Forks](https://img.shields.io/github/forks/jamescherti/minimal-emacs.d?style=flat-square&color=blue)](https://github.com/jamescherti/minimal-emacs.d/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > minimal-emacs.d - A Customizable Emacs init.el and early-init.el for Better Defaults and Optimized Startup, intended to serve as a solid foundation for your vanilla Emacs configuration | Emacs Starter Kit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 783 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jamescherti/minimal-emacs.d：jamescherti/minimal-emacs.d may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

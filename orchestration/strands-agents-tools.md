@@ -1,6 +1,6 @@
 # strands-agents/tools
 
-[![Stars](https://img.shields.io/github/stars/strands-agents/tools?style=flat-square&color=yellow)](https://github.com/strands-agents/tools/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/tools?style=flat-square&color=blue)](https://github.com/strands-agents/tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-agents/tools?style=flat-square&color=yellow)](https://github.com/strands-agents/tools/stargazers) [![Forks](https://img.shields.io/github/forks/strands-agents/tools?style=flat-square&color=blue)](https://github.com/strands-agents/tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A set of tools that gives agents powerful capabilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ strands-agents/tools：strands-agents/tools helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

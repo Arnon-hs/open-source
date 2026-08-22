@@ -1,6 +1,6 @@
 # sachaos/todoist
 
-[![Stars](https://img.shields.io/github/stars/sachaos/todoist?style=flat-square&color=yellow)](https://github.com/sachaos/todoist/stargazers) [![Forks](https://img.shields.io/github/forks/sachaos/todoist?style=flat-square&color=blue)](https://github.com/sachaos/todoist/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sachaos/todoist?style=flat-square&color=yellow)](https://github.com/sachaos/todoist/stargazers) [![Forks](https://img.shields.io/github/forks/sachaos/todoist?style=flat-square&color=blue)](https://github.com/sachaos/todoist/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Todoist CLI Client. I ❤️ Todoist and CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sachaos/todoist：sachaos/todoist helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 64/100 |
 | stars | 69/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

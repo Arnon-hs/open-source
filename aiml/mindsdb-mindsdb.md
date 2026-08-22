@@ -1,6 +1,6 @@
 # mindsdb/mindsdb
 
-[![Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat-square&color=yellow)](https://github.com/mindsdb/mindsdb/stargazers) [![Forks](https://img.shields.io/github/forks/mindsdb/mindsdb?style=flat-square&color=blue)](https://github.com/mindsdb/mindsdb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=flat-square&color=yellow)](https://github.com/mindsdb/mindsdb/stargazers) [![Forks](https://img.shields.io/github/forks/mindsdb/mindsdb?style=flat-square&color=blue)](https://github.com/mindsdb/mindsdb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39.1k |
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mindsdb/mindsdb：mindsdb/mindsdb helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 76/100 |
+| production | 59/100 |
+| outlook | 69/100 |
 | adoption | 97/100 |
 | stars | 98/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

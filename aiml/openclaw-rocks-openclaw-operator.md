@@ -1,6 +1,6 @@
 # openclaw-rocks/openclaw-operator
 
-[![Stars](https://img.shields.io/github/stars/openclaw-rocks/openclaw-operator?style=flat-square&color=yellow)](https://github.com/openclaw-rocks/openclaw-operator/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw-rocks/openclaw-operator?style=flat-square&color=blue)](https://github.com/openclaw-rocks/openclaw-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openclaw-rocks/openclaw-operator?style=flat-square&color=yellow)](https://github.com/openclaw-rocks/openclaw-operator/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw-rocks/openclaw-operator?style=flat-square&color=blue)](https://github.com/openclaw-rocks/openclaw-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openclaw-rocks/openclaw-operator：openclaw-rocks/openclaw-operator helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

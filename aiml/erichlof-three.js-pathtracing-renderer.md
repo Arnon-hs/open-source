@@ -1,6 +1,6 @@
 # erichlof/THREE.js-PathTracing-Renderer
 
-[![Stars](https://img.shields.io/github/stars/erichlof/THREE.js-PathTracing-Renderer?style=flat-square&color=yellow)](https://github.com/erichlof/THREE.js-PathTracing-Renderer/stargazers) [![Forks](https://img.shields.io/github/forks/erichlof/THREE.js-PathTracing-Renderer?style=flat-square&color=blue)](https://github.com/erichlof/THREE.js-PathTracing-Renderer/network) [![Language](https://img.shields.io/badge/lang-GLSL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erichlof/THREE.js-PathTracing-Renderer?style=flat-square&color=yellow)](https://github.com/erichlof/THREE.js-PathTracing-Renderer/stargazers) [![Forks](https://img.shields.io/github/forks/erichlof/THREE.js-PathTracing-Renderer?style=flat-square&color=blue)](https://github.com/erichlof/THREE.js-PathTracing-Renderer/network) [![Language](https://img.shields.io/badge/lang-GLSL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time PathTracing with global illumination and progressive rendering, all on top of the Three.js WebGL framework. Click here for Live Demo: https://erichlof.github.io/THREE.js-PathTracing-Renderer/Geometry_Showcase.html
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | GLSL |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ erichlof/THREE.js-PathTracing-Renderer：erichlof/THREE.js-PathTracing-Renderer 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
+| usefulness | 90/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

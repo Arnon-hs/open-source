@@ -1,6 +1,6 @@
 # truera/trulens
 
-[![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat-square&color=yellow)](https://github.com/truera/trulens/stargazers) [![Forks](https://img.shields.io/github/forks/truera/trulens?style=flat-square&color=blue)](https://github.com/truera/trulens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truera/trulens?style=flat-square&color=yellow)](https://github.com/truera/trulens/stargazers) [![Forks](https://img.shields.io/github/forks/truera/trulens?style=flat-square&color=blue)](https://github.com/truera/trulens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Evaluation and Tracking for LLM Experiments and AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ truera/trulens：truera/trulens helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Flintcore/FlintStudio
 
-[![Stars](https://img.shields.io/github/stars/Flintcore/FlintStudio?style=flat-square&color=yellow)](https://github.com/Flintcore/FlintStudio/stargazers) [![Forks](https://img.shields.io/github/forks/Flintcore/FlintStudio?style=flat-square&color=blue)](https://github.com/Flintcore/FlintStudio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flintcore/FlintStudio?style=flat-square&color=yellow)](https://github.com/Flintcore/FlintStudio/stargazers) [![Forks](https://img.shields.io/github/forks/Flintcore/FlintStudio?style=flat-square&color=blue)](https://github.com/Flintcore/FlintStudio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI film automation: novel → script → storyboard → images → voiceover → video. All APIs configurable.开源 AI 影视自动化：小说→剧本→分镜→出图→配音→成片，全 API 可配置
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 245 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Flintcore/FlintStudio：Flintcore/FlintStudio helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

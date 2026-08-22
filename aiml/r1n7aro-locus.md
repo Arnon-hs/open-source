@@ -1,6 +1,6 @@
 # r1n7aro/Locus
 
-[![Stars](https://img.shields.io/github/stars/r1n7aro/Locus?style=flat-square&color=yellow)](https://github.com/r1n7aro/Locus/stargazers) [![Forks](https://img.shields.io/github/forks/r1n7aro/Locus?style=flat-square&color=blue)](https://github.com/r1n7aro/Locus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r1n7aro/Locus?style=flat-square&color=yellow)](https://github.com/r1n7aro/Locus/stargazers) [![Forks](https://img.shields.io/github/forks/r1n7aro/Locus?style=flat-square&color=blue)](https://github.com/r1n7aro/Locus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The open source Unity Dev Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Locus is an open‑source Unity development agent that leverages AI/ML technique
 
 ### 中文
 
-r1n7aro/Locus：r1n7aro/Locus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+r1n7aro/Locus：r1n7aro/Locus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ r1n7aro/Locus：r1n7aro/Locus helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ r1n7aro/Locus：r1n7aro/Locus helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
+| production | 45/100 |
+| outlook | 49/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

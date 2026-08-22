@@ -1,6 +1,6 @@
 # elio-fm/elio
 
-[![Stars](https://img.shields.io/github/stars/elio-fm/elio?style=flat-square&color=yellow)](https://github.com/elio-fm/elio/stargazers) [![Forks](https://img.shields.io/github/forks/elio-fm/elio?style=flat-square&color=blue)](https://github.com/elio-fm/elio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elio-fm/elio?style=flat-square&color=yellow)](https://github.com/elio-fm/elio/stargazers) [![Forks](https://img.shields.io/github/forks/elio-fm/elio?style=flat-square&color=blue)](https://github.com/elio-fm/elio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Elio is a fast, feature‑rich terminal file manager that delivers a modern, “
 
 ### 中文
 
-elio-fm/elio：elio-fm/elio helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+elio-fm/elio：elio-fm/elio helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ elio-fm/elio：elio-fm/elio helps ship user-facing interfaces with less custom U
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ elio-fm/elio：elio-fm/elio helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

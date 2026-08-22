@@ -1,6 +1,6 @@
 # igorkasyanchuk/active_storage_validations
 
-[![Stars](https://img.shields.io/github/stars/igorkasyanchuk/active_storage_validations?style=flat-square&color=yellow)](https://github.com/igorkasyanchuk/active_storage_validations/stargazers) [![Forks](https://img.shields.io/github/forks/igorkasyanchuk/active_storage_validations?style=flat-square&color=blue)](https://github.com/igorkasyanchuk/active_storage_validations/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igorkasyanchuk/active_storage_validations?style=flat-square&color=yellow)](https://github.com/igorkasyanchuk/active_storage_validations/stargazers) [![Forks](https://img.shields.io/github/forks/igorkasyanchuk/active_storage_validations?style=flat-square&color=blue)](https://github.com/igorkasyanchuk/active_storage_validations/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Do it like => validates :photos, attached: true, content_type: ['image/png', 'image/jpg', 'image/jpeg'], size: { less_than: 500.kilobytes }, limit: { min: 1, max: 3 }, aspect_ratio: :landscape, dimension: { width: { in: 800..1600 }
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-igorkasyanchuk/active_storage_validations：igorkasyanchuk/active_storage_validations helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+igorkasyanchuk/active_storage_validations：igorkasyanchuk/active_storage_validations helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ igorkasyanchuk/active_storage_validations：igorkasyanchuk/active_storage_valida
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ igorkasyanchuk/active_storage_validations：igorkasyanchuk/active_storage_valida
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

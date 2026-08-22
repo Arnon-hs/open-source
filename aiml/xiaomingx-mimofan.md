@@ -1,0 +1,82 @@
+# XiaomingX/mimofan
+
+[![Stars](https://img.shields.io/github/stars/XiaomingX/mimofan?style=flat-square&color=yellow)](https://github.com/XiaomingX/mimofan/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/mimofan?style=flat-square&color=blue)](https://github.com/XiaomingX/mimofan/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+
+> mimofan - AI coding agent platform
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 29 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-19 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent` `mimo` `openai`
+
+## 🎯 Categories
+
+AI/ML · Database
+
+## 📝 Summary
+
+### English
+
+XiaomingX/mimofan: XiaomingX/mimofan helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+XiaomingX/mimofan: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+XiaomingX/mimofan：XiaomingX/mimofan helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** XiaomingX/mimofan helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 29 GitHub stars
+- 1 forks
+- updated 2026-08-19
+- primary language: Rust
+- 3 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 8/100 |
+| stars | 31/100 |
+| topics | 38/100 |
+| outlook | 67/100 |
+| quality | 57/100 |
+| recency | 100/100 |
+| adoption | 25/100 |
+| production | 66/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-08-19 · [View on GitHub](https://github.com/XiaomingX/mimofan) · [← Back to AI/ML](./README.md)</sub>

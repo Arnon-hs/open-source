@@ -1,6 +1,6 @@
 # kubecolor/kubecolor
 
-[![Stars](https://img.shields.io/github/stars/kubecolor/kubecolor?style=flat-square&color=yellow)](https://github.com/kubecolor/kubecolor/stargazers) [![Forks](https://img.shields.io/github/forks/kubecolor/kubecolor?style=flat-square&color=blue)](https://github.com/kubecolor/kubecolor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubecolor/kubecolor?style=flat-square&color=yellow)](https://github.com/kubecolor/kubecolor/stargazers) [![Forks](https://img.shields.io/github/forks/kubecolor/kubecolor?style=flat-square&color=blue)](https://github.com/kubecolor/kubecolor/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Colorize your kubectl output
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubecolor/kubecolor：kubecolor/kubecolor helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 94/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 55/100 |
+| outlook | 50/100 |
 | adoption | 59/100 |
 | stars | 67/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

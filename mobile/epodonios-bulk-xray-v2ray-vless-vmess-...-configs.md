@@ -1,6 +1,6 @@
 # Epodonios/bulk-xray-v2ray-vless-vmess-...-configs
 
-[![Stars](https://img.shields.io/github/stars/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=yellow)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/stargazers) [![Forks](https://img.shields.io/github/forks/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=blue)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=yellow)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/stargazers) [![Forks](https://img.shields.io/github/forks/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs?style=flat-square&color=blue)](https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > free vmess vless trojan shadowsocks live v2ray_xray configs splitted by country
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Epodonios/bulk-xray-v2ray-vless-vmess-...-configs — это открытый 
 
 ### 中文
 
-Epodonios/bulk-xray-v2ray-vless-vmess-...-configs：Epodonios/bulk-xray-v2ray-vless-vmess-...-configs may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Epodonios/bulk-xray-v2ray-vless-vmess-...-configs：Epodonios/bulk-xray-v2ray-vless-vmess-...-configs may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Epodonios/bulk-xray-v2ray-vless-vmess-...-configs：Epodonios/bulk-xray-v2ray-vl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Epodonios/bulk-xray-v2ray-vless-vmess-...-configs：Epodonios/bulk-xray-v2ray-vl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

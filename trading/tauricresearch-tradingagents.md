@@ -1,6 +1,6 @@
 # TauricResearch/TradingAgents
 
-[![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square&color=yellow)](https://github.com/TauricResearch/TradingAgents/stargazers) [![Forks](https://img.shields.io/github/forks/TauricResearch/TradingAgents?style=flat-square&color=blue)](https://github.com/TauricResearch/TradingAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat-square&color=yellow)](https://github.com/TauricResearch/TradingAgents/stargazers) [![Forks](https://img.shields.io/github/forks/TauricResearch/TradingAgents?style=flat-square&color=blue)](https://github.com/TauricResearch/TradingAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > TradingAgents: Multi-Agents LLM Financial Trading Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72.7k |
 | 🍴 **Forks** | 14.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TauricResearch/TradingAgents：TauricResearch/TradingAgents helps research and a
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

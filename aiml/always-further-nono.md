@@ -1,6 +1,6 @@
 # always-further/nono
 
-[![Stars](https://img.shields.io/github/stars/always-further/nono?style=flat-square&color=yellow)](https://github.com/always-further/nono/stargazers) [![Forks](https://img.shields.io/github/forks/always-further/nono?style=flat-square&color=blue)](https://github.com/always-further/nono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/always-further/nono?style=flat-square&color=yellow)](https://github.com/always-further/nono/stargazers) [![Forks](https://img.shields.io/github/forks/always-further/nono?style=flat-square&color=blue)](https://github.com/always-further/nono/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brokering access directly within the agent's operating context, with zero setup and zero latency
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ always-further/nono：always-further/nono helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

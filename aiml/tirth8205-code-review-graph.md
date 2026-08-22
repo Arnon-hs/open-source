@@ -1,6 +1,6 @@
 # tirth8205/code-review-graph
 
-[![Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square&color=yellow)](https://github.com/tirth8205/code-review-graph/stargazers) [![Forks](https://img.shields.io/github/forks/tirth8205/code-review-graph?style=flat-square&color=blue)](https://github.com/tirth8205/code-review-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square&color=yellow)](https://github.com/tirth8205/code-review-graph/stargazers) [![Forks](https://img.shields.io/github/forks/tirth8205/code-review-graph?style=flat-square&color=blue)](https://github.com/tirth8205/code-review-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tirth8205/code-review-graph：tirth8205/code-review-graph helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

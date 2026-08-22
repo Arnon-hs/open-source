@@ -1,6 +1,6 @@
 # ratatui/ratatui-image
 
-[![Stars](https://img.shields.io/github/stars/ratatui/ratatui-image?style=flat-square&color=yellow)](https://github.com/ratatui/ratatui-image/stargazers) [![Forks](https://img.shields.io/github/forks/ratatui/ratatui-image?style=flat-square&color=blue)](https://github.com/ratatui/ratatui-image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ratatui/ratatui-image?style=flat-square&color=yellow)](https://github.com/ratatui/ratatui-image/stargazers) [![Forks](https://img.shields.io/github/forks/ratatui/ratatui-image?style=flat-square&color=blue)](https://github.com/ratatui/ratatui-image/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Ratatui widget for rendering image graphics in terminals that support it
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ratatui‑image — это виджет для библиотеки Ratatui, �
 
 ### 中文
 
-ratatui/ratatui-image：ratatui/ratatui-image helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ratatui/ratatui-image：ratatui/ratatui-image helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ratatui/ratatui-image：ratatui/ratatui-image helps ship user-facing interfaces 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ ratatui/ratatui-image：ratatui/ratatui-image helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
+| usefulness | 58/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 49/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

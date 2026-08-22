@@ -1,6 +1,6 @@
 # bazelbuild/bazel-central-registry
 
-[![Stars](https://img.shields.io/github/stars/bazelbuild/bazel-central-registry?style=flat-square&color=yellow)](https://github.com/bazelbuild/bazel-central-registry/stargazers) [![Forks](https://img.shields.io/github/forks/bazelbuild/bazel-central-registry?style=flat-square&color=blue)](https://github.com/bazelbuild/bazel-central-registry/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bazelbuild/bazel-central-registry?style=flat-square&color=yellow)](https://github.com/bazelbuild/bazel-central-registry/stargazers) [![Forks](https://img.shields.io/github/forks/bazelbuild/bazel-central-registry?style=flat-square&color=blue)](https://github.com/bazelbuild/bazel-central-registry/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The central registry of Bazel modules for the Bzlmod external dependency system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | Starlark |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ bazelbuild/bazel-central-registry：bazelbuild/bazel-central-registry helps ship
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 55/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

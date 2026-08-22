@@ -1,6 +1,6 @@
 # nearai/ironclaw
 
-[![Stars](https://img.shields.io/github/stars/nearai/ironclaw?style=flat-square&color=yellow)](https://github.com/nearai/ironclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nearai/ironclaw?style=flat-square&color=blue)](https://github.com/nearai/ironclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nearai/ironclaw?style=flat-square&color=yellow)](https://github.com/nearai/ironclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nearai/ironclaw?style=flat-square&color=blue)](https://github.com/nearai/ironclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > IronClaw is an Agent OS focused on privacy, security and extensibility
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nearai/ironclaw：nearai/ironclaw helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

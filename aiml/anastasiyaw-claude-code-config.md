@@ -1,6 +1,6 @@
 # AnastasiyaW/claude-code-config
 
-[![Stars](https://img.shields.io/github/stars/AnastasiyaW/claude-code-config?style=flat-square&color=yellow)](https://github.com/AnastasiyaW/claude-code-config/stargazers) [![Forks](https://img.shields.io/github/forks/AnastasiyaW/claude-code-config?style=flat-square&color=blue)](https://github.com/AnastasiyaW/claude-code-config/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnastasiyaW/claude-code-config?style=flat-square&color=yellow)](https://github.com/AnastasiyaW/claude-code-config/stargazers) [![Forks](https://img.shields.io/github/forks/AnastasiyaW/claude-code-config?style=flat-square&color=blue)](https://github.com/AnastasiyaW/claude-code-config/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skills, architectural principles, and alternative approaches for AI-assisted development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AnastasiyaW/claude-code-config — это открытый репозитор�
 
 ### 中文
 
-AnastasiyaW/claude-code-config：AnastasiyaW/claude-code-config helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AnastasiyaW/claude-code-config：AnastasiyaW/claude-code-config helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AnastasiyaW/claude-code-config：AnastasiyaW/claude-code-config helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AnastasiyaW/claude-code-config：AnastasiyaW/claude-code-config helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 39/100 |
 | stars | 43/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

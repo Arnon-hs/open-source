@@ -1,6 +1,6 @@
 # K9i-0/ccpocket
 
-[![Stars](https://img.shields.io/github/stars/K9i-0/ccpocket?style=flat-square&color=yellow)](https://github.com/K9i-0/ccpocket/stargazers) [![Forks](https://img.shields.io/github/forks/K9i-0/ccpocket?style=flat-square&color=blue)](https://github.com/K9i-0/ccpocket/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/K9i-0/ccpocket?style=flat-square&color=yellow)](https://github.com/K9i-0/ccpocket/stargazers) [![Forks](https://img.shields.io/github/forks/K9i-0/ccpocket?style=flat-square&color=blue)](https://github.com/K9i-0/ccpocket/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 699 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ K9i-0/ccpocket：K9i-0/ccpocket helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

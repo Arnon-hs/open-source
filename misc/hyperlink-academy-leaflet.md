@@ -1,6 +1,6 @@
 # hyperlink-academy/leaflet
 
-[![Stars](https://img.shields.io/github/stars/hyperlink-academy/leaflet?style=flat-square&color=yellow)](https://github.com/hyperlink-academy/leaflet/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlink-academy/leaflet?style=flat-square&color=blue)](https://github.com/hyperlink-academy/leaflet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperlink-academy/leaflet?style=flat-square&color=yellow)](https://github.com/hyperlink-academy/leaflet/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlink-academy/leaflet?style=flat-square&color=blue)](https://github.com/hyperlink-academy/leaflet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A tool for shared writing and social publishing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 504 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -41,7 +41,7 @@ The hyperlink-academy/leaflet project is an open-source platform that enables co
 
 ### 中文
 
-hyperlink-academy/leaflet：hyperlink-academy/leaflet may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hyperlink-academy/leaflet：hyperlink-academy/leaflet may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ hyperlink-academy/leaflet：hyperlink-academy/leaflet may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,21 +62,21 @@ hyperlink-academy/leaflet：hyperlink-academy/leaflet may be useful when its REA
 - updated 2026-05-07
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

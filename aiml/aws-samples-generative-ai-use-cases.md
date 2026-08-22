@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-use-cases
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/generative-ai-use-cases?style=flat-square&color=yellow)](https://github.com/aws-samples/generative-ai-use-cases/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/generative-ai-use-cases?style=flat-square&color=blue)](https://github.com/aws-samples/generative-ai-use-cases/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/generative-ai-use-cases?style=flat-square&color=yellow)](https://github.com/aws-samples/generative-ai-use-cases/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/generative-ai-use-cases?style=flat-square&color=blue)](https://github.com/aws-samples/generative-ai-use-cases/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Application implementation with business use cases for safely utilizing generative AI in business operations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aws-samples/generative-ai-use-cases：aws-samples/generative-ai-use-cases helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 67/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # zealdocs/zeal
 
-[![Stars](https://img.shields.io/github/stars/zealdocs/zeal?style=flat-square&color=yellow)](https://github.com/zealdocs/zeal/stargazers) [![Forks](https://img.shields.io/github/forks/zealdocs/zeal?style=flat-square&color=blue)](https://github.com/zealdocs/zeal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zealdocs/zeal?style=flat-square&color=yellow)](https://github.com/zealdocs/zeal/stargazers) [![Forks](https://img.shields.io/github/forks/zealdocs/zeal?style=flat-square&color=blue)](https://github.com/zealdocs/zeal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Offline documentation browser inspired by Dash
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.6k |
 | 🍴 **Forks** | 828 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zealdocs/zeal：zealdocs/zeal helps teams reuse service infrastructure instead o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 83/100 |
 | stars | 87/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # wolfSSL/wolfssl
 
-[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssl?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssl/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssl?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wolfSSL/wolfssl?style=flat-square&color=yellow)](https://github.com/wolfSSL/wolfssl/stargazers) [![Forks](https://img.shields.io/github/forks/wolfSSL/wolfssl?style=flat-square&color=blue)](https://github.com/wolfSSL/wolfssl/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.  wolfSSL supports up to TLS 1.3 and DTLS 1.3! Update to wolfSSL 5.9.1 for the latest CVE fixes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 971 |
 | 💻 **Language** | C |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wolfSSL/wolfssl：wolfSSL/wolfssl helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 74/100 |
 | stars | 73/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # freqtrade/freqtrade
 
-[![Stars](https://img.shields.io/github/stars/freqtrade/freqtrade?style=flat-square&color=yellow)](https://github.com/freqtrade/freqtrade/stargazers) [![Forks](https://img.shields.io/github/forks/freqtrade/freqtrade?style=flat-square&color=blue)](https://github.com/freqtrade/freqtrade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freqtrade/freqtrade?style=flat-square&color=yellow)](https://github.com/freqtrade/freqtrade/stargazers) [![Forks](https://img.shields.io/github/forks/freqtrade/freqtrade?style=flat-square&color=blue)](https://github.com/freqtrade/freqtrade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open source crypto trading bot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50k |
 | 🍴 **Forks** | 10.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ freqtrade/freqtrade：freqtrade/freqtrade helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

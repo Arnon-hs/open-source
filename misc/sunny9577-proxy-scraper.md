@@ -1,6 +1,6 @@
 # sunny9577/proxy-scraper
 
-[![Stars](https://img.shields.io/github/stars/sunny9577/proxy-scraper?style=flat-square&color=yellow)](https://github.com/sunny9577/proxy-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/sunny9577/proxy-scraper?style=flat-square&color=blue)](https://github.com/sunny9577/proxy-scraper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunny9577/proxy-scraper?style=flat-square&color=yellow)](https://github.com/sunny9577/proxy-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/sunny9577/proxy-scraper?style=flat-square&color=blue)](https://github.com/sunny9577/proxy-scraper/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ⭐️ A proxy scraper made using Protractor | Proxy list Updates every three hour 🔥
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sunny9577’s **proxy-scraper** is an open‑source tool built with Protractor t
 
 ### 中文
 
-sunny9577/proxy-scraper：sunny9577/proxy-scraper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sunny9577/proxy-scraper：sunny9577/proxy-scraper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sunny9577/proxy-scraper：sunny9577/proxy-scraper may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ sunny9577/proxy-scraper：sunny9577/proxy-scraper may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

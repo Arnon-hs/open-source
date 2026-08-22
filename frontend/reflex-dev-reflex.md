@@ -1,6 +1,6 @@
 # reflex-dev/reflex
 
-[![Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&color=yellow)](https://github.com/reflex-dev/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-dev/reflex?style=flat-square&color=blue)](https://github.com/reflex-dev/reflex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&color=yellow)](https://github.com/reflex-dev/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-dev/reflex?style=flat-square&color=blue)](https://github.com/reflex-dev/reflex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🕸️ Web apps in pure Python 🐍
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 28.6k |
+| ⭐ **Stars** | 28.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ Frontend · DevTools · Data
 
 ### English
 
-reflex-dev/reflex: reflex-dev/reflex helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+reflex-dev/reflex: reflex-dev/reflex helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-reflex-dev/reflex: open-source проект в категориях Frontend, DevTools, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+reflex-dev/reflex: open-source проект в категориях Frontend, DevTools, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-reflex-dev/reflex：reflex-dev/reflex helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+reflex-dev/reflex：reflex-dev/reflex helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ reflex-dev/reflex：reflex-dev/reflex helps ship user-facing interfaces with les
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 28642 GitHub stars
-- 1747 forks
-- updated 2026-07-13
+- 28386 GitHub stars
+- 1715 forks
+- updated 2026-05-07
 - primary language: Python
 - 11 topics
 
@@ -66,17 +66,17 @@ reflex-dev/reflex：reflex-dev/reflex helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 96/100 |
+| production | 56/100 |
+| outlook | 68/100 |
 | adoption | 91/100 |
 | stars | 95/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/reflex-dev/reflex) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/reflex-dev/reflex) · [← Back to Frontend](./README.md)</sub>

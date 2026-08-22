@@ -1,6 +1,6 @@
 # zsviczian/obsidian-excalidraw-plugin
 
-[![Stars](https://img.shields.io/github/stars/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=yellow)](https://github.com/zsviczian/obsidian-excalidraw-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=blue)](https://github.com/zsviczian/obsidian-excalidraw-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=yellow)](https://github.com/zsviczian/obsidian-excalidraw-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/zsviczian/obsidian-excalidraw-plugin?style=flat-square&color=blue)](https://github.com/zsviczian/obsidian-excalidraw-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin to edit and view Excalidraw drawings in Obsidian
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 435 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ zsviczian/obsidian-excalidraw-plugin：zsviczian/obsidian-excalidraw-plugin may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 77/100 |
 | stars | 82/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

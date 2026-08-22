@@ -1,6 +1,6 @@
 # kubernetes/k8s.io
 
-[![Stars](https://img.shields.io/github/stars/kubernetes/k8s.io?style=flat-square&color=yellow)](https://github.com/kubernetes/k8s.io/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/k8s.io?style=flat-square&color=blue)](https://github.com/kubernetes/k8s.io/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes/k8s.io?style=flat-square&color=yellow)](https://github.com/kubernetes/k8s.io/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes/k8s.io?style=flat-square&color=blue)](https://github.com/kubernetes/k8s.io/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 951 |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kubernetes/k8s.io — это открытый репозиторий, соде
 
 ### 中文
 
-kubernetes/k8s.io：kubernetes/k8s.io helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubernetes/k8s.io：kubernetes/k8s.io helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kubernetes/k8s.io：kubernetes/k8s.io helps make deployment and operations more 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kubernetes/k8s.io：kubernetes/k8s.io helps make deployment and operations more 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 67/100 |
 | stars | 63/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

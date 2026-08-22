@@ -1,6 +1,6 @@
 # CortexReach/memory-lancedb-pro
 
-[![Stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=flat-square&color=yellow)](https://github.com/CortexReach/memory-lancedb-pro/stargazers) [![Forks](https://img.shields.io/github/forks/CortexReach/memory-lancedb-pro?style=flat-square&color=blue)](https://github.com/CortexReach/memory-lancedb-pro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=flat-square&color=yellow)](https://github.com/CortexReach/memory-lancedb-pro/stargazers) [![Forks](https://img.shields.io/github/forks/CortexReach/memory-lancedb-pro?style=flat-square&color=blue)](https://github.com/CortexReach/memory-lancedb-pro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 719 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CortexReach/memory-lancedb-pro：CortexReach/memory-lancedb-pro helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 76/100 |
 | stars | 77/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

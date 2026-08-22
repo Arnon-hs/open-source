@@ -1,6 +1,6 @@
 # datawhalechina/easy-vibe
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vibe?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vibe/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vibe?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vibe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/easy-vibe?style=flat-square&color=yellow)](https://github.com/datawhalechina/easy-vibe/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/easy-vibe?style=flat-square&color=blue)](https://github.com/datawhalechina/easy-vibe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 872 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ datawhalechina/easy-vibe：datawhalechina/easy-vibe helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 65/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

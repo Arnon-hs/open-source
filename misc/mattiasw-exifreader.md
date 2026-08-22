@@ -1,6 +1,6 @@
 # mattiasw/ExifReader
 
-[![Stars](https://img.shields.io/github/stars/mattiasw/ExifReader?style=flat-square&color=yellow)](https://github.com/mattiasw/ExifReader/stargazers) [![Forks](https://img.shields.io/github/forks/mattiasw/ExifReader?style=flat-square&color=blue)](https://github.com/mattiasw/ExifReader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattiasw/ExifReader?style=flat-square&color=yellow)](https://github.com/mattiasw/ExifReader/stargazers) [![Forks](https://img.shields.io/github/forks/mattiasw/ExifReader?style=flat-square&color=blue)](https://github.com/mattiasw/ExifReader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript Exif info parser.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 976 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ mattiasw/ExifReader：mattiasw/ExifReader may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

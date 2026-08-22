@@ -1,6 +1,6 @@
 # affaan-m/everything-claude-code
 
-[![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&color=yellow)](https://github.com/affaan-m/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&color=blue)](https://github.com/affaan-m/everything-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&color=yellow)](https://github.com/affaan-m/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/affaan-m/everything-claude-code?style=flat-square&color=blue)](https://github.com/affaan-m/everything-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 176k |
 | 🍴 **Forks** | 27.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ affaan-m/everything-claude-code：affaan-m/everything-claude-code helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 70/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # dataelement/Clawith
 
-[![Stars](https://img.shields.io/github/stars/dataelement/Clawith?style=flat-square&color=yellow)](https://github.com/dataelement/Clawith/stargazers) [![Forks](https://img.shields.io/github/forks/dataelement/Clawith?style=flat-square&color=blue)](https://github.com/dataelement/Clawith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dataelement/Clawith?style=flat-square&color=yellow)](https://github.com/dataelement/Clawith/stargazers) [![Forks](https://img.shields.io/github/forks/dataelement/Clawith?style=flat-square&color=blue)](https://github.com/dataelement/Clawith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Your Agent Company
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 586 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dataelement/Clawith：dataelement/Clawith helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # beenuar/AiSOC
 
-[![Stars](https://img.shields.io/github/stars/beenuar/AiSOC?style=flat-square&color=yellow)](https://github.com/beenuar/AiSOC/stargazers) [![Forks](https://img.shields.io/github/forks/beenuar/AiSOC?style=flat-square&color=blue)](https://github.com/beenuar/AiSOC/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beenuar/AiSOC?style=flat-square&color=yellow)](https://github.com/beenuar/AiSOC/stargazers) [![Forks](https://img.shields.io/github/forks/beenuar/AiSOC?style=flat-square&color=blue)](https://github.com/beenuar/AiSOC/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ beenuar/AiSOC：beenuar/AiSOC helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 44/100 |
 | stars | 49/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

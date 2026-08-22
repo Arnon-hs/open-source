@@ -1,6 +1,6 @@
 # RealZST/HarnessKit
 
-[![Stars](https://img.shields.io/github/stars/RealZST/HarnessKit?style=flat-square&color=yellow)](https://github.com/RealZST/HarnessKit/stargazers) [![Forks](https://img.shields.io/github/forks/RealZST/HarnessKit?style=flat-square&color=blue)](https://github.com/RealZST/HarnessKit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RealZST/HarnessKit?style=flat-square&color=yellow)](https://github.com/RealZST/HarnessKit/stargazers) [![Forks](https://img.shields.io/github/forks/RealZST/HarnessKit?style=flat-square&color=blue)](https://github.com/RealZST/HarnessKit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > More than a skill manager — manage skills, MCP servers, plugins, hooks, CLIs, configs, memory & rules across every AI coding agent. 🌟 Star if you like it!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ RealZST/HarnessKit：RealZST/HarnessKit helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 65/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 50/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

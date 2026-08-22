@@ -1,6 +1,6 @@
 # tak-bro/aicommit2
 
-[![Stars](https://img.shields.io/github/stars/tak-bro/aicommit2?style=flat-square&color=yellow)](https://github.com/tak-bro/aicommit2/stargazers) [![Forks](https://img.shields.io/github/forks/tak-bro/aicommit2?style=flat-square&color=blue)](https://github.com/tak-bro/aicommit2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tak-bro/aicommit2?style=flat-square&color=yellow)](https://github.com/tak-bro/aicommit2/stargazers) [![Forks](https://img.shields.io/github/forks/tak-bro/aicommit2?style=flat-square&color=blue)](https://github.com/tak-bro/aicommit2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tak-bro/aicommit2：tak-bro/aicommit2 helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

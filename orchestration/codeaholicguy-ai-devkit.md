@@ -1,6 +1,6 @@
 # codeaholicguy/ai-devkit
 
-[![Stars](https://img.shields.io/github/stars/codeaholicguy/ai-devkit?style=flat-square&color=yellow)](https://github.com/codeaholicguy/ai-devkit/stargazers) [![Forks](https://img.shields.io/github/forks/codeaholicguy/ai-devkit?style=flat-square&color=blue)](https://github.com/codeaholicguy/ai-devkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codeaholicguy/ai-devkit?style=flat-square&color=yellow)](https://github.com/codeaholicguy/ai-devkit/stargazers) [![Forks](https://img.shields.io/github/forks/codeaholicguy/ai-devkit?style=flat-square&color=blue)](https://github.com/codeaholicguy/ai-devkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A universal CLI toolkit for AI agent skills, enabling structured AI-assisted development across tools like Cursor, Claude Code, Codex, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ codeaholicguy/ai-devkit：codeaholicguy/ai-devkit helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bitcart/bitcart
 
-[![Stars](https://img.shields.io/github/stars/bitcart/bitcart?style=flat-square&color=yellow)](https://github.com/bitcart/bitcart/stargazers) [![Forks](https://img.shields.io/github/forks/bitcart/bitcart?style=flat-square&color=blue)](https://github.com/bitcart/bitcart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitcart/bitcart?style=flat-square&color=yellow)](https://github.com/bitcart/bitcart/stargazers) [![Forks](https://img.shields.io/github/forks/bitcart/bitcart?style=flat-square&color=blue)](https://github.com/bitcart/bitcart/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcart is a free and open-source self-hosted payment processor for BTC, LTC, BCH, XMR, ETH, TRX, USDT and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 939 |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 94/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # omarshahine/HomeClaw
 
-[![Stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=flat-square&color=yellow)](https://github.com/omarshahine/HomeClaw/stargazers) [![Forks](https://img.shields.io/github/forks/omarshahine/HomeClaw?style=flat-square&color=blue)](https://github.com/omarshahine/HomeClaw/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=flat-square&color=yellow)](https://github.com/omarshahine/HomeClaw/stargazers) [![Forks](https://img.shields.io/github/forks/omarshahine/HomeClaw?style=flat-square&color=blue)](https://github.com/omarshahine/HomeClaw/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for Claude Desktop, Claude Code, and OpenClaw
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **omarshahine/HomeClaw** реализует упра�
 
 ### 中文
 
-omarshahine/HomeClaw：omarshahine/HomeClaw may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+omarshahine/HomeClaw：omarshahine/HomeClaw may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ omarshahine/HomeClaw：omarshahine/HomeClaw may be useful when its README and ac
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ omarshahine/HomeClaw：omarshahine/HomeClaw may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 39/100 |
 | stars | 43/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

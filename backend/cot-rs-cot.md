@@ -1,6 +1,6 @@
 # cot-rs/cot
 
-[![Stars](https://img.shields.io/github/stars/cot-rs/cot?style=flat-square&color=yellow)](https://github.com/cot-rs/cot/stargazers) [![Forks](https://img.shields.io/github/forks/cot-rs/cot?style=flat-square&color=blue)](https://github.com/cot-rs/cot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cot-rs/cot?style=flat-square&color=yellow)](https://github.com/cot-rs/cot/stargazers) [![Forks](https://img.shields.io/github/forks/cot-rs/cot?style=flat-square&color=blue)](https://github.com/cot-rs/cot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust web framework for lazy developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 928 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ cot‑rs/cot is a lightweight Rust web framework designed for developers who pre
 
 ### 中文
 
-cot-rs/cot：cot-rs/cot helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+cot-rs/cot：cot-rs/cot helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cot-rs/cot：cot-rs/cot helps teams reuse service infrastructure instead of rebu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cot-rs/cot：cot-rs/cot helps teams reuse service infrastructure instead of rebu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

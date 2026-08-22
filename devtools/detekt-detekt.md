@@ -1,6 +1,6 @@
 # detekt/detekt
 
-[![Stars](https://img.shields.io/github/stars/detekt/detekt?style=flat-square&color=yellow)](https://github.com/detekt/detekt/stargazers) [![Forks](https://img.shields.io/github/forks/detekt/detekt?style=flat-square&color=blue)](https://github.com/detekt/detekt/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/detekt/detekt?style=flat-square&color=yellow)](https://github.com/detekt/detekt/stargazers) [![Forks](https://img.shields.io/github/forks/detekt/detekt?style=flat-square&color=blue)](https://github.com/detekt/detekt/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Static code analysis for Kotlin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 834 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ detekt/detekt：detekt/detekt helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 79/100 |
 | stars | 82/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

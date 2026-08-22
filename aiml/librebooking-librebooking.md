@@ -1,6 +1,6 @@
 # LibreBooking/librebooking
 
-[![Stars](https://img.shields.io/github/stars/LibreBooking/librebooking?style=flat-square&color=yellow)](https://github.com/LibreBooking/librebooking/stargazers) [![Forks](https://img.shields.io/github/forks/LibreBooking/librebooking?style=flat-square&color=blue)](https://github.com/LibreBooking/librebooking/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LibreBooking/librebooking?style=flat-square&color=yellow)](https://github.com/LibreBooking/librebooking/stargazers) [![Forks](https://img.shields.io/github/forks/LibreBooking/librebooking?style=flat-square&color=blue)](https://github.com/LibreBooking/librebooking/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. The "develop" branch contains the latest code of the project.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 715 |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LibreBooking — это открытая система планировани
 
 ### 中文
 
-LibreBooking/librebooking：LibreBooking/librebooking helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+LibreBooking/librebooking：LibreBooking/librebooking helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ LibreBooking/librebooking：LibreBooking/librebooking helps add AI capability wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ LibreBooking/librebooking：LibreBooking/librebooking helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

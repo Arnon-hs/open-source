@@ -1,6 +1,6 @@
 # OpenGithubs/github-daily-rank
 
-[![Stars](https://img.shields.io/github/stars/OpenGithubs/github-daily-rank?style=flat-square&color=yellow)](https://github.com/OpenGithubs/github-daily-rank/stargazers) [![Forks](https://img.shields.io/github/forks/OpenGithubs/github-daily-rank?style=flat-square&color=blue)](https://github.com/OpenGithubs/github-daily-rank/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenGithubs/github-daily-rank?style=flat-square&color=yellow)](https://github.com/OpenGithubs/github-daily-rank/stargazers) [![Forks](https://img.shields.io/github/forks/OpenGithubs/github-daily-rank?style=flat-square&color=blue)](https://github.com/OpenGithubs/github-daily-rank/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Github开源项目:每天📈飙升榜 top10,每天早上8:30更新
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 916 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ The OpenGithubs/github-daily-rank project is an open-source initiative that trac
 
 ### 中文
 
-OpenGithubs/github-daily-rank：OpenGithubs/github-daily-rank helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OpenGithubs/github-daily-rank：OpenGithubs/github-daily-rank helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ OpenGithubs/github-daily-rank：OpenGithubs/github-daily-rank helps add AI capab
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -69,14 +69,14 @@ OpenGithubs/github-daily-rank：OpenGithubs/github-daily-rank helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

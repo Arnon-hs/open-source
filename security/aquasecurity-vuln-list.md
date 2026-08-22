@@ -1,6 +1,6 @@
 # aquasecurity/vuln-list
 
-[![Stars](https://img.shields.io/github/stars/aquasecurity/vuln-list?style=flat-square&color=yellow)](https://github.com/aquasecurity/vuln-list/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/vuln-list?style=flat-square&color=blue)](https://github.com/aquasecurity/vuln-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquasecurity/vuln-list?style=flat-square&color=yellow)](https://github.com/aquasecurity/vuln-list/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/vuln-list?style=flat-square&color=blue)](https://github.com/aquasecurity/vuln-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > NVD, Ubuntu, Alpine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -57,21 +57,21 @@ aquasecurity/vuln-list：aquasecurity/vuln-list helps catch security and privacy
 - 40 forks
 - updated 2026-05-10
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 42/100 |
+| outlook | 38/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

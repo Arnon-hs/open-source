@@ -1,6 +1,6 @@
 # apache/incubator-graphar
 
-[![Stars](https://img.shields.io/github/stars/apache/incubator-graphar?style=flat-square&color=yellow)](https://github.com/apache/incubator-graphar/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-graphar?style=flat-square&color=blue)](https://github.com/apache/incubator-graphar/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/incubator-graphar?style=flat-square&color=yellow)](https://github.com/apache/incubator-graphar/stargazers) [![Forks](https://img.shields.io/github/forks/apache/incubator-graphar?style=flat-square&color=blue)](https://github.com/apache/incubator-graphar/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An open source, standard data file format for graph data storage and retrieval.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 355 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML · Data
 
 ### English
 
-apache/incubator-graphar: apache/incubator-graphar helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/incubator-graphar: apache/incubator-graphar helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-apache/incubator-graphar: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+apache/incubator-graphar: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-apache/incubator-graphar：apache/incubator-graphar helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/incubator-graphar：apache/incubator-graphar helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ apache/incubator-graphar：apache/incubator-graphar helps turn isolated prompts 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ apache/incubator-graphar：apache/incubator-graphar helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 47/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 54/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

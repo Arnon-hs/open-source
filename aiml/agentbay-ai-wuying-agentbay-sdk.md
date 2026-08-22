@@ -1,6 +1,6 @@
 # agentbay-ai/wuying-agentbay-sdk
 
-[![Stars](https://img.shields.io/github/stars/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=yellow)](https://github.com/agentbay-ai/wuying-agentbay-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=blue)](https://github.com/agentbay-ai/wuying-agentbay-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=yellow)](https://github.com/agentbay-ai/wuying-agentbay-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/agentbay-ai/wuying-agentbay-sdk?style=flat-square&color=blue)](https://github.com/agentbay-ai/wuying-agentbay-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The Cloud Sandbox Built for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 65/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

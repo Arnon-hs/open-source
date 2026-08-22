@@ -1,6 +1,6 @@
 # ulsklyc/oikos
 
-[![Stars](https://img.shields.io/github/stars/ulsklyc/oikos?style=flat-square&color=yellow)](https://github.com/ulsklyc/oikos/stargazers) [![Forks](https://img.shields.io/github/forks/ulsklyc/oikos?style=flat-square&color=blue)](https://github.com/ulsklyc/oikos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ulsklyc/oikos?style=flat-square&color=yellow)](https://github.com/ulsklyc/oikos/stargazers) [![Forks](https://img.shields.io/github/forks/ulsklyc/oikos?style=flat-square&color=blue)](https://github.com/ulsklyc/oikos/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 507 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ulsklyc/oikos — это полностью self‑hosted планировщи
 
 ### 中文
 
-ulsklyc/oikos：ulsklyc/oikos helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ulsklyc/oikos：ulsklyc/oikos helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ulsklyc/oikos：ulsklyc/oikos helps teams reuse service infrastructure instead o
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ulsklyc/oikos：ulsklyc/oikos helps teams reuse service infrastructure instead o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

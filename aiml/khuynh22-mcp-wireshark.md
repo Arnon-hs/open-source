@@ -1,6 +1,6 @@
 # khuynh22/mcp-wireshark
 
-[![Stars](https://img.shields.io/github/stars/khuynh22/mcp-wireshark?style=flat-square&color=yellow)](https://github.com/khuynh22/mcp-wireshark/stargazers) [![Forks](https://img.shields.io/github/forks/khuynh22/mcp-wireshark?style=flat-square&color=blue)](https://github.com/khuynh22/mcp-wireshark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khuynh22/mcp-wireshark?style=flat-square&color=yellow)](https://github.com/khuynh22/mcp-wireshark/stargazers) [![Forks](https://img.shields.io/github/forks/khuynh22/mcp-wireshark?style=flat-square&color=blue)](https://github.com/khuynh22/mcp-wireshark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that integrates Wireshark/tshark with AI tools and IDEs. Capture live traffic, parse .pcap files, apply display filters, follow streams, and export JSON - all via Claude Desktop, VS Code, or CLI. Cross‑platform, typed, tested, and pip‑installable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ khuynh22/mcp-wireshark：khuynh22/mcp-wireshark helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # OpenDreamProject/OpenDream
 
-[![Stars](https://img.shields.io/github/stars/OpenDreamProject/OpenDream?style=flat-square&color=yellow)](https://github.com/OpenDreamProject/OpenDream/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDreamProject/OpenDream?style=flat-square&color=blue)](https://github.com/OpenDreamProject/OpenDream/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenDreamProject/OpenDream?style=flat-square&color=yellow)](https://github.com/OpenDreamProject/OpenDream/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDreamProject/OpenDream?style=flat-square&color=blue)](https://github.com/OpenDreamProject/OpenDream/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A project for running games made in the DM programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ OpenDreamProject/OpenDream：OpenDreamProject/OpenDream may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 52/100 |
 | stars | 51/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

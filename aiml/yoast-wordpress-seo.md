@@ -1,6 +1,6 @@
 # Yoast/wordpress-seo
 
-[![Stars](https://img.shields.io/github/stars/Yoast/wordpress-seo?style=flat-square&color=yellow)](https://github.com/Yoast/wordpress-seo/stargazers) [![Forks](https://img.shields.io/github/forks/Yoast/wordpress-seo?style=flat-square&color=blue)](https://github.com/Yoast/wordpress-seo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yoast/wordpress-seo?style=flat-square&color=yellow)](https://github.com/Yoast/wordpress-seo/stargazers) [![Forks](https://img.shields.io/github/forks/Yoast/wordpress-seo?style=flat-square&color=blue)](https://github.com/Yoast/wordpress-seo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Yoast SEO for WordPress
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 953 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Yoast/wordpress-seo：Yoast/wordpress-seo helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 71/100 |
 | stars | 70/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

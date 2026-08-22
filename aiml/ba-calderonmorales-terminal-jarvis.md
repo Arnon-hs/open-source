@@ -1,6 +1,6 @@
 # BA-CalderonMorales/terminal-jarvis
 
-[![Stars](https://img.shields.io/github/stars/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=yellow)](https://github.com/BA-CalderonMorales/terminal-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=blue)](https://github.com/BA-CalderonMorales/terminal-jarvis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=yellow)](https://github.com/BA-CalderonMorales/terminal-jarvis/stargazers) [![Forks](https://img.shields.io/github/forks/BA-CalderonMorales/terminal-jarvis?style=flat-square&color=blue)](https://github.com/BA-CalderonMorales/terminal-jarvis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > In the midst of all the tools out there that you can possibly use to keep track of them. Here's a "shovel" that just works to try them all out.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ BA-CalderonMorales/terminal-jarvis：BA-CalderonMorales/terminal-jarvis helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

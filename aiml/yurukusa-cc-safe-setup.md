@@ -1,6 +1,6 @@
 # yurukusa/cc-safe-setup
 
-[![Stars](https://img.shields.io/github/stars/yurukusa/cc-safe-setup?style=flat-square&color=yellow)](https://github.com/yurukusa/cc-safe-setup/stargazers) [![Forks](https://img.shields.io/github/forks/yurukusa/cc-safe-setup?style=flat-square&color=blue)](https://github.com/yurukusa/cc-safe-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yurukusa/cc-safe-setup?style=flat-square&color=yellow)](https://github.com/yurukusa/cc-safe-setup/stargazers) [![Forks](https://img.shields.io/github/forks/yurukusa/cc-safe-setup?style=flat-square&color=blue)](https://github.com/yurukusa/cc-safe-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deployments. 715 example hooks, 9,200+ tests, 30K+ installs — built from 800+ hours of real autonomous CC operation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ yurukusa/cc-safe-setup provides a single‑command solution that hardens Claude 
 
 ### 中文
 
-yurukusa/cc-safe-setup：yurukusa/cc-safe-setup helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yurukusa/cc-safe-setup：yurukusa/cc-safe-setup helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yurukusa/cc-safe-setup：yurukusa/cc-safe-setup helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yurukusa/cc-safe-setup：yurukusa/cc-safe-setup helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 60/100 |
+| production | 47/100 |
+| outlook | 53/100 |
 | adoption | 23/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

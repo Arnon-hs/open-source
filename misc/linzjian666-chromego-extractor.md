@@ -1,6 +1,6 @@
 # linzjian666/chromego_extractor
 
-[![Stars](https://img.shields.io/github/stars/linzjian666/chromego_extractor?style=flat-square&color=yellow)](https://github.com/linzjian666/chromego_extractor/stargazers) [![Forks](https://img.shields.io/github/forks/linzjian666/chromego_extractor?style=flat-square&color=blue)](https://github.com/linzjian666/chromego_extractor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linzjian666/chromego_extractor?style=flat-square&color=yellow)](https://github.com/linzjian666/chromego_extractor/stargazers) [![Forks](https://img.shields.io/github/forks/linzjian666/chromego_extractor?style=flat-square&color=blue)](https://github.com/linzjian666/chromego_extractor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ linzjian666/chromego_extractor：linzjian666/chromego_extractor may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 50/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

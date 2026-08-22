@@ -1,6 +1,6 @@
 # pimcore/pimcore
 
-[![Stars](https://img.shields.io/github/stars/pimcore/pimcore?style=flat-square&color=yellow)](https://github.com/pimcore/pimcore/stargazers) [![Forks](https://img.shields.io/github/forks/pimcore/pimcore?style=flat-square&color=blue)](https://github.com/pimcore/pimcore/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pimcore/pimcore?style=flat-square&color=yellow)](https://github.com/pimcore/pimcore/stargazers) [![Forks](https://img.shields.io/github/forks/pimcore/pimcore?style=flat-square&color=blue)](https://github.com/pimcore/pimcore/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pimcore/pimcore：pimcore/pimcore helps convert raw data into searchable, analyz
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 77/100 |
 | stars | 76/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

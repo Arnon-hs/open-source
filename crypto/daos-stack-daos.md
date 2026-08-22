@@ -1,6 +1,6 @@
 # daos-stack/daos
 
-[![Stars](https://img.shields.io/github/stars/daos-stack/daos?style=flat-square&color=yellow)](https://github.com/daos-stack/daos/stargazers) [![Forks](https://img.shields.io/github/forks/daos-stack/daos?style=flat-square&color=blue)](https://github.com/daos-stack/daos/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daos-stack/daos?style=flat-square&color=yellow)](https://github.com/daos-stack/daos/stargazers) [![Forks](https://img.shields.io/github/forks/daos-stack/daos?style=flat-square&color=blue)](https://github.com/daos-stack/daos/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > DAOS Storage Stack (client libraries, storage engine, control plane)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 935 |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ daos-stack/daos：daos-stack/daos helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 63/100 |
 | stars | 63/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

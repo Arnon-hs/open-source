@@ -1,6 +1,6 @@
 # MicrosoftDocs/Agent-Skills
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/Agent-Skills?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/Agent-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/Agent-Skills?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/Agent-Skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/Agent-Skills?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/Agent-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/Agent-Skills?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/Agent-Skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MicrosoftDocs/Agent‑Skills — это набор тщательно отоб
 
 ### 中文
 
-MicrosoftDocs/Agent-Skills：MicrosoftDocs/Agent-Skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MicrosoftDocs/Agent-Skills：MicrosoftDocs/Agent-Skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MicrosoftDocs/Agent-Skills：MicrosoftDocs/Agent-Skills helps turn isolated prom
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ MicrosoftDocs/Agent-Skills：MicrosoftDocs/Agent-Skills helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

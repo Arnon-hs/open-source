@@ -1,6 +1,6 @@
 # knative/client
 
-[![Stars](https://img.shields.io/github/stars/knative/client?style=flat-square&color=yellow)](https://github.com/knative/client/stargazers) [![Forks](https://img.shields.io/github/forks/knative/client?style=flat-square&color=blue)](https://github.com/knative/client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knative/client?style=flat-square&color=yellow)](https://github.com/knative/client/stargazers) [![Forks](https://img.shields.io/github/forks/knative/client?style=flat-square&color=blue)](https://github.com/knative/client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Knative developer experience, docs, reference Knative CLI implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ knative/client：knative/client helps teams reuse service infrastructure instead
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 57/100 |
 | stars | 55/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

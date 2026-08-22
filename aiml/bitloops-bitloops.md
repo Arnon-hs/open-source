@@ -1,6 +1,6 @@
 # bitloops/bitloops
 
-[![Stars](https://img.shields.io/github/stars/bitloops/bitloops?style=flat-square&color=yellow)](https://github.com/bitloops/bitloops/stargazers) [![Forks](https://img.shields.io/github/forks/bitloops/bitloops?style=flat-square&color=blue)](https://github.com/bitloops/bitloops/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitloops/bitloops?style=flat-square&color=yellow)](https://github.com/bitloops/bitloops/stargazers) [![Forks](https://img.shields.io/github/forks/bitloops/bitloops?style=flat-square&color=blue)](https://github.com/bitloops/bitloops/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source intelligence layer for AI native development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Bitloops — это открытая платформа, предоставл�
 
 ### 中文
 
-bitloops/bitloops：bitloops/bitloops helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bitloops/bitloops：bitloops/bitloops helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bitloops/bitloops：bitloops/bitloops helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bitloops/bitloops：bitloops/bitloops helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 61/100 |
+| production | 47/100 |
+| outlook | 54/100 |
 | adoption | 37/100 |
 | stars | 43/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

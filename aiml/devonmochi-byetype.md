@@ -1,6 +1,6 @@
 # devonmochi/byetype
 
-[![Stars](https://img.shields.io/github/stars/devonmochi/byetype?style=flat-square&color=yellow)](https://github.com/devonmochi/byetype/stargazers) [![Forks](https://img.shields.io/github/forks/devonmochi/byetype?style=flat-square&color=blue)](https://github.com/devonmochi/byetype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devonmochi/byetype?style=flat-square&color=yellow)](https://github.com/devonmochi/byetype/stargazers) [![Forks](https://img.shields.io/github/forks/devonmochi/byetype?style=flat-square&color=blue)](https://github.com/devonmochi/byetype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ByeType 是一个 Markdown 驱动的 AI 语音输入工具，用多模态大模型直接处理原始音频（使用自己的APIKEY），编辑 Markdown 文件即可自定义专有词汇、转录规则和格式化策略，人名、术语、口水词、数字格式一次转录到位，减少二次修改。支持 macOS、Windows 和 iOS。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 226 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ devonmochi/byetype：devonmochi/byetype helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 46/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 43/100 |
+| outlook | 39/100 |
 | adoption | 43/100 |
 | stars | 50/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

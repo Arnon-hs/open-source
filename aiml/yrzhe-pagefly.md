@@ -1,6 +1,6 @@
 # Yrzhe/pagefly
 
-[![Stars](https://img.shields.io/github/stars/Yrzhe/pagefly?style=flat-square&color=yellow)](https://github.com/Yrzhe/pagefly/stargazers) [![Forks](https://img.shields.io/github/forks/Yrzhe/pagefly?style=flat-square&color=blue)](https://github.com/Yrzhe/pagefly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yrzhe/pagefly?style=flat-square&color=yellow)](https://github.com/Yrzhe/pagefly/stargazers) [![Forks](https://img.shields.io/github/forks/Yrzhe/pagefly?style=flat-square&color=blue)](https://github.com/Yrzhe/pagefly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Personal Knowledge OS — Capture → Distill → Compile → Serve. Self-hosted knowledge data platform with AI agents, Telegram bot, and REST API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Yrzhe/pagefly — это открытая self‑hosted платформа д�
 
 ### 中文
 
-Yrzhe/pagefly：Yrzhe/pagefly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Yrzhe/pagefly：Yrzhe/pagefly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Yrzhe/pagefly：Yrzhe/pagefly helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Yrzhe/pagefly：Yrzhe/pagefly helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 48/100 |
+| outlook | 53/100 |
 | adoption | 32/100 |
 | stars | 38/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

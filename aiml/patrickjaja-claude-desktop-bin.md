@@ -1,6 +1,6 @@
 # patrickjaja/claude-desktop-bin
 
-[![Stars](https://img.shields.io/github/stars/patrickjaja/claude-desktop-bin?style=flat-square&color=yellow)](https://github.com/patrickjaja/claude-desktop-bin/stargazers) [![Forks](https://img.shields.io/github/forks/patrickjaja/claude-desktop-bin?style=flat-square&color=blue)](https://github.com/patrickjaja/claude-desktop-bin/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patrickjaja/claude-desktop-bin?style=flat-square&color=yellow)](https://github.com/patrickjaja/claude-desktop-bin/stargazers) [![Forks](https://img.shields.io/github/forks/patrickjaja/claude-desktop-bin?style=flat-square&color=blue)](https://github.com/patrickjaja/claude-desktop-bin/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Linux packages for Claude Desktop AI assistant with automated updates.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Nim |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-patrickjaja/claude-desktop-bin: patrickjaja/claude-desktop-bin helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+patrickjaja/claude-desktop-bin: patrickjaja/claude-desktop-bin helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-patrickjaja/claude-desktop-bin: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+patrickjaja/claude-desktop-bin: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-patrickjaja/claude-desktop-bin：patrickjaja/claude-desktop-bin helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+patrickjaja/claude-desktop-bin：patrickjaja/claude-desktop-bin helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ patrickjaja/claude-desktop-bin：patrickjaja/claude-desktop-bin helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ patrickjaja/claude-desktop-bin：patrickjaja/claude-desktop-bin helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 46/100 |
+| outlook | 47/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tinyfatco/troublemaker
 
-[![Stars](https://img.shields.io/github/stars/tinyfatco/troublemaker?style=flat-square&color=yellow)](https://github.com/tinyfatco/troublemaker/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfatco/troublemaker?style=flat-square&color=blue)](https://github.com/tinyfatco/troublemaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyfatco/troublemaker?style=flat-square&color=yellow)](https://github.com/tinyfatco/troublemaker/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfatco/troublemaker?style=flat-square&color=blue)](https://github.com/tinyfatco/troublemaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Mom, liberated. Multi-platform AI agent runtime.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tinyfatco/troublemaker：tinyfatco/troublemaker helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
+| production | 40/100 |
+| outlook | 35/100 |
 | adoption | 26/100 |
 | stars | 36/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

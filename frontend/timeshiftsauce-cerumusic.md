@@ -1,6 +1,6 @@
 # timeshiftsauce/CeruMusic
 
-[![Stars](https://img.shields.io/github/stars/timeshiftsauce/CeruMusic?style=flat-square&color=yellow)](https://github.com/timeshiftsauce/CeruMusic/stargazers) [![Forks](https://img.shields.io/github/forks/timeshiftsauce/CeruMusic?style=flat-square&color=blue)](https://github.com/timeshiftsauce/CeruMusic/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timeshiftsauce/CeruMusic?style=flat-square&color=yellow)](https://github.com/timeshiftsauce/CeruMusic/stargazers) [![Forks](https://img.shields.io/github/forks/timeshiftsauce/CeruMusic?style=flat-square&color=blue)](https://github.com/timeshiftsauce/CeruMusic/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、安装合规插件获取音乐相关数据，项目旨在为开发者提供桌面应用技术实践与学习案例，为用户提供合规的音乐播放工具框架。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ceru Music — кросс‑платформенный настольный п
 
 ### 中文
 
-timeshiftsauce/CeruMusic：timeshiftsauce/CeruMusic helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+timeshiftsauce/CeruMusic：timeshiftsauce/CeruMusic helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ timeshiftsauce/CeruMusic：timeshiftsauce/CeruMusic helps ship user-facing inter
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ timeshiftsauce/CeruMusic：timeshiftsauce/CeruMusic helps ship user-facing inter
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 62/100 |
 | stars | 68/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

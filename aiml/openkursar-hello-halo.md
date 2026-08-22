@@ -1,6 +1,6 @@
 # openkursar/hello-halo
 
-[![Stars](https://img.shields.io/github/stars/openkursar/hello-halo?style=flat-square&color=yellow)](https://github.com/openkursar/hello-halo/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar/hello-halo?style=flat-square&color=blue)](https://github.com/openkursar/hello-halo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openkursar/hello-halo?style=flat-square&color=yellow)](https://github.com/openkursar/hello-halo/stargazers) [![Forks](https://img.shields.io/github/forks/openkursar/hello-halo?style=flat-square&color=blue)](https://github.com/openkursar/hello-halo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Openkursar/hello-halo — это 24/7 Desktop AI‑агент, предост�
 
 ### 中文
 
-openkursar/hello-halo：openkursar/hello-halo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+openkursar/hello-halo：openkursar/hello-halo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openkursar/hello-halo：openkursar/hello-halo helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ openkursar/hello-halo：openkursar/hello-halo helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

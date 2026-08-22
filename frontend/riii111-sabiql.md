@@ -1,6 +1,6 @@
 # riii111/sabiql
 
-[![Stars](https://img.shields.io/github/stars/riii111/sabiql?style=flat-square&color=yellow)](https://github.com/riii111/sabiql/stargazers) [![Forks](https://img.shields.io/github/forks/riii111/sabiql?style=flat-square&color=blue)](https://github.com/riii111/sabiql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riii111/sabiql?style=flat-square&color=yellow)](https://github.com/riii111/sabiql/stargazers) [![Forks](https://img.shields.io/github/forks/riii111/sabiql?style=flat-square&color=blue)](https://github.com/riii111/sabiql/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A fast PostgreSQL TUI written in Rust — driver-less, vim-first, with ER diagrams. No database drivers, no setup, just psql
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ riii111/sabiql：riii111/sabiql helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

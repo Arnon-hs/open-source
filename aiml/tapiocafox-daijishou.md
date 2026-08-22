@@ -1,6 +1,6 @@
 # TapiocaFox/Daijishou
 
-[![Stars](https://img.shields.io/github/stars/TapiocaFox/Daijishou?style=flat-square&color=yellow)](https://github.com/TapiocaFox/Daijishou/stargazers) [![Forks](https://img.shields.io/github/forks/TapiocaFox/Daijishou?style=flat-square&color=blue)](https://github.com/TapiocaFox/Daijishou/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TapiocaFox/Daijishou?style=flat-square&color=yellow)](https://github.com/TapiocaFox/Daijishou/stargazers) [![Forks](https://img.shields.io/github/forks/TapiocaFox/Daijishou?style=flat-square&color=blue)](https://github.com/TapiocaFox/Daijishou/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TapiocaFox/Daijishou：TapiocaFox/Daijishou helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

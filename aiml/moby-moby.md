@@ -1,6 +1,6 @@
 # moby/moby
 
-[![Stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&color=yellow)](https://github.com/moby/moby/stargazers) [![Forks](https://img.shields.io/github/forks/moby/moby?style=flat-square&color=blue)](https://github.com/moby/moby/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&color=yellow)](https://github.com/moby/moby/stargazers) [![Forks](https://img.shields.io/github/forks/moby/moby?style=flat-square&color=blue)](https://github.com/moby/moby/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71.5k |
 | 🍴 **Forks** | 18.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ moby/moby：moby/moby helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ArchipelagoMW/Archipelago
 
-[![Stars](https://img.shields.io/github/stars/ArchipelagoMW/Archipelago?style=flat-square&color=yellow)](https://github.com/ArchipelagoMW/Archipelago/stargazers) [![Forks](https://img.shields.io/github/forks/ArchipelagoMW/Archipelago?style=flat-square&color=blue)](https://github.com/ArchipelagoMW/Archipelago/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArchipelagoMW/Archipelago?style=flat-square&color=yellow)](https://github.com/ArchipelagoMW/Archipelago/stargazers) [![Forks](https://img.shields.io/github/forks/ArchipelagoMW/Archipelago?style=flat-square&color=blue)](https://github.com/ArchipelagoMW/Archipelago/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Archipelago Multi-Game Randomizer and Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ArchipelagoMW/Archipelago：ArchipelagoMW/Archipelago helps teams reuse service 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 53/100 |
+| outlook | 51/100 |
 | adoption | 71/100 |
 | stars | 67/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

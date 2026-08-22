@@ -1,6 +1,6 @@
 # BlockRunAI/Franklin
 
-[![Stars](https://img.shields.io/github/stars/BlockRunAI/Franklin?style=flat-square&color=yellow)](https://github.com/BlockRunAI/Franklin/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/Franklin?style=flat-square&color=blue)](https://github.com/BlockRunAI/Franklin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlockRunAI/Franklin?style=flat-square&color=yellow)](https://github.com/BlockRunAI/Franklin/stargazers) [![Forks](https://img.shields.io/github/forks/BlockRunAI/Franklin?style=flat-square&color=blue)](https://github.com/BlockRunAI/Franklin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto · Payments · Trading
 
 ### English
 
-BlockRunAI/Franklin: BlockRunAI/Franklin helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BlockRunAI/Franklin: BlockRunAI/Franklin helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-BlockRunAI/Franklin: open-source проект в категориях Crypto, Payments, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BlockRunAI/Franklin: open-source проект в категориях Crypto, Payments, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-BlockRunAI/Franklin：BlockRunAI/Franklin helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BlockRunAI/Franklin：BlockRunAI/Franklin helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BlockRunAI/Franklin：BlockRunAI/Franklin helps prototype or inspect blockchain 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ BlockRunAI/Franklin：BlockRunAI/Franklin helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 59/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

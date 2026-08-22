@@ -1,6 +1,6 @@
 # baz-scm/awesome-reviewers
 
-[![Stars](https://img.shields.io/github/stars/baz-scm/awesome-reviewers?style=flat-square&color=yellow)](https://github.com/baz-scm/awesome-reviewers/stargazers) [![Forks](https://img.shields.io/github/forks/baz-scm/awesome-reviewers?style=flat-square&color=blue)](https://github.com/baz-scm/awesome-reviewers/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baz-scm/awesome-reviewers?style=flat-square&color=yellow)](https://github.com/baz-scm/awesome-reviewers/stargazers) [![Forks](https://img.shields.io/github/forks/baz-scm/awesome-reviewers?style=flat-square&color=blue)](https://github.com/baz-scm/awesome-reviewers/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Ready-to-use system prompts for Agentic Code Review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Frontend
 
 ### 中文
 
-baz-scm/awesome-reviewers：baz-scm/awesome-reviewers helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+baz-scm/awesome-reviewers：baz-scm/awesome-reviewers helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ baz-scm/awesome-reviewers：baz-scm/awesome-reviewers helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ baz-scm/awesome-reviewers：baz-scm/awesome-reviewers helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
+| production | 45/100 |
+| outlook | 49/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

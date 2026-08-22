@@ -1,6 +1,6 @@
 # AlexsJones/llmfit
 
-[![Stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=flat-square&color=yellow)](https://github.com/AlexsJones/llmfit/stargazers) [![Forks](https://img.shields.io/github/forks/AlexsJones/llmfit?style=flat-square&color=blue)](https://github.com/AlexsJones/llmfit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=flat-square&color=yellow)](https://github.com/AlexsJones/llmfit/stargazers) [![Forks](https://img.shields.io/github/forks/AlexsJones/llmfit?style=flat-square&color=blue)](https://github.com/AlexsJones/llmfit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Hundreds of models & providers. One command to find what runs on your hardware.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AlexsJones/llmfit：AlexsJones/llmfit helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 90/100 |
 | stars | 94/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

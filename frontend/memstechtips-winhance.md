@@ -1,6 +1,6 @@
 # memstechtips/Winhance
 
-[![Stars](https://img.shields.io/github/stars/memstechtips/Winhance?style=flat-square&color=yellow)](https://github.com/memstechtips/Winhance/stargazers) [![Forks](https://img.shields.io/github/forks/memstechtips/Winhance?style=flat-square&color=blue)](https://github.com/memstechtips/Winhance/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memstechtips/Winhance?style=flat-square&color=yellow)](https://github.com/memstechtips/Winhance/stargazers) [![Forks](https://img.shields.io/github/forks/memstechtips/Winhance?style=flat-square&color=blue)](https://github.com/memstechtips/Winhance/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Application designed to optimize, customize and enhance your Windows experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 492 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ memstechtips/Winhance：memstechtips/Winhance helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 80/100 |
 | stars | 85/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

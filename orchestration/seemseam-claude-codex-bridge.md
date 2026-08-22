@@ -1,6 +1,6 @@
 # SeemSeam/claude_codex_bridge
 
-[![Stars](https://img.shields.io/github/stars/SeemSeam/claude_codex_bridge?style=flat-square&color=yellow)](https://github.com/SeemSeam/claude_codex_bridge/stargazers) [![Forks](https://img.shields.io/github/forks/SeemSeam/claude_codex_bridge?style=flat-square&color=blue)](https://github.com/SeemSeam/claude_codex_bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SeemSeam/claude_codex_bridge?style=flat-square&color=yellow)](https://github.com/SeemSeam/claude_codex_bridge/stargazers) [![Forks](https://img.shields.io/github/forks/SeemSeam/claude_codex_bridge?style=flat-square&color=blue)](https://github.com/SeemSeam/claude_codex_bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SeemSeam/claude_codex_bridge：SeemSeam/claude_codex_bridge helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

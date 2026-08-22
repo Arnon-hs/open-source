@@ -1,6 +1,6 @@
 # warpstreamlabs/bento
 
-[![Stars](https://img.shields.io/github/stars/warpstreamlabs/bento?style=flat-square&color=yellow)](https://github.com/warpstreamlabs/bento/stargazers) [![Forks](https://img.shields.io/github/forks/warpstreamlabs/bento?style=flat-square&color=blue)](https://github.com/warpstreamlabs/bento/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warpstreamlabs/bento?style=flat-square&color=yellow)](https://github.com/warpstreamlabs/bento/stargazers) [![Forks](https://img.shields.io/github/forks/warpstreamlabs/bento?style=flat-square&color=blue)](https://github.com/warpstreamlabs/bento/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ warpstreamlabs/bento：warpstreamlabs/bento helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

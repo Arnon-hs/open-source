@@ -1,6 +1,6 @@
 # kortix-ai/suna
 
-[![Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=flat-square&color=yellow)](https://github.com/kortix-ai/suna/stargazers) [![Forks](https://img.shields.io/github/forks/kortix-ai/suna?style=flat-square&color=blue)](https://github.com/kortix-ai/suna/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kortix-ai/suna?style=flat-square&color=yellow)](https://github.com/kortix-ai/suna/stargazers) [![Forks](https://img.shields.io/github/forks/kortix-ai/suna?style=flat-square&color=blue)](https://github.com/kortix-ai/suna/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The Autonomous Company Operating System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.7k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kortix-ai/suna：kortix-ai/suna helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 91/100 |
 | stars | 91/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

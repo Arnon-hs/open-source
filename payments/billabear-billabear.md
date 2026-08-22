@@ -1,6 +1,6 @@
 # billabear/billabear
 
-[![Stars](https://img.shields.io/github/stars/billabear/billabear?style=flat-square&color=yellow)](https://github.com/billabear/billabear/stargazers) [![Forks](https://img.shields.io/github/forks/billabear/billabear?style=flat-square&color=blue)](https://github.com/billabear/billabear/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/billabear/billabear?style=flat-square&color=yellow)](https://github.com/billabear/billabear/stargazers) [![Forks](https://img.shields.io/github/forks/billabear/billabear?style=flat-square&color=blue)](https://github.com/billabear/billabear/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Subscription Management and Billing System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 746 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ billabear/billabear：billabear/billabear helps integrate monetization, billing,
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # hyprwm/Hyprland
 
-[![Stars](https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&color=yellow)](https://github.com/hyprwm/Hyprland/stargazers) [![Forks](https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&color=blue)](https://github.com/hyprwm/Hyprland/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyprwm/Hyprland?style=flat-square&color=yellow)](https://github.com/hyprwm/Hyprland/stargazers) [![Forks](https://img.shields.io/github/forks/hyprwm/Hyprland?style=flat-square&color=blue)](https://github.com/hyprwm/Hyprland/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hyprwm/Hyprland：hyprwm/Hyprland may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 92/100 |
 | stars | 97/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

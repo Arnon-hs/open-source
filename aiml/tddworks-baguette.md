@@ -1,6 +1,6 @@
 # tddworks/baguette
 
-[![Stars](https://img.shields.io/github/stars/tddworks/baguette?style=flat-square&color=yellow)](https://github.com/tddworks/baguette/stargazers) [![Forks](https://img.shields.io/github/forks/tddworks/baguette?style=flat-square&color=blue)](https://github.com/tddworks/baguette/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tddworks/baguette?style=flat-square&color=yellow)](https://github.com/tddworks/baguette/stargazers) [![Forks](https://img.shields.io/github/forks/tddworks/baguette?style=flat-square&color=blue)](https://github.com/tddworks/baguette/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 740 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tddworks/baguette — это полностью открытый, headless‑�
 
 ### 中文
 
-tddworks/baguette：tddworks/baguette helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tddworks/baguette：tddworks/baguette helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tddworks/baguette：tddworks/baguette helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ tddworks/baguette：tddworks/baguette helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 54/100 |
 | stars | 61/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # tournesol-app/tournesol
 
-[![Stars](https://img.shields.io/github/stars/tournesol-app/tournesol?style=flat-square&color=yellow)](https://github.com/tournesol-app/tournesol/stargazers) [![Forks](https://img.shields.io/github/forks/tournesol-app/tournesol?style=flat-square&color=blue)](https://github.com/tournesol-app/tournesol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tournesol-app/tournesol?style=flat-square&color=yellow)](https://github.com/tournesol-app/tournesol/stargazers) [![Forks](https://img.shields.io/github/forks/tournesol-app/tournesol?style=flat-square&color=blue)](https://github.com/tournesol-app/tournesol/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source code of the https://tournesol.app platform. Meet the community on Discord https://discord.gg/WvcSG55Bf3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 375 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tournesol-app/tournesol：tournesol-app/tournesol helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

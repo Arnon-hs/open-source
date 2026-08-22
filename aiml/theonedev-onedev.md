@@ -1,6 +1,6 @@
 # theonedev/onedev
 
-[![Stars](https://img.shields.io/github/stars/theonedev/onedev?style=flat-square&color=yellow)](https://github.com/theonedev/onedev/stargazers) [![Forks](https://img.shields.io/github/forks/theonedev/onedev?style=flat-square&color=blue)](https://github.com/theonedev/onedev/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theonedev/onedev?style=flat-square&color=yellow)](https://github.com/theonedev/onedev/stargazers) [![Forks](https://img.shields.io/github/forks/theonedev/onedev?style=flat-square&color=blue)](https://github.com/theonedev/onedev/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 953 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ theonedev/onedev：theonedev/onedev helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 68/100 |
+| production | 51/100 |
+| outlook | 61/100 |
 | adoption | 85/100 |
 | stars | 89/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

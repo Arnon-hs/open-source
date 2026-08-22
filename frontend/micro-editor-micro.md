@@ -1,6 +1,6 @@
 # micro-editor/micro
 
-[![Stars](https://img.shields.io/github/stars/micro-editor/micro?style=flat-square&color=yellow)](https://github.com/micro-editor/micro/stargazers) [![Forks](https://img.shields.io/github/forks/micro-editor/micro?style=flat-square&color=blue)](https://github.com/micro-editor/micro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/micro-editor/micro?style=flat-square&color=yellow)](https://github.com/micro-editor/micro/stargazers) [![Forks](https://img.shields.io/github/forks/micro-editor/micro?style=flat-square&color=blue)](https://github.com/micro-editor/micro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A modern and intuitive terminal-based text editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ micro-editor/micro：micro-editor/micro helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 90/100 |
 | stars | 95/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ToolJet/ToolJet
 
-[![Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=flat-square&color=yellow)](https://github.com/ToolJet/ToolJet/stargazers) [![Forks](https://img.shields.io/github/forks/ToolJet/ToolJet?style=flat-square&color=blue)](https://github.com/ToolJet/ToolJet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=flat-square&color=yellow)](https://github.com/ToolJet/ToolJet/stargazers) [![Forks](https://img.shields.io/github/forks/ToolJet/ToolJet?style=flat-square&color=blue)](https://github.com/ToolJet/ToolJet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.9k |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ToolJet/ToolJet：ToolJet/ToolJet helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 78/100 |
+| production | 61/100 |
+| outlook | 71/100 |
 | adoption | 96/100 |
 | stars | 97/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

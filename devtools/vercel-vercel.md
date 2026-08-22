@@ -1,6 +1,6 @@
 # vercel/vercel
 
-[![Stars](https://img.shields.io/github/stars/vercel/vercel?style=flat-square&color=yellow)](https://github.com/vercel/vercel/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/vercel?style=flat-square&color=blue)](https://github.com/vercel/vercel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel/vercel?style=flat-square&color=yellow)](https://github.com/vercel/vercel/stargazers) [![Forks](https://img.shields.io/github/forks/vercel/vercel?style=flat-square&color=blue)](https://github.com/vercel/vercel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Develop. Preview. Ship.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.4k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vercel/vercel：vercel/vercel helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 89/100 |
 | stars | 89/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

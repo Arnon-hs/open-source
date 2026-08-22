@@ -1,6 +1,6 @@
 # Mellanox/network-operator
 
-[![Stars](https://img.shields.io/github/stars/Mellanox/network-operator?style=flat-square&color=yellow)](https://github.com/Mellanox/network-operator/stargazers) [![Forks](https://img.shields.io/github/forks/Mellanox/network-operator?style=flat-square&color=blue)](https://github.com/Mellanox/network-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mellanox/network-operator?style=flat-square&color=yellow)](https://github.com/Mellanox/network-operator/stargazers) [![Forks](https://img.shields.io/github/forks/Mellanox/network-operator?style=flat-square&color=blue)](https://github.com/Mellanox/network-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Network Operator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 333 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mellanox/network-operator — это открытый оператор Kuberne
 
 ### 中文
 
-Mellanox/network-operator：Mellanox/network-operator may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mellanox/network-operator：Mellanox/network-operator may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Mellanox/network-operator：Mellanox/network-operator may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,21 +56,21 @@ Mellanox/network-operator：Mellanox/network-operator may be useful when its REA
 - updated 2026-05-10
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 45/100 |
+| production | 44/100 |
+| outlook | 38/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

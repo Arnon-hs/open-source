@@ -1,6 +1,6 @@
 # TryGhost/Ghost
 
-[![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=flat-square&color=yellow)](https://github.com/TryGhost/Ghost/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/Ghost?style=flat-square&color=blue)](https://github.com/TryGhost/Ghost/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=flat-square&color=yellow)](https://github.com/TryGhost/Ghost/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/Ghost?style=flat-square&color=blue)](https://github.com/TryGhost/Ghost/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52.7k |
 | 🍴 **Forks** | 11.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ TryGhost/Ghost：TryGhost/Ghost helps integrate monetization, billing, or PSP fl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

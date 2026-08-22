@@ -1,6 +1,6 @@
 # ralfbecher/orionbelt-semantic-layer
 
-[![Stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-semantic-layer?style=flat-square&color=yellow)](https://github.com/ralfbecher/orionbelt-semantic-layer/stargazers) [![Forks](https://img.shields.io/github/forks/ralfbecher/orionbelt-semantic-layer?style=flat-square&color=blue)](https://github.com/ralfbecher/orionbelt-semantic-layer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-semantic-layer?style=flat-square&color=yellow)](https://github.com/ralfbecher/orionbelt-semantic-layer/stargazers) [![Forks](https://img.shields.io/github/forks/ralfbecher/orionbelt-semantic-layer?style=flat-square&color=blue)](https://github.com/ralfbecher/orionbelt-semantic-layer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > API-first semantic engine and query planner for AI agents that compiles declarative YAML models into optimized, dialect-specific SQL across BigQuery, PostgreSQL, Snowflake, ClickHouse, Dremio, Databricks, DuckDB, and MySQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ralfbecher/orionbelt-semantic-layer：ralfbecher/orionbelt-semantic-layer helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 31/100 |
 | stars | 35/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

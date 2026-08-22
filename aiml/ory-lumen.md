@@ -1,6 +1,6 @@
 # ory/lumen
 
-[![Stars](https://img.shields.io/github/stars/ory/lumen?style=flat-square&color=yellow)](https://github.com/ory/lumen/stargazers) [![Forks](https://img.shields.io/github/forks/ory/lumen?style=flat-square&color=blue)](https://github.com/ory/lumen/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ory/lumen?style=flat-square&color=yellow)](https://github.com/ory/lumen/stargazers) [![Forks](https://img.shields.io/github/forks/ory/lumen?style=flat-square&color=blue)](https://github.com/ory/lumen/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Reduce Claude Code, Codex, OpenCode wall clock and token use by 50% with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ory/lumen：ory/lumen helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

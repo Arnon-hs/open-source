@@ -1,6 +1,6 @@
 # pypa/bandersnatch
 
-[![Stars](https://img.shields.io/github/stars/pypa/bandersnatch?style=flat-square&color=yellow)](https://github.com/pypa/bandersnatch/stargazers) [![Forks](https://img.shields.io/github/forks/pypa/bandersnatch?style=flat-square&color=blue)](https://github.com/pypa/bandersnatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pypa/bandersnatch?style=flat-square&color=yellow)](https://github.com/pypa/bandersnatch/stargazers) [![Forks](https://img.shields.io/github/forks/pypa/bandersnatch?style=flat-square&color=blue)](https://github.com/pypa/bandersnatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A PyPI mirror client according to PEP 381 + PEP 503 + PEP 691
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 156 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ pypa/bandersnatch：pypa/bandersnatch helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

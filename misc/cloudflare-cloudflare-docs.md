@@ -1,6 +1,6 @@
 # cloudflare/cloudflare-docs
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/cloudflare-docs?style=flat-square&color=yellow)](https://github.com/cloudflare/cloudflare-docs/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/cloudflare-docs?style=flat-square&color=blue)](https://github.com/cloudflare/cloudflare-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/cloudflare-docs?style=flat-square&color=yellow)](https://github.com/cloudflare/cloudflare-docs/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/cloudflare-docs?style=flat-square&color=blue)](https://github.com/cloudflare/cloudflare-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Cloudflare’s documentation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 14.1k |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ cloudflare/cloudflare-docs：cloudflare/cloudflare-docs may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 84/100 |
 | stars | 78/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

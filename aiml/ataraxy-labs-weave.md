@@ -1,6 +1,6 @@
 # Ataraxy-Labs/weave
 
-[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/weave?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/weave/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/weave?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/weave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/weave?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/weave/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/weave?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/weave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 990 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Ataraxy-Labs/weave：Ataraxy-Labs/weave helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
+| production | 50/100 |
+| outlook | 59/100 |
 | adoption | 56/100 |
 | stars | 64/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

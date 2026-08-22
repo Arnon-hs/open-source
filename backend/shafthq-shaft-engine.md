@@ -1,6 +1,6 @@
 # ShaftHQ/SHAFT_ENGINE
 
-[![Stars](https://img.shields.io/github/stars/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=yellow)](https://github.com/ShaftHQ/SHAFT_ENGINE/stargazers) [![Forks](https://img.shields.io/github/forks/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=blue)](https://github.com/ShaftHQ/SHAFT_ENGINE/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=yellow)](https://github.com/ShaftHQ/SHAFT_ENGINE/stargazers) [![Forks](https://img.shields.io/github/forks/ShaftHQ/SHAFT_ENGINE?style=flat-square&color=blue)](https://github.com/ShaftHQ/SHAFT_ENGINE/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > SHAFT is a unified test automation engine for web, mobile, API, CLI, database, and desktop e2e testing. Powered by best-in-class frameworks, SHAFT provides a wizard-like syntax to drive your automation efficiently, maximize your ROI, and minimize your learning curve with no limitations! Stop reinventing the wheel! Upgrade now!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 386 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ ShaftHQ/SHAFT_ENGINE：ShaftHQ/SHAFT_ENGINE helps teams reuse service infrastruc
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

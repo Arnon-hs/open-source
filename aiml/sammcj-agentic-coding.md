@@ -65,15 +65,15 @@ sammcj/agentic-coding：sammcj/agentic-coding helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
+| usefulness | 100/100 |
+| quality | 54/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 42/100 |
 | stars | 45/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

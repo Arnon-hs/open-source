@@ -1,6 +1,6 @@
 # 0xranx/golembot
 
-[![Stars](https://img.shields.io/github/stars/0xranx/golembot?style=flat-square&color=yellow)](https://github.com/0xranx/golembot/stargazers) [![Forks](https://img.shields.io/github/forks/0xranx/golembot?style=flat-square&color=blue)](https://github.com/0xranx/golembot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xranx/golembot?style=flat-square&color=yellow)](https://github.com/0xranx/golembot/stargazers) [![Forks](https://img.shields.io/github/forks/0xranx/golembot?style=flat-square&color=blue)](https://github.com/0xranx/golembot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 271 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Golembot is a versatile, open‑source framework that lets you plug any LLM (Cla
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

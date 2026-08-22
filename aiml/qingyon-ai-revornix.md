@@ -1,6 +1,6 @@
 # Qingyon-AI/Revornix
 
-[![Stars](https://img.shields.io/github/stars/Qingyon-AI/Revornix?style=flat-square&color=yellow)](https://github.com/Qingyon-AI/Revornix/stargazers) [![Forks](https://img.shields.io/github/forks/Qingyon-AI/Revornix?style=flat-square&color=blue)](https://github.com/Qingyon-AI/Revornix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qingyon-AI/Revornix?style=flat-square&color=yellow)](https://github.com/Qingyon-AI/Revornix/stargazers) [![Forks](https://img.shields.io/github/forks/Qingyon-AI/Revornix?style=flat-square&color=blue)](https://github.com/Qingyon-AI/Revornix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Revornix is an open-source, local-first AI information/markdown workspace. It helps you collect fragmented inputs, turn them into structured knowledge, generate reports with images and podcast audio, and deliver the output through automated notifications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 181 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Qingyon-AI/Revornix：Qingyon-AI/Revornix helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # poetaman/arttime
 
-[![Stars](https://img.shields.io/github/stars/poetaman/arttime?style=flat-square&color=yellow)](https://github.com/poetaman/arttime/stargazers) [![Forks](https://img.shields.io/github/forks/poetaman/arttime?style=flat-square&color=blue)](https://github.com/poetaman/arttime/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/poetaman/arttime?style=flat-square&color=yellow)](https://github.com/poetaman/arttime/stargazers) [![Forks](https://img.shields.io/github/forks/poetaman/arttime?style=flat-square&color=blue)](https://github.com/poetaman/arttime/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ poetaman/arttime：poetaman/arttime helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 66/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

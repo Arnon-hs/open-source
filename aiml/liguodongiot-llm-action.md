@@ -1,6 +1,6 @@
 # liguodongiot/llm-action
 
-[![Stars](https://img.shields.io/github/stars/liguodongiot/llm-action?style=flat-square&color=yellow)](https://github.com/liguodongiot/llm-action/stargazers) [![Forks](https://img.shields.io/github/forks/liguodongiot/llm-action?style=flat-square&color=blue)](https://github.com/liguodongiot/llm-action/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liguodongiot/llm-action?style=flat-square&color=yellow)](https://github.com/liguodongiot/llm-action/stargazers) [![Forks](https://img.shields.io/github/forks/liguodongiot/llm-action?style=flat-square&color=blue)](https://github.com/liguodongiot/llm-action/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.2k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ liguodongiot/llm-action：liguodongiot/llm-action helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 91/100 |
 | stars | 93/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Leon406/SubCrawler
 
-[![Stars](https://img.shields.io/github/stars/Leon406/SubCrawler?style=flat-square&color=yellow)](https://github.com/Leon406/SubCrawler/stargazers) [![Forks](https://img.shields.io/github/forks/Leon406/SubCrawler?style=flat-square&color=blue)](https://github.com/Leon406/SubCrawler/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leon406/SubCrawler?style=flat-square&color=yellow)](https://github.com/Leon406/SubCrawler/stargazers) [![Forks](https://img.shields.io/github/forks/Leon406/SubCrawler?style=flat-square&color=blue)](https://github.com/Leon406/SubCrawler/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Leon406/SubCrawler：Leon406/SubCrawler may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

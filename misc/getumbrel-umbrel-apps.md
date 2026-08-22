@@ -1,6 +1,6 @@
 # getumbrel/umbrel-apps
 
-[![Stars](https://img.shields.io/github/stars/getumbrel/umbrel-apps?style=flat-square&color=yellow)](https://github.com/getumbrel/umbrel-apps/stargazers) [![Forks](https://img.shields.io/github/forks/getumbrel/umbrel-apps?style=flat-square&color=blue)](https://github.com/getumbrel/umbrel-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getumbrel/umbrel-apps?style=flat-square&color=yellow)](https://github.com/getumbrel/umbrel-apps/stargazers) [![Forks](https://img.shields.io/github/forks/getumbrel/umbrel-apps?style=flat-square&color=blue)](https://github.com/getumbrel/umbrel-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > The official app repository of the Umbrel App Store. Submit apps and updates here. Learn how → https://github.com/getumbrel/umbrel-apps#readme
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 610 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Umbrel Apps** repository is the official source for the Umbrel App Store, 
 
 ### 中文
 
-getumbrel/umbrel-apps：getumbrel/umbrel-apps may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+getumbrel/umbrel-apps：getumbrel/umbrel-apps may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ getumbrel/umbrel-apps：getumbrel/umbrel-apps may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ getumbrel/umbrel-apps：getumbrel/umbrel-apps may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 63/100 |
 | stars | 61/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # redongreen/uSpec
 
-[![Stars](https://img.shields.io/github/stars/redongreen/uSpec?style=flat-square&color=yellow)](https://github.com/redongreen/uSpec/stargazers) [![Forks](https://img.shields.io/github/forks/redongreen/uSpec?style=flat-square&color=blue)](https://github.com/redongreen/uSpec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redongreen/uSpec?style=flat-square&color=yellow)](https://github.com/redongreen/uSpec/stargazers) [![Forks](https://img.shields.io/github/forks/redongreen/uSpec?style=flat-square&color=blue)](https://github.com/redongreen/uSpec/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Generate design system documentation for your UI components, directly from your AI agent. Renders into Figma or a portable .md file. Works with Cursor, Claude Code, and Codex.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ redongreen/uSpec is an open‑source tool that automatically creates design‑sy
 
 ### 中文
 
-redongreen/uSpec：redongreen/uSpec helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+redongreen/uSpec：redongreen/uSpec helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ redongreen/uSpec：redongreen/uSpec helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ redongreen/uSpec：redongreen/uSpec helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
+| usefulness | 90/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ariffazil/arifos
 
-[![Stars](https://img.shields.io/github/stars/ariffazil/arifos?style=flat-square&color=yellow)](https://github.com/ariffazil/arifos/stargazers) [![Forks](https://img.shields.io/github/forks/ariffazil/arifos?style=flat-square&color=blue)](https://github.com/ariffazil/arifos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariffazil/arifos?style=flat-square&color=yellow)](https://github.com/ariffazil/arifos/stargazers) [![Forks](https://img.shields.io/github/forks/ariffazil/arifos?style=flat-square&color=blue)](https://github.com/ariffazil/arifos/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ArifOS — Constitutional MCP kernel for governed AI execution. AAA architecture: Architect · Auditor · Agent. Built for the open-source agentic era.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ariffazil/arifos：ariffazil/arifos helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 32/100 |
 | stars | 35/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

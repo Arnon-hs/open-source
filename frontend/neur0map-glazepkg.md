@@ -1,6 +1,6 @@
 # neur0map/glazepkg
 
-[![Stars](https://img.shields.io/github/stars/neur0map/glazepkg?style=flat-square&color=yellow)](https://github.com/neur0map/glazepkg/stargazers) [![Forks](https://img.shields.io/github/forks/neur0map/glazepkg?style=flat-square&color=blue)](https://github.com/neur0map/glazepkg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neur0map/glazepkg?style=flat-square&color=yellow)](https://github.com/neur0map/glazepkg/stargazers) [![Forks](https://img.shields.io/github/forks/neur0map/glazepkg?style=flat-square&color=blue)](https://github.com/neur0map/glazepkg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > See all your installed packages in one place.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 518 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ neur0map/glazepkg：neur0map/glazepkg helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 67/100 |
+| production | 51/100 |
+| outlook | 60/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

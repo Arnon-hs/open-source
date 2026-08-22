@@ -1,6 +1,6 @@
 # Vu1nT0tal/yarb
 
-[![Stars](https://img.shields.io/github/stars/Vu1nT0tal/yarb?style=flat-square&color=yellow)](https://github.com/Vu1nT0tal/yarb/stargazers) [![Forks](https://img.shields.io/github/forks/Vu1nT0tal/yarb?style=flat-square&color=blue)](https://github.com/Vu1nT0tal/yarb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vu1nT0tal/yarb?style=flat-square&color=yellow)](https://github.com/Vu1nT0tal/yarb/stargazers) [![Forks](https://img.shields.io/github/forks/Vu1nT0tal/yarb?style=flat-square&color=blue)](https://github.com/Vu1nT0tal/yarb/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 方便获取每日安全资讯的爬虫和推送程序
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 804 |
 | 🍴 **Forks** | 253 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Vu1nT0tal/yarb — это открытый проект‑скрипт, кот
 
 ### 中文
 
-Vu1nT0tal/yarb：Vu1nT0tal/yarb helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Vu1nT0tal/yarb：Vu1nT0tal/yarb helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Vu1nT0tal/yarb：Vu1nT0tal/yarb helps catch security and privacy issues earlier 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Vu1nT0tal/yarb：Vu1nT0tal/yarb helps catch security and privacy issues earlier 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 62/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

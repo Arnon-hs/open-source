@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox
 
-[![Stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat-square&color=yellow)](https://github.com/googleapis/mcp-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/mcp-toolbox?style=flat-square&color=blue)](https://github.com/googleapis/mcp-toolbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat-square&color=yellow)](https://github.com/googleapis/mcp-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/mcp-toolbox?style=flat-square&color=blue)](https://github.com/googleapis/mcp-toolbox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Toolbox for Databases is an open source MCP server for databases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ googleapis/mcp-toolbox：googleapis/mcp-toolbox helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 94/100 |
-| production | 68/100 |
-| outlook | 76/100 |
+| production | 62/100 |
+| outlook | 69/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

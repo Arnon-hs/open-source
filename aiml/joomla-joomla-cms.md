@@ -1,6 +1,6 @@
 # joomla/joomla-cms
 
-[![Stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=flat-square&color=yellow)](https://github.com/joomla/joomla-cms/stargazers) [![Forks](https://img.shields.io/github/forks/joomla/joomla-cms?style=flat-square&color=blue)](https://github.com/joomla/joomla-cms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joomla/joomla-cms?style=flat-square&color=yellow)](https://github.com/joomla/joomla-cms/stargazers) [![Forks](https://img.shields.io/github/forks/joomla/joomla-cms?style=flat-square&color=blue)](https://github.com/joomla/joomla-cms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Home of the Joomla! Content Management System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ joomla/joomla-cms：joomla/joomla-cms helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 82/100 |
 | stars | 79/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

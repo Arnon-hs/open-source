@@ -1,6 +1,6 @@
 # Scottcjn/bounty-concierge
 
-[![Stars](https://img.shields.io/github/stars/Scottcjn/bounty-concierge?style=flat-square&color=yellow)](https://github.com/Scottcjn/bounty-concierge/stargazers) [![Forks](https://img.shields.io/github/forks/Scottcjn/bounty-concierge?style=flat-square&color=blue)](https://github.com/Scottcjn/bounty-concierge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scottcjn/bounty-concierge?style=flat-square&color=yellow)](https://github.com/Scottcjn/bounty-concierge/stargazers) [![Forks](https://img.shields.io/github/forks/Scottcjn/bounty-concierge?style=flat-square&color=blue)](https://github.com/Scottcjn/bounty-concierge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Start Here -- RustChain Bounty Concierge for humans and AI agents. Browse bounties, register wallets, check payouts, automate cross-platform engagement.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Scottcjn/bounty-concierge：Scottcjn/bounty-concierge helps prototype or inspect
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 42/100 |
+| outlook | 38/100 |
 | adoption | 37/100 |
 | stars | 38/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

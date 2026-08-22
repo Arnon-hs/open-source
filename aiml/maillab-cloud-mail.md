@@ -1,6 +1,6 @@
 # maillab/cloud-mail
 
-[![Stars](https://img.shields.io/github/stars/maillab/cloud-mail?style=flat-square&color=yellow)](https://github.com/maillab/cloud-mail/stargazers) [![Forks](https://img.shields.io/github/forks/maillab/cloud-mail?style=flat-square&color=blue)](https://github.com/maillab/cloud-mail/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maillab/cloud-mail?style=flat-square&color=yellow)](https://github.com/maillab/cloud-mail/stargazers) [![Forks](https://img.shields.io/github/forks/maillab/cloud-mail?style=flat-square&color=blue)](https://github.com/maillab/cloud-mail/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 10.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ maillab/cloud-mail：maillab/cloud-mail helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 88/100 |
 | stars | 84/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 5rahim/seanime
 
-[![Stars](https://img.shields.io/github/stars/5rahim/seanime?style=flat-square&color=yellow)](https://github.com/5rahim/seanime/stargazers) [![Forks](https://img.shields.io/github/forks/5rahim/seanime?style=flat-square&color=blue)](https://github.com/5rahim/seanime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/5rahim/seanime?style=flat-square&color=yellow)](https://github.com/5rahim/seanime/stargazers) [![Forks](https://img.shields.io/github/forks/5rahim/seanime?style=flat-square&color=blue)](https://github.com/5rahim/seanime/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source media server with a web interface and desktop app for anime and manga.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Frontend · Backend
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

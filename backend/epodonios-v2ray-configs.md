@@ -1,6 +1,6 @@
 # Epodonios/v2ray-configs
 
-[![Stars](https://img.shields.io/github/stars/Epodonios/v2ray-configs?style=flat-square&color=yellow)](https://github.com/Epodonios/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/Epodonios/v2ray-configs?style=flat-square&color=blue)](https://github.com/Epodonios/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epodonios/v2ray-configs?style=flat-square&color=yellow)](https://github.com/Epodonios/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/Epodonios/v2ray-configs?style=flat-square&color=blue)](https://github.com/Epodonios/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Epodonios/v2ray-configs：Epodonios/v2ray-configs helps teams reuse service infr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 71/100 |
 | stars | 74/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

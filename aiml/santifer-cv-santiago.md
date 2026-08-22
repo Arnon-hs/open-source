@@ -1,6 +1,6 @@
 # santifer/cv-santiago
 
-[![Stars](https://img.shields.io/github/stars/santifer/cv-santiago?style=flat-square&color=yellow)](https://github.com/santifer/cv-santiago/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/cv-santiago?style=flat-square&color=blue)](https://github.com/santifer/cv-santiago/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/santifer/cv-santiago?style=flat-square&color=yellow)](https://github.com/santifer/cv-santiago/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/cv-santiago?style=flat-square&color=blue)](https://github.com/santifer/cv-santiago/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive CV with AI chat integration. Built with React 19, TypeScript, Claude API. Chat with my AI avatar about my experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ santifer/cv-santiago：santifer/cv-santiago helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 58/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

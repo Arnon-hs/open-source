@@ -1,6 +1,6 @@
 # mouseart2025/AI-Reader-V2
 
-[![Stars](https://img.shields.io/github/stars/mouseart2025/AI-Reader-V2?style=flat-square&color=yellow)](https://github.com/mouseart2025/AI-Reader-V2/stargazers) [![Forks](https://img.shields.io/github/forks/mouseart2025/AI-Reader-V2?style=flat-square&color=blue)](https://github.com/mouseart2025/AI-Reader-V2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mouseart2025/AI-Reader-V2?style=flat-square&color=yellow)](https://github.com/mouseart2025/AI-Reader-V2/stargazers) [![Forks](https://img.shields.io/github/forks/mouseart2025/AI-Reader-V2?style=flat-square&color=blue)](https://github.com/mouseart2025/AI-Reader-V2/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI 小说分析可视化工具 — 角色关系图谱 · 地理地图 · 时间线 · 百科全书 | 支持 Ollama 本地 + 10 大云端 LLM | React + FastAPI + SQLite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mouseart2025/AI-Reader-V2：mouseart2025/AI-Reader-V2 helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Maintainerr/Maintainerr
 
-[![Stars](https://img.shields.io/github/stars/Maintainerr/Maintainerr?style=flat-square&color=yellow)](https://github.com/Maintainerr/Maintainerr/stargazers) [![Forks](https://img.shields.io/github/forks/Maintainerr/Maintainerr?style=flat-square&color=blue)](https://github.com/Maintainerr/Maintainerr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Maintainerr/Maintainerr?style=flat-square&color=yellow)](https://github.com/Maintainerr/Maintainerr/stargazers) [![Forks](https://img.shields.io/github/forks/Maintainerr/Maintainerr?style=flat-square&color=blue)](https://github.com/Maintainerr/Maintainerr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Maintainerr/Maintainerr：Maintainerr/Maintainerr helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 70/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

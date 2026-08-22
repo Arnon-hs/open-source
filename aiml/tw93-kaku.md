@@ -1,6 +1,6 @@
 # tw93/Kaku
 
-[![Stars](https://img.shields.io/github/stars/tw93/Kaku?style=flat-square&color=yellow)](https://github.com/tw93/Kaku/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Kaku?style=flat-square&color=blue)](https://github.com/tw93/Kaku/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tw93/Kaku?style=flat-square&color=yellow)](https://github.com/tw93/Kaku/stargazers) [![Forks](https://img.shields.io/github/forks/tw93/Kaku?style=flat-square&color=blue)](https://github.com/tw93/Kaku/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🎃 A fast, out-of-the-box terminal built for AI coding.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tw93/Kaku：tw93/Kaku helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 73/100 |
 | stars | 79/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

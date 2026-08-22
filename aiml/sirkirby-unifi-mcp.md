@@ -1,6 +1,6 @@
 # sirkirby/unifi-mcp
 
-[![Stars](https://img.shields.io/github/stars/sirkirby/unifi-mcp?style=flat-square&color=yellow)](https://github.com/sirkirby/unifi-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sirkirby/unifi-mcp?style=flat-square&color=blue)](https://github.com/sirkirby/unifi-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sirkirby/unifi-mcp?style=flat-square&color=yellow)](https://github.com/sirkirby/unifi-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/sirkirby/unifi-mcp?style=flat-square&color=blue)](https://github.com/sirkirby/unifi-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sirkirby/unifi-mcp：sirkirby/unifi-mcp helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

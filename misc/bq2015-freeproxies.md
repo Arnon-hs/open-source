@@ -1,6 +1,6 @@
 # bq2015/FreeProxies
 
-[![Stars](https://img.shields.io/github/stars/bq2015/FreeProxies?style=flat-square&color=yellow)](https://github.com/bq2015/FreeProxies/stargazers) [![Forks](https://img.shields.io/github/forks/bq2015/FreeProxies?style=flat-square&color=blue)](https://github.com/bq2015/FreeProxies/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bq2015/FreeProxies?style=flat-square&color=yellow)](https://github.com/bq2015/FreeProxies/stargazers) [![Forks](https://img.shields.io/github/forks/bq2015/FreeProxies?style=flat-square&color=blue)](https://github.com/bq2015/FreeProxies/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 永久免费翻墙/科学上网，节点每10分钟自动更新，仅保留可用节点。订阅链接可一键导入，无需频繁更换。如果觉得有帮助，请点个星星支持一下。为了防止链接丢失，建议fork到自己的仓库。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -62,14 +62,14 @@ bq2015/FreeProxies：bq2015/FreeProxies may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 57/100 |
 | stars | 59/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

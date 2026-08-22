@@ -1,6 +1,6 @@
 # HdShare/WAuxiliary_Plugin
 
-[![Stars](https://img.shields.io/github/stars/HdShare/WAuxiliary_Plugin?style=flat-square&color=yellow)](https://github.com/HdShare/WAuxiliary_Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/HdShare/WAuxiliary_Plugin?style=flat-square&color=blue)](https://github.com/HdShare/WAuxiliary_Plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HdShare/WAuxiliary_Plugin?style=flat-square&color=yellow)](https://github.com/HdShare/WAuxiliary_Plugin/stargazers) [![Forks](https://img.shields.io/github/forks/HdShare/WAuxiliary_Plugin?style=flat-square&color=blue)](https://github.com/HdShare/WAuxiliary_Plugin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > WeChat Auxiliary Plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 767 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ HdShare/WAuxiliary_Plugin is an open‑source WeChat Auxiliary Plugin that exten
 
 ### 中文
 
-HdShare/WAuxiliary_Plugin：HdShare/WAuxiliary_Plugin may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+HdShare/WAuxiliary_Plugin：HdShare/WAuxiliary_Plugin may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ HdShare/WAuxiliary_Plugin：HdShare/WAuxiliary_Plugin may be useful when its REA
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ HdShare/WAuxiliary_Plugin：HdShare/WAuxiliary_Plugin may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

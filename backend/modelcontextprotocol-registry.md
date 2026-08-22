@@ -1,6 +1,6 @@
 # modelcontextprotocol/registry
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/registry/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/registry?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/registry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/registry/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/registry?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/registry/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A community driven registry service for Model Context Protocol (MCP) servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 799 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ modelcontextprotocol/registry：modelcontextprotocol/registry helps teams reuse 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 79/100 |
 | stars | 82/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jasonish/evebox
 
-[![Stars](https://img.shields.io/github/stars/jasonish/evebox?style=flat-square&color=yellow)](https://github.com/jasonish/evebox/stargazers) [![Forks](https://img.shields.io/github/forks/jasonish/evebox?style=flat-square&color=blue)](https://github.com/jasonish/evebox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasonish/evebox?style=flat-square&color=yellow)](https://github.com/jasonish/evebox/stargazers) [![Forks](https://img.shields.io/github/forks/jasonish/evebox?style=flat-square&color=blue)](https://github.com/jasonish/evebox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 491 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jasonish/evebox is a web‑based graphical interface for visualizing Suricata 
 
 ### 中文
 
-jasonish/evebox：jasonish/evebox helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jasonish/evebox：jasonish/evebox helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jasonish/evebox：jasonish/evebox helps ship user-facing interfaces with less cu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jasonish/evebox：jasonish/evebox helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 46/100 |
+| outlook | 47/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

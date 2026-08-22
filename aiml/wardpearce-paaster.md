@@ -1,6 +1,6 @@
 # WardPearce/paaster
 
-[![Stars](https://img.shields.io/github/stars/WardPearce/paaster?style=flat-square&color=yellow)](https://github.com/WardPearce/paaster/stargazers) [![Forks](https://img.shields.io/github/forks/WardPearce/paaster?style=flat-square&color=blue)](https://github.com/WardPearce/paaster/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WardPearce/paaster?style=flat-square&color=yellow)](https://github.com/WardPearce/paaster/stargazers) [![Forks](https://img.shields.io/github/forks/WardPearce/paaster?style=flat-square&color=blue)](https://github.com/WardPearce/paaster/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ WardPearce/paaster：WardPearce/paaster helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

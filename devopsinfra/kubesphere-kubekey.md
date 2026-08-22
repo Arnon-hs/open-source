@@ -1,6 +1,6 @@
 # kubesphere/kubekey
 
-[![Stars](https://img.shields.io/github/stars/kubesphere/kubekey?style=flat-square&color=yellow)](https://github.com/kubesphere/kubekey/stargazers) [![Forks](https://img.shields.io/github/forks/kubesphere/kubekey?style=flat-square&color=blue)](https://github.com/kubesphere/kubekey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubesphere/kubekey?style=flat-square&color=yellow)](https://github.com/kubesphere/kubekey/stargazers) [![Forks](https://img.shields.io/github/forks/kubesphere/kubekey?style=flat-square&color=blue)](https://github.com/kubesphere/kubekey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Install Kubernetes/K3s, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 820 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubesphere/kubekey：kubesphere/kubekey helps make deployment and operations mor
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

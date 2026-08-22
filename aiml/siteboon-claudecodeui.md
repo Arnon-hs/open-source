@@ -1,6 +1,6 @@
 # siteboon/claudecodeui
 
-[![Stars](https://img.shields.io/github/stars/siteboon/claudecodeui?style=flat-square&color=yellow)](https://github.com/siteboon/claudecodeui/stargazers) [![Forks](https://img.shields.io/github/forks/siteboon/claudecodeui?style=flat-square&color=blue)](https://github.com/siteboon/claudecodeui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siteboon/claudecodeui?style=flat-square&color=yellow)](https://github.com/siteboon/claudecodeui/stargazers) [![Forks](https://img.shields.io/github/forks/siteboon/claudecodeui?style=flat-square&color=blue)](https://github.com/siteboon/claudecodeui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ siteboon/claudecodeui：siteboon/claudecodeui helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 78/100 |
-| production | 66/100 |
-| outlook | 70/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 84/100 |
 | stars | 86/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # nikzad-avasam/youtube-dl
 
-[![Stars](https://img.shields.io/github/stars/nikzad-avasam/youtube-dl?style=flat-square&color=yellow)](https://github.com/nikzad-avasam/youtube-dl/stargazers) [![Forks](https://img.shields.io/github/forks/nikzad-avasam/youtube-dl?style=flat-square&color=blue)](https://github.com/nikzad-avasam/youtube-dl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikzad-avasam/youtube-dl?style=flat-square&color=yellow)](https://github.com/nikzad-avasam/youtube-dl/stargazers) [![Forks](https://img.shields.io/github/forks/nikzad-avasam/youtube-dl?style=flat-square&color=blue)](https://github.com/nikzad-avasam/youtube-dl/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 You tube Downloader to your github repository .
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 303 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,14 +62,14 @@ nikzad-avasam/youtube-dl：nikzad-avasam/youtube-dl may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 53/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

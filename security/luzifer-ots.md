@@ -1,6 +1,6 @@
 # Luzifer/ots
 
-[![Stars](https://img.shields.io/github/stars/Luzifer/ots?style=flat-square&color=yellow)](https://github.com/Luzifer/ots/stargazers) [![Forks](https://img.shields.io/github/forks/Luzifer/ots?style=flat-square&color=blue)](https://github.com/Luzifer/ots/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Luzifer/ots?style=flat-square&color=yellow)](https://github.com/Luzifer/ots/stargazers) [![Forks](https://img.shields.io/github/forks/Luzifer/ots?style=flat-square&color=blue)](https://github.com/Luzifer/ots/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Luzifer/ots — это открытая платформа для обмена
 
 ### 中文
 
-Luzifer/ots：Luzifer/ots helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Luzifer/ots：Luzifer/ots helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Luzifer/ots：Luzifer/ots helps catch security and privacy issues earlier in the
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Luzifer/ots：Luzifer/ots helps catch security and privacy issues earlier in the
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

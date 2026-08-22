@@ -1,6 +1,6 @@
 # apache/mahout
 
-[![Stars](https://img.shields.io/github/stars/apache/mahout?style=flat-square&color=yellow)](https://github.com/apache/mahout/stargazers) [![Forks](https://img.shields.io/github/forks/apache/mahout?style=flat-square&color=blue)](https://github.com/apache/mahout/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/mahout?style=flat-square&color=yellow)](https://github.com/apache/mahout/stargazers) [![Forks](https://img.shields.io/github/forks/apache/mahout?style=flat-square&color=blue)](https://github.com/apache/mahout/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 991 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/mahout：apache/mahout helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 72/100 |
 | stars | 71/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

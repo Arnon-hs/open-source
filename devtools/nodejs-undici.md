@@ -1,6 +1,6 @@
 # nodejs/undici
 
-[![Stars](https://img.shields.io/github/stars/nodejs/undici?style=flat-square&color=yellow)](https://github.com/nodejs/undici/stargazers) [![Forks](https://img.shields.io/github/forks/nodejs/undici?style=flat-square&color=blue)](https://github.com/nodejs/undici/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodejs/undici?style=flat-square&color=yellow)](https://github.com/nodejs/undici/stargazers) [![Forks](https://img.shields.io/github/forks/nodejs/undici?style=flat-square&color=blue)](https://github.com/nodejs/undici/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An HTTP/1.1 client, written from scratch for Node.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 759 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nodejs/undici：nodejs/undici helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 80/100 |
 | stars | 83/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

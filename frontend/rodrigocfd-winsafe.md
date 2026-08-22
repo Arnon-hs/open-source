@@ -1,6 +1,6 @@
 # rodrigocfd/winsafe
 
-[![Stars](https://img.shields.io/github/stars/rodrigocfd/winsafe?style=flat-square&color=yellow)](https://github.com/rodrigocfd/winsafe/stargazers) [![Forks](https://img.shields.io/github/forks/rodrigocfd/winsafe?style=flat-square&color=blue)](https://github.com/rodrigocfd/winsafe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rodrigocfd/winsafe?style=flat-square&color=yellow)](https://github.com/rodrigocfd/winsafe/stargazers) [![Forks](https://img.shields.io/github/forks/rodrigocfd/winsafe?style=flat-square&color=blue)](https://github.com/rodrigocfd/winsafe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Windows API and GUI in safe, idiomatic Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 656 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rodrigocfd/winsafe：rodrigocfd/winsafe helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

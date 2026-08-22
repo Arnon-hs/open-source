@@ -1,6 +1,6 @@
 # intel/compute-runtime
 
-[![Stars](https://img.shields.io/github/stars/intel/compute-runtime?style=flat-square&color=yellow)](https://github.com/intel/compute-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/intel/compute-runtime?style=flat-square&color=blue)](https://github.com/intel/compute-runtime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/compute-runtime?style=flat-square&color=yellow)](https://github.com/intel/compute-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/intel/compute-runtime?style=flat-square&color=blue)](https://github.com/intel/compute-runtime/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ intel/compute-runtime：intel/compute-runtime helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 65/100 |
 | stars | 67/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

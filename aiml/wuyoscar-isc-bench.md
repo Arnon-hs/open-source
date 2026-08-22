@@ -1,6 +1,6 @@
 # wuyoscar/ISC-Bench
 
-[![Stars](https://img.shields.io/github/stars/wuyoscar/ISC-Bench?style=flat-square&color=yellow)](https://github.com/wuyoscar/ISC-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/wuyoscar/ISC-Bench?style=flat-square&color=blue)](https://github.com/wuyoscar/ISC-Bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wuyoscar/ISC-Bench?style=flat-square&color=yellow)](https://github.com/wuyoscar/ISC-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/wuyoscar/ISC-Bench?style=flat-square&color=blue)](https://github.com/wuyoscar/ISC-Bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Internal Safety Collapse: Turning the LLM or an AI Agent into a sensitive data generator.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 769 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wuyoscar/ISC-Bench：wuyoscar/ISC-Bench helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

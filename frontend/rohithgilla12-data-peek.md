@@ -1,6 +1,6 @@
 # Rohithgilla12/data-peek
 
-[![Stars](https://img.shields.io/github/stars/Rohithgilla12/data-peek?style=flat-square&color=yellow)](https://github.com/Rohithgilla12/data-peek/stargazers) [![Forks](https://img.shields.io/github/forks/Rohithgilla12/data-peek?style=flat-square&color=blue)](https://github.com/Rohithgilla12/data-peek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rohithgilla12/data-peek?style=flat-square&color=yellow)](https://github.com/Rohithgilla12/data-peek/stargazers) [![Forks](https://img.shields.io/github/forks/Rohithgilla12/data-peek?style=flat-square&color=blue)](https://github.com/Rohithgilla12/data-peek/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Rohithgilla12/data-peek：Rohithgilla12/data-peek helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 58/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

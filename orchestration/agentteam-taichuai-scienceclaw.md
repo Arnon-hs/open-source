@@ -1,6 +1,6 @@
 # AgentTeam-TaichuAI/ScienceClaw
 
-[![Stars](https://img.shields.io/github/stars/AgentTeam-TaichuAI/ScienceClaw?style=flat-square&color=yellow)](https://github.com/AgentTeam-TaichuAI/ScienceClaw/stargazers) [![Forks](https://img.shields.io/github/forks/AgentTeam-TaichuAI/ScienceClaw?style=flat-square&color=blue)](https://github.com/AgentTeam-TaichuAI/ScienceClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentTeam-TaichuAI/ScienceClaw?style=flat-square&color=yellow)](https://github.com/AgentTeam-TaichuAI/ScienceClaw/stargazers) [![Forks](https://img.shields.io/github/forks/AgentTeam-TaichuAI/ScienceClaw?style=flat-square&color=blue)](https://github.com/AgentTeam-TaichuAI/ScienceClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, better transparency, and a more user-friendly experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AgentTeam-TaichuAI/ScienceClaw：AgentTeam-TaichuAI/ScienceClaw helps turn isola
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 94/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

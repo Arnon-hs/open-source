@@ -1,6 +1,6 @@
 # RockxyApp/Rockxy
 
-[![Stars](https://img.shields.io/github/stars/RockxyApp/Rockxy?style=flat-square&color=yellow)](https://github.com/RockxyApp/Rockxy/stargazers) [![Forks](https://img.shields.io/github/forks/RockxyApp/Rockxy?style=flat-square&color=blue)](https://github.com/RockxyApp/Rockxy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RockxyApp/Rockxy?style=flat-square&color=yellow)](https://github.com/RockxyApp/Rockxy/stargazers) [![Forks](https://img.shields.io/github/forks/RockxyApp/Rockxy?style=flat-square&color=blue)](https://github.com/RockxyApp/Rockxy/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rockxy — это открытый нативный прокси‑отладч
 
 ### 中文
 
-RockxyApp/Rockxy：RockxyApp/Rockxy helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RockxyApp/Rockxy：RockxyApp/Rockxy helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ RockxyApp/Rockxy：RockxyApp/Rockxy helps ship user-facing interfaces with less 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ RockxyApp/Rockxy：RockxyApp/Rockxy helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

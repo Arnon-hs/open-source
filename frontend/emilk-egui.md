@@ -1,6 +1,6 @@
 # emilk/egui
 
-[![Stars](https://img.shields.io/github/stars/emilk/egui?style=flat-square&color=yellow)](https://github.com/emilk/egui/stargazers) [![Forks](https://img.shields.io/github/forks/emilk/egui?style=flat-square&color=blue)](https://github.com/emilk/egui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emilk/egui?style=flat-square&color=yellow)](https://github.com/emilk/egui/stargazers) [![Forks](https://img.shields.io/github/forks/emilk/egui?style=flat-square&color=blue)](https://github.com/emilk/egui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ emilk/egui：emilk/egui helps ship user-facing interfaces with less custom UI wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

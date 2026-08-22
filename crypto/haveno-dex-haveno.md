@@ -1,6 +1,6 @@
 # haveno-dex/haveno
 
-[![Stars](https://img.shields.io/github/stars/haveno-dex/haveno?style=flat-square&color=yellow)](https://github.com/haveno-dex/haveno/stargazers) [![Forks](https://img.shields.io/github/forks/haveno-dex/haveno?style=flat-square&color=blue)](https://github.com/haveno-dex/haveno/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haveno-dex/haveno?style=flat-square&color=yellow)](https://github.com/haveno-dex/haveno/stargazers) [![Forks](https://img.shields.io/github/forks/haveno-dex/haveno?style=flat-square&color=blue)](https://github.com/haveno-dex/haveno/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Decentralized P2P exchange platform built on Monero and Tor
 
@@ -8,25 +8,75 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 164 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 181 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-19 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cryptocurrency` `decentralized` `exchange` `haveno` `java` `monero` `p2p` `peer-to-peer` `tor`
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend
+Crypto · Trading · Frontend · Database
 
 ## 📝 Summary
 
-Haveno is an open-source, decentralized P2P exchange platform that leverages the security and anonymity of Monero and Tor. This cutting-edge platform enables users to trade cryptocurrencies directly with each other, eliminating the need for intermediaries and promoting peer-to-peer transactions. By utilizing a decentralized architecture, Haveno prioritizes user autonomy, security, and financial freedom.
+### English
+
+haveno-dex/haveno: haveno-dex/haveno helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+haveno-dex/haveno: open-source проект в категориях Crypto, Trading, Frontend, Database. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+haveno-dex/haveno：haveno-dex/haveno helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** haveno-dex/haveno helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1376 GitHub stars
+- 181 forks
+- updated 2026-08-19
+- primary language: Java
+- 9 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 57/100 |
+| stars | 67/100 |
+| topics | 100/100 |
+| outlook | 79/100 |
+| quality | 84/100 |
+| recency | 100/100 |
+| adoption | 64/100 |
+| production | 76/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/haveno-dex/haveno) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-19 · [View on GitHub](https://github.com/haveno-dex/haveno) · [← Back to Crypto](./README.md)</sub>

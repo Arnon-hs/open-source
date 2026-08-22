@@ -1,6 +1,6 @@
 # ciembor/agent-rules-books
 
-[![Stars](https://img.shields.io/github/stars/ciembor/agent-rules-books?style=flat-square&color=yellow)](https://github.com/ciembor/agent-rules-books/stargazers) [![Forks](https://img.shields.io/github/forks/ciembor/agent-rules-books?style=flat-square&color=blue)](https://github.com/ciembor/agent-rules-books/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ciembor/agent-rules-books?style=flat-square&color=yellow)](https://github.com/ciembor/agent-rules-books/stargazers) [![Forks](https://img.shields.io/github/forks/ciembor/agent-rules-books?style=flat-square&color=blue)](https://github.com/ciembor/agent-rules-books/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A concise collection of best‑practice rules and skill guidelines for AI coding
 
 ### 中文
 
-ciembor/agent-rules-books：ciembor/agent-rules-books helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ciembor/agent-rules-books：ciembor/agent-rules-books helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ciembor/agent-rules-books：ciembor/agent-rules-books helps turn isolated prompt
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ciembor/agent-rules-books：ciembor/agent-rules-books helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

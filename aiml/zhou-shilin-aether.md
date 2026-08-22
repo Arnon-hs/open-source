@@ -1,6 +1,6 @@
 # Zhou-Shilin/Aether
 
-[![Stars](https://img.shields.io/github/stars/Zhou-Shilin/Aether?style=flat-square&color=yellow)](https://github.com/Zhou-Shilin/Aether/stargazers) [![Forks](https://img.shields.io/github/forks/Zhou-Shilin/Aether?style=flat-square&color=blue)](https://github.com/Zhou-Shilin/Aether/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zhou-Shilin/Aether?style=flat-square&color=yellow)](https://github.com/Zhou-Shilin/Aether/stargazers) [![Forks](https://img.shields.io/github/forks/Zhou-Shilin/Aether?style=flat-square&color=blue)](https://github.com/Zhou-Shilin/Aether/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A stunning, localized, general-purpose AI Agent for Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Zhou‑Shilin/Aether — это открытый проект, предста�
 
 ### 中文
 
-Zhou-Shilin/Aether：Zhou-Shilin/Aether helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Zhou-Shilin/Aether：Zhou-Shilin/Aether helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Zhou-Shilin/Aether：Zhou-Shilin/Aether helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Zhou-Shilin/Aether：Zhou-Shilin/Aether helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
+| production | 44/100 |
+| outlook | 47/100 |
 | adoption | 43/100 |
 | stars | 50/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

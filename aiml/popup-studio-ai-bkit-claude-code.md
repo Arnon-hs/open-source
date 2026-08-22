@@ -1,6 +1,6 @@
 # popup-studio-ai/bkit-claude-code
 
-[![Stars](https://img.shields.io/github/stars/popup-studio-ai/bkit-claude-code?style=flat-square&color=yellow)](https://github.com/popup-studio-ai/bkit-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/popup-studio-ai/bkit-claude-code?style=flat-square&color=blue)](https://github.com/popup-studio-ai/bkit-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/popup-studio-ai/bkit-claude-code?style=flat-square&color=yellow)](https://github.com/popup-studio-ai/bkit-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/popup-studio-ai/bkit-claude-code?style=flat-square&color=blue)](https://github.com/popup-studio-ai/bkit-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > bkit Vibecoding Kit - PDCA methodology + Claude Code mastery for AI-native development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ popup-studio-ai/bkit-claude-code：popup-studio-ai/bkit-claude-code helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

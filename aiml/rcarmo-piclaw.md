@@ -1,6 +1,6 @@
 # rcarmo/piclaw
 
-[![Stars](https://img.shields.io/github/stars/rcarmo/piclaw?style=flat-square&color=yellow)](https://github.com/rcarmo/piclaw/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/piclaw?style=flat-square&color=blue)](https://github.com/rcarmo/piclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rcarmo/piclaw?style=flat-square&color=yellow)](https://github.com/rcarmo/piclaw/stargazers) [![Forks](https://img.shields.io/github/forks/rcarmo/piclaw?style=flat-square&color=blue)](https://github.com/rcarmo/piclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > I'm going to build my own OpenClaw, with blackjack... and bun!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 639 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rcarmo/piclaw：rcarmo/piclaw helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

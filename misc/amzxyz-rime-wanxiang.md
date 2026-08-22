@@ -1,6 +1,6 @@
 # amzxyz/rime_wanxiang
 
-[![Stars](https://img.shields.io/github/stars/amzxyz/rime_wanxiang?style=flat-square&color=yellow)](https://github.com/amzxyz/rime_wanxiang/stargazers) [![Forks](https://img.shields.io/github/forks/amzxyz/rime_wanxiang?style=flat-square&color=blue)](https://github.com/amzxyz/rime_wanxiang/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amzxyz/rime_wanxiang?style=flat-square&color=yellow)](https://github.com/amzxyz/rime_wanxiang/stargazers) [![Forks](https://img.shields.io/github/forks/amzxyz/rime_wanxiang?style=flat-square&color=blue)](https://github.com/amzxyz/rime_wanxiang/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ amzxyz/rime_wanxiang：amzxyz/rime_wanxiang may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

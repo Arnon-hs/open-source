@@ -1,6 +1,6 @@
 # vitmalina/w2ui
 
-[![Stars](https://img.shields.io/github/stars/vitmalina/w2ui?style=flat-square&color=yellow)](https://github.com/vitmalina/w2ui/stargazers) [![Forks](https://img.shields.io/github/forks/vitmalina/w2ui?style=flat-square&color=blue)](https://github.com/vitmalina/w2ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vitmalina/w2ui?style=flat-square&color=yellow)](https://github.com/vitmalina/w2ui/stargazers) [![Forks](https://img.shields.io/github/forks/vitmalina/w2ui?style=flat-square&color=blue)](https://github.com/vitmalina/w2ui/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 732 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ vitmalina/w2ui is a lightweight, open‑source JavaScript UI library that provid
 
 ### 中文
 
-vitmalina/w2ui：vitmalina/w2ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vitmalina/w2ui：vitmalina/w2ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vitmalina/w2ui：vitmalina/w2ui helps ship user-facing interfaces with less cust
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ vitmalina/w2ui：vitmalina/w2ui helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 54/100 |
+| production | 45/100 |
+| outlook | 47/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # daggerhashimoto/openclaw-nerve
 
-[![Stars](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&color=yellow)](https://github.com/daggerhashimoto/openclaw-nerve/stargazers) [![Forks](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square&color=blue)](https://github.com/daggerhashimoto/openclaw-nerve/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&color=yellow)](https://github.com/daggerhashimoto/openclaw-nerve/stargazers) [![Forks](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square&color=blue)](https://github.com/daggerhashimoto/openclaw-nerve/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 802 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ daggerhashimoto/openclaw-nerve：daggerhashimoto/openclaw-nerve helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 67/100 |
+| production | 51/100 |
+| outlook | 60/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # nukeop/nuclear
 
-[![Stars](https://img.shields.io/github/stars/nukeop/nuclear?style=flat-square&color=yellow)](https://github.com/nukeop/nuclear/stargazers) [![Forks](https://img.shields.io/github/forks/nukeop/nuclear?style=flat-square&color=blue)](https://github.com/nukeop/nuclear/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nukeop/nuclear?style=flat-square&color=yellow)](https://github.com/nukeop/nuclear/stargazers) [![Forks](https://img.shields.io/github/forks/nukeop/nuclear?style=flat-square&color=blue)](https://github.com/nukeop/nuclear/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Streaming music player that finds free music for you
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nukeop/nuclear：nukeop/nuclear helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 87/100 |
 | stars | 90/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # kedacore/keda
 
-[![Stars](https://img.shields.io/github/stars/kedacore/keda?style=flat-square&color=yellow)](https://github.com/kedacore/keda/stargazers) [![Forks](https://img.shields.io/github/forks/kedacore/keda?style=flat-square&color=blue)](https://github.com/kedacore/keda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kedacore/keda?style=flat-square&color=yellow)](https://github.com/kedacore/keda/stargazers) [![Forks](https://img.shields.io/github/forks/kedacore/keda?style=flat-square&color=blue)](https://github.com/kedacore/keda/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kedacore/keda：kedacore/keda helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

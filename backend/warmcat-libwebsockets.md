@@ -1,6 +1,6 @@
 # warmcat/libwebsockets
 
-[![Stars](https://img.shields.io/github/stars/warmcat/libwebsockets?style=flat-square&color=yellow)](https://github.com/warmcat/libwebsockets/stargazers) [![Forks](https://img.shields.io/github/forks/warmcat/libwebsockets?style=flat-square&color=blue)](https://github.com/warmcat/libwebsockets/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warmcat/libwebsockets?style=flat-square&color=yellow)](https://github.com/warmcat/libwebsockets/stargazers) [![Forks](https://img.shields.io/github/forks/warmcat/libwebsockets?style=flat-square&color=blue)](https://github.com/warmcat/libwebsockets/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > canonical libwebsockets.org networking library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ warmcat/libwebsockets：warmcat/libwebsockets helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 79/100 |
 | stars | 79/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

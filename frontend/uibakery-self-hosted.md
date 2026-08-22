@@ -1,6 +1,6 @@
 # uibakery/self-hosted
 
-[![Stars](https://img.shields.io/github/stars/uibakery/self-hosted?style=flat-square&color=yellow)](https://github.com/uibakery/self-hosted/stargazers) [![Forks](https://img.shields.io/github/forks/uibakery/self-hosted?style=flat-square&color=blue)](https://github.com/uibakery/self-hosted/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uibakery/self-hosted?style=flat-square&color=yellow)](https://github.com/uibakery/self-hosted/stargazers) [![Forks](https://img.shields.io/github/forks/uibakery/self-hosted?style=flat-square&color=blue)](https://github.com/uibakery/self-hosted/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Internal tools and workflow automations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ uibakery/self-hosted：uibakery/self-hosted helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 59/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

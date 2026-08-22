@@ -1,6 +1,6 @@
 # rustfs/rustfs
 
-[![Stars](https://img.shields.io/github/stars/rustfs/rustfs?style=flat-square&color=yellow)](https://github.com/rustfs/rustfs/stargazers) [![Forks](https://img.shields.io/github/forks/rustfs/rustfs?style=flat-square&color=blue)](https://github.com/rustfs/rustfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustfs/rustfs?style=flat-square&color=yellow)](https://github.com/rustfs/rustfs/stargazers) [![Forks](https://img.shields.io/github/forks/rustfs/rustfs?style=flat-square&color=blue)](https://github.com/rustfs/rustfs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rustfs/rustfs：rustfs/rustfs helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 89/100 |
 | stars | 94/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

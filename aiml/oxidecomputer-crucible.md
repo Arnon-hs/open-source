@@ -1,6 +1,6 @@
 # oxidecomputer/crucible
 
-[![Stars](https://img.shields.io/github/stars/oxidecomputer/crucible?style=flat-square&color=yellow)](https://github.com/oxidecomputer/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/crucible?style=flat-square&color=blue)](https://github.com/oxidecomputer/crucible/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxidecomputer/crucible?style=flat-square&color=yellow)](https://github.com/oxidecomputer/crucible/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/crucible?style=flat-square&color=blue)](https://github.com/oxidecomputer/crucible/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A storage service.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -60,21 +60,21 @@ oxidecomputer/crucible：oxidecomputer/crucible helps add AI capability without 
 - updated 2026-05-08
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 47/100 |
+| production | 41/100 |
+| outlook | 40/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

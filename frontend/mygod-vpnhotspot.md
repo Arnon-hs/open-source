@@ -1,6 +1,6 @@
 # Mygod/VPNHotspot
 
-[![Stars](https://img.shields.io/github/stars/Mygod/VPNHotspot?style=flat-square&color=yellow)](https://github.com/Mygod/VPNHotspot/stargazers) [![Forks](https://img.shields.io/github/forks/Mygod/VPNHotspot?style=flat-square&color=blue)](https://github.com/Mygod/VPNHotspot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mygod/VPNHotspot?style=flat-square&color=yellow)](https://github.com/Mygod/VPNHotspot/stargazers) [![Forks](https://img.shields.io/github/forks/Mygod/VPNHotspot?style=flat-square&color=blue)](https://github.com/Mygod/VPNHotspot/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Share your VPN connection over hotspot or repeater! (root required)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Mygod/VPNHotspot：Mygod/VPNHotspot helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

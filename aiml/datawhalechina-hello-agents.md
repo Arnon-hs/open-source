@@ -1,6 +1,6 @@
 # datawhalechina/hello-agents
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/hello-agents?style=flat-square&color=yellow)](https://github.com/datawhalechina/hello-agents/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/hello-agents?style=flat-square&color=blue)](https://github.com/datawhalechina/hello-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/hello-agents?style=flat-square&color=yellow)](https://github.com/datawhalechina/hello-agents/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/hello-agents?style=flat-square&color=blue)](https://github.com/datawhalechina/hello-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43.7k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ datawhalechina/hello-agents：datawhalechina/hello-agents helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 97/100 |
 | stars | 99/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

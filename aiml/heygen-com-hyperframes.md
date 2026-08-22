@@ -1,6 +1,6 @@
 # heygen-com/hyperframes
 
-[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Write HTML. Render video. Built for agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ heygen-com/hyperframes：heygen-com/hyperframes helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 74/100 |
+| usefulness | 100/100 |
+| quality | 74/100 |
+| integration | 78/100 |
+| production | 59/100 |
+| outlook | 69/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

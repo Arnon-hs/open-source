@@ -1,6 +1,6 @@
 # gwern/gwern.net
 
-[![Stars](https://img.shields.io/github/stars/gwern/gwern.net?style=flat-square&color=yellow)](https://github.com/gwern/gwern.net/stargazers) [![Forks](https://img.shields.io/github/forks/gwern/gwern.net?style=flat-square&color=blue)](https://github.com/gwern/gwern.net/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gwern/gwern.net?style=flat-square&color=yellow)](https://github.com/gwern/gwern.net/stargazers) [![Forks](https://img.shields.io/github/forks/gwern/gwern.net?style=flat-square&color=blue)](https://github.com/gwern/gwern.net/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 824 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **gwern/gwern.net** — это полностью к�
 
 ### 中文
 
-gwern/gwern.net：gwern/gwern.net helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gwern/gwern.net：gwern/gwern.net helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gwern/gwern.net：gwern/gwern.net helps make deployment and operations more repe
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gwern/gwern.net：gwern/gwern.net helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 48/100 |
+| outlook | 53/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

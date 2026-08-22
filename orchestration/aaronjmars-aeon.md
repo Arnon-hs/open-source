@@ -1,6 +1,6 @@
 # aaronjmars/aeon
 
-[![Stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=flat-square&color=yellow)](https://github.com/aaronjmars/aeon/stargazers) [![Forks](https://img.shields.io/github/forks/aaronjmars/aeon?style=flat-square&color=blue)](https://github.com/aaronjmars/aeon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=flat-square&color=yellow)](https://github.com/aaronjmars/aeon/stargazers) [![Forks](https://img.shields.io/github/forks/aaronjmars/aeon?style=flat-square&color=blue)](https://github.com/aaronjmars/aeon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Orchestration · AI/ML
 
 ### 中文
 
-aaronjmars/aeon：aaronjmars/aeon helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aaronjmars/aeon：aaronjmars/aeon helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aaronjmars/aeon：aaronjmars/aeon helps turn isolated prompts and tools into rep
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aaronjmars/aeon：aaronjmars/aeon helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
+| production | 46/100 |
+| outlook | 48/100 |
 | adoption | 49/100 |
 | stars | 52/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

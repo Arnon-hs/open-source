@@ -1,6 +1,6 @@
 # jaseci-labs/jaseci
 
-[![Stars](https://img.shields.io/github/stars/jaseci-labs/jaseci?style=flat-square&color=yellow)](https://github.com/jaseci-labs/jaseci/stargazers) [![Forks](https://img.shields.io/github/forks/jaseci-labs/jaseci?style=flat-square&color=blue)](https://github.com/jaseci-labs/jaseci/network) [![Language](https://img.shields.io/badge/lang-Jac-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaseci-labs/jaseci?style=flat-square&color=yellow)](https://github.com/jaseci-labs/jaseci/stargazers) [![Forks](https://img.shields.io/github/forks/jaseci-labs/jaseci?style=flat-square&color=blue)](https://github.com/jaseci-labs/jaseci/network) [![Language](https://img.shields.io/badge/lang-Jac-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The Official Jaseci Code Repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | Jac |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ jaseci-labs/jaseci：jaseci-labs/jaseci may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 60/100 |
 | stars | 58/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

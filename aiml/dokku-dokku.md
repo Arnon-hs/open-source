@@ -1,6 +1,6 @@
 # dokku/dokku
 
-[![Stars](https://img.shields.io/github/stars/dokku/dokku?style=flat-square&color=yellow)](https://github.com/dokku/dokku/stargazers) [![Forks](https://img.shields.io/github/forks/dokku/dokku?style=flat-square&color=blue)](https://github.com/dokku/dokku/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dokku/dokku?style=flat-square&color=yellow)](https://github.com/dokku/dokku/stargazers) [![Forks](https://img.shields.io/github/forks/dokku/dokku?style=flat-square&color=blue)](https://github.com/dokku/dokku/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.9k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dokku/dokku：dokku/dokku helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 92/100 |
 | stars | 96/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # adolfousier/opencrabs
 
-[![Stars](https://img.shields.io/github/stars/adolfousier/opencrabs?style=flat-square&color=yellow)](https://github.com/adolfousier/opencrabs/stargazers) [![Forks](https://img.shields.io/github/forks/adolfousier/opencrabs?style=flat-square&color=blue)](https://github.com/adolfousier/opencrabs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adolfousier/opencrabs?style=flat-square&color=yellow)](https://github.com/adolfousier/opencrabs/stargazers) [![Forks](https://img.shields.io/github/forks/adolfousier/opencrabs?style=flat-square&color=blue)](https://github.com/adolfousier/opencrabs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The self-improving all channels AI agent. Self-healing. Fully autonomous. Single Rust binary.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 736 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenCRABS — это полностью автономный AI‑агент, 
 
 ### 中文
 
-adolfousier/opencrabs：adolfousier/opencrabs helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+adolfousier/opencrabs：adolfousier/opencrabs helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ adolfousier/opencrabs：adolfousier/opencrabs helps turn isolated prompts and to
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ adolfousier/opencrabs：adolfousier/opencrabs helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 48/100 |
+| outlook | 56/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

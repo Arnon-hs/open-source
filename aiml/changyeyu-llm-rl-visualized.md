@@ -1,6 +1,6 @@
 # changyeyu/LLM-RL-Visualized
 
-[![Stars](https://img.shields.io/github/stars/changyeyu/LLM-RL-Visualized?style=flat-square&color=yellow)](https://github.com/changyeyu/LLM-RL-Visualized/stargazers) [![Forks](https://img.shields.io/github/forks/changyeyu/LLM-RL-Visualized?style=flat-square&color=blue)](https://github.com/changyeyu/LLM-RL-Visualized/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/changyeyu/LLM-RL-Visualized?style=flat-square&color=yellow)](https://github.com/changyeyu/LLM-RL-Visualized/stargazers) [![Forks](https://img.shields.io/github/forks/changyeyu/LLM-RL-Visualized?style=flat-square&color=blue)](https://github.com/changyeyu/LLM-RL-Visualized/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🌟100+ 原创 LLM / RL 原理图📚，《大模型算法》作者巨献！💥（100+  LLM/RL Algorithm Maps ）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 401 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ changyeyu/LLM-RL-Visualized：changyeyu/LLM-RL-Visualized helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

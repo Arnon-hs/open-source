@@ -1,6 +1,6 @@
 # kysely-org/kysely-ctl
 
-[![Stars](https://img.shields.io/github/stars/kysely-org/kysely-ctl?style=flat-square&color=yellow)](https://github.com/kysely-org/kysely-ctl/stargazers) [![Forks](https://img.shields.io/github/forks/kysely-org/kysely-ctl?style=flat-square&color=blue)](https://github.com/kysely-org/kysely-ctl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kysely-org/kysely-ctl?style=flat-square&color=yellow)](https://github.com/kysely-org/kysely-ctl/stargazers) [![Forks](https://img.shields.io/github/forks/kysely-org/kysely-ctl?style=flat-square&color=blue)](https://github.com/kysely-org/kysely-ctl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool for Kysely, Knex-compatible, works in Node.js, Deno, Bun, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kysely-org/kysely-ctl：kysely-org/kysely-ctl helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 46/100 |
 | stars | 53/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

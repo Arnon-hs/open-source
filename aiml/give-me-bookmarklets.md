@@ -1,6 +1,6 @@
 # give-me/bookmarklets
 
-[![Stars](https://img.shields.io/github/stars/give-me/bookmarklets?style=flat-square&color=yellow)](https://github.com/give-me/bookmarklets/stargazers) [![Forks](https://img.shields.io/github/forks/give-me/bookmarklets?style=flat-square&color=blue)](https://github.com/give-me/bookmarklets/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/give-me/bookmarklets?style=flat-square&color=yellow)](https://github.com/give-me/bookmarklets/stargazers) [![Forks](https://img.shields.io/github/forks/give-me/bookmarklets?style=flat-square&color=blue)](https://github.com/give-me/bookmarklets/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Bookmarklet to export the content from chatbots to a PDF or text with a single click. Supports Google's AI Mode, Claude, ChatGPT, Grok and Gemini.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **give‑me/bookmarklets** project provides a lightweight bookmarklet that l
 
 ### 中文
 
-give-me/bookmarklets：give-me/bookmarklets helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+give-me/bookmarklets：give-me/bookmarklets helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ give-me/bookmarklets：give-me/bookmarklets helps add AI capability without star
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ give-me/bookmarklets：give-me/bookmarklets helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

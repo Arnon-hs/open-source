@@ -1,6 +1,6 @@
 # pamburus/hl
 
-[![Stars](https://img.shields.io/github/stars/pamburus/hl?style=flat-square&color=yellow)](https://github.com/pamburus/hl/stargazers) [![Forks](https://img.shields.io/github/forks/pamburus/hl?style=flat-square&color=blue)](https://github.com/pamburus/hl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pamburus/hl?style=flat-square&color=yellow)](https://github.com/pamburus/hl/stargazers) [![Forks](https://img.shields.io/github/forks/pamburus/hl?style=flat-square&color=blue)](https://github.com/pamburus/hl/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pamburus/hl：pamburus/hl helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 74/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

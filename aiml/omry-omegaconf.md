@@ -1,6 +1,6 @@
 # omry/omegaconf
 
-[![Stars](https://img.shields.io/github/stars/omry/omegaconf?style=flat-square&color=yellow)](https://github.com/omry/omegaconf/stargazers) [![Forks](https://img.shields.io/github/forks/omry/omegaconf?style=flat-square&color=blue)](https://github.com/omry/omegaconf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omry/omegaconf?style=flat-square&color=yellow)](https://github.com/omry/omegaconf/stargazers) [![Forks](https://img.shields.io/github/forks/omry/omegaconf?style=flat-square&color=blue)](https://github.com/omry/omegaconf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible Python configuration system. The last one you will ever need.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 154 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ omry/omegaconf：omry/omegaconf helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 67/100 |
 | stars | 72/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

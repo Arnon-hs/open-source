@@ -1,6 +1,6 @@
 # openai/openai-agents-js
 
-[![Stars](https://img.shields.io/github/stars/openai/openai-agents-js?style=flat-square&color=yellow)](https://github.com/openai/openai-agents-js/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-agents-js?style=flat-square&color=blue)](https://github.com/openai/openai-agents-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/openai-agents-js?style=flat-square&color=yellow)](https://github.com/openai/openai-agents-js/stargazers) [![Forks](https://img.shields.io/github/forks/openai/openai-agents-js?style=flat-square&color=blue)](https://github.com/openai/openai-agents-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, powerful framework for multi-agent workflows and voice agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 730 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openai/openai-agents-js：openai/openai-agents-js helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 69/100 |
+| production | 53/100 |
+| outlook | 62/100 |
 | adoption | 73/100 |
 | stars | 74/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

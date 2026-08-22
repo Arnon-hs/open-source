@@ -1,6 +1,6 @@
 # ParadiseSS13/Paradise
 
-[![Stars](https://img.shields.io/github/stars/ParadiseSS13/Paradise?style=flat-square&color=yellow)](https://github.com/ParadiseSS13/Paradise/stargazers) [![Forks](https://img.shields.io/github/forks/ParadiseSS13/Paradise?style=flat-square&color=blue)](https://github.com/ParadiseSS13/Paradise/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ParadiseSS13/Paradise?style=flat-square&color=yellow)](https://github.com/ParadiseSS13/Paradise/stargazers) [![Forks](https://img.shields.io/github/forks/ParadiseSS13/Paradise?style=flat-square&color=blue)](https://github.com/ParadiseSS13/Paradise/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Paradise Station's GitHub main repository.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | DM |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ParadiseSS13/Paradise — открытый репозиторий GitHub, со
 
 ### 中文
 
-ParadiseSS13/Paradise：ParadiseSS13/Paradise helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ParadiseSS13/Paradise：ParadiseSS13/Paradise helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ParadiseSS13/Paradise：ParadiseSS13/Paradise helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ParadiseSS13/Paradise：ParadiseSS13/Paradise helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 62/100 |
 | stars | 56/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

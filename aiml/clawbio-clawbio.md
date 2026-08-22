@@ -1,6 +1,6 @@
 # ClawBio/ClawBio
 
-[![Stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square&color=yellow)](https://github.com/ClawBio/ClawBio/stargazers) [![Forks](https://img.shields.io/github/forks/ClawBio/ClawBio?style=flat-square&color=blue)](https://github.com/ClawBio/ClawBio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square&color=yellow)](https://github.com/ClawBio/ClawBio/stargazers) [![Forks](https://img.shields.io/github/forks/ClawBio/ClawBio?style=flat-square&color=blue)](https://github.com/ClawBio/ClawBio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🦖 ClawBio — The first bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 785 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ClawBio/ClawBio：ClawBio/ClawBio helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 60/100 |
 | stars | 62/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

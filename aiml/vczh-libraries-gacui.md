@@ -1,6 +1,6 @@
 # vczh-libraries/GacUI
 
-[![Stars](https://img.shields.io/github/stars/vczh-libraries/GacUI?style=flat-square&color=yellow)](https://github.com/vczh-libraries/GacUI/stargazers) [![Forks](https://img.shields.io/github/forks/vczh-libraries/GacUI?style=flat-square&color=blue)](https://github.com/vczh-libraries/GacUI/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vczh-libraries/GacUI?style=flat-square&color=yellow)](https://github.com/vczh-libraries/GacUI/stargazers) [![Forks](https://img.shields.io/github/forks/vczh-libraries/GacUI?style=flat-square&color=blue)](https://github.com/vczh-libraries/GacUI/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Native C++ UI library, cross-platform, MVVM and data binding, XML description, multi-language, core/renderer cross-process separation, etc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GacUI is a native C++ user‑interface framework that offers a fully cross‑pla
 
 ### 中文
 
-vczh-libraries/GacUI：vczh-libraries/GacUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vczh-libraries/GacUI：vczh-libraries/GacUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vczh-libraries/GacUI：vczh-libraries/GacUI helps add AI capability without star
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ vczh-libraries/GacUI：vczh-libraries/GacUI helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
+| usefulness | 58/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 46/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

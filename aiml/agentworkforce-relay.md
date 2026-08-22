@@ -1,6 +1,6 @@
 # AgentWorkforce/relay
 
-[![Stars](https://img.shields.io/github/stars/AgentWorkforce/relay?style=flat-square&color=yellow)](https://github.com/AgentWorkforce/relay/stargazers) [![Forks](https://img.shields.io/github/forks/AgentWorkforce/relay?style=flat-square&color=blue)](https://github.com/AgentWorkforce/relay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentWorkforce/relay?style=flat-square&color=yellow)](https://github.com/AgentWorkforce/relay/stargazers) [![Forks](https://img.shields.io/github/forks/AgentWorkforce/relay?style=flat-square&color=blue)](https://github.com/AgentWorkforce/relay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time agent to agent communication
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AgentWorkforce/relay is an open‑source framework that enables real‑time, pee
 
 ### 中文
 
-AgentWorkforce/relay：AgentWorkforce/relay helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AgentWorkforce/relay：AgentWorkforce/relay helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AgentWorkforce/relay：AgentWorkforce/relay helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AgentWorkforce/relay：AgentWorkforce/relay helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

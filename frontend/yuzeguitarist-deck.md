@@ -1,6 +1,6 @@
 # yuzeguitarist/Deck
 
-[![Stars](https://img.shields.io/github/stars/yuzeguitarist/Deck?style=flat-square&color=yellow)](https://github.com/yuzeguitarist/Deck/stargazers) [![Forks](https://img.shields.io/github/forks/yuzeguitarist/Deck?style=flat-square&color=blue)](https://github.com/yuzeguitarist/Deck/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuzeguitarist/Deck?style=flat-square&color=yellow)](https://github.com/yuzeguitarist/Deck/stargazers) [![Forks](https://img.shields.io/github/forks/yuzeguitarist/Deck?style=flat-square&color=blue)](https://github.com/yuzeguitarist/Deck/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Deck is a modern, native, privacy-first clipboard manager for macOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yuzeguitarist/Deck：yuzeguitarist/Deck helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
+| production | 50/100 |
+| outlook | 59/100 |
 | adoption | 58/100 |
 | stars | 65/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # nhost/nhost
 
-[![Stars](https://img.shields.io/github/stars/nhost/nhost?style=flat-square&color=yellow)](https://github.com/nhost/nhost/stargazers) [![Forks](https://img.shields.io/github/forks/nhost/nhost?style=flat-square&color=blue)](https://github.com/nhost/nhost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nhost/nhost?style=flat-square&color=yellow)](https://github.com/nhost/nhost/stargazers) [![Forks](https://img.shields.io/github/forks/nhost/nhost?style=flat-square&color=blue)](https://github.com/nhost/nhost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source Firebase Alternative with GraphQL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nhost/nhost：nhost/nhost helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

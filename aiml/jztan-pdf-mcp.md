@@ -1,6 +1,6 @@
 # jztan/pdf-mcp
 
-[![Stars](https://img.shields.io/github/stars/jztan/pdf-mcp?style=flat-square&color=yellow)](https://github.com/jztan/pdf-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jztan/pdf-mcp?style=flat-square&color=blue)](https://github.com/jztan/pdf-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jztan/pdf-mcp?style=flat-square&color=yellow)](https://github.com/jztan/pdf-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jztan/pdf-mcp?style=flat-square&color=blue)](https://github.com/jztan/pdf-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that lets Claude Code and other AI agents read large PDFs without hitting context limits. Chunked reading, hybrid search, OCR, table and image extraction, SQLite cache.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jztan/pdf-mcp：jztan/pdf-mcp helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

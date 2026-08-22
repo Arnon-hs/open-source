@@ -1,6 +1,6 @@
 # Meirtz/Awesome-Context-Engineering
 
-[![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=flat-square&color=yellow)](https://github.com/Meirtz/Awesome-Context-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/Meirtz/Awesome-Context-Engineering?style=flat-square&color=blue)](https://github.com/Meirtz/Awesome-Context-Engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=flat-square&color=yellow)](https://github.com/Meirtz/Awesome-Context-Engineering/stargazers) [![Forks](https://img.shields.io/github/forks/Meirtz/Awesome-Context-Engineering?style=flat-square&color=blue)](https://github.com/Meirtz/Awesome-Context-Engineering/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ Meirtz/Awesome-Context-Engineering：Meirtz/Awesome-Context-Engineering helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 69/100 |
+| production | 50/100 |
+| outlook | 62/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

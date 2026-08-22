@@ -1,6 +1,6 @@
 # awizemann/scarf
 
-[![Stars](https://img.shields.io/github/stars/awizemann/scarf?style=flat-square&color=yellow)](https://github.com/awizemann/scarf/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/scarf?style=flat-square&color=blue)](https://github.com/awizemann/scarf/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awizemann/scarf?style=flat-square&color=yellow)](https://github.com/awizemann/scarf/stargazers) [![Forks](https://img.shields.io/github/forks/awizemann/scarf?style=flat-square&color=blue)](https://github.com/awizemann/scarf/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Frontend · Backend
 
 ### 中文
 
-awizemann/scarf：awizemann/scarf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awizemann/scarf：awizemann/scarf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awizemann/scarf：awizemann/scarf helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ awizemann/scarf：awizemann/scarf helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 58/100 |
 | adoption | 50/100 |
 | stars | 56/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

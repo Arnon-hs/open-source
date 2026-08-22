@@ -1,6 +1,6 @@
 # dmae97/oh-my-kimi
 
-[![Stars](https://img.shields.io/github/stars/dmae97/oh-my-kimi?style=flat-square&color=yellow)](https://github.com/dmae97/oh-my-kimi/stargazers) [![Forks](https://img.shields.io/github/forks/dmae97/oh-my-kimi?style=flat-square&color=blue)](https://github.com/dmae97/oh-my-kimi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmae97/oh-my-kimi?style=flat-square&color=yellow)](https://github.com/dmae97/oh-my-kimi/stargazers) [![Forks](https://img.shields.io/github/forks/dmae97/oh-my-kimi?style=flat-square&color=blue)](https://github.com/dmae97/oh-my-kimi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6): worktree team runtime, DAG/ensemble planning, MCP skill-hooks, quality gates, and local graph memory. | Kimi Code CLI(K2.6)向け本番対応マルチエージェント基盤: worktreeチーム実行、DAG/ensemble計画、MCP/スキルフック、品質ゲート、ローカルグラフ記憶を提供。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dmae97/oh-my-kimi：dmae97/oh-my-kimi helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 33/100 |
 | stars | 38/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

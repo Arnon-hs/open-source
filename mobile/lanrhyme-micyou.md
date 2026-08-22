@@ -1,6 +1,6 @@
 # LanRhyme/MicYou
 
-[![Stars](https://img.shields.io/github/stars/LanRhyme/MicYou?style=flat-square&color=yellow)](https://github.com/LanRhyme/MicYou/stargazers) [![Forks](https://img.shields.io/github/forks/LanRhyme/MicYou?style=flat-square&color=blue)](https://github.com/LanRhyme/MicYou/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LanRhyme/MicYou?style=flat-square&color=yellow)](https://github.com/LanRhyme/MicYou/stargazers) [![Forks](https://img.shields.io/github/forks/LanRhyme/MicYou?style=flat-square&color=blue)](https://github.com/LanRhyme/MicYou/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LanRhyme/MicYou — это бесплатное приложение, прев�
 
 ### 中文
 
-LanRhyme/MicYou：LanRhyme/MicYou may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+LanRhyme/MicYou：LanRhyme/MicYou may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ LanRhyme/MicYou：LanRhyme/MicYou may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ LanRhyme/MicYou：LanRhyme/MicYou may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 51/100 |
+| production | 44/100 |
+| outlook | 44/100 |
 | adoption | 63/100 |
 | stars | 70/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

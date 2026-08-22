@@ -1,18 +1,18 @@
 # firecrawl/firecrawl
 
-[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square&color=yellow)](https://github.com/firecrawl/firecrawl/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/firecrawl?style=flat-square&color=blue)](https://github.com/firecrawl/firecrawl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square&color=yellow)](https://github.com/firecrawl/firecrawl/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/firecrawl?style=flat-square&color=blue)](https://github.com/firecrawl/firecrawl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
-> The API to search, scrape, and interact with the web at scale. 🔥
+> 🔥 The API to search, scrape, and interact with the web for AI
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 149.7k |
-| 🍴 **Forks** | 8.6k |
+| ⭐ **Stars** | 116.3k |
+| 🍴 **Forks** | 7.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ AI/ML · Backend · Data
 
 ### English
 
-firecrawl/firecrawl: firecrawl/firecrawl helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+firecrawl/firecrawl: firecrawl/firecrawl helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-firecrawl/firecrawl: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+firecrawl/firecrawl: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 149682 GitHub stars
-- 8562 forks
-- updated 2026-07-12
+- 116333 GitHub stars
+- 7293 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 19 topics
 
@@ -66,17 +66,17 @@ firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 100/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 86/100 |
-| outlook | 95/100 |
-| adoption | 100/100 |
+| production | 59/100 |
+| outlook | 67/100 |
+| adoption | 99/100 |
 | stars | 100/100 |
-| forks | 98/100 |
-| recency | 100/100 |
+| forks | 97/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/firecrawl/firecrawl) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/firecrawl/firecrawl) · [← Back to AI/ML](./README.md)</sub>

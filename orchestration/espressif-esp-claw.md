@@ -1,6 +1,6 @@
 # espressif/esp-claw
 
-[![Stars](https://img.shields.io/github/stars/espressif/esp-claw?style=flat-square&color=yellow)](https://github.com/espressif/esp-claw/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-claw?style=flat-square&color=blue)](https://github.com/espressif/esp-claw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espressif/esp-claw?style=flat-square&color=yellow)](https://github.com/espressif/esp-claw/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-claw?style=flat-square&color=blue)](https://github.com/espressif/esp-claw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ESP‑Claw — это открытый фреймворк для создан�
 
 ### 中文
 
-espressif/esp-claw：espressif/esp-claw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+espressif/esp-claw：espressif/esp-claw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ espressif/esp-claw：espressif/esp-claw helps turn isolated prompts and tools in
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ espressif/esp-claw：espressif/esp-claw helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 55/100 |
+| production | 44/100 |
+| outlook | 48/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

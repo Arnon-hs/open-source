@@ -1,6 +1,6 @@
 # reactjs/react-docgen
 
-[![Stars](https://img.shields.io/github/stars/reactjs/react-docgen?style=flat-square&color=yellow)](https://github.com/reactjs/react-docgen/stargazers) [![Forks](https://img.shields.io/github/forks/reactjs/react-docgen?style=flat-square&color=blue)](https://github.com/reactjs/react-docgen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reactjs/react-docgen?style=flat-square&color=yellow)](https://github.com/reactjs/react-docgen/stargazers) [![Forks](https://img.shields.io/github/forks/reactjs/react-docgen?style=flat-square&color=blue)](https://github.com/reactjs/react-docgen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI and library to extract information from React component files for documentation generation purposes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ reactjs/react-docgen：reactjs/react-docgen helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 76/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

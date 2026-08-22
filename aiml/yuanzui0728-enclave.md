@@ -1,6 +1,6 @@
 # yuanzui0728/Enclave
 
-[![Stars](https://img.shields.io/github/stars/yuanzui0728/Enclave?style=flat-square&color=yellow)](https://github.com/yuanzui0728/Enclave/stargazers) [![Forks](https://img.shields.io/github/forks/yuanzui0728/Enclave?style=flat-square&color=blue)](https://github.com/yuanzui0728/Enclave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yuanzui0728/Enclave?style=flat-square&color=yellow)](https://github.com/yuanzui0728/Enclave/stargazers) [![Forks](https://img.shields.io/github/forks/yuanzui0728/Enclave?style=flat-square&color=blue)](https://github.com/yuanzui0728/Enclave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Your own AI-powered virtual world.     一个属于你的 AI 虚拟世界 。AI companionship.AI陪伴。AI Socializing.AI社交。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Enclave is an open‑source platform that lets users create and explore a person
 
 ### 中文
 
-yuanzui0728/Enclave：yuanzui0728/Enclave helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yuanzui0728/Enclave：yuanzui0728/Enclave helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yuanzui0728/Enclave：yuanzui0728/Enclave helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yuanzui0728/Enclave：yuanzui0728/Enclave helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 47/100 |
+| outlook | 52/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

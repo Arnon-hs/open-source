@@ -1,6 +1,6 @@
 # rizsotto/Bear
 
-[![Stars](https://img.shields.io/github/stars/rizsotto/Bear?style=flat-square&color=yellow)](https://github.com/rizsotto/Bear/stargazers) [![Forks](https://img.shields.io/github/forks/rizsotto/Bear?style=flat-square&color=blue)](https://github.com/rizsotto/Bear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizsotto/Bear?style=flat-square&color=yellow)](https://github.com/rizsotto/Bear/stargazers) [![Forks](https://img.shields.io/github/forks/rizsotto/Bear?style=flat-square&color=blue)](https://github.com/rizsotto/Bear/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Bear is a tool that generates a compilation database for clang tooling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Bear — это утилита, генерирующая базу компил
 
 ### 中文
 
-rizsotto/Bear：rizsotto/Bear helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rizsotto/Bear：rizsotto/Bear helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rizsotto/Bear：rizsotto/Bear helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rizsotto/Bear：rizsotto/Bear helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 48/100 |
+| outlook | 53/100 |
 | adoption | 76/100 |
 | stars | 81/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # kysely-org/kysely
 
-[![Stars](https://img.shields.io/github/stars/kysely-org/kysely?style=flat-square&color=yellow)](https://github.com/kysely-org/kysely/stargazers) [![Forks](https://img.shields.io/github/forks/kysely-org/kysely?style=flat-square&color=blue)](https://github.com/kysely-org/kysely/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kysely-org/kysely?style=flat-square&color=yellow)](https://github.com/kysely-org/kysely/stargazers) [![Forks](https://img.shields.io/github/forks/kysely-org/kysely?style=flat-square&color=blue)](https://github.com/kysely-org/kysely/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A type-safe TypeScript SQL query builder
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 401 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kysely-org/kysely：kysely-org/kysely helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 82/100 |
 | stars | 88/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

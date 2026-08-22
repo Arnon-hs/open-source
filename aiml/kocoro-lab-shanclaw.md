@@ -1,6 +1,6 @@
 # Kocoro-lab/ShanClaw
 
-[![Stars](https://img.shields.io/github/stars/Kocoro-lab/ShanClaw?style=flat-square&color=yellow)](https://github.com/Kocoro-lab/ShanClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Kocoro-lab/ShanClaw?style=flat-square&color=blue)](https://github.com/Kocoro-lab/ShanClaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kocoro-lab/ShanClaw?style=flat-square&color=yellow)](https://github.com/Kocoro-lab/ShanClaw/stargazers) [![Forks](https://img.shields.io/github/forks/Kocoro-lab/ShanClaw?style=flat-square&color=blue)](https://github.com/Kocoro-lab/ShanClaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent runtime powered by Shannon — Mac file ops, shell, GUI automation — with complex task delegation via Shannon Cloud workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 257 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kocoro‑lab/ShanClaw — это открытая платформа‑runtime
 
 ### 中文
 
-Kocoro-lab/ShanClaw：Kocoro-lab/ShanClaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Kocoro-lab/ShanClaw：Kocoro-lab/ShanClaw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Kocoro-lab/ShanClaw：Kocoro-lab/ShanClaw helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ Kocoro-lab/ShanClaw：Kocoro-lab/ShanClaw helps add AI capability without starti
 - updated 2026-05-09
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 55/100 |
+| production | 44/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 51/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

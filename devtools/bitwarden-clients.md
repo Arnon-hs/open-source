@@ -1,6 +1,6 @@
 # bitwarden/clients
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/clients?style=flat-square&color=yellow)](https://github.com/bitwarden/clients/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/clients?style=flat-square&color=blue)](https://github.com/bitwarden/clients/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/clients?style=flat-square&color=yellow)](https://github.com/bitwarden/clients/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/clients?style=flat-square&color=blue)](https://github.com/bitwarden/clients/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden client apps (web, browser extension, desktop, and cli).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bitwarden/clients：bitwarden/clients helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 86/100 |
 | stars | 87/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

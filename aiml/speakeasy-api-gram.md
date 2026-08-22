@@ -1,6 +1,6 @@
 # speakeasy-api/gram
 
-[![Stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=flat-square&color=yellow)](https://github.com/speakeasy-api/gram/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/gram?style=flat-square&color=blue)](https://github.com/speakeasy-api/gram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=flat-square&color=yellow)](https://github.com/speakeasy-api/gram/stargazers) [![Forks](https://img.shields.io/github/forks/speakeasy-api/gram?style=flat-square&color=blue)](https://github.com/speakeasy-api/gram/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Securely scale AI usage across your organization.  Control plane for building, securing and monitoring your agents, mcp and skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ speakeasy-api/gram：speakeasy-api/gram helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 100/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

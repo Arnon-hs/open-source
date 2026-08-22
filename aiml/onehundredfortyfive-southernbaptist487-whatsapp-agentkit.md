@@ -1,6 +1,6 @@
 # onehundredfortyfive-southernbaptist487/whatsapp-agentkit
 
-[![Stars](https://img.shields.io/github/stars/onehundredfortyfive-southernbaptist487/whatsapp-agentkit?style=flat-square&color=yellow)](https://github.com/onehundredfortyfive-southernbaptist487/whatsapp-agentkit/stargazers) [![Forks](https://img.shields.io/github/forks/onehundredfortyfive-southernbaptist487/whatsapp-agentkit?style=flat-square&color=blue)](https://github.com/onehundredfortyfive-southernbaptist487/whatsapp-agentkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onehundredfortyfive-southernbaptist487/whatsapp-agentkit?style=flat-square&color=yellow)](https://github.com/onehundredfortyfive-southernbaptist487/whatsapp-agentkit/stargazers) [![Forks](https://img.shields.io/github/forks/onehundredfortyfive-southernbaptist487/whatsapp-agentkit?style=flat-square&color=blue)](https://github.com/onehundredfortyfive-southernbaptist487/whatsapp-agentkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Build custom WhatsApp AI agents with Claude Code in under 30 minutes, no coding needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ onehundredfortyfive-southernbaptist487/whatsapp-agentkit：onehundredfortyfive-s
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

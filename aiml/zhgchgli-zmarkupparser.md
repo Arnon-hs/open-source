@@ -1,6 +1,6 @@
 # ZhgChgLi/ZMarkupParser
 
-[![Stars](https://img.shields.io/github/stars/ZhgChgLi/ZMarkupParser?style=flat-square&color=yellow)](https://github.com/ZhgChgLi/ZMarkupParser/stargazers) [![Forks](https://img.shields.io/github/forks/ZhgChgLi/ZMarkupParser?style=flat-square&color=blue)](https://github.com/ZhgChgLi/ZMarkupParser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhgChgLi/ZMarkupParser?style=flat-square&color=yellow)](https://github.com/ZhgChgLi/ZMarkupParser/stargazers) [![Forks](https://img.shields.io/github/forks/ZhgChgLi/ZMarkupParser?style=flat-square&color=blue)](https://github.com/ZhgChgLi/ZMarkupParser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ZMarkupParser is a pure-Swift library that helps you convert HTML strings into NSAttributedString with customized styles and tags.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ZMarkupParser — это полностью написанная на Swift б
 
 ### 中文
 
-ZhgChgLi/ZMarkupParser：ZhgChgLi/ZMarkupParser helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ZhgChgLi/ZMarkupParser：ZhgChgLi/ZMarkupParser helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ZhgChgLi/ZMarkupParser：ZhgChgLi/ZMarkupParser helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ ZhgChgLi/ZMarkupParser：ZhgChgLi/ZMarkupParser helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
+| usefulness | 58/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

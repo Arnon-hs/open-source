@@ -1,6 +1,6 @@
 # wevm/mppx
 
-[![Stars](https://img.shields.io/github/stars/wevm/mppx?style=flat-square&color=yellow)](https://github.com/wevm/mppx/stargazers) [![Forks](https://img.shields.io/github/forks/wevm/mppx?style=flat-square&color=blue)](https://github.com/wevm/mppx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wevm/mppx?style=flat-square&color=yellow)](https://github.com/wevm/mppx/stargazers) [![Forks](https://img.shields.io/github/forks/wevm/mppx?style=flat-square&color=blue)](https://github.com/wevm/mppx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript Interface for Machine Payments Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ wevm/mppx is an open‑source TypeScript library that defines a clean, type‑sa
 
 ### 中文
 
-wevm/mppx：wevm/mppx helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wevm/mppx：wevm/mppx helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wevm/mppx：wevm/mppx helps integrate monetization, billing, or PSP flows faster
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wevm/mppx：wevm/mppx helps integrate monetization, billing, or PSP flows faster
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 47/100 |
+| outlook | 45/100 |
 | adoption | 43/100 |
 | stars | 44/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

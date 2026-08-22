@@ -1,6 +1,6 @@
 # exequtic/apdatifier
 
-[![Stars](https://img.shields.io/github/stars/exequtic/apdatifier?style=flat-square&color=yellow)](https://github.com/exequtic/apdatifier/stargazers) [![Forks](https://img.shields.io/github/forks/exequtic/apdatifier?style=flat-square&color=blue)](https://github.com/exequtic/apdatifier/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exequtic/apdatifier?style=flat-square&color=yellow)](https://github.com/exequtic/apdatifier/stargazers) [![Forks](https://img.shields.io/github/forks/exequtic/apdatifier?style=flat-square&color=blue)](https://github.com/exequtic/apdatifier/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > KDE Plasma widget that tracks updates for ArchLinux, Plasma Widgets, and Flatpak, providing notifications for new ones
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ exequtic/apdatifier is a KDE Plasma widget that monitors the Arch Linux syst
 
 ### 中文
 
-exequtic/apdatifier：exequtic/apdatifier helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+exequtic/apdatifier：exequtic/apdatifier helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ exequtic/apdatifier：exequtic/apdatifier helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ exequtic/apdatifier：exequtic/apdatifier helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

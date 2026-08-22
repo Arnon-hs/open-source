@@ -1,6 +1,6 @@
 # bootgly/bootgly
 
-[![Stars](https://img.shields.io/github/stars/bootgly/bootgly?style=flat-square&color=yellow)](https://github.com/bootgly/bootgly/stargazers) [![Forks](https://img.shields.io/github/forks/bootgly/bootgly?style=flat-square&color=blue)](https://github.com/bootgly/bootgly/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bootgly/bootgly?style=flat-square&color=yellow)](https://github.com/bootgly/bootgly/stargazers) [![Forks](https://img.shields.io/github/forks/bootgly/bootgly?style=flat-square&color=blue)](https://github.com/bootgly/bootgly/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Base PHP Framework for Multi Projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 228 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Bootgly — это легковесный open‑source фреймворк н�
 
 ### 中文
 
-bootgly/bootgly：bootgly/bootgly helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bootgly/bootgly：bootgly/bootgly helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bootgly/bootgly：bootgly/bootgly helps teams reuse service infrastructure inste
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bootgly/bootgly：bootgly/bootgly helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 38/100 |
 | stars | 50/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

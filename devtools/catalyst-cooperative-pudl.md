@@ -1,6 +1,6 @@
 # catalyst-cooperative/pudl
 
-[![Stars](https://img.shields.io/github/stars/catalyst-cooperative/pudl?style=flat-square&color=yellow)](https://github.com/catalyst-cooperative/pudl/stargazers) [![Forks](https://img.shields.io/github/forks/catalyst-cooperative/pudl?style=flat-square&color=blue)](https://github.com/catalyst-cooperative/pudl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/catalyst-cooperative/pudl?style=flat-square&color=yellow)](https://github.com/catalyst-cooperative/pudl/stargazers) [![Forks](https://img.shields.io/github/forks/catalyst-cooperative/pudl?style=flat-square&color=blue)](https://github.com/catalyst-cooperative/pudl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The Public Utility Data Liberation Project provides analysis-ready energy system data to climate advocates, researchers, policymakers, and journalists.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ catalyst-cooperative/pudl：catalyst-cooperative/pudl helps engineers save time 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 59/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

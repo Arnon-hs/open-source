@@ -1,6 +1,6 @@
 # tock/tock
 
-[![Stars](https://img.shields.io/github/stars/tock/tock?style=flat-square&color=yellow)](https://github.com/tock/tock/stargazers) [![Forks](https://img.shields.io/github/forks/tock/tock?style=flat-square&color=blue)](https://github.com/tock/tock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tock/tock?style=flat-square&color=yellow)](https://github.com/tock/tock/stargazers) [![Forks](https://img.shields.io/github/forks/tock/tock?style=flat-square&color=blue)](https://github.com/tock/tock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A secure embedded operating system for microcontrollers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 827 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tock/tock：tock/tock may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 79/100 |
 | stars | 81/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

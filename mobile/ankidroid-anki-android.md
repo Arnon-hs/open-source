@@ -1,6 +1,6 @@
 # ankidroid/Anki-Android
 
-[![Stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=flat-square&color=yellow)](https://github.com/ankidroid/Anki-Android/stargazers) [![Forks](https://img.shields.io/github/forks/ankidroid/Anki-Android?style=flat-square&color=blue)](https://github.com/ankidroid/Anki-Android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=flat-square&color=yellow)](https://github.com/ankidroid/Anki-Android/stargazers) [![Forks](https://img.shields.io/github/forks/ankidroid/Anki-Android?style=flat-square&color=blue)](https://github.com/ankidroid/Anki-Android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ankidroid/Anki-Android：ankidroid/Anki-Android may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 86/100 |
 | stars | 86/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

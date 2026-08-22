@@ -1,6 +1,6 @@
 # kreuzberg-dev/kreuzberg
 
-[![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&color=yellow)](https://github.com/kreuzberg-dev/kreuzberg/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzberg-dev/kreuzberg?style=flat-square&color=blue)](https://github.com/kreuzberg-dev/kreuzberg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&color=yellow)](https://github.com/kreuzberg-dev/kreuzberg/stargazers) [![Forks](https://img.shields.io/github/forks/kreuzberg-dev/kreuzberg?style=flat-square&color=blue)](https://github.com/kreuzberg-dev/kreuzberg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python, Ruby, Java, Go, PHP, Elixir, C#, R, C, TypeScript (Node/Bun/Wasm/Deno)- or use via CLI, REST API, or MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 477 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kreuzberg-dev/kreuzberg：kreuzberg-dev/kreuzberg helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 100/100 |
-| production | 68/100 |
-| outlook | 74/100 |
+| production | 61/100 |
+| outlook | 67/100 |
 | adoption | 79/100 |
 | stars | 83/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # omegaup/omegaup
 
-[![Stars](https://img.shields.io/github/stars/omegaup/omegaup?style=flat-square&color=yellow)](https://github.com/omegaup/omegaup/stargazers) [![Forks](https://img.shields.io/github/forks/omegaup/omegaup?style=flat-square&color=blue)](https://github.com/omegaup/omegaup/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omegaup/omegaup?style=flat-square&color=yellow)](https://github.com/omegaup/omegaup/stargazers) [![Forks](https://img.shields.io/github/forks/omegaup/omegaup?style=flat-square&color=blue)](https://github.com/omegaup/omegaup/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > omegaUp automatic programming contest evaluator & arena
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 529 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ OmegaUp - это бесплатный и открытый инструмент �
 
 ### 中文
 
-omegaup/omegaup：omegaup/omegaup helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+omegaup/omegaup：omegaup/omegaup helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ omegaup/omegaup：omegaup/omegaup helps engineers save time in daily development
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ omegaup/omegaup：omegaup/omegaup helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 58/100 |
 | stars | 54/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

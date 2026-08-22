@@ -1,6 +1,6 @@
 # webdeveric/webpack-assets-manifest
 
-[![Stars](https://img.shields.io/github/stars/webdeveric/webpack-assets-manifest?style=flat-square&color=yellow)](https://github.com/webdeveric/webpack-assets-manifest/stargazers) [![Forks](https://img.shields.io/github/forks/webdeveric/webpack-assets-manifest?style=flat-square&color=blue)](https://github.com/webdeveric/webpack-assets-manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webdeveric/webpack-assets-manifest?style=flat-square&color=yellow)](https://github.com/webdeveric/webpack-assets-manifest/stargazers) [![Forks](https://img.shields.io/github/forks/webdeveric/webpack-assets-manifest?style=flat-square&color=blue)](https://github.com/webdeveric/webpack-assets-manifest/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > This webpack plugin will generate a JSON file that matches the original filename with the hashed version.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ webdeveric/webpack-assets-manifest：webdeveric/webpack-assets-manifest may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 53/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

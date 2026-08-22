@@ -1,6 +1,6 @@
 # ucsd-progsys/liquidhaskell
 
-[![Stars](https://img.shields.io/github/stars/ucsd-progsys/liquidhaskell?style=flat-square&color=yellow)](https://github.com/ucsd-progsys/liquidhaskell/stargazers) [![Forks](https://img.shields.io/github/forks/ucsd-progsys/liquidhaskell?style=flat-square&color=blue)](https://github.com/ucsd-progsys/liquidhaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ucsd-progsys/liquidhaskell?style=flat-square&color=yellow)](https://github.com/ucsd-progsys/liquidhaskell/stargazers) [![Forks](https://img.shields.io/github/forks/ucsd-progsys/liquidhaskell?style=flat-square&color=blue)](https://github.com/ucsd-progsys/liquidhaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Liquid Types For Haskell
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **ucsd-progsys/liquidhaskell** предоставля
 
 ### 中文
 
-ucsd-progsys/liquidhaskell：ucsd-progsys/liquidhaskell helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ucsd-progsys/liquidhaskell：ucsd-progsys/liquidhaskell helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ucsd-progsys/liquidhaskell：ucsd-progsys/liquidhaskell helps ship user-facing i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ucsd-progsys/liquidhaskell：ucsd-progsys/liquidhaskell helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

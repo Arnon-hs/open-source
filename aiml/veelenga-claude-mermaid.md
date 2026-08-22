@@ -1,6 +1,6 @@
 # veelenga/claude-mermaid
 
-[![Stars](https://img.shields.io/github/stars/veelenga/claude-mermaid?style=flat-square&color=yellow)](https://github.com/veelenga/claude-mermaid/stargazers) [![Forks](https://img.shields.io/github/forks/veelenga/claude-mermaid?style=flat-square&color=blue)](https://github.com/veelenga/claude-mermaid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/veelenga/claude-mermaid?style=flat-square&color=yellow)](https://github.com/veelenga/claude-mermaid/stargazers) [![Forks](https://img.shields.io/github/forks/veelenga/claude-mermaid?style=flat-square&color=blue)](https://github.com/veelenga/claude-mermaid/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server to previewing mermaid diagrams with live reload
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ AI/ML · Backend
 
 ### 中文
 
-veelenga/claude-mermaid：veelenga/claude-mermaid helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+veelenga/claude-mermaid：veelenga/claude-mermaid helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ veelenga/claude-mermaid：veelenga/claude-mermaid helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -60,21 +60,21 @@ veelenga/claude-mermaid：veelenga/claude-mermaid helps add AI capability withou
 - primary language: TypeScript
 - 2 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

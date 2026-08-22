@@ -1,6 +1,6 @@
 # LMCache/LMCache
 
-[![Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=flat-square&color=yellow)](https://github.com/LMCache/LMCache/stargazers) [![Forks](https://img.shields.io/github/forks/LMCache/LMCache?style=flat-square&color=blue)](https://github.com/LMCache/LMCache/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LMCache/LMCache?style=flat-square&color=yellow)](https://github.com/LMCache/LMCache/stargazers) [![Forks](https://img.shields.io/github/forks/LMCache/LMCache?style=flat-square&color=blue)](https://github.com/LMCache/LMCache/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Supercharge Your LLM with the Fastest KV Cache Layer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LMCache/LMCache：LMCache/LMCache helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

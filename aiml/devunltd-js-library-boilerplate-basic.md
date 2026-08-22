@@ -1,6 +1,6 @@
 # DevUnltd/js-library-boilerplate-basic
 
-[![Stars](https://img.shields.io/github/stars/DevUnltd/js-library-boilerplate-basic?style=flat-square&color=yellow)](https://github.com/DevUnltd/js-library-boilerplate-basic/stargazers) [![Forks](https://img.shields.io/github/forks/DevUnltd/js-library-boilerplate-basic?style=flat-square&color=blue)](https://github.com/DevUnltd/js-library-boilerplate-basic/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DevUnltd/js-library-boilerplate-basic?style=flat-square&color=yellow)](https://github.com/DevUnltd/js-library-boilerplate-basic/stargazers) [![Forks](https://img.shields.io/github/forks/DevUnltd/js-library-boilerplate-basic?style=flat-square&color=blue)](https://github.com/DevUnltd/js-library-boilerplate-basic/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Javascript Minimal Starter Boilerplate - Webpack 5 🚀, Babel 7, UMD, Unit Testing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DevUnltd/js-library-boilerplate-basic — это минимальный ста
 
 ### 中文
 
-DevUnltd/js-library-boilerplate-basic：DevUnltd/js-library-boilerplate-basic helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DevUnltd/js-library-boilerplate-basic：DevUnltd/js-library-boilerplate-basic helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DevUnltd/js-library-boilerplate-basic：DevUnltd/js-library-boilerplate-basic he
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DevUnltd/js-library-boilerplate-basic：DevUnltd/js-library-boilerplate-basic he
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

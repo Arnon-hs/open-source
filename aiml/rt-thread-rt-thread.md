@@ -1,6 +1,6 @@
 # RT-Thread/rt-thread
 
-[![Stars](https://img.shields.io/github/stars/RT-Thread/rt-thread?style=flat-square&color=yellow)](https://github.com/RT-Thread/rt-thread/stargazers) [![Forks](https://img.shields.io/github/forks/RT-Thread/rt-thread?style=flat-square&color=blue)](https://github.com/RT-Thread/rt-thread/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RT-Thread/rt-thread?style=flat-square&color=yellow)](https://github.com/RT-Thread/rt-thread/stargazers) [![Forks](https://img.shields.io/github/forks/RT-Thread/rt-thread?style=flat-square&color=blue)](https://github.com/RT-Thread/rt-thread/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ RT-Thread/rt-thread：RT-Thread/rt-thread helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 89/100 |
 | stars | 87/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

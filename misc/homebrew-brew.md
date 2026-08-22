@@ -1,6 +1,6 @@
 # Homebrew/brew
 
-[![Stars](https://img.shields.io/github/stars/Homebrew/brew?style=flat-square&color=yellow)](https://github.com/Homebrew/brew/stargazers) [![Forks](https://img.shields.io/github/forks/Homebrew/brew?style=flat-square&color=blue)](https://github.com/Homebrew/brew/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Homebrew/brew?style=flat-square&color=yellow)](https://github.com/Homebrew/brew/stargazers) [![Forks](https://img.shields.io/github/forks/Homebrew/brew?style=flat-square&color=blue)](https://github.com/Homebrew/brew/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🍺 The missing package manager for macOS (or Linux)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47.9k |
 | 🍴 **Forks** | 11.1k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Homebrew/brew：Homebrew/brew may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

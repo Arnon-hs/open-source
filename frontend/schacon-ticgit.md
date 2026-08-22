@@ -1,6 +1,6 @@
 # schacon/ticgit
 
-[![Stars](https://img.shields.io/github/stars/schacon/ticgit?style=flat-square&color=yellow)](https://github.com/schacon/ticgit/stargazers) [![Forks](https://img.shields.io/github/forks/schacon/ticgit?style=flat-square&color=blue)](https://github.com/schacon/ticgit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schacon/ticgit?style=flat-square&color=yellow)](https://github.com/schacon/ticgit/stargazers) [![Forks](https://img.shields.io/github/forks/schacon/ticgit?style=flat-square&color=blue)](https://github.com/schacon/ticgit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Git based distributed ticketing system, built on git-meta
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 443 |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ schacon/ticgit：schacon/ticgit helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 57/100 |
 | stars | 56/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apache/doris
 
-[![Stars](https://img.shields.io/github/stars/apache/doris?style=flat-square&color=yellow)](https://github.com/apache/doris/stargazers) [![Forks](https://img.shields.io/github/forks/apache/doris?style=flat-square&color=blue)](https://github.com/apache/doris/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/doris?style=flat-square&color=yellow)](https://github.com/apache/doris/stargazers) [![Forks](https://img.shields.io/github/forks/apache/doris?style=flat-square&color=blue)](https://github.com/apache/doris/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Doris is an easy-to-use, high performance and unified analytics database.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.3k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/doris：apache/doris helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 89/100 |
 | stars | 89/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

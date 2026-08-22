@@ -1,6 +1,6 @@
 # triton-lang/triton
 
-[![Stars](https://img.shields.io/github/stars/triton-lang/triton?style=flat-square&color=yellow)](https://github.com/triton-lang/triton/stargazers) [![Forks](https://img.shields.io/github/forks/triton-lang/triton?style=flat-square&color=blue)](https://github.com/triton-lang/triton/network) [![Language](https://img.shields.io/badge/lang-MLIR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/triton-lang/triton?style=flat-square&color=yellow)](https://github.com/triton-lang/triton/stargazers) [![Forks](https://img.shields.io/github/forks/triton-lang/triton?style=flat-square&color=blue)](https://github.com/triton-lang/triton/network) [![Language](https://img.shields.io/badge/lang-MLIR-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Development repository for the Triton language and compiler
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.1k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | MLIR |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The Triton project provides an open‑source programming language and compiler d
 
 ### 中文
 
-triton-lang/triton：triton-lang/triton helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+triton-lang/triton：triton-lang/triton helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ triton-lang/triton：triton-lang/triton helps add AI capability without starting
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ triton-lang/triton：triton-lang/triton helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 90/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

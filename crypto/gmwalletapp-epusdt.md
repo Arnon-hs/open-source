@@ -1,6 +1,6 @@
 # GMWalletApp/epusdt
 
-[![Stars](https://img.shields.io/github/stars/GMWalletApp/epusdt?style=flat-square&color=yellow)](https://github.com/GMWalletApp/epusdt/stargazers) [![Forks](https://img.shields.io/github/forks/GMWalletApp/epusdt?style=flat-square&color=blue)](https://github.com/GMWalletApp/epusdt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GMWalletApp/epusdt?style=flat-square&color=yellow)](https://github.com/GMWalletApp/epusdt/stargazers) [![Forks](https://img.shields.io/github/forks/GMWalletApp/epusdt?style=flat-square&color=blue)](https://github.com/GMWalletApp/epusdt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 开源优雅的跨平台收款网关 Easy Payment USDT——epsdt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 936 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ GMWalletApp/epusdt：GMWalletApp/epusdt helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

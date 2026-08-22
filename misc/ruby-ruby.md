@@ -1,6 +1,6 @@
 # ruby/ruby
 
-[![Stars](https://img.shields.io/github/stars/ruby/ruby?style=flat-square&color=yellow)](https://github.com/ruby/ruby/stargazers) [![Forks](https://img.shields.io/github/forks/ruby/ruby?style=flat-square&color=blue)](https://github.com/ruby/ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruby/ruby?style=flat-square&color=yellow)](https://github.com/ruby/ruby/stargazers) [![Forks](https://img.shields.io/github/forks/ruby/ruby?style=flat-square&color=blue)](https://github.com/ruby/ruby/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Ruby Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.6k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ ruby/ruby：ruby/ruby may be useful when its README and activity match a concret
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 93/100 |
 | stars | 93/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

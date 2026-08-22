@@ -1,6 +1,6 @@
 # tokio-rs/tokio
 
-[![Stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat-square&color=yellow)](https://github.com/tokio-rs/tokio/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/tokio?style=flat-square&color=blue)](https://github.com/tokio-rs/tokio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=flat-square&color=yellow)](https://github.com/tokio-rs/tokio/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/tokio?style=flat-square&color=blue)](https://github.com/tokio-rs/tokio/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.9k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ tokio-rs/tokio：tokio-rs/tokio may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

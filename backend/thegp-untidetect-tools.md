@@ -1,6 +1,6 @@
 # TheGP/untidetect-tools
 
-[![Stars](https://img.shields.io/github/stars/TheGP/untidetect-tools?style=flat-square&color=yellow)](https://github.com/TheGP/untidetect-tools/stargazers) [![Forks](https://img.shields.io/github/forks/TheGP/untidetect-tools?style=flat-square&color=blue)](https://github.com/TheGP/untidetect-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheGP/untidetect-tools?style=flat-square&color=yellow)](https://github.com/TheGP/untidetect-tools/stargazers) [![Forks](https://img.shields.io/github/forks/TheGP/untidetect-tools?style=flat-square&color=blue)](https://github.com/TheGP/untidetect-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ TheGP/untidetect-tools：TheGP/untidetect-tools helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

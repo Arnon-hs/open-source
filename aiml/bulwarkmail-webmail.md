@@ -1,6 +1,6 @@
 # bulwarkmail/webmail
 
-[![Stars](https://img.shields.io/github/stars/bulwarkmail/webmail?style=flat-square&color=yellow)](https://github.com/bulwarkmail/webmail/stargazers) [![Forks](https://img.shields.io/github/forks/bulwarkmail/webmail?style=flat-square&color=blue)](https://github.com/bulwarkmail/webmail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bulwarkmail/webmail?style=flat-square&color=yellow)](https://github.com/bulwarkmail/webmail/stargazers) [![Forks](https://img.shields.io/github/forks/bulwarkmail/webmail?style=flat-square&color=blue)](https://github.com/bulwarkmail/webmail/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bulwarkmail/webmail：bulwarkmail/webmail helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 52/100 |
 | stars | 56/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

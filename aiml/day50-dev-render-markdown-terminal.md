@@ -1,6 +1,6 @@
 # day50-dev/render-markdown-terminal
 
-[![Stars](https://img.shields.io/github/stars/day50-dev/render-markdown-terminal?style=flat-square&color=yellow)](https://github.com/day50-dev/render-markdown-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/day50-dev/render-markdown-terminal?style=flat-square&color=blue)](https://github.com/day50-dev/render-markdown-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/day50-dev/render-markdown-terminal?style=flat-square&color=yellow)](https://github.com/day50-dev/render-markdown-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/day50-dev/render-markdown-terminal?style=flat-square&color=blue)](https://github.com/day50-dev/render-markdown-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Streaming Markdown renderer for tui clis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ day50-dev/render-markdown-terminal — это открытый проект, �
 
 ### 中文
 
-day50-dev/render-markdown-terminal：day50-dev/render-markdown-terminal helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+day50-dev/render-markdown-terminal：day50-dev/render-markdown-terminal helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ day50-dev/render-markdown-terminal：day50-dev/render-markdown-terminal helps ad
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ day50-dev/render-markdown-terminal：day50-dev/render-markdown-terminal helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
+| usefulness | 74/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

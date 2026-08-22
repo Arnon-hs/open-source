@@ -1,6 +1,6 @@
 # agiresearch/AIOS
 
-[![Stars](https://img.shields.io/github/stars/agiresearch/AIOS?style=flat-square&color=yellow)](https://github.com/agiresearch/AIOS/stargazers) [![Forks](https://img.shields.io/github/forks/agiresearch/AIOS?style=flat-square&color=blue)](https://github.com/agiresearch/AIOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agiresearch/AIOS?style=flat-square&color=yellow)](https://github.com/agiresearch/AIOS/stargazers) [![Forks](https://img.shields.io/github/forks/agiresearch/AIOS?style=flat-square&color=blue)](https://github.com/agiresearch/AIOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AIOS: AI Agent Operating System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 777 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AIOS (AI Agent Operating System) — open‑source платформа, по�
 
 ### 中文
 
-agiresearch/AIOS：agiresearch/AIOS helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+agiresearch/AIOS：agiresearch/AIOS helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ agiresearch/AIOS：agiresearch/AIOS helps add AI capability without starting fro
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ agiresearch/AIOS：agiresearch/AIOS helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

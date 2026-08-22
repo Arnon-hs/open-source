@@ -1,6 +1,6 @@
 # RabbyHub/Rabby
 
-[![Stars](https://img.shields.io/github/stars/RabbyHub/Rabby?style=flat-square&color=yellow)](https://github.com/RabbyHub/Rabby/stargazers) [![Forks](https://img.shields.io/github/forks/RabbyHub/Rabby?style=flat-square&color=blue)](https://github.com/RabbyHub/Rabby/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RabbyHub/Rabby?style=flat-square&color=yellow)](https://github.com/RabbyHub/Rabby/stargazers) [![Forks](https://img.shields.io/github/forks/RabbyHub/Rabby?style=flat-square&color=blue)](https://github.com/RabbyHub/Rabby/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The game-changing wallet for Ethereum and all EVM chains
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 562 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ RabbyHub/Rabby：RabbyHub/Rabby helps prototype or inspect blockchain workflows 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 69/100 |
 | stars | 69/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

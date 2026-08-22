@@ -1,6 +1,6 @@
 # matrix-org/matrix.org
 
-[![Stars](https://img.shields.io/github/stars/matrix-org/matrix.org?style=flat-square&color=yellow)](https://github.com/matrix-org/matrix.org/stargazers) [![Forks](https://img.shields.io/github/forks/matrix-org/matrix.org?style=flat-square&color=blue)](https://github.com/matrix-org/matrix.org/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matrix-org/matrix.org?style=flat-square&color=yellow)](https://github.com/matrix-org/matrix.org/stargazers) [![Forks](https://img.shields.io/github/forks/matrix-org/matrix.org?style=flat-square&color=blue)](https://github.com/matrix-org/matrix.org/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > matrix.org public website
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 591 |
 | 🍴 **Forks** | 435 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Matrix.org - это общественный веб-сайт, предназна
 
 ### 中文
 
-matrix-org/matrix.org：matrix-org/matrix.org may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+matrix-org/matrix.org：matrix-org/matrix.org may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ matrix-org/matrix.org：matrix-org/matrix.org may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ matrix-org/matrix.org：matrix-org/matrix.org may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 61/100 |
 | stars | 59/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

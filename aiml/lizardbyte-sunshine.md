@@ -1,6 +1,6 @@
 # LizardByte/Sunshine
 
-[![Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=flat-square&color=yellow)](https://github.com/LizardByte/Sunshine/stargazers) [![Forks](https://img.shields.io/github/forks/LizardByte/Sunshine?style=flat-square&color=blue)](https://github.com/LizardByte/Sunshine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LizardByte/Sunshine?style=flat-square&color=yellow)](https://github.com/LizardByte/Sunshine/stargazers) [![Forks](https://img.shields.io/github/forks/LizardByte/Sunshine?style=flat-square&color=blue)](https://github.com/LizardByte/Sunshine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted game stream host for Moonlight.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.7k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LizardByte/Sunshine：LizardByte/Sunshine helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 93/100 |
 | stars | 97/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

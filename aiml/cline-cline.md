@@ -1,6 +1,6 @@
 # cline/cline
 
-[![Stars](https://img.shields.io/github/stars/cline/cline?style=flat-square&color=yellow)](https://github.com/cline/cline/stargazers) [![Forks](https://img.shields.io/github/forks/cline/cline?style=flat-square&color=blue)](https://github.com/cline/cline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cline/cline?style=flat-square&color=yellow)](https://github.com/cline/cline/stargazers) [![Forks](https://img.shields.io/github/forks/cline/cline?style=flat-square&color=blue)](https://github.com/cline/cline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 61.5k |
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ cline/cline：cline/cline helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

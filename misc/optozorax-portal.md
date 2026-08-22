@@ -1,6 +1,6 @@
 # optozorax/portal
 
-[![Stars](https://img.shields.io/github/stars/optozorax/portal?style=flat-square&color=yellow)](https://github.com/optozorax/portal/stargazers) [![Forks](https://img.shields.io/github/forks/optozorax/portal?style=flat-square&color=blue)](https://github.com/optozorax/portal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/optozorax/portal?style=flat-square&color=yellow)](https://github.com/optozorax/portal/stargazers) [![Forks](https://img.shields.io/github/forks/optozorax/portal?style=flat-square&color=blue)](https://github.com/optozorax/portal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Portal Explorer is an open‑source web application that renders stunning, inter
 
 ### 中文
 
-optozorax/portal：optozorax/portal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+optozorax/portal：optozorax/portal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ optozorax/portal：optozorax/portal may be useful when its README and activity m
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ optozorax/portal：optozorax/portal may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # homarr-labs/homarr
 
-[![Stars](https://img.shields.io/github/stars/homarr-labs/homarr?style=flat-square&color=yellow)](https://github.com/homarr-labs/homarr/stargazers) [![Forks](https://img.shields.io/github/forks/homarr-labs/homarr?style=flat-square&color=blue)](https://github.com/homarr-labs/homarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/homarr-labs/homarr?style=flat-square&color=yellow)](https://github.com/homarr-labs/homarr/stargazers) [![Forks](https://img.shields.io/github/forks/homarr-labs/homarr?style=flat-square&color=blue)](https://github.com/homarr-labs/homarr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ homarr-labs/homarr：homarr-labs/homarr helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 71/100 |
 | stars | 76/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

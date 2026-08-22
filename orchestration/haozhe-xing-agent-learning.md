@@ -1,6 +1,6 @@
 # Haozhe-Xing/agent_learning
 
-[![Stars](https://img.shields.io/github/stars/Haozhe-Xing/agent_learning?style=flat-square&color=yellow)](https://github.com/Haozhe-Xing/agent_learning/stargazers) [![Forks](https://img.shields.io/github/forks/Haozhe-Xing/agent_learning?style=flat-square&color=blue)](https://github.com/Haozhe-Xing/agent_learning/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Haozhe-Xing/agent_learning?style=flat-square&color=yellow)](https://github.com/Haozhe-Xing/agent_learning/stargazers) [![Forks](https://img.shields.io/github/forks/Haozhe-Xing/agent_learning?style=flat-square&color=blue)](https://github.com/Haozhe-Xing/agent_learning/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > agent learning｜从零开始学 AI Agent 开发 | 系统、全面、实战导向的 Agent 开发教程 | 每日自动追踪 arXiv 最新论文 | Learn AI Agent Development from Scratch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Haozhe‑Xing/agent_learning — открытый учебный репози�
 
 ### 中文
 
-Haozhe-Xing/agent_learning：Haozhe-Xing/agent_learning helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Haozhe-Xing/agent_learning：Haozhe-Xing/agent_learning helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Haozhe-Xing/agent_learning：Haozhe-Xing/agent_learning helps turn isolated prom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Haozhe-Xing/agent_learning：Haozhe-Xing/agent_learning helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
+| production | 46/100 |
+| outlook | 52/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

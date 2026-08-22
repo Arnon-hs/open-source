@@ -1,6 +1,6 @@
 # woocommerce/woocommerce-ios
 
-[![Stars](https://img.shields.io/github/stars/woocommerce/woocommerce-ios?style=flat-square&color=yellow)](https://github.com/woocommerce/woocommerce-ios/stargazers) [![Forks](https://img.shields.io/github/forks/woocommerce/woocommerce-ios?style=flat-square&color=blue)](https://github.com/woocommerce/woocommerce-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woocommerce/woocommerce-ios?style=flat-square&color=yellow)](https://github.com/woocommerce/woocommerce-ios/stargazers) [![Forks](https://img.shields.io/github/forks/woocommerce/woocommerce-ios?style=flat-square&color=blue)](https://github.com/woocommerce/woocommerce-ios/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > WooCommerce iOS app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The WooCommerce iOS project provides an official mobile client for the WooCommer
 
 ### 中文
 
-woocommerce/woocommerce-ios：woocommerce/woocommerce-ios may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+woocommerce/woocommerce-ios：woocommerce/woocommerce-ios may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ woocommerce/woocommerce-ios：woocommerce/woocommerce-ios may be useful when its
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ woocommerce/woocommerce-ios：woocommerce/woocommerce-ios may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 54/100 |
 | stars | 54/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

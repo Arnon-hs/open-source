@@ -1,6 +1,6 @@
 # langchain-ai/open-swe
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=flat-square&color=yellow)](https://github.com/langchain-ai/open-swe/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/open-swe?style=flat-square&color=blue)](https://github.com/langchain-ai/open-swe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/open-swe?style=flat-square&color=yellow)](https://github.com/langchain-ai/open-swe/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/open-swe?style=flat-square&color=blue)](https://github.com/langchain-ai/open-swe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An Open-Source Asynchronous Coding Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ langchain-ai/open-swe：langchain-ai/open-swe helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

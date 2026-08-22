@@ -1,6 +1,6 @@
 # darktable-org/darktable
 
-[![Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=flat-square&color=yellow)](https://github.com/darktable-org/darktable/stargazers) [![Forks](https://img.shields.io/github/forks/darktable-org/darktable?style=flat-square&color=blue)](https://github.com/darktable-org/darktable/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=flat-square&color=yellow)](https://github.com/darktable-org/darktable/stargazers) [![Forks](https://img.shields.io/github/forks/darktable-org/darktable?style=flat-square&color=blue)](https://github.com/darktable-org/darktable/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > darktable is an open source photography workflow application and raw developer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Darktable — это кросс‑платформенное приложен�
 
 ### 中文
 
-darktable-org/darktable：darktable-org/darktable helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+darktable-org/darktable：darktable-org/darktable helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ darktable-org/darktable：darktable-org/darktable helps engineers save time in d
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ darktable-org/darktable：darktable-org/darktable helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 50/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

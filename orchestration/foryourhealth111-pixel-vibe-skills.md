@@ -1,6 +1,6 @@
 # foryourhealth111-pixel/Vibe-Skills
 
-[![Stars](https://img.shields.io/github/stars/foryourhealth111-pixel/Vibe-Skills?style=flat-square&color=yellow)](https://github.com/foryourhealth111-pixel/Vibe-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/foryourhealth111-pixel/Vibe-Skills?style=flat-square&color=blue)](https://github.com/foryourhealth111-pixel/Vibe-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foryourhealth111-pixel/Vibe-Skills?style=flat-square&color=yellow)](https://github.com/foryourhealth111-pixel/Vibe-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/foryourhealth111-pixel/Vibe-Skills?style=flat-square&color=blue)](https://github.com/foryourhealth111-pixel/Vibe-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragmented tools and complex harnesses.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ foryourhealth111-pixel/Vibe-Skills：foryourhealth111-pixel/Vibe-Skills helps tu
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 70/100 |
+| production | 52/100 |
+| outlook | 63/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

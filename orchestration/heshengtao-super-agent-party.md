@@ -1,6 +1,6 @@
 # heshengtao/super-agent-party
 
-[![Stars](https://img.shields.io/github/stars/heshengtao/super-agent-party?style=flat-square&color=yellow)](https://github.com/heshengtao/super-agent-party/stargazers) [![Forks](https://img.shields.io/github/forks/heshengtao/super-agent-party?style=flat-square&color=blue)](https://github.com/heshengtao/super-agent-party/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heshengtao/super-agent-party?style=flat-square&color=yellow)](https://github.com/heshengtao/super-agent-party/stargazers) [![Forks](https://img.shields.io/github/forks/heshengtao/super-agent-party?style=flat-square&color=blue)](https://github.com/heshengtao/super-agent-party/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ heshengtao/super-agent-party：heshengtao/super-agent-party helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Mudlet/Mudlet
 
-[![Stars](https://img.shields.io/github/stars/Mudlet/Mudlet?style=flat-square&color=yellow)](https://github.com/Mudlet/Mudlet/stargazers) [![Forks](https://img.shields.io/github/forks/Mudlet/Mudlet?style=flat-square&color=blue)](https://github.com/Mudlet/Mudlet/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mudlet/Mudlet?style=flat-square&color=yellow)](https://github.com/Mudlet/Mudlet/stargazers) [![Forks](https://img.shields.io/github/forks/Mudlet/Mudlet?style=flat-square&color=blue)](https://github.com/Mudlet/Mudlet/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 878 |
 | 🍴 **Forks** | 353 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Mudlet/Mudlet：Mudlet/Mudlet helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 63/100 |
 | stars | 63/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

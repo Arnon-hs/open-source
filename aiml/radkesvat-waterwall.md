@@ -1,6 +1,6 @@
 # radkesvat/WaterWall
 
-[![Stars](https://img.shields.io/github/stars/radkesvat/WaterWall?style=flat-square&color=yellow)](https://github.com/radkesvat/WaterWall/stargazers) [![Forks](https://img.shields.io/github/forks/radkesvat/WaterWall?style=flat-square&color=blue)](https://github.com/radkesvat/WaterWall/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radkesvat/WaterWall?style=flat-square&color=yellow)](https://github.com/radkesvat/WaterWall/stargazers) [![Forks](https://img.shields.io/github/forks/radkesvat/WaterWall?style=flat-square&color=blue)](https://github.com/radkesvat/WaterWall/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > WaterWall is a work in progress networking-core that aims to be as flexible as possible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 565 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | C |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ radkesvat/WaterWall：radkesvat/WaterWall helps add AI capability without starti
 - updated 2026-05-10
 - primary language: C
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

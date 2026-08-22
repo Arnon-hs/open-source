@@ -1,6 +1,6 @@
 # D4Vinci/Scrapling
 
-[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&color=yellow)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&color=blue)](https://github.com/D4Vinci/Scrapling/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=flat-square&color=yellow)](https://github.com/D4Vinci/Scrapling/stargazers) [![Forks](https://img.shields.io/github/forks/D4Vinci/Scrapling?style=flat-square&color=blue)](https://github.com/D4Vinci/Scrapling/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47.9k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ D4Vinci/Scrapling：D4Vinci/Scrapling helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 78/100 |
+| production | 61/100 |
+| outlook | 71/100 |
 | adoption | 97/100 |
 | stars | 100/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

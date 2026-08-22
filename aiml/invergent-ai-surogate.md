@@ -1,6 +1,6 @@
 # invergent-ai/surogate
 
-[![Stars](https://img.shields.io/github/stars/invergent-ai/surogate?style=flat-square&color=yellow)](https://github.com/invergent-ai/surogate/stargazers) [![Forks](https://img.shields.io/github/forks/invergent-ai/surogate?style=flat-square&color=blue)](https://github.com/invergent-ai/surogate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invergent-ai/surogate?style=flat-square&color=yellow)](https://github.com/invergent-ai/surogate/stargazers) [![Forks](https://img.shields.io/github/forks/invergent-ai/surogate?style=flat-square&color=blue)](https://github.com/invergent-ai/surogate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Training/Fine-tuning at the speed of light
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ invergent‑ai/surogate — это open‑source платформа для с�
 
 ### 中文
 
-invergent-ai/surogate：invergent-ai/surogate helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+invergent-ai/surogate：invergent-ai/surogate helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ invergent-ai/surogate：invergent-ai/surogate helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ invergent-ai/surogate：invergent-ai/surogate helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 39/100 |
 | stars | 48/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

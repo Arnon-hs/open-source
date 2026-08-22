@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_menagerie
 
-[![Stars](https://img.shields.io/github/stars/google-deepmind/mujoco_menagerie?style=flat-square&color=yellow)](https://github.com/google-deepmind/mujoco_menagerie/stargazers) [![Forks](https://img.shields.io/github/forks/google-deepmind/mujoco_menagerie?style=flat-square&color=blue)](https://github.com/google-deepmind/mujoco_menagerie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-deepmind/mujoco_menagerie?style=flat-square&color=yellow)](https://github.com/google-deepmind/mujoco_menagerie/stargazers) [![Forks](https://img.shields.io/github/forks/google-deepmind/mujoco_menagerie?style=flat-square&color=blue)](https://github.com/google-deepmind/mujoco_menagerie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 469 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ google-deepmind/mujoco_menagerie：google-deepmind/mujoco_menagerie may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 53/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

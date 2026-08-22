@@ -1,6 +1,6 @@
 # freqtrade/frequi
 
-[![Stars](https://img.shields.io/github/stars/freqtrade/frequi?style=flat-square&color=yellow)](https://github.com/freqtrade/frequi/stargazers) [![Forks](https://img.shields.io/github/forks/freqtrade/frequi?style=flat-square&color=blue)](https://github.com/freqtrade/frequi/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freqtrade/frequi?style=flat-square&color=yellow)](https://github.com/freqtrade/frequi/stargazers) [![Forks](https://img.shields.io/github/forks/freqtrade/frequi?style=flat-square&color=blue)](https://github.com/freqtrade/frequi/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Freqtrade UI - Frontend for Freqtrade
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 978 |
 | 🍴 **Forks** | 425 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Freqtrade UI — это открытый фронтенд для платфо�
 
 ### 中文
 
-freqtrade/frequi：freqtrade/frequi helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+freqtrade/frequi：freqtrade/frequi helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ freqtrade/frequi：freqtrade/frequi helps research and automate market workflows
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ freqtrade/frequi：freqtrade/frequi helps research and automate market workflows
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

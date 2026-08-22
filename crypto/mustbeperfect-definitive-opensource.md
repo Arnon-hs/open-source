@@ -1,6 +1,6 @@
 # mustbeperfect/definitive-opensource
 
-[![Stars](https://img.shields.io/github/stars/mustbeperfect/definitive-opensource?style=flat-square&color=yellow)](https://github.com/mustbeperfect/definitive-opensource/stargazers) [![Forks](https://img.shields.io/github/forks/mustbeperfect/definitive-opensource?style=flat-square&color=blue)](https://github.com/mustbeperfect/definitive-opensource/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mustbeperfect/definitive-opensource?style=flat-square&color=yellow)](https://github.com/mustbeperfect/definitive-opensource/stargazers) [![Forks](https://img.shields.io/github/forks/mustbeperfect/definitive-opensource?style=flat-square&color=blue)](https://github.com/mustbeperfect/definitive-opensource/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The definitive list of the best of (consumer facing) open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Crypto
 
 ### English
 
-mustbeperfect/definitive-opensource: mustbeperfect/definitive-opensource helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mustbeperfect/definitive-opensource: mustbeperfect/definitive-opensource helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-mustbeperfect/definitive-opensource: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mustbeperfect/definitive-opensource: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-mustbeperfect/definitive-opensource：mustbeperfect/definitive-opensource helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mustbeperfect/definitive-opensource：mustbeperfect/definitive-opensource helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mustbeperfect/definitive-opensource：mustbeperfect/definitive-opensource helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mustbeperfect/definitive-opensource：mustbeperfect/definitive-opensource helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 68/100 |
 | stars | 75/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

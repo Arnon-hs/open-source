@@ -1,6 +1,6 @@
 # qltysh/qlty
 
-[![Stars](https://img.shields.io/github/stars/qltysh/qlty?style=flat-square&color=yellow)](https://github.com/qltysh/qlty/stargazers) [![Forks](https://img.shields.io/github/forks/qltysh/qlty?style=flat-square&color=blue)](https://github.com/qltysh/qlty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qltysh/qlty?style=flat-square&color=yellow)](https://github.com/qltysh/qlty/stargazers) [![Forks](https://img.shields.io/github/forks/qltysh/qlty?style=flat-square&color=blue)](https://github.com/qltysh/qlty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ qltysh/qlty：qltysh/qlty helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

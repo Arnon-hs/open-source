@@ -1,6 +1,6 @@
 # Dicklesworthstone/frankensqlite
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/frankensqlite?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/frankensqlite/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/frankensqlite?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/frankensqlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/frankensqlite?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/frankensqlite/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/frankensqlite?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/frankensqlite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Independent ground-up Rust reimplementation of SQLite with concurrent writers and information-theoretic durability
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Dicklesworthstone/frankensqlite — это полностью независи
 
 ### 中文
 
-Dicklesworthstone/frankensqlite：Dicklesworthstone/frankensqlite helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dicklesworthstone/frankensqlite：Dicklesworthstone/frankensqlite helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Dicklesworthstone/frankensqlite：Dicklesworthstone/frankensqlite helps convert 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Dicklesworthstone/frankensqlite：Dicklesworthstone/frankensqlite helps convert 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 50/100 |
+| production | 44/100 |
+| outlook | 43/100 |
 | adoption | 44/100 |
 | stars | 47/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

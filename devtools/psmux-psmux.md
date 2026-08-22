@@ -1,6 +1,6 @@
 # psmux/psmux
 
-[![Stars](https://img.shields.io/github/stars/psmux/psmux?style=flat-square&color=yellow)](https://github.com/psmux/psmux/stargazers) [![Forks](https://img.shields.io/github/forks/psmux/psmux?style=flat-square&color=blue)](https://github.com/psmux/psmux/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psmux/psmux?style=flat-square&color=yellow)](https://github.com/psmux/psmux/stargazers) [![Forks](https://img.shields.io/github/forks/psmux/psmux?style=flat-square&color=blue)](https://github.com/psmux/psmux/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ psmux/psmux：psmux/psmux helps engineers save time in daily development and rev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 70/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

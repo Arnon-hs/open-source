@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-zh
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat-square&color=yellow)](https://github.com/jnMetaCode/agency-agents-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/agency-agents-zh?style=flat-square&color=blue)](https://github.com/jnMetaCode/agency-agents-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=flat-square&color=yellow)](https://github.com/jnMetaCode/agency-agents-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/agency-agents-zh?style=flat-square&color=blue)](https://github.com/jnMetaCode/agency-agents-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jnMetaCode/agency-agents-zh：jnMetaCode/agency-agents-zh helps prototype or ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 70/100 |
+| production | 52/100 |
+| outlook | 63/100 |
 | adoption | 85/100 |
 | stars | 85/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

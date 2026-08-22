@@ -1,6 +1,6 @@
 # penpot/penpot
 
-[![Stars](https://img.shields.io/github/stars/penpot/penpot?style=flat-square&color=yellow)](https://github.com/penpot/penpot/stargazers) [![Forks](https://img.shields.io/github/forks/penpot/penpot?style=flat-square&color=blue)](https://github.com/penpot/penpot/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/penpot/penpot?style=flat-square&color=yellow)](https://github.com/penpot/penpot/stargazers) [![Forks](https://img.shields.io/github/forks/penpot/penpot?style=flat-square&color=blue)](https://github.com/penpot/penpot/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Penpot: The open-source design tool for design and code collaboration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ penpot/penpot：penpot/penpot helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 96/100 |
 | stars | 99/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # appstore-discounts/appstore-discounts
 
-[![Stars](https://img.shields.io/github/stars/appstore-discounts/appstore-discounts?style=flat-square&color=yellow)](https://github.com/appstore-discounts/appstore-discounts/stargazers) [![Forks](https://img.shields.io/github/forks/appstore-discounts/appstore-discounts?style=flat-square&color=blue)](https://github.com/appstore-discounts/appstore-discounts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appstore-discounts/appstore-discounts?style=flat-square&color=yellow)](https://github.com/appstore-discounts/appstore-discounts/stargazers) [![Forks](https://img.shields.io/github/forks/appstore-discounts/appstore-discounts?style=flat-square&color=blue)](https://github.com/appstore-discounts/appstore-discounts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source App Store discounts tracker built on GitHub Actions, supporting RSS, Telegram and DingTalk notifications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ appstore-discounts is an open‑source tool that automatically tracks price redu
 
 ### 中文
 
-appstore-discounts/appstore-discounts：appstore-discounts/appstore-discounts helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+appstore-discounts/appstore-discounts：appstore-discounts/appstore-discounts helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ appstore-discounts/appstore-discounts：appstore-discounts/appstore-discounts he
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ appstore-discounts/appstore-discounts：appstore-discounts/appstore-discounts he
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

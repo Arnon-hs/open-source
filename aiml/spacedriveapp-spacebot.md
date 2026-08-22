@@ -1,6 +1,6 @@
 # spacedriveapp/spacebot
 
-[![Stars](https://img.shields.io/github/stars/spacedriveapp/spacebot?style=flat-square&color=yellow)](https://github.com/spacedriveapp/spacebot/stargazers) [![Forks](https://img.shields.io/github/forks/spacedriveapp/spacebot?style=flat-square&color=blue)](https://github.com/spacedriveapp/spacebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spacedriveapp/spacebot?style=flat-square&color=yellow)](https://github.com/spacedriveapp/spacebot/stargazers) [![Forks](https://img.shields.io/github/forks/spacedriveapp/spacebot?style=flat-square&color=blue)](https://github.com/spacedriveapp/spacebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent for teams, communities, and multi-user environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ spacedriveapp/spacebot is an open‑source AI-powered assistant designed to enha
 
 ### 中文
 
-spacedriveapp/spacebot：spacedriveapp/spacebot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+spacedriveapp/spacebot：spacedriveapp/spacebot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ spacedriveapp/spacebot：spacedriveapp/spacebot helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ spacedriveapp/spacebot：spacedriveapp/spacebot helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 68/100 |
+| production | 49/100 |
+| outlook | 61/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

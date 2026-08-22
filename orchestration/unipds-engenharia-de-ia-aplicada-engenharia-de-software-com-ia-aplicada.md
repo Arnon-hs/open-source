@@ -1,6 +1,6 @@
 # unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada
 
-[![Stars](https://img.shields.io/github/stars/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada?style=flat-square&color=yellow)](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/stargazers) [![Forks](https://img.shields.io/github/forks/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada?style=flat-square&color=blue)](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada?style=flat-square&color=yellow)](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/stargazers) [![Forks](https://img.shields.io/github/forks/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada?style=flat-square&color=blue)](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Códigos e referências usados na Pós de Engenharia de Software com IA Aplicada
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 765 |
 | 🍴 **Forks** | 388 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada：unipds
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 53/100 |
+| production | 53/100 |
+| outlook | 46/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

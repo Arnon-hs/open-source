@@ -1,6 +1,6 @@
 # siyuan-note/siyuan
 
-[![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square&color=yellow)](https://github.com/siyuan-note/siyuan/stargazers) [![Forks](https://img.shields.io/github/forks/siyuan-note/siyuan?style=flat-square&color=blue)](https://github.com/siyuan-note/siyuan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat-square&color=yellow)](https://github.com/siyuan-note/siyuan/stargazers) [![Forks](https://img.shields.io/github/forks/siyuan-note/siyuan?style=flat-square&color=blue)](https://github.com/siyuan-note/siyuan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43.7k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ siyuan-note/siyuan：siyuan-note/siyuan may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 95/100 |
 | stars | 99/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

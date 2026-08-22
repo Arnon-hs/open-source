@@ -1,6 +1,6 @@
 # apoorvdarshan/fud-ai
 
-[![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?style=flat-square&color=yellow)](https://github.com/apoorvdarshan/fud-ai/stargazers) [![Forks](https://img.shields.io/github/forks/apoorvdarshan/fud-ai?style=flat-square&color=blue)](https://github.com/apoorvdarshan/fud-ai/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?style=flat-square&color=yellow)](https://github.com/apoorvdarshan/fud-ai/stargazers) [![Forks](https://img.shields.io/github/forks/apoorvdarshan/fud-ai?style=flat-square&color=blue)](https://github.com/apoorvdarshan/fud-ai/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Fud AI is a Free & Open Sourced AI Calorie Tracker for iOS & Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · Mobile
 
 ### English
 
-apoorvdarshan/fud-ai: apoorvdarshan/fud-ai helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apoorvdarshan/fud-ai: apoorvdarshan/fud-ai helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-apoorvdarshan/fud-ai: open-source проект в категориях AI/ML, Frontend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+apoorvdarshan/fud-ai: open-source проект в категориях AI/ML, Frontend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-apoorvdarshan/fud-ai：apoorvdarshan/fud-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apoorvdarshan/fud-ai：apoorvdarshan/fud-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ apoorvdarshan/fud-ai：apoorvdarshan/fud-ai helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ apoorvdarshan/fud-ai：apoorvdarshan/fud-ai helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 46/100 |
+| outlook | 47/100 |
 | adoption | 45/100 |
 | stars | 47/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

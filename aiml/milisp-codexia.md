@@ -1,6 +1,6 @@
 # milisp/codexia
 
-[![Stars](https://img.shields.io/github/stars/milisp/codexia?style=flat-square&color=yellow)](https://github.com/milisp/codexia/stargazers) [![Forks](https://img.shields.io/github/forks/milisp/codexia?style=flat-square&color=blue)](https://github.com/milisp/codexia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/milisp/codexia?style=flat-square&color=yellow)](https://github.com/milisp/codexia/stargazers) [![Forks](https://img.shields.io/github/forks/milisp/codexia?style=flat-square&color=blue)](https://github.com/milisp/codexia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktree & remote control, skills management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 671 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ milisp/codexia：milisp/codexia helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 56/100 |
 | stars | 60/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

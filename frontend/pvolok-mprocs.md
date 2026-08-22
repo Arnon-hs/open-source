@@ -1,6 +1,6 @@
 # pvolok/mprocs
 
-[![Stars](https://img.shields.io/github/stars/pvolok/mprocs?style=flat-square&color=yellow)](https://github.com/pvolok/mprocs/stargazers) [![Forks](https://img.shields.io/github/forks/pvolok/mprocs?style=flat-square&color=blue)](https://github.com/pvolok/mprocs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pvolok/mprocs?style=flat-square&color=yellow)](https://github.com/pvolok/mprocs/stargazers) [![Forks](https://img.shields.io/github/forks/pvolok/mprocs?style=flat-square&color=blue)](https://github.com/pvolok/mprocs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Run multiple commands in parallel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pvolok/mprocs：pvolok/mprocs helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 66/100 |
 | stars | 73/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

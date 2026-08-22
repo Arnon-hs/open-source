@@ -1,6 +1,6 @@
 # storybookjs/storybook
 
-[![Stars](https://img.shields.io/github/stars/storybookjs/storybook?style=flat-square&color=yellow)](https://github.com/storybookjs/storybook/stargazers) [![Forks](https://img.shields.io/github/forks/storybookjs/storybook?style=flat-square&color=blue)](https://github.com/storybookjs/storybook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/storybookjs/storybook?style=flat-square&color=yellow)](https://github.com/storybookjs/storybook/stargazers) [![Forks](https://img.shields.io/github/forks/storybookjs/storybook?style=flat-square&color=blue)](https://github.com/storybookjs/storybook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 89.9k |
 | 🍴 **Forks** | 10k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ storybookjs/storybook：storybookjs/storybook helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

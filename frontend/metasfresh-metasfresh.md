@@ -1,6 +1,6 @@
 # metasfresh/metasfresh
 
-[![Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=flat-square&color=yellow)](https://github.com/metasfresh/metasfresh/stargazers) [![Forks](https://img.shields.io/github/forks/metasfresh/metasfresh?style=flat-square&color=blue)](https://github.com/metasfresh/metasfresh/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=flat-square&color=yellow)](https://github.com/metasfresh/metasfresh/stargazers) [![Forks](https://img.shields.io/github/forks/metasfresh/metasfresh?style=flat-square&color=blue)](https://github.com/metasfresh/metasfresh/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 779 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ metasfresh/metasfresh：metasfresh/metasfresh helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

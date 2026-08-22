@@ -1,6 +1,6 @@
 # bitnami/containers
 
-[![Stars](https://img.shields.io/github/stars/bitnami/containers?style=flat-square&color=yellow)](https://github.com/bitnami/containers/stargazers) [![Forks](https://img.shields.io/github/forks/bitnami/containers?style=flat-square&color=blue)](https://github.com/bitnami/containers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitnami/containers?style=flat-square&color=yellow)](https://github.com/bitnami/containers/stargazers) [![Forks](https://img.shields.io/github/forks/bitnami/containers?style=flat-square&color=blue)](https://github.com/bitnami/containers/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Bitnami container images
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bitnami/containers：bitnami/containers helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 83/100 |
 | stars | 78/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

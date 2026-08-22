@@ -1,6 +1,6 @@
 # pinchtab/pinchtab
 
-[![Stars](https://img.shields.io/github/stars/pinchtab/pinchtab?style=flat-square&color=yellow)](https://github.com/pinchtab/pinchtab/stargazers) [![Forks](https://img.shields.io/github/forks/pinchtab/pinchtab?style=flat-square&color=blue)](https://github.com/pinchtab/pinchtab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pinchtab/pinchtab?style=flat-square&color=yellow)](https://github.com/pinchtab/pinchtab/stargazers) [![Forks](https://img.shields.io/github/forks/pinchtab/pinchtab?style=flat-square&color=blue)](https://github.com/pinchtab/pinchtab/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 665 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pinchtab/pinchtab：pinchtab/pinchtab helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # halo-dev/upage
 
-[![Stars](https://img.shields.io/github/stars/halo-dev/upage?style=flat-square&color=yellow)](https://github.com/halo-dev/upage/stargazers) [![Forks](https://img.shields.io/github/forks/halo-dev/upage?style=flat-square&color=blue)](https://github.com/halo-dev/upage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/halo-dev/upage?style=flat-square&color=yellow)](https://github.com/halo-dev/upage/stargazers) [![Forks](https://img.shields.io/github/forks/halo-dev/upage?style=flat-square&color=blue)](https://github.com/halo-dev/upage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ halo-dev/upage — это открытая визуальная платформ
 
 ### 中文
 
-halo-dev/upage：halo-dev/upage helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+halo-dev/upage：halo-dev/upage helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ halo-dev/upage：halo-dev/upage helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ halo-dev/upage：halo-dev/upage helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

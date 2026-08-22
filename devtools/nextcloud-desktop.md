@@ -1,6 +1,6 @@
 # nextcloud/desktop
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/desktop?style=flat-square&color=yellow)](https://github.com/nextcloud/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/desktop?style=flat-square&color=blue)](https://github.com/nextcloud/desktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/desktop?style=flat-square&color=yellow)](https://github.com/nextcloud/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/desktop?style=flat-square&color=blue)](https://github.com/nextcloud/desktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 💻 Desktop sync client for Nextcloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 948 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nextcloud/desktop：nextcloud/desktop helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 76/100 |
 | stars | 76/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

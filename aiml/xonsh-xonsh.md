@@ -1,6 +1,6 @@
 # xonsh/xonsh
 
-[![Stars](https://img.shields.io/github/stars/xonsh/xonsh?style=flat-square&color=yellow)](https://github.com/xonsh/xonsh/stargazers) [![Forks](https://img.shields.io/github/forks/xonsh/xonsh?style=flat-square&color=blue)](https://github.com/xonsh/xonsh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xonsh/xonsh?style=flat-square&color=yellow)](https://github.com/xonsh/xonsh/stargazers) [![Forks](https://img.shields.io/github/forks/xonsh/xonsh?style=flat-square&color=blue)](https://github.com/xonsh/xonsh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 722 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xonsh/xonsh：xonsh/xonsh helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

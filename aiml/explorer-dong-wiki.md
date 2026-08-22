@@ -1,6 +1,6 @@
 # Explorer-Dong/wiki
 
-[![Stars](https://img.shields.io/github/stars/Explorer-Dong/wiki?style=flat-square&color=yellow)](https://github.com/Explorer-Dong/wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Explorer-Dong/wiki?style=flat-square&color=blue)](https://github.com/Explorer-Dong/wiki/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Explorer-Dong/wiki?style=flat-square&color=yellow)](https://github.com/Explorer-Dong/wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Explorer-Dong/wiki?style=flat-square&color=blue)](https://github.com/Explorer-Dong/wiki/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 开放 CS/AI 知识库，包括「基础知识、数据结构与算法、软件开发、大模型」等体系化的笔记。Open CS/AI Wiki, a collection of structured notes covering Fundamentals, Data Structures & Algorithms, Software Development, LLMs and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Explorer‑Dong/wiki — это открытый репозиторий, со�
 
 ### 中文
 
-Explorer-Dong/wiki：Explorer-Dong/wiki helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Explorer-Dong/wiki：Explorer-Dong/wiki helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Explorer-Dong/wiki：Explorer-Dong/wiki helps add AI capability without starting
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Explorer-Dong/wiki：Explorer-Dong/wiki helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 41/100 |
 | stars | 43/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

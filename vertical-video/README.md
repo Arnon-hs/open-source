@@ -1,0 +1,51 @@
+# 🏷️ Vertical-video
+
+> 
+
+**37 projects** in this category.
+
+## Projects
+
+| # | Project | Stars | Language | Score |
+|---|---|---|---|---|
+| 1 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 964 | TypeScript | 90/100 |
+| 2 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 855 | TypeScript | 89/100 |
+| 3 | [openclaw-easy/ViralMint](./openclaw-easy-viralmint.md) | ⭐ 78 | Python | 83/100 |
+| 4 | [feyzilim/clipfactory](./feyzilim-clipfactory.md) | ⭐ 33 | Python | 82/100 |
+| 5 | [leke-adewa/short-video-maker](./leke-adewa-short-video-maker.md) | ⭐ 32 | Python | 81/100 |
+| 6 | [myccarl/ai-shortVideo-pipeline](./myccarl-ai-shortvideo-pipeline.md) | ⭐ 555 | Python | 81/100 |
+| 7 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 190 | JavaScript | 78/100 |
+| 8 | [Agions/story-fab](./agions-story-fab.md) | ⭐ 134 | TypeScript | 78/100 |
+| 9 | [rushindrasinha/youtube-shorts-pipeline](./rushindrasinha-youtube-shorts-pipeline.md) | ⭐ 2.2k | Python | 77/100 |
+| 10 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 76/100 |
+| 11 | [outhsics/openfang-auto-clip](./outhsics-openfang-auto-clip.md) | ⭐ 32 | Python | 75/100 |
+| 12 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 114 | TypeScript | 74/100 |
+| 13 | [artryazanov/shorts-maker-gpu](./artryazanov-shorts-maker-gpu.md) | ⭐ 12 | Python | 73/100 |
+| 14 | [toki-plus/ai-highlight-clip](./toki-plus-ai-highlight-clip.md) | ⭐ 91 | Python | 73/100 |
+| 15 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 97 | Python | 72/100 |
+| 16 | [vovuhuydeveloper/agent-content-kit](./vovuhuydeveloper-agent-content-kit.md) | ⭐ 18 | Python | 72/100 |
+| 17 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 24 | Python | 71/100 |
+| 18 | [1076184145/video-automation](./1076184145-video-automation.md) | ⭐ 12 | Python | 69/100 |
+| 19 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 32 | Python | 68/100 |
+| 20 | [45ck/content-machine](./45ck-content-machine.md) | ⭐ 13 | TypeScript | 67/100 |
+| 21 | [yakupbulbul/scenarix](./yakupbulbul-scenarix.md) | ⭐ 13 | JavaScript | 67/100 |
+| 22 | [Jasper-Wei1/JPW-Live-Cut](./jasper-wei1-jpw-live-cut.md) | ⭐ 15 | JavaScript | 67/100 |
+| 23 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 29 | TypeScript | 67/100 |
+| 24 | [toki-plus/ai-video-workflow](./toki-plus-ai-video-workflow.md) | ⭐ 95 | Python | 67/100 |
+| 25 | [tommylin07-web/podclip-matrix](./tommylin07-web-podclip-matrix.md) | ⭐ 13 | JavaScript | 66/100 |
+| 26 | [toki-plus/ai-mixed-cut](./toki-plus-ai-mixed-cut.md) | ⭐ 92 | — | 66/100 |
+| 27 | [XshuiAi/media-publish-check](./xshuiai-media-publish-check.md) | ⭐ 52 | Python | 65/100 |
+| 28 | [JuneYaooo/capsule-cinema](./juneyaooo-capsule-cinema.md) | ⭐ 35 | Python | 65/100 |
+| 29 | [jaxxchen003/book-video-factory](./jaxxchen003-book-video-factory.md) | ⭐ 95 | Python | 64/100 |
+| 30 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 117 | TypeScript | 64/100 |
+| 31 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 160 | — | 64/100 |
+| 32 | [witty-suckerpunch492/daihuo-jianshou](./witty-suckerpunch492-daihuo-jianshou.md) | ⭐ 233 | TypeScript | 63/100 |
+| 33 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 87 | TypeScript | 61/100 |
+| 34 | [zhuixin8/meiti-ai](./zhuixin8-meiti-ai.md) | ⭐ 26 | — | 61/100 |
+| 35 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 26 | Python | 60/100 |
+| 36 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 51 | Python | 58/100 |
+| 37 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 57/100 |
+
+---
+
+[← Back to main catalog](../README.md)

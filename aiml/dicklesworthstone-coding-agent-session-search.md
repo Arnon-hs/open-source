@@ -1,6 +1,6 @@
 # Dicklesworthstone/coding_agent_session_search
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/coding_agent_session_search?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/coding_agent_session_search/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/coding_agent_session_search?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/coding_agent_session_search/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/coding_agent_session_search?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/coding_agent_session_search/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/coding_agent_session_search?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/coding_agent_session_search/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 746 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Frontend · DevTools
 
 ### English
 
-Dicklesworthstone/coding_agent_session_search: Dicklesworthstone/coding_agent_session_search helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dicklesworthstone/coding_agent_session_search: Dicklesworthstone/coding_agent_session_search helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Dicklesworthstone/coding_agent_session_search: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Dicklesworthstone/coding_agent_session_search: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Dicklesworthstone/coding_agent_session_search：Dicklesworthstone/coding_agent_session_search helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dicklesworthstone/coding_agent_session_search：Dicklesworthstone/coding_agent_session_search helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Dicklesworthstone/coding_agent_session_search：Dicklesworthstone/coding_agent_s
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Dicklesworthstone/coding_agent_session_search：Dicklesworthstone/coding_agent_s
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 48/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

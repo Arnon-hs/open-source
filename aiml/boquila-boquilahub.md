@@ -1,6 +1,6 @@
 # boquila/boquilahub
 
-[![Stars](https://img.shields.io/github/stars/boquila/boquilahub?style=flat-square&color=yellow)](https://github.com/boquila/boquilahub/stargazers) [![Forks](https://img.shields.io/github/forks/boquila/boquilahub?style=flat-square&color=blue)](https://github.com/boquila/boquilahub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boquila/boquilahub?style=flat-square&color=yellow)](https://github.com/boquila/boquilahub/stargazers) [![Forks](https://img.shields.io/github/forks/boquila/boquilahub?style=flat-square&color=blue)](https://github.com/boquila/boquilahub/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > AIs for nature
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ boquila/boquilahub：boquila/boquilahub helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 46/100 |
-| outlook | 42/100 |
+| production | 40/100 |
+| outlook | 35/100 |
 | adoption | 40/100 |
 | stars | 47/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

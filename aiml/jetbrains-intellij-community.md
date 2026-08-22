@@ -1,6 +1,6 @@
 # JetBrains/intellij-community
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=flat-square&color=yellow)](https://github.com/JetBrains/intellij-community/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/intellij-community?style=flat-square&color=blue)](https://github.com/JetBrains/intellij-community/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=flat-square&color=yellow)](https://github.com/JetBrains/intellij-community/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/intellij-community?style=flat-square&color=blue)](https://github.com/JetBrains/intellij-community/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > IntelliJ IDEA & IntelliJ Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.1k |
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JetBrains/intellij-community：JetBrains/intellij-community helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 92/100 |
 | stars | 92/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

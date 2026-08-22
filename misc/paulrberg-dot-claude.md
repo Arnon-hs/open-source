@@ -1,6 +1,6 @@
 # PaulRBerg/dot-claude
 
-[![Stars](https://img.shields.io/github/stars/PaulRBerg/dot-claude?style=flat-square&color=yellow)](https://github.com/PaulRBerg/dot-claude/stargazers) [![Forks](https://img.shields.io/github/forks/PaulRBerg/dot-claude?style=flat-square&color=blue)](https://github.com/PaulRBerg/dot-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaulRBerg/dot-claude?style=flat-square&color=yellow)](https://github.com/PaulRBerg/dot-claude/stargazers) [![Forks](https://img.shields.io/github/forks/PaulRBerg/dot-claude?style=flat-square&color=blue)](https://github.com/PaulRBerg/dot-claude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > PRB's Claude Code config
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -57,21 +57,21 @@ PaulRBerg/dot-claude：PaulRBerg/dot-claude may be useful when its README and ac
 - primary language: Python
 - 2 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 49/100 |
-| outlook | 44/100 |
+| production | 43/100 |
+| outlook | 37/100 |
 | adoption | 36/100 |
 | stars | 40/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # pyrate-llama/hermes-ui
 
-[![Stars](https://img.shields.io/github/stars/pyrate-llama/hermes-ui?style=flat-square&color=yellow)](https://github.com/pyrate-llama/hermes-ui/stargazers) [![Forks](https://img.shields.io/github/forks/pyrate-llama/hermes-ui?style=flat-square&color=blue)](https://github.com/pyrate-llama/hermes-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyrate-llama/hermes-ui?style=flat-square&color=yellow)](https://github.com/pyrate-llama/hermes-ui/stargazers) [![Forks](https://img.shields.io/github/forks/pyrate-llama/hermes-ui?style=flat-square&color=blue)](https://github.com/pyrate-llama/hermes-ui/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The command center for Hermes Agent — chat, steer, browse files, manage skills, and monitor everything from a single glassmorphic HTML app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ pyrate-llama/hermes‑ui is a sleek, glass‑morphic web interface that serves a
 
 ### 中文
 
-pyrate-llama/hermes-ui：pyrate-llama/hermes-ui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pyrate-llama/hermes-ui：pyrate-llama/hermes-ui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pyrate-llama/hermes-ui：pyrate-llama/hermes-ui helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ pyrate-llama/hermes-ui：pyrate-llama/hermes-ui helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 64/100 |
+| production | 50/100 |
+| outlook | 57/100 |
 | adoption | 40/100 |
 | stars | 43/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

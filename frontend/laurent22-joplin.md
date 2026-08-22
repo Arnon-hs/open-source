@@ -1,6 +1,6 @@
 # laurent22/joplin
 
-[![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat-square&color=yellow)](https://github.com/laurent22/joplin/stargazers) [![Forks](https://img.shields.io/github/forks/laurent22/joplin?style=flat-square&color=blue)](https://github.com/laurent22/joplin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laurent22/joplin?style=flat-square&color=yellow)](https://github.com/laurent22/joplin/stargazers) [![Forks](https://img.shields.io/github/forks/laurent22/joplin?style=flat-square&color=blue)](https://github.com/laurent22/joplin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54.7k |
 | 🍴 **Forks** | 6.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ laurent22/joplin：laurent22/joplin helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 70/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 98/100 |
 | stars | 100/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

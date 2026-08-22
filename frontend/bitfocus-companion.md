@@ -1,6 +1,6 @@
 # bitfocus/companion
 
-[![Stars](https://img.shields.io/github/stars/bitfocus/companion?style=flat-square&color=yellow)](https://github.com/bitfocus/companion/stargazers) [![Forks](https://img.shields.io/github/forks/bitfocus/companion?style=flat-square&color=blue)](https://github.com/bitfocus/companion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitfocus/companion?style=flat-square&color=yellow)](https://github.com/bitfocus/companion/stargazers) [![Forks](https://img.shields.io/github/forks/bitfocus/companion?style=flat-square&color=blue)](https://github.com/bitfocus/companion/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 571 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bitfocus/companion：bitfocus/companion helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

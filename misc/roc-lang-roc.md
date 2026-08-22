@@ -1,6 +1,6 @@
 # roc-lang/roc
 
-[![Stars](https://img.shields.io/github/stars/roc-lang/roc?style=flat-square&color=yellow)](https://github.com/roc-lang/roc/stargazers) [![Forks](https://img.shields.io/github/forks/roc-lang/roc?style=flat-square&color=blue)](https://github.com/roc-lang/roc/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roc-lang/roc?style=flat-square&color=yellow)](https://github.com/roc-lang/roc/stargazers) [![Forks](https://img.shields.io/github/forks/roc-lang/roc?style=flat-square&color=blue)](https://github.com/roc-lang/roc/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, friendly, functional language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 378 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Roc — это быстрый и удобный функциональный �
 
 ### 中文
 
-roc-lang/roc：roc-lang/roc may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+roc-lang/roc：roc-lang/roc may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ roc-lang/roc：roc-lang/roc may be useful when its README and activity match a c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ roc-lang/roc：roc-lang/roc may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

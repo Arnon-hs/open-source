@@ -1,6 +1,6 @@
 # Thysrael/Horizon
 
-[![Stars](https://img.shields.io/github/stars/Thysrael/Horizon?style=flat-square&color=yellow)](https://github.com/Thysrael/Horizon/stargazers) [![Forks](https://img.shields.io/github/forks/Thysrael/Horizon?style=flat-square&color=blue)](https://github.com/Thysrael/Horizon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Thysrael/Horizon?style=flat-square&color=yellow)](https://github.com/Thysrael/Horizon/stargazers) [![Forks](https://img.shields.io/github/forks/Thysrael/Horizon?style=flat-square&color=blue)](https://github.com/Thysrael/Horizon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 383 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ Thysrael/Horizon：Thysrael/Horizon helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 71/100 |
 | stars | 74/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

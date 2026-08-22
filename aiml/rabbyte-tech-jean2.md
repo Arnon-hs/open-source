@@ -1,6 +1,6 @@
 # rabbyte-tech/jean2
 
-[![Stars](https://img.shields.io/github/stars/rabbyte-tech/jean2?style=flat-square&color=yellow)](https://github.com/rabbyte-tech/jean2/stargazers) [![Forks](https://img.shields.io/github/forks/rabbyte-tech/jean2?style=flat-square&color=blue)](https://github.com/rabbyte-tech/jean2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rabbyte-tech/jean2?style=flat-square&color=yellow)](https://github.com/rabbyte-tech/jean2/stargazers) [![Forks](https://img.shields.io/github/forks/rabbyte-tech/jean2?style=flat-square&color=blue)](https://github.com/rabbyte-tech/jean2/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agent. One server. Any device. No baked-in behavior.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rabbyte-tech/jean2：rabbyte-tech/jean2 helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 49/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 23/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

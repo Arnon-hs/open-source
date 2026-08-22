@@ -1,6 +1,6 @@
 # LibreHardwareMonitor/LibreHardwareMonitor
 
-[![Stars](https://img.shields.io/github/stars/LibreHardwareMonitor/LibreHardwareMonitor?style=flat-square&color=yellow)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/stargazers) [![Forks](https://img.shields.io/github/forks/LibreHardwareMonitor/LibreHardwareMonitor?style=flat-square&color=blue)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LibreHardwareMonitor/LibreHardwareMonitor?style=flat-square&color=yellow)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/stargazers) [![Forks](https://img.shields.io/github/forks/LibreHardwareMonitor/LibreHardwareMonitor?style=flat-square&color=blue)](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 926 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ LibreHardwareMonitor/LibreHardwareMonitor：LibreHardwareMonitor/LibreHardwareMo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 83/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

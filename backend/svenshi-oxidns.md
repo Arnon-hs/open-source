@@ -1,6 +1,6 @@
 # SvenShi/oxidns
 
-[![Stars](https://img.shields.io/github/stars/SvenShi/oxidns?style=flat-square&color=yellow)](https://github.com/SvenShi/oxidns/stargazers) [![Forks](https://img.shields.io/github/forks/SvenShi/oxidns?style=flat-square&color=blue)](https://github.com/SvenShi/oxidns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SvenShi/oxidns?style=flat-square&color=yellow)](https://github.com/SvenShi/oxidns/stargazers) [![Forks](https://img.shields.io/github/forks/SvenShi/oxidns?style=flat-square&color=blue)](https://github.com/SvenShi/oxidns/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance, programmable DNS engine in Rust with flexible pipeline-based routing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SvenShi/oxidns — это высокопроизводительный DNS‑�
 
 ### 中文
 
-SvenShi/oxidns：SvenShi/oxidns helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SvenShi/oxidns：SvenShi/oxidns helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SvenShi/oxidns：SvenShi/oxidns helps teams reuse service infrastructure instead
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SvenShi/oxidns：SvenShi/oxidns helps teams reuse service infrastructure instead
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 44/100 |
+| outlook | 43/100 |
 | adoption | 37/100 |
 | stars | 43/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # NipunaRanasinghe/awesome-ai-agents
 
-[![Stars](https://img.shields.io/github/stars/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/NipunaRanasinghe/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/NipunaRanasinghe/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=yellow)](https://github.com/NipunaRanasinghe/awesome-ai-agents/stargazers) [![Forks](https://img.shields.io/github/forks/NipunaRanasinghe/awesome-ai-agents?style=flat-square&color=blue)](https://github.com/NipunaRanasinghe/awesome-ai-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of frameworks, tools, and resources for building and deploying AI agents. From multi-agent systems to autonomous coding assistants, this repository covers the latest advancements in AI agent technology. Perfect for developers, researchers, and AI enthusiasts exploring the future of autonomous systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ NipunaRanasinghe/awesome-ai-agents：NipunaRanasinghe/awesome-ai-agents helps tu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 59/100 |
+| production | 43/100 |
+| outlook | 52/100 |
 | adoption | 32/100 |
 | stars | 32/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

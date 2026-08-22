@@ -1,6 +1,6 @@
 # gramiojs/gramio
 
-[![Stars](https://img.shields.io/github/stars/gramiojs/gramio?style=flat-square&color=yellow)](https://github.com/gramiojs/gramio/stargazers) [![Forks](https://img.shields.io/github/forks/gramiojs/gramio?style=flat-square&color=blue)](https://github.com/gramiojs/gramio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gramiojs/gramio?style=flat-square&color=yellow)](https://github.com/gramiojs/gramio/stargazers) [![Forks](https://img.shields.io/github/forks/gramiojs/gramio?style=flat-square&color=blue)](https://github.com/gramiojs/gramio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful, extensible and really type-safe Telegram Bot API framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gramiojs/gramio：gramiojs/gramio helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 44/100 |
 | stars | 51/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

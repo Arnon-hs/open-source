@@ -1,6 +1,6 @@
 # samuelgursky/davinci-resolve-mcp
 
-[![Stars](https://img.shields.io/github/stars/samuelgursky/davinci-resolve-mcp?style=flat-square&color=yellow)](https://github.com/samuelgursky/davinci-resolve-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/samuelgursky/davinci-resolve-mcp?style=flat-square&color=blue)](https://github.com/samuelgursky/davinci-resolve-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samuelgursky/davinci-resolve-mcp?style=flat-square&color=yellow)](https://github.com/samuelgursky/davinci-resolve-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/samuelgursky/davinci-resolve-mcp?style=flat-square&color=blue)](https://github.com/samuelgursky/davinci-resolve-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server integration for DaVinci Resolve
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 991 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ samuelgursky/davinci-resolve-mcp：samuelgursky/davinci-resolve-mcp helps teams 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

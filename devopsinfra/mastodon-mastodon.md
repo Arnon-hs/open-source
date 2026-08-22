@@ -1,6 +1,6 @@
 # mastodon/mastodon
 
-[![Stars](https://img.shields.io/github/stars/mastodon/mastodon?style=flat-square&color=yellow)](https://github.com/mastodon/mastodon/stargazers) [![Forks](https://img.shields.io/github/forks/mastodon/mastodon?style=flat-square&color=blue)](https://github.com/mastodon/mastodon/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mastodon/mastodon?style=flat-square&color=yellow)](https://github.com/mastodon/mastodon/stargazers) [![Forks](https://img.shields.io/github/forks/mastodon/mastodon?style=flat-square&color=blue)](https://github.com/mastodon/mastodon/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Your self-hosted, globally interconnected microblogging community
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49.9k |
 | 🍴 **Forks** | 7.4k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mastodon/mastodon：mastodon/mastodon helps make deployment and operations more 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

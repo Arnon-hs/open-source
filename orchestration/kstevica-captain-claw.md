@@ -1,6 +1,6 @@
 # kstevica/captain-claw
 
-[![Stars](https://img.shields.io/github/stars/kstevica/captain-claw?style=flat-square&color=yellow)](https://github.com/kstevica/captain-claw/stargazers) [![Forks](https://img.shields.io/github/forks/kstevica/captain-claw?style=flat-square&color=blue)](https://github.com/kstevica/captain-claw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kstevica/captain-claw?style=flat-square&color=yellow)](https://github.com/kstevica/captain-claw/stargazers) [![Forks](https://img.shields.io/github/forks/kstevica/captain-claw?style=flat-square&color=blue)](https://github.com/kstevica/captain-claw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent with multi-agent orchestration, autonomous cognitive systems, and a full management dashboard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ kstevica/captain-claw is an open‑source AI platform that coordinates multiple 
 
 ### 中文
 
-kstevica/captain-claw：kstevica/captain-claw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kstevica/captain-claw：kstevica/captain-claw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kstevica/captain-claw：kstevica/captain-claw helps turn isolated prompts and to
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ kstevica/captain-claw：kstevica/captain-claw helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 60/100 |
+| production | 47/100 |
+| outlook | 53/100 |
 | adoption | 26/100 |
 | stars | 33/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

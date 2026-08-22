@@ -1,6 +1,6 @@
 # guilyx/guilyx
 
-[![Stars](https://img.shields.io/github/stars/guilyx/guilyx?style=flat-square&color=yellow)](https://github.com/guilyx/guilyx/stargazers) [![Forks](https://img.shields.io/github/forks/guilyx/guilyx?style=flat-square&color=blue)](https://github.com/guilyx/guilyx/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guilyx/guilyx?style=flat-square&color=yellow)](https://github.com/guilyx/guilyx/stargazers) [![Forks](https://img.shields.io/github/forks/guilyx/guilyx?style=flat-square&color=blue)](https://github.com/guilyx/guilyx/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if you like it
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ guilyx/guilyx：guilyx/guilyx helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 58/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

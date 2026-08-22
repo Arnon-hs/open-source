@@ -1,6 +1,6 @@
 # vibheksoni/free-ai
 
-[![Stars](https://img.shields.io/github/stars/vibheksoni/free-ai?style=flat-square&color=yellow)](https://github.com/vibheksoni/free-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/free-ai?style=flat-square&color=blue)](https://github.com/vibheksoni/free-ai/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibheksoni/free-ai?style=flat-square&color=yellow)](https://github.com/vibheksoni/free-ai/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/free-ai?style=flat-square&color=blue)](https://github.com/vibheksoni/free-ai/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Free OpenAI-compatible API with 16,000+ models. Chat, streaming, tool calling, image generation, image editing. Get a key via Discord, no billing required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ vibheksoni/free-ai is an open‑source, OpenAI‑compatible API that provides ac
 
 ### 中文
 
-vibheksoni/free-ai：vibheksoni/free-ai helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vibheksoni/free-ai：vibheksoni/free-ai helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vibheksoni/free-ai：vibheksoni/free-ai helps integrate monetization, billing, o
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vibheksoni/free-ai：vibheksoni/free-ai helps integrate monetization, billing, o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

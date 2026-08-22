@@ -1,6 +1,6 @@
 # DevlogZz/Kivo
 
-[![Stars](https://img.shields.io/github/stars/DevlogZz/Kivo?style=flat-square&color=yellow)](https://github.com/DevlogZz/Kivo/stargazers) [![Forks](https://img.shields.io/github/forks/DevlogZz/Kivo?style=flat-square&color=blue)](https://github.com/DevlogZz/Kivo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DevlogZz/Kivo?style=flat-square&color=yellow)](https://github.com/DevlogZz/Kivo/stargazers) [![Forks](https://img.shields.io/github/forks/DevlogZz/Kivo?style=flat-square&color=blue)](https://github.com/DevlogZz/Kivo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, fast, and modern desktop HTTP client built with Rust and Tauri
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DevlogZz/Kivo — это лёгкий и быстрый HTTP‑клиент д
 
 ### 中文
 
-DevlogZz/Kivo：DevlogZz/Kivo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DevlogZz/Kivo：DevlogZz/Kivo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DevlogZz/Kivo：DevlogZz/Kivo helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DevlogZz/Kivo：DevlogZz/Kivo helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # hypery11/flipper-tesla-fsd
 
-[![Stars](https://img.shields.io/github/stars/hypery11/flipper-tesla-fsd?style=flat-square&color=yellow)](https://github.com/hypery11/flipper-tesla-fsd/stargazers) [![Forks](https://img.shields.io/github/forks/hypery11/flipper-tesla-fsd?style=flat-square&color=blue)](https://github.com/hypery11/flipper-tesla-fsd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hypery11/flipper-tesla-fsd?style=flat-square&color=yellow)](https://github.com/hypery11/flipper-tesla-fsd/stargazers) [![Forks](https://img.shields.io/github/forks/hypery11/flipper-tesla-fsd?style=flat-square&color=blue)](https://github.com/hypery11/flipper-tesla-fsd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, speed display, steering mode + more. Works via OBD-II or X179 connector.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 739 |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ hypery11/flipper-tesla-fsd：hypery11/flipper-tesla-fsd may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 62/100 |
 | stars | 61/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

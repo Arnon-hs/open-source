@@ -1,6 +1,6 @@
 # nubenetes/awesome-kubernetes
 
-[![Stars](https://img.shields.io/github/stars/nubenetes/awesome-kubernetes?style=flat-square&color=yellow)](https://github.com/nubenetes/awesome-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/nubenetes/awesome-kubernetes?style=flat-square&color=blue)](https://github.com/nubenetes/awesome-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nubenetes/awesome-kubernetes?style=flat-square&color=yellow)](https://github.com/nubenetes/awesome-kubernetes/stargazers) [![Forks](https://img.shields.io/github/forks/nubenetes/awesome-kubernetes?style=flat-square&color=blue)](https://github.com/nubenetes/awesome-kubernetes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome references collected since 2018.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 662 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nubenetes/awesome-kubernetes：nubenetes/awesome-kubernetes helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # openagents-org/openagents
 
-[![Stars](https://img.shields.io/github/stars/openagents-org/openagents?style=flat-square&color=yellow)](https://github.com/openagents-org/openagents/stargazers) [![Forks](https://img.shields.io/github/forks/openagents-org/openagents?style=flat-square&color=blue)](https://github.com/openagents-org/openagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openagents-org/openagents?style=flat-square&color=yellow)](https://github.com/openagents-org/openagents/stargazers) [![Forks](https://img.shields.io/github/forks/openagents-org/openagents?style=flat-square&color=blue)](https://github.com/openagents-org/openagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAgents - AI Agent Networks for Open Collaboration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openagents-org/openagents：openagents-org/openagents helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

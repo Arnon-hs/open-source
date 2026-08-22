@@ -1,6 +1,6 @@
 # PsychQuant/che-ical-mcp
 
-[![Stars](https://img.shields.io/github/stars/PsychQuant/che-ical-mcp?style=flat-square&color=yellow)](https://github.com/PsychQuant/che-ical-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PsychQuant/che-ical-mcp?style=flat-square&color=blue)](https://github.com/PsychQuant/che-ical-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PsychQuant/che-ical-mcp?style=flat-square&color=yellow)](https://github.com/PsychQuant/che-ical-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/PsychQuant/che-ical-mcp?style=flat-square&color=blue)](https://github.com/PsychQuant/che-ical-mcp/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > macOS Calendar & Reminders MCP server with 29 tools — Native Swift EventKit integration for Claude. Attendees/organizer, per-event timezone, undo/redo, --cli mode, --setup TCC, --self-update, signed + notarized binary for macOS 26. Supports iCloud, Google, Exchange.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 28/100 |
 | stars | 31/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # decidim/decidim
 
-[![Stars](https://img.shields.io/github/stars/decidim/decidim?style=flat-square&color=yellow)](https://github.com/decidim/decidim/stargazers) [![Forks](https://img.shields.io/github/forks/decidim/decidim?style=flat-square&color=blue)](https://github.com/decidim/decidim/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decidim/decidim?style=flat-square&color=yellow)](https://github.com/decidim/decidim/stargazers) [![Forks](https://img.shields.io/github/forks/decidim/decidim?style=flat-square&color=blue)](https://github.com/decidim/decidim/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ decidim/decidim：decidim/decidim helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 69/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # UNLINEARITY/CLI-WeChat-Bridge
 
-[![Stars](https://img.shields.io/github/stars/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=yellow)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/stargazers) [![Forks](https://img.shields.io/github/forks/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=blue)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=yellow)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/stargazers) [![Forks](https://img.shields.io/github/forks/UNLINEARITY/CLI-WeChat-Bridge?style=flat-square&color=blue)](https://github.com/UNLINEARITY/CLI-WeChat-Bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 将 AI 命令行工具以最为原生的方式，集成到微信 ClawBot 中，目前支持集成 Codex、Claude Code（非channels，支持审批）、OpenCode。 支持微信和本地终端线程（thread/session）共享、双向对话，支持将本地文件传输至微信。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 189 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ UNLINEARITY/CLI‑WeChat‑Bridge — open‑source‑инструмент, 
 
 ### 中文
 
-UNLINEARITY/CLI-WeChat-Bridge：UNLINEARITY/CLI-WeChat-Bridge helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+UNLINEARITY/CLI-WeChat-Bridge：UNLINEARITY/CLI-WeChat-Bridge helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ UNLINEARITY/CLI-WeChat-Bridge：UNLINEARITY/CLI-WeChat-Bridge helps add AI capab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ UNLINEARITY/CLI-WeChat-Bridge：UNLINEARITY/CLI-WeChat-Bridge helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

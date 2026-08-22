@@ -1,6 +1,6 @@
 # IntensiveCoLearning/GoogleAIAgent25Days
 
-[![Stars](https://img.shields.io/github/stars/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=yellow)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/stargazers) [![Forks](https://img.shields.io/github/forks/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=blue)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=yellow)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/stargazers) [![Forks](https://img.shields.io/github/forks/IntensiveCoLearning/GoogleAIAgent25Days?style=flat-square&color=blue)](https://github.com/IntensiveCoLearning/GoogleAIAgent25Days/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Google 25天AI Agent课程
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ IntensiveCoLearning/GoogleAIAgent25Days：IntensiveCoLearning/GoogleAIAgent25Day
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 62/100 |
-| production | 49/100 |
-| outlook | 42/100 |
+| production | 42/100 |
+| outlook | 35/100 |
 | adoption | 26/100 |
 | stars | 33/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # npmx-dev/npmx.dev
 
-[![Stars](https://img.shields.io/github/stars/npmx-dev/npmx.dev?style=flat-square&color=yellow)](https://github.com/npmx-dev/npmx.dev/stargazers) [![Forks](https://img.shields.io/github/forks/npmx-dev/npmx.dev?style=flat-square&color=blue)](https://github.com/npmx-dev/npmx.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/npmx-dev/npmx.dev?style=flat-square&color=yellow)](https://github.com/npmx-dev/npmx.dev/stargazers) [![Forks](https://img.shields.io/github/forks/npmx-dev/npmx.dev?style=flat-square&color=blue)](https://github.com/npmx-dev/npmx.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > a fast, modern browser for the npm registry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 438 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ npmx.dev — это быстрый и современный веб‑брау
 
 ### 中文
 
-npmx-dev/npmx.dev：npmx-dev/npmx.dev may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+npmx-dev/npmx.dev：npmx-dev/npmx.dev may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ npmx-dev/npmx.dev：npmx-dev/npmx.dev may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ npmx-dev/npmx.dev：npmx-dev/npmx.dev may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

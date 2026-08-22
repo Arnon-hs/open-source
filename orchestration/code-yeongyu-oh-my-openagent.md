@@ -1,6 +1,6 @@
 # code-yeongyu/oh-my-openagent
 
-[![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&color=yellow)](https://github.com/code-yeongyu/oh-my-openagent/stargazers) [![Forks](https://img.shields.io/github/forks/code-yeongyu/oh-my-openagent?style=flat-square&color=blue)](https://github.com/code-yeongyu/oh-my-openagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&color=yellow)](https://github.com/code-yeongyu/oh-my-openagent/stargazers) [![Forks](https://img.shields.io/github/forks/code-yeongyu/oh-my-openagent?style=flat-square&color=blue)](https://github.com/code-yeongyu/oh-my-openagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > omo; the best agent harness - previously oh-my-opencode
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56.3k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ code-yeongyu/oh-my-openagent：code-yeongyu/oh-my-openagent helps turn isolated 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 98/100 |
 | stars | 100/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

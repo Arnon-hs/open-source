@@ -1,6 +1,6 @@
 # ajeetdsouza/zoxide
 
-[![Stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&color=yellow)](https://github.com/ajeetdsouza/zoxide/stargazers) [![Forks](https://img.shields.io/github/forks/ajeetdsouza/zoxide?style=flat-square&color=blue)](https://github.com/ajeetdsouza/zoxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&color=yellow)](https://github.com/ajeetdsouza/zoxide/stargazers) [![Forks](https://img.shields.io/github/forks/ajeetdsouza/zoxide?style=flat-square&color=blue)](https://github.com/ajeetdsouza/zoxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A smarter cd command. Supports all major shells.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.4k |
 | 🍴 **Forks** | 816 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ajeetdsouza/zoxide：ajeetdsouza/zoxide helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 90/100 |
 | stars | 97/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

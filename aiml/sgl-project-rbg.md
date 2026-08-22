@@ -1,6 +1,6 @@
 # sgl-project/rbg
 
-[![Stars](https://img.shields.io/github/stars/sgl-project/rbg?style=flat-square&color=yellow)](https://github.com/sgl-project/rbg/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/rbg?style=flat-square&color=blue)](https://github.com/sgl-project/rbg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sgl-project/rbg?style=flat-square&color=yellow)](https://github.com/sgl-project/rbg/stargazers) [![Forks](https://img.shields.io/github/forks/sgl-project/rbg?style=flat-square&color=blue)](https://github.com/sgl-project/rbg/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A workload for deploying LLM inference services on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 214 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **sgl‑project/rbg** repository provides a ready‑to‑run workload for de
 
 ### 中文
 
-sgl-project/rbg：sgl-project/rbg helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sgl-project/rbg：sgl-project/rbg helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sgl-project/rbg：sgl-project/rbg helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sgl-project/rbg：sgl-project/rbg helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 49/100 |
+| production | 48/100 |
+| outlook | 42/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

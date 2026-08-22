@@ -1,6 +1,6 @@
 # cyanheads/pubmed-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cyanheads/pubmed-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/pubmed-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/pubmed-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/pubmed-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyanheads/pubmed-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/pubmed-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/pubmed-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/pubmed-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for the NCBI E-utilities API. Search PubMed, fetch article metadata and full text, generate citations, explore MeSH terms, and discover related research. STDIO or Streamable HTTP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cyanheads/pubmed-mcp-server：cyanheads/pubmed-mcp-server helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 52/100 |
+| outlook | 57/100 |
 | adoption | 40/100 |
 | stars | 42/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

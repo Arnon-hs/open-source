@@ -1,6 +1,6 @@
 # openjdk/jdk
 
-[![Stars](https://img.shields.io/github/stars/openjdk/jdk?style=flat-square&color=yellow)](https://github.com/openjdk/jdk/stargazers) [![Forks](https://img.shields.io/github/forks/openjdk/jdk?style=flat-square&color=blue)](https://github.com/openjdk/jdk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openjdk/jdk?style=flat-square&color=yellow)](https://github.com/openjdk/jdk/stargazers) [![Forks](https://img.shields.io/github/forks/openjdk/jdk?style=flat-square&color=blue)](https://github.com/openjdk/jdk/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > JDK main-line development https://openjdk.org/projects/jdk
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.9k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openjdk/jdk：openjdk/jdk helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 93/100 |
 | stars | 93/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

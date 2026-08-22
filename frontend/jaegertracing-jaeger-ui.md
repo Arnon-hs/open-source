@@ -1,6 +1,6 @@
 # jaegertracing/jaeger-ui
 
-[![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger-ui?style=flat-square&color=yellow)](https://github.com/jaegertracing/jaeger-ui/stargazers) [![Forks](https://img.shields.io/github/forks/jaegertracing/jaeger-ui?style=flat-square&color=blue)](https://github.com/jaegertracing/jaeger-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaegertracing/jaeger-ui?style=flat-square&color=yellow)](https://github.com/jaegertracing/jaeger-ui/stargazers) [![Forks](https://img.shields.io/github/forks/jaegertracing/jaeger-ui?style=flat-square&color=blue)](https://github.com/jaegertracing/jaeger-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI for Jaeger
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 713 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jaegertracing/jaeger-ui：jaegertracing/jaeger-ui helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 69/100 |
 | stars | 67/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

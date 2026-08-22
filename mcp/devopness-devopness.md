@@ -27,15 +27,39 @@ MCP · Automation · AI/ML · Backend · Database
 
 ### English
 
-devopness/devopness: devopness/devopness helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Summary:** Devopness is an open-source project that enables AI-powered DevOps by connecting AI assistants to real tools and data through a standard protocol called Model Context Protocol (MCP). This platform allows for the deployment of applications, infrastructure, and CI/CD pipelines on any cloud and stack, with a free plan available. With a high production readiness score, Devopness offers a reliable and configurable solution for connecting AI agents to tools.
+
+**Value Proposition:** The primary value of Devopness lies in its ability to standardize integrations between AI assistants and real tools and data. This enables a seamless and deterministic API, allowing developers to focus on their tasks without worrying about the underlying infrastructure. By using Devopness, developers can connect AI agents to tools, ship MCP servers, and standardize integrations, making it a valuable addition to any DevOps toolkit.
+
+**Practical Adoption Path:** To adopt Devopness, developers can start by evaluating the project's implementation signals, such as its API, SDK, and CLI. They can then assess the language metadata and focused topics to determine if Devopness aligns with their project's requirements. Once they've determined that Devopness is a good fit, they can begin integrating it into their DevOps pipeline. With a strong ecosystem
 
 ### Русский
 
-devopness/devopness: open-source проект в категориях MCP, Automation, AI/ML, Backend, Database. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Резюме проекта devopness/devopness:
+
+Проект Devopness представляет собой бесплатное решение AI DevOps, позволяющее развертывать приложения, инфраструктуру и CI/CD на любом облачном провайдере и с любым стеком технологий. Он обеспечивает стандартизированный протокол подключения AI-ассистентов к реальным инструментам и данным. 
+
+Типовой сценарий внедрения: проект может быть использован для подключения AI-агентов к инструментам, развертывания серверов Model Context Protocol и стандартизации интеграций.
+
+Уровень готовности к production: высокий, поскольку проект демонстрирует свежую активность, широкое признание и сильные сигналы экосистемы. Однако перед внедрением необходимо провести тщательный анализ лицензии, безопасности и активности maintainers.
 
 ### 中文
 
-devopness/devopness：devopness/devopness helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Devopness: AI DevOps 的解决方案**
+
+Devopness 是一个开源项目，旨在连接 AI 助手与真实的工具和数据。通过标准协议，Devopness 帮助开发者连接 AI 代理到工具、部署模型和 CI/CD 流程。
+
+**价值**
+
+Devopness 的主要价值在于连接 AI 助手与真实的工具和数据，使开发者能够通过标准协议进行集成。这种集成可以标准化工具的接入，方便开发者使用 AI 助手来管理 DevOps 流程。
+
+**典型接入方式**
+
+Devopness 提供了多种接入方式，包括 API、SDK 和 CLI。开发者可以通过这些接入点将 AI 助手连接到 Devopness 平台，利用标准协议进行集成。
+
+**生产可用性**
+
+Devopness 有很高的生产可用性，主要原因是其活跃维护团队、强大的社区支持和稳定的更新记录。虽然仍需要进行最终审查，但 Devopness 是一个值得信赖的开源项目。
 
 ## 🧭 Practical evaluation
 
@@ -65,16 +89,16 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 80/100 |
-| integration | 94/100 |
-| production | 83/100 |
-| outlook | 89/100 |
-| adoption | 56/100 |
-| stars | 56/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 89/100 |
+| quality | 80/100 |
+| recency | 100/100 |
+| adoption | 56/100 |
+| production | 83/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

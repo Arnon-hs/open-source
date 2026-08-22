@@ -1,6 +1,6 @@
 # kavinsood/yaos
 
-[![Stars](https://img.shields.io/github/stars/kavinsood/yaos?style=flat-square&color=yellow)](https://github.com/kavinsood/yaos/stargazers) [![Forks](https://img.shields.io/github/forks/kavinsood/yaos?style=flat-square&color=blue)](https://github.com/kavinsood/yaos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kavinsood/yaos?style=flat-square&color=yellow)](https://github.com/kavinsood/yaos/stargazers) [![Forks](https://img.shields.io/github/forks/kavinsood/yaos?style=flat-square&color=blue)](https://github.com/kavinsood/yaos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 563 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ kavinsood/yaos：kavinsood/yaos may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

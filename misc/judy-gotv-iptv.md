@@ -1,6 +1,6 @@
 # judy-gotv/iptv
 
-[![Stars](https://img.shields.io/github/stars/judy-gotv/iptv?style=flat-square&color=yellow)](https://github.com/judy-gotv/iptv/stargazers) [![Forks](https://img.shields.io/github/forks/judy-gotv/iptv?style=flat-square&color=blue)](https://github.com/judy-gotv/iptv/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/judy-gotv/iptv?style=flat-square&color=yellow)](https://github.com/judy-gotv/iptv/stargazers) [![Forks](https://img.shields.io/github/forks/judy-gotv/iptv?style=flat-square&color=blue)](https://github.com/judy-gotv/iptv/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 652 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Judy‑gotv/iptv is an open‑source utility that aggregates, parses, and serves
 
 ### 中文
 
-judy-gotv/iptv：judy-gotv/iptv may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+judy-gotv/iptv：judy-gotv/iptv may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ judy-gotv/iptv：judy-gotv/iptv may be useful when its README and activity match
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,14 +62,14 @@ judy-gotv/iptv：judy-gotv/iptv may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 34/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # deckerst/aves
 
-[![Stars](https://img.shields.io/github/stars/deckerst/aves?style=flat-square&color=yellow)](https://github.com/deckerst/aves/stargazers) [![Forks](https://img.shields.io/github/forks/deckerst/aves?style=flat-square&color=blue)](https://github.com/deckerst/aves/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deckerst/aves?style=flat-square&color=yellow)](https://github.com/deckerst/aves/stargazers) [![Forks](https://img.shields.io/github/forks/deckerst/aves?style=flat-square&color=blue)](https://github.com/deckerst/aves/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Aves is a gallery and metadata explorer app, built for Android with Flutter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ deckerst/aves：deckerst/aves helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

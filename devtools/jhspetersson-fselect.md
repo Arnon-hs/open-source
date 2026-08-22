@@ -1,6 +1,6 @@
 # jhspetersson/fselect
 
-[![Stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat-square&color=yellow)](https://github.com/jhspetersson/fselect/stargazers) [![Forks](https://img.shields.io/github/forks/jhspetersson/fselect?style=flat-square&color=blue)](https://github.com/jhspetersson/fselect/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat-square&color=yellow)](https://github.com/jhspetersson/fselect/stargazers) [![Forks](https://img.shields.io/github/forks/jhspetersson/fselect?style=flat-square&color=blue)](https://github.com/jhspetersson/fselect/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Find files with SQL-like queries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jhspetersson/fselect：jhspetersson/fselect helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 70/100 |
 | stars | 78/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Lin-arm/GKD_subscription
 
-[![Stars](https://img.shields.io/github/stars/Lin-arm/GKD_subscription?style=flat-square&color=yellow)](https://github.com/Lin-arm/GKD_subscription/stargazers) [![Forks](https://img.shields.io/github/forks/Lin-arm/GKD_subscription?style=flat-square&color=blue)](https://github.com/Lin-arm/GKD_subscription/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lin-arm/GKD_subscription?style=flat-square&color=yellow)](https://github.com/Lin-arm/GKD_subscription/stargazers) [![Forks](https://img.shields.io/github/forks/Lin-arm/GKD_subscription?style=flat-square&color=blue)](https://github.com/Lin-arm/GKD_subscription/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lin‑arm/GKD_subscription — открытый проект, предоста
 
 ### 中文
 
-Lin-arm/GKD_subscription：Lin-arm/GKD_subscription helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Lin-arm/GKD_subscription：Lin-arm/GKD_subscription helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Lin-arm/GKD_subscription：Lin-arm/GKD_subscription helps integrate monetization
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Lin-arm/GKD_subscription：Lin-arm/GKD_subscription helps integrate monetization
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 64/100 |
 | stars | 72/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # FarGroup/FarManager
 
-[![Stars](https://img.shields.io/github/stars/FarGroup/FarManager?style=flat-square&color=yellow)](https://github.com/FarGroup/FarManager/stargazers) [![Forks](https://img.shields.io/github/forks/FarGroup/FarManager?style=flat-square&color=blue)](https://github.com/FarGroup/FarManager/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FarGroup/FarManager?style=flat-square&color=yellow)](https://github.com/FarGroup/FarManager/stargazers) [![Forks](https://img.shields.io/github/forks/FarGroup/FarManager?style=flat-square&color=blue)](https://github.com/FarGroup/FarManager/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > File and Archive Manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ FarGroup/FarManager：FarGroup/FarManager helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # QuantumNous/new-api
 
-[![Stars](https://img.shields.io/github/stars/QuantumNous/new-api?style=flat-square&color=yellow)](https://github.com/QuantumNous/new-api/stargazers) [![Forks](https://img.shields.io/github/forks/QuantumNous/new-api?style=flat-square&color=blue)](https://github.com/QuantumNous/new-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QuantumNous/new-api?style=flat-square&color=yellow)](https://github.com/QuantumNous/new-api/stargazers) [![Forks](https://img.shields.io/github/forks/QuantumNous/new-api?style=flat-square&color=blue)](https://github.com/QuantumNous/new-api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.4k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ QuantumNous/new-api：QuantumNous/new-api helps research and automate market wor
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 68/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 96/100 |
 | stars | 96/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Josh-XT/AGiXT
 
-[![Stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=flat-square&color=yellow)](https://github.com/Josh-XT/AGiXT/stargazers) [![Forks](https://img.shields.io/github/forks/Josh-XT/AGiXT?style=flat-square&color=blue)](https://github.com/Josh-XT/AGiXT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Josh-XT/AGiXT?style=flat-square&color=yellow)](https://github.com/Josh-XT/AGiXT/stargazers) [![Forks](https://img.shields.io/github/forks/Josh-XT/AGiXT?style=flat-square&color=blue)](https://github.com/Josh-XT/AGiXT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 440 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Josh-XT/AGiXT：Josh-XT/AGiXT helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

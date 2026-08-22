@@ -1,6 +1,6 @@
 # therealaleph/MasterHttpRelayVPN-RUST
 
-[![Stars](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=yellow)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/stargazers) [![Forks](https://img.shields.io/github/forks/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=blue)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=yellow)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/stargazers) [![Forks](https://img.shields.io/github/forks/therealaleph/MasterHttpRelayVPN-RUST?style=flat-square&color=blue)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ therealaleph/MasterHttpRelayVPN-RUST：therealaleph/MasterHttpRelayVPN-RUST help
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

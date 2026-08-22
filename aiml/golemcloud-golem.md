@@ -1,6 +1,6 @@
 # golemcloud/golem
 
-[![Stars](https://img.shields.io/github/stars/golemcloud/golem?style=flat-square&color=yellow)](https://github.com/golemcloud/golem/stargazers) [![Forks](https://img.shields.io/github/forks/golemcloud/golem?style=flat-square&color=blue)](https://github.com/golemcloud/golem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/golemcloud/golem?style=flat-square&color=yellow)](https://github.com/golemcloud/golem/stargazers) [![Forks](https://img.shields.io/github/forks/golemcloud/golem?style=flat-square&color=blue)](https://github.com/golemcloud/golem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 990 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ golemcloud/golem：golemcloud/golem helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

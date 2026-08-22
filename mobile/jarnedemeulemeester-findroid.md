@@ -1,6 +1,6 @@
 # jarnedemeulemeester/findroid
 
-[![Stars](https://img.shields.io/github/stars/jarnedemeulemeester/findroid?style=flat-square&color=yellow)](https://github.com/jarnedemeulemeester/findroid/stargazers) [![Forks](https://img.shields.io/github/forks/jarnedemeulemeester/findroid?style=flat-square&color=blue)](https://github.com/jarnedemeulemeester/findroid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jarnedemeulemeester/findroid?style=flat-square&color=yellow)](https://github.com/jarnedemeulemeester/findroid/stargazers) [![Forks](https://img.shields.io/github/forks/jarnedemeulemeester/findroid?style=flat-square&color=blue)](https://github.com/jarnedemeulemeester/findroid/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Third-party native Jellyfin Android app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **jarnedemeulemeester/findroid** project is an open‑source, native Android
 
 ### 中文
 
-jarnedemeulemeester/findroid：jarnedemeulemeester/findroid may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jarnedemeulemeester/findroid：jarnedemeulemeester/findroid may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ jarnedemeulemeester/findroid：jarnedemeulemeester/findroid may be useful when i
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ jarnedemeulemeester/findroid：jarnedemeulemeester/findroid may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

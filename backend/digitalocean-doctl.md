@@ -1,6 +1,6 @@
 # digitalocean/doctl
 
-[![Stars](https://img.shields.io/github/stars/digitalocean/doctl?style=flat-square&color=yellow)](https://github.com/digitalocean/doctl/stargazers) [![Forks](https://img.shields.io/github/forks/digitalocean/doctl?style=flat-square&color=blue)](https://github.com/digitalocean/doctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/digitalocean/doctl?style=flat-square&color=yellow)](https://github.com/digitalocean/doctl/stargazers) [![Forks](https://img.shields.io/github/forks/digitalocean/doctl?style=flat-square&color=blue)](https://github.com/digitalocean/doctl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The official command line interface for the DigitalOcean API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 456 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ digitalocean/doctl：digitalocean/doctl helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

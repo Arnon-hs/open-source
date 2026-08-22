@@ -1,6 +1,6 @@
 # yumenaka/comigo
 
-[![Stars](https://img.shields.io/github/stars/yumenaka/comigo?style=flat-square&color=yellow)](https://github.com/yumenaka/comigo/stargazers) [![Forks](https://img.shields.io/github/forks/yumenaka/comigo?style=flat-square&color=blue)](https://github.com/yumenaka/comigo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yumenaka/comigo?style=flat-square&color=yellow)](https://github.com/yumenaka/comigo/stargazers) [![Forks](https://img.shields.io/github/forks/yumenaka/comigo?style=flat-square&color=blue)](https://github.com/yumenaka/comigo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Comic & Manga Reader in Linux，Windows，MacOS。简单跨平台的漫画阅读器。わかりやすい漫画リーダー。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yumenaka/comigo：yumenaka/comigo helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

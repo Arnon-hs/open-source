@@ -1,6 +1,6 @@
 # stellar/stellar-cli
 
-[![Stars](https://img.shields.io/github/stars/stellar/stellar-cli?style=flat-square&color=yellow)](https://github.com/stellar/stellar-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/stellar-cli?style=flat-square&color=blue)](https://github.com/stellar/stellar-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stellar/stellar-cli?style=flat-square&color=yellow)](https://github.com/stellar/stellar-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stellar/stellar-cli?style=flat-square&color=blue)](https://github.com/stellar/stellar-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for Stellar developers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,21 +62,21 @@ stellar/stellar-cli：stellar/stellar-cli helps engineers save time in daily dev
 - updated 2026-05-07
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 46/100 |
 | stars | 44/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

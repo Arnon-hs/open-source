@@ -1,6 +1,6 @@
 # nuxt/nuxt
 
-[![Stars](https://img.shields.io/github/stars/nuxt/nuxt?style=flat-square&color=yellow)](https://github.com/nuxt/nuxt/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/nuxt?style=flat-square&color=blue)](https://github.com/nuxt/nuxt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/nuxt?style=flat-square&color=yellow)](https://github.com/nuxt/nuxt/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/nuxt?style=flat-square&color=blue)](https://github.com/nuxt/nuxt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Full-Stack Vue Framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60.2k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ nuxt/nuxt：nuxt/nuxt helps ship user-facing interfaces with less custom UI work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 84/100 |
+| usefulness | 74/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 66/100 |
 | adoption | 98/100 |
 | stars | 100/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

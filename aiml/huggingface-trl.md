@@ -1,6 +1,6 @@
 # huggingface/trl
 
-[![Stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square&color=yellow)](https://github.com/huggingface/trl/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/trl?style=flat-square&color=blue)](https://github.com/huggingface/trl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huggingface/trl?style=flat-square&color=yellow)](https://github.com/huggingface/trl/stargazers) [![Forks](https://img.shields.io/github/forks/huggingface/trl?style=flat-square&color=blue)](https://github.com/huggingface/trl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Train transformer language models with reinforcement learning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.3k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ huggingface/trl：huggingface/trl helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

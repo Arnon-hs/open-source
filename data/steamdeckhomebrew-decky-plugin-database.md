@@ -1,6 +1,6 @@
 # SteamDeckHomebrew/decky-plugin-database
 
-[![Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=yellow)](https://github.com/SteamDeckHomebrew/decky-plugin-database/stargazers) [![Forks](https://img.shields.io/github/forks/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=blue)](https://github.com/SteamDeckHomebrew/decky-plugin-database/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=yellow)](https://github.com/SteamDeckHomebrew/decky-plugin-database/stargazers) [![Forks](https://img.shields.io/github/forks/SteamDeckHomebrew/decky-plugin-database?style=flat-square&color=blue)](https://github.com/SteamDeckHomebrew/decky-plugin-database/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Decky Plugin Database. PR your plugins to this repository to have them added to the store!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Decky Plugin Database — это открытый репозиторий, со
 
 ### 中文
 
-SteamDeckHomebrew/decky-plugin-database：SteamDeckHomebrew/decky-plugin-database helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SteamDeckHomebrew/decky-plugin-database：SteamDeckHomebrew/decky-plugin-database helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SteamDeckHomebrew/decky-plugin-database：SteamDeckHomebrew/decky-plugin-databas
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SteamDeckHomebrew/decky-plugin-database：SteamDeckHomebrew/decky-plugin-databas
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 54/100 |
 | stars | 53/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # netease-youdao/LobsterAI
 
-[![Stars](https://img.shields.io/github/stars/netease-youdao/LobsterAI?style=flat-square&color=yellow)](https://github.com/netease-youdao/LobsterAI/stargazers) [![Forks](https://img.shields.io/github/forks/netease-youdao/LobsterAI?style=flat-square&color=blue)](https://github.com/netease-youdao/LobsterAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netease-youdao/LobsterAI?style=flat-square&color=yellow)](https://github.com/netease-youdao/LobsterAI/stargazers) [![Forks](https://img.shields.io/github/forks/netease-youdao/LobsterAI?style=flat-square&color=blue)](https://github.com/netease-youdao/LobsterAI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Your 24/7 all-scenario AI agent that gets work done for you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 782 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LobsterAI — это открытый 24/7 AI‑агент, способный
 
 ### 中文
 
-netease-youdao/LobsterAI：netease-youdao/LobsterAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+netease-youdao/LobsterAI：netease-youdao/LobsterAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ netease-youdao/LobsterAI：netease-youdao/LobsterAI helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ netease-youdao/LobsterAI：netease-youdao/LobsterAI helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

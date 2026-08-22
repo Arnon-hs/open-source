@@ -1,6 +1,6 @@
 # infiniflow/ragflow
 
-[![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square&color=yellow)](https://github.com/infiniflow/ragflow/stargazers) [![Forks](https://img.shields.io/github/forks/infiniflow/ragflow?style=flat-square&color=blue)](https://github.com/infiniflow/ragflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square&color=yellow)](https://github.com/infiniflow/ragflow/stargazers) [![Forks](https://img.shields.io/github/forks/infiniflow/ragflow?style=flat-square&color=blue)](https://github.com/infiniflow/ragflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79.9k |
 | 🍴 **Forks** | 9.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ infiniflow/ragflow：infiniflow/ragflow helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 67/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 99/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

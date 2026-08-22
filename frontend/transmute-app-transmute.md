@@ -1,6 +1,6 @@
 # transmute-app/transmute
 
-[![Stars](https://img.shields.io/github/stars/transmute-app/transmute?style=flat-square&color=yellow)](https://github.com/transmute-app/transmute/stargazers) [![Forks](https://img.shields.io/github/forks/transmute-app/transmute?style=flat-square&color=blue)](https://github.com/transmute-app/transmute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/transmute-app/transmute?style=flat-square&color=yellow)](https://github.com/transmute-app/transmute/stargazers) [![Forks](https://img.shields.io/github/forks/transmute-app/transmute?style=flat-square&color=blue)](https://github.com/transmute-app/transmute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ transmute-app/transmute：transmute-app/transmute helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

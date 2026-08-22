@@ -1,6 +1,6 @@
 # EvanBacon/serve-sim
 
-[![Stars](https://img.shields.io/github/stars/EvanBacon/serve-sim?style=flat-square&color=yellow)](https://github.com/EvanBacon/serve-sim/stargazers) [![Forks](https://img.shields.io/github/forks/EvanBacon/serve-sim?style=flat-square&color=blue)](https://github.com/EvanBacon/serve-sim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvanBacon/serve-sim?style=flat-square&color=yellow)](https://github.com/EvanBacon/serve-sim/stargazers) [![Forks](https://img.shields.io/github/forks/EvanBacon/serve-sim?style=flat-square&color=blue)](https://github.com/EvanBacon/serve-sim/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The `npx serve` of Apple Simulators.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 821 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EvanBacon/serve-sim — это небольшая утилита с откры
 
 ### 中文
 
-EvanBacon/serve-sim：EvanBacon/serve-sim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EvanBacon/serve-sim：EvanBacon/serve-sim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ EvanBacon/serve-sim：EvanBacon/serve-sim may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ EvanBacon/serve-sim：EvanBacon/serve-sim may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 46/100 |
+| production | 45/100 |
+| outlook | 39/100 |
 | adoption | 56/100 |
 | stars | 62/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

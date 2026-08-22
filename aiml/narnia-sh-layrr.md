@@ -1,6 +1,6 @@
 # narnia-sh/layrr
 
-[![Stars](https://img.shields.io/github/stars/narnia-sh/layrr?style=flat-square&color=yellow)](https://github.com/narnia-sh/layrr/stargazers) [![Forks](https://img.shields.io/github/forks/narnia-sh/layrr?style=flat-square&color=blue)](https://github.com/narnia-sh/layrr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/narnia-sh/layrr?style=flat-square&color=yellow)](https://github.com/narnia-sh/layrr/stargazers) [![Forks](https://img.shields.io/github/forks/narnia-sh/layrr?style=flat-square&color=blue)](https://github.com/narnia-sh/layrr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A browser coding agent interface for selecting elements and sending instructions directly to Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ narnia-sh/layrr：narnia-sh/layrr helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

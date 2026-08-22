@@ -1,6 +1,6 @@
 # vyos/vyos-1x
 
-[![Stars](https://img.shields.io/github/stars/vyos/vyos-1x?style=flat-square&color=yellow)](https://github.com/vyos/vyos-1x/stargazers) [![Forks](https://img.shields.io/github/forks/vyos/vyos-1x?style=flat-square&color=blue)](https://github.com/vyos/vyos-1x/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vyos/vyos-1x?style=flat-square&color=yellow)](https://github.com/vyos/vyos-1x/stargazers) [![Forks](https://img.shields.io/github/forks/vyos/vyos-1x?style=flat-square&color=blue)](https://github.com/vyos/vyos-1x/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > VyOS command definitions, scripts, and utilities
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ VyOS — это открытая операционная система на 
 
 ### 中文
 
-vyos/vyos-1x：vyos/vyos-1x helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vyos/vyos-1x：vyos/vyos-1x helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vyos/vyos-1x：vyos/vyos-1x helps prototype or inspect blockchain workflows with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vyos/vyos-1x：vyos/vyos-1x helps prototype or inspect blockchain workflows with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 59/100 |
 | stars | 57/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

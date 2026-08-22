@@ -1,6 +1,6 @@
 # nikolaik/docker-python-nodejs
 
-[![Stars](https://img.shields.io/github/stars/nikolaik/docker-python-nodejs?style=flat-square&color=yellow)](https://github.com/nikolaik/docker-python-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/nikolaik/docker-python-nodejs?style=flat-square&color=blue)](https://github.com/nikolaik/docker-python-nodejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolaik/docker-python-nodejs?style=flat-square&color=yellow)](https://github.com/nikolaik/docker-python-nodejs/stargazers) [![Forks](https://img.shields.io/github/forks/nikolaik/docker-python-nodejs?style=flat-square&color=blue)](https://github.com/nikolaik/docker-python-nodejs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🐳 Python with Node.js docker image
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ This open-source project, nikolaik/docker-python-nodejs, provides a customizable
 
 ### 中文
 
-nikolaik/docker-python-nodejs：nikolaik/docker-python-nodejs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nikolaik/docker-python-nodejs：nikolaik/docker-python-nodejs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ nikolaik/docker-python-nodejs：nikolaik/docker-python-nodejs helps add AI capab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -60,21 +60,21 @@ nikolaik/docker-python-nodejs：nikolaik/docker-python-nodejs helps add AI capab
 - updated 2026-05-08
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 46/100 |
+| production | 47/100 |
+| outlook | 39/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

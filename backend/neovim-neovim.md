@@ -1,6 +1,6 @@
 # neovim/neovim
 
-[![Stars](https://img.shields.io/github/stars/neovim/neovim?style=flat-square&color=yellow)](https://github.com/neovim/neovim/stargazers) [![Forks](https://img.shields.io/github/forks/neovim/neovim?style=flat-square&color=blue)](https://github.com/neovim/neovim/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neovim/neovim?style=flat-square&color=yellow)](https://github.com/neovim/neovim/stargazers) [![Forks](https://img.shields.io/github/forks/neovim/neovim?style=flat-square&color=blue)](https://github.com/neovim/neovim/network) [![Language](https://img.shields.io/badge/lang-Vim%20Script-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Vim-fork focused on extensibility and usability
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 99.4k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Vim Script |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ neovim/neovim：neovim/neovim helps teams reuse service infrastructure instead o
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

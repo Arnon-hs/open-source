@@ -1,6 +1,6 @@
 # shraga100/claude-desktop-rtl-patch
 
-[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > CSS patch for Claude Desktop windows version to enable RTL (right-to-left) support for Hebrew and Arabic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -59,21 +59,21 @@ shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch helps ad
 - primary language: PowerShell
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 50/100 |
+| production | 42/100 |
+| outlook | 43/100 |
 | adoption | 29/100 |
 | stars | 31/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

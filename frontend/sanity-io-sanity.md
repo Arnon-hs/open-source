@@ -1,6 +1,6 @@
 # sanity-io/sanity
 
-[![Stars](https://img.shields.io/github/stars/sanity-io/sanity?style=flat-square&color=yellow)](https://github.com/sanity-io/sanity/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-io/sanity?style=flat-square&color=blue)](https://github.com/sanity-io/sanity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanity-io/sanity?style=flat-square&color=yellow)](https://github.com/sanity-io/sanity/stargazers) [![Forks](https://img.shields.io/github/forks/sanity-io/sanity?style=flat-square&color=blue)](https://github.com/sanity-io/sanity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Sanity Studio – Rapidly configure content workspaces powered by structured content
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 530 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sanity-io/sanity：sanity-io/sanity helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

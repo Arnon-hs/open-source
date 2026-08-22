@@ -1,6 +1,6 @@
 # Freika/dawarich
 
-[![Stars](https://img.shields.io/github/stars/Freika/dawarich?style=flat-square&color=yellow)](https://github.com/Freika/dawarich/stargazers) [![Forks](https://img.shields.io/github/forks/Freika/dawarich?style=flat-square&color=blue)](https://github.com/Freika/dawarich/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Freika/dawarich?style=flat-square&color=yellow)](https://github.com/Freika/dawarich/stargazers) [![Forks](https://img.shields.io/github/forks/Freika/dawarich?style=flat-square&color=blue)](https://github.com/Freika/dawarich/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Your favorite self-hostable alternative to Google Timeline (Google Location History)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 299 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ Freika/dawarich：Freika/dawarich may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 78/100 |
 | stars | 84/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

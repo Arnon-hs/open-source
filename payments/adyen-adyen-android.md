@@ -1,6 +1,6 @@
 # Adyen/adyen-android
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-android?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-android/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-android?style=flat-square&color=blue)](https://github.com/Adyen/adyen-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-android?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-android/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-android?style=flat-square&color=blue)](https://github.com/Adyen/adyen-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen Android Drop-in and Components
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Adyen / adyen-android — это официальная open‑source би
 
 ### 中文
 
-Adyen/adyen-android：Adyen/adyen-android helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Adyen/adyen-android：Adyen/adyen-android helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Adyen/adyen-android：Adyen/adyen-android helps integrate monetization, billing,
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Adyen/adyen-android：Adyen/adyen-android helps integrate monetization, billing,
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 46/100 |
 | stars | 46/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

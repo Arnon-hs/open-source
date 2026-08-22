@@ -1,6 +1,6 @@
 # suzuki-shunsuke/ghalint
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghalint?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghalint/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghalint?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghalint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghalint?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghalint/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghalint?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghalint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Actions linter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ suzuki‑shunsuke/ghalint is an open‑source linter designed to analyze GitHub 
 
 ### 中文
 
-suzuki-shunsuke/ghalint：suzuki-shunsuke/ghalint helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+suzuki-shunsuke/ghalint：suzuki-shunsuke/ghalint helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ suzuki-shunsuke/ghalint：suzuki-shunsuke/ghalint helps engineers save time in d
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ suzuki-shunsuke/ghalint：suzuki-shunsuke/ghalint helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 42/100 |
 | stars | 51/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

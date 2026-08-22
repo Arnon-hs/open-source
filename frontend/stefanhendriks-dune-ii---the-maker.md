@@ -1,6 +1,6 @@
 # stefanhendriks/Dune-II---The-Maker
 
-[![Stars](https://img.shields.io/github/stars/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=yellow)](https://github.com/stefanhendriks/Dune-II---The-Maker/stargazers) [![Forks](https://img.shields.io/github/forks/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=blue)](https://github.com/stefanhendriks/Dune-II---The-Maker/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=yellow)](https://github.com/stefanhendriks/Dune-II---The-Maker/stargazers) [![Forks](https://img.shields.io/github/forks/stefanhendriks/Dune-II---The-Maker?style=flat-square&color=blue)](https://github.com/stefanhendriks/Dune-II---The-Maker/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A remake of the classic Dune 2 - The Building of a Dynasty (by Westwood Studios) with several enhancements. Like: higher screenresolutions, zooming, multiselect, skirmish play, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **stefanhendriks/Dune‑II---The‑Maker** — это
 
 ### 中文
 
-stefanhendriks/Dune-II---The-Maker：stefanhendriks/Dune-II---The-Maker helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stefanhendriks/Dune-II---The-Maker：stefanhendriks/Dune-II---The-Maker helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stefanhendriks/Dune-II---The-Maker：stefanhendriks/Dune-II---The-Maker helps sh
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ stefanhendriks/Dune-II---The-Maker：stefanhendriks/Dune-II---The-Maker helps sh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 43/100 |
+| outlook | 42/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

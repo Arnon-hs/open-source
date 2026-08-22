@@ -1,6 +1,6 @@
 # verus-lang/verus
 
-[![Stars](https://img.shields.io/github/stars/verus-lang/verus?style=flat-square&color=yellow)](https://github.com/verus-lang/verus/stargazers) [![Forks](https://img.shields.io/github/forks/verus-lang/verus?style=flat-square&color=blue)](https://github.com/verus-lang/verus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verus-lang/verus?style=flat-square&color=yellow)](https://github.com/verus-lang/verus/stargazers) [![Forks](https://img.shields.io/github/forks/verus-lang/verus?style=flat-square&color=blue)](https://github.com/verus-lang/verus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Verified Rust for low-level systems code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Verus - это язык программирования, основанный �
 
 ### 中文
 
-verus-lang/verus：verus-lang/verus may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+verus-lang/verus：verus-lang/verus may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ verus-lang/verus：verus-lang/verus may be useful when its README and activity m
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ verus-lang/verus：verus-lang/verus may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

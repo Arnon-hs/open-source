@@ -1,6 +1,6 @@
 # clawshell/clawshell
 
-[![Stars](https://img.shields.io/github/stars/clawshell/clawshell?style=flat-square&color=yellow)](https://github.com/clawshell/clawshell/stargazers) [![Forks](https://img.shields.io/github/forks/clawshell/clawshell?style=flat-square&color=blue)](https://github.com/clawshell/clawshell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clawshell/clawshell?style=flat-square&color=yellow)](https://github.com/clawshell/clawshell/stargazers) [![Forks](https://img.shields.io/github/forks/clawshell/clawshell?style=flat-square&color=blue)](https://github.com/clawshell/clawshell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Runtime Security Layer for OpenClaw/Hermes-agent, the essential safety harness for PII & sensitive credentials protection.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Clawshell — это открытый Runtime Security Layer для OpenClaw/H
 
 ### 中文
 
-clawshell/clawshell：clawshell/clawshell helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+clawshell/clawshell：clawshell/clawshell helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ clawshell/clawshell：clawshell/clawshell helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ clawshell/clawshell：clawshell/clawshell helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 46/100 |
+| outlook | 50/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

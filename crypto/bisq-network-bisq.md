@@ -1,6 +1,6 @@
 # bisq-network/bisq
 
-[![Stars](https://img.shields.io/github/stars/bisq-network/bisq?style=flat-square&color=yellow)](https://github.com/bisq-network/bisq/stargazers) [![Forks](https://img.shields.io/github/forks/bisq-network/bisq?style=flat-square&color=blue)](https://github.com/bisq-network/bisq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bisq-network/bisq?style=flat-square&color=yellow)](https://github.com/bisq-network/bisq/stargazers) [![Forks](https://img.shields.io/github/forks/bisq-network/bisq?style=flat-square&color=blue)](https://github.com/bisq-network/bisq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A decentralized bitcoin exchange network
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ bisq‑network/bisq — это полностью децентрализова
 
 ### 中文
 
-bisq-network/bisq：bisq-network/bisq helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bisq-network/bisq：bisq-network/bisq helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bisq-network/bisq：bisq-network/bisq helps prototype or inspect blockchain work
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bisq-network/bisq：bisq-network/bisq helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 79/100 |
 | stars | 79/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

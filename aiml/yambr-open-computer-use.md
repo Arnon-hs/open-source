@@ -1,6 +1,6 @@
 # Yambr/open-computer-use
 
-[![Stars](https://img.shields.io/github/stars/Yambr/open-computer-use?style=flat-square&color=yellow)](https://github.com/Yambr/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/Yambr/open-computer-use?style=flat-square&color=blue)](https://github.com/Yambr/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yambr/open-computer-use?style=flat-square&color=yellow)](https://github.com/Yambr/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/Yambr/open-computer-use?style=flat-square&color=blue)](https://github.com/Yambr/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that gives any LLM its own computer — managed Docker workspaces with live browser, terminal, code execution, document skills, and autonomous sub-agents. Self-hosted, open-source, pluggable into any model.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Yambr/open-computer-use：Yambr/open-computer-use helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 37/100 |
 | stars | 39/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

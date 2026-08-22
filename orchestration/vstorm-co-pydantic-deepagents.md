@@ -1,6 +1,6 @@
 # vstorm-co/pydantic-deepagents
 
-[![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=flat-square&color=yellow)](https://github.com/vstorm-co/pydantic-deepagents/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/pydantic-deepagents?style=flat-square&color=blue)](https://github.com/vstorm-co/pydantic-deepagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vstorm-co/pydantic-deepagents?style=flat-square&color=yellow)](https://github.com/vstorm-co/pydantic-deepagents/stargazers) [![Forks](https://img.shields.io/github/forks/vstorm-co/pydantic-deepagents?style=flat-square&color=blue)](https://github.com/vstorm-co/pydantic-deepagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Build Claude Code–style deep agents in Python: tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, and unlimited context — all on Pydantic AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 770 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vstorm-co/pydantic-deepagents：vstorm-co/pydantic-deepagents helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 94/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

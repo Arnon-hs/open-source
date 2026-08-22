@@ -1,6 +1,6 @@
 # terrylica/cc-skills
 
-[![Stars](https://img.shields.io/github/stars/terrylica/cc-skills?style=flat-square&color=yellow)](https://github.com/terrylica/cc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/terrylica/cc-skills?style=flat-square&color=blue)](https://github.com/terrylica/cc-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terrylica/cc-skills?style=flat-square&color=yellow)](https://github.com/terrylica/cc-skills/stargazers) [![Forks](https://img.shields.io/github/forks/terrylica/cc-skills?style=flat-square&color=blue)](https://github.com/terrylica/cc-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, semantic versioning, and productivity workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ terrylica/cc-skills：terrylica/cc-skills helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 31/100 |
 | stars | 35/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

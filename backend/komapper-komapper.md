@@ -1,6 +1,6 @@
 # komapper/komapper
 
-[![Stars](https://img.shields.io/github/stars/komapper/komapper?style=flat-square&color=yellow)](https://github.com/komapper/komapper/stargazers) [![Forks](https://img.shields.io/github/forks/komapper/komapper?style=flat-square&color=blue)](https://github.com/komapper/komapper/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komapper/komapper?style=flat-square&color=yellow)](https://github.com/komapper/komapper/stargazers) [![Forks](https://img.shields.io/github/forks/komapper/komapper?style=flat-square&color=blue)](https://github.com/komapper/komapper/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin ORM for JDBC and R2DBC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Komapper is an open‑source Object‑Relational Mapping (ORM) library for Kotli
 
 ### 中文
 
-komapper/komapper：komapper/komapper helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+komapper/komapper：komapper/komapper helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ komapper/komapper：komapper/komapper helps teams reuse service infrastructure i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ komapper/komapper：komapper/komapper helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 48/100 |
 | stars | 54/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

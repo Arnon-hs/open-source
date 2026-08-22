@@ -1,6 +1,6 @@
 # evcc-io/evcc
 
-[![Stars](https://img.shields.io/github/stars/evcc-io/evcc?style=flat-square&color=yellow)](https://github.com/evcc-io/evcc/stargazers) [![Forks](https://img.shields.io/github/forks/evcc-io/evcc?style=flat-square&color=blue)](https://github.com/evcc-io/evcc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evcc-io/evcc?style=flat-square&color=yellow)](https://github.com/evcc-io/evcc/stargazers) [![Forks](https://img.shields.io/github/forks/evcc-io/evcc?style=flat-square&color=blue)](https://github.com/evcc-io/evcc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > solar charging ☀️🚘
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ evcc-io/evcc：evcc-io/evcc may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

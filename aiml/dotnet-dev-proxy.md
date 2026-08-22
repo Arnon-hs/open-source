@@ -1,6 +1,6 @@
 # dotnet/dev-proxy
 
-[![Stars](https://img.shields.io/github/stars/dotnet/dev-proxy?style=flat-square&color=yellow)](https://github.com/dotnet/dev-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/dev-proxy?style=flat-square&color=blue)](https://github.com/dotnet/dev-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/dev-proxy?style=flat-square&color=yellow)](https://github.com/dotnet/dev-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/dev-proxy?style=flat-square&color=blue)](https://github.com/dotnet/dev-proxy/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Simulate API failures, throttling, and chaos — all from your command line.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 788 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dotnet/dev-proxy：dotnet/dev-proxy helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

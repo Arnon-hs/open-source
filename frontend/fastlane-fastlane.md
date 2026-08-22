@@ -1,6 +1,6 @@
 # fastlane/fastlane
 
-[![Stars](https://img.shields.io/github/stars/fastlane/fastlane?style=flat-square&color=yellow)](https://github.com/fastlane/fastlane/stargazers) [![Forks](https://img.shields.io/github/forks/fastlane/fastlane?style=flat-square&color=blue)](https://github.com/fastlane/fastlane/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fastlane/fastlane?style=flat-square&color=yellow)](https://github.com/fastlane/fastlane/stargazers) [![Forks](https://img.shields.io/github/forks/fastlane/fastlane?style=flat-square&color=blue)](https://github.com/fastlane/fastlane/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41.5k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fastlane/fastlane：fastlane/fastlane helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 97/100 |
 | stars | 98/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

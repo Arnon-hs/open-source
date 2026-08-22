@@ -1,6 +1,6 @@
 # REIJI007/AdBlock_Rule_For_Clash
 
-[![Stars](https://img.shields.io/github/stars/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=yellow)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/stargazers) [![Forks](https://img.shields.io/github/forks/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=blue)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=yellow)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/stargazers) [![Forks](https://img.shields.io/github/forks/REIJI007/AdBlock_Rule_For_Clash?style=flat-square&color=blue)](https://github.com/REIJI007/AdBlock_Rule_For_Clash/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 适用于Clash（premium核心与mihomo核心）的广告域名拦截RULE-SET规则集，每20分钟更新一次
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-REIJI007/AdBlock_Rule_For_Clash: REIJI007/AdBlock_Rule_For_Clash may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+REIJI007/AdBlock_Rule_For_Clash: REIJI007/AdBlock_Rule_For_Clash may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-REIJI007/AdBlock_Rule_For_Clash: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+REIJI007/AdBlock_Rule_For_Clash: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-REIJI007/AdBlock_Rule_For_Clash：REIJI007/AdBlock_Rule_For_Clash may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+REIJI007/AdBlock_Rule_For_Clash：REIJI007/AdBlock_Rule_For_Clash may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ REIJI007/AdBlock_Rule_For_Clash：REIJI007/AdBlock_Rule_For_Clash may be useful 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ REIJI007/AdBlock_Rule_For_Clash：REIJI007/AdBlock_Rule_For_Clash may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

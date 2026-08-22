@@ -1,6 +1,6 @@
 # 1Panel-dev/1Panel
 
-[![Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square&color=yellow)](https://github.com/1Panel-dev/1Panel/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/1Panel?style=flat-square&color=blue)](https://github.com/1Panel-dev/1Panel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square&color=yellow)](https://github.com/1Panel-dev/1Panel/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/1Panel?style=flat-square&color=blue)](https://github.com/1Panel-dev/1Panel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.3k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AI/ML · Frontend · Backend
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 94/100 |
 | stars | 97/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # home-assistant/iOS
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/iOS?style=flat-square&color=yellow)](https://github.com/home-assistant/iOS/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/iOS?style=flat-square&color=blue)](https://github.com/home-assistant/iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant/iOS?style=flat-square&color=yellow)](https://github.com/home-assistant/iOS/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/iOS?style=flat-square&color=blue)](https://github.com/home-assistant/iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > :iphone: Home Assistant for Apple platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 447 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Home Assistant — это официальное приложение для i
 
 ### 中文
 
-home-assistant/iOS：home-assistant/iOS may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+home-assistant/iOS：home-assistant/iOS may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ home-assistant/iOS：home-assistant/iOS may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ home-assistant/iOS：home-assistant/iOS may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 49/100 |
+| outlook | 55/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

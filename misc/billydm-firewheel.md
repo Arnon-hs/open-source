@@ -1,6 +1,6 @@
 # BillyDM/Firewheel
 
-[![Stars](https://img.shields.io/github/stars/BillyDM/Firewheel?style=flat-square&color=yellow)](https://github.com/BillyDM/Firewheel/stargazers) [![Forks](https://img.shields.io/github/forks/BillyDM/Firewheel?style=flat-square&color=blue)](https://github.com/BillyDM/Firewheel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BillyDM/Firewheel?style=flat-square&color=yellow)](https://github.com/BillyDM/Firewheel/stargazers) [![Forks](https://img.shields.io/github/forks/BillyDM/Firewheel?style=flat-square&color=blue)](https://github.com/BillyDM/Firewheel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Powerful and flexible mid-level audio engine for games and other applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -56,21 +56,21 @@ BillyDM/Firewheel：BillyDM/Firewheel may be useful when its README and activity
 - updated 2026-05-07
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 44/100 |
+| production | 41/100 |
+| outlook | 37/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

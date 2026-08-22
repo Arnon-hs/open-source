@@ -1,6 +1,6 @@
 # analogjs/analog
 
-[![Stars](https://img.shields.io/github/stars/analogjs/analog?style=flat-square&color=yellow)](https://github.com/analogjs/analog/stargazers) [![Forks](https://img.shields.io/github/forks/analogjs/analog?style=flat-square&color=blue)](https://github.com/analogjs/analog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/analogjs/analog?style=flat-square&color=yellow)](https://github.com/analogjs/analog/stargazers) [![Forks](https://img.shields.io/github/forks/analogjs/analog?style=flat-square&color=blue)](https://github.com/analogjs/analog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The fullstack meta-framework for Angular. Powered by Vite and Nitro
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 320 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ analogjs/analog：analogjs/analog helps teams reuse service infrastructure inste
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
+| usefulness | 74/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 71/100 |
 | stars | 74/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

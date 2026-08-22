@@ -1,6 +1,6 @@
 # kessler/gemma-gem
 
-[![Stars](https://img.shields.io/github/stars/kessler/gemma-gem?style=flat-square&color=yellow)](https://github.com/kessler/gemma-gem/stargazers) [![Forks](https://img.shields.io/github/forks/kessler/gemma-gem?style=flat-square&color=blue)](https://github.com/kessler/gemma-gem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kessler/gemma-gem?style=flat-square&color=yellow)](https://github.com/kessler/gemma-gem/stargazers) [![Forks](https://img.shields.io/github/forks/kessler/gemma-gem?style=flat-square&color=blue)](https://github.com/kessler/gemma-gem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 893 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kessler/gemma-gem：kessler/gemma-gem helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

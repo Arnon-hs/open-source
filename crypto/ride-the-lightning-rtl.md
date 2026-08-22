@@ -1,6 +1,6 @@
 # Ride-The-Lightning/RTL
 
-[![Stars](https://img.shields.io/github/stars/Ride-The-Lightning/RTL?style=flat-square&color=yellow)](https://github.com/Ride-The-Lightning/RTL/stargazers) [![Forks](https://img.shields.io/github/forks/Ride-The-Lightning/RTL?style=flat-square&color=blue)](https://github.com/Ride-The-Lightning/RTL/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ride-The-Lightning/RTL?style=flat-square&color=yellow)](https://github.com/Ride-The-Lightning/RTL/stargazers) [![Forks](https://img.shields.io/github/forks/Ride-The-Lightning/RTL?style=flat-square&color=blue)](https://github.com/Ride-The-Lightning/RTL/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Ride The Lightning - A full function web browser app for LND, C-Lightning and Eclair
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 797 |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Ride-The-Lightning/RTL：Ride-The-Lightning/RTL helps prototype or inspect block
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 60/100 |
 | stars | 62/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

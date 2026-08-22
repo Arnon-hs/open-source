@@ -1,6 +1,6 @@
 # nf-core/modules
 
-[![Stars](https://img.shields.io/github/stars/nf-core/modules?style=flat-square&color=yellow)](https://github.com/nf-core/modules/stargazers) [![Forks](https://img.shields.io/github/forks/nf-core/modules?style=flat-square&color=blue)](https://github.com/nf-core/modules/network) [![Language](https://img.shields.io/badge/lang-Nextflow-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nf-core/modules?style=flat-square&color=yellow)](https://github.com/nf-core/modules/stargazers) [![Forks](https://img.shields.io/github/forks/nf-core/modules?style=flat-square&color=blue)](https://github.com/nf-core/modules/network) [![Language](https://img.shields.io/badge/lang-Nextflow-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Repository to host tool-specific module files for the Nextflow DSL2 community!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 413 |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Nextflow |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevTools
 
 ### English
 
-nf-core/modules: nf-core/modules helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nf-core/modules: nf-core/modules helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-nf-core/modules: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+nf-core/modules: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-nf-core/modules：nf-core/modules helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nf-core/modules：nf-core/modules helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nf-core/modules：nf-core/modules helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ nf-core/modules：nf-core/modules helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 48/100 |
+| outlook | 56/100 |
 | adoption | 61/100 |
 | stars | 56/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

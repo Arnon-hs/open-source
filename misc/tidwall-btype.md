@@ -1,6 +1,6 @@
 # tidwall/btype
 
-[![Stars](https://img.shields.io/github/stars/tidwall/btype?style=flat-square&color=yellow)](https://github.com/tidwall/btype/stargazers) [![Forks](https://img.shields.io/github/forks/tidwall/btype?style=flat-square&color=blue)](https://github.com/tidwall/btype/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tidwall/btype?style=flat-square&color=yellow)](https://github.com/tidwall/btype/stargazers) [![Forks](https://img.shields.io/github/forks/tidwall/btype?style=flat-square&color=blue)](https://github.com/tidwall/btype/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 35/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | hackernews |
 
@@ -61,14 +61,14 @@ B-tree based collection types for Go：B-tree based collection types for Go may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 46/100 |
-| production | 41/100 |
-| outlook | 33/100 |
+| production | 34/100 |
+| outlook | 26/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 80/100 |
 

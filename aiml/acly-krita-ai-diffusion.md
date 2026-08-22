@@ -1,6 +1,6 @@
 # Acly/krita-ai-diffusion
 
-[![Stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=flat-square&color=yellow)](https://github.com/Acly/krita-ai-diffusion/stargazers) [![Forks](https://img.shields.io/github/forks/Acly/krita-ai-diffusion?style=flat-square&color=blue)](https://github.com/Acly/krita-ai-diffusion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Acly/krita-ai-diffusion?style=flat-square&color=yellow)](https://github.com/Acly/krita-ai-diffusion/stargazers) [![Forks](https://img.shields.io/github/forks/Acly/krita-ai-diffusion?style=flat-square&color=blue)](https://github.com/Acly/krita-ai-diffusion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 577 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Acly/krita-ai-diffusion：Acly/krita-ai-diffusion helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 56/100 |
+| production | 53/100 |
+| outlook | 49/100 |
 | adoption | 81/100 |
 | stars | 85/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

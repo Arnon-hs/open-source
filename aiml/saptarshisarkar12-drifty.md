@@ -1,6 +1,6 @@
 # SaptarshiSarkar12/Drifty
 
-[![Stars](https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=flat-square&color=yellow)](https://github.com/SaptarshiSarkar12/Drifty/stargazers) [![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/Drifty?style=flat-square&color=blue)](https://github.com/SaptarshiSarkar12/Drifty/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=flat-square&color=yellow)](https://github.com/SaptarshiSarkar12/Drifty/stargazers) [![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/Drifty?style=flat-square&color=blue)](https://github.com/SaptarshiSarkar12/Drifty/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Drifty is an Open-Source Interactive File Downloader System built with Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Drifty — это открытая система интерактивного
 
 ### 中文
 
-SaptarshiSarkar12/Drifty：SaptarshiSarkar12/Drifty helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SaptarshiSarkar12/Drifty：SaptarshiSarkar12/Drifty helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SaptarshiSarkar12/Drifty：SaptarshiSarkar12/Drifty helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SaptarshiSarkar12/Drifty：SaptarshiSarkar12/Drifty helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 50/100 |
 | stars | 49/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

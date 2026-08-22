@@ -1,6 +1,6 @@
 # neovide/neovide
 
-[![Stars](https://img.shields.io/github/stars/neovide/neovide?style=flat-square&color=yellow)](https://github.com/neovide/neovide/stargazers) [![Forks](https://img.shields.io/github/forks/neovide/neovide?style=flat-square&color=blue)](https://github.com/neovide/neovide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neovide/neovide?style=flat-square&color=yellow)](https://github.com/neovide/neovide/stargazers) [![Forks](https://img.shields.io/github/forks/neovide/neovide?style=flat-square&color=blue)](https://github.com/neovide/neovide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > No Nonsense Neovim Client in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 613 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ neovide/neovide：neovide/neovide helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 83/100 |
 | stars | 89/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

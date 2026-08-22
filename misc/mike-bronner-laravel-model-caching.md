@@ -1,6 +1,6 @@
 # mike-bronner/laravel-model-caching
 
-[![Stars](https://img.shields.io/github/stars/mike-bronner/laravel-model-caching?style=flat-square&color=yellow)](https://github.com/mike-bronner/laravel-model-caching/stargazers) [![Forks](https://img.shields.io/github/forks/mike-bronner/laravel-model-caching?style=flat-square&color=blue)](https://github.com/mike-bronner/laravel-model-caching/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mike-bronner/laravel-model-caching?style=flat-square&color=yellow)](https://github.com/mike-bronner/laravel-model-caching/stargazers) [![Forks](https://img.shields.io/github/forks/mike-bronner/laravel-model-caching?style=flat-square&color=blue)](https://github.com/mike-bronner/laravel-model-caching/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Eloquent model-caching made easy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Laravel Model Caching provides a simple, drop‑in solution for caching Eloquent
 
 ### 中文
 
-mike-bronner/laravel-model-caching：mike-bronner/laravel-model-caching may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mike-bronner/laravel-model-caching：mike-bronner/laravel-model-caching may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mike-bronner/laravel-model-caching：mike-bronner/laravel-model-caching may be u
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ mike-bronner/laravel-model-caching：mike-bronner/laravel-model-caching may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

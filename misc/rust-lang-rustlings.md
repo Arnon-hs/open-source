@@ -1,6 +1,6 @@
 # rust-lang/rustlings
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustlings?style=flat-square&color=yellow)](https://github.com/rust-lang/rustlings/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustlings?style=flat-square&color=blue)](https://github.com/rust-lang/rustlings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustlings?style=flat-square&color=yellow)](https://github.com/rust-lang/rustlings/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustlings?style=flat-square&color=blue)](https://github.com/rust-lang/rustlings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > :crab: Small exercises to get you used to reading and writing Rust code!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62.7k |
 | 🍴 **Forks** | 11.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ rust-lang/rustlings：rust-lang/rustlings may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

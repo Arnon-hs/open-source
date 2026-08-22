@@ -1,6 +1,6 @@
 # NeverSight/learn-skills.dev
 
-[![Stars](https://img.shields.io/github/stars/NeverSight/learn-skills.dev?style=flat-square&color=yellow)](https://github.com/NeverSight/learn-skills.dev/stargazers) [![Forks](https://img.shields.io/github/forks/NeverSight/learn-skills.dev?style=flat-square&color=blue)](https://github.com/NeverSight/learn-skills.dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeverSight/learn-skills.dev?style=flat-square&color=yellow)](https://github.com/NeverSight/learn-skills.dev/stargazers) [![Forks](https://img.shields.io/github/forks/NeverSight/learn-skills.dev?style=flat-square&color=blue)](https://github.com/NeverSight/learn-skills.dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Cursor, OpenClaw, and other AI coding tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ NeverSight/learn-skills.dev：NeverSight/learn-skills.dev helps turn isolated pr
 - updated 2026-05-09
 - 2 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 52/100 |
+| production | 42/100 |
+| outlook | 45/100 |
 | adoption | 43/100 |
 | stars | 45/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

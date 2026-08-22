@@ -1,6 +1,6 @@
 # pgmpy/pgmpy
 
-[![Stars](https://img.shields.io/github/stars/pgmpy/pgmpy?style=flat-square&color=yellow)](https://github.com/pgmpy/pgmpy/stargazers) [![Forks](https://img.shields.io/github/forks/pgmpy/pgmpy?style=flat-square&color=blue)](https://github.com/pgmpy/pgmpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pgmpy/pgmpy?style=flat-square&color=yellow)](https://github.com/pgmpy/pgmpy/stargazers) [![Forks](https://img.shields.io/github/forks/pgmpy/pgmpy?style=flat-square&color=blue)](https://github.com/pgmpy/pgmpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Python Toolkit for Causal and Probabilistic Reasoning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pgmpy/pgmpy：pgmpy/pgmpy helps convert raw data into searchable, analyzable, or
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

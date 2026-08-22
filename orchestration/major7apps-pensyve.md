@@ -1,6 +1,6 @@
 # major7apps/pensyve
 
-[![Stars](https://img.shields.io/github/stars/major7apps/pensyve?style=flat-square&color=yellow)](https://github.com/major7apps/pensyve/stargazers) [![Forks](https://img.shields.io/github/forks/major7apps/pensyve?style=flat-square&color=blue)](https://github.com/major7apps/pensyve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/major7apps/pensyve?style=flat-square&color=yellow)](https://github.com/major7apps/pensyve/stargazers) [![Forks](https://img.shields.io/github/forks/major7apps/pensyve?style=flat-square&color=blue)](https://github.com/major7apps/pensyve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Universal memory runtime for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Pensyve is an open‑source universal memory runtime designed to give AI agents 
 
 ### 中文
 
-major7apps/pensyve：major7apps/pensyve helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+major7apps/pensyve：major7apps/pensyve helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ major7apps/pensyve：major7apps/pensyve helps turn isolated prompts and tools in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ major7apps/pensyve：major7apps/pensyve helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 28/100 |
 | stars | 30/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

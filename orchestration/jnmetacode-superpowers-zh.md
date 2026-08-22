@@ -1,6 +1,6 @@
 # jnMetaCode/superpowers-zh
 
-[![Stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=flat-square&color=yellow)](https://github.com/jnMetaCode/superpowers-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/superpowers-zh?style=flat-square&color=blue)](https://github.com/jnMetaCode/superpowers-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=flat-square&color=yellow)](https://github.com/jnMetaCode/superpowers-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jnMetaCode/superpowers-zh?style=flat-square&color=blue)](https://github.com/jnMetaCode/superpowers-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jnMetaCode/superpowers-zh：jnMetaCode/superpowers-zh helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

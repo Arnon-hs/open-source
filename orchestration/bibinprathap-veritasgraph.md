@@ -1,6 +1,6 @@
 # bibinprathap/VeritasGraph
 
-[![Stars](https://img.shields.io/github/stars/bibinprathap/VeritasGraph?style=flat-square&color=yellow)](https://github.com/bibinprathap/VeritasGraph/stargazers) [![Forks](https://img.shields.io/github/forks/bibinprathap/VeritasGraph?style=flat-square&color=blue)](https://github.com/bibinprathap/VeritasGraph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bibinprathap/VeritasGraph?style=flat-square&color=yellow)](https://github.com/bibinprathap/VeritasGraph/stargazers) [![Forks](https://img.shields.io/github/forks/bibinprathap/VeritasGraph?style=flat-square&color=blue)](https://github.com/bibinprathap/VeritasGraph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > VeritasGraph: Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ VeritasGraph — это открытая платформа корпорати
 
 ### 中文
 
-bibinprathap/VeritasGraph：bibinprathap/VeritasGraph helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bibinprathap/VeritasGraph：bibinprathap/VeritasGraph helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bibinprathap/VeritasGraph：bibinprathap/VeritasGraph helps turn isolated prompt
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bibinprathap/VeritasGraph：bibinprathap/VeritasGraph helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 64/100 |
+| production | 49/100 |
+| outlook | 57/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

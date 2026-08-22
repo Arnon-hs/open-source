@@ -1,6 +1,6 @@
 # taishi-i/awesome-japanese-nlp-resources
 
-[![Stars](https://img.shields.io/github/stars/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=yellow)](https://github.com/taishi-i/awesome-japanese-nlp-resources/stargazers) [![Forks](https://img.shields.io/github/forks/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=blue)](https://github.com/taishi-i/awesome-japanese-nlp-resources/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=yellow)](https://github.com/taishi-i/awesome-japanese-nlp-resources/stargazers) [![Forks](https://img.shields.io/github/forks/taishi-i/awesome-japanese-nlp-resources?style=flat-square&color=blue)](https://github.com/taishi-i/awesome-japanese-nlp-resources/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of resources dedicated to Python libraries, LLMs, dictionaries, and corpora of NLP for Japanese
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 952 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ taishi-i/awesome-japanese-nlp-resources：taishi-i/awesome-japanese-nlp-resource
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

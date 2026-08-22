@@ -1,6 +1,6 @@
 # SubtitleEdit/subtitleedit
 
-[![Stars](https://img.shields.io/github/stars/SubtitleEdit/subtitleedit?style=flat-square&color=yellow)](https://github.com/SubtitleEdit/subtitleedit/stargazers) [![Forks](https://img.shields.io/github/forks/SubtitleEdit/subtitleedit?style=flat-square&color=blue)](https://github.com/SubtitleEdit/subtitleedit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SubtitleEdit/subtitleedit?style=flat-square&color=yellow)](https://github.com/SubtitleEdit/subtitleedit/stargazers) [![Forks](https://img.shields.io/github/forks/SubtitleEdit/subtitleedit?style=flat-square&color=blue)](https://github.com/SubtitleEdit/subtitleedit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > the subtitle editor :)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-SubtitleEdit/subtitleedit: SubtitleEdit/subtitleedit may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SubtitleEdit/subtitleedit: SubtitleEdit/subtitleedit may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-SubtitleEdit/subtitleedit: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SubtitleEdit/subtitleedit: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-SubtitleEdit/subtitleedit：SubtitleEdit/subtitleedit may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SubtitleEdit/subtitleedit：SubtitleEdit/subtitleedit may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SubtitleEdit/subtitleedit：SubtitleEdit/subtitleedit may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ SubtitleEdit/subtitleedit：SubtitleEdit/subtitleedit may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
+| usefulness | 58/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 50/100 |
 | adoption | 84/100 |
 | stars | 87/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

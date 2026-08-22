@@ -1,6 +1,6 @@
 # boykush/scraps
 
-[![Stars](https://img.shields.io/github/stars/boykush/scraps?style=flat-square&color=yellow)](https://github.com/boykush/scraps/stargazers) [![Forks](https://img.shields.io/github/forks/boykush/scraps?style=flat-square&color=blue)](https://github.com/boykush/scraps/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boykush/scraps?style=flat-square&color=yellow)](https://github.com/boykush/scraps/stargazers) [![Forks](https://img.shields.io/github/forks/boykush/scraps?style=flat-square&color=blue)](https://github.com/boykush/scraps/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Scraps is a portable CLI knowledge hub for managing interconnected Markdown documentation with Wiki-link notation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Scraps is a lightweight, portable command‑line tool that lets you organize and
 
 ### 中文
 
-boykush/scraps：boykush/scraps helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+boykush/scraps：boykush/scraps helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ boykush/scraps：boykush/scraps helps teams reuse service infrastructure instead
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ boykush/scraps：boykush/scraps helps teams reuse service infrastructure instead
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 30/100 |
 | stars | 35/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

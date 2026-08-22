@@ -1,6 +1,6 @@
 # ai-shifu/ai-shifu
 
-[![Stars](https://img.shields.io/github/stars/ai-shifu/ai-shifu?style=flat-square&color=yellow)](https://github.com/ai-shifu/ai-shifu/stargazers) [![Forks](https://img.shields.io/github/forks/ai-shifu/ai-shifu?style=flat-square&color=blue)](https://github.com/ai-shifu/ai-shifu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-shifu/ai-shifu?style=flat-square&color=yellow)](https://github.com/ai-shifu/ai-shifu/stargazers) [![Forks](https://img.shields.io/github/forks/ai-shifu/ai-shifu?style=flat-square&color=blue)](https://github.com/ai-shifu/ai-shifu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Get AI to teach and answer questions for you - just by typing!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 274 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ai‑shifu — это открытый проект, позволяющий по
 
 ### 中文
 
-ai-shifu/ai-shifu：ai-shifu/ai-shifu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ai-shifu/ai-shifu：ai-shifu/ai-shifu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ai-shifu/ai-shifu：ai-shifu/ai-shifu helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ai-shifu/ai-shifu：ai-shifu/ai-shifu helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 52/100 |
 | stars | 52/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

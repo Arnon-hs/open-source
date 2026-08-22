@@ -1,6 +1,6 @@
 # freestylefly/awesome-gpt-image-2
 
-[![Stars](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=yellow)](https://github.com/freestylefly/awesome-gpt-image-2/stargazers) [![Forks](https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=blue)](https://github.com/freestylefly/awesome-gpt-image-2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=yellow)](https://github.com/freestylefly/awesome-gpt-image-2/stargazers) [![Forks](https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=blue)](https://github.com/freestylefly/awesome-gpt-image-2/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 665 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ freestylefly/awesome-gpt-image-2：freestylefly/awesome-gpt-image-2 helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 70/100 |
+| production | 50/100 |
+| outlook | 63/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

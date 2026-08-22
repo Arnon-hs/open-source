@@ -1,6 +1,6 @@
 # barter-rs/barter-rs
 
-[![Stars](https://img.shields.io/github/stars/barter-rs/barter-rs?style=flat-square&color=yellow)](https://github.com/barter-rs/barter-rs/stargazers) [![Forks](https://img.shields.io/github/forks/barter-rs/barter-rs?style=flat-square&color=blue)](https://github.com/barter-rs/barter-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/barter-rs/barter-rs?style=flat-square&color=yellow)](https://github.com/barter-rs/barter-rs/stargazers) [![Forks](https://img.shields.io/github/forks/barter-rs/barter-rs?style=flat-square&color=blue)](https://github.com/barter-rs/barter-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Rust framework for building event-driven live-trading & backtesting systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ barter-rs/barter-rs：barter-rs/barter-rs helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

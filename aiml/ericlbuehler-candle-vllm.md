@@ -1,6 +1,6 @@
 # EricLBuehler/candle-vllm
 
-[![Stars](https://img.shields.io/github/stars/EricLBuehler/candle-vllm?style=flat-square&color=yellow)](https://github.com/EricLBuehler/candle-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/EricLBuehler/candle-vllm?style=flat-square&color=blue)](https://github.com/EricLBuehler/candle-vllm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EricLBuehler/candle-vllm?style=flat-square&color=yellow)](https://github.com/EricLBuehler/candle-vllm/stargazers) [![Forks](https://img.shields.io/github/forks/EricLBuehler/candle-vllm?style=flat-square&color=blue)](https://github.com/EricLBuehler/candle-vllm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 656 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ EricLBuehler’s **candle‑vllm** is an efficient, open‑source platform for r
 
 ### 中文
 
-EricLBuehler/candle-vllm：EricLBuehler/candle-vllm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EricLBuehler/candle-vllm：EricLBuehler/candle-vllm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EricLBuehler/candle-vllm：EricLBuehler/candle-vllm helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ EricLBuehler/candle-vllm：EricLBuehler/candle-vllm helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 57/100 |
 | stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

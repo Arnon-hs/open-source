@@ -1,6 +1,6 @@
 # CertainLach/jrsonnet
 
-[![Stars](https://img.shields.io/github/stars/CertainLach/jrsonnet?style=flat-square&color=yellow)](https://github.com/CertainLach/jrsonnet/stargazers) [![Forks](https://img.shields.io/github/forks/CertainLach/jrsonnet?style=flat-square&color=blue)](https://github.com/CertainLach/jrsonnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CertainLach/jrsonnet?style=flat-square&color=yellow)](https://github.com/CertainLach/jrsonnet/stargazers) [![Forks](https://img.shields.io/github/forks/CertainLach/jrsonnet?style=flat-square&color=blue)](https://github.com/CertainLach/jrsonnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of Jsonnet language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ CertainLach/jrsonnet - это open-source проект, который реал�
 
 ### 中文
 
-CertainLach/jrsonnet：CertainLach/jrsonnet helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CertainLach/jrsonnet：CertainLach/jrsonnet helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ CertainLach/jrsonnet：CertainLach/jrsonnet helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ CertainLach/jrsonnet：CertainLach/jrsonnet helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 44/100 |
+| outlook | 43/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

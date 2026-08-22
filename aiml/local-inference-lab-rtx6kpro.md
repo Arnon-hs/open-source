@@ -1,6 +1,6 @@
 # local-inference-lab/rtx6kpro
 
-[![Stars](https://img.shields.io/github/stars/local-inference-lab/rtx6kpro?style=flat-square&color=yellow)](https://github.com/local-inference-lab/rtx6kpro/stargazers) [![Forks](https://img.shields.io/github/forks/local-inference-lab/rtx6kpro?style=flat-square&color=blue)](https://github.com/local-inference-lab/rtx6kpro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/local-inference-lab/rtx6kpro?style=flat-square&color=yellow)](https://github.com/local-inference-lab/rtx6kpro/stargazers) [![Forks](https://img.shields.io/github/forks/local-inference-lab/rtx6kpro?style=flat-square&color=blue)](https://github.com/local-inference-lab/rtx6kpro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ local-inference-lab/rtx6kpro：local-inference-lab/rtx6kpro helps add AI capabil
 - updated 2026-05-10
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 44/100 |
+| production | 43/100 |
+| outlook | 37/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

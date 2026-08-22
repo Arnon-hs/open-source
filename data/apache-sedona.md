@@ -1,6 +1,6 @@
 # apache/sedona
 
-[![Stars](https://img.shields.io/github/stars/apache/sedona?style=flat-square&color=yellow)](https://github.com/apache/sedona/stargazers) [![Forks](https://img.shields.io/github/forks/apache/sedona?style=flat-square&color=blue)](https://github.com/apache/sedona/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/sedona?style=flat-square&color=yellow)](https://github.com/apache/sedona/stargazers) [![Forks](https://img.shields.io/github/forks/apache/sedona?style=flat-square&color=blue)](https://github.com/apache/sedona/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A cluster computing framework for processing large-scale geospatial data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/sedona：apache/sedona helps convert raw data into searchable, analyzable
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

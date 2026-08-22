@@ -1,6 +1,6 @@
 # OSGeo/gdal
 
-[![Stars](https://img.shields.io/github/stars/OSGeo/gdal?style=flat-square&color=yellow)](https://github.com/OSGeo/gdal/stargazers) [![Forks](https://img.shields.io/github/forks/OSGeo/gdal?style=flat-square&color=blue)](https://github.com/OSGeo/gdal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OSGeo/gdal?style=flat-square&color=yellow)](https://github.com/OSGeo/gdal/stargazers) [![Forks](https://img.shields.io/github/forks/OSGeo/gdal?style=flat-square&color=blue)](https://github.com/OSGeo/gdal/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GDAL — это кросс‑платформенная библиотека �
 
 ### 中文
 
-OSGeo/gdal：OSGeo/gdal helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OSGeo/gdal：OSGeo/gdal helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OSGeo/gdal：OSGeo/gdal helps convert raw data into searchable, analyzable, or a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OSGeo/gdal：OSGeo/gdal helps convert raw data into searchable, analyzable, or a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 82/100 |
 | stars | 80/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

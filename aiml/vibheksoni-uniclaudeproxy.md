@@ -1,6 +1,6 @@
 # vibheksoni/UniClaudeProxy
 
-[![Stars](https://img.shields.io/github/stars/vibheksoni/UniClaudeProxy?style=flat-square&color=yellow)](https://github.com/vibheksoni/UniClaudeProxy/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/UniClaudeProxy?style=flat-square&color=blue)](https://github.com/vibheksoni/UniClaudeProxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibheksoni/UniClaudeProxy?style=flat-square&color=yellow)](https://github.com/vibheksoni/UniClaudeProxy/stargazers) [![Forks](https://img.shields.io/github/forks/vibheksoni/UniClaudeProxy?style=flat-square&color=blue)](https://github.com/vibheksoni/UniClaudeProxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Use any LLM with Claude Code — proxy that translates Anthropic API to OpenAI, Gemini, DeepSeek, Ollama, and more. Full tool calling, streaming, ReAct XML fallback, hot-reload config.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ UniClaudeProxy is an open‑source proxy that lets you run any LLM through Claud
 
 ### 中文
 
-vibheksoni/UniClaudeProxy：vibheksoni/UniClaudeProxy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vibheksoni/UniClaudeProxy：vibheksoni/UniClaudeProxy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vibheksoni/UniClaudeProxy：vibheksoni/UniClaudeProxy helps add AI capability wi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ vibheksoni/UniClaudeProxy：vibheksoni/UniClaudeProxy helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 28/100 |
 | stars | 29/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

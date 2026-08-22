@@ -1,6 +1,6 @@
 # asterinas/asterinas
 
-[![Stars](https://img.shields.io/github/stars/asterinas/asterinas?style=flat-square&color=yellow)](https://github.com/asterinas/asterinas/stargazers) [![Forks](https://img.shields.io/github/forks/asterinas/asterinas?style=flat-square&color=blue)](https://github.com/asterinas/asterinas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asterinas/asterinas?style=flat-square&color=yellow)](https://github.com/asterinas/asterinas/stargazers) [![Forks](https://img.shields.io/github/forks/asterinas/asterinas?style=flat-square&color=blue)](https://github.com/asterinas/asterinas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Asterinas — это открытый проект, разрабатывающ
 
 ### 中文
 
-asterinas/asterinas：asterinas/asterinas helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+asterinas/asterinas：asterinas/asterinas helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ asterinas/asterinas：asterinas/asterinas helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ asterinas/asterinas：asterinas/asterinas helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 73/100 |
 | stars | 78/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

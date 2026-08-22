@@ -1,6 +1,6 @@
 # Fu-Jie/openwebui-extensions
 
-[![Stars](https://img.shields.io/github/stars/Fu-Jie/openwebui-extensions?style=flat-square&color=yellow)](https://github.com/Fu-Jie/openwebui-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/Fu-Jie/openwebui-extensions?style=flat-square&color=blue)](https://github.com/Fu-Jie/openwebui-extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fu-Jie/openwebui-extensions?style=flat-square&color=yellow)](https://github.com/Fu-Jie/openwebui-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/Fu-Jie/openwebui-extensions?style=flat-square&color=blue)](https://github.com/Fu-Jie/openwebui-extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of enhancements, plugins, and prompts for Open WebUI, developed and curated for personal use to extend functionality and improve experience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Fu-Jie/openwebui-extensions：Fu-Jie/openwebui-extensions helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 44/100 |
 | stars | 49/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

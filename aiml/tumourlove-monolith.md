@@ -1,6 +1,6 @@
 # tumourlove/monolith
 
-[![Stars](https://img.shields.io/github/stars/tumourlove/monolith?style=flat-square&color=yellow)](https://github.com/tumourlove/monolith/stargazers) [![Forks](https://img.shields.io/github/forks/tumourlove/monolith?style=flat-square&color=blue)](https://github.com/tumourlove/monolith/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tumourlove/monolith?style=flat-square&color=yellow)](https://github.com/tumourlove/monolith/stargazers) [![Forks](https://img.shields.io/github/forks/tumourlove/monolith?style=flat-square&color=blue)](https://github.com/tumourlove/monolith/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > MCP plugin for Unreal Engine 5.7 — gives AI assistants full read/write access to Blueprints, Materials, Niagara VFX, Animation, Mesh, AI (BT/ST/EQS/SO), GAS, Logic Driver, ComboGraph, UI, Audio (Sound Cues + MetaSounds), and more. 1,226 actions across 16 modules. Zero Python dependency.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tumourlove/monolith：tumourlove/monolith helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 41/100 |
 | stars | 42/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # SayYoungMan/tfui
 
-[![Stars](https://img.shields.io/github/stars/SayYoungMan/tfui?style=flat-square&color=yellow)](https://github.com/SayYoungMan/tfui/stargazers) [![Forks](https://img.shields.io/github/forks/SayYoungMan/tfui?style=flat-square&color=blue)](https://github.com/SayYoungMan/tfui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SayYoungMan/tfui?style=flat-square&color=yellow)](https://github.com/SayYoungMan/tfui/stargazers) [![Forks](https://img.shields.io/github/forks/SayYoungMan/tfui?style=flat-square&color=blue)](https://github.com/SayYoungMan/tfui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive TUI for performing Terraform workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 183 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SayYoungMan/tfui — это интерактивный терминальны�
 
 ### 中文
 
-SayYoungMan/tfui：SayYoungMan/tfui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SayYoungMan/tfui：SayYoungMan/tfui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SayYoungMan/tfui：SayYoungMan/tfui helps ship user-facing interfaces with less 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SayYoungMan/tfui：SayYoungMan/tfui helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 38/100 |
 | stars | 48/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

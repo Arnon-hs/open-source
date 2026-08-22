@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/generative-ai
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/generative-ai?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/generative-ai/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/generative-ai?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/generative-ai/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/generative-ai?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/generative-ai/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/generative-ai?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/generative-ai/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.8k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ GoogleCloudPlatform/generative-ai：GoogleCloudPlatform/generative-ai helps turn
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 58/100 |
+| outlook | 64/100 |
 | adoption | 90/100 |
 | stars | 90/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # langchain-ai/langchainjs
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchainjs/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchainjs?style=flat-square&color=blue)](https://github.com/langchain-ai/langchainjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchainjs?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchainjs/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchainjs?style=flat-square&color=blue)](https://github.com/langchain-ai/langchainjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The agent engineering platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.6k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ langchain-ai/langchainjs：langchain-ai/langchainjs helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 90/100 |
 | stars | 90/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

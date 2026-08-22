@@ -1,6 +1,6 @@
 # getstackit/stackit
 
-[![Stars](https://img.shields.io/github/stars/getstackit/stackit?style=flat-square&color=yellow)](https://github.com/getstackit/stackit/stargazers) [![Forks](https://img.shields.io/github/forks/getstackit/stackit?style=flat-square&color=blue)](https://github.com/getstackit/stackit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getstackit/stackit?style=flat-square&color=yellow)](https://github.com/getstackit/stackit/stargazers) [![Forks](https://img.shields.io/github/forks/getstackit/stackit?style=flat-square&color=blue)](https://github.com/getstackit/stackit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Stackit is a Go-based CLI tool for managing stacked changes in Git repositories. It helps developers work with dependent branches (a "stack") by tracking branch relationships, automating rebases across the stack, and submitting connected pull requests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Stackit is a Go‑based command‑line utility that streamlines working with sta
 
 ### 中文
 
-getstackit/stackit：getstackit/stackit helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+getstackit/stackit：getstackit/stackit helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ getstackit/stackit：getstackit/stackit helps engineers save time in daily devel
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ getstackit/stackit：getstackit/stackit helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 62/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 25/100 |
 | stars | 31/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

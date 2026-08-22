@@ -1,6 +1,6 @@
 # alecthomas/chroma
 
-[![Stars](https://img.shields.io/github/stars/alecthomas/chroma?style=flat-square&color=yellow)](https://github.com/alecthomas/chroma/stargazers) [![Forks](https://img.shields.io/github/forks/alecthomas/chroma?style=flat-square&color=blue)](https://github.com/alecthomas/chroma/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alecthomas/chroma?style=flat-square&color=yellow)](https://github.com/alecthomas/chroma/stargazers) [![Forks](https://img.shields.io/github/forks/alecthomas/chroma?style=flat-square&color=blue)](https://github.com/alecthomas/chroma/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A general purpose syntax highlighter in pure Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 483 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alecthomas/chroma：alecthomas/chroma helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

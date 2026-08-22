@@ -1,6 +1,6 @@
 # terryso/claude-auto-resume
 
-[![Stars](https://img.shields.io/github/stars/terryso/claude-auto-resume?style=flat-square&color=yellow)](https://github.com/terryso/claude-auto-resume/stargazers) [![Forks](https://img.shields.io/github/forks/terryso/claude-auto-resume?style=flat-square&color=blue)](https://github.com/terryso/claude-auto-resume/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terryso/claude-auto-resume?style=flat-square&color=yellow)](https://github.com/terryso/claude-auto-resume/stargazers) [![Forks](https://img.shields.io/github/forks/terryso/claude-auto-resume?style=flat-square&color=blue)](https://github.com/terryso/claude-auto-resume/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 740 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ AI/ML · DevTools
 
 ### 中文
 
-terryso/claude-auto-resume：terryso/claude-auto-resume helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+terryso/claude-auto-resume：terryso/claude-auto-resume helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ terryso/claude-auto-resume：terryso/claude-auto-resume helps add AI capability 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ terryso/claude-auto-resume：terryso/claude-auto-resume helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

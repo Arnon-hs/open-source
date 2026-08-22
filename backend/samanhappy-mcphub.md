@@ -1,6 +1,6 @@
 # samanhappy/mcphub
 
-[![Stars](https://img.shields.io/github/stars/samanhappy/mcphub?style=flat-square&color=yellow)](https://github.com/samanhappy/mcphub/stargazers) [![Forks](https://img.shields.io/github/forks/samanhappy/mcphub?style=flat-square&color=blue)](https://github.com/samanhappy/mcphub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samanhappy/mcphub?style=flat-square&color=yellow)](https://github.com/samanhappy/mcphub/stargazers) [![Forks](https://img.shields.io/github/forks/samanhappy/mcphub?style=flat-square&color=blue)](https://github.com/samanhappy/mcphub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ samanhappy/mcphub：samanhappy/mcphub helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

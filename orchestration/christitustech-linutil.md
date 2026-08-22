@@ -1,6 +1,6 @@
 # ChrisTitusTech/linutil
 
-[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/linutil?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/linutil/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/linutil?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/linutil/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/linutil?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/linutil/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/linutil?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/linutil/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · Design
 
 ### English
 
-ChrisTitusTech/linutil: ChrisTitusTech/linutil helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ChrisTitusTech/linutil: ChrisTitusTech/linutil helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ChrisTitusTech/linutil: open-source проект в категориях Orchestration, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ChrisTitusTech/linutil: open-source проект в категориях Orchestration, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ChrisTitusTech/linutil：ChrisTitusTech/linutil helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ChrisTitusTech/linutil：ChrisTitusTech/linutil helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ChrisTitusTech/linutil：ChrisTitusTech/linutil helps turn isolated prompts and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ChrisTitusTech/linutil：ChrisTitusTech/linutil helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 56/100 |
+| production | 46/100 |
+| outlook | 49/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

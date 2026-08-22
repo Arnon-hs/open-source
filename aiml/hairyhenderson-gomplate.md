@@ -1,6 +1,6 @@
 # hairyhenderson/gomplate
 
-[![Stars](https://img.shields.io/github/stars/hairyhenderson/gomplate?style=flat-square&color=yellow)](https://github.com/hairyhenderson/gomplate/stargazers) [![Forks](https://img.shields.io/github/forks/hairyhenderson/gomplate?style=flat-square&color=blue)](https://github.com/hairyhenderson/gomplate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hairyhenderson/gomplate?style=flat-square&color=yellow)](https://github.com/hairyhenderson/gomplate/stargazers) [![Forks](https://img.shields.io/github/forks/hairyhenderson/gomplate?style=flat-square&color=blue)](https://github.com/hairyhenderson/gomplate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ hairyhenderson/gomplate：hairyhenderson/gomplate helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
+| usefulness | 100/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

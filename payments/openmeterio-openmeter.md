@@ -1,6 +1,6 @@
 # openmeterio/openmeter
 
-[![Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=flat-square&color=yellow)](https://github.com/openmeterio/openmeter/stargazers) [![Forks](https://img.shields.io/github/forks/openmeterio/openmeter?style=flat-square&color=blue)](https://github.com/openmeterio/openmeter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=flat-square&color=yellow)](https://github.com/openmeterio/openmeter/stargazers) [![Forks](https://img.shields.io/github/forks/openmeterio/openmeter?style=flat-square&color=blue)](https://github.com/openmeterio/openmeter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openmeterio/openmeter：openmeterio/openmeter helps integrate monetization, bill
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

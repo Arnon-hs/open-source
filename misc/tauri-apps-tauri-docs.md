@@ -1,6 +1,6 @@
 # tauri-apps/tauri-docs
 
-[![Stars](https://img.shields.io/github/stars/tauri-apps/tauri-docs?style=flat-square&color=yellow)](https://github.com/tauri-apps/tauri-docs/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/tauri-docs?style=flat-square&color=blue)](https://github.com/tauri-apps/tauri-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tauri-apps/tauri-docs?style=flat-square&color=yellow)](https://github.com/tauri-apps/tauri-docs/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/tauri-docs?style=flat-square&color=blue)](https://github.com/tauri-apps/tauri-docs/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The source for all Tauri project documentation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 868 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tauri‑apps/tauri‑docs — это открытый репозиторий, 
 
 ### 中文
 
-tauri-apps/tauri-docs：tauri-apps/tauri-docs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tauri-apps/tauri-docs：tauri-apps/tauri-docs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ tauri-apps/tauri-docs：tauri-apps/tauri-docs may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ tauri-apps/tauri-docs：tauri-apps/tauri-docs may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 67/100 |
 | stars | 65/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

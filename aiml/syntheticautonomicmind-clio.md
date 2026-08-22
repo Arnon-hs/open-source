@@ -1,6 +1,6 @@
 # SyntheticAutonomicMind/CLIO
 
-[![Stars](https://img.shields.io/github/stars/SyntheticAutonomicMind/CLIO?style=flat-square&color=yellow)](https://github.com/SyntheticAutonomicMind/CLIO/stargazers) [![Forks](https://img.shields.io/github/forks/SyntheticAutonomicMind/CLIO?style=flat-square&color=blue)](https://github.com/SyntheticAutonomicMind/CLIO/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SyntheticAutonomicMind/CLIO?style=flat-square&color=yellow)](https://github.com/SyntheticAutonomicMind/CLIO/stargazers) [![Forks](https://img.shields.io/github/forks/SyntheticAutonomicMind/CLIO?style=flat-square&color=blue)](https://github.com/SyntheticAutonomicMind/CLIO/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An AI-assisted coding agent that runs in your terminal and supports many providers and models.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SyntheticAutonomicMind/CLIO — это AI‑ассистент для прог
 
 ### 中文
 
-SyntheticAutonomicMind/CLIO：SyntheticAutonomicMind/CLIO helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SyntheticAutonomicMind/CLIO：SyntheticAutonomicMind/CLIO helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SyntheticAutonomicMind/CLIO：SyntheticAutonomicMind/CLIO helps add AI capabilit
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SyntheticAutonomicMind/CLIO：SyntheticAutonomicMind/CLIO helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 62/100 |
+| production | 48/100 |
+| outlook | 55/100 |
 | adoption | 40/100 |
 | stars | 47/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # BurningC4/Chinese-IPTV
 
-[![Stars](https://img.shields.io/github/stars/BurningC4/Chinese-IPTV?style=flat-square&color=yellow)](https://github.com/BurningC4/Chinese-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/BurningC4/Chinese-IPTV?style=flat-square&color=blue)](https://github.com/BurningC4/Chinese-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BurningC4/Chinese-IPTV?style=flat-square&color=yellow)](https://github.com/BurningC4/Chinese-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/BurningC4/Chinese-IPTV?style=flat-square&color=blue)](https://github.com/BurningC4/Chinese-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Chinese CCTV List (IPV4)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The BurningC4/Chinese-IPTV project is an open-source repository that provides a 
 
 ### 中文
 
-BurningC4/Chinese-IPTV：BurningC4/Chinese-IPTV may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BurningC4/Chinese-IPTV：BurningC4/Chinese-IPTV may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BurningC4/Chinese-IPTV：BurningC4/Chinese-IPTV may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ BurningC4/Chinese-IPTV：BurningC4/Chinese-IPTV may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

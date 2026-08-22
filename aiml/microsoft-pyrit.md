@@ -1,6 +1,6 @@
 # microsoft/PyRIT
 
-[![Stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=flat-square&color=yellow)](https://github.com/microsoft/PyRIT/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/PyRIT?style=flat-square&color=blue)](https://github.com/microsoft/PyRIT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=flat-square&color=yellow)](https://github.com/microsoft/PyRIT/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/PyRIT?style=flat-square&color=blue)](https://github.com/microsoft/PyRIT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 752 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/PyRIT：microsoft/PyRIT helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

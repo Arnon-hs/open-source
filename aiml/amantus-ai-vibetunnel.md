@@ -1,6 +1,6 @@
 # amantus-ai/vibetunnel
 
-[![Stars](https://img.shields.io/github/stars/amantus-ai/vibetunnel?style=flat-square&color=yellow)](https://github.com/amantus-ai/vibetunnel/stargazers) [![Forks](https://img.shields.io/github/forks/amantus-ai/vibetunnel?style=flat-square&color=blue)](https://github.com/amantus-ai/vibetunnel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amantus-ai/vibetunnel?style=flat-square&color=yellow)](https://github.com/amantus-ai/vibetunnel/stargazers) [![Forks](https://img.shields.io/github/forks/amantus-ai/vibetunnel?style=flat-square&color=blue)](https://github.com/amantus-ai/vibetunnel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any browser into your terminal & command your agents on the go.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 323 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ amantus-ai/vibetunnel：amantus-ai/vibetunnel helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

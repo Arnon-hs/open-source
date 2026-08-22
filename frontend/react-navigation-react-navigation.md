@@ -1,6 +1,6 @@
 # react-navigation/react-navigation
 
-[![Stars](https://img.shields.io/github/stars/react-navigation/react-navigation?style=flat-square&color=yellow)](https://github.com/react-navigation/react-navigation/stargazers) [![Forks](https://img.shields.io/github/forks/react-navigation/react-navigation?style=flat-square&color=blue)](https://github.com/react-navigation/react-navigation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/react-navigation/react-navigation?style=flat-square&color=yellow)](https://github.com/react-navigation/react-navigation/stargazers) [![Forks](https://img.shields.io/github/forks/react-navigation/react-navigation?style=flat-square&color=blue)](https://github.com/react-navigation/react-navigation/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Routing and navigation for React Native and Web apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.4k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ react-navigation/react-navigation：react-navigation/react-navigation helps ship
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 93/100 |
 | stars | 93/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

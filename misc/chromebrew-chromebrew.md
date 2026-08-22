@@ -1,6 +1,6 @@
 # chromebrew/chromebrew
 
-[![Stars](https://img.shields.io/github/stars/chromebrew/chromebrew?style=flat-square&color=yellow)](https://github.com/chromebrew/chromebrew/stargazers) [![Forks](https://img.shields.io/github/forks/chromebrew/chromebrew?style=flat-square&color=blue)](https://github.com/chromebrew/chromebrew/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chromebrew/chromebrew?style=flat-square&color=yellow)](https://github.com/chromebrew/chromebrew/stargazers) [![Forks](https://img.shields.io/github/forks/chromebrew/chromebrew?style=flat-square&color=blue)](https://github.com/chromebrew/chromebrew/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Package manager for Chrome OS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 420 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Chromebrew — это открытый пакетный менеджер, ра
 
 ### 中文
 
-chromebrew/chromebrew：chromebrew/chromebrew may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chromebrew/chromebrew：chromebrew/chromebrew may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ chromebrew/chromebrew：chromebrew/chromebrew may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ chromebrew/chromebrew：chromebrew/chromebrew may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 70/100 |
 | stars | 72/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

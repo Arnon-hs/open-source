@@ -1,6 +1,6 @@
 # adminsyspro/proxcenter-ui
 
-[![Stars](https://img.shields.io/github/stars/adminsyspro/proxcenter-ui?style=flat-square&color=yellow)](https://github.com/adminsyspro/proxcenter-ui/stargazers) [![Forks](https://img.shields.io/github/forks/adminsyspro/proxcenter-ui?style=flat-square&color=blue)](https://github.com/adminsyspro/proxcenter-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adminsyspro/proxcenter-ui?style=flat-square&color=yellow)](https://github.com/adminsyspro/proxcenter-ui/stargazers) [![Forks](https://img.shields.io/github/forks/adminsyspro/proxcenter-ui?style=flat-square&color=blue)](https://github.com/adminsyspro/proxcenter-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a single pane of glass.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ adminsyspro/proxcenter-ui：adminsyspro/proxcenter-ui helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

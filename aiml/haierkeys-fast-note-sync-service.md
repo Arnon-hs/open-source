@@ -1,6 +1,6 @@
 # haierkeys/fast-note-sync-service
 
-[![Stars](https://img.shields.io/github/stars/haierkeys/fast-note-sync-service?style=flat-square&color=yellow)](https://github.com/haierkeys/fast-note-sync-service/stargazers) [![Forks](https://img.shields.io/github/forks/haierkeys/fast-note-sync-service?style=flat-square&color=blue)](https://github.com/haierkeys/fast-note-sync-service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haierkeys/fast-note-sync-service?style=flat-square&color=yellow)](https://github.com/haierkeys/fast-note-sync-service/stargazers) [![Forks](https://img.shields.io/github/forks/haierkeys/fast-note-sync-service?style=flat-square&color=blue)](https://github.com/haierkeys/fast-note-sync-service/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Fast‑Note Sync Service — это высокопроизводительна
 
 ### 中文
 
-haierkeys/fast-note-sync-service：haierkeys/fast-note-sync-service helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+haierkeys/fast-note-sync-service：haierkeys/fast-note-sync-service helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ haierkeys/fast-note-sync-service：haierkeys/fast-note-sync-service helps add AI
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ haierkeys/fast-note-sync-service：haierkeys/fast-note-sync-service helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

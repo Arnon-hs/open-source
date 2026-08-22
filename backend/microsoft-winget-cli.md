@@ -1,6 +1,6 @@
 # microsoft/winget-cli
 
-[![Stars](https://img.shields.io/github/stars/microsoft/winget-cli?style=flat-square&color=yellow)](https://github.com/microsoft/winget-cli/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/winget-cli?style=flat-square&color=blue)](https://github.com/microsoft/winget-cli/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/winget-cli?style=flat-square&color=yellow)](https://github.com/microsoft/winget-cli/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/winget-cli?style=flat-square&color=blue)](https://github.com/microsoft/winget-cli/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/winget-cli：microsoft/winget-cli helps teams reuse service infrastruc
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 66/100 |
+| production | 55/100 |
+| outlook | 59/100 |
 | adoption | 90/100 |
 | stars | 94/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

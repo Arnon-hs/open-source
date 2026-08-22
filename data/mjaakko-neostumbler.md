@@ -1,6 +1,6 @@
 # mjaakko/NeoStumbler
 
-[![Stars](https://img.shields.io/github/stars/mjaakko/NeoStumbler?style=flat-square&color=yellow)](https://github.com/mjaakko/NeoStumbler/stargazers) [![Forks](https://img.shields.io/github/forks/mjaakko/NeoStumbler?style=flat-square&color=blue)](https://github.com/mjaakko/NeoStumbler/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mjaakko/NeoStumbler?style=flat-square&color=yellow)](https://github.com/mjaakko/NeoStumbler/stargazers) [![Forks](https://img.shields.io/github/forks/mjaakko/NeoStumbler?style=flat-square&color=blue)](https://github.com/mjaakko/NeoStumbler/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > New stumbler application for contributing data to geolocation services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 445 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NeoStumbler is an open‑source Android application designed to collect and forw
 
 ### 中文
 
-mjaakko/NeoStumbler：mjaakko/NeoStumbler helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mjaakko/NeoStumbler：mjaakko/NeoStumbler helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mjaakko/NeoStumbler：mjaakko/NeoStumbler helps convert raw data into searchable
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mjaakko/NeoStumbler：mjaakko/NeoStumbler helps convert raw data into searchable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 51/100 |
 | stars | 56/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

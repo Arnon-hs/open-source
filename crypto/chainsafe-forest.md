@@ -1,6 +1,6 @@
 # ChainSafe/forest
 
-[![Stars](https://img.shields.io/github/stars/ChainSafe/forest?style=flat-square&color=yellow)](https://github.com/ChainSafe/forest/stargazers) [![Forks](https://img.shields.io/github/forks/ChainSafe/forest?style=flat-square&color=blue)](https://github.com/ChainSafe/forest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChainSafe/forest?style=flat-square&color=yellow)](https://github.com/ChainSafe/forest/stargazers) [![Forks](https://img.shields.io/github/forks/ChainSafe/forest?style=flat-square&color=blue)](https://github.com/ChainSafe/forest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🌲 Rust Filecoin Node Implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 695 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ChainSafe / forest — это полностью открытая реал
 
 ### 中文
 
-ChainSafe/forest：ChainSafe/forest helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ChainSafe/forest：ChainSafe/forest helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ChainSafe/forest：ChainSafe/forest helps prototype or inspect blockchain workfl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ChainSafe/forest：ChainSafe/forest helps prototype or inspect blockchain workfl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 60/100 |
 | stars | 60/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

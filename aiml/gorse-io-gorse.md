@@ -1,6 +1,6 @@
 # gorse-io/gorse
 
-[![Stars](https://img.shields.io/github/stars/gorse-io/gorse?style=flat-square&color=yellow)](https://github.com/gorse-io/gorse/stargazers) [![Forks](https://img.shields.io/github/forks/gorse-io/gorse?style=flat-square&color=blue)](https://github.com/gorse-io/gorse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gorse-io/gorse?style=flat-square&color=yellow)](https://github.com/gorse-io/gorse/stargazers) [![Forks](https://img.shields.io/github/forks/gorse-io/gorse?style=flat-square&color=blue)](https://github.com/gorse-io/gorse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 897 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gorse-io/gorse：gorse-io/gorse helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

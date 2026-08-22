@@ -1,6 +1,6 @@
 # alibaba/MNN
 
-[![Stars](https://img.shields.io/github/stars/alibaba/MNN?style=flat-square&color=yellow)](https://github.com/alibaba/MNN/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/MNN?style=flat-square&color=blue)](https://github.com/alibaba/MNN/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/MNN?style=flat-square&color=yellow)](https://github.com/alibaba/MNN/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/MNN?style=flat-square&color=blue)](https://github.com/alibaba/MNN/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/MNN：alibaba/MNN helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 88/100 |
 | stars | 89/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

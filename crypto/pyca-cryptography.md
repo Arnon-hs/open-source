@@ -1,6 +1,6 @@
 # pyca/cryptography
 
-[![Stars](https://img.shields.io/github/stars/pyca/cryptography?style=flat-square&color=yellow)](https://github.com/pyca/cryptography/stargazers) [![Forks](https://img.shields.io/github/forks/pyca/cryptography?style=flat-square&color=blue)](https://github.com/pyca/cryptography/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyca/cryptography?style=flat-square&color=yellow)](https://github.com/pyca/cryptography/stargazers) [![Forks](https://img.shields.io/github/forks/pyca/cryptography?style=flat-square&color=blue)](https://github.com/pyca/cryptography/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pyca/cryptography：pyca/cryptography helps prototype or inspect blockchain work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 82/100 |
 | stars | 83/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

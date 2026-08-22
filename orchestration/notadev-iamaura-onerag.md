@@ -1,6 +1,6 @@
 # notadev-iamaura/OneRAG
 
-[![Stars](https://img.shields.io/github/stars/notadev-iamaura/OneRAG?style=flat-square&color=yellow)](https://github.com/notadev-iamaura/OneRAG/stargazers) [![Forks](https://img.shields.io/github/forks/notadev-iamaura/OneRAG?style=flat-square&color=blue)](https://github.com/notadev-iamaura/OneRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notadev-iamaura/OneRAG?style=flat-square&color=yellow)](https://github.com/notadev-iamaura/OneRAG/stargazers) [![Forks](https://img.shields.io/github/forks/notadev-iamaura/OneRAG?style=flat-square&color=blue)](https://github.com/notadev-iamaura/OneRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB), 5 LLMs (Gemini, OpenAI, Claude, Ollama, OpenRouter). OpenAI-compatible API. 2100+ tests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ notadev-iamaura/OneRAG：notadev-iamaura/OneRAG helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 43/100 |
 | stars | 44/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

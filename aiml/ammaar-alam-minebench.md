@@ -1,6 +1,6 @@
 # Ammaar-Alam/minebench
 
-[![Stars](https://img.shields.io/github/stars/Ammaar-Alam/minebench?style=flat-square&color=yellow)](https://github.com/Ammaar-Alam/minebench/stargazers) [![Forks](https://img.shields.io/github/forks/Ammaar-Alam/minebench?style=flat-square&color=blue)](https://github.com/Ammaar-Alam/minebench/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ammaar-Alam/minebench?style=flat-square&color=yellow)](https://github.com/Ammaar-Alam/minebench/stargazers) [![Forks](https://img.shields.io/github/forks/Ammaar-Alam/minebench?style=flat-square&color=blue)](https://github.com/Ammaar-Alam/minebench/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Minecraft-style voxel benchmark for comparing AI models (Arena + Sandbox)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Minecraft-style Voxel Benchmark is an open-source project aimed at comparing AI 
 
 ### 中文
 
-Ammaar-Alam/minebench：Ammaar-Alam/minebench helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Ammaar-Alam/minebench：Ammaar-Alam/minebench helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ Ammaar-Alam/minebench：Ammaar-Alam/minebench helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ Ammaar-Alam/minebench：Ammaar-Alam/minebench helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 44/100 |
 | stars | 49/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

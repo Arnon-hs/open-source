@@ -1,6 +1,6 @@
 # PrestaShop/PrestaShop
 
-[![Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=flat-square&color=yellow)](https://github.com/PrestaShop/PrestaShop/stargazers) [![Forks](https://img.shields.io/github/forks/PrestaShop/PrestaShop?style=flat-square&color=blue)](https://github.com/PrestaShop/PrestaShop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=flat-square&color=yellow)](https://github.com/PrestaShop/PrestaShop/stargazers) [![Forks](https://img.shields.io/github/forks/PrestaShop/PrestaShop?style=flat-square&color=blue)](https://github.com/PrestaShop/PrestaShop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > PrestaShop is the universal open-source software platform to build your e-commerce solution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 5k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PrestaShop/PrestaShop：PrestaShop/PrestaShop helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 87/100 |
 | stars | 84/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

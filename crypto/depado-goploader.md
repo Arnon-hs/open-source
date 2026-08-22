@@ -1,6 +1,6 @@
 # depado/goploader
 
-[![Stars](https://img.shields.io/github/stars/depado/goploader?style=flat-square&color=yellow)](https://github.com/depado/goploader/stargazers) [![Forks](https://img.shields.io/github/forks/depado/goploader?style=flat-square&color=blue)](https://github.com/depado/goploader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/depado/goploader?style=flat-square&color=yellow)](https://github.com/depado/goploader/stargazers) [![Forks](https://img.shields.io/github/forks/depado/goploader?style=flat-square&color=blue)](https://github.com/depado/goploader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Easy file sharing with server-side encryption, curl/httpie/wget compliant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ depado/goploader is a lightweight, self‑hosted file‑sharing service that enc
 
 ### 中文
 
-depado/goploader：depado/goploader helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+depado/goploader：depado/goploader helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ depado/goploader：depado/goploader helps prototype or inspect blockchain workfl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ depado/goploader：depado/goploader helps prototype or inspect blockchain workfl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

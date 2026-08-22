@@ -1,6 +1,6 @@
 # grafana/grafana-operator
 
-[![Stars](https://img.shields.io/github/stars/grafana/grafana-operator?style=flat-square&color=yellow)](https://github.com/grafana/grafana-operator/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/grafana-operator?style=flat-square&color=blue)](https://github.com/grafana/grafana-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/grafana-operator?style=flat-square&color=yellow)](https://github.com/grafana/grafana-operator/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/grafana-operator?style=flat-square&color=blue)](https://github.com/grafana/grafana-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 458 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ grafana/grafana-operator：grafana/grafana-operator helps convert raw data into 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 66/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

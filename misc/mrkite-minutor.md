@@ -1,6 +1,6 @@
 # mrkite/minutor
 
-[![Stars](https://img.shields.io/github/stars/mrkite/minutor?style=flat-square&color=yellow)](https://github.com/mrkite/minutor/stargazers) [![Forks](https://img.shields.io/github/forks/mrkite/minutor?style=flat-square&color=blue)](https://github.com/mrkite/minutor/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mrkite/minutor?style=flat-square&color=yellow)](https://github.com/mrkite/minutor/stargazers) [![Forks](https://img.shields.io/github/forks/mrkite/minutor?style=flat-square&color=blue)](https://github.com/mrkite/minutor/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Mapping for Minecraft
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -56,21 +56,21 @@ mrkite/minutor：mrkite/minutor may be useful when its README and activity match
 - updated 2026-05-10
 - primary language: C
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 42/100 |
+| outlook | 38/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # cloudflare/agents
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/agents?style=flat-square&color=yellow)](https://github.com/cloudflare/agents/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agents?style=flat-square&color=blue)](https://github.com/cloudflare/agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/agents?style=flat-square&color=yellow)](https://github.com/cloudflare/agents/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/agents?style=flat-square&color=blue)](https://github.com/cloudflare/agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Build and deploy AI Agents on Cloudflare
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cloudflare/agents：cloudflare/agents helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 76/100 |
 | stars | 79/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

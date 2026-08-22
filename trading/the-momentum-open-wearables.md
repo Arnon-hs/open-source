@@ -1,6 +1,6 @@
 # the-momentum/open-wearables
 
-[![Stars](https://img.shields.io/github/stars/the-momentum/open-wearables?style=flat-square&color=yellow)](https://github.com/the-momentum/open-wearables/stargazers) [![Forks](https://img.shields.io/github/forks/the-momentum/open-wearables?style=flat-square&color=blue)](https://github.com/the-momentum/open-wearables/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the-momentum/open-wearables?style=flat-square&color=yellow)](https://github.com/the-momentum/open-wearables/stargazers) [![Forks](https://img.shields.io/github/forks/the-momentum/open-wearables?style=flat-square&color=blue)](https://github.com/the-momentum/open-wearables/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted platform to unify wearable health data through one AI-ready API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ the-momentum/open-wearables：the-momentum/open-wearables helps research and aut
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 68/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

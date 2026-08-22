@@ -1,6 +1,6 @@
 # steemit/condenser
 
-[![Stars](https://img.shields.io/github/stars/steemit/condenser?style=flat-square&color=yellow)](https://github.com/steemit/condenser/stargazers) [![Forks](https://img.shields.io/github/forks/steemit/condenser?style=flat-square&color=blue)](https://github.com/steemit/condenser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steemit/condenser?style=flat-square&color=yellow)](https://github.com/steemit/condenser/stargazers) [![Forks](https://img.shields.io/github/forks/steemit/condenser?style=flat-square&color=blue)](https://github.com/steemit/condenser/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The greatest application front-end to the Steem Blockchain.
 
@@ -8,27 +8,75 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 503 |
-| 🍴 **Forks** | 430 |
+| ⭐ **Stars** | 502 |
+| 🍴 **Forks** | 426 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-20 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`jsx` `react` `social-network` `steem` `steem-blockchain` `steemit`
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the steemit/condenser open-source project:
+### English
 
-Condenser is an open-source, front-end application for the Steem Blockchain, providing a user-friendly interface for interacting with the decentralized platform. Developed by the Steemit community, it offers a robust and accessible way to engage with Steem's features and functionality. By leveraging AI/ML technologies, Condenser aims to enhance the user experience and drive innovation on the Steem Blockchain.
+steemit/condenser: steemit/condenser helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+steemit/condenser: open-source проект в категориях Crypto, AI/ML, Frontend, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+steemit/condenser：steemit/condenser helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** steemit/condenser helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 502 GitHub stars
+- 426 forks
+- updated 2026-08-20
+- primary language: JavaScript
+- 6 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 66/100 |
+| stars | 57/100 |
+| topics | 75/100 |
+| outlook | 76/100 |
+| quality | 78/100 |
+| recency | 100/100 |
+| adoption | 60/100 |
+| production | 74/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/steemit/condenser) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-20 · [View on GitHub](https://github.com/steemit/condenser) · [← Back to Crypto](./README.md)</sub>

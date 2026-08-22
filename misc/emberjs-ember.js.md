@@ -1,6 +1,6 @@
 # emberjs/ember.js
 
-[![Stars](https://img.shields.io/github/stars/emberjs/ember.js?style=flat-square&color=yellow)](https://github.com/emberjs/ember.js/stargazers) [![Forks](https://img.shields.io/github/forks/emberjs/ember.js?style=flat-square&color=blue)](https://github.com/emberjs/ember.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emberjs/ember.js?style=flat-square&color=yellow)](https://github.com/emberjs/ember.js/stargazers) [![Forks](https://img.shields.io/github/forks/emberjs/ember.js?style=flat-square&color=blue)](https://github.com/emberjs/ember.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ember.js - A JavaScript framework for creating ambitious web applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ emberjs/ember.js：emberjs/ember.js may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 92/100 |
 | stars | 93/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

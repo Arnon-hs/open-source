@@ -1,6 +1,6 @@
 # walkinglabs/hands-on-modern-rl
 
-[![Stars](https://img.shields.io/github/stars/walkinglabs/hands-on-modern-rl?style=flat-square&color=yellow)](https://github.com/walkinglabs/hands-on-modern-rl/stargazers) [![Forks](https://img.shields.io/github/forks/walkinglabs/hands-on-modern-rl?style=flat-square&color=blue)](https://github.com/walkinglabs/hands-on-modern-rl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/walkinglabs/hands-on-modern-rl?style=flat-square&color=yellow)](https://github.com/walkinglabs/hands-on-modern-rl/stargazers) [![Forks](https://img.shields.io/github/forks/walkinglabs/hands-on-modern-rl?style=flat-square&color=blue)](https://github.com/walkinglabs/hands-on-modern-rl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ walkinglabs/hands-on-modern-rl：walkinglabs/hands-on-modern-rl helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 64/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

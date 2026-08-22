@@ -1,6 +1,6 @@
 # devantler-tech/ksail
 
-[![Stars](https://img.shields.io/github/stars/devantler-tech/ksail?style=flat-square&color=yellow)](https://github.com/devantler-tech/ksail/stargazers) [![Forks](https://img.shields.io/github/forks/devantler-tech/ksail?style=flat-square&color=blue)](https://github.com/devantler-tech/ksail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devantler-tech/ksail?style=flat-square&color=yellow)](https://github.com/devantler-tech/ksail/stargazers) [![Forks](https://img.shields.io/github/forks/devantler-tech/ksail?style=flat-square&color=blue)](https://github.com/devantler-tech/ksail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > All-in-one Kubernetes SDK: create, manage, and operate clusters across distributions (Kind, K3d, Talos, VCluster) with built-in GitOps, secrets, AI assistant, and MCP server. Only requires Docker or a Cloud Provider.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ devantler-tech/ksail：devantler-tech/ksail helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 100/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

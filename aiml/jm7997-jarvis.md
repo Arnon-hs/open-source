@@ -1,6 +1,6 @@
 # Jm7997/JARVIS
 
-[![Stars](https://img.shields.io/github/stars/Jm7997/JARVIS?style=flat-square&color=yellow)](https://github.com/Jm7997/JARVIS/stargazers) [![Forks](https://img.shields.io/github/forks/Jm7997/JARVIS?style=flat-square&color=blue)](https://github.com/Jm7997/JARVIS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jm7997/JARVIS?style=flat-square&color=yellow)](https://github.com/Jm7997/JARVIS/stargazers) [![Forks](https://img.shields.io/github/forks/Jm7997/JARVIS?style=flat-square&color=blue)](https://github.com/Jm7997/JARVIS/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): I built a local AI Virtual Assistant (JARVIS inspired) using Python, PyQt6 and Ollama.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-05-05 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ I built a local AI Virtual Assistant (JARVIS inspired) using Python, PyQt6 and O
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 46/100 |
-| production | 41/100 |
-| outlook | 36/100 |
+| production | 34/100 |
+| outlook | 29/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

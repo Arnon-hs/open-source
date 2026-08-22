@@ -1,6 +1,6 @@
 # vllm-project/aibrix
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat-square&color=yellow)](https://github.com/vllm-project/aibrix/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/aibrix?style=flat-square&color=blue)](https://github.com/vllm-project/aibrix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/aibrix?style=flat-square&color=yellow)](https://github.com/vllm-project/aibrix/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/aibrix?style=flat-square&color=blue)](https://github.com/vllm-project/aibrix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Cost-efficient and pluggable Infrastructure components for GenAI inference
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 575 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ vllm‑project/aibrix — это набор открытых инфрастр�
 
 ### 中文
 
-vllm-project/aibrix：vllm-project/aibrix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vllm-project/aibrix：vllm-project/aibrix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vllm-project/aibrix：vllm-project/aibrix helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ vllm-project/aibrix：vllm-project/aibrix helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

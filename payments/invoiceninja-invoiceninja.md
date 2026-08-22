@@ -1,6 +1,6 @@
 # invoiceninja/invoiceninja
 
-[![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat-square&color=yellow)](https://github.com/invoiceninja/invoiceninja/stargazers) [![Forks](https://img.shields.io/github/forks/invoiceninja/invoiceninja?style=flat-square&color=blue)](https://github.com/invoiceninja/invoiceninja/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat-square&color=yellow)](https://github.com/invoiceninja/invoiceninja/stargazers) [![Forks](https://img.shields.io/github/forks/invoiceninja/invoiceninja?style=flat-square&color=blue)](https://github.com/invoiceninja/invoiceninja/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A source-available invoice, quote, project and time-tracking app built with Laravel
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ invoiceninja/invoiceninja：invoiceninja/invoiceninja helps integrate monetizati
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 85/100 |
 | stars | 85/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

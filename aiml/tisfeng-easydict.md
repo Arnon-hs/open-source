@@ -1,6 +1,6 @@
 # tisfeng/Easydict
 
-[![Stars](https://img.shields.io/github/stars/tisfeng/Easydict?style=flat-square&color=yellow)](https://github.com/tisfeng/Easydict/stargazers) [![Forks](https://img.shields.io/github/forks/tisfeng/Easydict?style=flat-square&color=blue)](https://github.com/tisfeng/Easydict/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tisfeng/Easydict?style=flat-square&color=yellow)](https://github.com/tisfeng/Easydict/stargazers) [![Forks](https://img.shields.io/github/forks/tisfeng/Easydict?style=flat-square&color=blue)](https://github.com/tisfeng/Easydict/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.1k |
 | 🍴 **Forks** | 651 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tisfeng/Easydict：tisfeng/Easydict helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 83/100 |
 | stars | 88/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

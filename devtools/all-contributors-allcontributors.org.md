@@ -1,6 +1,6 @@
 # all-contributors/allcontributors.org
 
-[![Stars](https://img.shields.io/github/stars/all-contributors/allcontributors.org?style=flat-square&color=yellow)](https://github.com/all-contributors/allcontributors.org/stargazers) [![Forks](https://img.shields.io/github/forks/all-contributors/allcontributors.org?style=flat-square&color=blue)](https://github.com/all-contributors/allcontributors.org/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/all-contributors/allcontributors.org?style=flat-square&color=yellow)](https://github.com/all-contributors/allcontributors.org/stargazers) [![Forks](https://img.shields.io/github/forks/all-contributors/allcontributors.org?style=flat-square&color=blue)](https://github.com/all-contributors/allcontributors.org/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ all-contributors/allcontributors.org：all-contributors/allcontributors.org help
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 83/100 |
 | stars | 83/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

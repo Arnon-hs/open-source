@@ -1,6 +1,6 @@
 # LetsFG/LetsFG
 
-[![Stars](https://img.shields.io/github/stars/LetsFG/LetsFG?style=flat-square&color=yellow)](https://github.com/LetsFG/LetsFG/stargazers) [![Forks](https://img.shields.io/github/forks/LetsFG/LetsFG?style=flat-square&color=blue)](https://github.com/LetsFG/LetsFG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LetsFG/LetsFG?style=flat-square&color=yellow)](https://github.com/LetsFG/LetsFG/stargazers) [![Forks](https://img.shields.io/github/forks/LetsFG/LetsFG?style=flat-square&color=blue)](https://github.com/LetsFG/LetsFG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LetsFG/LetsFG：LetsFG/LetsFG helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 100/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 58/100 |
 | stars | 64/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

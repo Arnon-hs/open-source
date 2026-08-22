@@ -1,6 +1,6 @@
 # Ar9av/obsidian-wiki
 
-[![Stars](https://img.shields.io/github/stars/Ar9av/obsidian-wiki?style=flat-square&color=yellow)](https://github.com/Ar9av/obsidian-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Ar9av/obsidian-wiki?style=flat-square&color=blue)](https://github.com/Ar9av/obsidian-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ar9av/obsidian-wiki?style=flat-square&color=yellow)](https://github.com/Ar9av/obsidian-wiki/stargazers) [![Forks](https://img.shields.io/github/forks/Ar9av/obsidian-wiki?style=flat-square&color=blue)](https://github.com/Ar9av/obsidian-wiki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ar9av/obsidian-wiki — это открытый фреймворк, позво
 
 ### 中文
 
-Ar9av/obsidian-wiki：Ar9av/obsidian-wiki helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Ar9av/obsidian-wiki：Ar9av/obsidian-wiki helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Ar9av/obsidian-wiki：Ar9av/obsidian-wiki helps turn isolated prompts and tools 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Ar9av/obsidian-wiki：Ar9av/obsidian-wiki helps turn isolated prompts and tools 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 49/100 |
+| outlook | 56/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

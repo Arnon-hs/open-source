@@ -1,6 +1,6 @@
 # MetaMask/metamask-mobile
 
-[![Stars](https://img.shields.io/github/stars/MetaMask/metamask-mobile?style=flat-square&color=yellow)](https://github.com/MetaMask/metamask-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/MetaMask/metamask-mobile?style=flat-square&color=blue)](https://github.com/MetaMask/metamask-mobile/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MetaMask/metamask-mobile?style=flat-square&color=yellow)](https://github.com/MetaMask/metamask-mobile/stargazers) [![Forks](https://img.shields.io/github/forks/MetaMask/metamask-mobile?style=flat-square&color=blue)](https://github.com/MetaMask/metamask-mobile/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile web browser providing access to websites that use the Ethereum blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MetaMask/metamask-mobile：MetaMask/metamask-mobile helps prototype or inspect b
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 76/100 |
 | stars | 74/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

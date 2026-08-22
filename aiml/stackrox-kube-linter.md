@@ -1,6 +1,6 @@
 # stackrox/kube-linter
 
-[![Stars](https://img.shields.io/github/stars/stackrox/kube-linter?style=flat-square&color=yellow)](https://github.com/stackrox/kube-linter/stargazers) [![Forks](https://img.shields.io/github/forks/stackrox/kube-linter?style=flat-square&color=blue)](https://github.com/stackrox/kube-linter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackrox/kube-linter?style=flat-square&color=yellow)](https://github.com/stackrox/kube-linter/stargazers) [![Forks](https://img.shields.io/github/forks/stackrox/kube-linter?style=flat-square&color=blue)](https://github.com/stackrox/kube-linter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stackrox/kube-linter：stackrox/kube-linter helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

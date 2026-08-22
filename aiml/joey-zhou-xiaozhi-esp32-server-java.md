@@ -1,6 +1,6 @@
 # joey-zhou/xiaozhi-esp32-server-java
 
-[![Stars](https://img.shields.io/github/stars/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=yellow)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/stargazers) [![Forks](https://img.shields.io/github/forks/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=blue)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=yellow)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/stargazers) [![Forks](https://img.shields.io/github/forks/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=blue)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 455 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ joey-zhou/xiaozhi-esp32-server-java：joey-zhou/xiaozhi-esp32-server-java helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 66/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

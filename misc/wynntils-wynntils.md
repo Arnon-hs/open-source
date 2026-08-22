@@ -1,6 +1,6 @@
 # Wynntils/Wynntils
 
-[![Stars](https://img.shields.io/github/stars/Wynntils/Wynntils?style=flat-square&color=yellow)](https://github.com/Wynntils/Wynntils/stargazers) [![Forks](https://img.shields.io/github/forks/Wynntils/Wynntils?style=flat-square&color=blue)](https://github.com/Wynntils/Wynntils/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wynntils/Wynntils?style=flat-square&color=yellow)](https://github.com/Wynntils/Wynntils/stargazers) [![Forks](https://img.shields.io/github/forks/Wynntils/Wynntils?style=flat-square&color=blue)](https://github.com/Wynntils/Wynntils/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Wynntils (Artemis) is a rewrite of Wynntils in 1.21.11 using Architectury, to support Fabric and Forge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 236 |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Wynntils (Artemis) — это полностью переписанная ве
 
 ### 中文
 
-Wynntils/Wynntils：Wynntils/Wynntils may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Wynntils/Wynntils：Wynntils/Wynntils may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Wynntils/Wynntils：Wynntils/Wynntils may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Wynntils/Wynntils：Wynntils/Wynntils may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 52/100 |
 | stars | 51/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

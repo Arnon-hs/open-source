@@ -1,6 +1,6 @@
 # awesome-selfhosted/awesome-selfhosted
 
-[![Stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat-square&color=yellow)](https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=flat-square&color=blue)](https://github.com/awesome-selfhosted/awesome-selfhosted/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat-square&color=yellow)](https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers) [![Forks](https://img.shields.io/github/forks/awesome-selfhosted/awesome-selfhosted?style=flat-square&color=blue)](https://github.com/awesome-selfhosted/awesome-selfhosted/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 290.7k |
 | 🍴 **Forks** | 13.4k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ awesome-selfhosted/awesome-selfhosted：awesome-selfhosted/awesome-selfhosted he
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 64/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

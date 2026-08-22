@@ -1,6 +1,6 @@
 # conorluddy/ios-simulator-skill
 
-[![Stars](https://img.shields.io/github/stars/conorluddy/ios-simulator-skill?style=flat-square&color=yellow)](https://github.com/conorluddy/ios-simulator-skill/stargazers) [![Forks](https://img.shields.io/github/forks/conorluddy/ios-simulator-skill?style=flat-square&color=blue)](https://github.com/conorluddy/ios-simulator-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conorluddy/ios-simulator-skill?style=flat-square&color=yellow)](https://github.com/conorluddy/ios-simulator-skill/stargazers) [![Forks](https://img.shields.io/github/forks/conorluddy/ios-simulator-skill?style=flat-square&color=blue)](https://github.com/conorluddy/ios-simulator-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps. I mainly use it as an xcodebuild wrapper to save context.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 960 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ conorluddy/ios-simulator-skill：conorluddy/ios-simulator-skill helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 58/100 |
 | stars | 63/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

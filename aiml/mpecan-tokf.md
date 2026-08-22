@@ -1,6 +1,6 @@
 # mpecan/tokf
 
-[![Stars](https://img.shields.io/github/stars/mpecan/tokf?style=flat-square&color=yellow)](https://github.com/mpecan/tokf/stargazers) [![Forks](https://img.shields.io/github/forks/mpecan/tokf?style=flat-square&color=blue)](https://github.com/mpecan/tokf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpecan/tokf?style=flat-square&color=yellow)](https://github.com/mpecan/tokf/stargazers) [![Forks](https://img.shields.io/github/forks/mpecan/tokf?style=flat-square&color=blue)](https://github.com/mpecan/tokf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Config-driven CLI tool that compresses command output before it reaches an LLM context
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mpecan/tokf is a config‑driven command‑line utility that intercepts and comp
 
 ### 中文
 
-mpecan/tokf：mpecan/tokf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mpecan/tokf：mpecan/tokf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mpecan/tokf：mpecan/tokf helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mpecan/tokf：mpecan/tokf helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

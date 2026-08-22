@@ -1,6 +1,6 @@
 # dataease/SQLBot
 
-[![Stars](https://img.shields.io/github/stars/dataease/SQLBot?style=flat-square&color=yellow)](https://github.com/dataease/SQLBot/stargazers) [![Forks](https://img.shields.io/github/forks/dataease/SQLBot?style=flat-square&color=blue)](https://github.com/dataease/SQLBot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dataease/SQLBot?style=flat-square&color=yellow)](https://github.com/dataease/SQLBot/stargazers) [![Forks](https://img.shields.io/github/forks/dataease/SQLBot?style=flat-square&color=blue)](https://github.com/dataease/SQLBot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 708 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dataease/SQLBot：dataease/SQLBot helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

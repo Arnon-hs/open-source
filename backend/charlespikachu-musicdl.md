@@ -1,6 +1,6 @@
 # CharlesPikachu/musicdl
 
-[![Stars](https://img.shields.io/github/stars/CharlesPikachu/musicdl?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/musicdl/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/musicdl?style=flat-square&color=blue)](https://github.com/CharlesPikachu/musicdl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CharlesPikachu/musicdl?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/musicdl/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/musicdl?style=flat-square&color=blue)](https://github.com/CharlesPikachu/musicdl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，Qobuz，SoundCloud等主流音乐平台)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 594 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -72,14 +72,14 @@ CharlesPikachu/musicdl：CharlesPikachu/musicdl helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # anyproto/anytype-ts
 
-[![Stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=flat-square&color=yellow)](https://github.com/anyproto/anytype-ts/stargazers) [![Forks](https://img.shields.io/github/forks/anyproto/anytype-ts?style=flat-square&color=blue)](https://github.com/anyproto/anytype-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=flat-square&color=yellow)](https://github.com/anyproto/anytype-ts/stargazers) [![Forks](https://img.shields.io/github/forks/anyproto/anytype-ts?style=flat-square&color=blue)](https://github.com/anyproto/anytype-ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Official Anytype client for MacOS, Linux, and Windows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 470 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ anyproto/anytype-ts：anyproto/anytype-ts helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 78/100 |
 | stars | 82/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

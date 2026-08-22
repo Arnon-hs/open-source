@@ -1,6 +1,6 @@
 # ysm-dev/cpdown
 
-[![Stars](https://img.shields.io/github/stars/ysm-dev/cpdown?style=flat-square&color=yellow)](https://github.com/ysm-dev/cpdown/stargazers) [![Forks](https://img.shields.io/github/forks/ysm-dev/cpdown?style=flat-square&color=blue)](https://github.com/ysm-dev/cpdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ysm-dev/cpdown?style=flat-square&color=yellow)](https://github.com/ysm-dev/cpdown/stargazers) [![Forks](https://img.shields.io/github/forks/ysm-dev/cpdown?style=flat-square&color=blue)](https://github.com/ysm-dev/cpdown/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 535 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,15 +66,15 @@ ysm-dev/cpdown：ysm-dev/cpdown helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
+| usefulness | 74/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

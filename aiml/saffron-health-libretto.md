@@ -1,6 +1,6 @@
 # saffron-health/libretto
 
-[![Stars](https://img.shields.io/github/stars/saffron-health/libretto?style=flat-square&color=yellow)](https://github.com/saffron-health/libretto/stargazers) [![Forks](https://img.shields.io/github/forks/saffron-health/libretto?style=flat-square&color=blue)](https://github.com/saffron-health/libretto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saffron-health/libretto?style=flat-square&color=yellow)](https://github.com/saffron-health/libretto/stargazers) [![Forks](https://img.shields.io/github/forks/saffron-health/libretto?style=flat-square&color=blue)](https://github.com/saffron-health/libretto/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The AI toolkit for building reliable browser automations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 596 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ saffron-health/libretto — это открытый AI‑инструмент�
 
 ### 中文
 
-saffron-health/libretto：saffron-health/libretto helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saffron-health/libretto：saffron-health/libretto helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ saffron-health/libretto：saffron-health/libretto helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ saffron-health/libretto：saffron-health/libretto helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

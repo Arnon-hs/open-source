@@ -1,6 +1,6 @@
 # appwrite/appwrite
 
-[![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&color=yellow)](https://github.com/appwrite/appwrite/stargazers) [![Forks](https://img.shields.io/github/forks/appwrite/appwrite?style=flat-square&color=blue)](https://github.com/appwrite/appwrite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&color=yellow)](https://github.com/appwrite/appwrite/stargazers) [![Forks](https://img.shields.io/github/forks/appwrite/appwrite?style=flat-square&color=blue)](https://github.com/appwrite/appwrite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ appwrite/appwrite：appwrite/appwrite helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 66/100 |
 | adoption | 98/100 |
 | stars | 100/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

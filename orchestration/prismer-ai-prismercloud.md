@@ -1,6 +1,6 @@
 # Prismer-AI/PrismerCloud
 
-[![Stars](https://img.shields.io/github/stars/Prismer-AI/PrismerCloud?style=flat-square&color=yellow)](https://github.com/Prismer-AI/PrismerCloud/stargazers) [![Forks](https://img.shields.io/github/forks/Prismer-AI/PrismerCloud?style=flat-square&color=blue)](https://github.com/Prismer-AI/PrismerCloud/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Prismer-AI/PrismerCloud?style=flat-square&color=yellow)](https://github.com/Prismer-AI/PrismerCloud/stargazers) [![Forks](https://img.shields.io/github/forks/Prismer-AI/PrismerCloud?style=flat-square&color=blue)](https://github.com/Prismer-AI/PrismerCloud/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Prismer Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Prismer-AI/PrismerCloud：Prismer-AI/PrismerCloud helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 56/100 |
 | stars | 67/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # waycrate/exwlshelleventloop
 
-[![Stars](https://img.shields.io/github/stars/waycrate/exwlshelleventloop?style=flat-square&color=yellow)](https://github.com/waycrate/exwlshelleventloop/stargazers) [![Forks](https://img.shields.io/github/forks/waycrate/exwlshelleventloop?style=flat-square&color=blue)](https://github.com/waycrate/exwlshelleventloop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waycrate/exwlshelleventloop?style=flat-square&color=yellow)](https://github.com/waycrate/exwlshelleventloop/stargazers) [![Forks](https://img.shields.io/github/forks/waycrate/exwlshelleventloop?style=flat-square&color=blue)](https://github.com/waycrate/exwlshelleventloop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > winit like binding for layershell and sessionlock
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ waycrate/exwlshelleventloop：waycrate/exwlshelleventloop may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 43/100 |
+| outlook | 42/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

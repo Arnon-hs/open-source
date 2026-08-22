@@ -1,6 +1,6 @@
 # mattermost/mattermost
 
-[![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost?style=flat-square&color=blue)](https://github.com/mattermost/mattermost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost?style=flat-square&color=blue)](https://github.com/mattermost/mattermost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.6k |
 | 🍴 **Forks** | 8.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mattermost/mattermost：mattermost/mattermost helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 97/100 |
 | stars | 97/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

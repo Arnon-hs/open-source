@@ -1,6 +1,6 @@
 # runtipi/runtipi-appstore
 
-[![Stars](https://img.shields.io/github/stars/runtipi/runtipi-appstore?style=flat-square&color=yellow)](https://github.com/runtipi/runtipi-appstore/stargazers) [![Forks](https://img.shields.io/github/forks/runtipi/runtipi-appstore?style=flat-square&color=blue)](https://github.com/runtipi/runtipi-appstore/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runtipi/runtipi-appstore?style=flat-square&color=yellow)](https://github.com/runtipi/runtipi-appstore/stargazers) [![Forks](https://img.shields.io/github/forks/runtipi/runtipi-appstore?style=flat-square&color=blue)](https://github.com/runtipi/runtipi-appstore/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Official Runtipi AppStore. Apps and updates live here!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and op
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 59/100 |
 | stars | 57/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

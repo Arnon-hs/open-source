@@ -1,6 +1,6 @@
 # fangfufu/httpdirfs
 
-[![Stars](https://img.shields.io/github/stars/fangfufu/httpdirfs?style=flat-square&color=yellow)](https://github.com/fangfufu/httpdirfs/stargazers) [![Forks](https://img.shields.io/github/forks/fangfufu/httpdirfs?style=flat-square&color=blue)](https://github.com/fangfufu/httpdirfs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fangfufu/httpdirfs?style=flat-square&color=yellow)](https://github.com/fangfufu/httpdirfs/stargazers) [![Forks](https://img.shields.io/github/forks/fangfufu/httpdirfs?style=flat-square&color=blue)](https://github.com/fangfufu/httpdirfs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A filesystem which allows you to mount HTTP directory listings or a single file, with a permanent cache. Now with Airsonic / Subsonic support!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fangfufu/httpdirfs：fangfufu/httpdirfs helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apache/pdfbox
 
-[![Stars](https://img.shields.io/github/stars/apache/pdfbox?style=flat-square&color=yellow)](https://github.com/apache/pdfbox/stargazers) [![Forks](https://img.shields.io/github/forks/apache/pdfbox?style=flat-square&color=blue)](https://github.com/apache/pdfbox/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/pdfbox?style=flat-square&color=yellow)](https://github.com/apache/pdfbox/stargazers) [![Forks](https://img.shields.io/github/forks/apache/pdfbox?style=flat-square&color=blue)](https://github.com/apache/pdfbox/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Apache PDFBox
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 946 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Apache PDFBox — это полностью открытая библиоте�
 
 ### 中文
 
-apache/pdfbox：apache/pdfbox may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/pdfbox：apache/pdfbox may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ apache/pdfbox：apache/pdfbox may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ apache/pdfbox：apache/pdfbox may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 74/100 |
 | stars | 74/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

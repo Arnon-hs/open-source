@@ -1,6 +1,6 @@
 # EDCD/EDDI
 
-[![Stars](https://img.shields.io/github/stars/EDCD/EDDI?style=flat-square&color=yellow)](https://github.com/EDCD/EDDI/stargazers) [![Forks](https://img.shields.io/github/forks/EDCD/EDDI?style=flat-square&color=blue)](https://github.com/EDCD/EDDI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EDCD/EDDI?style=flat-square&color=yellow)](https://github.com/EDCD/EDDI/stargazers) [![Forks](https://img.shields.io/github/forks/EDCD/EDDI?style=flat-square&color=blue)](https://github.com/EDCD/EDDI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Companion application for Elite Dangerous
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EDCD/EDDI：EDCD/EDDI helps teams reuse service infrastructure instead of rebuil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

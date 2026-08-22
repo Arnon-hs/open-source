@@ -1,6 +1,6 @@
 # jMonkeyEngine/jmonkeyengine
 
-[![Stars](https://img.shields.io/github/stars/jMonkeyEngine/jmonkeyengine?style=flat-square&color=yellow)](https://github.com/jMonkeyEngine/jmonkeyengine/stargazers) [![Forks](https://img.shields.io/github/forks/jMonkeyEngine/jmonkeyengine?style=flat-square&color=blue)](https://github.com/jMonkeyEngine/jmonkeyengine/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jMonkeyEngine/jmonkeyengine?style=flat-square&color=yellow)](https://github.com/jMonkeyEngine/jmonkeyengine/stargazers) [![Forks](https://img.shields.io/github/forks/jMonkeyEngine/jmonkeyengine?style=flat-square&color=blue)](https://github.com/jMonkeyEngine/jmonkeyengine/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A complete 3-D game development suite written in Java.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jMonkeyEngine — это полностью открытая кросспла�
 
 ### 中文
 
-jMonkeyEngine/jmonkeyengine：jMonkeyEngine/jmonkeyengine helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jMonkeyEngine/jmonkeyengine：jMonkeyEngine/jmonkeyengine helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jMonkeyEngine/jmonkeyengine：jMonkeyEngine/jmonkeyengine helps ship user-facing
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jMonkeyEngine/jmonkeyengine：jMonkeyEngine/jmonkeyengine helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 77/100 |
 | stars | 77/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

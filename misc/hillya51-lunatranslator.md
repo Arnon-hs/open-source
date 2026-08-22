@@ -1,6 +1,6 @@
 # HIllya51/LunaTranslator
 
-[![Stars](https://img.shields.io/github/stars/HIllya51/LunaTranslator?style=flat-square&color=yellow)](https://github.com/HIllya51/LunaTranslator/stargazers) [![Forks](https://img.shields.io/github/forks/HIllya51/LunaTranslator?style=flat-square&color=blue)](https://github.com/HIllya51/LunaTranslator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HIllya51/LunaTranslator?style=flat-square&color=yellow)](https://github.com/HIllya51/LunaTranslator/stargazers) [![Forks](https://img.shields.io/github/forks/HIllya51/LunaTranslator?style=flat-square&color=blue)](https://github.com/HIllya51/LunaTranslator/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 视觉小说翻译器 / Visual Novel Translator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ HIllya51/LunaTranslator：HIllya51/LunaTranslator may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 83/100 |
 | stars | 86/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

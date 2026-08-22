@@ -1,6 +1,6 @@
 # basher83/Zammad-MCP
 
-[![Stars](https://img.shields.io/github/stars/basher83/Zammad-MCP?style=flat-square&color=yellow)](https://github.com/basher83/Zammad-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/basher83/Zammad-MCP?style=flat-square&color=blue)](https://github.com/basher83/Zammad-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basher83/Zammad-MCP?style=flat-square&color=yellow)](https://github.com/basher83/Zammad-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/basher83/Zammad-MCP?style=flat-square&color=blue)](https://github.com/basher83/Zammad-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server for Zammad integration, enabling AI assistants to interact with tickets, users, and organizations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ basher83/Zammad-MCP：basher83/Zammad-MCP helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 32/100 |
 | stars | 32/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

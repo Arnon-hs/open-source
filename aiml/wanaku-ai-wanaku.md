@@ -1,6 +1,6 @@
 # wanaku-ai/wanaku
 
-[![Stars](https://img.shields.io/github/stars/wanaku-ai/wanaku?style=flat-square&color=yellow)](https://github.com/wanaku-ai/wanaku/stargazers) [![Forks](https://img.shields.io/github/forks/wanaku-ai/wanaku?style=flat-square&color=blue)](https://github.com/wanaku-ai/wanaku/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanaku-ai/wanaku?style=flat-square&color=yellow)](https://github.com/wanaku-ai/wanaku/stargazers) [![Forks](https://img.shields.io/github/forks/wanaku-ai/wanaku?style=flat-square&color=blue)](https://github.com/wanaku-ai/wanaku/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Wanaku MCP Router
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Wanaku is an open‑source MCP (Message Control Protocol) router designed to fac
 
 ### 中文
 
-wanaku-ai/wanaku：wanaku-ai/wanaku helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wanaku-ai/wanaku：wanaku-ai/wanaku helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wanaku-ai/wanaku：wanaku-ai/wanaku helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ wanaku-ai/wanaku：wanaku-ai/wanaku helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 50/100 |
 | adoption | 43/100 |
 | stars | 44/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # lupu60/nestjs-toolbox
 
-[![Stars](https://img.shields.io/github/stars/lupu60/nestjs-toolbox?style=flat-square&color=yellow)](https://github.com/lupu60/nestjs-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/lupu60/nestjs-toolbox?style=flat-square&color=blue)](https://github.com/lupu60/nestjs-toolbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lupu60/nestjs-toolbox?style=flat-square&color=yellow)](https://github.com/lupu60/nestjs-toolbox/stargazers) [![Forks](https://img.shields.io/github/forks/lupu60/nestjs-toolbox?style=flat-square&color=blue)](https://github.com/lupu60/nestjs-toolbox/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The repository contains a suite of components and modules for Nest.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lupu60/nestjs-toolbox：lupu60/nestjs-toolbox helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 48/100 |
 | stars | 55/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

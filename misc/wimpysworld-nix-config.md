@@ -1,6 +1,6 @@
 # wimpysworld/nix-config
 
-[![Stars](https://img.shields.io/github/stars/wimpysworld/nix-config?style=flat-square&color=yellow)](https://github.com/wimpysworld/nix-config/stargazers) [![Forks](https://img.shields.io/github/forks/wimpysworld/nix-config?style=flat-square&color=blue)](https://github.com/wimpysworld/nix-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wimpysworld/nix-config?style=flat-square&color=yellow)](https://github.com/wimpysworld/nix-config/stargazers) [![Forks](https://img.shields.io/github/forks/wimpysworld/nix-config?style=flat-square&color=blue)](https://github.com/wimpysworld/nix-config/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 677 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-wimpysworld/nix-config: wimpysworld/nix-config may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wimpysworld/nix-config: wimpysworld/nix-config may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-wimpysworld/nix-config: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+wimpysworld/nix-config: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-wimpysworld/nix-config：wimpysworld/nix-config may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wimpysworld/nix-config：wimpysworld/nix-config may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ wimpysworld/nix-config：wimpysworld/nix-config may be useful when its README an
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ wimpysworld/nix-config：wimpysworld/nix-config may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 60/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

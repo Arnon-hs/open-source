@@ -1,6 +1,6 @@
 # Xed-Editor/Xed-Editor
 
-[![Stars](https://img.shields.io/github/stars/Xed-Editor/Xed-Editor?style=flat-square&color=yellow)](https://github.com/Xed-Editor/Xed-Editor/stargazers) [![Forks](https://img.shields.io/github/forks/Xed-Editor/Xed-Editor?style=flat-square&color=blue)](https://github.com/Xed-Editor/Xed-Editor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xed-Editor/Xed-Editor?style=flat-square&color=yellow)](https://github.com/Xed-Editor/Xed-Editor/stargazers) [![Forks](https://img.shields.io/github/forks/Xed-Editor/Xed-Editor?style=flat-square&color=blue)](https://github.com/Xed-Editor/Xed-Editor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced Text Editor for Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Mobile
 
 ### English
 
-Xed-Editor/Xed-Editor: Xed-Editor/Xed-Editor may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Xed-Editor/Xed-Editor: Xed-Editor/Xed-Editor may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Xed-Editor/Xed-Editor: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Xed-Editor/Xed-Editor: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Xed-Editor/Xed-Editor：Xed-Editor/Xed-Editor may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Xed-Editor/Xed-Editor：Xed-Editor/Xed-Editor may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Xed-Editor/Xed-Editor：Xed-Editor/Xed-Editor may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Xed-Editor/Xed-Editor：Xed-Editor/Xed-Editor may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 49/100 |
+| outlook | 52/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

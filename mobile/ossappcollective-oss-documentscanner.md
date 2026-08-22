@@ -1,6 +1,6 @@
 # ossappcollective/OSS-DocumentScanner
 
-[![Stars](https://img.shields.io/github/stars/ossappcollective/OSS-DocumentScanner?style=flat-square&color=yellow)](https://github.com/ossappcollective/OSS-DocumentScanner/stargazers) [![Forks](https://img.shields.io/github/forks/ossappcollective/OSS-DocumentScanner?style=flat-square&color=blue)](https://github.com/ossappcollective/OSS-DocumentScanner/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ossappcollective/OSS-DocumentScanner?style=flat-square&color=yellow)](https://github.com/ossappcollective/OSS-DocumentScanner/stargazers) [![Forks](https://img.shields.io/github/forks/ossappcollective/OSS-DocumentScanner?style=flat-square&color=blue)](https://github.com/ossappcollective/OSS-DocumentScanner/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Document scanning app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Mobile
 
 ### English
 
-ossappcollective/OSS-DocumentScanner: ossappcollective/OSS-DocumentScanner may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ossappcollective/OSS-DocumentScanner: ossappcollective/OSS-DocumentScanner may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ossappcollective/OSS-DocumentScanner: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ossappcollective/OSS-DocumentScanner: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ossappcollective/OSS-DocumentScanner：ossappcollective/OSS-DocumentScanner may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ossappcollective/OSS-DocumentScanner：ossappcollective/OSS-DocumentScanner may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ossappcollective/OSS-DocumentScanner：ossappcollective/OSS-DocumentScanner may 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ ossappcollective/OSS-DocumentScanner：ossappcollective/OSS-DocumentScanner may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 64/100 |
 | stars | 71/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

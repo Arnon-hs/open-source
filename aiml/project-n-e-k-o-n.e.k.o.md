@@ -1,6 +1,6 @@
 # Project-N-E-K-O/N.E.K.O
 
-[![Stars](https://img.shields.io/github/stars/Project-N-E-K-O/N.E.K.O?style=flat-square&color=yellow)](https://github.com/Project-N-E-K-O/N.E.K.O/stargazers) [![Forks](https://img.shields.io/github/forks/Project-N-E-K-O/N.E.K.O?style=flat-square&color=blue)](https://github.com/Project-N-E-K-O/N.E.K.O/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Project-N-E-K-O/N.E.K.O?style=flat-square&color=yellow)](https://github.com/Project-N-E-K-O/N.E.K.O/stargazers) [![Forks](https://img.shields.io/github/forks/Project-N-E-K-O/N.E.K.O?style=flat-square&color=blue)](https://github.com/Project-N-E-K-O/N.E.K.O/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > N.E.K.O. — A proactive, native omni AI companion that suggests what to watch, read, know, and play — then joins in with an embodied emotional engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data
 
 ### English
 
-Project-N-E-K-O/N.E.K.O: Project-N-E-K-O/N.E.K.O helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Project-N-E-K-O/N.E.K.O: Project-N-E-K-O/N.E.K.O helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Project-N-E-K-O/N.E.K.O: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Project-N-E-K-O/N.E.K.O: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Project-N-E-K-O/N.E.K.O：Project-N-E-K-O/N.E.K.O helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Project-N-E-K-O/N.E.K.O：Project-N-E-K-O/N.E.K.O helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Project-N-E-K-O/N.E.K.O：Project-N-E-K-O/N.E.K.O helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Project-N-E-K-O/N.E.K.O：Project-N-E-K-O/N.E.K.O helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

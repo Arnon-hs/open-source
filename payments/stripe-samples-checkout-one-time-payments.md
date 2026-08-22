@@ -1,6 +1,6 @@
 # stripe-samples/checkout-one-time-payments
 
-[![Stars](https://img.shields.io/github/stars/stripe-samples/checkout-one-time-payments?style=flat-square&color=yellow)](https://github.com/stripe-samples/checkout-one-time-payments/stargazers) [![Forks](https://img.shields.io/github/forks/stripe-samples/checkout-one-time-payments?style=flat-square&color=blue)](https://github.com/stripe-samples/checkout-one-time-payments/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe-samples/checkout-one-time-payments?style=flat-square&color=yellow)](https://github.com/stripe-samples/checkout-one-time-payments/stargazers) [![Forks](https://img.shields.io/github/forks/stripe-samples/checkout-one-time-payments?style=flat-square&color=blue)](https://github.com/stripe-samples/checkout-one-time-payments/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Use Checkout to quickly collect one-time payments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 530 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A concise, open‑source example that demonstrates how to integrate Stripe Check
 
 ### 中文
 
-stripe-samples/checkout-one-time-payments：stripe-samples/checkout-one-time-payments helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stripe-samples/checkout-one-time-payments：stripe-samples/checkout-one-time-payments helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stripe-samples/checkout-one-time-payments：stripe-samples/checkout-one-time-pay
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ stripe-samples/checkout-one-time-payments：stripe-samples/checkout-one-time-pay
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 65/100 |
 | stars | 64/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

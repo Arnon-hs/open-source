@@ -1,6 +1,6 @@
 # for-the-zero/Free-LLM-Collection
 
-[![Stars](https://img.shields.io/github/stars/for-the-zero/Free-LLM-Collection?style=flat-square&color=yellow)](https://github.com/for-the-zero/Free-LLM-Collection/stargazers) [![Forks](https://img.shields.io/github/forks/for-the-zero/Free-LLM-Collection?style=flat-square&color=blue)](https://github.com/for-the-zero/Free-LLM-Collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/for-the-zero/Free-LLM-Collection?style=flat-square&color=yellow)](https://github.com/for-the-zero/Free-LLM-Collection/stargazers) [![Forks](https://img.shields.io/github/forks/for-the-zero/Free-LLM-Collection?style=flat-square&color=blue)](https://github.com/for-the-zero/Free-LLM-Collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 免费大模型API合集 / Free LLM api Collection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 185 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Free‑LLM‑Collection — это открытая репозитория, с
 
 ### 中文
 
-for-the-zero/Free-LLM-Collection：for-the-zero/Free-LLM-Collection helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+for-the-zero/Free-LLM-Collection：for-the-zero/Free-LLM-Collection helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ for-the-zero/Free-LLM-Collection：for-the-zero/Free-LLM-Collection helps add AI
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ for-the-zero/Free-LLM-Collection：for-the-zero/Free-LLM-Collection helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

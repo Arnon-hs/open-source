@@ -1,6 +1,6 @@
 # executablebooks/MyST-Parser
 
-[![Stars](https://img.shields.io/github/stars/executablebooks/MyST-Parser?style=flat-square&color=yellow)](https://github.com/executablebooks/MyST-Parser/stargazers) [![Forks](https://img.shields.io/github/forks/executablebooks/MyST-Parser?style=flat-square&color=blue)](https://github.com/executablebooks/MyST-Parser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/executablebooks/MyST-Parser?style=flat-square&color=yellow)](https://github.com/executablebooks/MyST-Parser/stargazers) [![Forks](https://img.shields.io/github/forks/executablebooks/MyST-Parser?style=flat-square&color=blue)](https://github.com/executablebooks/MyST-Parser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > An extended commonmark compliant parser, with bridges to docutils/sphinx
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 876 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-executablebooks/MyST-Parser: executablebooks/MyST-Parser may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+executablebooks/MyST-Parser: executablebooks/MyST-Parser may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-executablebooks/MyST-Parser: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+executablebooks/MyST-Parser: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-executablebooks/MyST-Parser：executablebooks/MyST-Parser may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+executablebooks/MyST-Parser：executablebooks/MyST-Parser may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ executablebooks/MyST-Parser：executablebooks/MyST-Parser may be useful when its
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ executablebooks/MyST-Parser：executablebooks/MyST-Parser may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

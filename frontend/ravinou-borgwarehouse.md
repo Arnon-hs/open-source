@@ -1,6 +1,6 @@
 # Ravinou/borgwarehouse
 
-[![Stars](https://img.shields.io/github/stars/Ravinou/borgwarehouse?style=flat-square&color=yellow)](https://github.com/Ravinou/borgwarehouse/stargazers) [![Forks](https://img.shields.io/github/forks/Ravinou/borgwarehouse?style=flat-square&color=blue)](https://github.com/Ravinou/borgwarehouse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ravinou/borgwarehouse?style=flat-square&color=yellow)](https://github.com/Ravinou/borgwarehouse/stargazers) [![Forks](https://img.shields.io/github/forks/Ravinou/borgwarehouse?style=flat-square&color=blue)](https://github.com/Ravinou/borgwarehouse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A fast and modern WebUI for a BorgBackup's central repository server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 628 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Ravinou/borgwarehouse：Ravinou/borgwarehouse helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 54/100 |
 | stars | 60/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

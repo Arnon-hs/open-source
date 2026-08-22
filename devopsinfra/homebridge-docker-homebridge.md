@@ -66,14 +66,14 @@ homebridge/docker-homebridge：homebridge/docker-homebridge helps make deploymen
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| quality | 66/100 |
+| integration | 62/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

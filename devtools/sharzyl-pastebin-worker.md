@@ -1,6 +1,6 @@
 # SharzyL/pastebin-worker
 
-[![Stars](https://img.shields.io/github/stars/SharzyL/pastebin-worker?style=flat-square&color=yellow)](https://github.com/SharzyL/pastebin-worker/stargazers) [![Forks](https://img.shields.io/github/forks/SharzyL/pastebin-worker?style=flat-square&color=blue)](https://github.com/SharzyL/pastebin-worker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SharzyL/pastebin-worker?style=flat-square&color=yellow)](https://github.com/SharzyL/pastebin-worker/stargazers) [![Forks](https://img.shields.io/github/forks/SharzyL/pastebin-worker?style=flat-square&color=blue)](https://github.com/SharzyL/pastebin-worker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 994 |
 | 🍴 **Forks** | 342 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SharzyL/pastebin-worker：SharzyL/pastebin-worker helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # guanyang/antigravity-skills
 
-[![Stars](https://img.shields.io/github/stars/guanyang/antigravity-skills?style=flat-square&color=yellow)](https://github.com/guanyang/antigravity-skills/stargazers) [![Forks](https://img.shields.io/github/forks/guanyang/antigravity-skills?style=flat-square&color=blue)](https://github.com/guanyang/antigravity-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guanyang/antigravity-skills?style=flat-square&color=yellow)](https://github.com/guanyang/antigravity-skills/stargazers) [![Forks](https://img.shields.io/github/forks/guanyang/antigravity-skills?style=flat-square&color=blue)](https://github.com/guanyang/antigravity-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ guanyang/antigravity-skills：guanyang/antigravity-skills helps prototype or ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

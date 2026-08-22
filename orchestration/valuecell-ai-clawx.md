@@ -1,6 +1,6 @@
 # ValueCell-ai/ClawX
 
-[![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square&color=yellow)](https://github.com/ValueCell-ai/ClawX/stargazers) [![Forks](https://img.shields.io/github/forks/ValueCell-ai/ClawX?style=flat-square&color=blue)](https://github.com/ValueCell-ai/ClawX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square&color=yellow)](https://github.com/ValueCell-ai/ClawX/stargazers) [![Forks](https://img.shields.io/github/forks/ValueCell-ai/ClawX?style=flat-square&color=blue)](https://github.com/ValueCell-ai/ClawX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ValueCell-ai/ClawX：ValueCell-ai/ClawX helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

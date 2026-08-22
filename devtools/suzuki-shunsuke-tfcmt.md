@@ -1,6 +1,6 @@
 # suzuki-shunsuke/tfcmt
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/tfcmt?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/tfcmt/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/tfcmt?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/tfcmt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/tfcmt?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/tfcmt/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/tfcmt?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/tfcmt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > tfcmt enhances mercari/tfnotify in many ways, including Terraform >= v0.15 support and advanced formatting options
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ tfcmt is an open-source project that builds upon mercari/tfnotify, offering enha
 
 ### 中文
 
-suzuki-shunsuke/tfcmt：suzuki-shunsuke/tfcmt helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+suzuki-shunsuke/tfcmt：suzuki-shunsuke/tfcmt helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ suzuki-shunsuke/tfcmt：suzuki-shunsuke/tfcmt helps engineers save time in daily
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ suzuki-shunsuke/tfcmt：suzuki-shunsuke/tfcmt helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

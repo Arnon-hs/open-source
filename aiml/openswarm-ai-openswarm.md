@@ -1,6 +1,6 @@
 # openswarm-ai/openswarm
 
-[![Stars](https://img.shields.io/github/stars/openswarm-ai/openswarm?style=flat-square&color=yellow)](https://github.com/openswarm-ai/openswarm/stargazers) [![Forks](https://img.shields.io/github/forks/openswarm-ai/openswarm?style=flat-square&color=blue)](https://github.com/openswarm-ai/openswarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openswarm-ai/openswarm?style=flat-square&color=yellow)](https://github.com/openswarm-ai/openswarm/stargazers) [![Forks](https://img.shields.io/github/forks/openswarm-ai/openswarm?style=flat-square&color=blue)](https://github.com/openswarm-ai/openswarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Your mission control center for a swarm of Ai agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenSwarm — это открытая платформа‑центр управ
 
 ### 中文
 
-openswarm-ai/openswarm：openswarm-ai/openswarm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+openswarm-ai/openswarm：openswarm-ai/openswarm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openswarm-ai/openswarm：openswarm-ai/openswarm helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ openswarm-ai/openswarm：openswarm-ai/openswarm helps add AI capability without 
 - updated 2026-05-09
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 45/100 |
+| outlook | 42/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

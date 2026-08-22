@@ -1,6 +1,6 @@
 # ApeWorX/ape
 
-[![Stars](https://img.shields.io/github/stars/ApeWorX/ape?style=flat-square&color=yellow)](https://github.com/ApeWorX/ape/stargazers) [![Forks](https://img.shields.io/github/forks/ApeWorX/ape?style=flat-square&color=blue)](https://github.com/ApeWorX/ape/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ApeWorX/ape?style=flat-square&color=yellow)](https://github.com/ApeWorX/ape/stargazers) [![Forks](https://img.shields.io/github/forks/ApeWorX/ape?style=flat-square&color=blue)](https://github.com/ApeWorX/ape/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Build and explore on-chain with Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ApeWorX/ape：ApeWorX/ape helps prototype or inspect blockchain workflows with o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

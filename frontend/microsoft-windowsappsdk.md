@@ -1,6 +1,6 @@
 # microsoft/WindowsAppSDK
 
-[![Stars](https://img.shields.io/github/stars/microsoft/WindowsAppSDK?style=flat-square&color=yellow)](https://github.com/microsoft/WindowsAppSDK/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/WindowsAppSDK?style=flat-square&color=blue)](https://github.com/microsoft/WindowsAppSDK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/WindowsAppSDK?style=flat-square&color=yellow)](https://github.com/microsoft/WindowsAppSDK/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/WindowsAppSDK?style=flat-square&color=blue)](https://github.com/microsoft/WindowsAppSDK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 436 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microsoft/WindowsAppSDK：microsoft/WindowsAppSDK helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 75/100 |
 | stars | 78/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

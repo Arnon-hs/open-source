@@ -1,6 +1,6 @@
 # pandas-dev/pandas
 
-[![Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&color=yellow)](https://github.com/pandas-dev/pandas/stargazers) [![Forks](https://img.shields.io/github/forks/pandas-dev/pandas?style=flat-square&color=blue)](https://github.com/pandas-dev/pandas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&color=yellow)](https://github.com/pandas-dev/pandas/stargazers) [![Forks](https://img.shields.io/github/forks/pandas-dev/pandas?style=flat-square&color=blue)](https://github.com/pandas-dev/pandas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48.7k |
 | 🍴 **Forks** | 19.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pandas-dev/pandas：pandas-dev/pandas helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

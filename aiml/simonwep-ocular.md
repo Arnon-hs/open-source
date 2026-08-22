@@ -1,6 +1,6 @@
 # simonwep/ocular
 
-[![Stars](https://img.shields.io/github/stars/simonwep/ocular?style=flat-square&color=yellow)](https://github.com/simonwep/ocular/stargazers) [![Forks](https://img.shields.io/github/forks/simonwep/ocular?style=flat-square&color=blue)](https://github.com/simonwep/ocular/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simonwep/ocular?style=flat-square&color=yellow)](https://github.com/simonwep/ocular/stargazers) [![Forks](https://img.shields.io/github/forks/simonwep/ocular?style=flat-square&color=blue)](https://github.com/simonwep/ocular/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 💰 Ocular - A fancy, simplistic, beautiful and straight-forward, open-source budgeting tracking app to track your budget across the years. Easy to use, to get started and to set up. Zero AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 502 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ocular — это простое и стильное open‑source прило�
 
 ### 中文
 
-simonwep/ocular：simonwep/ocular helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+simonwep/ocular：simonwep/ocular helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ simonwep/ocular：simonwep/ocular helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ simonwep/ocular：simonwep/ocular helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 47/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

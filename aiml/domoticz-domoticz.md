@@ -1,6 +1,6 @@
 # domoticz/domoticz
 
-[![Stars](https://img.shields.io/github/stars/domoticz/domoticz?style=flat-square&color=yellow)](https://github.com/domoticz/domoticz/stargazers) [![Forks](https://img.shields.io/github/forks/domoticz/domoticz?style=flat-square&color=blue)](https://github.com/domoticz/domoticz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domoticz/domoticz?style=flat-square&color=yellow)](https://github.com/domoticz/domoticz/stargazers) [![Forks](https://img.shields.io/github/forks/domoticz/domoticz?style=flat-square&color=blue)](https://github.com/domoticz/domoticz/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ domoticz/domoticz：domoticz/domoticz helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 76/100 |
 | stars | 76/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

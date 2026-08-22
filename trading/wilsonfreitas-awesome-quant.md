@@ -1,6 +1,6 @@
 # wilsonfreitas/awesome-quant
 
-[![Stars](https://img.shields.io/github/stars/wilsonfreitas/awesome-quant?style=flat-square&color=yellow)](https://github.com/wilsonfreitas/awesome-quant/stargazers) [![Forks](https://img.shields.io/github/forks/wilsonfreitas/awesome-quant?style=flat-square&color=blue)](https://github.com/wilsonfreitas/awesome-quant/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wilsonfreitas/awesome-quant?style=flat-square&color=yellow)](https://github.com/wilsonfreitas/awesome-quant/stargazers) [![Forks](https://img.shields.io/github/forks/wilsonfreitas/awesome-quant?style=flat-square&color=blue)](https://github.com/wilsonfreitas/awesome-quant/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wilsonfreitas/awesome-quant：wilsonfreitas/awesome-quant helps research and aut
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

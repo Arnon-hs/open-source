@@ -1,6 +1,6 @@
 # meh/rust-tun
 
-[![Stars](https://img.shields.io/github/stars/meh/rust-tun?style=flat-square&color=yellow)](https://github.com/meh/rust-tun/stargazers) [![Forks](https://img.shields.io/github/forks/meh/rust-tun?style=flat-square&color=blue)](https://github.com/meh/rust-tun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meh/rust-tun?style=flat-square&color=yellow)](https://github.com/meh/rust-tun/stargazers) [![Forks](https://img.shields.io/github/forks/meh/rust-tun?style=flat-square&color=blue)](https://github.com/meh/rust-tun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > TUN device creation and handling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 669 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ meh/rust-tun：meh/rust-tun may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

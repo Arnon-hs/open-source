@@ -1,6 +1,6 @@
 # DmitryTsepelev/ar_lazy_preload
 
-[![Stars](https://img.shields.io/github/stars/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=yellow)](https://github.com/DmitryTsepelev/ar_lazy_preload/stargazers) [![Forks](https://img.shields.io/github/forks/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=blue)](https://github.com/DmitryTsepelev/ar_lazy_preload/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=yellow)](https://github.com/DmitryTsepelev/ar_lazy_preload/stargazers) [![Forks](https://img.shields.io/github/forks/DmitryTsepelev/ar_lazy_preload?style=flat-square&color=blue)](https://github.com/DmitryTsepelev/ar_lazy_preload/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Lazy loading associations for the ActiveRecord models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 737 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DmitryTsepelev/ar_lazy_preload is an open‑source Ruby gem that adds transparen
 
 ### 中文
 
-DmitryTsepelev/ar_lazy_preload：DmitryTsepelev/ar_lazy_preload helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DmitryTsepelev/ar_lazy_preload：DmitryTsepelev/ar_lazy_preload helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DmitryTsepelev/ar_lazy_preload：DmitryTsepelev/ar_lazy_preload helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DmitryTsepelev/ar_lazy_preload：DmitryTsepelev/ar_lazy_preload helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 54/100 |
 | stars | 61/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # c410-f3r/wtx
 
-[![Stars](https://img.shields.io/github/stars/c410-f3r/wtx?style=flat-square&color=yellow)](https://github.com/c410-f3r/wtx/stargazers) [![Forks](https://img.shields.io/github/forks/c410-f3r/wtx?style=flat-square&color=blue)](https://github.com/c410-f3r/wtx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/c410-f3r/wtx?style=flat-square&color=yellow)](https://github.com/c410-f3r/wtx/stargazers) [![Forks](https://img.shields.io/github/forks/c410-f3r/wtx?style=flat-square&color=blue)](https://github.com/c410-f3r/wtx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of different transport implementations and related tools focused primarily on web technologies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ c410-f3r/wtx：c410-f3r/wtx helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 59/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

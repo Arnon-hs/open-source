@@ -1,6 +1,6 @@
 # raffis/gitops-zombies
 
-[![Stars](https://img.shields.io/github/stars/raffis/gitops-zombies?style=flat-square&color=yellow)](https://github.com/raffis/gitops-zombies/stargazers) [![Forks](https://img.shields.io/github/forks/raffis/gitops-zombies?style=flat-square&color=blue)](https://github.com/raffis/gitops-zombies/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raffis/gitops-zombies?style=flat-square&color=yellow)](https://github.com/raffis/gitops-zombies/stargazers) [![Forks](https://img.shields.io/github/forks/raffis/gitops-zombies?style=flat-square&color=blue)](https://github.com/raffis/gitops-zombies/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Identify kubernetes resources which are not managed by GitOps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ raffis/gitops-zombies：raffis/gitops-zombies helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 36/100 |
 | stars | 44/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # hexabot-ai/Hexabot
 
-[![Stars](https://img.shields.io/github/stars/hexabot-ai/Hexabot?style=flat-square&color=yellow)](https://github.com/hexabot-ai/Hexabot/stargazers) [![Forks](https://img.shields.io/github/forks/hexabot-ai/Hexabot?style=flat-square&color=blue)](https://github.com/hexabot-ai/Hexabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexabot-ai/Hexabot?style=flat-square&color=yellow)](https://github.com/hexabot-ai/Hexabot/stargazers) [![Forks](https://img.shields.io/github/forks/hexabot-ai/Hexabot?style=flat-square&color=blue)](https://github.com/hexabot-ai/Hexabot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Hexabot v3 is an AI automation platform, combining workflows, actions, agents, and conversational channels in one runtime.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 944 |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hexabot-ai/Hexabot：hexabot-ai/Hexabot helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 69/100 |
+| production | 51/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

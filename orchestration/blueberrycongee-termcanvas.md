@@ -1,6 +1,6 @@
 # blueberrycongee/termcanvas
 
-[![Stars](https://img.shields.io/github/stars/blueberrycongee/termcanvas?style=flat-square&color=yellow)](https://github.com/blueberrycongee/termcanvas/stargazers) [![Forks](https://img.shields.io/github/forks/blueberrycongee/termcanvas?style=flat-square&color=blue)](https://github.com/blueberrycongee/termcanvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blueberrycongee/termcanvas?style=flat-square&color=yellow)](https://github.com/blueberrycongee/termcanvas/stargazers) [![Forks](https://img.shields.io/github/forks/blueberrycongee/termcanvas?style=flat-square&color=blue)](https://github.com/blueberrycongee/termcanvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An infinite canvas desktop app for visually managing terminals
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ blueberrycongee/termcanvas：blueberrycongee/termcanvas helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

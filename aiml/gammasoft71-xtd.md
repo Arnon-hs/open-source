@@ -1,6 +1,6 @@
 # gammasoft71/xtd
 
-[![Stars](https://img.shields.io/github/stars/gammasoft71/xtd?style=flat-square&color=yellow)](https://github.com/gammasoft71/xtd/stargazers) [![Forks](https://img.shields.io/github/forks/gammasoft71/xtd?style=flat-square&color=blue)](https://github.com/gammasoft71/xtd/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gammasoft71/xtd?style=flat-square&color=yellow)](https://github.com/gammasoft71/xtd/stargazers) [![Forks](https://img.shields.io/github/forks/gammasoft71/xtd?style=flat-square&color=blue)](https://github.com/gammasoft71/xtd/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Free open-source modern  C++20 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and SerenityOS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gammasoft71/xtd：gammasoft71/xtd helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 67/100 |
+| production | 51/100 |
+| outlook | 60/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

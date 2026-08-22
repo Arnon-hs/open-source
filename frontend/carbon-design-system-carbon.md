@@ -1,6 +1,6 @@
 # carbon-design-system/carbon
 
-[![Stars](https://img.shields.io/github/stars/carbon-design-system/carbon?style=flat-square&color=yellow)](https://github.com/carbon-design-system/carbon/stargazers) [![Forks](https://img.shields.io/github/forks/carbon-design-system/carbon?style=flat-square&color=blue)](https://github.com/carbon-design-system/carbon/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carbon-design-system/carbon?style=flat-square&color=yellow)](https://github.com/carbon-design-system/carbon/stargazers) [![Forks](https://img.shields.io/github/forks/carbon-design-system/carbon?style=flat-square&color=blue)](https://github.com/carbon-design-system/carbon/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A design system built by IBM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ carbon-design-system/carbon：carbon-design-system/carbon helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 84/100 |
 | stars | 84/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

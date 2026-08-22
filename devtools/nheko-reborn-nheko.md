@@ -1,6 +1,6 @@
 # Nheko-Reborn/nheko
 
-[![Stars](https://img.shields.io/github/stars/Nheko-Reborn/nheko?style=flat-square&color=yellow)](https://github.com/Nheko-Reborn/nheko/stargazers) [![Forks](https://img.shields.io/github/forks/Nheko-Reborn/nheko?style=flat-square&color=blue)](https://github.com/Nheko-Reborn/nheko/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nheko-Reborn/nheko?style=flat-square&color=yellow)](https://github.com/Nheko-Reborn/nheko/stargazers) [![Forks](https://img.shields.io/github/forks/Nheko-Reborn/nheko?style=flat-square&color=blue)](https://github.com/Nheko-Reborn/nheko/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop client for Matrix using Qt and C++20.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Nheko-Reborn/nheko：Nheko-Reborn/nheko helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

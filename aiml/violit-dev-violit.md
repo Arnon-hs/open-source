@@ -1,6 +1,6 @@
 # violit-dev/violit
 
-[![Stars](https://img.shields.io/github/stars/violit-dev/violit?style=flat-square&color=yellow)](https://github.com/violit-dev/violit/stargazers) [![Forks](https://img.shields.io/github/forks/violit-dev/violit?style=flat-square&color=blue)](https://github.com/violit-dev/violit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/violit-dev/violit?style=flat-square&color=yellow)](https://github.com/violit-dev/violit/stargazers) [![Forks](https://img.shields.io/github/forks/violit-dev/violit?style=flat-square&color=blue)](https://github.com/violit-dev/violit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Python Web Framework. Streamlit simplicity, no reruns.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 439 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ violit-dev/violit：violit-dev/violit helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 49/100 |
 | stars | 56/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

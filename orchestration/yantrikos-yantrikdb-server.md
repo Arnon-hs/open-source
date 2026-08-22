@@ -1,6 +1,6 @@
 # yantrikos/yantrikdb-server
 
-[![Stars](https://img.shields.io/github/stars/yantrikos/yantrikdb-server?style=flat-square&color=yellow)](https://github.com/yantrikos/yantrikdb-server/stargazers) [![Forks](https://img.shields.io/github/forks/yantrikos/yantrikdb-server?style=flat-square&color=blue)](https://github.com/yantrikos/yantrikdb-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yantrikos/yantrikdb-server?style=flat-square&color=yellow)](https://github.com/yantrikos/yantrikdb-server/stargazers) [![Forks](https://img.shields.io/github/forks/yantrikos/yantrikdb-server?style=flat-square&color=blue)](https://github.com/yantrikos/yantrikdb-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ YantrikDB — это открытая когнитивная база памя
 
 ### 中文
 
-yantrikos/yantrikdb-server：yantrikos/yantrikdb-server helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yantrikos/yantrikdb-server：yantrikos/yantrikdb-server helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yantrikos/yantrikdb-server：yantrikos/yantrikdb-server helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yantrikos/yantrikdb-server：yantrikos/yantrikdb-server helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 62/100 |
+| production | 48/100 |
+| outlook | 55/100 |
 | adoption | 40/100 |
 | stars | 46/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # modelscope/ms-swift
 
-[![Stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square&color=yellow)](https://github.com/modelscope/ms-swift/stargazers) [![Forks](https://img.shields.io/github/forks/modelscope/ms-swift?style=flat-square&color=blue)](https://github.com/modelscope/ms-swift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelscope/ms-swift?style=flat-square&color=yellow)](https://github.com/modelscope/ms-swift/stargazers) [![Forks](https://img.shields.io/github/forks/modelscope/ms-swift?style=flat-square&color=blue)](https://github.com/modelscope/ms-swift/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ modelscope/ms-swift：modelscope/ms-swift helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 86/100 |
 | stars | 88/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

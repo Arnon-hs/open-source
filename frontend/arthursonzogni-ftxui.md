@@ -1,6 +1,6 @@
 # ArthurSonzogni/FTXUI
 
-[![Stars](https://img.shields.io/github/stars/ArthurSonzogni/FTXUI?style=flat-square&color=yellow)](https://github.com/ArthurSonzogni/FTXUI/stargazers) [![Forks](https://img.shields.io/github/forks/ArthurSonzogni/FTXUI?style=flat-square&color=blue)](https://github.com/ArthurSonzogni/FTXUI/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArthurSonzogni/FTXUI?style=flat-square&color=yellow)](https://github.com/ArthurSonzogni/FTXUI/stargazers) [![Forks](https://img.shields.io/github/forks/ArthurSonzogni/FTXUI?style=flat-square&color=blue)](https://github.com/ArthurSonzogni/FTXUI/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > :computer: C++ Functional Terminal User Interface. :heart:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 585 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ArthurSonzogni/FTXUI：ArthurSonzogni/FTXUI helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 81/100 |
 | stars | 85/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # projectcalico/calico
 
-[![Stars](https://img.shields.io/github/stars/projectcalico/calico?style=flat-square&color=yellow)](https://github.com/projectcalico/calico/stargazers) [![Forks](https://img.shields.io/github/forks/projectcalico/calico?style=flat-square&color=blue)](https://github.com/projectcalico/calico/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectcalico/calico?style=flat-square&color=yellow)](https://github.com/projectcalico/calico/stargazers) [![Forks](https://img.shields.io/github/forks/projectcalico/calico?style=flat-square&color=blue)](https://github.com/projectcalico/calico/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud native networking and network security
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ projectcalico/calico：projectcalico/calico helps make deployment and operations
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 63/100 |
+| production | 59/100 |
+| outlook | 56/100 |
 | adoption | 81/100 |
 | stars | 82/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

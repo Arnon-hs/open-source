@@ -1,6 +1,6 @@
 # axpdev-lab/aeroftp
 
-[![Stars](https://img.shields.io/github/stars/axpdev-lab/aeroftp?style=flat-square&color=yellow)](https://github.com/axpdev-lab/aeroftp/stargazers) [![Forks](https://img.shields.io/github/forks/axpdev-lab/aeroftp?style=flat-square&color=blue)](https://github.com/axpdev-lab/aeroftp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axpdev-lab/aeroftp?style=flat-square&color=yellow)](https://github.com/axpdev-lab/aeroftp/stargazers) [![Forks](https://img.shields.io/github/forks/axpdev-lab/aeroftp?style=flat-square&color=blue)](https://github.com/axpdev-lab/aeroftp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AeroFTP is a Cross-platform desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust 🦀 (Tauri) + React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ axpdev-lab/aeroftp：axpdev-lab/aeroftp helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

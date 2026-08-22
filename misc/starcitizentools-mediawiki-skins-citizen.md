@@ -1,6 +1,6 @@
 # StarCitizenTools/mediawiki-skins-Citizen
 
-[![Stars](https://img.shields.io/github/stars/StarCitizenTools/mediawiki-skins-Citizen?style=flat-square&color=yellow)](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/stargazers) [![Forks](https://img.shields.io/github/forks/StarCitizenTools/mediawiki-skins-Citizen?style=flat-square&color=blue)](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/network) [![Language](https://img.shields.io/badge/lang-Less-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StarCitizenTools/mediawiki-skins-Citizen?style=flat-square&color=yellow)](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/stargazers) [![Forks](https://img.shields.io/github/forks/StarCitizenTools/mediawiki-skins-Citizen?style=flat-square&color=blue)](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/network) [![Language](https://img.shields.io/badge/lang-Less-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A beautiful, usable, responsive MediaWiki skin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 327 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Less |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ StarCitizenTools/mediawiki-skins-Citizen：StarCitizenTools/mediawiki-skins-Citi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 50/100 |
+| production | 43/100 |
+| outlook | 43/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

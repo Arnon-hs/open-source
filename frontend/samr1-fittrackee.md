@@ -1,6 +1,6 @@
 # SamR1/FitTrackee
 
-[![Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=flat-square&color=yellow)](https://github.com/SamR1/FitTrackee/stargazers) [![Forks](https://img.shields.io/github/forks/SamR1/FitTrackee?style=flat-square&color=blue)](https://github.com/SamR1/FitTrackee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamR1/FitTrackee?style=flat-square&color=yellow)](https://github.com/SamR1/FitTrackee/stargazers) [![Forks](https://img.shields.io/github/forks/SamR1/FitTrackee?style=flat-square&color=blue)](https://github.com/SamR1/FitTrackee/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ SamR1/FitTrackee：SamR1/FitTrackee helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

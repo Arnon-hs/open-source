@@ -1,6 +1,6 @@
 # platformatic/platformatic
 
-[![Stars](https://img.shields.io/github/stars/platformatic/platformatic?style=flat-square&color=yellow)](https://github.com/platformatic/platformatic/stargazers) [![Forks](https://img.shields.io/github/forks/platformatic/platformatic?style=flat-square&color=blue)](https://github.com/platformatic/platformatic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/platformatic/platformatic?style=flat-square&color=yellow)](https://github.com/platformatic/platformatic/stargazers) [![Forks](https://img.shields.io/github/forks/platformatic/platformatic?style=flat-square&color=blue)](https://github.com/platformatic/platformatic/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Platformatic Open Source monorepo!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ platformatic/platformatic：platformatic/platformatic helps teams reuse service 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # oxbshw/LLM-Agents-Ecosystem-Handbook
 
-[![Stars](https://img.shields.io/github/stars/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=yellow)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=blue)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=yellow)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/LLM-Agents-Ecosystem-Handbook?style=flat-square&color=blue)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ oxbshw/LLM-Agents-Ecosystem-Handbook：oxbshw/LLM-Agents-Ecosystem-Handbook help
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

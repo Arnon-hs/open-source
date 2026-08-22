@@ -1,6 +1,6 @@
 # langchain-ai/deepagents
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=flat-square&color=yellow)](https://github.com/langchain-ai/deepagents/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/deepagents?style=flat-square&color=blue)](https://github.com/langchain-ai/deepagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/deepagents?style=flat-square&color=yellow)](https://github.com/langchain-ai/deepagents/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/deepagents?style=flat-square&color=blue)](https://github.com/langchain-ai/deepagents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.5k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ langchain-ai/deepagents：langchain-ai/deepagents helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 91/100 |
 | stars | 93/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # jbetancur/react-data-table-component
 
-[![Stars](https://img.shields.io/github/stars/jbetancur/react-data-table-component?style=flat-square&color=yellow)](https://github.com/jbetancur/react-data-table-component/stargazers) [![Forks](https://img.shields.io/github/forks/jbetancur/react-data-table-component?style=flat-square&color=blue)](https://github.com/jbetancur/react-data-table-component/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jbetancur/react-data-table-component?style=flat-square&color=yellow)](https://github.com/jbetancur/react-data-table-component/stargazers) [![Forks](https://img.shields.io/github/forks/jbetancur/react-data-table-component?style=flat-square&color=blue)](https://github.com/jbetancur/react-data-table-component/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jbetancur/react-data-table-component — это открытая библио�
 
 ### 中文
 
-jbetancur/react-data-table-component：jbetancur/react-data-table-component helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jbetancur/react-data-table-component：jbetancur/react-data-table-component helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jbetancur/react-data-table-component：jbetancur/react-data-table-component help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jbetancur/react-data-table-component：jbetancur/react-data-table-component help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # janhq/jan
 
-[![Stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square&color=yellow)](https://github.com/janhq/jan/stargazers) [![Forks](https://img.shields.io/github/forks/janhq/jan?style=flat-square&color=blue)](https://github.com/janhq/jan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square&color=yellow)](https://github.com/janhq/jan/stargazers) [![Forks](https://img.shields.io/github/forks/janhq/jan?style=flat-square&color=blue)](https://github.com/janhq/jan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42.4k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ janhq/jan：janhq/jan helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 95/100 |
 | stars | 98/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

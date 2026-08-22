@@ -1,6 +1,6 @@
 # exercism/problem-specifications
 
-[![Stars](https://img.shields.io/github/stars/exercism/problem-specifications?style=flat-square&color=yellow)](https://github.com/exercism/problem-specifications/stargazers) [![Forks](https://img.shields.io/github/forks/exercism/problem-specifications?style=flat-square&color=blue)](https://github.com/exercism/problem-specifications/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exercism/problem-specifications?style=flat-square&color=yellow)](https://github.com/exercism/problem-specifications/stargazers) [![Forks](https://img.shields.io/github/forks/exercism/problem-specifications?style=flat-square&color=blue)](https://github.com/exercism/problem-specifications/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Shared metadata for exercism exercises.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 561 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **exercism/problem-specifications** repository houses the canonical metadata
 
 ### 中文
 
-exercism/problem-specifications：exercism/problem-specifications helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+exercism/problem-specifications：exercism/problem-specifications helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ exercism/problem-specifications：exercism/problem-specifications helps convert 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ exercism/problem-specifications：exercism/problem-specifications helps convert 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 58/100 |
 | stars | 54/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

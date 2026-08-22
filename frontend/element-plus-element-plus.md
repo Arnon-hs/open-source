@@ -1,6 +1,6 @@
 # element-plus/element-plus
 
-[![Stars](https://img.shields.io/github/stars/element-plus/element-plus?style=flat-square&color=yellow)](https://github.com/element-plus/element-plus/stargazers) [![Forks](https://img.shields.io/github/forks/element-plus/element-plus?style=flat-square&color=blue)](https://github.com/element-plus/element-plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/element-plus/element-plus?style=flat-square&color=yellow)](https://github.com/element-plus/element-plus/stargazers) [![Forks](https://img.shields.io/github/forks/element-plus/element-plus?style=flat-square&color=blue)](https://github.com/element-plus/element-plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🎉 A Vue.js 3 UI Library made by Element team
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.4k |
 | 🍴 **Forks** | 19.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ element-plus/element-plus：element-plus/element-plus helps ship user-facing int
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 96/100 |
 | stars | 94/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

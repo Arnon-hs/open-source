@@ -1,6 +1,6 @@
 # WisdomSky/CasaOS-LinuxServer-AppStore
 
-[![Stars](https://img.shields.io/github/stars/WisdomSky/CasaOS-LinuxServer-AppStore?style=flat-square&color=yellow)](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore/stargazers) [![Forks](https://img.shields.io/github/forks/WisdomSky/CasaOS-LinuxServer-AppStore?style=flat-square&color=blue)](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WisdomSky/CasaOS-LinuxServer-AppStore?style=flat-square&color=yellow)](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore/stargazers) [![Forks](https://img.shields.io/github/forks/WisdomSky/CasaOS-LinuxServer-AppStore?style=flat-square&color=blue)](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A CasaOS custom Appstore containing over 100+ LinuxServer.io images.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 426 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ WisdomSky’s **CasaOS‑LinuxServer‑AppStore** is a curated collection of mor
 
 ### 中文
 
-WisdomSky/CasaOS-LinuxServer-AppStore：WisdomSky/CasaOS-LinuxServer-AppStore helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WisdomSky/CasaOS-LinuxServer-AppStore：WisdomSky/CasaOS-LinuxServer-AppStore helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ WisdomSky/CasaOS-LinuxServer-AppStore：WisdomSky/CasaOS-LinuxServer-AppStore he
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ WisdomSky/CasaOS-LinuxServer-AppStore：WisdomSky/CasaOS-LinuxServer-AppStore he
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

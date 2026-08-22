@@ -1,6 +1,6 @@
 # Beever-AI/beever-atlas
 
-[![Stars](https://img.shields.io/github/stars/Beever-AI/beever-atlas?style=flat-square&color=yellow)](https://github.com/Beever-AI/beever-atlas/stargazers) [![Forks](https://img.shields.io/github/forks/Beever-AI/beever-atlas?style=flat-square&color=blue)](https://github.com/Beever-AI/beever-atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Beever-AI/beever-atlas?style=flat-square&color=yellow)](https://github.com/Beever-AI/beever-atlas/stargazers) [![Forks](https://img.shields.io/github/forks/Beever-AI/beever-atlas?style=flat-square&color=blue)](https://github.com/Beever-AI/beever-atlas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Your First LLM-Wiki Conversation Knowledge Base
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Beever-AI/beever-atlas：Beever-AI/beever-atlas helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 94/100 |
-| production | 62/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 48/100 |
 | stars | 51/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

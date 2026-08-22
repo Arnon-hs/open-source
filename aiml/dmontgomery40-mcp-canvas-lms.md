@@ -1,6 +1,6 @@
 # DMontgomery40/mcp-canvas-lms
 
-[![Stars](https://img.shields.io/github/stars/DMontgomery40/mcp-canvas-lms?style=flat-square&color=yellow)](https://github.com/DMontgomery40/mcp-canvas-lms/stargazers) [![Forks](https://img.shields.io/github/forks/DMontgomery40/mcp-canvas-lms?style=flat-square&color=blue)](https://github.com/DMontgomery40/mcp-canvas-lms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DMontgomery40/mcp-canvas-lms?style=flat-square&color=yellow)](https://github.com/DMontgomery40/mcp-canvas-lms/stargazers) [![Forks](https://img.shields.io/github/forks/DMontgomery40/mcp-canvas-lms?style=flat-square&color=blue)](https://github.com/DMontgomery40/mcp-canvas-lms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Version 2.2 - 54 tools available - an MCP server for interacting with the Canvas LMS API. This server allows you to manage courses, assignments, enrollments, and grades within Canvas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 96 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DMontgomery40/mcp-canvas-lms：DMontgomery40/mcp-canvas-lms helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 42/100 |
 | stars | 42/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

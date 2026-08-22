@@ -1,6 +1,6 @@
 # ferdikoomen/openapi-typescript-codegen
 
-[![Stars](https://img.shields.io/github/stars/ferdikoomen/openapi-typescript-codegen?style=flat-square&color=yellow)](https://github.com/ferdikoomen/openapi-typescript-codegen/stargazers) [![Forks](https://img.shields.io/github/forks/ferdikoomen/openapi-typescript-codegen?style=flat-square&color=blue)](https://github.com/ferdikoomen/openapi-typescript-codegen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferdikoomen/openapi-typescript-codegen?style=flat-square&color=yellow)](https://github.com/ferdikoomen/openapi-typescript-codegen/stargazers) [![Forks](https://img.shields.io/github/forks/ferdikoomen/openapi-typescript-codegen?style=flat-square&color=blue)](https://github.com/ferdikoomen/openapi-typescript-codegen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 542 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ferdikoomen/openapi-typescript-codegen：ferdikoomen/openapi-typescript-codegen 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

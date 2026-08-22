@@ -1,6 +1,6 @@
 # av/harbor
 
-[![Stars](https://img.shields.io/github/stars/av/harbor?style=flat-square&color=yellow)](https://github.com/av/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/av/harbor?style=flat-square&color=blue)](https://github.com/av/harbor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/av/harbor?style=flat-square&color=yellow)](https://github.com/av/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/av/harbor?style=flat-square&color=blue)](https://github.com/av/harbor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 199 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ av/harbor：av/harbor helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 100/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 60/100 |
+| outlook | 64/100 |
 | adoption | 69/100 |
 | stars | 74/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Core-Mate/OpenGUI
 
-[![Stars](https://img.shields.io/github/stars/Core-Mate/OpenGUI?style=flat-square&color=yellow)](https://github.com/Core-Mate/OpenGUI/stargazers) [![Forks](https://img.shields.io/github/forks/Core-Mate/OpenGUI?style=flat-square&color=blue)](https://github.com/Core-Mate/OpenGUI/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Core-Mate/OpenGUI?style=flat-square&color=yellow)](https://github.com/Core-Mate/OpenGUI/stargazers) [![Forks](https://img.shields.io/github/forks/Core-Mate/OpenGUI?style=flat-square&color=blue)](https://github.com/Core-Mate/OpenGUI/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Hire a phone to do your growth work: An open-source AI mobile operator that automates Android apps for growth, research, social media, and long-running phone-based workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 76 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Core‑Mate/OpenGUI — это открытый AI‑мобильный оп
 
 ### 中文
 
-Core-Mate/OpenGUI：Core-Mate/OpenGUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Core-Mate/OpenGUI：Core-Mate/OpenGUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Core-Mate/OpenGUI：Core-Mate/OpenGUI helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Core-Mate/OpenGUI：Core-Mate/OpenGUI helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 61/100 |
+| production | 45/100 |
+| outlook | 54/100 |
 | adoption | 36/100 |
 | stars | 40/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

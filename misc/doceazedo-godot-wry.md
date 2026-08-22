@@ -1,6 +1,6 @@
 # doceazedo/godot_wry
 
-[![Stars](https://img.shields.io/github/stars/doceazedo/godot_wry?style=flat-square&color=yellow)](https://github.com/doceazedo/godot_wry/stargazers) [![Forks](https://img.shields.io/github/forks/doceazedo/godot_wry?style=flat-square&color=blue)](https://github.com/doceazedo/godot_wry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doceazedo/godot_wry?style=flat-square&color=yellow)](https://github.com/doceazedo/godot_wry/stargazers) [![Forks](https://img.shields.io/github/forks/doceazedo/godot_wry?style=flat-square&color=blue)](https://github.com/doceazedo/godot_wry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 Cross-platform webview extension for Godot 4
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 480 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ doceazedo/godot_wry is an open‑source extension that adds cross‑platform web
 
 ### 中文
 
-doceazedo/godot_wry：doceazedo/godot_wry may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+doceazedo/godot_wry：doceazedo/godot_wry may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ doceazedo/godot_wry：doceazedo/godot_wry may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,21 +56,21 @@ doceazedo/godot_wry：doceazedo/godot_wry may be useful when its README and acti
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 45/100 |
+| production | 44/100 |
+| outlook | 38/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

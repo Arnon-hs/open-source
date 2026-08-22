@@ -1,6 +1,6 @@
 # jazzyalex/agent-sessions
 
-[![Stars](https://img.shields.io/github/stars/jazzyalex/agent-sessions?style=flat-square&color=yellow)](https://github.com/jazzyalex/agent-sessions/stargazers) [![Forks](https://img.shields.io/github/forks/jazzyalex/agent-sessions?style=flat-square&color=blue)](https://github.com/jazzyalex/agent-sessions/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jazzyalex/agent-sessions?style=flat-square&color=yellow)](https://github.com/jazzyalex/agent-sessions/stargazers) [![Forks](https://img.shields.io/github/forks/jazzyalex/agent-sessions?style=flat-square&color=blue)](https://github.com/jazzyalex/agent-sessions/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 535 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Orchestration · AI/ML · DevTools
 
 ### 中文
 
-jazzyalex/agent-sessions：jazzyalex/agent-sessions helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jazzyalex/agent-sessions：jazzyalex/agent-sessions helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jazzyalex/agent-sessions：jazzyalex/agent-sessions helps turn isolated prompts 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ jazzyalex/agent-sessions：jazzyalex/agent-sessions helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 67/100 |
+| production | 50/100 |
+| outlook | 60/100 |
 | adoption | 52/100 |
 | stars | 58/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

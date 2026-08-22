@@ -1,6 +1,6 @@
 # solsticegamestudios/GModPatchTool
 
-[![Stars](https://img.shields.io/github/stars/solsticegamestudios/GModPatchTool?style=flat-square&color=yellow)](https://github.com/solsticegamestudios/GModPatchTool/stargazers) [![Forks](https://img.shields.io/github/forks/solsticegamestudios/GModPatchTool?style=flat-square&color=blue)](https://github.com/solsticegamestudios/GModPatchTool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solsticegamestudios/GModPatchTool?style=flat-square&color=yellow)](https://github.com/solsticegamestudios/GModPatchTool/stargazers) [![Forks](https://img.shields.io/github/forks/solsticegamestudios/GModPatchTool?style=flat-square&color=blue)](https://github.com/solsticegamestudios/GModPatchTool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🇬🩹🛠 Patches for Garry's Mod. Updates/Improves CEF and Fixes common launch/performance issues (esp. on Linux/Proton/macOS). Formerly GModCEFCodecFix.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 780 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SolsticeGameStudios /GModPatchTool — это открытый набор п
 
 ### 中文
 
-solsticegamestudios/GModPatchTool：solsticegamestudios/GModPatchTool may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+solsticegamestudios/GModPatchTool：solsticegamestudios/GModPatchTool may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ solsticegamestudios/GModPatchTool：solsticegamestudios/GModPatchTool may be use
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ solsticegamestudios/GModPatchTool：solsticegamestudios/GModPatchTool may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 55/100 |
 | stars | 62/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

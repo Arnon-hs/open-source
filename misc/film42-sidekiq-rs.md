@@ -1,6 +1,6 @@
 # film42/sidekiq-rs
 
-[![Stars](https://img.shields.io/github/stars/film42/sidekiq-rs?style=flat-square&color=yellow)](https://github.com/film42/sidekiq-rs/stargazers) [![Forks](https://img.shields.io/github/forks/film42/sidekiq-rs?style=flat-square&color=blue)](https://github.com/film42/sidekiq-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/film42/sidekiq-rs?style=flat-square&color=yellow)](https://github.com/film42/sidekiq-rs/stargazers) [![Forks](https://img.shields.io/github/forks/film42/sidekiq-rs?style=flat-square&color=blue)](https://github.com/film42/sidekiq-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A port of sidekiq to rust using tokio
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -57,21 +57,21 @@ film42/sidekiq-rs：film42/sidekiq-rs may be useful when its README and activity
 - primary language: Rust
 - 1 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 44/100 |
+| production | 41/100 |
+| outlook | 37/100 |
 | adoption | 42/100 |
 | stars | 47/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

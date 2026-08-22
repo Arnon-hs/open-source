@@ -1,6 +1,6 @@
 # layer5io/layer5
 
-[![Stars](https://img.shields.io/github/stars/layer5io/layer5?style=flat-square&color=yellow)](https://github.com/layer5io/layer5/stargazers) [![Forks](https://img.shields.io/github/forks/layer5io/layer5?style=flat-square&color=blue)](https://github.com/layer5io/layer5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/layer5io/layer5?style=flat-square&color=yellow)](https://github.com/layer5io/layer5/stargazers) [![Forks](https://img.shields.io/github/forks/layer5io/layer5?style=flat-square&color=blue)](https://github.com/layer5io/layer5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Layer5, expect more from your infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ layer5io/layer5：layer5io/layer5 helps turn isolated prompts and tools into rep
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 64/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

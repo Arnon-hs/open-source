@@ -1,6 +1,6 @@
 # Flagsmith/flagsmith
 
-[![Stars](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=flat-square&color=yellow)](https://github.com/Flagsmith/flagsmith/stargazers) [![Forks](https://img.shields.io/github/forks/Flagsmith/flagsmith?style=flat-square&color=blue)](https://github.com/Flagsmith/flagsmith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Flagsmith/flagsmith?style=flat-square&color=yellow)](https://github.com/Flagsmith/flagsmith/stargazers) [![Forks](https://img.shields.io/github/forks/Flagsmith/flagsmith?style=flat-square&color=blue)](https://github.com/Flagsmith/flagsmith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 517 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Flagsmith/flagsmith：Flagsmith/flagsmith helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

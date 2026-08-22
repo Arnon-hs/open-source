@@ -1,6 +1,6 @@
 # stickerdaniel/linkedin-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat-square&color=yellow)](https://github.com/stickerdaniel/linkedin-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/stickerdaniel/linkedin-mcp-server?style=flat-square&color=blue)](https://github.com/stickerdaniel/linkedin-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat-square&color=yellow)](https://github.com/stickerdaniel/linkedin-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/stickerdaniel/linkedin-mcp-server?style=flat-square&color=blue)](https://github.com/stickerdaniel/linkedin-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI assistant access to profiles, companies, jobs, and messages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 342 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stickerdaniel/linkedin-mcp-server：stickerdaniel/linkedin-mcp-server helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 68/100 |
 | stars | 69/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

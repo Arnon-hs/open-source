@@ -1,6 +1,6 @@
 # tinyauthapp/tinyauth
 
-[![Stars](https://img.shields.io/github/stars/tinyauthapp/tinyauth?style=flat-square&color=yellow)](https://github.com/tinyauthapp/tinyauth/stargazers) [![Forks](https://img.shields.io/github/forks/tinyauthapp/tinyauth?style=flat-square&color=blue)](https://github.com/tinyauthapp/tinyauth/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyauthapp/tinyauth?style=flat-square&color=yellow)](https://github.com/tinyauthapp/tinyauth/stargazers) [![Forks](https://img.shields.io/github/forks/tinyauthapp/tinyauth?style=flat-square&color=blue)](https://github.com/tinyauthapp/tinyauth/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The tiniest authentication and authorization server you have ever seen.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tinyauthapp/tinyauth：tinyauthapp/tinyauth helps teams reuse service infrastruc
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 76/100 |
 | stars | 82/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # thedogecraft/sparkle
 
-[![Stars](https://img.shields.io/github/stars/thedogecraft/sparkle?style=flat-square&color=yellow)](https://github.com/thedogecraft/sparkle/stargazers) [![Forks](https://img.shields.io/github/forks/thedogecraft/sparkle?style=flat-square&color=blue)](https://github.com/thedogecraft/sparkle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thedogecraft/sparkle?style=flat-square&color=yellow)](https://github.com/thedogecraft/sparkle/stargazers) [![Forks](https://img.shields.io/github/forks/thedogecraft/sparkle?style=flat-square&color=blue)](https://github.com/thedogecraft/sparkle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A Windows app to debloat and optimize your PC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ thedogecraft/sparkle：thedogecraft/sparkle may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 60/100 |
 | stars | 67/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

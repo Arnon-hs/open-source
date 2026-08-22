@@ -1,6 +1,6 @@
 # Sync-in/server
 
-[![Stars](https://img.shields.io/github/stars/Sync-in/server?style=flat-square&color=yellow)](https://github.com/Sync-in/server/stargazers) [![Forks](https://img.shields.io/github/forks/Sync-in/server?style=flat-square&color=blue)](https://github.com/Sync-in/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sync-in/server?style=flat-square&color=yellow)](https://github.com/Sync-in/server/stargazers) [![Forks](https://img.shields.io/github/forks/Sync-in/server?style=flat-square&color=blue)](https://github.com/Sync-in/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Sync-in/server：Sync-in/server helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 59/100 |
 | stars | 65/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

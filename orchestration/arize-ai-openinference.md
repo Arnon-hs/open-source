@@ -1,6 +1,6 @@
 # Arize-ai/openinference
 
-[![Stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=flat-square&color=yellow)](https://github.com/Arize-ai/openinference/stargazers) [![Forks](https://img.shields.io/github/forks/Arize-ai/openinference?style=flat-square&color=blue)](https://github.com/Arize-ai/openinference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=flat-square&color=yellow)](https://github.com/Arize-ai/openinference/stargazers) [![Forks](https://img.shields.io/github/forks/Arize-ai/openinference?style=flat-square&color=blue)](https://github.com/Arize-ai/openinference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry Instrumentation for AI Observability
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Arize-ai/openinference：Arize-ai/openinference helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

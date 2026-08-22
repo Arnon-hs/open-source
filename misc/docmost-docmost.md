@@ -1,6 +1,6 @@
 # docmost/docmost
 
-[![Stars](https://img.shields.io/github/stars/docmost/docmost?style=flat-square&color=yellow)](https://github.com/docmost/docmost/stargazers) [![Forks](https://img.shields.io/github/forks/docmost/docmost?style=flat-square&color=blue)](https://github.com/docmost/docmost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docmost/docmost?style=flat-square&color=yellow)](https://github.com/docmost/docmost/stargazers) [![Forks](https://img.shields.io/github/forks/docmost/docmost?style=flat-square&color=blue)](https://github.com/docmost/docmost/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ docmost/docmost：docmost/docmost may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 88/100 |
 | stars | 92/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

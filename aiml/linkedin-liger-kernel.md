@@ -1,6 +1,6 @@
 # linkedin/Liger-Kernel
 
-[![Stars](https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=flat-square&color=yellow)](https://github.com/linkedin/Liger-Kernel/stargazers) [![Forks](https://img.shields.io/github/forks/linkedin/Liger-Kernel?style=flat-square&color=blue)](https://github.com/linkedin/Liger-Kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkedin/Liger-Kernel?style=flat-square&color=yellow)](https://github.com/linkedin/Liger-Kernel/stargazers) [![Forks](https://img.shields.io/github/forks/linkedin/Liger-Kernel?style=flat-square&color=blue)](https://github.com/linkedin/Liger-Kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Efficient Triton Kernels for LLM Training
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ linkedin/Liger-Kernel：linkedin/Liger-Kernel helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

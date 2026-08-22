@@ -1,6 +1,6 @@
 # hcavarsan/kftray
 
-[![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square&color=yellow)](https://github.com/hcavarsan/kftray/stargazers) [![Forks](https://img.shields.io/github/forks/hcavarsan/kftray?style=flat-square&color=blue)](https://github.com/hcavarsan/kftray/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square&color=yellow)](https://github.com/hcavarsan/kftray/stargazers) [![Forks](https://img.shields.io/github/forks/hcavarsan/kftray?style=flat-square&color=blue)](https://github.com/hcavarsan/kftray/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hcavarsan/kftray：hcavarsan/kftray helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 68/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

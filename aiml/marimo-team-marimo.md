@@ -1,6 +1,6 @@
 # marimo-team/marimo
 
-[![Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&color=yellow)](https://github.com/marimo-team/marimo/stargazers) [![Forks](https://img.shields.io/github/forks/marimo-team/marimo?style=flat-square&color=blue)](https://github.com/marimo-team/marimo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&color=yellow)](https://github.com/marimo-team/marimo/stargazers) [![Forks](https://img.shields.io/github/forks/marimo-team/marimo?style=flat-square&color=blue)](https://github.com/marimo-team/marimo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ marimo-team/marimo：marimo-team/marimo helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 87/100 |
 | stars | 92/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

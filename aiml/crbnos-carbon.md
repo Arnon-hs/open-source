@@ -1,6 +1,6 @@
 # crbnos/carbon
 
-[![Stars](https://img.shields.io/github/stars/crbnos/carbon?style=flat-square&color=yellow)](https://github.com/crbnos/carbon/stargazers) [![Forks](https://img.shields.io/github/forks/crbnos/carbon?style=flat-square&color=blue)](https://github.com/crbnos/carbon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crbnos/carbon?style=flat-square&color=yellow)](https://github.com/crbnos/carbon/stargazers) [![Forks](https://img.shields.io/github/forks/crbnos/carbon?style=flat-square&color=blue)](https://github.com/crbnos/carbon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 270 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ crbnos/carbon：crbnos/carbon helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

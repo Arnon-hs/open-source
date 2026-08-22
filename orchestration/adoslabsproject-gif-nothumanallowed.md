@@ -1,6 +1,6 @@
 # adoslabsproject-gif/nothumanallowed
 
-[![Stars](https://img.shields.io/github/stars/adoslabsproject-gif/nothumanallowed?style=flat-square&color=yellow)](https://github.com/adoslabsproject-gif/nothumanallowed/stargazers) [![Forks](https://img.shields.io/github/forks/adoslabsproject-gif/nothumanallowed?style=flat-square&color=blue)](https://github.com/adoslabsproject-gif/nothumanallowed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adoslabsproject-gif/nothumanallowed?style=flat-square&color=yellow)](https://github.com/adoslabsproject-gif/nothumanallowed/stargazers) [![Forks](https://img.shields.io/github/forks/adoslabsproject-gif/nothumanallowed?style=flat-square&color=blue)](https://github.com/adoslabsproject-gif/nothumanallowed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Security-first platform for AI agents. 38 specialized agents, 15 AI-powered extensions, zero-knowledge multi-agent orchestration. SENTINEL WAF, Ed25519 auth, 2.6M grounding facts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ adoslabsproject-gif/nothumanallowed：adoslabsproject-gif/nothumanallowed helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 52/100 |
+| outlook | 57/100 |
 | adoption | 39/100 |
 | stars | 42/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # orangecoding/fredy
 
-[![Stars](https://img.shields.io/github/stars/orangecoding/fredy?style=flat-square&color=yellow)](https://github.com/orangecoding/fredy/stargazers) [![Forks](https://img.shields.io/github/forks/orangecoding/fredy?style=flat-square&color=blue)](https://github.com/orangecoding/fredy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orangecoding/fredy?style=flat-square&color=yellow)](https://github.com/orangecoding/fredy/stargazers) [![Forks](https://img.shields.io/github/forks/orangecoding/fredy?style=flat-square&color=blue)](https://github.com/orangecoding/fredy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ orangecoding/fredy：orangecoding/fredy helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 59/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

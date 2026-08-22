@@ -1,6 +1,6 @@
 # bookwyrm-social/bookwyrm
 
-[![Stars](https://img.shields.io/github/stars/bookwyrm-social/bookwyrm?style=flat-square&color=yellow)](https://github.com/bookwyrm-social/bookwyrm/stargazers) [![Forks](https://img.shields.io/github/forks/bookwyrm-social/bookwyrm?style=flat-square&color=blue)](https://github.com/bookwyrm-social/bookwyrm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bookwyrm-social/bookwyrm?style=flat-square&color=yellow)](https://github.com/bookwyrm-social/bookwyrm/stargazers) [![Forks](https://img.shields.io/github/forks/bookwyrm-social/bookwyrm?style=flat-square&color=blue)](https://github.com/bookwyrm-social/bookwyrm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Social reading and reviewing, decentralized with ActivityPub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 306 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ bookwyrm-social/bookwyrm：bookwyrm-social/bookwyrm may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

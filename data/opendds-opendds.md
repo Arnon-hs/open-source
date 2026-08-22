@@ -1,6 +1,6 @@
 # OpenDDS/OpenDDS
 
-[![Stars](https://img.shields.io/github/stars/OpenDDS/OpenDDS?style=flat-square&color=yellow)](https://github.com/OpenDDS/OpenDDS/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDDS/OpenDDS?style=flat-square&color=blue)](https://github.com/OpenDDS/OpenDDS/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenDDS/OpenDDS?style=flat-square&color=yellow)](https://github.com/OpenDDS/OpenDDS/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDDS/OpenDDS?style=flat-square&color=blue)](https://github.com/OpenDDS/OpenDDS/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > OpenDDS is an open source C++ implementation of the Object Management Group (OMG) Data Distribution Service (DDS). OpenDDS also supports Java bindings through JNI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 509 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenDDS — это полностью открытая реализация п
 
 ### 中文
 
-OpenDDS/OpenDDS：OpenDDS/OpenDDS helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OpenDDS/OpenDDS：OpenDDS/OpenDDS helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OpenDDS/OpenDDS：OpenDDS/OpenDDS helps convert raw data into searchable, analyz
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OpenDDS/OpenDDS：OpenDDS/OpenDDS helps convert raw data into searchable, analyz
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 68/100 |
 | stars | 68/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

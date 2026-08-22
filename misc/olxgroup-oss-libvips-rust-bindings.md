@@ -1,6 +1,6 @@
 # olxgroup-oss/libvips-rust-bindings
 
-[![Stars](https://img.shields.io/github/stars/olxgroup-oss/libvips-rust-bindings?style=flat-square&color=yellow)](https://github.com/olxgroup-oss/libvips-rust-bindings/stargazers) [![Forks](https://img.shields.io/github/forks/olxgroup-oss/libvips-rust-bindings?style=flat-square&color=blue)](https://github.com/olxgroup-oss/libvips-rust-bindings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olxgroup-oss/libvips-rust-bindings?style=flat-square&color=yellow)](https://github.com/olxgroup-oss/libvips-rust-bindings/stargazers) [![Forks](https://img.shields.io/github/forks/olxgroup-oss/libvips-rust-bindings?style=flat-square&color=blue)](https://github.com/olxgroup-oss/libvips-rust-bindings/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for libvips
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,14 +63,14 @@ olxgroup-oss/libvips-rust-bindings：olxgroup-oss/libvips-rust-bindings may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 47/100 |
-| outlook | 43/100 |
+| production | 41/100 |
+| outlook | 36/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

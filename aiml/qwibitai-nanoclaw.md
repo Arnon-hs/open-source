@@ -1,6 +1,6 @@
 # qwibitai/nanoclaw
 
-[![Stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=flat-square&color=yellow)](https://github.com/qwibitai/nanoclaw/stargazers) [![Forks](https://img.shields.io/github/forks/qwibitai/nanoclaw?style=flat-square&color=blue)](https://github.com/qwibitai/nanoclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=flat-square&color=yellow)](https://github.com/qwibitai/nanoclaw/stargazers) [![Forks](https://img.shields.io/github/forks/qwibitai/nanoclaw?style=flat-square&color=blue)](https://github.com/qwibitai/nanoclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.7k |
 | 🍴 **Forks** | 12.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ qwibitai/nanoclaw：qwibitai/nanoclaw helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 96/100 |
 | stars | 95/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

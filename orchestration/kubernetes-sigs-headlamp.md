@@ -1,6 +1,6 @@
 # kubernetes-sigs/headlamp
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/headlamp/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/headlamp?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/headlamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/headlamp/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/headlamp?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/headlamp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes web UI that is fully-featured, user-friendly and extensible
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.3k |
 | 🍴 **Forks** | 744 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubernetes-sigs/headlamp：kubernetes-sigs/headlamp helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 68/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 78/100 |
 | stars | 81/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

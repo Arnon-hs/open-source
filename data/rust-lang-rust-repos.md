@@ -1,6 +1,6 @@
 # rust-lang/rust-repos
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rust-repos?style=flat-square&color=yellow)](https://github.com/rust-lang/rust-repos/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rust-repos?style=flat-square&color=blue)](https://github.com/rust-lang/rust-repos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rust-repos?style=flat-square&color=yellow)](https://github.com/rust-lang/rust-repos/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rust-repos?style=flat-square&color=blue)](https://github.com/rust-lang/rust-repos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Dataset of Rust source code repositories
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -59,21 +59,21 @@ rust-lang/rust-repos：rust-lang/rust-repos helps convert raw data into searchab
 - primary language: Rust
 - 1 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 41/100 |
+| outlook | 38/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rust-boom/rust-boom
 
-[![Stars](https://img.shields.io/github/stars/rust-boom/rust-boom?style=flat-square&color=yellow)](https://github.com/rust-boom/rust-boom/stargazers) [![Forks](https://img.shields.io/github/forks/rust-boom/rust-boom?style=flat-square&color=blue)](https://github.com/rust-boom/rust-boom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-boom/rust-boom?style=flat-square&color=yellow)](https://github.com/rust-boom/rust-boom/stargazers) [![Forks](https://img.shields.io/github/forks/rust-boom/rust-boom?style=flat-square&color=blue)](https://github.com/rust-boom/rust-boom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Rust (Rust 资源 | 学习 | 书 ). 💥
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ rust‑boom is a curated collection of Rust resources, tutorials, and books aime
 
 ### 中文
 
-rust-boom/rust-boom：rust-boom/rust-boom may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-boom/rust-boom：rust-boom/rust-boom may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-boom/rust-boom：rust-boom/rust-boom may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ rust-boom/rust-boom：rust-boom/rust-boom may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

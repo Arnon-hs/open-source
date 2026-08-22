@@ -1,6 +1,6 @@
 # apache/fory
 
-[![Stars](https://img.shields.io/github/stars/apache/fory?style=flat-square&color=yellow)](https://github.com/apache/fory/stargazers) [![Forks](https://img.shields.io/github/forks/apache/fory?style=flat-square&color=blue)](https://github.com/apache/fory/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/fory?style=flat-square&color=yellow)](https://github.com/apache/fory/stargazers) [![Forks](https://img.shields.io/github/forks/apache/fory?style=flat-square&color=blue)](https://github.com/apache/fory/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 409 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ apache/fory：apache/fory may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # joshft/correctless
 
-[![Stars](https://img.shields.io/github/stars/joshft/correctless?style=flat-square&color=yellow)](https://github.com/joshft/correctless/stargazers) [![Forks](https://img.shields.io/github/forks/joshft/correctless?style=flat-square&color=blue)](https://github.com/joshft/correctless/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joshft/correctless?style=flat-square&color=yellow)](https://github.com/joshft/correctless/stargazers) [![Forks](https://img.shields.io/github/forks/joshft/correctless?style=flat-square&color=blue)](https://github.com/joshft/correctless/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The agent that writes the code never reviews it. Spec-driven TDD with agent separation, adversarial QA, and dynamic rigor for Claude Code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · DevTools · Security
 
 ### 中文
 
-joshft/correctless：joshft/correctless helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+joshft/correctless：joshft/correctless helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ joshft/correctless：joshft/correctless helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ joshft/correctless：joshft/correctless helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
+| production | 46/100 |
+| outlook | 53/100 |
 | adoption | 31/100 |
 | stars | 38/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

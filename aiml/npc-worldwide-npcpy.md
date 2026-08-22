@@ -1,6 +1,6 @@
 # NPC-Worldwide/npcpy
 
-[![Stars](https://img.shields.io/github/stars/NPC-Worldwide/npcpy?style=flat-square&color=yellow)](https://github.com/NPC-Worldwide/npcpy/stargazers) [![Forks](https://img.shields.io/github/forks/NPC-Worldwide/npcpy?style=flat-square&color=blue)](https://github.com/NPC-Worldwide/npcpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NPC-Worldwide/npcpy?style=flat-square&color=yellow)](https://github.com/NPC-Worldwide/npcpy/stargazers) [![Forks](https://img.shields.io/github/forks/NPC-Worldwide/npcpy?style=flat-square&color=blue)](https://github.com/NPC-Worldwide/npcpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NPC-Worldwide/npcpy：NPC-Worldwide/npcpy helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

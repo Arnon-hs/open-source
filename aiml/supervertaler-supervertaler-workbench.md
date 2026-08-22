@@ -1,6 +1,6 @@
 # Supervertaler/Supervertaler-Workbench
 
-[![Stars](https://img.shields.io/github/stars/Supervertaler/Supervertaler-Workbench?style=flat-square&color=yellow)](https://github.com/Supervertaler/Supervertaler-Workbench/stargazers) [![Forks](https://img.shields.io/github/forks/Supervertaler/Supervertaler-Workbench?style=flat-square&color=blue)](https://github.com/Supervertaler/Supervertaler-Workbench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Supervertaler/Supervertaler-Workbench?style=flat-square&color=yellow)](https://github.com/Supervertaler/Supervertaler-Workbench/stargazers) [![Forks](https://img.shields.io/github/forks/Supervertaler/Supervertaler-Workbench?style=flat-square&color=blue)](https://github.com/Supervertaler/Supervertaler-Workbench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, system-wide 'Sidekick' floating AI assistant, 'Superbench' translation-quality benchmarking, 'Superlookup' concordance across TMs/glossaries/web resources, voice commands, Okapi sidecar for file extraction, and integration with leading CAT tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Supervertaler / Supervertaler‑Workbench — это open‑source CAT�
 
 ### 中文
 
-Supervertaler/Supervertaler-Workbench：Supervertaler/Supervertaler-Workbench helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Supervertaler/Supervertaler-Workbench：Supervertaler/Supervertaler-Workbench helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Supervertaler/Supervertaler-Workbench：Supervertaler/Supervertaler-Workbench he
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Supervertaler/Supervertaler-Workbench：Supervertaler/Supervertaler-Workbench he
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 30/100 |
 | stars | 32/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

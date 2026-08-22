@@ -1,6 +1,6 @@
 # studyzy/imewlconverter
 
-[![Stars](https://img.shields.io/github/stars/studyzy/imewlconverter?style=flat-square&color=yellow)](https://github.com/studyzy/imewlconverter/stargazers) [![Forks](https://img.shields.io/github/forks/studyzy/imewlconverter?style=flat-square&color=blue)](https://github.com/studyzy/imewlconverter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/studyzy/imewlconverter?style=flat-square&color=yellow)](https://github.com/studyzy/imewlconverter/stargazers) [![Forks](https://img.shields.io/github/forks/studyzy/imewlconverter?style=flat-square&color=blue)](https://github.com/studyzy/imewlconverter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 694 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ studyzy/imewlconverter：studyzy/imewlconverter may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 81/100 |
 | stars | 85/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

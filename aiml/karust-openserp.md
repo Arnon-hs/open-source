@@ -1,6 +1,6 @@
 # karust/openserp
 
-[![Stars](https://img.shields.io/github/stars/karust/openserp?style=flat-square&color=yellow)](https://github.com/karust/openserp/stargazers) [![Forks](https://img.shields.io/github/forks/karust/openserp?style=flat-square&color=blue)](https://github.com/karust/openserp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karust/openserp?style=flat-square&color=yellow)](https://github.com/karust/openserp/stargazers) [![Forks](https://img.shields.io/github/forks/karust/openserp?style=flat-square&color=blue)](https://github.com/karust/openserp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Get [Google, Yandex, Baidu, Bing, DuckDuckGo] search results via API for free 🎉
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 696 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ karust/openserp：karust/openserp helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

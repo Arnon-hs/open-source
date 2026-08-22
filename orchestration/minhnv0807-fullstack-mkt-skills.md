@@ -1,6 +1,6 @@
 # minhnv0807/fullstack-mkt-skills
 
-[![Stars](https://img.shields.io/github/stars/minhnv0807/fullstack-mkt-skills?style=flat-square&color=yellow)](https://github.com/minhnv0807/fullstack-mkt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/minhnv0807/fullstack-mkt-skills?style=flat-square&color=blue)](https://github.com/minhnv0807/fullstack-mkt-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minhnv0807/fullstack-mkt-skills?style=flat-square&color=yellow)](https://github.com/minhnv0807/fullstack-mkt-skills/stargazers) [![Forks](https://img.shields.io/github/forks/minhnv0807/fullstack-mkt-skills?style=flat-square&color=blue)](https://github.com/minhnv0807/fullstack-mkt-skills/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 20 production-ready AI marketing skills for Claude Code, ChatGPT, Gemini & Copilot. Generate content calendars, TikTok/Meta ad copy, UGC briefs, KPI calculators, A/B tests, pricing strategies & landing pages instantly. Vietnam-market benchmarks 2025-2026. Install as Claude Code plugin or use as standalone prompts for any AI agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ minhnv0807/fullstack-mkt-skills — это набор из 20 готовых �
 
 ### 中文
 
-minhnv0807/fullstack-mkt-skills：minhnv0807/fullstack-mkt-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+minhnv0807/fullstack-mkt-skills：minhnv0807/fullstack-mkt-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ minhnv0807/fullstack-mkt-skills：minhnv0807/fullstack-mkt-skills helps turn iso
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ minhnv0807/fullstack-mkt-skills：minhnv0807/fullstack-mkt-skills helps turn iso
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 53/100 |
 | stars | 52/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

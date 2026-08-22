@@ -1,6 +1,6 @@
 # knowsuchagency/mcp2cli
 
-[![Stars](https://img.shields.io/github/stars/knowsuchagency/mcp2cli?style=flat-square&color=yellow)](https://github.com/knowsuchagency/mcp2cli/stargazers) [![Forks](https://img.shields.io/github/forks/knowsuchagency/mcp2cli?style=flat-square&color=blue)](https://github.com/knowsuchagency/mcp2cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knowsuchagency/mcp2cli?style=flat-square&color=yellow)](https://github.com/knowsuchagency/mcp2cli/stargazers) [![Forks](https://img.shields.io/github/forks/knowsuchagency/mcp2cli?style=flat-square&color=blue)](https://github.com/knowsuchagency/mcp2cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ knowsuchagency/mcp2cli：knowsuchagency/mcp2cli helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 94/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 71/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

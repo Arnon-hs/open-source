@@ -1,6 +1,6 @@
 # Yanyutin753/LambChat
 
-[![Stars](https://img.shields.io/github/stars/Yanyutin753/LambChat?style=flat-square&color=yellow)](https://github.com/Yanyutin753/LambChat/stargazers) [![Forks](https://img.shields.io/github/forks/Yanyutin753/LambChat?style=flat-square&color=blue)](https://github.com/Yanyutin753/LambChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yanyutin753/LambChat?style=flat-square&color=yellow)](https://github.com/Yanyutin753/LambChat/stargazers) [![Forks](https://img.shields.io/github/forks/Yanyutin753/LambChat?style=flat-square&color=blue)](https://github.com/Yanyutin753/LambChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation. SSE real-time streaming, multi-modal document intelligence, JWT/RBAC enterprise security, and GitHub-connected Skill marketplace.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LambChat — это масштабируемая платформа с мул�
 
 ### 中文
 
-Yanyutin753/LambChat：Yanyutin753/LambChat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Yanyutin753/LambChat：Yanyutin753/LambChat helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Yanyutin753/LambChat：Yanyutin753/LambChat helps add AI capability without star
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Yanyutin753/LambChat：Yanyutin753/LambChat helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Ingenimax/agent-sdk-go
 
-[![Stars](https://img.shields.io/github/stars/Ingenimax/agent-sdk-go?style=flat-square&color=yellow)](https://github.com/Ingenimax/agent-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/Ingenimax/agent-sdk-go?style=flat-square&color=blue)](https://github.com/Ingenimax/agent-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ingenimax/agent-sdk-go?style=flat-square&color=yellow)](https://github.com/Ingenimax/agent-sdk-go/stargazers) [![Forks](https://img.shields.io/github/forks/Ingenimax/agent-sdk-go?style=flat-square&color=blue)](https://github.com/Ingenimax/agent-sdk-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Go framework for building production-ready AI agents!
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 562 |
-| 🍴 **Forks** | 124 |
+| ⭐ **Stars** | 587 |
+| 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-21 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic-ai` `agents` `framework` `golang`
 
 ## 🎯 Categories
 
@@ -25,8 +25,58 @@ AI/ML · Frontend · Product
 
 ## 📝 Summary
 
-Ingenimax/agent-sdk-go is an open-source, Go-based framework for developing production-ready AI agents. This powerful tool allows developers to build, deploy, and manage sophisticated AI-powered applications with ease. With its robust set of features and flexible architecture, the agent-sdk-go enables the creation of scalable, secure, and efficient AI agents.
+### English
+
+Ingenimax/agent-sdk-go: Ingenimax/agent-sdk-go helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+Ingenimax/agent-sdk-go: open-source проект в категориях AI/ML, Frontend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+Ingenimax/agent-sdk-go：Ingenimax/agent-sdk-go helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** Ingenimax/agent-sdk-go helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 587 GitHub stars
+- 128 forks
+- updated 2026-08-21
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 53/100 |
+| stars | 59/100 |
+| topics | 50/100 |
+| outlook | 82/100 |
+| quality | 73/100 |
+| recency | 100/100 |
+| adoption | 57/100 |
+| production | 76/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Ingenimax/agent-sdk-go) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-21 · [View on GitHub](https://github.com/Ingenimax/agent-sdk-go) · [← Back to AI/ML](./README.md)</sub>

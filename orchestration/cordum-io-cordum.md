@@ -1,6 +1,6 @@
 # cordum-io/cordum
 
-[![Stars](https://img.shields.io/github/stars/cordum-io/cordum?style=flat-square&color=yellow)](https://github.com/cordum-io/cordum/stargazers) [![Forks](https://img.shields.io/github/forks/cordum-io/cordum?style=flat-square&color=blue)](https://github.com/cordum-io/cordum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cordum-io/cordum?style=flat-square&color=yellow)](https://github.com/cordum-io/cordum/stargazers) [![Forks](https://img.shields.io/github/forks/cordum-io/cordum?style=flat-square&color=blue)](https://github.com/cordum-io/cordum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The open agent control plane. Govern autonomous AI agents with pre-execution policy enforcement, approval gates, and audit trails. Works with LangChain, CrewAI, MCP, and any framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 473 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cordum-io/cordum：cordum-io/cordum helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 60/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

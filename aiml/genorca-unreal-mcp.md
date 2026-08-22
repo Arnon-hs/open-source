@@ -1,6 +1,6 @@
 # GenOrca/unreal-mcp
 
-[![Stars](https://img.shields.io/github/stars/GenOrca/unreal-mcp?style=flat-square&color=yellow)](https://github.com/GenOrca/unreal-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GenOrca/unreal-mcp?style=flat-square&color=blue)](https://github.com/GenOrca/unreal-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GenOrca/unreal-mcp?style=flat-square&color=yellow)](https://github.com/GenOrca/unreal-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GenOrca/unreal-mcp?style=flat-square&color=blue)](https://github.com/GenOrca/unreal-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Unreal Engine MCP Server: Control UE5 with Claude & AI Agents. Supports Python and C++ for custom tool development.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GenOrca/unreal-mcp — открытый сервер MCP для Unreal Engine,
 
 ### 中文
 
-GenOrca/unreal-mcp：GenOrca/unreal-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+GenOrca/unreal-mcp：GenOrca/unreal-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GenOrca/unreal-mcp：GenOrca/unreal-mcp helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ GenOrca/unreal-mcp：GenOrca/unreal-mcp helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 38/100 |
 | stars | 42/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

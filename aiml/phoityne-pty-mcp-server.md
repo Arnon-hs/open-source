@@ -1,6 +1,6 @@
 # phoityne/pty-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/phoityne/pty-mcp-server?style=flat-square&color=yellow)](https://github.com/phoityne/pty-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/phoityne/pty-mcp-server?style=flat-square&color=blue)](https://github.com/phoityne/pty-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phoityne/pty-mcp-server?style=flat-square&color=yellow)](https://github.com/phoityne/pty-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/phoityne/pty-mcp-server?style=flat-square&color=blue)](https://github.com/phoityne/pty-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > pty-mcp-server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ AI/ML · Backend
 
 ### 中文
 
-phoityne/pty-mcp-server：phoityne/pty-mcp-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+phoityne/pty-mcp-server：phoityne/pty-mcp-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ phoityne/pty-mcp-server：phoityne/pty-mcp-server helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ phoityne/pty-mcp-server：phoityne/pty-mcp-server helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 28/100 |
 | stars | 34/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

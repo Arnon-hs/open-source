@@ -1,6 +1,6 @@
 # amruthpillai/reactive-resume
 
-[![Stars](https://img.shields.io/github/stars/amruthpillai/reactive-resume?style=flat-square&color=yellow)](https://github.com/amruthpillai/reactive-resume/stargazers) [![Forks](https://img.shields.io/github/forks/amruthpillai/reactive-resume?style=flat-square&color=blue)](https://github.com/amruthpillai/reactive-resume/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amruthpillai/reactive-resume?style=flat-square&color=yellow)](https://github.com/amruthpillai/reactive-resume/stargazers) [![Forks](https://img.shields.io/github/forks/amruthpillai/reactive-resume?style=flat-square&color=blue)](https://github.com/amruthpillai/reactive-resume/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.7k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ amruthpillai/reactive-resume：amruthpillai/reactive-resume helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

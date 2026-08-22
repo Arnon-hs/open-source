@@ -1,6 +1,6 @@
 # mlrun/mlrun
 
-[![Stars](https://img.shields.io/github/stars/mlrun/mlrun?style=flat-square&color=yellow)](https://github.com/mlrun/mlrun/stargazers) [![Forks](https://img.shields.io/github/forks/mlrun/mlrun?style=flat-square&color=blue)](https://github.com/mlrun/mlrun/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlrun/mlrun?style=flat-square&color=yellow)](https://github.com/mlrun/mlrun/stargazers) [![Forks](https://img.shields.io/github/forks/mlrun/mlrun?style=flat-square&color=blue)](https://github.com/mlrun/mlrun/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of production data, ML pipelines, and online applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 304 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mlrun/mlrun：mlrun/mlrun helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

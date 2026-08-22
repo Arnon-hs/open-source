@@ -1,6 +1,6 @@
 # netlify/build
 
-[![Stars](https://img.shields.io/github/stars/netlify/build?style=flat-square&color=yellow)](https://github.com/netlify/build/stargazers) [![Forks](https://img.shields.io/github/forks/netlify/build?style=flat-square&color=blue)](https://github.com/netlify/build/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netlify/build?style=flat-square&color=yellow)](https://github.com/netlify/build/stargazers) [![Forks](https://img.shields.io/github/forks/netlify/build?style=flat-square&color=blue)](https://github.com/netlify/build/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Netlify Build (node process) runs the build command, Build Plugins and bundles Netlify Functions. Can be run in Buildbot or locally using Netlify CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ netlify/build：netlify/build helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 51/100 |
 | stars | 51/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

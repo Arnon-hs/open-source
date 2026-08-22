@@ -1,6 +1,6 @@
 # AIPMAndy/awesome-openclaw-skills-CN
 
-[![Stars](https://img.shields.io/github/stars/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=yellow)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/stargazers) [![Forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=blue)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=yellow)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/stargazers) [![Forks](https://img.shields.io/github/forks/AIPMAndy/awesome-openclaw-skills-CN?style=flat-square&color=blue)](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🇨🇳 中文开发者友好的 OpenClaw Skills 精选 | 含国产模型接入指南（DeepSeek/Qwen/GLM/Moonshot）| 2868+ Skills 分类整理
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AIPMAndy/awesome-openclaw-skills-CN — это открытая подборк
 
 ### 中文
 
-AIPMAndy/awesome-openclaw-skills-CN：AIPMAndy/awesome-openclaw-skills-CN helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AIPMAndy/awesome-openclaw-skills-CN：AIPMAndy/awesome-openclaw-skills-CN helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AIPMAndy/awesome-openclaw-skills-CN：AIPMAndy/awesome-openclaw-skills-CN helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ AIPMAndy/awesome-openclaw-skills-CN：AIPMAndy/awesome-openclaw-skills-CN helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
+| production | 45/100 |
+| outlook | 49/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

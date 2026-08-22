@@ -1,6 +1,6 @@
 # MemPalace/mempalace
 
-[![Stars](https://img.shields.io/github/stars/MemPalace/mempalace?style=flat-square&color=yellow)](https://github.com/MemPalace/mempalace/stargazers) [![Forks](https://img.shields.io/github/forks/MemPalace/mempalace?style=flat-square&color=blue)](https://github.com/MemPalace/mempalace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemPalace/mempalace?style=flat-square&color=yellow)](https://github.com/MemPalace/mempalace/stargazers) [![Forks](https://img.shields.io/github/forks/MemPalace/mempalace?style=flat-square&color=blue)](https://github.com/MemPalace/mempalace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The best-benchmarked open-source AI memory system. And it's free.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51.4k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MemPalace/mempalace：MemPalace/mempalace helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 68/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

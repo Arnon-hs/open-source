@@ -1,6 +1,6 @@
 # mcneel/RhinoMCP
 
-[![Stars](https://img.shields.io/github/stars/mcneel/RhinoMCP?style=flat-square&color=yellow)](https://github.com/mcneel/RhinoMCP/stargazers) [![Forks](https://img.shields.io/github/forks/mcneel/RhinoMCP?style=flat-square&color=blue)](https://github.com/mcneel/RhinoMCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcneel/RhinoMCP?style=flat-square&color=yellow)](https://github.com/mcneel/RhinoMCP/stargazers) [![Forks](https://img.shields.io/github/forks/mcneel/RhinoMCP?style=flat-square&color=blue)](https://github.com/mcneel/RhinoMCP/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Rhino MCP Server for AI Agents to create and edit Rhino.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ mcneel/RhinoMCP：mcneel/RhinoMCP helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
+| production | 42/100 |
+| outlook | 42/100 |
 | adoption | 24/100 |
 | stars | 34/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

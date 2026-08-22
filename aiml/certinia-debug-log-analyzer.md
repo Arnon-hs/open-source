@@ -1,6 +1,6 @@
 # certinia/debug-log-analyzer
 
-[![Stars](https://img.shields.io/github/stars/certinia/debug-log-analyzer?style=flat-square&color=yellow)](https://github.com/certinia/debug-log-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/certinia/debug-log-analyzer?style=flat-square&color=blue)](https://github.com/certinia/debug-log-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/certinia/debug-log-analyzer?style=flat-square&color=yellow)](https://github.com/certinia/debug-log-analyzer/stargazers) [![Forks](https://img.shields.io/github/forks/certinia/debug-log-analyzer?style=flat-square&color=blue)](https://github.com/certinia/debug-log-analyzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Salesforce Apex debug log analyzer for VS Code - blazing-fast: flame charts, SOQL/DML, Apex insights & more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ certinia/debug-log-analyzer is an open‑source VS Code extension that parses 
 
 ### 中文
 
-certinia/debug-log-analyzer：certinia/debug-log-analyzer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+certinia/debug-log-analyzer：certinia/debug-log-analyzer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ certinia/debug-log-analyzer：certinia/debug-log-analyzer helps add AI capabilit
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ certinia/debug-log-analyzer：certinia/debug-log-analyzer helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 41/100 |
 | stars | 43/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

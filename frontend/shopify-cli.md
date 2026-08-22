@@ -1,6 +1,6 @@
 # Shopify/cli
 
-[![Stars](https://img.shields.io/github/stars/Shopify/cli?style=flat-square&color=yellow)](https://github.com/Shopify/cli/stargazers) [![Forks](https://img.shields.io/github/forks/Shopify/cli?style=flat-square&color=blue)](https://github.com/Shopify/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shopify/cli?style=flat-square&color=yellow)](https://github.com/Shopify/cli/stargazers) [![Forks](https://img.shields.io/github/forks/Shopify/cli?style=flat-square&color=blue)](https://github.com/Shopify/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Build apps, themes, and hydrogen storefronts for Shopify
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 684 |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Shopify/cli：Shopify/cli helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 60/100 |
 | stars | 60/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

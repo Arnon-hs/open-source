@@ -1,6 +1,6 @@
 # danielhuang/cotton
 
-[![Stars](https://img.shields.io/github/stars/danielhuang/cotton?style=flat-square&color=yellow)](https://github.com/danielhuang/cotton/stargazers) [![Forks](https://img.shields.io/github/forks/danielhuang/cotton?style=flat-square&color=blue)](https://github.com/danielhuang/cotton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielhuang/cotton?style=flat-square&color=yellow)](https://github.com/danielhuang/cotton/stargazers) [![Forks](https://img.shields.io/github/forks/danielhuang/cotton?style=flat-square&color=blue)](https://github.com/danielhuang/cotton/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A package manager for JavaScript projects. `cotton install` runs faster than `rm -rf node_modules`.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Misc
 
 ### 中文
 
-danielhuang/cotton：danielhuang/cotton may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+danielhuang/cotton：danielhuang/cotton may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ danielhuang/cotton：danielhuang/cotton may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ danielhuang/cotton：danielhuang/cotton may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 45/100 |
 | stars | 53/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

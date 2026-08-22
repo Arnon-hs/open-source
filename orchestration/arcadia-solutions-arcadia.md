@@ -1,6 +1,6 @@
 # Arcadia-Solutions/arcadia
 
-[![Stars](https://img.shields.io/github/stars/Arcadia-Solutions/arcadia?style=flat-square&color=yellow)](https://github.com/Arcadia-Solutions/arcadia/stargazers) [![Forks](https://img.shields.io/github/forks/Arcadia-Solutions/arcadia?style=flat-square&color=blue)](https://github.com/Arcadia-Solutions/arcadia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arcadia-Solutions/arcadia?style=flat-square&color=yellow)](https://github.com/Arcadia-Solutions/arcadia/stargazers) [![Forks](https://img.shields.io/github/forks/Arcadia-Solutions/arcadia?style=flat-square&color=blue)](https://github.com/Arcadia-Solutions/arcadia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Content-agnostic torrent site & tracker framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Arcadia — это открытая платформа для создания
 
 ### 中文
 
-Arcadia-Solutions/arcadia：Arcadia-Solutions/arcadia helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Arcadia-Solutions/arcadia：Arcadia-Solutions/arcadia helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Arcadia-Solutions/arcadia：Arcadia-Solutions/arcadia helps turn isolated prompt
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Arcadia-Solutions/arcadia：Arcadia-Solutions/arcadia helps turn isolated prompt
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

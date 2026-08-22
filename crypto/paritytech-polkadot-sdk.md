@@ -1,6 +1,6 @@
 # paritytech/polkadot-sdk
 
-[![Stars](https://img.shields.io/github/stars/paritytech/polkadot-sdk?style=flat-square&color=yellow)](https://github.com/paritytech/polkadot-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/polkadot-sdk?style=flat-square&color=blue)](https://github.com/paritytech/polkadot-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paritytech/polkadot-sdk?style=flat-square&color=yellow)](https://github.com/paritytech/polkadot-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/polkadot-sdk?style=flat-square&color=blue)](https://github.com/paritytech/polkadot-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The Parity Polkadot Blockchain SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ paritytech/polkadot-sdk：paritytech/polkadot-sdk helps prototype or inspect blo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 74/100 |
 | stars | 73/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

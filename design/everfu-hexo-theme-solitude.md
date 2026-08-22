@@ -1,6 +1,6 @@
 # everfu/hexo-theme-solitude
 
-[![Stars](https://img.shields.io/github/stars/everfu/hexo-theme-solitude?style=flat-square&color=yellow)](https://github.com/everfu/hexo-theme-solitude/stargazers) [![Forks](https://img.shields.io/github/forks/everfu/hexo-theme-solitude?style=flat-square&color=blue)](https://github.com/everfu/hexo-theme-solitude/network) [![Language](https://img.shields.io/badge/lang-Stylus-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/everfu/hexo-theme-solitude?style=flat-square&color=yellow)](https://github.com/everfu/hexo-theme-solitude/stargazers) [![Forks](https://img.shields.io/github/forks/everfu/hexo-theme-solitude?style=flat-square&color=blue)](https://github.com/everfu/hexo-theme-solitude/network) [![Language](https://img.shields.io/badge/lang-Stylus-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 一款设计师风格的 Hexo 主题，支持懒加载、PWA、Latex以及多种评论系统。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Stylus |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Everfu/hexo-theme-solitude is a designer‑oriented theme for the Hexo static si
 
 ### 中文
 
-everfu/hexo-theme-solitude：everfu/hexo-theme-solitude may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+everfu/hexo-theme-solitude：everfu/hexo-theme-solitude may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ everfu/hexo-theme-solitude：everfu/hexo-theme-solitude may be useful when its R
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ everfu/hexo-theme-solitude：everfu/hexo-theme-solitude may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

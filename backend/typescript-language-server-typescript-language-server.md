@@ -1,6 +1,6 @@
 # typescript-language-server/typescript-language-server
 
-[![Stars](https://img.shields.io/github/stars/typescript-language-server/typescript-language-server?style=flat-square&color=yellow)](https://github.com/typescript-language-server/typescript-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/typescript-language-server/typescript-language-server?style=flat-square&color=blue)](https://github.com/typescript-language-server/typescript-language-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typescript-language-server/typescript-language-server?style=flat-square&color=yellow)](https://github.com/typescript-language-server/typescript-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/typescript-language-server/typescript-language-server?style=flat-square&color=blue)](https://github.com/typescript-language-server/typescript-language-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript & JavaScript Language Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 179 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **typescript-language-server** provides a Language Server Protocol (LSP) imp
 
 ### 中文
 
-typescript-language-server/typescript-language-server：typescript-language-server/typescript-language-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+typescript-language-server/typescript-language-server：typescript-language-server/typescript-language-server helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ typescript-language-server/typescript-language-server：typescript-language-serv
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ typescript-language-server/typescript-language-server：typescript-language-serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

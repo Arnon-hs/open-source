@@ -1,6 +1,6 @@
 # zjn-zjn/ice
 
-[![Stars](https://img.shields.io/github/stars/zjn-zjn/ice?style=flat-square&color=yellow)](https://github.com/zjn-zjn/ice/stargazers) [![Forks](https://img.shields.io/github/forks/zjn-zjn/ice?style=flat-square&color=blue)](https://github.com/zjn-zjn/ice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zjn-zjn/ice?style=flat-square&color=yellow)](https://github.com/zjn-zjn/ice/stargazers) [![Forks](https://img.shields.io/github/forks/zjn-zjn/ice?style=flat-square&color=blue)](https://github.com/zjn-zjn/ice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rule engine/process engine, committed to solving flexible and complex hard-coded problems, for complex/flexibly changing business, provide a new abstract orchestration solution that is lightweight, high-performance and provides visual operation pages. Java规则引擎-ice，针对复杂/灵活变动业务，提供一个新的抽象编排解决方案，轻量级，高性能并提供可视化操作页面
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 672 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zjn-zjn/ice：zjn-zjn/ice helps turn isolated prompts and tools into repeatable 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

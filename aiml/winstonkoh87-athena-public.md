@@ -1,6 +1,6 @@
 # winstonkoh87/Athena-Public
 
-[![Stars](https://img.shields.io/github/stars/winstonkoh87/Athena-Public?style=flat-square&color=yellow)](https://github.com/winstonkoh87/Athena-Public/stargazers) [![Forks](https://img.shields.io/github/forks/winstonkoh87/Athena-Public?style=flat-square&color=blue)](https://github.com/winstonkoh87/Athena-Public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/winstonkoh87/Athena-Public?style=flat-square&color=yellow)](https://github.com/winstonkoh87/Athena-Public/stargazers) [![Forks](https://img.shields.io/github/forks/winstonkoh87/Athena-Public?style=flat-square&color=blue)](https://github.com/winstonkoh87/Athena-Public/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ winstonkoh87/Athena-Public：winstonkoh87/Athena-Public helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 52/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | stars | 57/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # pomerium/pomerium
 
-[![Stars](https://img.shields.io/github/stars/pomerium/pomerium?style=flat-square&color=yellow)](https://github.com/pomerium/pomerium/stargazers) [![Forks](https://img.shields.io/github/forks/pomerium/pomerium?style=flat-square&color=blue)](https://github.com/pomerium/pomerium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pomerium/pomerium?style=flat-square&color=yellow)](https://github.com/pomerium/pomerium/stargazers) [![Forks](https://img.shields.io/github/forks/pomerium/pomerium?style=flat-square&color=blue)](https://github.com/pomerium/pomerium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Pomerium is an identity and context-aware access proxy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 327 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pomerium/pomerium：pomerium/pomerium helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 78/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

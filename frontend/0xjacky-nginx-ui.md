@@ -1,6 +1,6 @@
 # 0xJacky/nginx-ui
 
-[![Stars](https://img.shields.io/github/stars/0xJacky/nginx-ui?style=flat-square&color=yellow)](https://github.com/0xJacky/nginx-ui/stargazers) [![Forks](https://img.shields.io/github/forks/0xJacky/nginx-ui?style=flat-square&color=blue)](https://github.com/0xJacky/nginx-ui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xJacky/nginx-ui?style=flat-square&color=yellow)](https://github.com/0xJacky/nginx-ui/stargazers) [![Forks](https://img.shields.io/github/forks/0xJacky/nginx-ui?style=flat-square&color=blue)](https://github.com/0xJacky/nginx-ui/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Yet another WebUI for Nginx
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 830 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Frontend · Backend · DevOps/Infra
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 82/100 |
 | stars | 86/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # OnChainMee/blockchain-projects
 
-[![Stars](https://img.shields.io/github/stars/OnChainMee/blockchain-projects?style=flat-square&color=yellow)](https://github.com/OnChainMee/blockchain-projects/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/blockchain-projects?style=flat-square&color=blue)](https://github.com/OnChainMee/blockchain-projects/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OnChainMee/blockchain-projects?style=flat-square&color=yellow)](https://github.com/OnChainMee/blockchain-projects/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/blockchain-projects?style=flat-square&color=blue)](https://github.com/OnChainMee/blockchain-projects/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Solana EVM Developer: AI Agents & AI-powered on-chain systems Smart Contracts & DeFi Protocols Cross-Chain Bridges NFT Marketplaces & Dynamic NFT Platforms Token Launchpads & Bonding Curve DEXs P2E Games & GameFi Provably Fair Non-Custodial Casinos & Betting Non-Custodial Staking & Yield Systems  Institutional Lending Protocols & RWA infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OnChainMee/blockchain-projects — открытый набор инструм�
 
 ### 中文
 
-OnChainMee/blockchain-projects：OnChainMee/blockchain-projects helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OnChainMee/blockchain-projects：OnChainMee/blockchain-projects helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OnChainMee/blockchain-projects：OnChainMee/blockchain-projects helps prototype 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ OnChainMee/blockchain-projects：OnChainMee/blockchain-projects helps prototype 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 47/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 53/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

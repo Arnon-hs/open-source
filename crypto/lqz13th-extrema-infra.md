@@ -1,6 +1,6 @@
 # Lqz13Th/extrema_infra
 
-[![Stars](https://img.shields.io/github/stars/Lqz13Th/extrema_infra?style=flat-square&color=yellow)](https://github.com/Lqz13Th/extrema_infra/stargazers) [![Forks](https://img.shields.io/github/forks/Lqz13Th/extrema_infra?style=flat-square&color=blue)](https://github.com/Lqz13Th/extrema_infra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lqz13Th/extrema_infra?style=flat-square&color=yellow)](https://github.com/Lqz13Th/extrema_infra/stargazers) [![Forks](https://img.shields.io/github/forks/Lqz13Th/extrema_infra?style=flat-square&color=blue)](https://github.com/Lqz13Th/extrema_infra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance quantitative trading infrastructure built in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lqz13Th/extrema_infra — это высокопроизводительная 
 
 ### 中文
 
-Lqz13Th/extrema_infra：Lqz13Th/extrema_infra helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Lqz13Th/extrema_infra：Lqz13Th/extrema_infra helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Lqz13Th/extrema_infra：Lqz13Th/extrema_infra helps prototype or inspect blockch
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Lqz13Th/extrema_infra：Lqz13Th/extrema_infra helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

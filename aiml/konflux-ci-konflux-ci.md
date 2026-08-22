@@ -1,6 +1,6 @@
 # konflux-ci/konflux-ci
 
-[![Stars](https://img.shields.io/github/stars/konflux-ci/konflux-ci?style=flat-square&color=yellow)](https://github.com/konflux-ci/konflux-ci/stargazers) [![Forks](https://img.shields.io/github/forks/konflux-ci/konflux-ci?style=flat-square&color=blue)](https://github.com/konflux-ci/konflux-ci/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/konflux-ci/konflux-ci?style=flat-square&color=yellow)](https://github.com/konflux-ci/konflux-ci/stargazers) [![Forks](https://img.shields.io/github/forks/konflux-ci/konflux-ci?style=flat-square&color=blue)](https://github.com/konflux-ci/konflux-ci/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Trusted builds made easy! A cloud-native software factory for building, testing, and releasing trusted software artifacts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ konflux-ci/konflux-ci：konflux-ci/konflux-ci helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 47/100 |
 | stars | 45/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

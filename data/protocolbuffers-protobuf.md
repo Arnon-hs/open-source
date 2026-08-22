@@ -1,6 +1,6 @@
 # protocolbuffers/protobuf
 
-[![Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&color=yellow)](https://github.com/protocolbuffers/protobuf/stargazers) [![Forks](https://img.shields.io/github/forks/protocolbuffers/protobuf?style=flat-square&color=blue)](https://github.com/protocolbuffers/protobuf/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&color=yellow)](https://github.com/protocolbuffers/protobuf/stargazers) [![Forks](https://img.shields.io/github/forks/protocolbuffers/protobuf?style=flat-square&color=blue)](https://github.com/protocolbuffers/protobuf/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Protocol Buffers - Google's data interchange format
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71.2k |
 | 🍴 **Forks** | 16.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ protocolbuffers/protobuf：protocolbuffers/protobuf helps convert raw data into 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # datachain-ai/datachain
 
-[![Stars](https://img.shields.io/github/stars/datachain-ai/datachain?style=flat-square&color=yellow)](https://github.com/datachain-ai/datachain/stargazers) [![Forks](https://img.shields.io/github/forks/datachain-ai/datachain?style=flat-square&color=blue)](https://github.com/datachain-ai/datachain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datachain-ai/datachain?style=flat-square&color=yellow)](https://github.com/datachain-ai/datachain/stargazers) [![Forks](https://img.shields.io/github/forks/datachain-ai/datachain?style=flat-square&color=blue)](https://github.com/datachain-ai/datachain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ datachain-ai/datachain：datachain-ai/datachain helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 73/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-flipperzero
 
-[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-awesome-flipperzero?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-awesome-flipperzero/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-awesome-flipperzero?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-awesome-flipperzero/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-awesome-flipperzero?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-awesome-flipperzero/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-awesome-flipperzero?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-awesome-flipperzero/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 🐬 A collection of awesome resources for the Flipper Zero device. With repository stars⭐ and forks🍴
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A curated collection of tools, scripts, and documentation for the Flipper Zero
 
 ### 中文
 
-Correia-jpv/fucking-awesome-flipperzero：Correia-jpv/fucking-awesome-flipperzero may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Correia-jpv/fucking-awesome-flipperzero：Correia-jpv/fucking-awesome-flipperzero may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Correia-jpv/fucking-awesome-flipperzero：Correia-jpv/fucking-awesome-flipperzer
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ Correia-jpv/fucking-awesome-flipperzero：Correia-jpv/fucking-awesome-flipperzer
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

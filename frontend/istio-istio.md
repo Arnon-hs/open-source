@@ -1,6 +1,6 @@
 # istio/istio
 
-[![Stars](https://img.shields.io/github/stars/istio/istio?style=flat-square&color=yellow)](https://github.com/istio/istio/stargazers) [![Forks](https://img.shields.io/github/forks/istio/istio?style=flat-square&color=blue)](https://github.com/istio/istio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/istio/istio?style=flat-square&color=yellow)](https://github.com/istio/istio/stargazers) [![Forks](https://img.shields.io/github/forks/istio/istio?style=flat-square&color=blue)](https://github.com/istio/istio/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Connect, secure, control, and observe services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38.2k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ istio/istio：istio/istio helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 98/100 |
 | stars | 98/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

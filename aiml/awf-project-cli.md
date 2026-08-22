@@ -1,6 +1,6 @@
 # awf-project/cli
 
-[![Stars](https://img.shields.io/github/stars/awf-project/cli?style=flat-square&color=yellow)](https://github.com/awf-project/cli/stargazers) [![Forks](https://img.shields.io/github/forks/awf-project/cli?style=flat-square&color=blue)](https://github.com/awf-project/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awf-project/cli?style=flat-square&color=yellow)](https://github.com/awf-project/cli/stargazers) [![Forks](https://img.shields.io/github/forks/awf-project/cli?style=flat-square&color=blue)](https://github.com/awf-project/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Go CLI tool for orchestrating AI agents through YAML workflows with determinism and hardenning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ awf-project/cli — это open‑source утилита на Go, позвол�
 
 ### 中文
 
-awf-project/cli：awf-project/cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awf-project/cli：awf-project/cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awf-project/cli：awf-project/cli helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ awf-project/cli：awf-project/cli helps add AI capability without starting from 
 - primary language: Go
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 52/100 |
-| outlook | 57/100 |
+| production | 46/100 |
+| outlook | 50/100 |
 | adoption | 28/100 |
 | stars | 34/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

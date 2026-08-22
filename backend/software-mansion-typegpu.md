@@ -1,6 +1,6 @@
 # software-mansion/TypeGPU
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/TypeGPU?style=flat-square&color=yellow)](https://github.com/software-mansion/TypeGPU/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/TypeGPU?style=flat-square&color=blue)](https://github.com/software-mansion/TypeGPU/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/TypeGPU?style=flat-square&color=yellow)](https://github.com/software-mansion/TypeGPU/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/TypeGPU?style=flat-square&color=blue)](https://github.com/software-mansion/TypeGPU/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ software-mansion/TypeGPU：software-mansion/TypeGPU helps teams reuse service in
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 64/100 |
 | stars | 72/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

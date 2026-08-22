@@ -1,6 +1,6 @@
 # chrisryugj/kordoc
 
-[![Stars](https://img.shields.io/github/stars/chrisryugj/kordoc?style=flat-square&color=yellow)](https://github.com/chrisryugj/kordoc/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/kordoc?style=flat-square&color=blue)](https://github.com/chrisryugj/kordoc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrisryugj/kordoc?style=flat-square&color=yellow)](https://github.com/chrisryugj/kordoc/stargazers) [![Forks](https://img.shields.io/github/forks/chrisryugj/kordoc?style=flat-square&color=blue)](https://github.com/chrisryugj/kordoc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 모두 파싱해버리겠다 — HWP, HWPX, PDF, XLSX, DOCX → Markdown. CLI + MCP Server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 900 |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ chrisryugj/kordoc：chrisryugj/kordoc helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

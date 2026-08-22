@@ -1,6 +1,6 @@
 # 777genius/claude-notifications-go
 
-[![Stars](https://img.shields.io/github/stars/777genius/claude-notifications-go?style=flat-square&color=yellow)](https://github.com/777genius/claude-notifications-go/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude-notifications-go?style=flat-square&color=blue)](https://github.com/777genius/claude-notifications-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/777genius/claude-notifications-go?style=flat-square&color=yellow)](https://github.com/777genius/claude-notifications-go/stargazers) [![Forks](https://img.shields.io/github/forks/777genius/claude-notifications-go?style=flat-square&color=blue)](https://github.com/777genius/claude-notifications-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacOS, Windows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 612 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ The **claude-notifications-go** plugin provides smart, cross‑platform notifica
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

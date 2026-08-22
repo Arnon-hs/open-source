@@ -1,6 +1,6 @@
 # CleverRaven/Cataclysm-DDA
 
-[![Stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=flat-square&color=yellow)](https://github.com/CleverRaven/Cataclysm-DDA/stargazers) [![Forks](https://img.shields.io/github/forks/CleverRaven/Cataclysm-DDA?style=flat-square&color=blue)](https://github.com/CleverRaven/Cataclysm-DDA/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=flat-square&color=yellow)](https://github.com/CleverRaven/Cataclysm-DDA/stargazers) [![Forks](https://img.shields.io/github/forks/CleverRaven/Cataclysm-DDA?style=flat-square&color=blue)](https://github.com/CleverRaven/Cataclysm-DDA/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.3k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ CleverRaven/Cataclysm-DDA：CleverRaven/Cataclysm-DDA may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 88/100 |
 | stars | 87/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

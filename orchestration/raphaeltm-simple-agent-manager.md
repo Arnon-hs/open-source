@@ -1,6 +1,6 @@
 # raphaeltm/simple-agent-manager
 
-[![Stars](https://img.shields.io/github/stars/raphaeltm/simple-agent-manager?style=flat-square&color=yellow)](https://github.com/raphaeltm/simple-agent-manager/stargazers) [![Forks](https://img.shields.io/github/forks/raphaeltm/simple-agent-manager?style=flat-square&color=blue)](https://github.com/raphaeltm/simple-agent-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raphaeltm/simple-agent-manager?style=flat-square&color=yellow)](https://github.com/raphaeltm/simple-agent-manager/stargazers) [![Forks](https://img.shields.io/github/forks/raphaeltm/simple-agent-manager?style=flat-square&color=blue)](https://github.com/raphaeltm/simple-agent-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Run multiple coding agents in parallel on your own cloud VMs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ raphaeltm/simple-agent-manager is an open‑source orchestration tool that lets 
 
 ### 中文
 
-raphaeltm/simple-agent-manager：raphaeltm/simple-agent-manager helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+raphaeltm/simple-agent-manager：raphaeltm/simple-agent-manager helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ raphaeltm/simple-agent-manager：raphaeltm/simple-agent-manager helps turn isola
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ raphaeltm/simple-agent-manager：raphaeltm/simple-agent-manager helps turn isola
 - primary language: TypeScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 44/100 |
+| outlook | 43/100 |
 | adoption | 27/100 |
 | stars | 32/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 0xPlaygrounds/rig
 
-[![Stars](https://img.shields.io/github/stars/0xPlaygrounds/rig?style=flat-square&color=yellow)](https://github.com/0xPlaygrounds/rig/stargazers) [![Forks](https://img.shields.io/github/forks/0xPlaygrounds/rig?style=flat-square&color=blue)](https://github.com/0xPlaygrounds/rig/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xPlaygrounds/rig?style=flat-square&color=yellow)](https://github.com/0xPlaygrounds/rig/stargazers) [![Forks](https://img.shields.io/github/forks/0xPlaygrounds/rig?style=flat-square&color=blue)](https://github.com/0xPlaygrounds/rig/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️🦀 Build modular and scalable LLM Applications in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.2k |
 | 🍴 **Forks** | 798 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AI/ML · Frontend
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 79/100 |
 | stars | 82/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

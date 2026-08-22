@@ -1,6 +1,6 @@
 # InternLM/xtuner
 
-[![Stars](https://img.shields.io/github/stars/InternLM/xtuner?style=flat-square&color=yellow)](https://github.com/InternLM/xtuner/stargazers) [![Forks](https://img.shields.io/github/forks/InternLM/xtuner?style=flat-square&color=blue)](https://github.com/InternLM/xtuner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InternLM/xtuner?style=flat-square&color=yellow)](https://github.com/InternLM/xtuner/stargazers) [![Forks](https://img.shields.io/github/forks/InternLM/xtuner?style=flat-square&color=blue)](https://github.com/InternLM/xtuner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Next-Generation Training Engine Built for Ultra-Large MoE Models
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 420 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ InternLM/xtuner：InternLM/xtuner helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

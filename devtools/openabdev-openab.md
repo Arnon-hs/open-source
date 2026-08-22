@@ -1,6 +1,6 @@
 # openabdev/openab
 
-[![Stars](https://img.shields.io/github/stars/openabdev/openab?style=flat-square&color=yellow)](https://github.com/openabdev/openab/stargazers) [![Forks](https://img.shields.io/github/forks/openabdev/openab?style=flat-square&color=blue)](https://github.com/openabdev/openab/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openabdev/openab?style=flat-square&color=yellow)](https://github.com/openabdev/openab/stargazers) [![Forks](https://img.shields.io/github/forks/openabdev/openab?style=flat-square&color=blue)](https://github.com/openabdev/openab/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, secure, cloud-native ACP harness that bridges Discord and any ACP-compatible coding CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ Here's a brief summary for the open-source project:
 
 ### 中文
 
-openabdev/openab：openabdev/openab helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+openabdev/openab：openabdev/openab helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ openabdev/openab：openabdev/openab helps engineers save time in daily developme
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,21 +62,21 @@ openabdev/openab：openabdev/openab helps engineers save time in daily developme
 - updated 2026-05-07
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 45/100 |
+| outlook | 42/100 |
 | adoption | 55/100 |
 | stars | 56/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

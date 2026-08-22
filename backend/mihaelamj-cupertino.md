@@ -1,6 +1,6 @@
 # mihaelamj/cupertino
 
-[![Stars](https://img.shields.io/github/stars/mihaelamj/cupertino?style=flat-square&color=yellow)](https://github.com/mihaelamj/cupertino/stargazers) [![Forks](https://img.shields.io/github/forks/mihaelamj/cupertino?style=flat-square&color=blue)](https://github.com/mihaelamj/cupertino/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mihaelamj/cupertino?style=flat-square&color=yellow)](https://github.com/mihaelamj/cupertino/stargazers) [![Forks](https://img.shields.io/github/forks/mihaelamj/cupertino?style=flat-square&color=blue)](https://github.com/mihaelamj/cupertino/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A local Apple Documentation crawler and MCP server. Written in Swift.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 670 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -70,14 +70,14 @@ mihaelamj/cupertino：mihaelamj/cupertino helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 53/100 |
 | stars | 60/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

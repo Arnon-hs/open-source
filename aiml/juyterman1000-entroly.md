@@ -1,6 +1,6 @@
 # juyterman1000/entroly
 
-[![Stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat-square&color=yellow)](https://github.com/juyterman1000/entroly/stargazers) [![Forks](https://img.shields.io/github/forks/juyterman1000/entroly?style=flat-square&color=blue)](https://github.com/juyterman1000/entroly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat-square&color=yellow)](https://github.com/juyterman1000/entroly/stargazers) [![Forks](https://img.shields.io/github/forks/juyterman1000/entroly?style=flat-square&color=blue)](https://github.com/juyterman1000/entroly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ juyterman1000/entroly：juyterman1000/entroly helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 94/100 |
-| production | 63/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

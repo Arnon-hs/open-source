@@ -1,6 +1,6 @@
 # mavlink/qgroundcontrol
 
-[![Stars](https://img.shields.io/github/stars/mavlink/qgroundcontrol?style=flat-square&color=yellow)](https://github.com/mavlink/qgroundcontrol/stargazers) [![Forks](https://img.shields.io/github/forks/mavlink/qgroundcontrol?style=flat-square&color=blue)](https://github.com/mavlink/qgroundcontrol/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mavlink/qgroundcontrol?style=flat-square&color=yellow)](https://github.com/mavlink/qgroundcontrol/stargazers) [![Forks](https://img.shields.io/github/forks/mavlink/qgroundcontrol?style=flat-square&color=blue)](https://github.com/mavlink/qgroundcontrol/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ mavlink/qgroundcontrol：mavlink/qgroundcontrol may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 82/100 |
 | stars | 78/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

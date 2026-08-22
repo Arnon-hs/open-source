@@ -1,6 +1,6 @@
 # learning-zone/react-basics
 
-[![Stars](https://img.shields.io/github/stars/learning-zone/react-basics?style=flat-square&color=yellow)](https://github.com/learning-zone/react-basics/stargazers) [![Forks](https://img.shields.io/github/forks/learning-zone/react-basics?style=flat-square&color=blue)](https://github.com/learning-zone/react-basics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/learning-zone/react-basics?style=flat-square&color=yellow)](https://github.com/learning-zone/react-basics/stargazers) [![Forks](https://img.shields.io/github/forks/learning-zone/react-basics?style=flat-square&color=blue)](https://github.com/learning-zone/react-basics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > React Basics ( v19.x )
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend · DevTools
 
 ### 中文
 
-learning-zone/react-basics：learning-zone/react-basics helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+learning-zone/react-basics：learning-zone/react-basics helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ learning-zone/react-basics：learning-zone/react-basics helps ship user-facing i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ learning-zone/react-basics：learning-zone/react-basics helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 68/100 |
 | stars | 68/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

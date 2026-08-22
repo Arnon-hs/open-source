@@ -1,6 +1,6 @@
 # noobaa/noobaa-operator
 
-[![Stars](https://img.shields.io/github/stars/noobaa/noobaa-operator?style=flat-square&color=yellow)](https://github.com/noobaa/noobaa-operator/stargazers) [![Forks](https://img.shields.io/github/forks/noobaa/noobaa-operator?style=flat-square&color=blue)](https://github.com/noobaa/noobaa-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noobaa/noobaa-operator?style=flat-square&color=yellow)](https://github.com/noobaa/noobaa-operator/stargazers) [![Forks](https://img.shields.io/github/forks/noobaa/noobaa-operator?style=flat-square&color=blue)](https://github.com/noobaa/noobaa-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Operator for NooBaa - object data service for hybrid and multi cloud environments :cloud: :wrench:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ noobaa/noobaa-operator：noobaa/noobaa-operator helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 47/100 |
 | stars | 44/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

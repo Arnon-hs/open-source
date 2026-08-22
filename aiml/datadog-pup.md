@@ -1,6 +1,6 @@
 # DataDog/pup
 
-[![Stars](https://img.shields.io/github/stars/DataDog/pup?style=flat-square&color=yellow)](https://github.com/DataDog/pup/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/pup?style=flat-square&color=blue)](https://github.com/DataDog/pup/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataDog/pup?style=flat-square&color=yellow)](https://github.com/DataDog/pup/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/pup?style=flat-square&color=blue)](https://github.com/DataDog/pup/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 755 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DataDog/pup — это открытый CLI‑компаньон для AI‑�
 
 ### 中文
 
-DataDog/pup：DataDog/pup helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DataDog/pup：DataDog/pup helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DataDog/pup：DataDog/pup helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DataDog/pup：DataDog/pup helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

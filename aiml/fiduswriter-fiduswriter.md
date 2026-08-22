@@ -1,6 +1,6 @@
 # fiduswriter/fiduswriter
 
-[![Stars](https://img.shields.io/github/stars/fiduswriter/fiduswriter?style=flat-square&color=yellow)](https://github.com/fiduswriter/fiduswriter/stargazers) [![Forks](https://img.shields.io/github/forks/fiduswriter/fiduswriter?style=flat-square&color=blue)](https://github.com/fiduswriter/fiduswriter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiduswriter/fiduswriter?style=flat-square&color=yellow)](https://github.com/fiduswriter/fiduswriter/stargazers) [![Forks](https://img.shields.io/github/forks/fiduswriter/fiduswriter?style=flat-square&color=blue)](https://github.com/fiduswriter/fiduswriter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Fidus Writer is an online collaborative editor for academics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Fidus Writer — это онлайн‑редактор, ориентиров�
 
 ### 中文
 
-fiduswriter/fiduswriter：fiduswriter/fiduswriter helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+fiduswriter/fiduswriter：fiduswriter/fiduswriter helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ fiduswriter/fiduswriter：fiduswriter/fiduswriter helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ fiduswriter/fiduswriter：fiduswriter/fiduswriter helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

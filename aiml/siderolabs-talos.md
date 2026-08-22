@@ -1,6 +1,6 @@
 # siderolabs/talos
 
-[![Stars](https://img.shields.io/github/stars/siderolabs/talos?style=flat-square&color=yellow)](https://github.com/siderolabs/talos/stargazers) [![Forks](https://img.shields.io/github/forks/siderolabs/talos?style=flat-square&color=blue)](https://github.com/siderolabs/talos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siderolabs/talos?style=flat-square&color=yellow)](https://github.com/siderolabs/talos/stargazers) [![Forks](https://img.shields.io/github/forks/siderolabs/talos?style=flat-square&color=blue)](https://github.com/siderolabs/talos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Talos Linux is a modern Linux distribution built for Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 815 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ siderolabs/talos：siderolabs/talos helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

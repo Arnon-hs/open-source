@@ -1,6 +1,6 @@
 # awakenworks/awaken
 
-[![Stars](https://img.shields.io/github/stars/awakenworks/awaken?style=flat-square&color=yellow)](https://github.com/awakenworks/awaken/stargazers) [![Forks](https://img.shields.io/github/forks/awakenworks/awaken?style=flat-square&color=blue)](https://github.com/awakenworks/awaken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awakenworks/awaken?style=flat-square&color=yellow)](https://github.com/awakenworks/awaken/stargazers) [![Forks](https://img.shields.io/github/forks/awakenworks/awaken?style=flat-square&color=blue)](https://github.com/awakenworks/awaken/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin extensibility.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ awakenworks/awaken：awakenworks/awaken helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 56/100 |
 | adoption | 34/100 |
 | stars | 40/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

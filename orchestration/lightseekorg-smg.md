@@ -1,6 +1,6 @@
 # lightseekorg/smg
 
-[![Stars](https://img.shields.io/github/stars/lightseekorg/smg?style=flat-square&color=yellow)](https://github.com/lightseekorg/smg/stargazers) [![Forks](https://img.shields.io/github/forks/lightseekorg/smg?style=flat-square&color=blue)](https://github.com/lightseekorg/smg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightseekorg/smg?style=flat-square&color=yellow)](https://github.com/lightseekorg/smg/stargazers) [![Forks](https://img.shields.io/github/forks/lightseekorg/smg?style=flat-square&color=blue)](https://github.com/lightseekorg/smg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Engine-agnostic LLM gateway in Rust. Full OpenAI & Anthropic API compatibility across SGLang, vLLM, TRT-LLM, OpenAI, Gemini & more. Industry-first gRPC pipeline, KV cache-aware routing, chat history, tokenization caching, Responses API, embeddings, WASM plugins, MCP, and multi-tenant auth.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lightseekorg/smg：lightseekorg/smg helps turn isolated prompts and tools into r
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 49/100 |
 | stars | 50/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

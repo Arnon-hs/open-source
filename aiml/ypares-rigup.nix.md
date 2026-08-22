@@ -1,6 +1,6 @@
 # YPares/rigup.nix
 
-[![Stars](https://img.shields.io/github/stars/YPares/rigup.nix?style=flat-square&color=yellow)](https://github.com/YPares/rigup.nix/stargazers) [![Forks](https://img.shields.io/github/forks/YPares/rigup.nix?style=flat-square&color=blue)](https://github.com/YPares/rigup.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YPares/rigup.nix?style=flat-square&color=yellow)](https://github.com/YPares/rigup.nix/stargazers) [![Forks](https://img.shields.io/github/forks/YPares/rigup.nix?style=flat-square&color=blue)](https://github.com/YPares/rigup.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ YPares/rigup.nix is an open‑source framework that combines AI agents with the 
 
 ### 中文
 
-YPares/rigup.nix：YPares/rigup.nix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+YPares/rigup.nix：YPares/rigup.nix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ YPares/rigup.nix：YPares/rigup.nix helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ YPares/rigup.nix：YPares/rigup.nix helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 57/100 |
+| production | 44/100 |
+| outlook | 50/100 |
 | adoption | 32/100 |
 | stars | 39/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

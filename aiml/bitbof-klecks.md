@@ -1,6 +1,6 @@
 # bitbof/klecks
 
-[![Stars](https://img.shields.io/github/stars/bitbof/klecks?style=flat-square&color=yellow)](https://github.com/bitbof/klecks/stargazers) [![Forks](https://img.shields.io/github/forks/bitbof/klecks?style=flat-square&color=blue)](https://github.com/bitbof/klecks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitbof/klecks?style=flat-square&color=yellow)](https://github.com/bitbof/klecks/stargazers) [![Forks](https://img.shields.io/github/forks/bitbof/klecks?style=flat-square&color=blue)](https://github.com/bitbof/klecks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Community-funded painting tool powering Kleki.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Klecks — это открытый, финансируемый сообщес�
 
 ### 中文
 
-bitbof/klecks：bitbof/klecks helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bitbof/klecks：bitbof/klecks helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bitbof/klecks：bitbof/klecks helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bitbof/klecks：bitbof/klecks helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 53/100 |
 | stars | 54/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

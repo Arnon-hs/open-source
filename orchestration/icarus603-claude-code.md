@@ -1,6 +1,6 @@
 # Icarus603/claude-code
 
-[![Stars](https://img.shields.io/github/stars/Icarus603/claude-code?style=flat-square&color=yellow)](https://github.com/Icarus603/claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Icarus603/claude-code?style=flat-square&color=blue)](https://github.com/Icarus603/claude-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Icarus603/claude-code?style=flat-square&color=yellow)](https://github.com/Icarus603/claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Icarus603/claude-code?style=flat-square&color=blue)](https://github.com/Icarus603/claude-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Refactored fork of the sourcemap-leaked Claude Code CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Icarus603/claude-code – это переработанный форк CLI‑у�
 
 ### 中文
 
-Icarus603/claude-code：Icarus603/claude-code helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Icarus603/claude-code：Icarus603/claude-code helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Icarus603/claude-code：Icarus603/claude-code helps turn isolated prompts and to
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Icarus603/claude-code：Icarus603/claude-code helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 23/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

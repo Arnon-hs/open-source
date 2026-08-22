@@ -1,41 +1,41 @@
 # hoangsonww/Claude-Code-Agent-Monitor
 
-[![Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=yellow)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=blue)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=yellow)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=blue)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
-> 🚀 A real-time monitoring dashboard for Claude Code, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, and an interactive web UI/MacOS/Windows native app.
+> 🚀 A real-time monitoring dashboard for Claude Code agents, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 786 |
-| 🍴 **Forks** | 176 |
+| ⭐ **Stars** | 339 |
+| 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agents` `claude-agents` `claude-code` `claude-skills` `express` `expressjs` `macos-app` `node` `nodejs` `python` `react` `rest-api`
+`ai-agents` `claude-agents` `claude-code` `claude-skills` `express` `expressjs` `http` `node` `nodejs` `python` `react` `rest-api`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend · Data
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-hoangsonww/Claude-Code-Agent-Monitor: hoangsonww/Claude-Code-Agent-Monitor helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+A real‑time monitoring dashboard for Claude Code agents, built with SQLite3, Node.js/Express, React, Vite, TailwindCSS, and WebSockets. It captures session data, agent activity, tool usage, and sub‑agent orchestration via Claude Code hooks, delivering live analytics, a Kanban‑style status board, and push notifications through an interactive web interface.
 
 ### Русский
 
-hoangsonww/Claude-Code-Agent-Monitor: open-source проект в категориях Orchestration, AI/ML, Frontend, Backend, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+hoangsonww/Claude-Code-Agent-Monitor — это open‑source дашборд в реальном времени для мониторинга агентов Claude Code. С помощью SQLite3, Node.js/Express, React + Vite, TailwindCSS и WebSockets система собирает данные о сессиях, активности агентов, использовании инструментов и оркестрации суб‑агентов через хуки Claude Code, предоставляя живую аналитику, канбан‑доску статусов, уведомления и интерактивный веб‑интерфейс. Проект относится к категориям Orchestration, AI/ML и Frontend.
 
 ### 中文
 
-hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor help
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 786 GitHub stars
-- 176 forks
-- updated 2026-07-11
+- 339 GitHub stars
+- 66 forks
+- updated 2026-05-09
 - primary language: TypeScript
 - 20 topics
 
@@ -66,17 +66,17 @@ hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor help
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 82/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 82/100 |
-| outlook | 90/100 |
-| adoption | 60/100 |
-| stars | 62/100 |
-| forks | 56/100 |
-| recency | 100/100 |
+| production | 54/100 |
+| outlook | 60/100 |
+| adoption | 52/100 |
+| stars | 54/100 |
+| forks | 46/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) · [← Back to Orchestration](./README.md)</sub>

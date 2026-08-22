@@ -1,6 +1,6 @@
 # plausible/analytics
 
-[![Stars](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&color=yellow)](https://github.com/plausible/analytics/stargazers) [![Forks](https://img.shields.io/github/forks/plausible/analytics?style=flat-square&color=blue)](https://github.com/plausible/analytics/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&color=yellow)](https://github.com/plausible/analytics/stargazers) [![Forks](https://img.shields.io/github/forks/plausible/analytics?style=flat-square&color=blue)](https://github.com/plausible/analytics/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.7k |
-| 🍴 **Forks** | 1.7k |
+| ⭐ **Stars** | 24.8k |
+| 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Data · Database
+AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-plausible/analytics: plausible/analytics helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+plausible/analytics: plausible/analytics helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-plausible/analytics: open-source проект в категориях AI/ML, Frontend, DevTools, Data, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+plausible/analytics: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-plausible/analytics：plausible/analytics helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+plausible/analytics：plausible/analytics helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ plausible/analytics：plausible/analytics helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 27695 GitHub stars
-- 1699 forks
-- updated 2026-07-13
+- 24775 GitHub stars
+- 1397 forks
+- updated 2026-05-07
 - primary language: Elixir
 - 20 topics
 
@@ -66,17 +66,17 @@ plausible/analytics：plausible/analytics helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 84/100 |
-| outlook | 96/100 |
-| adoption | 91/100 |
-| stars | 95/100 |
-| forks | 81/100 |
-| recency | 100/100 |
+| production | 58/100 |
+| outlook | 67/100 |
+| adoption | 89/100 |
+| stars | 94/100 |
+| forks | 79/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/plausible/analytics) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/plausible/analytics) · [← Back to AI/ML](./README.md)</sub>

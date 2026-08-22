@@ -1,6 +1,6 @@
 # Serial-Studio/Serial-Studio
 
-[![Stars](https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=yellow)](https://github.com/Serial-Studio/Serial-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Serial-Studio/Serial-Studio?style=flat-square&color=blue)](https://github.com/Serial-Studio/Serial-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Serial-Studio/Serial-Studio?style=flat-square&color=yellow)](https://github.com/Serial-Studio/Serial-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Serial-Studio/Serial-Studio?style=flat-square&color=blue)](https://github.com/Serial-Studio/Serial-Studio/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Serial-Studio/Serial-Studio：Serial-Studio/Serial-Studio helps ship user-facing
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

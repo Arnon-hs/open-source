@@ -1,6 +1,6 @@
 # Azure/azure-dev
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-dev?style=flat-square&color=yellow)](https://github.com/Azure/azure-dev/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-dev?style=flat-square&color=blue)](https://github.com/Azure/azure-dev/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-dev?style=flat-square&color=yellow)](https://github.com/Azure/azure-dev/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-dev?style=flat-square&color=blue)](https://github.com/Azure/azure-dev/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A developer CLI for working with Azure resources to build and deploy AI applications. Commands map to key workflow stages: code, build, deploy, and monitor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Azure/azure-dev：Azure/azure-dev helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 59/100 |
 | adoption | 59/100 |
 | stars | 58/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

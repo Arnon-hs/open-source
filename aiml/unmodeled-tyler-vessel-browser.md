@@ -1,6 +1,6 @@
 # unmodeled-tyler/vessel-browser
 
-[![Stars](https://img.shields.io/github/stars/unmodeled-tyler/vessel-browser?style=flat-square&color=yellow)](https://github.com/unmodeled-tyler/vessel-browser/stargazers) [![Forks](https://img.shields.io/github/forks/unmodeled-tyler/vessel-browser?style=flat-square&color=blue)](https://github.com/unmodeled-tyler/vessel-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unmodeled-tyler/vessel-browser?style=flat-square&color=yellow)](https://github.com/unmodeled-tyler/vessel-browser/stargazers) [![Forks](https://img.shields.io/github/forks/unmodeled-tyler/vessel-browser?style=flat-square&color=blue)](https://github.com/unmodeled-tyler/vessel-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Built from the ground-up for agents, Vessel Browser is an open source AI browser for Linux/Windows that provides a durable state, MCP control, and BYOK with full autonomous browsing. Use with Hermes Agent, OpenClaw, or connect to your favorite API provider.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ unmodeled-tyler/vessel-browser：unmodeled-tyler/vessel-browser helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 56/100 |
 | adoption | 36/100 |
 | stars | 39/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

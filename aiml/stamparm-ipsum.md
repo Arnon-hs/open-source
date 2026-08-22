@@ -1,6 +1,6 @@
 # stamparm/ipsum
 
-[![Stars](https://img.shields.io/github/stars/stamparm/ipsum?style=flat-square&color=yellow)](https://github.com/stamparm/ipsum/stargazers) [![Forks](https://img.shields.io/github/forks/stamparm/ipsum?style=flat-square&color=blue)](https://github.com/stamparm/ipsum/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stamparm/ipsum?style=flat-square&color=yellow)](https://github.com/stamparm/ipsum/stargazers) [![Forks](https://img.shields.io/github/forks/stamparm/ipsum?style=flat-square&color=blue)](https://github.com/stamparm/ipsum/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Daily feed of bad IPs (with blacklist hit scores)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ stamparm/ipsum — это открытый проект, предоставл�
 
 ### 中文
 
-stamparm/ipsum：stamparm/ipsum helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stamparm/ipsum：stamparm/ipsum helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stamparm/ipsum：stamparm/ipsum helps add AI capability without starting from a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ stamparm/ipsum：stamparm/ipsum helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

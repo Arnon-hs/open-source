@@ -1,6 +1,6 @@
 # deltachat/deltachat-desktop
 
-[![Stars](https://img.shields.io/github/stars/deltachat/deltachat-desktop?style=flat-square&color=yellow)](https://github.com/deltachat/deltachat-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/deltachat/deltachat-desktop?style=flat-square&color=blue)](https://github.com/deltachat/deltachat-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deltachat/deltachat-desktop?style=flat-square&color=yellow)](https://github.com/deltachat/deltachat-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/deltachat/deltachat-desktop?style=flat-square&color=blue)](https://github.com/deltachat/deltachat-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Decentralized private messenger with chat-shared tools and games for Desktop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ deltachat/deltachat-desktop：deltachat/deltachat-desktop helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 65/100 |
 | stars | 67/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

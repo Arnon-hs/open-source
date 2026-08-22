@@ -1,6 +1,6 @@
 # holon-run/holon
 
-[![Stars](https://img.shields.io/github/stars/holon-run/holon?style=flat-square&color=yellow)](https://github.com/holon-run/holon/stargazers) [![Forks](https://img.shields.io/github/forks/holon-run/holon?style=flat-square&color=blue)](https://github.com/holon-run/holon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holon-run/holon?style=flat-square&color=yellow)](https://github.com/holon-run/holon/stargazers) [![Forks](https://img.shields.io/github/forks/holon-run/holon?style=flat-square&color=blue)](https://github.com/holon-run/holon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI agent runtime for workspaces, wakeups, and long-running task execution
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ holon-run/holon：holon-run/holon helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 54/100 |
+| production | 43/100 |
+| outlook | 47/100 |
 | adoption | 36/100 |
 | stars | 41/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

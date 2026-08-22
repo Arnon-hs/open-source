@@ -1,6 +1,6 @@
 # happier-dev/happier
 
-[![Stars](https://img.shields.io/github/stars/happier-dev/happier?style=flat-square&color=yellow)](https://github.com/happier-dev/happier/stargazers) [![Forks](https://img.shields.io/github/forks/happier-dev/happier?style=flat-square&color=blue)](https://github.com/happier-dev/happier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/happier-dev/happier?style=flat-square&color=yellow)](https://github.com/happier-dev/happier/stargazers) [![Forks](https://img.shields.io/github/forks/happier-dev/happier?style=flat-square&color=blue)](https://github.com/happier-dev/happier/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 777 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ happier-dev/happier：happier-dev/happier helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

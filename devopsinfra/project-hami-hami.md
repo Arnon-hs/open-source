@@ -1,6 +1,6 @@
 # Project-HAMi/HAMi
 
-[![Stars](https://img.shields.io/github/stars/Project-HAMi/HAMi?style=flat-square&color=yellow)](https://github.com/Project-HAMi/HAMi/stargazers) [![Forks](https://img.shields.io/github/forks/Project-HAMi/HAMi?style=flat-square&color=blue)](https://github.com/Project-HAMi/HAMi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Project-HAMi/HAMi?style=flat-square&color=yellow)](https://github.com/Project-HAMi/HAMi/stargazers) [![Forks](https://img.shields.io/github/forks/Project-HAMi/HAMi?style=flat-square&color=blue)](https://github.com/Project-HAMi/HAMi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Heterogeneous GPU Sharing on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 548 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Project-HAMi/HAMi：Project-HAMi/HAMi helps make deployment and operations more 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 61/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

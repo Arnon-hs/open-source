@@ -1,6 +1,6 @@
 # quantiota/Raspberry-Pi-AI-Agent-Host
 
-[![Stars](https://img.shields.io/github/stars/quantiota/Raspberry-Pi-AI-Agent-Host?style=flat-square&color=yellow)](https://github.com/quantiota/Raspberry-Pi-AI-Agent-Host/stargazers) [![Forks](https://img.shields.io/github/forks/quantiota/Raspberry-Pi-AI-Agent-Host?style=flat-square&color=blue)](https://github.com/quantiota/Raspberry-Pi-AI-Agent-Host/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantiota/Raspberry-Pi-AI-Agent-Host?style=flat-square&color=yellow)](https://github.com/quantiota/Raspberry-Pi-AI-Agent-Host/stargazers) [![Forks](https://img.shields.io/github/forks/quantiota/Raspberry-Pi-AI-Agent-Host?style=flat-square&color=blue)](https://github.com/quantiota/Raspberry-Pi-AI-Agent-Host/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ quantiota/Raspberry-Pi-AI-Agent-Host：quantiota/Raspberry-Pi-AI-Agent-Host help
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 34/100 |
-| production | 45/100 |
-| outlook | 43/100 |
+| production | 39/100 |
+| outlook | 36/100 |
 | adoption | 30/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # sumup-oss/foundry
 
-[![Stars](https://img.shields.io/github/stars/sumup-oss/foundry?style=flat-square&color=yellow)](https://github.com/sumup-oss/foundry/stargazers) [![Forks](https://img.shields.io/github/forks/sumup-oss/foundry?style=flat-square&color=blue)](https://github.com/sumup-oss/foundry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sumup-oss/foundry?style=flat-square&color=yellow)](https://github.com/sumup-oss/foundry/stargazers) [![Forks](https://img.shields.io/github/forks/sumup-oss/foundry?style=flat-square&color=blue)](https://github.com/sumup-oss/foundry/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for building web applications and libraries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Sumup‑oss Foundry is an open‑source toolkit designed to streamline the dev
 
 ### 中文
 
-sumup-oss/foundry：sumup-oss/foundry helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sumup-oss/foundry：sumup-oss/foundry helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sumup-oss/foundry：sumup-oss/foundry helps ship user-facing interfaces with les
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sumup-oss/foundry：sumup-oss/foundry helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 42/100 |
 | stars | 49/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

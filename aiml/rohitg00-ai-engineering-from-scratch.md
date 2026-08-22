@@ -1,6 +1,6 @@
 # rohitg00/ai-engineering-from-scratch
 
-[![Stars](https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&color=yellow)](https://github.com/rohitg00/ai-engineering-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/ai-engineering-from-scratch?style=flat-square&color=blue)](https://github.com/rohitg00/ai-engineering-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohitg00/ai-engineering-from-scratch?style=flat-square&color=yellow)](https://github.com/rohitg00/ai-engineering-from-scratch/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/ai-engineering-from-scratch?style=flat-square&color=blue)](https://github.com/rohitg00/ai-engineering-from-scratch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Learn it. Build it. Ship it for others.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ rohitg00/ai-engineering-from-scratch：rohitg00/ai-engineering-from-scratch help
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

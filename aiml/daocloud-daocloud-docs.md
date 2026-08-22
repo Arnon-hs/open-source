@@ -1,6 +1,6 @@
 # DaoCloud/DaoCloud-docs
 
-[![Stars](https://img.shields.io/github/stars/DaoCloud/DaoCloud-docs?style=flat-square&color=yellow)](https://github.com/DaoCloud/DaoCloud-docs/stargazers) [![Forks](https://img.shields.io/github/forks/DaoCloud/DaoCloud-docs?style=flat-square&color=blue)](https://github.com/DaoCloud/DaoCloud-docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DaoCloud/DaoCloud-docs?style=flat-square&color=yellow)](https://github.com/DaoCloud/DaoCloud-docs/stargazers) [![Forks](https://img.shields.io/github/forks/DaoCloud/DaoCloud-docs?style=flat-square&color=blue)](https://github.com/DaoCloud/DaoCloud-docs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > DaoCloud Enterprise 5.0 Documentation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 220 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DaoCloud/DaoCloud-docs：DaoCloud/DaoCloud-docs helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 55/100 |
+| production | 54/100 |
+| outlook | 48/100 |
 | adoption | 52/100 |
 | stars | 49/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

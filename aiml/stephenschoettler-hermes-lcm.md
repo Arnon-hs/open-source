@@ -1,6 +1,6 @@
 # stephenschoettler/hermes-lcm
 
-[![Stars](https://img.shields.io/github/stars/stephenschoettler/hermes-lcm?style=flat-square&color=yellow)](https://github.com/stephenschoettler/hermes-lcm/stargazers) [![Forks](https://img.shields.io/github/forks/stephenschoettler/hermes-lcm?style=flat-square&color=blue)](https://github.com/stephenschoettler/hermes-lcm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stephenschoettler/hermes-lcm?style=flat-square&color=yellow)](https://github.com/stephenschoettler/hermes-lcm/stargazers) [![Forks](https://img.shields.io/github/forks/stephenschoettler/hermes-lcm?style=flat-square&color=blue)](https://github.com/stephenschoettler/hermes-lcm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless Context Management plugin for Hermes Agent — DAG-based context engine that never loses a message
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 455 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hermes‑LCM — это плагин lossless context management для He
 
 ### 中文
 
-stephenschoettler/hermes-lcm：stephenschoettler/hermes-lcm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stephenschoettler/hermes-lcm：stephenschoettler/hermes-lcm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stephenschoettler/hermes-lcm：stephenschoettler/hermes-lcm helps add AI capabil
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ stephenschoettler/hermes-lcm：stephenschoettler/hermes-lcm helps add AI capabil
 - updated 2026-05-09
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

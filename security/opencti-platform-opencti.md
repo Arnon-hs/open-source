@@ -1,6 +1,6 @@
 # OpenCTI-Platform/opencti
 
-[![Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=flat-square&color=yellow)](https://github.com/OpenCTI-Platform/opencti/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCTI-Platform/opencti?style=flat-square&color=blue)](https://github.com/OpenCTI-Platform/opencti/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenCTI-Platform/opencti?style=flat-square&color=yellow)](https://github.com/OpenCTI-Platform/opencti/stargazers) [![Forks](https://img.shields.io/github/forks/OpenCTI-Platform/opencti?style=flat-square&color=blue)](https://github.com/OpenCTI-Platform/opencti/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open Cyber Threat Intelligence Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ OpenCTI-Platform/opencti：OpenCTI-Platform/opencti helps catch security and pri
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 83/100 |
 | stars | 84/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

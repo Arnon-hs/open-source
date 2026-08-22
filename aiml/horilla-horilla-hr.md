@@ -1,6 +1,6 @@
 # horilla/horilla-hr
 
-[![Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=flat-square&color=yellow)](https://github.com/horilla/horilla-hr/stargazers) [![Forks](https://img.shields.io/github/forks/horilla/horilla-hr?style=flat-square&color=blue)](https://github.com/horilla/horilla-hr/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=flat-square&color=yellow)](https://github.com/horilla/horilla-hr/stargazers) [![Forks](https://img.shields.io/github/forks/horilla/horilla-hr?style=flat-square&color=blue)](https://github.com/horilla/horilla-hr/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Horilla is a free and open source HR and CRM software.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 801 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ horilla/horilla-hr：horilla/horilla-hr helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 68/100 |
 | stars | 66/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # plctlab/riscv-operating-system-mooc
 
-[![Stars](https://img.shields.io/github/stars/plctlab/riscv-operating-system-mooc?style=flat-square&color=yellow)](https://github.com/plctlab/riscv-operating-system-mooc/stargazers) [![Forks](https://img.shields.io/github/forks/plctlab/riscv-operating-system-mooc?style=flat-square&color=blue)](https://github.com/plctlab/riscv-operating-system-mooc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plctlab/riscv-operating-system-mooc?style=flat-square&color=yellow)](https://github.com/plctlab/riscv-operating-system-mooc/stargazers) [![Forks](https://img.shields.io/github/forks/plctlab/riscv-operating-system-mooc?style=flat-square&color=blue)](https://github.com/plctlab/riscv-operating-system-mooc/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 《从头写一个RISC-V OS》课程配套的资源
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ This repository provides all the supporting materials for the “Write a RISC‑
 
 ### 中文
 
-plctlab/riscv-operating-system-mooc：plctlab/riscv-operating-system-mooc may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+plctlab/riscv-operating-system-mooc：plctlab/riscv-operating-system-mooc may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ plctlab/riscv-operating-system-mooc：plctlab/riscv-operating-system-mooc may be
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ plctlab/riscv-operating-system-mooc：plctlab/riscv-operating-system-mooc may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 64/100 |
 | stars | 65/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

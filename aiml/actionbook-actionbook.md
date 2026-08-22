@@ -1,6 +1,6 @@
 # actionbook/actionbook
 
-[![Stars](https://img.shields.io/github/stars/actionbook/actionbook?style=flat-square&color=yellow)](https://github.com/actionbook/actionbook/stargazers) [![Forks](https://img.shields.io/github/forks/actionbook/actionbook?style=flat-square&color=blue)](https://github.com/actionbook/actionbook/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/actionbook/actionbook?style=flat-square&color=yellow)](https://github.com/actionbook/actionbook/stargazers) [![Forks](https://img.shields.io/github/forks/actionbook/actionbook?style=flat-square&color=blue)](https://github.com/actionbook/actionbook/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Let your AI agent use your browser. Actionbook makes it actually work.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Actionbook is an open‑source library that enables AI agents to interact direct
 
 ### 中文
 
-actionbook/actionbook：actionbook/actionbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+actionbook/actionbook：actionbook/actionbook helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ actionbook/actionbook：actionbook/actionbook helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ actionbook/actionbook：actionbook/actionbook helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 60/100 |
+| production | 46/100 |
+| outlook | 53/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Manavarya09/design-extract
 
-[![Stars](https://img.shields.io/github/stars/Manavarya09/design-extract?style=flat-square&color=yellow)](https://github.com/Manavarya09/design-extract/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/design-extract?style=flat-square&color=blue)](https://github.com/Manavarya09/design-extract/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Manavarya09/design-extract?style=flat-square&color=yellow)](https://github.com/Manavarya09/design-extract/stargazers) [![Forks](https://img.shields.io/github/forks/Manavarya09/design-extract?style=flat-square&color=blue)](https://github.com/Manavarya09/design-extract/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Manavarya09/design-extract：Manavarya09/design-extract helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 94/100 |
-| production | 65/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

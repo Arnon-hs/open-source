@@ -1,6 +1,6 @@
 # jonhadfield/soba
 
-[![Stars](https://img.shields.io/github/stars/jonhadfield/soba?style=flat-square&color=yellow)](https://github.com/jonhadfield/soba/stargazers) [![Forks](https://img.shields.io/github/forks/jonhadfield/soba?style=flat-square&color=blue)](https://github.com/jonhadfield/soba/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonhadfield/soba?style=flat-square&color=yellow)](https://github.com/jonhadfield/soba/stargazers) [![Forks](https://img.shields.io/github/forks/jonhadfield/soba?style=flat-square&color=blue)](https://github.com/jonhadfield/soba/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Automated, encrypted Git repository backups from GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jonhadfield/soba：jonhadfield/soba helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 40/100 |
 | stars | 47/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

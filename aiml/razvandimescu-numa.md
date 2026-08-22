@@ -1,6 +1,6 @@
 # razvandimescu/numa
 
-[![Stars](https://img.shields.io/github/stars/razvandimescu/numa?style=flat-square&color=yellow)](https://github.com/razvandimescu/numa/stargazers) [![Forks](https://img.shields.io/github/forks/razvandimescu/numa?style=flat-square&color=blue)](https://github.com/razvandimescu/numa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/razvandimescu/numa?style=flat-square&color=yellow)](https://github.com/razvandimescu/numa/stargazers) [![Forks](https://img.shields.io/github/forks/razvandimescu/numa?style=flat-square&color=blue)](https://github.com/razvandimescu/numa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 995 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ AI/ML · Backend · DevTools
 
 ### 中文
 
-razvandimescu/numa：razvandimescu/numa helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+razvandimescu/numa：razvandimescu/numa helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ razvandimescu/numa：razvandimescu/numa helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ razvandimescu/numa：razvandimescu/numa helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 48/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 64/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

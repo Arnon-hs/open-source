@@ -1,6 +1,6 @@
 # JuliaPluto/Pluto.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaPluto/Pluto.jl?style=flat-square&color=yellow)](https://github.com/JuliaPluto/Pluto.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaPluto/Pluto.jl?style=flat-square&color=blue)](https://github.com/JuliaPluto/Pluto.jl/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaPluto/Pluto.jl?style=flat-square&color=yellow)](https://github.com/JuliaPluto/Pluto.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaPluto/Pluto.jl?style=flat-square&color=blue)](https://github.com/JuliaPluto/Pluto.jl/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🎈 Simple reactive notebooks for Julia
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 336 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JuliaPluto/Pluto.jl：JuliaPluto/Pluto.jl helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

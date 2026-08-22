@@ -1,6 +1,6 @@
 # apache/gluten
 
-[![Stars](https://img.shields.io/github/stars/apache/gluten?style=flat-square&color=yellow)](https://github.com/apache/gluten/stargazers) [![Forks](https://img.shields.io/github/forks/apache/gluten?style=flat-square&color=blue)](https://github.com/apache/gluten/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/gluten?style=flat-square&color=yellow)](https://github.com/apache/gluten/stargazers) [![Forks](https://img.shields.io/github/forks/apache/gluten?style=flat-square&color=blue)](https://github.com/apache/gluten/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 604 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/gluten：apache/gluten helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 68/100 |
 | stars | 68/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

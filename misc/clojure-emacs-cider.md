@@ -1,6 +1,6 @@
 # clojure-emacs/cider
 
-[![Stars](https://img.shields.io/github/stars/clojure-emacs/cider?style=flat-square&color=yellow)](https://github.com/clojure-emacs/cider/stargazers) [![Forks](https://img.shields.io/github/forks/clojure-emacs/cider?style=flat-square&color=blue)](https://github.com/clojure-emacs/cider/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clojure-emacs/cider?style=flat-square&color=yellow)](https://github.com/clojure-emacs/cider/stargazers) [![Forks](https://img.shields.io/github/forks/clojure-emacs/cider?style=flat-square&color=blue)](https://github.com/clojure-emacs/cider/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Clojure Interactive Development Environment that Rocks for Emacs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 652 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Clojure‑Emacs/CIDER — это мощное интерактивное ок�
 
 ### 中文
 
-clojure-emacs/cider：clojure-emacs/cider may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+clojure-emacs/cider：clojure-emacs/cider may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ clojure-emacs/cider：clojure-emacs/cider may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ clojure-emacs/cider：clojure-emacs/cider may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

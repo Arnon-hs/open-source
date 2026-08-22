@@ -1,6 +1,6 @@
 # pay-rails/pay
 
-[![Stars](https://img.shields.io/github/stars/pay-rails/pay?style=flat-square&color=yellow)](https://github.com/pay-rails/pay/stargazers) [![Forks](https://img.shields.io/github/forks/pay-rails/pay?style=flat-square&color=blue)](https://github.com/pay-rails/pay/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pay-rails/pay?style=flat-square&color=yellow)](https://github.com/pay-rails/pay/stargazers) [![Forks](https://img.shields.io/github/forks/pay-rails/pay?style=flat-square&color=blue)](https://github.com/pay-rails/pay/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Payments for Ruby on Rails apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pay-rails/pay：pay-rails/pay helps integrate monetization, billing, or PSP flow
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

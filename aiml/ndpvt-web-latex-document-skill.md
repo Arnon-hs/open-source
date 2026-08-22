@@ -1,6 +1,6 @@
 # ndpvt-web/latex-document-skill
 
-[![Stars](https://img.shields.io/github/stars/ndpvt-web/latex-document-skill?style=flat-square&color=yellow)](https://github.com/ndpvt-web/latex-document-skill/stargazers) [![Forks](https://img.shields.io/github/forks/ndpvt-web/latex-document-skill?style=flat-square&color=blue)](https://github.com/ndpvt-web/latex-document-skill/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ndpvt-web/latex-document-skill?style=flat-square&color=yellow)](https://github.com/ndpvt-web/latex-document-skill/stargazers) [![Forks](https://img.shields.io/github/forks/ndpvt-web/latex-document-skill?style=flat-square&color=blue)](https://github.com/ndpvt-web/latex-document-skill/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on ✦ HappyCapy AI ✦ platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The **ndpvt-web/latex-document-skill** project provides a universal LaTeX docume
 
 ### 中文
 
-ndpvt-web/latex-document-skill：ndpvt-web/latex-document-skill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ndpvt-web/latex-document-skill：ndpvt-web/latex-document-skill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ ndpvt-web/latex-document-skill：ndpvt-web/latex-document-skill helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,15 +66,15 @@ ndpvt-web/latex-document-skill：ndpvt-web/latex-document-skill helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
+| usefulness | 58/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

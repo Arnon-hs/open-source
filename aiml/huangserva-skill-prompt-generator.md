@@ -1,6 +1,6 @@
 # huangserva/skill-prompt-generator
 
-[![Stars](https://img.shields.io/github/stars/huangserva/skill-prompt-generator?style=flat-square&color=yellow)](https://github.com/huangserva/skill-prompt-generator/stargazers) [![Forks](https://img.shields.io/github/forks/huangserva/skill-prompt-generator?style=flat-square&color=blue)](https://github.com/huangserva/skill-prompt-generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huangserva/skill-prompt-generator?style=flat-square&color=yellow)](https://github.com/huangserva/skill-prompt-generator/stargazers) [![Forks](https://img.shields.io/github/forks/huangserva/skill-prompt-generator?style=flat-square&color=blue)](https://github.com/huangserva/skill-prompt-generator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Open‑source проект **huangserva/skill-prompt-generator** — AI‑сис
 
 ### 中文
 
-huangserva/skill-prompt-generator：huangserva/skill-prompt-generator helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+huangserva/skill-prompt-generator：huangserva/skill-prompt-generator helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ huangserva/skill-prompt-generator：huangserva/skill-prompt-generator helps add 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ huangserva/skill-prompt-generator：huangserva/skill-prompt-generator helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

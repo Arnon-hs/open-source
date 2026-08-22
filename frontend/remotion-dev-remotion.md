@@ -66,14 +66,14 @@ remotion-dev/remotion：remotion-dev/remotion helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| quality | 69/100 |
+| integration | 62/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 96/100 |
 | stars | 99/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

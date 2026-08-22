@@ -1,6 +1,6 @@
 # quodlibet/quodlibet
 
-[![Stars](https://img.shields.io/github/stars/quodlibet/quodlibet?style=flat-square&color=yellow)](https://github.com/quodlibet/quodlibet/stargazers) [![Forks](https://img.shields.io/github/forks/quodlibet/quodlibet?style=flat-square&color=blue)](https://github.com/quodlibet/quodlibet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quodlibet/quodlibet?style=flat-square&color=yellow)](https://github.com/quodlibet/quodlibet/stargazers) [![Forks](https://img.shields.io/github/forks/quodlibet/quodlibet?style=flat-square&color=blue)](https://github.com/quodlibet/quodlibet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Music player and music library manager for Linux, Windows, and macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Quod Libet — это кроссплатформенный аудиоплее�
 
 ### 中文
 
-quodlibet/quodlibet：quodlibet/quodlibet may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+quodlibet/quodlibet：quodlibet/quodlibet may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ quodlibet/quodlibet：quodlibet/quodlibet may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ quodlibet/quodlibet：quodlibet/quodlibet may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

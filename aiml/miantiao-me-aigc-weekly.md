@@ -1,6 +1,6 @@
 # miantiao-me/aigc-weekly
 
-[![Stars](https://img.shields.io/github/stars/miantiao-me/aigc-weekly?style=flat-square&color=yellow)](https://github.com/miantiao-me/aigc-weekly/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/aigc-weekly?style=flat-square&color=blue)](https://github.com/miantiao-me/aigc-weekly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miantiao-me/aigc-weekly?style=flat-square&color=yellow)](https://github.com/miantiao-me/aigc-weekly/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/aigc-weekly?style=flat-square&color=blue)](https://github.com/miantiao-me/aigc-weekly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Agili 的 AIGC 周刊 - 一个由 Agentic AI Agent 驱动的 AIGC（人工智能生成内容）精选周刊。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ miantiao‑me/aigc‑weekly is an open‑source, AI‑driven newsletter that cur
 
 ### 中文
 
-miantiao-me/aigc-weekly：miantiao-me/aigc-weekly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+miantiao-me/aigc-weekly：miantiao-me/aigc-weekly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ miantiao-me/aigc-weekly：miantiao-me/aigc-weekly helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ miantiao-me/aigc-weekly：miantiao-me/aigc-weekly helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

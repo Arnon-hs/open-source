@@ -1,6 +1,6 @@
 # libarchive/libarchive
 
-[![Stars](https://img.shields.io/github/stars/libarchive/libarchive?style=flat-square&color=yellow)](https://github.com/libarchive/libarchive/stargazers) [![Forks](https://img.shields.io/github/forks/libarchive/libarchive?style=flat-square&color=blue)](https://github.com/libarchive/libarchive/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libarchive/libarchive?style=flat-square&color=yellow)](https://github.com/libarchive/libarchive/stargazers) [![Forks](https://img.shields.io/github/forks/libarchive/libarchive?style=flat-square&color=blue)](https://github.com/libarchive/libarchive/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-format archive and compression library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 926 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ libarchive/libarchive：libarchive/libarchive may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

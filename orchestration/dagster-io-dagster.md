@@ -1,6 +1,6 @@
 # dagster-io/dagster
 
-[![Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&color=yellow)](https://github.com/dagster-io/dagster/stargazers) [![Forks](https://img.shields.io/github/forks/dagster-io/dagster?style=flat-square&color=blue)](https://github.com/dagster-io/dagster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&color=yellow)](https://github.com/dagster-io/dagster/stargazers) [![Forks](https://img.shields.io/github/forks/dagster-io/dagster?style=flat-square&color=blue)](https://github.com/dagster-io/dagster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > An orchestration platform for the development, production, and observation of data assets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.4k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dagster-io/dagster：dagster-io/dagster helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 74/100 |
+| production | 55/100 |
+| outlook | 67/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

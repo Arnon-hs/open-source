@@ -1,6 +1,6 @@
 # abhigyanpatwari/GitNexus
 
-[![Stars](https://img.shields.io/github/stars/abhigyanpatwari/GitNexus?style=flat-square&color=yellow)](https://github.com/abhigyanpatwari/GitNexus/stargazers) [![Forks](https://img.shields.io/github/forks/abhigyanpatwari/GitNexus?style=flat-square&color=blue)](https://github.com/abhigyanpatwari/GitNexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abhigyanpatwari/GitNexus?style=flat-square&color=yellow)](https://github.com/abhigyanpatwari/GitNexus/stargazers) [![Forks](https://img.shields.io/github/forks/abhigyanpatwari/GitNexus?style=flat-square&color=blue)](https://github.com/abhigyanpatwari/GitNexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.6k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ abhigyanpatwari/GitNexus：abhigyanpatwari/GitNexus helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 59/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

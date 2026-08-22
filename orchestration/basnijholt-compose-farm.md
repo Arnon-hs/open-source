@@ -1,6 +1,6 @@
 # basnijholt/compose-farm
 
-[![Stars](https://img.shields.io/github/stars/basnijholt/compose-farm?style=flat-square&color=yellow)](https://github.com/basnijholt/compose-farm/stargazers) [![Forks](https://img.shields.io/github/forks/basnijholt/compose-farm?style=flat-square&color=blue)](https://github.com/basnijholt/compose-farm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basnijholt/compose-farm?style=flat-square&color=yellow)](https://github.com/basnijholt/compose-farm/stargazers) [![Forks](https://img.shields.io/github/forks/basnijholt/compose-farm?style=flat-square&color=blue)](https://github.com/basnijholt/compose-farm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Compose Farm - run docker compose commands across multiple hosts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ basnijholt/compose-farm：basnijholt/compose-farm helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 41/100 |
 | stars | 53/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

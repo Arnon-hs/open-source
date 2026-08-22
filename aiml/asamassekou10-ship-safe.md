@@ -1,6 +1,6 @@
 # asamassekou10/ship-safe
 
-[![Stars](https://img.shields.io/github/stars/asamassekou10/ship-safe?style=flat-square&color=yellow)](https://github.com/asamassekou10/ship-safe/stargazers) [![Forks](https://img.shields.io/github/forks/asamassekou10/ship-safe?style=flat-square&color=blue)](https://github.com/asamassekou10/ship-safe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/asamassekou10/ship-safe?style=flat-square&color=yellow)](https://github.com/asamassekou10/ship-safe/stargazers) [![Forks](https://img.shields.io/github/forks/asamassekou10/ship-safe?style=flat-square&color=blue)](https://github.com/asamassekou10/ship-safe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 693 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ asamassekou10/ship-safe：asamassekou10/ship-safe helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 57/100 |
 | stars | 60/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

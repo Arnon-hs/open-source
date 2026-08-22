@@ -1,6 +1,6 @@
 # SynkraAI/aiox-core
 
-[![Stars](https://img.shields.io/github/stars/SynkraAI/aiox-core?style=flat-square&color=yellow)](https://github.com/SynkraAI/aiox-core/stargazers) [![Forks](https://img.shields.io/github/forks/SynkraAI/aiox-core?style=flat-square&color=blue)](https://github.com/SynkraAI/aiox-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SynkraAI/aiox-core?style=flat-square&color=yellow)](https://github.com/SynkraAI/aiox-core/stargazers) [![Forks](https://img.shields.io/github/forks/SynkraAI/aiox-core?style=flat-square&color=blue)](https://github.com/SynkraAI/aiox-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 931 |
+| ⭐ **Stars** | 2.8k |
+| 🍴 **Forks** | 895 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Mobile
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-SynkraAI/aiox-core: SynkraAI/aiox-core helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SynkraAI/aiox-core: SynkraAI/aiox-core helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-SynkraAI/aiox-core: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools, Mobile. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+SynkraAI/aiox-core: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-SynkraAI/aiox-core：SynkraAI/aiox-core helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+SynkraAI/aiox-core：SynkraAI/aiox-core helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ SynkraAI/aiox-core：SynkraAI/aiox-core helps turn isolated prompts and tools in
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 3031 GitHub stars
-- 931 forks
-- updated 2026-07-11
+- 2815 GitHub stars
+- 895 forks
+- updated 2026-05-07
 - primary language: JavaScript
 - 12 topics
 
@@ -66,17 +66,17 @@ SynkraAI/aiox-core：SynkraAI/aiox-core helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 88/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 82/100 |
-| outlook | 94/100 |
+| production | 55/100 |
+| outlook | 65/100 |
 | adoption | 74/100 |
-| stars | 74/100 |
+| stars | 73/100 |
 | forks | 74/100 |
-| recency | 100/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/SynkraAI/aiox-core) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/SynkraAI/aiox-core) · [← Back to Orchestration](./README.md)</sub>

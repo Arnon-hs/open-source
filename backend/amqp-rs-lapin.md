@@ -1,6 +1,6 @@
 # amqp-rs/lapin
 
-[![Stars](https://img.shields.io/github/stars/amqp-rs/lapin?style=flat-square&color=yellow)](https://github.com/amqp-rs/lapin/stargazers) [![Forks](https://img.shields.io/github/forks/amqp-rs/lapin?style=flat-square&color=blue)](https://github.com/amqp-rs/lapin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amqp-rs/lapin?style=flat-square&color=yellow)](https://github.com/amqp-rs/lapin/stargazers) [![Forks](https://img.shields.io/github/forks/amqp-rs/lapin?style=flat-square&color=blue)](https://github.com/amqp-rs/lapin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AMQP client library in Rust, with a clean, futures based API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ amqp-rs/lapin：amqp-rs/lapin helps teams reuse service infrastructure instead o
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 62/100 |
 | stars | 66/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

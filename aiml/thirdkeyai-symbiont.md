@@ -1,6 +1,6 @@
 # ThirdKeyAI/Symbiont
 
-[![Stars](https://img.shields.io/github/stars/ThirdKeyAI/Symbiont?style=flat-square&color=yellow)](https://github.com/ThirdKeyAI/Symbiont/stargazers) [![Forks](https://img.shields.io/github/forks/ThirdKeyAI/Symbiont?style=flat-square&color=blue)](https://github.com/ThirdKeyAI/Symbiont/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThirdKeyAI/Symbiont?style=flat-square&color=yellow)](https://github.com/ThirdKeyAI/Symbiont/stargazers) [![Forks](https://img.shields.io/github/forks/ThirdKeyAI/Symbiont?style=flat-square&color=blue)](https://github.com/ThirdKeyAI/Symbiont/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-native runtime for executing AI agents and tools under explicit policy, identity, and audit controls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ThirdKeyAI / Symbiont is a Rust‑native runtime that enables the safe execu
 
 ### 中文
 
-ThirdKeyAI/Symbiont：ThirdKeyAI/Symbiont helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ThirdKeyAI/Symbiont：ThirdKeyAI/Symbiont helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ThirdKeyAI/Symbiont：ThirdKeyAI/Symbiont helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ThirdKeyAI/Symbiont：ThirdKeyAI/Symbiont helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 60/100 |
+| production | 44/100 |
+| outlook | 53/100 |
 | adoption | 32/100 |
 | stars | 35/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

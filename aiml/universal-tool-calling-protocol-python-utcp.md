@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/python-utcp
 
-[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/python-utcp?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/python-utcp/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/python-utcp?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/python-utcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/python-utcp?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/python-utcp/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/python-utcp?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/python-utcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Official python implementation of UTCP. UTCP is an open standard that lets AI agents call any API directly, without extra middleware.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 642 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ universal-tool-calling-protocol/python-utcp：universal-tool-calling-protocol/py
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

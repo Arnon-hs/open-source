@@ -1,6 +1,6 @@
 # jagmarques/asqav-sdk
 
-[![Stars](https://img.shields.io/github/stars/jagmarques/asqav-sdk?style=flat-square&color=yellow)](https://github.com/jagmarques/asqav-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/jagmarques/asqav-sdk?style=flat-square&color=blue)](https://github.com/jagmarques/asqav-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jagmarques/asqav-sdk?style=flat-square&color=yellow)](https://github.com/jagmarques/asqav-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/jagmarques/asqav-sdk?style=flat-square&color=blue)](https://github.com/jagmarques/asqav-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for AI agent governance - audit trails, policy enforcement, quantum-safe signatures. Works with LangChain, CrewAI, MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jagmarques/asqav-sdk：jagmarques/asqav-sdk helps research and automate market w
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

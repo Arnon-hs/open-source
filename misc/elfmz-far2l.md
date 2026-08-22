@@ -1,6 +1,6 @@
 # elfmz/far2l
 
-[![Stars](https://img.shields.io/github/stars/elfmz/far2l?style=flat-square&color=yellow)](https://github.com/elfmz/far2l/stargazers) [![Forks](https://img.shields.io/github/forks/elfmz/far2l?style=flat-square&color=blue)](https://github.com/elfmz/far2l/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elfmz/far2l?style=flat-square&color=yellow)](https://github.com/elfmz/far2l/stargazers) [![Forks](https://img.shields.io/github/forks/elfmz/far2l?style=flat-square&color=blue)](https://github.com/elfmz/far2l/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Linux port of FAR v2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ far2l (elfmz/far2l) is an open‑source, Linux‑compatible reimplementation of 
 
 ### 中文
 
-elfmz/far2l：elfmz/far2l may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+elfmz/far2l：elfmz/far2l may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ elfmz/far2l：elfmz/far2l may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ elfmz/far2l：elfmz/far2l may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

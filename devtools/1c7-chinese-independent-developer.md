@@ -1,6 +1,6 @@
 # 1c7/chinese-independent-developer
 
-[![Stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=flat-square&color=yellow)](https://github.com/1c7/chinese-independent-developer/stargazers) [![Forks](https://img.shields.io/github/forks/1c7/chinese-independent-developer?style=flat-square&color=blue)](https://github.com/1c7/chinese-independent-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1c7/chinese-independent-developer?style=flat-square&color=yellow)](https://github.com/1c7/chinese-independent-developer/stargazers) [![Forks](https://img.shields.io/github/forks/1c7/chinese-independent-developer?style=flat-square&color=blue)](https://github.com/1c7/chinese-independent-developer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48.4k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ The **1c7/chinese-independent-developer** repository is a curated, community‑m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 97/100 |
 | stars | 100/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

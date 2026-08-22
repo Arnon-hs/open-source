@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-cli-apps
 
-[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-awesome-cli-apps?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-awesome-cli-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-awesome-cli-apps?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-awesome-cli-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-awesome-cli-apps?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-awesome-cli-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-awesome-cli-apps?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-awesome-cli-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A curated collection of standout command‑line applications, featuring real‑t
 
 ### 中文
 
-Correia-jpv/fucking-awesome-cli-apps：Correia-jpv/fucking-awesome-cli-apps helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Correia-jpv/fucking-awesome-cli-apps：Correia-jpv/fucking-awesome-cli-apps helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Correia-jpv/fucking-awesome-cli-apps：Correia-jpv/fucking-awesome-cli-apps help
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Correia-jpv/fucking-awesome-cli-apps：Correia-jpv/fucking-awesome-cli-apps help
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 46/100 |
+| outlook | 50/100 |
 | adoption | 32/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

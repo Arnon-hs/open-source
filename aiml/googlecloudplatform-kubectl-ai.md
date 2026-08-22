@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/kubectl-ai
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/kubectl-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/kubectl-ai?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/kubectl-ai/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI powered Kubernetes Assistant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 696 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ GoogleCloudPlatform/kubectl-ai：GoogleCloudPlatform/kubectl-ai helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 79/100 |
 | stars | 82/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

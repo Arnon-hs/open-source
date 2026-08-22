@@ -1,6 +1,6 @@
 # z2586300277/three-cesium-examples
 
-[![Stars](https://img.shields.io/github/stars/z2586300277/three-cesium-examples?style=flat-square&color=yellow)](https://github.com/z2586300277/three-cesium-examples/stargazers) [![Forks](https://img.shields.io/github/forks/z2586300277/three-cesium-examples?style=flat-square&color=blue)](https://github.com/z2586300277/three-cesium-examples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/z2586300277/three-cesium-examples?style=flat-square&color=yellow)](https://github.com/z2586300277/three-cesium-examples/stargazers) [![Forks](https://img.shields.io/github/forks/z2586300277/three-cesium-examples?style=flat-square&color=blue)](https://github.com/z2586300277/three-cesium-examples/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > WebGL Three.js Cesium.js Examples And Demo - WebGL 的 Three.js 和 Cesium.js 案例 --- Star ---点星星
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **three‑cesium‑examples** repository showcases a collection of WebGL dem
 
 ### 中文
 
-z2586300277/three-cesium-examples：z2586300277/three-cesium-examples may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+z2586300277/three-cesium-examples：z2586300277/three-cesium-examples may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ z2586300277/three-cesium-examples：z2586300277/three-cesium-examples may be use
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ z2586300277/three-cesium-examples：z2586300277/three-cesium-examples may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 68/100 |
 | stars | 70/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

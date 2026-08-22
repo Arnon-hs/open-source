@@ -1,6 +1,6 @@
 # clap-rs/clap
 
-[![Stars](https://img.shields.io/github/stars/clap-rs/clap?style=flat-square&color=yellow)](https://github.com/clap-rs/clap/stargazers) [![Forks](https://img.shields.io/github/forks/clap-rs/clap?style=flat-square&color=blue)](https://github.com/clap-rs/clap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clap-rs/clap?style=flat-square&color=yellow)](https://github.com/clap-rs/clap/stargazers) [![Forks](https://img.shields.io/github/forks/clap-rs/clap?style=flat-square&color=blue)](https://github.com/clap-rs/clap/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A full featured, fast Command Line Argument Parser for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ clap-rs/clap：clap-rs/clap may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 86/100 |
 | stars | 90/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

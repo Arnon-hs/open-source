@@ -1,6 +1,6 @@
 # madnuttah/unbound-docker
 
-[![Stars](https://img.shields.io/github/stars/madnuttah/unbound-docker?style=flat-square&color=yellow)](https://github.com/madnuttah/unbound-docker/stargazers) [![Forks](https://img.shields.io/github/forks/madnuttah/unbound-docker?style=flat-square&color=blue)](https://github.com/madnuttah/unbound-docker/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/madnuttah/unbound-docker?style=flat-square&color=yellow)](https://github.com/madnuttah/unbound-docker/stargazers) [![Forks](https://img.shields.io/github/forks/madnuttah/unbound-docker?style=flat-square&color=blue)](https://github.com/madnuttah/unbound-docker/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🛡️ This distroless Unbound Docker image is based on Alpine Linux with focus on security, privacy, performance and a small image size. And with Pi-hole in mind.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **madnuttah/unbound-docker** project provides a minimal, distroless Docker i
 
 ### 中文
 
-madnuttah/unbound-docker：madnuttah/unbound-docker helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+madnuttah/unbound-docker：madnuttah/unbound-docker helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ madnuttah/unbound-docker：madnuttah/unbound-docker helps ship user-facing inter
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ madnuttah/unbound-docker：madnuttah/unbound-docker helps ship user-facing inter
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

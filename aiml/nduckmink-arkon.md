@@ -1,6 +1,6 @@
 # nduckmink/arkon
 
-[![Stars](https://img.shields.io/github/stars/nduckmink/arkon?style=flat-square&color=yellow)](https://github.com/nduckmink/arkon/stargazers) [![Forks](https://img.shields.io/github/forks/nduckmink/arkon?style=flat-square&color=blue)](https://github.com/nduckmink/arkon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nduckmink/arkon?style=flat-square&color=yellow)](https://github.com/nduckmink/arkon/stargazers) [![Forks](https://img.shields.io/github/forks/nduckmink/arkon?style=flat-square&color=blue)](https://github.com/nduckmink/arkon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Arkon gives organizations centralized control over how employees use any Ai Client. Admins manage resources, access policies, and workspace contexts from a single portal. Employees connect once via the Model Context Protocol (MCP) and get the right context automatically.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nduckmink/arkon：nduckmink/arkon helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 44/100 |
 | stars | 45/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

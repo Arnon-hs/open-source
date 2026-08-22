@@ -1,6 +1,6 @@
 # CFPAOrg/Minecraft-Mod-Language-Package
 
-[![Stars](https://img.shields.io/github/stars/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=yellow)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/stargazers) [![Forks](https://img.shields.io/github/forks/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=blue)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=yellow)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/stargazers) [![Forks](https://img.shields.io/github/forks/CFPAOrg/Minecraft-Mod-Language-Package?style=flat-square&color=blue)](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A language package for Minecraft Mods.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CFPAOrg/Minecraft-Mod-Language-Package — это открытый пакет 
 
 ### 中文
 
-CFPAOrg/Minecraft-Mod-Language-Package：CFPAOrg/Minecraft-Mod-Language-Package may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CFPAOrg/Minecraft-Mod-Language-Package：CFPAOrg/Minecraft-Mod-Language-Package may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ CFPAOrg/Minecraft-Mod-Language-Package：CFPAOrg/Minecraft-Mod-Language-Package 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ CFPAOrg/Minecraft-Mod-Language-Package：CFPAOrg/Minecraft-Mod-Language-Package 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 68/100 |
 | stars | 65/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

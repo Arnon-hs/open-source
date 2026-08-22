@@ -1,6 +1,6 @@
 # modular/modular
 
-[![Stars](https://img.shields.io/github/stars/modular/modular?style=flat-square&color=yellow)](https://github.com/modular/modular/stargazers) [![Forks](https://img.shields.io/github/forks/modular/modular?style=flat-square&color=blue)](https://github.com/modular/modular/network) [![Language](https://img.shields.io/badge/lang-Mojo-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modular/modular?style=flat-square&color=yellow)](https://github.com/modular/modular/stargazers) [![Forks](https://img.shields.io/github/forks/modular/modular?style=flat-square&color=blue)](https://github.com/modular/modular/network) [![Language](https://img.shields.io/badge/lang-Mojo-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Modular Platform (includes MAX & Mojo)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Mojo |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ modular/modular：modular/modular helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mem0ai/mem0
 
-[![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&color=yellow)](https://github.com/mem0ai/mem0/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&color=blue)](https://github.com/mem0ai/mem0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&color=yellow)](https://github.com/mem0ai/mem0/stargazers) [![Forks](https://img.shields.io/github/forks/mem0ai/mem0?style=flat-square&color=blue)](https://github.com/mem0ai/mem0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Universal memory layer for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55k |
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mem0ai/mem0：mem0ai/mem0 helps turn isolated prompts and tools into repeatable 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 73/100 |
+| production | 57/100 |
+| outlook | 66/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

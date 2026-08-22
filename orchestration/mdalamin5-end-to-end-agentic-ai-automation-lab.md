@@ -1,6 +1,6 @@
 # MDalamin5/End-to-End-Agentic-Ai-Automation-Lab
 
-[![Stars](https://img.shields.io/github/stars/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab?style=flat-square&color=yellow)](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab/stargazers) [![Forks](https://img.shields.io/github/forks/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab?style=flat-square&color=blue)](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab?style=flat-square&color=yellow)](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab/stargazers) [![Forks](https://img.shields.io/github/forks/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab?style=flat-square&color=blue)](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains hands-on projects, code examples, and deployment workflows. Explore multi-agent systems, LangChain, LangGraph, AutoGen, CrewAI, RAG, MCP, automation with n8n, and scalable agent deployment using Docker, AWS, and BentoML.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MDalamin5/End-to-End-Agentic-Ai-Automation-Lab：MDalamin5/End-to-End-Agentic-Ai
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 52/100 |
+| outlook | 57/100 |
 | adoption | 39/100 |
 | stars | 39/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

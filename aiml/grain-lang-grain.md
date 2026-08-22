@@ -1,6 +1,6 @@
 # grain-lang/grain
 
-[![Stars](https://img.shields.io/github/stars/grain-lang/grain?style=flat-square&color=yellow)](https://github.com/grain-lang/grain/stargazers) [![Forks](https://img.shields.io/github/forks/grain-lang/grain?style=flat-square&color=blue)](https://github.com/grain-lang/grain/network) [![Language](https://img.shields.io/badge/lang-Reason-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grain-lang/grain?style=flat-square&color=yellow)](https://github.com/grain-lang/grain/stargazers) [![Forks](https://img.shields.io/github/forks/grain-lang/grain?style=flat-square&color=blue)](https://github.com/grain-lang/grain/network) [![Language](https://img.shields.io/badge/lang-Reason-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Reason |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ grain-lang/grain：grain-lang/grain helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

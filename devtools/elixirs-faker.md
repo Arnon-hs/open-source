@@ -1,6 +1,6 @@
 # elixirs/faker
 
-[![Stars](https://img.shields.io/github/stars/elixirs/faker?style=flat-square&color=yellow)](https://github.com/elixirs/faker/stargazers) [![Forks](https://img.shields.io/github/forks/elixirs/faker?style=flat-square&color=blue)](https://github.com/elixirs/faker/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elixirs/faker?style=flat-square&color=yellow)](https://github.com/elixirs/faker/stargazers) [![Forks](https://img.shields.io/github/forks/elixirs/faker?style=flat-square&color=blue)](https://github.com/elixirs/faker/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Faker is a pure Elixir library for generating fake data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Faker is a pure Elixir library designed to generate realistic, random data for t
 
 ### 中文
 
-elixirs/faker：elixirs/faker helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+elixirs/faker：elixirs/faker helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ elixirs/faker：elixirs/faker helps engineers save time in daily development and
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ elixirs/faker：elixirs/faker helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 49/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 65/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

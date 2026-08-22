@@ -1,6 +1,6 @@
 # apache/opendal
 
-[![Stars](https://img.shields.io/github/stars/apache/opendal?style=flat-square&color=yellow)](https://github.com/apache/opendal/stargazers) [![Forks](https://img.shields.io/github/forks/apache/opendal?style=flat-square&color=blue)](https://github.com/apache/opendal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/opendal?style=flat-square&color=yellow)](https://github.com/apache/opendal/stargazers) [![Forks](https://img.shields.io/github/forks/apache/opendal?style=flat-square&color=blue)](https://github.com/apache/opendal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Apache OpenDAL: One Layer, All Storage.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 743 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ apache/opendal：apache/opendal helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

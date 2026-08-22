@@ -1,6 +1,6 @@
 # near/nearcore
 
-[![Stars](https://img.shields.io/github/stars/near/nearcore?style=flat-square&color=yellow)](https://github.com/near/nearcore/stargazers) [![Forks](https://img.shields.io/github/forks/near/nearcore?style=flat-square&color=blue)](https://github.com/near/nearcore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/near/nearcore?style=flat-square&color=yellow)](https://github.com/near/nearcore/stargazers) [![Forks](https://img.shields.io/github/forks/near/nearcore?style=flat-square&color=blue)](https://github.com/near/nearcore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Reference client for NEAR Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ near/nearcore：near/nearcore helps prototype or inspect blockchain workflows wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

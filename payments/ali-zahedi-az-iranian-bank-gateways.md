@@ -1,6 +1,6 @@
 # ali-zahedi/az-iranian-bank-gateways
 
-[![Stars](https://img.shields.io/github/stars/ali-zahedi/az-iranian-bank-gateways?style=flat-square&color=yellow)](https://github.com/ali-zahedi/az-iranian-bank-gateways/stargazers) [![Forks](https://img.shields.io/github/forks/ali-zahedi/az-iranian-bank-gateways?style=flat-square&color=blue)](https://github.com/ali-zahedi/az-iranian-bank-gateways/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ali-zahedi/az-iranian-bank-gateways?style=flat-square&color=yellow)](https://github.com/ali-zahedi/az-iranian-bank-gateways/stargazers) [![Forks](https://img.shields.io/github/forks/ali-zahedi/az-iranian-bank-gateways?style=flat-square&color=blue)](https://github.com/ali-zahedi/az-iranian-bank-gateways/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > درگاه اتصال به بانک های ایرانی ( درگاه پرداخت بانک ملی ایران،بانک سامان، بانک ملت، درگاه پرداخت زرین پال و ... ) با استفاده از پایتون
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ali-zahedi/az-iranian-bank-gateways：ali-zahedi/az-iranian-bank-gateways helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 57/100 |
 | stars | 59/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

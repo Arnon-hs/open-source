@@ -1,6 +1,6 @@
 # netresearch/jira-skill
 
-[![Stars](https://img.shields.io/github/stars/netresearch/jira-skill?style=flat-square&color=yellow)](https://github.com/netresearch/jira-skill/stargazers) [![Forks](https://img.shields.io/github/forks/netresearch/jira-skill?style=flat-square&color=blue)](https://github.com/netresearch/jira-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netresearch/jira-skill?style=flat-square&color=yellow)](https://github.com/netresearch/jira-skill/stargazers) [![Forks](https://img.shields.io/github/forks/netresearch/jira-skill?style=flat-square&color=blue)](https://github.com/netresearch/jira-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent plugin for Jira — CLI tools for issues, worklogs, sprints, and more | Server/DC & Cloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ netresearch/jira-skill：netresearch/jira-skill helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 94/100 |
-| production | 60/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 35/100 |
 | stars | 36/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

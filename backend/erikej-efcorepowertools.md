@@ -1,6 +1,6 @@
 # ErikEJ/EFCorePowerTools
 
-[![Stars](https://img.shields.io/github/stars/ErikEJ/EFCorePowerTools?style=flat-square&color=yellow)](https://github.com/ErikEJ/EFCorePowerTools/stargazers) [![Forks](https://img.shields.io/github/forks/ErikEJ/EFCorePowerTools?style=flat-square&color=blue)](https://github.com/ErikEJ/EFCorePowerTools/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ErikEJ/EFCorePowerTools?style=flat-square&color=yellow)](https://github.com/ErikEJ/EFCorePowerTools/stargazers) [![Forks](https://img.shields.io/github/forks/ErikEJ/EFCorePowerTools?style=flat-square&color=blue)](https://github.com/ErikEJ/EFCorePowerTools/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 337 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ErikEJ/EFCorePowerTools：ErikEJ/EFCorePowerTools helps teams reuse service infr
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 70/100 |
 | stars | 72/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

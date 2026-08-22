@@ -1,6 +1,6 @@
 # OTT-Cybersecurity-LLC/lyrie-ai
 
-[![Stars](https://img.shields.io/github/stars/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=yellow)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/stargazers) [![Forks](https://img.shields.io/github/forks/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=blue)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=yellow)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/stargazers) [![Forks](https://img.shields.io/github/forks/OTT-Cybersecurity-LLC/lyrie-ai?style=flat-square&color=blue)](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Lyrie.ai — The world's first autonomous AI cybersecurity agent. Built by OTT Cybersecurity LLC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lyrie.ai — первый в мире автономный AI‑агент д�
 
 ### 中文
 
-OTT-Cybersecurity-LLC/lyrie-ai：OTT-Cybersecurity-LLC/lyrie-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OTT-Cybersecurity-LLC/lyrie-ai：OTT-Cybersecurity-LLC/lyrie-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OTT-Cybersecurity-LLC/lyrie-ai：OTT-Cybersecurity-LLC/lyrie-ai helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OTT-Cybersecurity-LLC/lyrie-ai：OTT-Cybersecurity-LLC/lyrie-ai helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

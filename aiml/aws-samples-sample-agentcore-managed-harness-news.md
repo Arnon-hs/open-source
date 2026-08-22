@@ -1,6 +1,6 @@
 # aws-samples/sample-AgentCore-Managed-Harness-News
 
-[![Stars](https://img.shields.io/github/stars/aws-samples/sample-AgentCore-Managed-Harness-News?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-AgentCore-Managed-Harness-News/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-AgentCore-Managed-Harness-News?style=flat-square&color=blue)](https://github.com/aws-samples/sample-AgentCore-Managed-Harness-News/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-samples/sample-AgentCore-Managed-Harness-News?style=flat-square&color=yellow)](https://github.com/aws-samples/sample-AgentCore-Managed-Harness-News/stargazers) [![Forks](https://img.shields.io/github/forks/aws-samples/sample-AgentCore-Managed-Harness-News?style=flat-square&color=blue)](https://github.com/aws-samples/sample-AgentCore-Managed-Harness-News/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag ai): Build Your Own AI Butler - A Scheduled Agent That Runs Itself!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ Build Your Own AI Butler - A Scheduled Agent That Runs Itself!：Build Your Own 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 30/100 |
-| production | 39/100 |
-| outlook | 39/100 |
+| production | 32/100 |
+| outlook | 32/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

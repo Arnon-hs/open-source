@@ -1,6 +1,6 @@
 # martosaur/instructor_lite
 
-[![Stars](https://img.shields.io/github/stars/martosaur/instructor_lite?style=flat-square&color=yellow)](https://github.com/martosaur/instructor_lite/stargazers) [![Forks](https://img.shields.io/github/forks/martosaur/instructor_lite?style=flat-square&color=blue)](https://github.com/martosaur/instructor_lite/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martosaur/instructor_lite?style=flat-square&color=yellow)](https://github.com/martosaur/instructor_lite/stargazers) [![Forks](https://img.shields.io/github/forks/martosaur/instructor_lite?style=flat-square&color=blue)](https://github.com/martosaur/instructor_lite/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Structured outputs for LLMs in Elixir
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ martosaur/instructor_lite：martosaur/instructor_lite helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 43/100 |
+| outlook | 42/100 |
 | adoption | 41/100 |
 | stars | 45/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

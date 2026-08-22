@@ -1,6 +1,6 @@
 # alinaqi/claude-bootstrap
 
-[![Stars](https://img.shields.io/github/stars/alinaqi/claude-bootstrap?style=flat-square&color=yellow)](https://github.com/alinaqi/claude-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/alinaqi/claude-bootstrap?style=flat-square&color=blue)](https://github.com/alinaqi/claude-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alinaqi/claude-bootstrap?style=flat-square&color=yellow)](https://github.com/alinaqi/claude-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/alinaqi/claude-bootstrap?style=flat-square&color=blue)](https://github.com/alinaqi/claude-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated project initialization for Claude Code. Security-first, spec-driven, AI-native.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 607 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alinaqi/claude-bootstrap：alinaqi/claude-bootstrap helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

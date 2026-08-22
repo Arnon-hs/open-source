@@ -1,6 +1,6 @@
 # JimmXinu/FanFicFare
 
-[![Stars](https://img.shields.io/github/stars/JimmXinu/FanFicFare?style=flat-square&color=yellow)](https://github.com/JimmXinu/FanFicFare/stargazers) [![Forks](https://img.shields.io/github/forks/JimmXinu/FanFicFare?style=flat-square&color=blue)](https://github.com/JimmXinu/FanFicFare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JimmXinu/FanFicFare?style=flat-square&color=yellow)](https://github.com/JimmXinu/FanFicFare/stargazers) [![Forks](https://img.shields.io/github/forks/JimmXinu/FanFicFare?style=flat-square&color=blue)](https://github.com/JimmXinu/FanFicFare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ JimmXinu/FanFicFare：JimmXinu/FanFicFare helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 62/100 |
 | stars | 64/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

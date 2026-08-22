@@ -1,6 +1,6 @@
 # coleam00/Archon
 
-[![Stars](https://img.shields.io/github/stars/coleam00/Archon?style=flat-square&color=yellow)](https://github.com/coleam00/Archon/stargazers) [![Forks](https://img.shields.io/github/forks/coleam00/Archon?style=flat-square&color=blue)](https://github.com/coleam00/Archon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coleam00/Archon?style=flat-square&color=yellow)](https://github.com/coleam00/Archon/stargazers) [![Forks](https://img.shields.io/github/forks/coleam00/Archon?style=flat-square&color=blue)](https://github.com/coleam00/Archon/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ coleam00/Archon：coleam00/Archon helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 77/100 |
+| production | 58/100 |
+| outlook | 70/100 |
 | adoption | 91/100 |
 | stars | 92/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

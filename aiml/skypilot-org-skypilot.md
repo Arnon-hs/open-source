@@ -1,6 +1,6 @@
 # skypilot-org/skypilot
 
-[![Stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=flat-square&color=yellow)](https://github.com/skypilot-org/skypilot/stargazers) [![Forks](https://img.shields.io/github/forks/skypilot-org/skypilot?style=flat-square&color=blue)](https://github.com/skypilot-org/skypilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skypilot-org/skypilot?style=flat-square&color=yellow)](https://github.com/skypilot-org/skypilot/stargazers) [![Forks](https://img.shields.io/github/forks/skypilot-org/skypilot?style=flat-square&color=blue)](https://github.com/skypilot-org/skypilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ skypilot-org/skypilot：skypilot-org/skypilot helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 82/100 |
 | stars | 85/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

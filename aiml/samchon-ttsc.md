@@ -1,6 +1,6 @@
 # samchon/ttsc
 
-[![Stars](https://img.shields.io/github/stars/samchon/ttsc?style=flat-square&color=yellow)](https://github.com/samchon/ttsc/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/ttsc?style=flat-square&color=blue)](https://github.com/samchon/ttsc/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samchon/ttsc?style=flat-square&color=yellow)](https://github.com/samchon/ttsc/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/ttsc?style=flat-square&color=blue)](https://github.com/samchon/ttsc/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag programming): VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-04 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once：VR Coding for
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 30/100 |
-| production | 39/100 |
-| outlook | 42/100 |
+| production | 32/100 |
+| outlook | 35/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

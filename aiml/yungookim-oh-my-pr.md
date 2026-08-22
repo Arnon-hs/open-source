@@ -1,6 +1,6 @@
 # yungookim/oh-my-pr
 
-[![Stars](https://img.shields.io/github/stars/yungookim/oh-my-pr?style=flat-square&color=yellow)](https://github.com/yungookim/oh-my-pr/stargazers) [![Forks](https://img.shields.io/github/forks/yungookim/oh-my-pr?style=flat-square&color=blue)](https://github.com/yungookim/oh-my-pr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yungookim/oh-my-pr?style=flat-square&color=yellow)](https://github.com/yungookim/oh-my-pr/stargazers) [![Forks](https://img.shields.io/github/forks/yungookim/oh-my-pr?style=flat-square&color=blue)](https://github.com/yungookim/oh-my-pr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous GitHub PR babysitter — watches your repos, triages review feedback, and dispatches AI agents to fix code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ yungookim/oh-my-pr — автономный «нянька» для pull‑reque
 
 ### 中文
 
-yungookim/oh-my-pr：yungookim/oh-my-pr helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yungookim/oh-my-pr：yungookim/oh-my-pr helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yungookim/oh-my-pr：yungookim/oh-my-pr helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ yungookim/oh-my-pr：yungookim/oh-my-pr helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 30/100 |
 | stars | 34/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

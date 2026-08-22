@@ -1,6 +1,6 @@
 # alibaba/zvec
 
-[![Stars](https://img.shields.io/github/stars/alibaba/zvec?style=flat-square&color=yellow)](https://github.com/alibaba/zvec/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/zvec?style=flat-square&color=blue)](https://github.com/alibaba/zvec/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/zvec?style=flat-square&color=yellow)](https://github.com/alibaba/zvec/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/zvec?style=flat-square&color=blue)](https://github.com/alibaba/zvec/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, lightning-fast, in-process vector database
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 547 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/zvec：alibaba/zvec helps turn isolated prompts and tools into repeatabl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 80/100 |
 | stars | 85/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

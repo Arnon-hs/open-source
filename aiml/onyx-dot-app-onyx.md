@@ -1,6 +1,6 @@
 # onyx-dot-app/onyx
 
-[![Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=flat-square&color=yellow)](https://github.com/onyx-dot-app/onyx/stargazers) [![Forks](https://img.shields.io/github/forks/onyx-dot-app/onyx?style=flat-square&color=blue)](https://github.com/onyx-dot-app/onyx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=flat-square&color=yellow)](https://github.com/onyx-dot-app/onyx/stargazers) [![Forks](https://img.shields.io/github/forks/onyx-dot-app/onyx?style=flat-square&color=blue)](https://github.com/onyx-dot-app/onyx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.1k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ onyx-dot-app/onyx：onyx-dot-app/onyx helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 94/100 |
 | stars | 95/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

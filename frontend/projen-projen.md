@@ -1,6 +1,6 @@
 # projen/projen
 
-[![Stars](https://img.shields.io/github/stars/projen/projen?style=flat-square&color=yellow)](https://github.com/projen/projen/stargazers) [![Forks](https://img.shields.io/github/forks/projen/projen?style=flat-square&color=blue)](https://github.com/projen/projen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projen/projen?style=flat-square&color=yellow)](https://github.com/projen/projen/stargazers) [![Forks](https://img.shields.io/github/forks/projen/projen?style=flat-square&color=blue)](https://github.com/projen/projen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Rapidly build modern applications with advanced configuration management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 408 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ projen/projen：projen/projen helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
+| usefulness | 90/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 71/100 |
 | stars | 74/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

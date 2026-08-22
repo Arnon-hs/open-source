@@ -1,6 +1,6 @@
 # agronholm/anyio
 
-[![Stars](https://img.shields.io/github/stars/agronholm/anyio?style=flat-square&color=yellow)](https://github.com/agronholm/anyio/stargazers) [![Forks](https://img.shields.io/github/forks/agronholm/anyio?style=flat-square&color=blue)](https://github.com/agronholm/anyio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agronholm/anyio?style=flat-square&color=yellow)](https://github.com/agronholm/anyio/stargazers) [![Forks](https://img.shields.io/github/forks/agronholm/anyio?style=flat-square&color=blue)](https://github.com/agronholm/anyio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AnyIO is a high‑level asynchronous concurrency and networking library that pro
 
 ### 中文
 
-agronholm/anyio：agronholm/anyio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+agronholm/anyio：agronholm/anyio helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ agronholm/anyio：agronholm/anyio helps add AI capability without starting from 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ agronholm/anyio：agronholm/anyio helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 49/100 |
+| outlook | 49/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

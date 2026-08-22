@@ -1,6 +1,6 @@
 # thinkjs/thinkjs
 
-[![Stars](https://img.shields.io/github/stars/thinkjs/thinkjs?style=flat-square&color=yellow)](https://github.com/thinkjs/thinkjs/stargazers) [![Forks](https://img.shields.io/github/forks/thinkjs/thinkjs?style=flat-square&color=blue)](https://github.com/thinkjs/thinkjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thinkjs/thinkjs?style=flat-square&color=yellow)](https://github.com/thinkjs/thinkjs/stargazers) [![Forks](https://img.shields.io/github/forks/thinkjs/thinkjs?style=flat-square&color=blue)](https://github.com/thinkjs/thinkjs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 614 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ thinkjs/thinkjs：thinkjs/thinkjs may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

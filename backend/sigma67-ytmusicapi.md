@@ -1,6 +1,6 @@
 # sigma67/ytmusicapi
 
-[![Stars](https://img.shields.io/github/stars/sigma67/ytmusicapi?style=flat-square&color=yellow)](https://github.com/sigma67/ytmusicapi/stargazers) [![Forks](https://img.shields.io/github/forks/sigma67/ytmusicapi?style=flat-square&color=blue)](https://github.com/sigma67/ytmusicapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigma67/ytmusicapi?style=flat-square&color=yellow)](https://github.com/sigma67/ytmusicapi/stargazers) [![Forks](https://img.shields.io/github/forks/sigma67/ytmusicapi?style=flat-square&color=blue)](https://github.com/sigma67/ytmusicapi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial API for YouTube Music
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 296 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sigma67/ytmusicapi：sigma67/ytmusicapi helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

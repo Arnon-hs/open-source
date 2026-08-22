@@ -1,6 +1,6 @@
 # PostHog/posthog.com
 
-[![Stars](https://img.shields.io/github/stars/PostHog/posthog.com?style=flat-square&color=yellow)](https://github.com/PostHog/posthog.com/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/posthog.com?style=flat-square&color=blue)](https://github.com/PostHog/posthog.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PostHog/posthog.com?style=flat-square&color=yellow)](https://github.com/PostHog/posthog.com/stargazers) [![Forks](https://img.shields.io/github/forks/PostHog/posthog.com?style=flat-square&color=blue)](https://github.com/PostHog/posthog.com/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Official docs, website, and handbook for PostHog.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 797 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PostHog/posthog.com：PostHog/posthog.com helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 66/100 |
 | stars | 64/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # microsoft/TypeScript
 
-[![Stars](https://img.shields.io/github/stars/microsoft/TypeScript?style=flat-square&color=yellow)](https://github.com/microsoft/TypeScript/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/TypeScript?style=flat-square&color=blue)](https://github.com/microsoft/TypeScript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/TypeScript?style=flat-square&color=yellow)](https://github.com/microsoft/TypeScript/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/TypeScript?style=flat-square&color=blue)](https://github.com/microsoft/TypeScript/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 108.8k |
-| 🍴 **Forks** | 13.4k |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
+| ⭐ **Stars** | 110.2k |
+| 🍴 **Forks** | 13.7k |
+| 💻 **Language** | Go |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-20 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`javascript` `language` `typechecker` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-TypeScript is an open-source, statically typed programming language that adds optional static typing to JavaScript, allowing developers to catch errors early and improve code maintainability. It compiles to clean JavaScript output, making it easy to integrate with existing JavaScript codebases. By providing a more robust and scalable alternative to JavaScript, TypeScript enables developers to build complex applications with greater accuracy and efficiency.
+### English
+
+microsoft/TypeScript: microsoft/TypeScript may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+microsoft/TypeScript: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+microsoft/TypeScript：microsoft/TypeScript may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** microsoft/TypeScript may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 110213 GitHub stars
+- 13716 forks
+- updated 2026-08-20
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 100/100 |
+| stars | 100/100 |
+| topics | 50/100 |
+| outlook | 83/100 |
+| quality | 93/100 |
+| recency | 100/100 |
+| adoption | 100/100 |
+| production | 83/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/microsoft/TypeScript) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-20 · [View on GitHub](https://github.com/microsoft/TypeScript) · [← Back to Misc](./README.md)</sub>

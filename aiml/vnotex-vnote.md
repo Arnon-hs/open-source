@@ -1,6 +1,6 @@
 # vnotex/vnote
 
-[![Stars](https://img.shields.io/github/stars/vnotex/vnote?style=flat-square&color=yellow)](https://github.com/vnotex/vnote/stargazers) [![Forks](https://img.shields.io/github/forks/vnotex/vnote?style=flat-square&color=blue)](https://github.com/vnotex/vnote/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vnotex/vnote?style=flat-square&color=yellow)](https://github.com/vnotex/vnote/stargazers) [![Forks](https://img.shields.io/github/forks/vnotex/vnote?style=flat-square&color=blue)](https://github.com/vnotex/vnote/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A pleasant note-taking platform in native C++.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vnotex/vnote：vnotex/vnote helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 85/100 |
 | stars | 87/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
