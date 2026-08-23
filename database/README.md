@@ -559,8 +559,8 @@
 | 549 | [weldsorm/welds](./weldsorm-welds.md) | ⭐ 269 | Rust | 49/100 |
 | 550 | [0xKirisame/SPiCa](./0xkirisame-spica.md) | ⭐ 103 | Rust | 49/100 |
 | 551 | [s4wave/goscript](./s4wave-goscript.md) | ⭐ — | — | 47/100 |
-| 552 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
-| 553 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
+| 552 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
+| 553 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
 | 554 | [pigontech/inkvoice](./pigontech-inkvoice.md) | ⭐ — | — | 45/100 |
 | 555 | [asg017/sqlite-jiff](./asg017-sqlite-jiff.md) | ⭐ 107 | Rust | 45/100 |
 | 556 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 45/100 |
@@ -583,9 +583,9 @@
 | 573 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 574 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 575 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 576 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 577 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 578 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 576 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 577 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 578 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 579 | [borborich/pgextassure](./borborich-pgextassure.md) | ⭐ — | — | 41/100 |
 | 580 | [SamiSalah221/3mf-to-glb](./samisalah221-3mf-to-glb.md) | ⭐ — | — | 41/100 |
 | 581 | [aravpanwar/decayfmt](./aravpanwar-decayfmt.md) | ⭐ — | — | 41/100 |

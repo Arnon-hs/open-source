@@ -423,8 +423,8 @@
 | 413 | [igniterealtime/Spark](./igniterealtime-spark.md) | ⭐ 600 | Java | 67/100 |
 | 414 | [znscli/zns](./znscli-zns.md) | ⭐ 211 | Go | 67/100 |
 | 415 | [f-droid/fdroidclient](./f-droid-fdroidclient.md) | ⭐ 2.9k | Kotlin | 67/100 |
-| 416 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
-| 417 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
+| 416 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
+| 417 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
 | 418 | [ayghri/i-have-adhd](./ayghri-i-have-adhd.md) | ⭐ 2.2k | — | 67/100 |
 | 419 | [mayuso/PNGToSVG](./mayuso-pngtosvg.md) | ⭐ 104 | Rust | 67/100 |
 | 420 | [ESCOMP/CESM](./escomp-cesm.md) | ⭐ 477 | Python | 67/100 |
@@ -1467,8 +1467,8 @@
 | 1457 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 45/100 |
 | 1458 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 356 | — | 45/100 |
 | 1459 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 45/100 |
-| 1460 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 45/100 |
-| 1461 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 45/100 |
+| 1460 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 45/100 |
+| 1461 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 45/100 |
 | 1462 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ — | — | 45/100 |
 | 1463 | [seleniumboot/selenium-boot](./seleniumboot-selenium-boot.md) | ⭐ — | — | 45/100 |
 | 1464 | [lazardanlucian/onemind.md](./lazardanlucian-onemind.md.md) | ⭐ — | — | 45/100 |

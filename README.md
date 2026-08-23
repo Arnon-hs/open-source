@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32755** |
-| 📁 **Categories** | **29** |
+| 🗂️ **Total projects** | **32760** |
+| 📁 **Categories** | **30** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -40,10 +40,11 @@
 | ✨ **Design** | 115 | [Browse →](./design/) |
 | 🎯 **Product** | 61 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 55 | [Browse →](./marketing/) |
-| 🏷️ **Vertical-video** | 47 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 48 | [Browse →](./vertical-video/) |
 | 🏷️ **Video-editing** | 35 | [Browse →](./video-editing/) |
-| 🏷️ **Content-creation** | 20 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 23 | [Browse →](./content-creation/) |
 | 🏷️ **Templates** | 4 | [Browse →](./templates/) |
+| 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-coding-agent** | 1 | [Browse →](./ai-coding-agent/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
