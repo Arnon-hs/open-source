@@ -2,7 +2,7 @@
 
 > 
 
-**34 projects** in this category.
+**35 projects** in this category.
 
 ## Projects
 
@@ -36,12 +36,13 @@
 | 26 | [iMAboud/iMA-Menu](./imaboud-ima-menu.md) | ⭐ 292 | Python | 64/100 |
 | 27 | [lyonjs/shortvid.io](./lyonjs-shortvid.io.md) | ⭐ 144 | TypeScript | 62/100 |
 | 28 | [showlab/Awesome-Video-Diffusion](./showlab-awesome-video-diffusion.md) | ⭐ 5.8k | — | 62/100 |
-| 29 | [TheAcharya/OpenFCPXMLKit](./theacharya-openfcpxmlkit.md) | ⭐ 27 | Swift | 61/100 |
-| 30 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 47 | Swift | 60/100 |
-| 31 | [remotion-dev/recorder](./remotion-dev-recorder.md) | ⭐ 48 | TypeScript | 57/100 |
-| 32 | [ytrofr/claude-remotion-editor](./ytrofr-claude-remotion-editor.md) | ⭐ 26 | TypeScript | 55/100 |
-| 33 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 717 | Kotlin | 55/100 |
-| 34 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 53/100 |
+| 29 | [xcslys99/FootageFlow](./xcslys99-footageflow.md) | ⭐ 71 | Swift | 61/100 |
+| 30 | [TheAcharya/OpenFCPXMLKit](./theacharya-openfcpxmlkit.md) | ⭐ 27 | Swift | 61/100 |
+| 31 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 47 | Swift | 60/100 |
+| 32 | [remotion-dev/recorder](./remotion-dev-recorder.md) | ⭐ 48 | TypeScript | 57/100 |
+| 33 | [ytrofr/claude-remotion-editor](./ytrofr-claude-remotion-editor.md) | ⭐ 26 | TypeScript | 55/100 |
+| 34 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 717 | Kotlin | 55/100 |
+| 35 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 53/100 |
 
 ---
 

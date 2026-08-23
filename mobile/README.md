@@ -82,8 +82,8 @@
 | 72 | [wordpress-mobile/WordPress-iOS](./wordpress-mobile-wordpress-ios.md) | ⭐ 3.9k | Swift | 62/100 |
 | 73 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 4.2k | Kotlin | 62/100 |
 | 74 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.4k | Kotlin | 62/100 |
-| 75 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
-| 76 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
+| 75 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
+| 76 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
 | 77 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 8.4k | Java | 62/100 |
 | 78 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 62/100 |
 | 79 | [gorules/zen](./gorules-zen.md) | ⭐ 1.8k | Rust | 62/100 |
@@ -95,8 +95,8 @@
 | 85 | [objecthub/swift-lispkit](./objecthub-swift-lispkit.md) | ⭐ 430 | Scheme | 61/100 |
 | 86 | [luben/zstd-jni](./luben-zstd-jni.md) | ⭐ 1.1k | C | 61/100 |
 | 87 | [googleads/googleads-mobile-android-examples](./googleads-googleads-mobile-android-examples.md) | ⭐ 1.9k | Java | 61/100 |
-| 88 | [signalapp/Signal-iOS](./signalapp-signal-ios.md) | ⭐ 12.2k | Swift | 61/100 |
-| 89 | [flutter/website](./flutter-website.md) | ⭐ 3.1k | Dart | 61/100 |
+| 88 | [flutter/website](./flutter-website.md) | ⭐ 3.1k | Dart | 61/100 |
+| 89 | [signalapp/Signal-iOS](./signalapp-signal-ios.md) | ⭐ 12.2k | Swift | 61/100 |
 | 90 | [InfinityLoop1308/PipePipe](./infinityloop1308-pipepipe.md) | ⭐ 5.7k | Shell | 61/100 |
 | 91 | [alnitak/flutter_soloud](./alnitak-flutter-soloud.md) | ⭐ 409 | C | 61/100 |
 | 92 | [Acode-Foundation/Acode](./acode-foundation-acode.md) | ⭐ 6.1k | JavaScript | 61/100 |
@@ -150,8 +150,8 @@
 | 140 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 59/100 |
 | 141 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 793 | Kotlin | 59/100 |
 | 142 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 59/100 |
-| 143 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
-| 144 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
+| 143 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
+| 144 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
 | 145 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 58/100 |
 | 146 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 465 | Kotlin | 58/100 |
 | 147 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 2.1k | Kotlin | 58/100 |

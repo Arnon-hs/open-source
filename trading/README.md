@@ -60,8 +60,8 @@
 | 50 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 394 | C++ | 74/100 |
 | 51 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 623 | PowerShell | 74/100 |
 | 52 | [xbbg-org/xbbg](./xbbg-org-xbbg.md) | ⭐ 834 | Rust | 74/100 |
-| 53 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
-| 54 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 53 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 54 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
 | 55 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 105 | TypeScript | 74/100 |
 | 56 | [fasiondog/hikyuu](./fasiondog-hikyuu.md) | ⭐ 3.3k | C++ | 74/100 |
 | 57 | [iconben/z-image-studio](./iconben-z-image-studio.md) | ⭐ 121 | Python | 73/100 |
@@ -113,8 +113,8 @@
 | 103 | [enarjord/passivbot](./enarjord-passivbot.md) | ⭐ 2k | Python | 68/100 |
 | 104 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.6k | PHP | 68/100 |
 | 105 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 68/100 |
-| 106 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
-| 107 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
+| 106 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
+| 107 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
 | 108 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 205 | Python | 67/100 |
 | 109 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 67/100 |
 | 110 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 67/100 |

@@ -46,8 +46,8 @@
 | 36 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 49/100 |
 | 37 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 49/100 |
 | 38 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ — | — | 48/100 |
-| 39 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 46/100 |
-| 40 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 46/100 |
+| 39 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 46/100 |
+| 40 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 46/100 |
 | 41 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 45/100 |
 | 42 | [nyaomaru/is-kit](./nyaomaru-is-kit.md) | ⭐ — | — | 45/100 |
 | 43 | [sinai-doron/md-todo-list](./sinai-doron-md-todo-list.md) | ⭐ — | — | 45/100 |

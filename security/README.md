@@ -108,8 +108,8 @@
 | 98 | [TickLabVN/biopass](./ticklabvn-biopass.md) | ⭐ 503 | C++ | 56/100 |
 | 99 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 537 | Nix | 56/100 |
 | 100 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 431 | TypeScript | 56/100 |
-| 101 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 56/100 |
-| 102 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 56/100 |
+| 101 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 56/100 |
+| 102 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 56/100 |
 | 103 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 56/100 |
 | 104 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 56/100 |
 | 105 | [mytechnotalent/Embedded-Hacking](./mytechnotalent-embedded-hacking.md) | ⭐ 204 | Rust | 56/100 |
@@ -188,8 +188,8 @@
 | 178 | [TheRealYT/git-knife](./therealyt-git-knife.md) | ⭐ — | — | 41/100 |
 | 179 | [ucan-wg/spec](./ucan-wg-spec.md) | ⭐ — | — | 41/100 |
 | 180 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 41/100 |
-| 181 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 41/100 |
-| 182 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 41/100 |
+| 181 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 41/100 |
+| 182 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 41/100 |
 | 183 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 41/100 |
 | 184 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 41/100 |
 | 185 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 41/100 |
