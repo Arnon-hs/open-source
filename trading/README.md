@@ -113,8 +113,8 @@
 | 103 | [enarjord/passivbot](./enarjord-passivbot.md) | ⭐ 2k | Python | 68/100 |
 | 104 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.6k | PHP | 68/100 |
 | 105 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 68/100 |
-| 106 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
-| 107 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
+| 106 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
+| 107 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
 | 108 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 205 | Python | 67/100 |
 | 109 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 67/100 |
 | 110 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 67/100 |

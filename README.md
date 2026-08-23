@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32791** |
-| 📁 **Categories** | **35** |
+| 🗂️ **Total projects** | **32819** |
+| 📁 **Categories** | **43** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,39 +18,47 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 9249 | [Browse →](./aiml/) |
-| 📦 **Misc** | 6729 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 9250 | [Browse →](./aiml/) |
+| 📦 **Misc** | 6736 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 2893 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 2077 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2320 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2079 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 1540 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1402 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1403 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 1246 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 1052 | [Browse →](./crypto/) |
 | 🏷️ **Knowledgerag** | 780 | [Browse →](./knowledgerag/) |
-| 🏷️ **Database** | 687 | [Browse →](./database/) |
+| 🏷️ **Database** | 688 | [Browse →](./database/) |
 | 📊 **Data** | 664 | [Browse →](./data/) |
 | 📈 **Trading** | 369 | [Browse →](./trading/) |
 | 📱 **Mobile** | 367 | [Browse →](./mobile/) |
 | 💳 **Payments** | 365 | [Browse →](./payments/) |
 | 🚀 **DevOps & Infra** | 227 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 206 | [Browse →](./security/) |
+| 🔐 **Security** | 208 | [Browse →](./security/) |
 | 🏷️ **Education** | 145 | [Browse →](./education/) |
 | 🏷️ **Observability** | 118 | [Browse →](./observability/) |
 | ✨ **Design** | 115 | [Browse →](./design/) |
 | 🎯 **Product** | 61 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 55 | [Browse →](./marketing/) |
 | 🏷️ **Vertical-video** | 48 | [Browse →](./vertical-video/) |
-| 🏷️ **Video-editing** | 40 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 41 | [Browse →](./video-editing/) |
 | 🏷️ **Content-creation** | 23 | [Browse →](./content-creation/) |
 | 🏷️ **Templates** | 4 | [Browse →](./templates/) |
+| 🏷️ **Python** | 2 | [Browse →](./python/) |
+| 🏷️ **Self-hosting** | 2 | [Browse →](./self-hosting/) |
+| 🏷️ **Image-processing** | 2 | [Browse →](./image-processing/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Ai** | 2 | [Browse →](./ai/) |
+| 🏷️ **Lead-generation** | 1 | [Browse →](./lead-generation/) |
+| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
+| 🏷️ **Nlp** | 1 | [Browse →](./nlp/) |
+| 🏷️ **Linkedin** | 1 | [Browse →](./linkedin/) |
+| 🏷️ **Web-scraping** | 1 | [Browse →](./web-scraping/) |
+| 🏷️ **Aws** | 1 | [Browse →](./aws/) |
 | 🏷️ **Korean** | 1 | [Browse →](./korean/) |
 | 🏷️ **Llm** | 1 | [Browse →](./llm/) |
 | 🏷️ **Developer-tools** | 1 | [Browse →](./developer-tools/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
-| 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-coding-agent** | 1 | [Browse →](./ai-coding-agent/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 

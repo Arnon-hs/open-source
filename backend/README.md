@@ -464,8 +464,8 @@
 | 454 | [dmellok/tesserae](./dmellok-tesserae.md) | ⭐ 202 | Python | 67/100 |
 | 455 | [zottce/samp-cef](./zottce-samp-cef.md) | ⭐ 122 | Rust | 67/100 |
 | 456 | [rfsbraz/deleterr](./rfsbraz-deleterr.md) | ⭐ 324 | Python | 67/100 |
-| 457 | [fastify/fastify-http-proxy](./fastify-fastify-http-proxy.md) | ⭐ 391 | JavaScript | 67/100 |
-| 458 | [ArtisanCloud/PowerX](./artisancloud-powerx.md) | ⭐ 349 | Go | 67/100 |
+| 457 | [ArtisanCloud/PowerX](./artisancloud-powerx.md) | ⭐ 349 | Go | 67/100 |
+| 458 | [fastify/fastify-http-proxy](./fastify-fastify-http-proxy.md) | ⭐ 391 | JavaScript | 67/100 |
 | 459 | [nitrojs/nitro](./nitrojs-nitro.md) | ⭐ 11k | TypeScript | 67/100 |
 | 460 | [fedify-dev/fedify](./fedify-dev-fedify.md) | ⭐ 1k | TypeScript | 67/100 |
 | 461 | [microsoft/go-sqlcmd](./microsoft-go-sqlcmd.md) | ⭐ 570 | Go | 67/100 |
