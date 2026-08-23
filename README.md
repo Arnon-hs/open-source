@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32760** |
-| 📁 **Categories** | **30** |
+| 🗂️ **Total projects** | **32791** |
+| 📁 **Categories** | **35** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -19,10 +19,10 @@
 | Category | Projects | |
 |---|---|---|
 | 🤖 **AI/ML** | 9249 | [Browse →](./aiml/) |
-| 📦 **Misc** | 6716 | [Browse →](./misc/) |
+| 📦 **Misc** | 6729 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 2893 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 2317 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 2073 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2318 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2077 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 1540 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1402 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 1246 | [Browse →](./backend/) |
@@ -31,7 +31,7 @@
 | 🏷️ **Database** | 687 | [Browse →](./database/) |
 | 📊 **Data** | 664 | [Browse →](./data/) |
 | 📈 **Trading** | 369 | [Browse →](./trading/) |
-| 📱 **Mobile** | 366 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 367 | [Browse →](./mobile/) |
 | 💳 **Payments** | 365 | [Browse →](./payments/) |
 | 🚀 **DevOps & Infra** | 227 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 206 | [Browse →](./security/) |
@@ -41,9 +41,14 @@
 | 🎯 **Product** | 61 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 55 | [Browse →](./marketing/) |
 | 🏷️ **Vertical-video** | 48 | [Browse →](./vertical-video/) |
-| 🏷️ **Video-editing** | 35 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 40 | [Browse →](./video-editing/) |
 | 🏷️ **Content-creation** | 23 | [Browse →](./content-creation/) |
 | 🏷️ **Templates** | 4 | [Browse →](./templates/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
+| 🏷️ **Ai** | 2 | [Browse →](./ai/) |
+| 🏷️ **Korean** | 1 | [Browse →](./korean/) |
+| 🏷️ **Llm** | 1 | [Browse →](./llm/) |
+| 🏷️ **Developer-tools** | 1 | [Browse →](./developer-tools/) |
 | 🏷️ **Windows** | 1 | [Browse →](./windows/) |
 | 🏷️ **Python** | 1 | [Browse →](./python/) |
 | 🏷️ **Ai-coding-agent** | 1 | [Browse →](./ai-coding-agent/) |

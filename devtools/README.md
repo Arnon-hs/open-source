@@ -330,8 +330,8 @@
 | 320 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 69/100 |
 | 321 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 322 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 323 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
-| 324 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 323 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 324 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
 | 325 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 326 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 327 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |
@@ -397,8 +397,8 @@
 | 387 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 562 | Makefile | 68/100 |
 | 388 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 68/100 |
 | 389 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 68/100 |
-| 390 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
-| 391 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 390 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 391 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
 | 392 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 393 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 394 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -423,8 +423,8 @@
 | 413 | [igniterealtime/Spark](./igniterealtime-spark.md) | ⭐ 600 | Java | 67/100 |
 | 414 | [znscli/zns](./znscli-zns.md) | ⭐ 211 | Go | 67/100 |
 | 415 | [f-droid/fdroidclient](./f-droid-fdroidclient.md) | ⭐ 2.9k | Kotlin | 67/100 |
-| 416 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
-| 417 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
+| 416 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
+| 417 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
 | 418 | [ayghri/i-have-adhd](./ayghri-i-have-adhd.md) | ⭐ 2.2k | — | 67/100 |
 | 419 | [mayuso/PNGToSVG](./mayuso-pngtosvg.md) | ⭐ 104 | Rust | 67/100 |
 | 420 | [ESCOMP/CESM](./escomp-cesm.md) | ⭐ 477 | Python | 67/100 |
@@ -1046,8 +1046,8 @@
 | 1036 | [0x61nas/aarty](./0x61nas-aarty.md) | ⭐ 84 | Rust | 58/100 |
 | 1037 | [kloudkit/ws-meta](./kloudkit-ws-meta.md) | ⭐ 149 | Shell | 58/100 |
 | 1038 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 1039 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
-| 1040 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 1039 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 1040 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
 | 1041 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 1042 | [catalyst-cooperative/pudl](./catalyst-cooperative-pudl.md) | ⭐ 584 | Python | 58/100 |
 | 1043 | [rvben/rumdl](./rvben-rumdl.md) | ⭐ 1.1k | Rust | 58/100 |
@@ -1467,8 +1467,8 @@
 | 1457 | [phel-lang/phel-lang](./phel-lang-phel-lang.md) | ⭐ 485 | PHP | 45/100 |
 | 1458 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 356 | — | 45/100 |
 | 1459 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 891 | Go | 45/100 |
-| 1460 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 45/100 |
-| 1461 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 45/100 |
+| 1460 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 45/100 |
+| 1461 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 45/100 |
 | 1462 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ — | — | 45/100 |
 | 1463 | [seleniumboot/selenium-boot](./seleniumboot-selenium-boot.md) | ⭐ — | — | 45/100 |
 | 1464 | [lazardanlucian/onemind.md](./lazardanlucian-onemind.md.md) | ⭐ — | — | 45/100 |

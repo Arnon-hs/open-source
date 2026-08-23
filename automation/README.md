@@ -580,8 +580,8 @@
 | 570 | [egeominotti/bunqueue](./egeominotti-bunqueue.md) | ⭐ 453 | TypeScript | 69/100 |
 | 571 | [zhinjs/zhin](./zhinjs-zhin.md) | ⭐ 127 | TypeScript | 69/100 |
 | 572 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 68/100 |
-| 573 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
-| 574 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
+| 573 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
+| 574 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
 | 575 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 68/100 |
 | 576 | [1technophile/OpenMQTTGateway](./1technophile-openmqttgateway.md) | ⭐ 4.1k | C++ | 68/100 |
 | 577 | [inclusionAI/Awex](./inclusionai-awex.md) | ⭐ 169 | Python | 68/100 |
@@ -1366,8 +1366,8 @@
 | 1356 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 41/100 |
 | 1357 | [mitmedialab/Junkyard-Jumbotron](./mitmedialab-junkyard-jumbotron.md) | ⭐ — | — | 41/100 |
 | 1358 | [liesliy/tlabel](./liesliy-tlabel.md) | ⭐ — | — | 41/100 |
-| 1359 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 41/100 |
-| 1360 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 41/100 |
+| 1359 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 41/100 |
+| 1360 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 41/100 |
 | 1361 | [IERoboticsAILab/RODEO](./ieroboticsailab-rodeo.md) | ⭐ — | — | 41/100 |
 | 1362 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 41/100 |
 | 1363 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 41/100 |
@@ -1386,8 +1386,8 @@
 | 1376 | [forrestblade/lr5-liberation](./forrestblade-lr5-liberation.md) | ⭐ — | — | 41/100 |
 | 1377 | [GorrihmAI/fbai-nonconscious-ai](./gorrihmai-fbai-nonconscious-ai.md) | ⭐ — | — | 41/100 |
 | 1378 | [mogwi1983/policybot](./mogwi1983-policybot.md) | ⭐ — | — | 41/100 |
-| 1379 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
-| 1380 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
+| 1379 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
+| 1380 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
 | 1381 | [robbyant/lingbot-video](./robbyant-lingbot-video.md) | ⭐ — | — | 41/100 |
 | 1382 | [smithandrewjohn/kindalive](./smithandrewjohn-kindalive.md) | ⭐ — | — | 41/100 |
 | 1383 | [Robbyant/lingbot-world-v2l-2026-07-10](./robbyant-lingbot-world-v2l-2026-07-10.md) | ⭐ — | — | 41/100 |

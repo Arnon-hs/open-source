@@ -60,8 +60,8 @@
 | 50 | [QMCPACK/qmcpack](./qmcpack-qmcpack.md) | ⭐ 394 | C++ | 74/100 |
 | 51 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 623 | PowerShell | 74/100 |
 | 52 | [xbbg-org/xbbg](./xbbg-org-xbbg.md) | ⭐ 834 | Rust | 74/100 |
-| 53 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
-| 54 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 53 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 54 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
 | 55 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 105 | TypeScript | 74/100 |
 | 56 | [fasiondog/hikyuu](./fasiondog-hikyuu.md) | ⭐ 3.3k | C++ | 74/100 |
 | 57 | [iconben/z-image-studio](./iconben-z-image-studio.md) | ⭐ 121 | Python | 73/100 |
@@ -130,8 +130,8 @@
 | 120 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 67/100 |
 | 121 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 31.4k | Go | 66/100 |
 | 122 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 72.7k | Python | 66/100 |
-| 123 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
-| 124 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
+| 123 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
+| 124 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
 | 125 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 66/100 |
 | 126 | [8680/GOODBYEADS](./8680-goodbyeads.md) | ⭐ 1.8k | Python | 66/100 |
 | 127 | [discopy/discopy](./discopy-discopy.md) | ⭐ 430 | Python | 66/100 |

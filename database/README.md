@@ -124,8 +124,8 @@
 | 114 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 115 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 116 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 117 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 118 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 117 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 118 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 119 | [dolphin-emu/dolphin](./dolphin-emu-dolphin.md) | ⭐ 15.4k | C++ | 64/100 |
 | 120 | [rusqlite/rusqlite](./rusqlite-rusqlite.md) | ⭐ 4.3k | Rust | 64/100 |
 | 121 | [hathach/tinyusb](./hathach-tinyusb.md) | ⭐ 7k | C | 64/100 |
@@ -559,8 +559,8 @@
 | 549 | [weldsorm/welds](./weldsorm-welds.md) | ⭐ 269 | Rust | 49/100 |
 | 550 | [0xKirisame/SPiCa](./0xkirisame-spica.md) | ⭐ 103 | Rust | 49/100 |
 | 551 | [s4wave/goscript](./s4wave-goscript.md) | ⭐ — | — | 47/100 |
-| 552 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
-| 553 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
+| 552 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
+| 553 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
 | 554 | [pigontech/inkvoice](./pigontech-inkvoice.md) | ⭐ — | — | 45/100 |
 | 555 | [asg017/sqlite-jiff](./asg017-sqlite-jiff.md) | ⭐ 107 | Rust | 45/100 |
 | 556 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 45/100 |
@@ -583,8 +583,8 @@
 | 573 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 574 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 575 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 576 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 577 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 576 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 577 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 578 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 579 | [borborich/pgextassure](./borborich-pgextassure.md) | ⭐ — | — | 41/100 |
 | 580 | [SamiSalah221/3mf-to-glb](./samisalah221-3mf-to-glb.md) | ⭐ — | — | 41/100 |
@@ -634,8 +634,8 @@
 | 624 | [telemetry-sh/retry-storm-lab](./telemetry-sh-retry-storm-lab.md) | ⭐ — | — | 41/100 |
 | 625 | [helicalinsight/helicalinsight](./helicalinsight-helicalinsight.md) | ⭐ — | — | 41/100 |
 | 626 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ — | — | 41/100 |
-| 627 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
-| 628 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
+| 627 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
+| 628 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
 | 629 | [nethical6/conversation-steganography](./nethical6-conversation-steganography.md) | ⭐ — | — | 41/100 |
 | 630 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 41/100 |
 | 631 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 41/100 |
