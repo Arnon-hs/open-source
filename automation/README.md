@@ -580,8 +580,8 @@
 | 570 | [egeominotti/bunqueue](./egeominotti-bunqueue.md) | ⭐ 453 | TypeScript | 69/100 |
 | 571 | [zhinjs/zhin](./zhinjs-zhin.md) | ⭐ 127 | TypeScript | 69/100 |
 | 572 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 68/100 |
-| 573 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
-| 574 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
+| 573 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
+| 574 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
 | 575 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 68/100 |
 | 576 | [1technophile/OpenMQTTGateway](./1technophile-openmqttgateway.md) | ⭐ 4.1k | C++ | 68/100 |
 | 577 | [inclusionAI/Awex](./inclusionai-awex.md) | ⭐ 169 | Python | 68/100 |
@@ -670,8 +670,8 @@
 | 660 | [asc-community/AngouriMath](./asc-community-angourimath.md) | ⭐ 824 | C# | 67/100 |
 | 661 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 67/100 |
 | 662 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 67/100 |
-| 663 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
-| 664 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
+| 663 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
+| 664 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
 | 665 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 67/100 |
 | 666 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 67/100 |
 | 667 | [robot-descriptions/robot_descriptions.py](./robot-descriptions-robot-descriptions.py.md) | ⭐ 796 | Python | 67/100 |
@@ -768,8 +768,8 @@
 | 758 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 759 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 760 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 761 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
-| 762 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 761 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 762 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
 | 763 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 764 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 765 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |
@@ -1295,8 +1295,8 @@
 | 1285 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
 | 1286 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
 | 1287 | [Ships-Itself/builds](./ships-itself-builds.md) | ⭐ — | — | 46/100 |
-| 1288 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 46/100 |
-| 1289 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 46/100 |
+| 1288 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 46/100 |
+| 1289 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 46/100 |
 | 1290 | [baturyilmaz/agent-office](./baturyilmaz-agent-office.md) | ⭐ — | — | 45/100 |
 | 1291 | [copilotkit/openbot](./copilotkit-openbot.md) | ⭐ — | — | 45/100 |
 | 1292 | [peterkelly/rex](./peterkelly-rex.md) | ⭐ — | — | 45/100 |
