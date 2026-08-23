@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**367 projects** in this category.
+**368 projects** in this category.
 
 ## Projects
 
@@ -113,8 +113,8 @@
 | 103 | [enarjord/passivbot](./enarjord-passivbot.md) | ⭐ 2k | Python | 68/100 |
 | 104 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.6k | PHP | 68/100 |
 | 105 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 68/100 |
-| 106 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
-| 107 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
+| 106 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
+| 107 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
 | 108 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 205 | Python | 67/100 |
 | 109 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 67/100 |
 | 110 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 67/100 |
@@ -130,8 +130,8 @@
 | 120 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 67/100 |
 | 121 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 31.4k | Go | 66/100 |
 | 122 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 72.7k | Python | 66/100 |
-| 123 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
-| 124 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
+| 123 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
+| 124 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
 | 125 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 66/100 |
 | 126 | [8680/GOODBYEADS](./8680-goodbyeads.md) | ⭐ 1.8k | Python | 66/100 |
 | 127 | [discopy/discopy](./discopy-discopy.md) | ⭐ 430 | Python | 66/100 |
@@ -375,6 +375,7 @@
 | 365 | [gtsteffaniak/filebrowser](./gtsteffaniak-filebrowser.md) | ⭐ — | — | 40/100 |
 | 366 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 40/100 |
 | 367 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
+| 368 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
 
 ---
 

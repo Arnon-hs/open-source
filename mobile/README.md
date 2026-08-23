@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**365 projects** in this category.
+**366 projects** in this category.
 
 ## Projects
 
@@ -150,8 +150,8 @@
 | 140 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 59/100 |
 | 141 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 793 | Kotlin | 59/100 |
 | 142 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 59/100 |
-| 143 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
-| 144 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
+| 143 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
+| 144 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
 | 145 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 58/100 |
 | 146 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 465 | Kotlin | 58/100 |
 | 147 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 2.1k | Kotlin | 58/100 |
@@ -355,8 +355,8 @@
 | 345 | [auxiliaryutils/deskpad-app](./auxiliaryutils-deskpad-app.md) | ⭐ — | — | 41/100 |
 | 346 | [ivancernja/crate](./ivancernja-crate.md) | ⭐ — | — | 41/100 |
 | 347 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ — | — | 41/100 |
-| 348 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ — | — | 41/100 |
-| 349 | [welcome-to-the-sunny-side/misa77](./welcome-to-the-sunny-side-misa77.md) | ⭐ — | — | 41/100 |
+| 348 | [welcome-to-the-sunny-side/misa77](./welcome-to-the-sunny-side-misa77.md) | ⭐ — | — | 41/100 |
+| 349 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ — | — | 41/100 |
 | 350 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 41/100 |
 | 351 | [dk8827/ra-port](./dk8827-ra-port.md) | ⭐ — | — | 41/100 |
 | 352 | [zerx-lab/FluxDown](./zerx-lab-fluxdown.md) | ⭐ — | — | 41/100 |
@@ -372,7 +372,8 @@
 | 362 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 40/100 |
 | 363 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 346 | Rust | 40/100 |
 | 364 | [owntracks/android](./owntracks-android.md) | ⭐ — | — | 40/100 |
-| 365 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
+| 365 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
+| 366 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
 
 ---
 

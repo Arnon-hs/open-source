@@ -2,7 +2,7 @@
 
 > 
 
-**30 projects** in this category.
+**34 projects** in this category.
 
 ## Projects
 
@@ -38,6 +38,10 @@
 | 28 | [showlab/Awesome-Video-Diffusion](./showlab-awesome-video-diffusion.md) | ⭐ 5.8k | — | 62/100 |
 | 29 | [TheAcharya/OpenFCPXMLKit](./theacharya-openfcpxmlkit.md) | ⭐ 27 | Swift | 61/100 |
 | 30 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 47 | Swift | 60/100 |
+| 31 | [remotion-dev/recorder](./remotion-dev-recorder.md) | ⭐ 48 | TypeScript | 57/100 |
+| 32 | [ytrofr/claude-remotion-editor](./ytrofr-claude-remotion-editor.md) | ⭐ 26 | TypeScript | 55/100 |
+| 33 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 717 | Kotlin | 55/100 |
+| 34 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 53/100 |
 
 ---
 

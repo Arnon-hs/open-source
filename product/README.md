@@ -52,8 +52,8 @@
 | 42 | [nyaomaru/is-kit](./nyaomaru-is-kit.md) | ⭐ — | — | 45/100 |
 | 43 | [sinai-doron/md-todo-list](./sinai-doron-md-todo-list.md) | ⭐ — | — | 45/100 |
 | 44 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 44/100 |
-| 45 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 42/100 |
-| 46 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 42/100 |
+| 45 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 42/100 |
+| 46 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 42/100 |
 | 47 | [chainguard-dev/osquery-defense-kit](./chainguard-dev-osquery-defense-kit.md) | ⭐ — | — | 41/100 |
 | 48 | [pierpaolo28/Awesome-FDE-Roadmap](./pierpaolo28-awesome-fde-roadmap.md) | ⭐ — | — | 41/100 |
 | 49 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 41/100 |

@@ -2,7 +2,7 @@
 
 > 
 
-**117 projects** in this category.
+**118 projects** in this category.
 
 ## Projects
 
@@ -110,21 +110,22 @@
 | 100 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 501 | C | 51/100 |
 | 101 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 135 | Rust | 50/100 |
 | 102 | [villith/relink-logs](./villith-relink-logs.md) | ⭐ 119 | Rust | 50/100 |
-| 103 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 104 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 45/100 |
-| 105 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ — | — | 45/100 |
-| 106 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
-| 107 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
-| 108 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 41/100 |
-| 109 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 41/100 |
-| 110 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 41/100 |
-| 111 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 41/100 |
-| 112 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 41/100 |
-| 113 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 41/100 |
-| 114 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 41/100 |
-| 115 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 116 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 117 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 103 | [Somnora/GSPOT](./somnora-gspot.md) | ⭐ — | — | 49/100 |
+| 104 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
+| 105 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 45/100 |
+| 106 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ — | — | 45/100 |
+| 107 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 44/100 |
+| 108 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 44/100 |
+| 109 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 41/100 |
+| 110 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 41/100 |
+| 111 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 41/100 |
+| 112 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 41/100 |
+| 113 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 41/100 |
+| 114 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 41/100 |
+| 115 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 41/100 |
+| 116 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 117 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 118 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

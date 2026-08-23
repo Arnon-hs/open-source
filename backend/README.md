@@ -464,8 +464,8 @@
 | 454 | [dmellok/tesserae](./dmellok-tesserae.md) | ⭐ 202 | Python | 67/100 |
 | 455 | [zottce/samp-cef](./zottce-samp-cef.md) | ⭐ 122 | Rust | 67/100 |
 | 456 | [rfsbraz/deleterr](./rfsbraz-deleterr.md) | ⭐ 324 | Python | 67/100 |
-| 457 | [fastify/fastify-http-proxy](./fastify-fastify-http-proxy.md) | ⭐ 391 | JavaScript | 67/100 |
-| 458 | [ArtisanCloud/PowerX](./artisancloud-powerx.md) | ⭐ 349 | Go | 67/100 |
+| 457 | [ArtisanCloud/PowerX](./artisancloud-powerx.md) | ⭐ 349 | Go | 67/100 |
+| 458 | [fastify/fastify-http-proxy](./fastify-fastify-http-proxy.md) | ⭐ 391 | JavaScript | 67/100 |
 | 459 | [nitrojs/nitro](./nitrojs-nitro.md) | ⭐ 11k | TypeScript | 67/100 |
 | 460 | [fedify-dev/fedify](./fedify-dev-fedify.md) | ⭐ 1k | TypeScript | 67/100 |
 | 461 | [microsoft/go-sqlcmd](./microsoft-go-sqlcmd.md) | ⭐ 570 | Go | 67/100 |
@@ -817,8 +817,8 @@
 | 807 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 440 | Rust | 60/100 |
 | 808 | [Brooooooklyn/simple-git](./brooooooklyn-simple-git.md) | ⭐ 183 | Rust | 60/100 |
 | 809 | [clojure-lsp/clojure-lsp](./clojure-lsp-clojure-lsp.md) | ⭐ 1.3k | Clojure | 60/100 |
-| 810 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
-| 811 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
+| 810 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
+| 811 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
 | 812 | [cokemine/nodestatus](./cokemine-nodestatus.md) | ⭐ 359 | TypeScript | 60/100 |
 | 813 | [ayaka-notes/overleaf-pro](./ayaka-notes-overleaf-pro.md) | ⭐ 412 | JavaScript | 60/100 |
 | 814 | [h2o/h2o](./h2o-h2o.md) | ⭐ 11.5k | C | 60/100 |
@@ -1222,8 +1222,8 @@
 | 1212 | [halcyon-video/halcyon-video](./halcyon-video-halcyon-video.md) | ⭐ — | — | 41/100 |
 | 1213 | [dumasha05/ESPBBanking1](./dumasha05-espbbanking1.md) | ⭐ — | — | 41/100 |
 | 1214 | [laravel/lsp](./laravel-lsp.md) | ⭐ — | — | 41/100 |
-| 1215 | [jmg698/Font-Lab](./jmg698-font-lab.md) | ⭐ — | — | 41/100 |
-| 1216 | [eterevsky/metaljax](./eterevsky-metaljax.md) | ⭐ — | — | 41/100 |
+| 1215 | [eterevsky/metaljax](./eterevsky-metaljax.md) | ⭐ — | — | 41/100 |
+| 1216 | [jmg698/Font-Lab](./jmg698-font-lab.md) | ⭐ — | — | 41/100 |
 | 1217 | [xmahdi1/wisp](./xmahdi1-wisp.md) | ⭐ — | — | 41/100 |
 | 1218 | [quantizor/devctl](./quantizor-devctl.md) | ⭐ — | — | 41/100 |
 | 1219 | [bstansell/conserver](./bstansell-conserver.md) | ⭐ — | — | 41/100 |

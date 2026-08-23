@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32696** |
+| 🗂️ **Total projects** | **32740** |
 | 📁 **Categories** | **26** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,31 +18,31 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 9245 | [Browse →](./aiml/) |
-| 📦 **Misc** | 6690 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 9249 | [Browse →](./aiml/) |
+| 📦 **Misc** | 6709 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 2891 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 2316 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2317 | [Browse →](./orchestration/) |
 | 🏷️ **Mcp** | 2073 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 1540 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1400 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1402 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 1246 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 1052 | [Browse →](./crypto/) |
 | 🏷️ **Knowledgerag** | 779 | [Browse →](./knowledgerag/) |
 | 🏷️ **Database** | 687 | [Browse →](./database/) |
 | 📊 **Data** | 664 | [Browse →](./data/) |
-| 📈 **Trading** | 367 | [Browse →](./trading/) |
-| 📱 **Mobile** | 365 | [Browse →](./mobile/) |
+| 📈 **Trading** | 368 | [Browse →](./trading/) |
+| 📱 **Mobile** | 366 | [Browse →](./mobile/) |
 | 💳 **Payments** | 365 | [Browse →](./payments/) |
 | 🚀 **DevOps & Infra** | 227 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 206 | [Browse →](./security/) |
 | 🏷️ **Education** | 145 | [Browse →](./education/) |
-| 🏷️ **Observability** | 117 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 118 | [Browse →](./observability/) |
 | ✨ **Design** | 115 | [Browse →](./design/) |
 | 🎯 **Product** | 61 | [Browse →](./product/) |
 | 🏷️ **Marketing** | 55 | [Browse →](./marketing/) |
-| 🏷️ **Vertical-video** | 37 | [Browse →](./vertical-video/) |
-| 🏷️ **Video-editing** | 30 | [Browse →](./video-editing/) |
-| 🏷️ **Content-creation** | 19 | [Browse →](./content-creation/) |
+| 🏷️ **Vertical-video** | 47 | [Browse →](./vertical-video/) |
+| 🏷️ **Video-editing** | 34 | [Browse →](./video-editing/) |
+| 🏷️ **Content-creation** | 20 | [Browse →](./content-creation/) |
 | 🏷️ **Templates** | 4 | [Browse →](./templates/) |
 
 ## 🔥 Top 10 by score

@@ -330,8 +330,8 @@
 | 320 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 69/100 |
 | 321 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 322 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 323 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
-| 324 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
+| 323 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
+| 324 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
 | 325 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 326 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 327 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |
@@ -423,8 +423,8 @@
 | 413 | [igniterealtime/Spark](./igniterealtime-spark.md) | ⭐ 600 | Java | 67/100 |
 | 414 | [znscli/zns](./znscli-zns.md) | ⭐ 211 | Go | 67/100 |
 | 415 | [f-droid/fdroidclient](./f-droid-fdroidclient.md) | ⭐ 2.9k | Kotlin | 67/100 |
-| 416 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
-| 417 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
+| 416 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
+| 417 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
 | 418 | [ayghri/i-have-adhd](./ayghri-i-have-adhd.md) | ⭐ 2.2k | — | 67/100 |
 | 419 | [mayuso/PNGToSVG](./mayuso-pngtosvg.md) | ⭐ 104 | Rust | 67/100 |
 | 420 | [ESCOMP/CESM](./escomp-cesm.md) | ⭐ 477 | Python | 67/100 |
