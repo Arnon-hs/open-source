@@ -1295,8 +1295,8 @@
 | 1285 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
 | 1286 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
 | 1287 | [Ships-Itself/builds](./ships-itself-builds.md) | ⭐ — | — | 46/100 |
-| 1288 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 46/100 |
-| 1289 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 46/100 |
+| 1288 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 46/100 |
+| 1289 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 46/100 |
 | 1290 | [baturyilmaz/agent-office](./baturyilmaz-agent-office.md) | ⭐ — | — | 45/100 |
 | 1291 | [copilotkit/openbot](./copilotkit-openbot.md) | ⭐ — | — | 45/100 |
 | 1292 | [peterkelly/rex](./peterkelly-rex.md) | ⭐ — | — | 45/100 |

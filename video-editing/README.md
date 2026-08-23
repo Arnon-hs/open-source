@@ -17,8 +17,8 @@
 | 7 | [Bomx/super-video-maker-skill](./bomx-super-video-maker-skill.md) | ⭐ 232 | Python | 74/100 |
 | 8 | [ybouane/VideoFlow](./ybouane-videoflow.md) | ⭐ 140 | TypeScript | 74/100 |
 | 9 | [haidrrrry/claude-remotion-skill](./haidrrrry-claude-remotion-skill.md) | ⭐ 72 | TypeScript | 73/100 |
-| 10 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
-| 11 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
+| 10 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
+| 11 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
 | 12 | [SysAdminDoc/OpenCut](./sysadmindoc-opencut.md) | ⭐ 40 | Python | 73/100 |
 | 13 | [mishkatik/infra-billing](./mishkatik-infra-billing.md) | ⭐ 65 | TypeScript | 72/100 |
 | 14 | [remyxai/FFMPerative](./remyxai-ffmperative.md) | ⭐ 203 | Python | 71/100 |
