@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32740** |
-| 📁 **Categories** | **26** |
+| 🗂️ **Total projects** | **32743** |
+| 📁 **Categories** | **27** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -19,7 +19,7 @@
 | Category | Projects | |
 |---|---|---|
 | 🤖 **AI/ML** | 9249 | [Browse →](./aiml/) |
-| 📦 **Misc** | 6709 | [Browse →](./misc/) |
+| 📦 **Misc** | 6710 | [Browse →](./misc/) |
 | 🎨 **Frontend** | 2891 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 2317 | [Browse →](./orchestration/) |
 | 🏷️ **Mcp** | 2073 | [Browse →](./mcp/) |
@@ -30,7 +30,7 @@
 | 🏷️ **Knowledgerag** | 779 | [Browse →](./knowledgerag/) |
 | 🏷️ **Database** | 687 | [Browse →](./database/) |
 | 📊 **Data** | 664 | [Browse →](./data/) |
-| 📈 **Trading** | 368 | [Browse →](./trading/) |
+| 📈 **Trading** | 369 | [Browse →](./trading/) |
 | 📱 **Mobile** | 366 | [Browse →](./mobile/) |
 | 💳 **Payments** | 365 | [Browse →](./payments/) |
 | 🚀 **DevOps & Infra** | 227 | [Browse →](./devopsinfra/) |
@@ -44,6 +44,7 @@
 | 🏷️ **Video-editing** | 34 | [Browse →](./video-editing/) |
 | 🏷️ **Content-creation** | 20 | [Browse →](./content-creation/) |
 | 🏷️ **Templates** | 4 | [Browse →](./templates/) |
+| 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 
 ## 🔥 Top 10 by score
 

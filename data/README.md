@@ -392,8 +392,8 @@
 | 382 | [Snowflake-Labs/pg_lake](./snowflake-labs-pg-lake.md) | ⭐ 1.6k | C | 55/100 |
 | 383 | [mehrantsi/feoxdb](./mehrantsi-feoxdb.md) | ⭐ 191 | Rust | 55/100 |
 | 384 | [elixir-ecto/ecto_sql](./elixir-ecto-ecto-sql.md) | ⭐ 658 | Elixir | 55/100 |
-| 385 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
-| 386 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
+| 385 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
+| 386 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
 | 387 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 402 | Emacs Lisp | 55/100 |
 | 388 | [paulstothard/helpful_commands](./paulstothard-helpful-commands.md) | ⭐ 48 | — | 55/100 |
 | 389 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 55/100 |
@@ -630,8 +630,8 @@
 | 620 | [minio/minlz](./minio-minlz.md) | ⭐ — | — | 41/100 |
 | 621 | [romeo19361/SonaCMS](./romeo19361-sonacms.md) | ⭐ — | — | 41/100 |
 | 622 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 41/100 |
-| 623 | [ch-bas/cctv-camera-database](./ch-bas-cctv-camera-database.md) | ⭐ — | — | 41/100 |
-| 624 | [kzekiue/tinyreplay](./kzekiue-tinyreplay.md) | ⭐ — | — | 41/100 |
+| 623 | [kzekiue/tinyreplay](./kzekiue-tinyreplay.md) | ⭐ — | — | 41/100 |
+| 624 | [ch-bas/cctv-camera-database](./ch-bas-cctv-camera-database.md) | ⭐ — | — | 41/100 |
 | 625 | [satmihir/grudge](./satmihir-grudge.md) | ⭐ — | — | 41/100 |
 | 626 | [columnar-tech/duckdb-adbc-client](./columnar-tech-duckdb-adbc-client.md) | ⭐ — | — | 41/100 |
 | 627 | [dekart-xyz/geosql](./dekart-xyz-geosql.md) | ⭐ — | — | 41/100 |

@@ -239,8 +239,8 @@
 | 229 | [applejag/kubectl-klock](./applejag-kubectl-klock.md) | ⭐ 348 | Go | 70/100 |
 | 230 | [ewels/rich-click](./ewels-rich-click.md) | ⭐ 816 | Python | 70/100 |
 | 231 | [mr-karan/doggo](./mr-karan-doggo.md) | ⭐ 4.4k | Go | 70/100 |
-| 232 | [BurntSushi/bttf](./burntsushi-bttf.md) | ⭐ 752 | Rust | 70/100 |
-| 233 | [graphql-hive/graphql-eslint](./graphql-hive-graphql-eslint.md) | ⭐ 832 | TypeScript | 70/100 |
+| 232 | [graphql-hive/graphql-eslint](./graphql-hive-graphql-eslint.md) | ⭐ 832 | TypeScript | 70/100 |
+| 233 | [BurntSushi/bttf](./burntsushi-bttf.md) | ⭐ 752 | Rust | 70/100 |
 | 234 | [celzero/rethink-app](./celzero-rethink-app.md) | ⭐ 5.2k | Kotlin | 70/100 |
 | 235 | [ligurio/awesome-ci](./ligurio-awesome-ci.md) | ⭐ 4.1k | — | 70/100 |
 | 236 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 247 | Java | 70/100 |
@@ -330,8 +330,8 @@
 | 320 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 69/100 |
 | 321 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 322 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 323 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
-| 324 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 323 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 324 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
 | 325 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 326 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 327 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |
@@ -397,8 +397,8 @@
 | 387 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 562 | Makefile | 68/100 |
 | 388 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 68/100 |
 | 389 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 68/100 |
-| 390 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
-| 391 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 390 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 391 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
 | 392 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 393 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 394 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -423,8 +423,8 @@
 | 413 | [igniterealtime/Spark](./igniterealtime-spark.md) | ⭐ 600 | Java | 67/100 |
 | 414 | [znscli/zns](./znscli-zns.md) | ⭐ 211 | Go | 67/100 |
 | 415 | [f-droid/fdroidclient](./f-droid-fdroidclient.md) | ⭐ 2.9k | Kotlin | 67/100 |
-| 416 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
-| 417 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
+| 416 | [sdkman/sdkman-cli-native](./sdkman-sdkman-cli-native.md) | ⭐ 351 | Rust | 67/100 |
+| 417 | [GaoSSR/best-claude-hud](./gaossr-best-claude-hud.md) | ⭐ 239 | Rust | 67/100 |
 | 418 | [ayghri/i-have-adhd](./ayghri-i-have-adhd.md) | ⭐ 2.2k | — | 67/100 |
 | 419 | [mayuso/PNGToSVG](./mayuso-pngtosvg.md) | ⭐ 104 | Rust | 67/100 |
 | 420 | [ESCOMP/CESM](./escomp-cesm.md) | ⭐ 477 | Python | 67/100 |
@@ -652,8 +652,8 @@
 | 642 | [Clipy/KeyHolder](./clipy-keyholder.md) | ⭐ 425 | Swift | 64/100 |
 | 643 | [dbcli/cli_helpers](./dbcli-cli-helpers.md) | ⭐ 104 | Python | 64/100 |
 | 644 | [Charles-0509/Grok-Register](./charles-0509-grok-register.md) | ⭐ 317 | Go | 64/100 |
-| 645 | [grobidOrg/grobid-client-python](./grobidorg-grobid-client-python.md) | ⭐ 410 | Python | 64/100 |
-| 646 | [Qalculate/libqalculate](./qalculate-libqalculate.md) | ⭐ 2.6k | C++ | 64/100 |
+| 645 | [Qalculate/libqalculate](./qalculate-libqalculate.md) | ⭐ 2.6k | C++ | 64/100 |
+| 646 | [grobidOrg/grobid-client-python](./grobidorg-grobid-client-python.md) | ⭐ 410 | Python | 64/100 |
 | 647 | [sakura-editor/sakura](./sakura-editor-sakura.md) | ⭐ 1.5k | C++ | 64/100 |
 | 648 | [weppos/whois](./weppos-whois.md) | ⭐ 1.2k | Ruby | 64/100 |
 | 649 | [mglaman/drupalorg-cli](./mglaman-drupalorg-cli.md) | ⭐ 163 | PHP | 64/100 |

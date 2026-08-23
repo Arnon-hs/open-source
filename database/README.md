@@ -124,8 +124,8 @@
 | 114 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 115 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 116 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 117 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 118 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 117 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 118 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 119 | [dolphin-emu/dolphin](./dolphin-emu-dolphin.md) | ⭐ 15.4k | C++ | 64/100 |
 | 120 | [rusqlite/rusqlite](./rusqlite-rusqlite.md) | ⭐ 4.3k | Rust | 64/100 |
 | 121 | [hathach/tinyusb](./hathach-tinyusb.md) | ⭐ 7k | C | 64/100 |
@@ -194,8 +194,8 @@
 | 184 | [recp/cglm](./recp-cglm.md) | ⭐ 3k | C | 62/100 |
 | 185 | [Alexey-T/CudaText](./alexey-t-cudatext.md) | ⭐ 3.1k | Python | 62/100 |
 | 186 | [spinnaker/spinnaker](./spinnaker-spinnaker.md) | ⭐ 9.8k | Java | 62/100 |
-| 187 | [marcelotduarte/cx_Freeze](./marcelotduarte-cx-freeze.md) | ⭐ 1.6k | Python | 62/100 |
-| 188 | [fcitx/fcitx5](./fcitx-fcitx5.md) | ⭐ 2.4k | C++ | 62/100 |
+| 187 | [fcitx/fcitx5](./fcitx-fcitx5.md) | ⭐ 2.4k | C++ | 62/100 |
+| 188 | [marcelotduarte/cx_Freeze](./marcelotduarte-cx-freeze.md) | ⭐ 1.6k | Python | 62/100 |
 | 189 | [zacharee/Bifrost](./zacharee-bifrost.md) | ⭐ 1.5k | Kotlin | 62/100 |
 | 190 | [HaxeFlixel/flixel](./haxeflixel-flixel.md) | ⭐ 2.2k | Haxe | 62/100 |
 | 191 | [optimatika/ojAlgo](./optimatika-ojalgo.md) | ⭐ 500 | Java | 62/100 |
@@ -348,8 +348,8 @@
 | 338 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 339 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 340 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 341 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
-| 342 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 341 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 342 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
 | 343 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 344 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 345 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -559,8 +559,8 @@
 | 549 | [weldsorm/welds](./weldsorm-welds.md) | ⭐ 269 | Rust | 49/100 |
 | 550 | [0xKirisame/SPiCa](./0xkirisame-spica.md) | ⭐ 103 | Rust | 49/100 |
 | 551 | [s4wave/goscript](./s4wave-goscript.md) | ⭐ — | — | 47/100 |
-| 552 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
-| 553 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
+| 552 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
+| 553 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
 | 554 | [pigontech/inkvoice](./pigontech-inkvoice.md) | ⭐ — | — | 45/100 |
 | 555 | [asg017/sqlite-jiff](./asg017-sqlite-jiff.md) | ⭐ 107 | Rust | 45/100 |
 | 556 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 45/100 |
@@ -583,8 +583,8 @@
 | 573 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 574 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 575 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 576 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 577 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 576 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 577 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 578 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 579 | [borborich/pgextassure](./borborich-pgextassure.md) | ⭐ — | — | 41/100 |
 | 580 | [SamiSalah221/3mf-to-glb](./samisalah221-3mf-to-glb.md) | ⭐ — | — | 41/100 |
@@ -634,8 +634,8 @@
 | 624 | [telemetry-sh/retry-storm-lab](./telemetry-sh-retry-storm-lab.md) | ⭐ — | — | 41/100 |
 | 625 | [helicalinsight/helicalinsight](./helicalinsight-helicalinsight.md) | ⭐ — | — | 41/100 |
 | 626 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ — | — | 41/100 |
-| 627 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
-| 628 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
+| 627 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
+| 628 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
 | 629 | [nethical6/conversation-steganography](./nethical6-conversation-steganography.md) | ⭐ — | — | 41/100 |
 | 630 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 41/100 |
 | 631 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 41/100 |
