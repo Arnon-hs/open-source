@@ -348,8 +348,8 @@
 | 338 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 339 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 340 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 341 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
-| 342 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 341 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 342 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
 | 343 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 344 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 345 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -634,8 +634,8 @@
 | 624 | [telemetry-sh/retry-storm-lab](./telemetry-sh-retry-storm-lab.md) | ⭐ — | — | 41/100 |
 | 625 | [helicalinsight/helicalinsight](./helicalinsight-helicalinsight.md) | ⭐ — | — | 41/100 |
 | 626 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ — | — | 41/100 |
-| 627 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
-| 628 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
+| 627 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
+| 628 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
 | 629 | [nethical6/conversation-steganography](./nethical6-conversation-steganography.md) | ⭐ — | — | 41/100 |
 | 630 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 41/100 |
 | 631 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 41/100 |

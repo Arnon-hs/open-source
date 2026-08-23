@@ -130,8 +130,8 @@
 | 120 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 67/100 |
 | 121 | [QuantumNous/new-api](./quantumnous-new-api.md) | ⭐ 31.4k | Go | 66/100 |
 | 122 | [TauricResearch/TradingAgents](./tauricresearch-tradingagents.md) | ⭐ 72.7k | Python | 66/100 |
-| 123 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
-| 124 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
+| 123 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
+| 124 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
 | 125 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 66/100 |
 | 126 | [8680/GOODBYEADS](./8680-goodbyeads.md) | ⭐ 1.8k | Python | 66/100 |
 | 127 | [discopy/discopy](./discopy-discopy.md) | ⭐ 430 | Python | 66/100 |
