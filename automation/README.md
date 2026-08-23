@@ -670,8 +670,8 @@
 | 660 | [asc-community/AngouriMath](./asc-community-angourimath.md) | ⭐ 824 | C# | 67/100 |
 | 661 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 67/100 |
 | 662 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 67/100 |
-| 663 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
-| 664 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
+| 663 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
+| 664 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
 | 665 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 67/100 |
 | 666 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 67/100 |
 | 667 | [robot-descriptions/robot_descriptions.py](./robot-descriptions-robot-descriptions.py.md) | ⭐ 796 | Python | 67/100 |
@@ -768,8 +768,8 @@
 | 758 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 759 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 760 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 761 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
-| 762 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
+| 761 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
+| 762 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
 | 763 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 764 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 765 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |
